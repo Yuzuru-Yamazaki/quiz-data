@@ -23,14 +23,14 @@
     },
     {
       "id": 2,
-      "question": "After the period of substantial growth, what trend did the African economy follow?",
+      "question": "After the period of substantial economic growth from 1965 to 1974, what happened to the African economy?",
       "options": [
-        "Continued growth",
-        "Downward trend",
-        "Stagnation",
-        "Rapid expansion"
+        "It continued growing",
+        "It followed a downward trend",
+        "It stagnated completely",
+        "It collapsed entirely"
       ],
-      "correctAnswer": "Downward trend"
+      "correctAnswer": "It followed a downward trend"
     },
     {
       "id": 3,
@@ -298,14 +298,14 @@
     },
     {
       "id": 27,
-      "question": "What term describes the period of substantial economic growth followed by a downward trend for Africa?",
+      "question": "What made the 1980s a difficult decade for African economies?",
       "options": [
-        "African Miracle",
-        "Growth then decline (1965-1974 growth, then downward trend)",
-        "African Renaissance",
-        "Lost Decade"
+        "Too much foreign investment",
+        "International debt and drought",
+        "Excessive industrialization",
+        "Overpopulation of cities"
       ],
-      "correctAnswer": "Growth then decline (1965-1974 growth, then downward trend)"
+      "correctAnswer": "International debt and drought"
     },
     {
       "id": 28,

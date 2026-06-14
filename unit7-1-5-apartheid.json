@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "question": "When did South Africa gain freedom from British rule (Union of South Africa)?",
+      "question": "In what year was the Union of South Africa formed, ending British rule?",
       "options": [
         "1902",
         "1910",
@@ -34,7 +34,7 @@
     },
     {
       "id": 3,
-      "question": "Which party won the 1948 election in South Africa and formalized apartheid?",
+      "question": "Which political party won the 1948 election and introduced the policy of apartheid?",
       "options": [
         "ANC",
         "National Party",
@@ -320,25 +320,25 @@
     },
     {
       "id": 29,
-      "question": "The Afrikaner National Party formalized apartheid in which decade?",
+      "question": "Under apartheid, what was the legal status of black political organizations?",
       "options": [
-        "1930s",
-        "1940s",
-        "1950s",
-        "1960s"
+        "They were allowed to operate freely",
+        "They were banned as illegal",
+        "They were given government funding",
+        "They were merged with white parties"
       ],
-      "correctAnswer": "1940s"
+      "correctAnswer": "They were banned as illegal"
     },
     {
       "id": 30,
-      "question": "Who was the first democratically elected president of South Africa?",
+      "question": "Nelson Mandela is remembered for which achievement as president?",
       "options": [
-        "F.W. de Klerk",
-        "Nelson Mandela",
-        "Albert Luthuli",
-        "Oliver Tambo"
+        "Starting a civil war",
+        "Reconciling blacks and whites in peace",
+        "Maintaining apartheid",
+        "Establishing a monarchy"
       ],
-      "correctAnswer": "Nelson Mandela"
+      "correctAnswer": "Reconciling blacks and whites in peace"
     }
   ]
 }

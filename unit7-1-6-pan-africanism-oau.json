@@ -23,14 +23,14 @@
     },
     {
       "id": 2,
-      "question": "Where did Pan-Africanism originate?",
+      "question": "Where did the Pan-African movement first originate?",
       "options": [
         "Europe",
-        "The New World (18th/19th centuries)",
+        "The New World",
         "Asia",
-        "Africa itself"
+        "Africa"
       ],
-      "correctAnswer": "The New World (18th/19th centuries)"
+      "correctAnswer": "The New World"
     },
     {
       "id": 3,

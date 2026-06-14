@@ -111,25 +111,25 @@
     },
     {
       "id": 10,
-      "question": "What French military defeat in 1954 gave impetus to North African liberation?",
+      "question": "What French military defeat in 1954 gave impetus to North African liberation movements?",
       "options": [
         "Battle of Dien Bien Phu",
         "Battle of Algiers",
         "Fall of Paris",
-        "Indo-China surrender 1954"
+        "Defeat at Waterloo"
       ],
-      "correctAnswer": "Indo-China surrender 1954"
+      "correctAnswer": "Battle of Dien Bien Phu"
     },
     {
       "id": 11,
-      "question": "French military defeat in Indo-China occurred in what year?",
+      "question": "After the Egyptian Revolution of 1952, who became Egypt's first President?",
       "options": [
-        "1950",
-        "1952",
-        "1954",
-        "1956"
+        "Gamal Abdel Nasser",
+        "Muhammad Naguib",
+        "Saad Zaghlul",
+        "King Farouk"
       ],
-      "correctAnswer": "1954"
+      "correctAnswer": "Muhammad Naguib"
     },
     {
       "id": 12,
@@ -221,25 +221,25 @@
     },
     {
       "id": 20,
-      "question": "What was the name of the organization formed by white settlers to prevent Algerian independence?",
+      "question": "What was the name of the white settler organization formed to prevent Algerian independence?",
       "options": [
-        "OAS",
-        "FLN",
-        "KANU",
-        "UGCC"
+        "Secret Armed Organization",
+        "National Liberation Front",
+        "Algerian Freedom Force",
+        "Colonial Defense League"
       ],
-      "correctAnswer": "OAS"
+      "correctAnswer": "Secret Armed Organization"
     },
     {
       "id": 21,
-      "question": "The Secret Armed Organization formed by white settlers was also known as:",
+      "question": "Which country gained independence first in North Africa?",
       "options": [
-        "FLN",
-        "MNC",
-        "OAS",
-        "ANC"
+        "Egypt",
+        "Libya",
+        "Morocco",
+        "Sudan"
       ],
-      "correctAnswer": "OAS"
+      "correctAnswer": "Libya"
     },
     {
       "id": 22,
@@ -287,25 +287,25 @@
     },
     {
       "id": 26,
-      "question": "The term 'protectorate' means:",
+      "question": "What was the Anglo-Egyptian Condominium over Sudan?",
       "options": [
-        "Full independence",
-        "A state controlled by another state while retaining some internal autonomy",
-        "A completely colonized territory",
+        "A joint British-Egyptian administration",
+        "A French colonial territory",
+        "An independent kingdom",
         "A UN trust territory"
       ],
-      "correctAnswer": "A state controlled by another state while retaining some internal autonomy"
+      "correctAnswer": "A joint British-Egyptian administration"
     },
     {
       "id": 27,
-      "question": "The Algerian war is described as bitter and guerrilla-style. The FLN was the:",
+      "question": "Which North African country's independence was confirmed by a referendum?",
       "options": [
-        "National Liberation Front of Algeria",
-        "Front for Libyan Nationalism",
-        "Federal League of North Africa",
-        "French Legion of North Africa"
+        "Egypt",
+        "Algeria",
+        "Morocco",
+        "Tunisia"
       ],
-      "correctAnswer": "National Liberation Front of Algeria"
+      "correctAnswer": "Algeria"
     },
     {
       "id": 28,
@@ -331,14 +331,14 @@
     },
     {
       "id": 30,
-      "question": "Italy's former colony Libya came under which body before independence?",
+      "question": "The 1952 Egyptian Revolution was significant because it:",
       "options": [
-        "British mandate",
-        "UN Trusteeship",
-        "French protectorate",
-        "League of Nations mandate"
+        "Ended British rule immediately",
+        "Overthrew King Farouk and intensified demands for Sudanese independence",
+        "Created a monarchy",
+        "Established a French protectorate"
       ],
-      "correctAnswer": "UN Trusteeship"
+      "correctAnswer": "Overthrew King Farouk and intensified demands for Sudanese independence"
     }
   ]
 }

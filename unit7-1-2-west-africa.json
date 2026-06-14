@@ -12,14 +12,14 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which country was the first British sub-Saharan colony to gain independence?",
+      "question": "Which territory was the first British colony in sub-Saharan Africa to gain independence?",
       "options": [
+        "Gold Coast",
         "Nigeria",
-        "Ghana",
         "Sierra Leone",
         "Gambia"
       ],
-      "correctAnswer": "Ghana"
+      "correctAnswer": "Gold Coast"
     },
     {
       "id": 2,
@@ -144,14 +144,14 @@
     },
     {
       "id": 13,
-      "question": "De Gaulle's 1958 referendum offered French colonies the choice of:",
+      "question": "In De Gaulle's 1958 referendum, what was offered to French African colonies in exchange for a YES vote?",
       "options": [
-        "Independence or continued French rule",
-        "Joining a French Community or immediate independence",
-        "Membership in the British Commonwealth",
-        "UN Trusteeship status"
+        "Joining the French Community",
+        "Full independence",
+        "UN membership",
+        "British Commonwealth membership"
       ],
-      "correctAnswer": "Joining a French Community or immediate independence"
+      "correctAnswer": "Joining the French Community"
     },
     {
       "id": 14,
@@ -309,14 +309,14 @@
     },
     {
       "id": 28,
-      "question": "Which French colony voted NO in the 1958 referendum and became independent in 1958, ahead of the others?",
+      "question": "Why did Portuguese African colonies gain independence later than British and French ones?",
       "options": [
-        "Mali",
-        "Senegal",
-        "Guinea",
-        "Niger"
+        "Portugal was weaker",
+        "Portugal considered them overseas provinces and refused decolonisation",
+        "They had no nationalist movements",
+        "The UN blocked their independence"
       ],
-      "correctAnswer": "Guinea"
+      "correctAnswer": "Portugal considered them overseas provinces and refused decolonisation"
     },
     {
       "id": 29,
@@ -331,14 +331,14 @@
     },
     {
       "id": 30,
-      "question": "Which independent country was formed from the union of French and Spanish territories?",
+      "question": "Which British West African colony became independent last?",
       "options": [
-        "Ghana",
-        "Guinea",
-        "Morocco",
-        "Nigeria"
+        "Sierra Leone in 1961",
+        "Gambia in 1965",
+        "Nigeria in 1960",
+        "Gold Coast in 1957"
       ],
-      "correctAnswer": "Morocco"
+      "correctAnswer": "Gambia in 1965"
     }
   ]
 }

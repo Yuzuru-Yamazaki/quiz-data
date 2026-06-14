@@ -123,14 +123,14 @@
     },
     {
       "id": 11,
-      "question": "Name ONE cause of poverty in Africa according to the textbook:",
+      "question": "Which of the following is a cause of poverty in Africa mentioned in the textbook?",
       "options": [
-        "Lack of natural resources",
-        "Rapid population growth, war, climate change, diseases, inadequate agricultural infrastructure",
         "Too much foreign aid",
-        "Excessive industrialization"
+        "Rapid population growth",
+        "Excessive industrialization",
+        "High literacy rates"
       ],
-      "correctAnswer": "Rapid population growth, war, climate change, diseases, inadequate agricultural infrastructure"
+      "correctAnswer": "Rapid population growth"
     },
     {
       "id": 12,
@@ -178,14 +178,14 @@
     },
     {
       "id": 16,
-      "question": "The 'second independence' in the 1990s involved the collapse of:",
+      "question": "What was the estimated death toll of the Rwandan Genocide?",
       "options": [
-        "Colonial governments",
-        "Single-party dictatorships and military rule",
-        "Democratic governments",
-        "Traditional kingdoms"
+        "200,000",
+        "500,000",
+        "800,000",
+        "1,000,000"
       ],
-      "correctAnswer": "Single-party dictatorships and military rule"
+      "correctAnswer": "800,000"
     },
     {
       "id": 17,
@@ -255,14 +255,14 @@
     },
     {
       "id": 23,
-      "question": "Colonial hangover refers to:",
+      "question": "The Biafra War was primarily caused by which factor?",
       "options": [
-        "Disease from colonial times",
-        "Stronger ties with former colonial masters",
-        "Colonial buildings",
-        "Colonial languages"
+        "Religious differences",
+        "Unequal distribution of wealth and ethnic marginalization",
+        "Border disputes with neighboring countries",
+        "French colonial interference"
       ],
-      "correctAnswer": "Stronger ties with former colonial masters"
+      "correctAnswer": "Unequal distribution of wealth and ethnic marginalization"
     },
     {
       "id": 24,
@@ -288,12 +288,12 @@
     },
     {
       "id": 26,
-      "question": "Which of these is a cause of African poverty?",
+      "question": "Which of these factors contributes to poverty in Africa?",
       "options": [
-        "Too many natural resources",
+        "Abundant agricultural infrastructure",
         "Inadequate agricultural infrastructure",
         "Low population growth",
-        "Excessive peace"
+        "Excessive peace and stability"
       ],
       "correctAnswer": "Inadequate agricultural infrastructure"
     },
@@ -310,14 +310,14 @@
     },
     {
       "id": 28,
-      "question": "Which of the following collapsed in the 1990s, leading to a 'second independence'?",
+      "question": "In 2013, how many of the world's war-related conflicts were fought in sub-Saharan Africa?",
       "options": [
-        "Colonial governments",
-        "Single-party dictatorships and military rule",
-        "Traditional monarchies",
-        "Federal systems"
+        "8 out of 20",
+        "11 out of 20",
+        "14 out of 20",
+        "17 out of 20"
       ],
-      "correctAnswer": "Single-party dictatorships and military rule"
+      "correctAnswer": "11 out of 20"
     },
     {
       "id": 29,

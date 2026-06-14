@@ -23,14 +23,14 @@
     },
     {
       "id": 2,
-      "question": "Did the OAU successes outweigh its failures?",
+      "question": "How did the OAU's record compare between successes and failures?",
       "options": [
-        "Yes, clearly",
-        "No, failures outweighed successes",
+        "Successes clearly outweighed failures",
+        "Failures outweighed successes",
         "They were equal",
-        "The OAU had no failures"
+        "The OAU had no successes"
       ],
-      "correctAnswer": "No, failures outweighed successes"
+      "correctAnswer": "Failures outweighed successes"
     },
     {
       "id": 3,
@@ -254,25 +254,25 @@
     },
     {
       "id": 23,
-      "question": "By what year was OAU reform deemed imperative?",
+      "question": "What was a key reason the OAU was replaced by the AU?",
       "options": [
-        "Late 19th century",
-        "End of the 20th century",
-        "Mid 21st century",
-        "Early 20th century"
+        "The OAU was too powerful",
+        "The OAU could not meet the challenges of globalization",
+        "The OAU had no members",
+        "The OAU achieved all its goals"
       ],
-      "correctAnswer": "End of the 20th century"
+      "correctAnswer": "The OAU could not meet the challenges of globalization"
     },
     {
       "id": 24,
-      "question": "What does AU stand for?",
+      "question": "In what year was the transition from OAU to AU finalized?",
       "options": [
-        "African Unity",
-        "African Union",
-        "Alliance of Africa",
-        "African United Nations"
+        "2000",
+        "2001",
+        "2002",
+        "2003"
       ],
-      "correctAnswer": "African Union"
+      "correctAnswer": "2002"
     },
     {
       "id": 25,
