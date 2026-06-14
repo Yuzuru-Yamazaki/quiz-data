@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which country was the first British sub-Saharan colony to gain independence? (Mnemonic: Gold Coast became Ghana 1957)",
+      "question": "Which country was the first British sub-Saharan colony to gain independence?",
       "options": ["Nigeria", "Ghana", "Sierra Leone", "Gambia"],
       "correctAnswer": "Ghana"
     },

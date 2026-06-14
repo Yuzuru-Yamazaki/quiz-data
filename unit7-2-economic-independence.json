@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "From which years did Africa experience substantial economic growth? (Mnemonic: 1965-1974, the golden decade)",
+      "question": "From which years did Africa experience substantial economic growth?",
       "options": ["1955-1964", "1960-1969", "1965-1974", "1970-1979"],
       "correctAnswer": "1965-1974"
     },
@@ -23,7 +23,7 @@
     },
     {
       "id": 4,
-      "question": "Since the 1960s, raw material exports from Africa dropped in price compared to manufactured imports by how much? (Mnemonic: 10-20x price drop for raw materials)",
+      "question": "Since the 1960s, raw material exports from Africa dropped in price compared to manufactured imports by how much?",
       "options": ["2-5 times", "5-10 times", "10-20 times", "20-50 times"],
       "correctAnswer": "10-20 times"
     },
@@ -41,7 +41,7 @@
     },
     {
       "id": 7,
-      "question": "What does REC stand for? (Mnemonic: Regional Economic Community)",
+      "question": "What does REC stand for?",
       "options": ["Regional Economic Community", "Regional European Council", "Reserve Economic Currency", "Rural Economic Cooperative"],
       "correctAnswer": "Regional Economic Community"
     },
@@ -65,7 +65,7 @@
     },
     {
       "id": 11,
-      "question": "COMESA was formed in which month and year? (Mnemonic: COMESA December 1994)",
+      "question": "COMESA was formed in which month and year?",
       "options": ["December 1994", "January 1994", "December 1993", "June 1995"],
       "correctAnswer": "December 1994"
     },

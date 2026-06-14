@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "What was the OAU's greatest success? (Mnemonic: OAU's main goal was to rid Africa of colonialism)",
+      "question": "What was the OAU's greatest success?",
       "options": ["Economic development", "Decolonization and eradicating colonialism and white minority rule", "Military integration", "Single currency"],
       "correctAnswer": "Decolonization and eradicating colonialism and white minority rule"
     },
@@ -53,7 +53,7 @@
     },
     {
       "id": 9,
-      "question": "When was the AU officially launched? (Mnemonic: AU July 2002 in Durban)",
+      "question": "When was the AU officially launched?",
       "options": ["July 2002", "May 2001", "July 2003", "June 2002"],
       "correctAnswer": "July 2002"
     },

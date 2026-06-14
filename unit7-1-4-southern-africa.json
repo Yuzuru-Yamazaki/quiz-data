@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which British colony became Zimbabwe? (Mnemonic: Southern Rhodesia = Zimbabwe)",
+      "question": "Which British colony became Zimbabwe?",
       "options": ["Northern Rhodesia", "Southern Rhodesia", "Nyasaland", "Bechuanaland"],
       "correctAnswer": "Southern Rhodesia"
     },
@@ -41,7 +41,7 @@
     },
     {
       "id": 7,
-      "question": "When did Zambia become independent? (Mnemonic: UNIP Oct 24, 1964)",
+      "question": "When did Zambia become independent?",
       "options": ["October 24, 1964", "July 6, 1964", "April 1980", "1966"],
       "correctAnswer": "October 24, 1964"
     },
@@ -113,7 +113,7 @@
     },
     {
       "id": 19,
-      "question": "When did majority rule come to Zimbabwe? (Mnemonic: Zimbabwe 1980)",
+      "question": "When did majority rule come to Zimbabwe?",
       "options": ["April 1980", "April 1979", "April 1981", "April 1982"],
       "correctAnswer": "April 1980"
     },

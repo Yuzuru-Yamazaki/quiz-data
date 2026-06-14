@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "From what year was Egypt a British protectorate? (Mnemonic: 18-82, the year Egypt fell to the British Crown)",
+      "question": "From what year was Egypt a British protectorate?",
       "options": ["1882", "1900", "1914", "1922"],
       "correctAnswer": "1882"
     },

@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "What term describes Africa's continued strong ties with former colonial masters? (Mnemonic: Colonial hangover)",
+      "question": "What term describes Africa's continued strong ties with former colonial masters?",
       "options": ["Neo-colonialism", "Colonial hangover", "Post-colonial syndrome", "Imperial legacy"],
       "correctAnswer": "Colonial hangover"
     },
@@ -41,7 +41,7 @@
     },
     {
       "id": 7,
-      "question": "The Rwandan Genocide occurred between which months and year? (Mnemonic: April-July 1994)",
+      "question": "The Rwandan Genocide occurred between which months and year?",
       "options": ["April-July 1994", "January-March 1994", "August-December 1994", "June-September 1994"],
       "correctAnswer": "April-July 1994"
     },

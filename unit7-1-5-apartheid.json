@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "In what year was the ANC (African National Congress) formed? (Mnemonic: ANC 1912, 2 years after Union of South Africa 1910)",
+      "question": "In what year was the ANC (African National Congress) formed?",
       "options": ["1910", "1912", "1914", "1918"],
       "correctAnswer": "1912"
     },
@@ -23,7 +23,7 @@
     },
     {
       "id": 4,
-      "question": "What does the term 'apartheid' mean? (Mnemonic: Apart = separate, heid = hood — separate development)",
+      "question": "What does the term 'apartheid' mean?",
       "options": ["Equal rights", "Separate development and white domination", "Multi-racial democracy", "Unity in diversity"],
       "correctAnswer": "Separate development and white domination"
     },
@@ -47,7 +47,7 @@
     },
     {
       "id": 8,
-      "question": "The Sharpeville massacre occurred on: (Mnemonic: Sharpeville March 21, 1960)",
+      "question": "The Sharpeville massacre occurred on:",
       "options": ["March 21, 1960", "June 16, 1960", "March 21, 1958", "February 11, 1960"],
       "correctAnswer": "March 21, 1960"
     },

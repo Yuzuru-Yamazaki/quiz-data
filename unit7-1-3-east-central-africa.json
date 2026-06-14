@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "In what year did Tanganyika become independent? (Mnemonic: Tanganyika 1961, Tanzania 1964)",
+      "question": "In what year did Tanganyika become independent?",
       "options": ["1961", "1962", "1963", "1964"],
       "correctAnswer": "1961"
     },
@@ -125,7 +125,7 @@
     },
     {
       "id": 21,
-      "question": "When did the Congo become independent? (Mnemonic: Congo June 30, 1960)",
+      "question": "When did the Congo become independent?",
       "options": ["June 30, 1960", "January 1, 1960", "May 30, 1960", "July 1, 1960"],
       "correctAnswer": "June 30, 1960"
     },
