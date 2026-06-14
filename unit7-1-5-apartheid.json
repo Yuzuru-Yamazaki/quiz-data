@@ -144,25 +144,25 @@
     },
     {
       "id": 13,
-      "question": "From what year until 1990 was Nelson Mandela imprisoned?",
+      "question": "In what year was Nelson Mandela released from prison?",
       "options": [
-        "1960-1990",
-        "1962-1990",
-        "1964-1990",
-        "1958-1990"
+        "1988",
+        "1989",
+        "1990",
+        "1991"
       ],
-      "correctAnswer": "1964-1990"
+      "correctAnswer": "1990"
     },
     {
       "id": 14,
-      "question": "In what year was Nelson Mandela released from prison?",
+      "question": "What did the ANC crystallize its demands into?",
       "options": [
-        "1989",
-        "1990",
-        "1991",
-        "1992"
+        "One man, one vote",
+        "Equal pay for all",
+        "Separate development",
+        "Independent homelands"
       ],
-      "correctAnswer": "1990"
+      "correctAnswer": "One man, one vote"
     },
     {
       "id": 15,

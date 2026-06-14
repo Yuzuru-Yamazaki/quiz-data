@@ -178,14 +178,14 @@
     },
     {
       "id": 16,
-      "question": "What was the estimated death toll of the Rwandan Genocide?",
+      "question": "What is the estimated percentage of global HIV/AIDS cases found in sub-Saharan Africa?",
       "options": [
-        "200,000",
-        "500,000",
-        "800,000",
-        "1,000,000"
+        "About 25%",
+        "About 50%",
+        "About 75%",
+        "About 90%"
       ],
-      "correctAnswer": "800,000"
+      "correctAnswer": "About 75%"
     },
     {
       "id": 17,
@@ -310,25 +310,25 @@
     },
     {
       "id": 28,
-      "question": "In 2013, how many of the world's war-related conflicts were fought in sub-Saharan Africa?",
+      "question": "How did the textbook describe the 1980s for Africa?",
       "options": [
-        "8 out of 20",
-        "11 out of 20",
-        "14 out of 20",
-        "17 out of 20"
+        "The decade of prosperity",
+        "The lost decade",
+        "The golden age",
+        "The era of peace"
       ],
-      "correctAnswer": "11 out of 20"
+      "correctAnswer": "The lost decade"
     },
     {
       "id": 29,
-      "question": "Approximately what percentage of global conflicts in 2013 were in sub-Saharan Africa?",
+      "question": "What colonial power maintained a strong neo-colonial relationship with its former sub-Saharan African colonies?",
       "options": [
-        "11 out of 20",
-        "5 out of 20",
-        "15 out of 20",
-        "20 out of 20"
+        "Britain",
+        "France",
+        "Portugal",
+        "Belgium"
       ],
-      "correctAnswer": "11 out of 20"
+      "correctAnswer": "France"
     },
     {
       "id": 30,

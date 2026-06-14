@@ -254,14 +254,14 @@
     },
     {
       "id": 23,
-      "question": "The Lagos Plan of Action was adopted by which organization?",
+      "question": "What important agreement for African development was adopted in 1980?",
       "options": [
-        "United Nations",
-        "OAU",
-        "World Bank",
-        "African Union"
+        "Abuja Treaty",
+        "Lagos Plan of Action",
+        "Banjul Charter",
+        "Addis Ababa Agreement"
       ],
-      "correctAnswer": "OAU"
+      "correctAnswer": "Lagos Plan of Action"
     },
     {
       "id": 24,

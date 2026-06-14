@@ -232,14 +232,14 @@
     },
     {
       "id": 21,
-      "question": "Which country gained independence first in North Africa?",
+      "question": "In what year did Britain declare Egyptian independence?",
       "options": [
-        "Egypt",
-        "Libya",
-        "Morocco",
-        "Sudan"
+        "1914",
+        "1922",
+        "1936",
+        "1952"
       ],
-      "correctAnswer": "Libya"
+      "correctAnswer": "1922"
     },
     {
       "id": 22,
@@ -265,14 +265,14 @@
     },
     {
       "id": 24,
-      "question": "According to the textbook exercise, which North African country is listed as the first to gain independence?",
+      "question": "Which North African country was the first to achieve independence?",
       "options": [
         "Egypt",
         "Libya",
         "Sudan",
         "Morocco"
       ],
-      "correctAnswer": "Libya"
+      "correctAnswer": "Egypt"
     },
     {
       "id": 25,
