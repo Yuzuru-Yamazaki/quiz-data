@@ -1,186 +1,343 @@
 {
   "title": "7.1.1 North Africa Liberation",
   "description": "30 questions covering the liberation movements and independence of North African countries from colonial rule",
-  "tags": ["history", "grade10", "africa", "north-africa", "liberation", "decolonization"],
+  "tags": [
+    "history",
+    "grade10",
+    "africa",
+    "north-africa",
+    "liberation",
+    "decolonization"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "From what year was Egypt a British protectorate?",
-      "options": ["1882", "1900", "1914", "1922"],
+      "options": [
+        "1882",
+        "1900",
+        "1914",
+        "1922"
+      ],
       "correctAnswer": "1882"
     },
     {
       "id": 2,
       "question": "Who led the Egyptian delegation demanding an end to the British protectorate?",
-      "options": ["Gamal Abdel Nasser", "Muhammad Naguib", "Saad Zaghlul", "King Farouk"],
+      "options": [
+        "Gamal Abdel Nasser",
+        "Muhammad Naguib",
+        "Saad Zaghlul",
+        "King Farouk"
+      ],
       "correctAnswer": "Saad Zaghlul"
     },
     {
       "id": 3,
       "question": "On what date did Britain issue a unilateral declaration of Egyptian independence?",
-      "options": ["March 2, 1956", "December 24, 1951", "February 22, 1922", "July 1, 1962"],
+      "options": [
+        "March 2, 1956",
+        "December 24, 1951",
+        "February 22, 1922",
+        "July 1, 1962"
+      ],
       "correctAnswer": "February 22, 1922"
     },
     {
       "id": 4,
-      "question": "When did Libya become independent? (Hint: Christmas Eve 1951)",
-      "options": ["December 24, 1951", "January 1, 1956", "March 2, 1956", "July 1, 1962"],
+      "question": "When did Libya become independent?",
+      "options": [
+        "December 24, 1951",
+        "January 1, 1956",
+        "March 2, 1956",
+        "July 1, 1962"
+      ],
       "correctAnswer": "December 24, 1951"
     },
     {
       "id": 5,
       "question": "Libya gained independence under what arrangement?",
-      "options": ["French mandate", "British protectorate", "UN Trusteeship from Italy", "Anglo-Egyptian Condominium"],
+      "options": [
+        "French mandate",
+        "British protectorate",
+        "UN Trusteeship from Italy",
+        "Anglo-Egyptian Condominium"
+      ],
       "correctAnswer": "UN Trusteeship from Italy"
     },
     {
       "id": 6,
       "question": "The 1952 Egyptian Revolution overthrew which monarch?",
-      "options": ["King Farouk", "King Fuad", "Sultan Mohammed V", "King Idris"],
+      "options": [
+        "King Farouk",
+        "King Fuad",
+        "Sultan Mohammed V",
+        "King Idris"
+      ],
       "correctAnswer": "King Farouk"
     },
     {
       "id": 7,
       "question": "The 1952 Egyptian Revolution was led by which two individuals?",
-      "options": ["Sadat and Mubarak", "Muhammad Naguib and Gamal Abdel Nasser", "Saad Zaghlul and Nasser", "Naguib and King Farouk"],
+      "options": [
+        "Sadat and Mubarak",
+        "Muhammad Naguib and Gamal Abdel Nasser",
+        "Saad Zaghlul and Nasser",
+        "Naguib and King Farouk"
+      ],
       "correctAnswer": "Muhammad Naguib and Gamal Abdel Nasser"
     },
     {
       "id": 8,
-      "question": "When did Sudan become independent? (Think: New Year's Day 1956)",
-      "options": ["January 1, 1956", "December 24, 1951", "March 2, 1956", "July 1, 1962"],
+      "question": "When did Sudan become independent?",
+      "options": [
+        "January 1, 1956",
+        "December 24, 1951",
+        "March 2, 1956",
+        "July 1, 1962"
+      ],
       "correctAnswer": "January 1, 1956"
     },
     {
       "id": 9,
       "question": "Sudan's independence ended which joint administration?",
-      "options": ["French-British Condominium", "Anglo-Egyptian Condominium", "Italian-Egyptian Condominium", "Belgian-British Condominium"],
+      "options": [
+        "French-British Condominium",
+        "Anglo-Egyptian Condominium",
+        "Italian-Egyptian Condominium",
+        "Belgian-British Condominium"
+      ],
       "correctAnswer": "Anglo-Egyptian Condominium"
     },
     {
       "id": 10,
       "question": "What French military defeat in 1954 gave impetus to North African liberation?",
-      "options": ["Battle of Dien Bien Phu", "Battle of Algiers", "Fall of Paris", "Indo-China surrender 1954"],
+      "options": [
+        "Battle of Dien Bien Phu",
+        "Battle of Algiers",
+        "Fall of Paris",
+        "Indo-China surrender 1954"
+      ],
       "correctAnswer": "Indo-China surrender 1954"
     },
     {
       "id": 11,
       "question": "French military defeat in Indo-China occurred in what year?",
-      "options": ["1950", "1952", "1954", "1956"],
+      "options": [
+        "1950",
+        "1952",
+        "1954",
+        "1956"
+      ],
       "correctAnswer": "1954"
     },
     {
       "id": 12,
-      "question": "When did Morocco become independent? (Hint: March 2, 1956)",
-      "options": ["March 2, 1956", "July 1, 1962", "December 24, 1951", "January 1, 1956"],
+      "question": "When did Morocco become independent?",
+      "options": [
+        "March 2, 1956",
+        "July 1, 1962",
+        "December 24, 1951",
+        "January 1, 1956"
+      ],
       "correctAnswer": "March 2, 1956"
     },
     {
       "id": 13,
       "question": "Who led Morocco to independence?",
-      "options": ["Habib Bourguiba", "Sultan Mohammed V", "Ahmed Ben Bella", "Saad Zaghlul"],
+      "options": [
+        "Habib Bourguiba",
+        "Sultan Mohammed V",
+        "Ahmed Ben Bella",
+        "Saad Zaghlul"
+      ],
       "correctAnswer": "Sultan Mohammed V"
     },
     {
       "id": 14,
       "question": "What happened to French and Spanish Morocco after independence?",
-      "options": ["They remained separate states", "They were reunited", "Spain kept its zone", "They became a UN trusteeship"],
+      "options": [
+        "They remained separate states",
+        "They were reunited",
+        "Spain kept its zone",
+        "They became a UN trusteeship"
+      ],
       "correctAnswer": "They were reunited"
     },
     {
       "id": 15,
       "question": "When did Tunisia become independent?",
-      "options": ["1954", "1955", "1956", "1957"],
+      "options": [
+        "1954",
+        "1955",
+        "1956",
+        "1957"
+      ],
       "correctAnswer": "1956"
     },
     {
       "id": 16,
       "question": "Who led Tunisia to independence and what party did he lead?",
-      "options": ["Ahmed Ben Bella, FLN", "Habib Bourguiba, Neo-Destour Party", "Sultan Mohammed V, Istiqlal", "Saad Zaghlul, Wafd Party"],
+      "options": [
+        "Ahmed Ben Bella, FLN",
+        "Habib Bourguiba, Neo-Destour Party",
+        "Sultan Mohammed V, Istiqlal",
+        "Saad Zaghlul, Wafd Party"
+      ],
       "correctAnswer": "Habib Bourguiba, Neo-Destour Party"
     },
     {
       "id": 17,
       "question": "The Algerian guerrilla war against France lasted from:",
-      "options": ["1954-1962", "1950-1958", "1956-1964", "1952-1960"],
+      "options": [
+        "1954-1962",
+        "1950-1958",
+        "1956-1964",
+        "1952-1960"
+      ],
       "correctAnswer": "1954-1962"
     },
     {
       "id": 18,
       "question": "Which party led the Algerian liberation struggle?",
-      "options": ["Neo-Destour Party", "CPP", "FLN (National Liberation Front of Algeria)", "Wafd Party"],
+      "options": [
+        "Neo-Destour Party",
+        "CPP",
+        "FLN (National Liberation Front of Algeria)",
+        "Wafd Party"
+      ],
       "correctAnswer": "FLN (National Liberation Front of Algeria)"
     },
     {
       "id": 19,
       "question": "Who was the leader of the FLN in Algeria?",
-      "options": ["Habib Bourguiba", "Ahmed Ben Bella", "Muhammad Naguib", "Sultan Mohammed V"],
+      "options": [
+        "Habib Bourguiba",
+        "Ahmed Ben Bella",
+        "Muhammad Naguib",
+        "Sultan Mohammed V"
+      ],
       "correctAnswer": "Ahmed Ben Bella"
     },
     {
       "id": 20,
       "question": "What was the name of the organization formed by white settlers to prevent Algerian independence?",
-      "options": ["OAS", "FLN", "KANU", "UGCC"],
+      "options": [
+        "OAS",
+        "FLN",
+        "KANU",
+        "UGCC"
+      ],
       "correctAnswer": "OAS"
     },
     {
       "id": 21,
       "question": "The Secret Armed Organization formed by white settlers was also known as:",
-      "options": ["FLN", "MNC", "OAS", "ANC"],
+      "options": [
+        "FLN",
+        "MNC",
+        "OAS",
+        "ANC"
+      ],
       "correctAnswer": "OAS"
     },
     {
       "id": 22,
-      "question": "When did Algeria become independent? (Hint: July 1, 1962)",
-      "options": ["July 1, 1962", "March 2, 1956", "January 1, 1956", "December 24, 1951"],
+      "question": "When did Algeria become independent?",
+      "options": [
+        "July 1, 1962",
+        "March 2, 1956",
+        "January 1, 1956",
+        "December 24, 1951"
+      ],
       "correctAnswer": "July 1, 1962"
     },
     {
       "id": 23,
       "question": "Algerian independence was confirmed by what means?",
-      "options": ["UN resolution", "Treaty with France", "Referendum", "Military victory"],
+      "options": [
+        "UN resolution",
+        "Treaty with France",
+        "Referendum",
+        "Military victory"
+      ],
       "correctAnswer": "Referendum"
     },
     {
       "id": 24,
       "question": "Which North African country became independent first chronologically?",
-      "options": ["Egypt", "Libya", "Sudan", "Morocco"],
+      "options": [
+        "Egypt",
+        "Libya",
+        "Sudan",
+        "Morocco"
+      ],
       "correctAnswer": "Libya"
     },
     {
       "id": 25,
       "question": "Which North African country became independent last chronologically?",
-      "options": ["Egypt", "Tunisia", "Algeria", "Morocco"],
+      "options": [
+        "Egypt",
+        "Tunisia",
+        "Algeria",
+        "Morocco"
+      ],
       "correctAnswer": "Algeria"
     },
     {
       "id": 26,
       "question": "The term 'protectorate' means:",
-      "options": ["Full independence", "A state controlled by another state while retaining some internal autonomy", "A completely colonized territory", "A UN trust territory"],
+      "options": [
+        "Full independence",
+        "A state controlled by another state while retaining some internal autonomy",
+        "A completely colonized territory",
+        "A UN trust territory"
+      ],
       "correctAnswer": "A state controlled by another state while retaining some internal autonomy"
     },
     {
       "id": 27,
       "question": "The Algerian war is described as bitter and guerrilla-style. The FLN was the:",
-      "options": ["National Liberation Front of Algeria", "Front for Libyan Nationalism", "Federal League of North Africa", "French Legion of North Africa"],
+      "options": [
+        "National Liberation Front of Algeria",
+        "Front for Libyan Nationalism",
+        "Federal League of North Africa",
+        "French Legion of North Africa"
+      ],
       "correctAnswer": "National Liberation Front of Algeria"
     },
     {
       "id": 28,
       "question": "Sultan Mohammed V led which country to independence?",
-      "options": ["Tunisia", "Algeria", "Morocco", "Libya"],
+      "options": [
+        "Tunisia",
+        "Algeria",
+        "Morocco",
+        "Libya"
+      ],
       "correctAnswer": "Morocco"
     },
     {
       "id": 29,
       "question": "Britain's declaration of Egyptian independence in 1922 was described as:",
-      "options": ["A negotiated treaty", "Unilateral", "A UN mandate", "A conditional grant"],
+      "options": [
+        "A negotiated treaty",
+        "Unilateral",
+        "A UN mandate",
+        "A conditional grant"
+      ],
       "correctAnswer": "Unilateral"
     },
     {
       "id": 30,
       "question": "Italy's former colony Libya came under which body before independence?",
-      "options": ["British mandate", "UN Trusteeship", "French protectorate", "League of Nations mandate"],
+      "options": [
+        "British mandate",
+        "UN Trusteeship",
+        "French protectorate",
+        "League of Nations mandate"
+      ],
       "correctAnswer": "UN Trusteeship"
     }
   ]
