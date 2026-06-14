@@ -1,6 +1,7 @@
 {
   "title": "Mathematics",
   "description": "Arithmetic, geometry, and number theory — how sharp are your math skills?",
+  "tags": ["#mathematics", "#arithmetic", "#geometry", "#numbers"],
   "questions": [
     {
       "id": 1,

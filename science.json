@@ -1,6 +1,7 @@
 {
   "title": "Science",
   "description": "From chemistry to astronomy — put your science knowledge to the test.",
+  "tags": ["#science", "#chemistry", "#astronomy", "#biology", "#physics"],
   "questions": [
     {
       "id": 1,

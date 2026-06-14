@@ -1,6 +1,7 @@
 {
   "title": "Geography",
   "description": "Test your knowledge of world geography — capitals, continents, oceans and more.",
+  "tags": ["#geography", "#capitals", "#continents", "#oceans"],
   "questions": [
     {
       "id": 1,

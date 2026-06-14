@@ -1,6 +1,7 @@
 {
   "title": "History",
   "description": "From ancient civilizations to modern events — how well do you know the past?",
+  "tags": ["#history", "#ancient", "#modern", "#wars", "#civilizations"],
   "questions": [
     {
       "id": 1,
