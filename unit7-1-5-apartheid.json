@@ -199,14 +199,14 @@
     },
     {
       "id": 18,
-      "question": "Which leader led the ANC passive resistance in 1952?",
+      "question": "Which political party was banned alongside the ANC by the South African government?",
       "options": [
-        "Steve Biko",
-        "Walter Sisulu",
-        "Albert Luthuli",
-        "Desmond Tutu"
+        "All black political organizations were banned",
+        "Only the ANC was banned",
+        "Only the PAC was banned",
+        "No organizations were banned"
       ],
-      "correctAnswer": "Albert Luthuli"
+      "correctAnswer": "All black political organizations were banned"
     },
     {
       "id": 19,
