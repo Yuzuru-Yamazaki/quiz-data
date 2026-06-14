@@ -1,62 +1,66 @@
-[
-  {
-    "id": 1,
-    "question": "In what year did World War II end?",
-    "options": ["1943", "1944", "1945", "1946"],
-    "correctAnswer": "1945"
-  },
-  {
-    "id": 2,
-    "question": "Who was the first President of the United States?",
-    "options": ["Adams", "Jefferson", "Washington", "Franklin"],
-    "correctAnswer": "Washington"
-  },
-  {
-    "id": 3,
-    "question": "Which ancient civilization built Machu Picchu?",
-    "options": ["Aztec", "Maya", "Inca", "Olmec"],
-    "correctAnswer": "Inca"
-  },
-  {
-    "id": 4,
-    "question": "The Berlin Wall fell in which year?",
-    "options": ["1987", "1988", "1989", "1990"],
-    "correctAnswer": "1989"
-  },
-  {
-    "id": 5,
-    "question": "Who discovered penicillin?",
-    "options": ["Pasteur", "Fleming", "Koch", "Salk"],
-    "correctAnswer": "Fleming"
-  },
-  {
-    "id": 6,
-    "question": "Which empire was ruled by Genghis Khan?",
-    "options": ["Ottoman", "Roman", "Mongol", "Persian"],
-    "correctAnswer": "Mongol"
-  },
-  {
-    "id": 7,
-    "question": "What year did the Titanic sink?",
-    "options": ["1910", "1911", "1912", "1913"],
-    "correctAnswer": "1912"
-  },
-  {
-    "id": 8,
-    "question": "Who painted the Mona Lisa?",
-    "options": ["Michelangelo", "Raphael", "Da Vinci", "Donatello"],
-    "correctAnswer": "Da Vinci"
-  },
-  {
-    "id": 9,
-    "question": "The French Revolution began in which year?",
-    "options": ["1776", "1789", "1799", "1804"],
-    "correctAnswer": "1789"
-  },
-  {
-    "id": 10,
-    "question": "Which civilization built the Colosseum?",
-    "options": ["Greek", "Egyptian", "Roman", "Persian"],
-    "correctAnswer": "Roman"
-  }
-]
+{
+  "title": "History",
+  "description": "From ancient civilizations to modern events — how well do you know the past?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In what year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correctAnswer": "1945"
+    },
+    {
+      "id": 2,
+      "question": "Who was the first President of the United States?",
+      "options": ["Adams", "Jefferson", "Washington", "Franklin"],
+      "correctAnswer": "Washington"
+    },
+    {
+      "id": 3,
+      "question": "Which ancient civilization built Machu Picchu?",
+      "options": ["Aztec", "Maya", "Inca", "Olmec"],
+      "correctAnswer": "Inca"
+    },
+    {
+      "id": 4,
+      "question": "The Berlin Wall fell in which year?",
+      "options": ["1987", "1988", "1989", "1990"],
+      "correctAnswer": "1989"
+    },
+    {
+      "id": 5,
+      "question": "Who discovered penicillin?",
+      "options": ["Pasteur", "Fleming", "Koch", "Salk"],
+      "correctAnswer": "Fleming"
+    },
+    {
+      "id": 6,
+      "question": "Which empire was ruled by Genghis Khan?",
+      "options": ["Ottoman", "Roman", "Mongol", "Persian"],
+      "correctAnswer": "Mongol"
+    },
+    {
+      "id": 7,
+      "question": "What year did the Titanic sink?",
+      "options": ["1910", "1911", "1912", "1913"],
+      "correctAnswer": "1912"
+    },
+    {
+      "id": 8,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Michelangelo", "Raphael", "Da Vinci", "Donatello"],
+      "correctAnswer": "Da Vinci"
+    },
+    {
+      "id": 9,
+      "question": "The French Revolution began in which year?",
+      "options": ["1776", "1789", "1799", "1804"],
+      "correctAnswer": "1789"
+    },
+    {
+      "id": 10,
+      "question": "Which civilization built the Colosseum?",
+      "options": ["Greek", "Egyptian", "Roman", "Persian"],
+      "correctAnswer": "Roman"
+    }
+  ]
+}
