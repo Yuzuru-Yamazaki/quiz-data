@@ -133,12 +133,12 @@
     },
     {
       "id": 12,
-      "question": "Despite its successes, the OAU could not bring which of the following?",
+      "question": "What was a major area where the OAU failed?",
       "options": [
-        "Decolonization",
-        "Independence to many countries",
+        "Decolonisation",
+        "Ending white minority rule",
         "Peace, prosperity, security, and stability",
-        "End to apartheid"
+        "International cooperation"
       ],
       "correctAnswer": "Peace, prosperity, security, and stability"
     },
@@ -188,14 +188,14 @@
     },
     {
       "id": 17,
-      "question": "Which of these is NOT a success of the OAU?",
+      "question": "Which of these was a genuine success of the OAU?",
       "options": [
-        "Ending colonialism",
-        "Ending white minority rule",
         "Bringing economic prosperity to Africa",
-        "Eradicating apartheid"
+        "Ensuring political stability",
+        "Ending colonialism and white minority rule",
+        "Promoting industrial development"
       ],
-      "correctAnswer": "Bringing economic prosperity to Africa"
+      "correctAnswer": "Ending colonialism and white minority rule"
     },
     {
       "id": 18,

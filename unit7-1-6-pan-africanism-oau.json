@@ -309,14 +309,14 @@
     },
     {
       "id": 28,
-      "question": "The Monrovia Group was named after which city?",
+      "question": "Which two countries played a neutral role in bridging the Casablanca and Monrovia groups?",
       "options": [
-        "Cairo",
-        "Addis Ababa",
-        "Monrovia",
-        "Accra"
+        "Ghana and Guinea",
+        "Ethiopia and Liberia",
+        "Nigeria and Ghana",
+        "Egypt and Algeria"
       ],
-      "correctAnswer": "Monrovia"
+      "correctAnswer": "Ethiopia and Liberia"
     },
     {
       "id": 29,
