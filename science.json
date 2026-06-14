@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correctAnswer": "Au"
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": 3,
+    "question": "What is the speed of light approximately?",
+    "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "correctAnswer": "300,000 km/s"
+  },
+  {
+    "id": 4,
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "id": 5,
+    "question": "What is the hardest natural substance?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "id": 6,
+    "question": "How many bones are in the adult human body?",
+    "options": ["186", "206", "256", "306"],
+    "correctAnswer": "206"
+  },
+  {
+    "id": 7,
+    "question": "What element is needed for combustion?",
+    "options": ["Nitrogen", "Hydrogen", "Oxygen", "Carbon"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": 8,
+    "question": "Which blood type is the universal donor?",
+    "options": ["A+", "AB+", "O-", "B-"],
+    "correctAnswer": "O-"
+  },
+  {
+    "id": 9,
+    "question": "What is the atomic number of Carbon?",
+    "options": ["4", "6", "8", "12"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": 10,
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correctAnswer": "Saturn"
+  }
+]
