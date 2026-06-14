@@ -1,1 +1,187 @@
-{"title":"OAU Successes and Failures","description":"Quiz on the record of the OAU, its achievements in decolonisation, and its failures in bringing peace and prosperity.","tags":["#history","#africa","#oau"],"questions":[{"id":1,"question":"What was the OAU's greatest success during its existence?","options":["Economic growth","Eradicating colonialism and white minority rule","Environmental protection","Industrialisation"],"correctAnswer":"Eradicating colonialism and white minority rule"},{"id":2,"question":"What was the major failing of the OAU?","options":["It could not bring peace, prosperity, security, and stability to Africa","It failed to promote any cooperation","It did not support decolonisation","It was too powerful"],"correctAnswer":"It could not bring peace, prosperity, security, and stability to Africa"},{"id":3,"question":"Why was the OAU considered incapable of meeting the challenges of globalisation?","options":["It had too many members","Its powers were too weak and its influence inadequate","It had no funding","It was dominated by European powers"],"correctAnswer":"Its powers were too weak and its influence inadequate"},{"id":4,"question":"By what year did African leaders decide comprehensive reform was imperative?","options":["The mid-1980s","The end of the twentieth century","The 1970s","The 1990s"],"correctAnswer":"The end of the twentieth century"},{"id":5,"question":"What new organisation replaced the OAU?","options":["African Union","African Economic Community","East African Community","African Development Bank"],"correctAnswer":"African Union"},{"id":6,"question":"The OAU's Assembly of Heads of State and Government met how often?","options":["Once a month","Once a year","Every five years","Twice a year"],"correctAnswer":"Once a year"},{"id":7,"question":"Which OAU organ was responsible for preparing the assembly's agenda?","options":["General Secretariat","Council of Ministers","Assembly of Heads of State","African Court"],"correctAnswer":"Council of Ministers"},{"id":8,"question":"Who headed the General Secretariat of the OAU?","options":["A secretary-general appointed by the Assembly","An elected president","The chairman of the Council of Ministers","The head of state of the host country"],"correctAnswer":"A secretary-general appointed by the Assembly"},{"id":9,"question":"Which of the following was NOT a problem the OAU failed to adequately address?","options":["Internal and external conflicts","Poor governance","Human rights abuses","Trade between Africa and Asia"],"correctAnswer":"Trade between Africa and Asia"},{"id":10,"question":"What year was the OAU dissolved and replaced?","options":["2000","2002","2001","2003"],"correctAnswer":"2002"}]}
+{
+  "title": "7.1.7 OAU Successes and Failures",
+  "description": "30 questions covering the achievements and shortcomings of the OAU and the transition to the AU",
+  "tags": ["history", "grade10", "africa", "OAU", "AU", "decolonization"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What was the OAU's greatest success? (Mnemonic: OAU's main goal was to rid Africa of colonialism)",
+      "options": ["Economic development", "Decolonization and eradicating colonialism and white minority rule", "Military integration", "Single currency"],
+      "correctAnswer": "Decolonization and eradicating colonialism and white minority rule"
+    },
+    {
+      "id": 2,
+      "question": "Did the OAU successes outweigh its failures?",
+      "options": ["Yes, clearly", "No, failures outweighed successes", "They were equal", "The OAU had no failures"],
+      "correctAnswer": "No, failures outweighed successes"
+    },
+    {
+      "id": 3,
+      "question": "What was a major failure of the OAU?",
+      "options": ["It couldn't bring peace, prosperity, security, and stability", "It failed to achieve decolonization", "It caused wars", "It had no members"],
+      "correctAnswer": "It couldn't bring peace, prosperity, security, and stability"
+    },
+    {
+      "id": 4,
+      "question": "The OAU's powers were described as:",
+      "options": ["Very strong", "Too weak and influence inadequate", "Dictatorial", "Absolute"],
+      "correctAnswer": "Too weak and influence inadequate"
+    },
+    {
+      "id": 5,
+      "question": "Which areas did the OAU have inadequate influence over? (Pick the correct set)",
+      "options": ["Trade and agriculture", "Conflicts, poor governance, and human rights abuses", "Education and health", "Infrastructure and transportation"],
+      "correctAnswer": "Conflicts, poor governance, and human rights abuses"
+    },
+    {
+      "id": 6,
+      "question": "What challenge was the OAU incapable of meeting?",
+      "options": ["Colonialism", "Globalization", "Apartheid", "Trade negotiations"],
+      "correctAnswer": "Globalization"
+    },
+    {
+      "id": 7,
+      "question": "By the end of which century was OAU reform deemed imperative?",
+      "options": ["19th century", "20th century", "21st century", "18th century"],
+      "correctAnswer": "20th century"
+    },
+    {
+      "id": 8,
+      "question": "What organization replaced the OAU?",
+      "options": ["United Nations", "African Union (AU)", "ECOWAS", "Commonwealth"],
+      "correctAnswer": "African Union (AU)"
+    },
+    {
+      "id": 9,
+      "question": "When was the AU officially launched? (Mnemonic: AU July 2002 in Durban)",
+      "options": ["July 2002", "May 2001", "July 2003", "June 2002"],
+      "correctAnswer": "July 2002"
+    },
+    {
+      "id": 10,
+      "question": "Where was the AU officially launched?",
+      "options": ["Addis Ababa, Ethiopia", "Durban, South Africa", "Accra, Ghana", "Abuja, Nigeria"],
+      "correctAnswer": "Durban, South Africa"
+    },
+    {
+      "id": 11,
+      "question": "The OAU's greatest success was in the area of:",
+      "options": ["Economic prosperity", "Security and peace", "Decolonization", "Human rights enforcement"],
+      "correctAnswer": "Decolonization"
+    },
+    {
+      "id": 12,
+      "question": "Despite its successes, the OAU could not bring which of the following?",
+      "options": ["Decolonization", "Independence to many countries", "Peace, prosperity, security, and stability", "End to apartheid"],
+      "correctAnswer": "Peace, prosperity, security, and stability"
+    },
+    {
+      "id": 13,
+      "question": "The OAU was described as having powers that were:",
+      "options": ["Too weak", "Too strong", "Appropriate", "Expanding"],
+      "correctAnswer": "Too weak"
+    },
+    {
+      "id": 14,
+      "question": "The failure of the OAU to manage conflicts led to what conclusion?",
+      "options": ["The OAU was a perfect organization", "Reform was imperative", "No changes were needed", "The OAU should expand its powers slowly"],
+      "correctAnswer": "Reform was imperative"
+    },
+    {
+      "id": 15,
+      "question": "The OAU was primarily unable to address challenges related to:",
+      "options": ["Colonial occupation", "Globalization, good governance, and human rights", "Liberation struggles", "Boundary demarcation"],
+      "correctAnswer": "Globalization, good governance, and human rights"
+    },
+    {
+      "id": 16,
+      "question": "The OAU failed to bring peace to African countries due to:",
+      "options": ["Lack of UN support", "Too weak powers and inadequate influence", "Lack of funds", "European interference"],
+      "correctAnswer": "Too weak powers and inadequate influence"
+    },
+    {
+      "id": 17,
+      "question": "Which of these is NOT a success of the OAU?",
+      "options": ["Ending colonialism", "Ending white minority rule", "Bringing economic prosperity to Africa", "Eradicating apartheid"],
+      "correctAnswer": "Bringing economic prosperity to Africa"
+    },
+    {
+      "id": 18,
+      "question": "Reform of the OAU became imperative because:",
+      "options": ["It was too powerful", "Failures outweighed successes and it couldn't meet globalization challenges", "It had too many members", "It was too expensive"],
+      "correctAnswer": "Failures outweighed successes and it couldn't meet globalization challenges"
+    },
+    {
+      "id": 19,
+      "question": "The African Union was launched in which country?",
+      "options": ["Ethiopia", "Ghana", "South Africa", "Nigeria"],
+      "correctAnswer": "South Africa"
+    },
+    {
+      "id": 20,
+      "question": "The transition from OAU to AU took place in which year?",
+      "options": ["2001", "2002", "2003", "2004"],
+      "correctAnswer": "2002"
+    },
+    {
+      "id": 21,
+      "question": "The OAU was successful in:",
+      "options": ["Stopping all African wars", "Eradicating colonialism and white minority rule", "Creating a single African economy", "Establishing a unified military"],
+      "correctAnswer": "Eradicating colonialism and white minority rule"
+    },
+    {
+      "id": 22,
+      "question": "The OAU's influence was inadequate in addressing:",
+      "options": ["Trade agreements", "Poor governance and human rights abuses", "Educational reform", "Health initiatives"],
+      "correctAnswer": "Poor governance and human rights abuses"
+    },
+    {
+      "id": 23,
+      "question": "By what year was OAU reform deemed imperative?",
+      "options": ["Late 19th century", "End of the 20th century", "Mid 21st century", "Early 20th century"],
+      "correctAnswer": "End of the 20th century"
+    },
+    {
+      "id": 24,
+      "question": "What does AU stand for?",
+      "options": ["African Unity", "African Union", "Alliance of Africa", "African United Nations"],
+      "correctAnswer": "African Union"
+    },
+    {
+      "id": 25,
+      "question": "The OAU failed to bring which to African citizens?",
+      "options": ["Independence", "Peace, prosperity, security, and stability", "Decolonization", "International recognition"],
+      "correctAnswer": "Peace, prosperity, security, and stability"
+    },
+    {
+      "id": 26,
+      "question": "The OAU's inability to handle conflicts was due to:",
+      "options": ["Strong member commitment", "Weak powers and inadequate influence", "Too much funding", "Excessive military capacity"],
+      "correctAnswer": "Weak powers and inadequate influence"
+    },
+    {
+      "id": 27,
+      "question": "The AU officially replaced the OAU in which month and year?",
+      "options": ["May 2002", "June 2002", "July 2002", "August 2002"],
+      "correctAnswer": "July 2002"
+    },
+    {
+      "id": 28,
+      "question": "Which South African city hosted the AU launch?",
+      "options": ["Johannesburg", "Cape Town", "Durban", "Pretoria"],
+      "correctAnswer": "Durban"
+    },
+    {
+      "id": 29,
+      "question": "The OAU was established in 1963. Its greatest achievement came in the field of:",
+      "options": ["Economic integration", "Decolonization and eradicating white minority rule", "Human rights enforcement", "Military cooperation"],
+      "correctAnswer": "Decolonization and eradicating white minority rule"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following best describes the legacy of the OAU?",
+      "options": ["Complete success in all objectives", "Major success in decolonization but failure in achieving peace and prosperity", "Total failure across the board", "Success only in economic matters"],
+      "correctAnswer": "Major success in decolonization but failure in achieving peace and prosperity"
+    }
+  ]
+}

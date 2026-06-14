@@ -1,1 +1,187 @@
-{"title":"Major Issues in Contemporary Africa","description":"Quiz on key contemporary challenges facing Africa including conflict, poverty, HIV/AIDS, gender inequality, and good governance.","tags":["#history","#africa","#currentaffairs"],"questions":[{"id":1,"question":"Which of the following has been one of the major challenges facing post-independence Africa?","options":["Excessive peace","Debt and armed conflicts","Overabundance of foreign investment","Lack of natural resources"],"correctAnswer":"Debt and armed conflicts"},{"id":2,"question":"According to the AU, which group of African countries was most seriously affected by conflict?","options":["North African","East African","Western and Central African","Southern African"],"correctAnswer":"Western and Central African"},{"id":3,"question":"What was the primary cause of most armed conflicts in Africa?","options":["Ethnic and religious rivalries","Cold War and its aftermath","All of the above","Natural resource competition"],"correctAnswer":"All of the above"},{"id":4,"question":"What percentage of the world's HIV/AIDS infected people live in sub-Saharan Africa?","options":["About 75%","About 50%","About 25%","About 90%"],"correctAnswer":"About 75%"},{"id":5,"question":"Why has good governance been difficult to achieve since independence?","options":["Too many elections","Lack of a strong democratic culture and political instability","Excessive foreign aid","Strong civil society"],"correctAnswer":"Lack of a strong democratic culture and political instability"},{"id":6,"question":"What has been one of the major consequences of poverty in Africa?","options":["Overpopulation only","Child malnutrition and high infant mortality","Low inflation","Access to free education"],"correctAnswer":"Child malnutrition and high infant mortality"},{"id":7,"question":"Which organisation launched the New Partnership for Africa's Development (NEPAD)?","options":["United Nations","World Bank","African Union","European Union"],"correctAnswer":"African Union"},{"id":8,"question":"What is the impact of foreign debt on African countries?","options":["It encourages investment","It makes the economy better","It prevents them from expanding essential social and economic services","It reduces interest rates"],"correctAnswer":"It prevents them from expanding essential social and economic services"},{"id":9,"question":"Which of these factors contributes to gender inequality in Africa?","options":["Equal access to education","Religious and customary practices that favour men and boys","Equal representation in government","Women's overrepresentation in paid employment"],"correctAnswer":"Religious and customary practices that favour men and boys"},{"id":10,"question":"What is NEPAD primarily committed to?","options":["Building a strong democratic culture and promoting peace and development","Military expansion","Trade protectionism","Isolation from global markets"],"correctAnswer":"Building a strong democratic culture and promoting peace and development"}]}
+{
+  "title": "7.3 Major Issues in Contemporary Africa",
+  "description": "30 questions covering major contemporary issues in Africa including conflicts, poverty, governance, and disease",
+  "tags": ["history", "grade10", "africa", "contemporary", "conflicts", "poverty", "governance"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What term describes Africa's continued strong ties with former colonial masters? (Mnemonic: Colonial hangover)",
+      "options": ["Neo-colonialism", "Colonial hangover", "Post-colonial syndrome", "Imperial legacy"],
+      "correctAnswer": "Colonial hangover"
+    },
+    {
+      "id": 2,
+      "question": "Which former colonial power maintained a neo-colonial grip in Africa?",
+      "options": ["Britain", "France", "Portugal", "Belgium"],
+      "correctAnswer": "France"
+    },
+    {
+      "id": 3,
+      "question": "Border conflicts in Africa are mainly due to:",
+      "options": ["Religious differences", "Colonial boundaries and ethnic settlements", "Trade disputes", "Water rights"],
+      "correctAnswer": "Colonial boundaries and ethnic settlements"
+    },
+    {
+      "id": 4,
+      "question": "The Biafra War in Nigeria was between which ethnic groups?",
+      "options": ["Yoruba and Hausa", "Igbo and Hausa", "Tutsi and Hutu", "Zulu and Xhosa"],
+      "correctAnswer": "Igbo and Hausa"
+    },
+    {
+      "id": 5,
+      "question": "What was the main cause of the Biafra War?",
+      "options": ["Religious differences", "Unequal wealth distribution after Nigeria's independence", "Border disputes", "Foreign interference"],
+      "correctAnswer": "Unequal wealth distribution after Nigeria's independence"
+    },
+    {
+      "id": 6,
+      "question": "What triggered the Nigerian civil war (Biafra War)?",
+      "options": ["1960 independence", "1966 coup", "1967 secession", "1970 ceasefire"],
+      "correctAnswer": "1966 coup"
+    },
+    {
+      "id": 7,
+      "question": "The Rwandan Genocide occurred between which months and year? (Mnemonic: April-July 1994)",
+      "options": ["April-July 1994", "January-March 1994", "August-December 1994", "June-September 1994"],
+      "correctAnswer": "April-July 1994"
+    },
+    {
+      "id": 8,
+      "question": "The Rwandan Genocide was between which two ethnic groups?",
+      "options": ["Igbo and Hausa", "Hutu and Tutsi", "Zulu and Xhosa", "Yoruba and Fulani"],
+      "correctAnswer": "Hutu and Tutsi"
+    },
+    {
+      "id": 9,
+      "question": "Approximately how many people died in the Rwandan Genocide?",
+      "options": ["200,000", "500,000", "800,000", "1,000,000"],
+      "correctAnswer": "800,000"
+    },
+    {
+      "id": 10,
+      "question": "Which group was the majority of victims in the Rwandan Genocide?",
+      "options": ["Hutu", "Tutsi", "Twa", "All ethnic groups equally"],
+      "correctAnswer": "Tutsi"
+    },
+    {
+      "id": 11,
+      "question": "Name ONE cause of poverty in Africa according to the textbook:",
+      "options": ["Lack of natural resources", "Rapid population growth, war, climate change, diseases, inadequate agricultural infrastructure", "Too much foreign aid", "Excessive industrialization"],
+      "correctAnswer": "Rapid population growth, war, climate change, diseases, inadequate agricultural infrastructure"
+    },
+    {
+      "id": 12,
+      "question": "In 2013, how many of the world's 20 conflicts were in sub-Saharan Africa?",
+      "options": ["8", "11", "14", "17"],
+      "correctAnswer": "11"
+    },
+    {
+      "id": 13,
+      "question": "Climate change in Africa contributes to poverty through:",
+      "options": ["Increased rainfall", "Floods and droughts", "Cooler temperatures", "Better growing seasons"],
+      "correctAnswer": "Floods and droughts"
+    },
+    {
+      "id": 14,
+      "question": "Which diseases are mentioned as affecting Africa? (Pick the correct set)",
+      "options": ["Malaria, COVID-19, Cholera", "AIDS, malaria, Ebola", "Tuberculosis, Polio, Yellow Fever", "Cancer, Heart Disease, Diabetes"],
+      "correctAnswer": "AIDS, malaria, Ebola"
+    },
+    {
+      "id": 15,
+      "question": "Democratic reforms in the 1990s were described as Africa's:",
+      "options": ["Third liberation", "Second independence", "New democracy", "Final freedom"],
+      "correctAnswer": "Second independence"
+    },
+    {
+      "id": 16,
+      "question": "The 'second independence' in the 1990s involved the collapse of:",
+      "options": ["Colonial governments", "Single-party dictatorships and military rule", "Democratic governments", "Traditional kingdoms"],
+      "correctAnswer": "Single-party dictatorships and military rule"
+    },
+    {
+      "id": 17,
+      "question": "The collapse of apartheid in South Africa led to:",
+      "options": ["Civil war", "Multi-party democracy in South Africa", "Military rule", "One-party state"],
+      "correctAnswer": "Multi-party democracy in South Africa"
+    },
+    {
+      "id": 18,
+      "question": "NEPAD stands for:",
+      "options": ["New Partnership for Africa's Development", "National Economic Plan for African Development", "New Economic Policy for African Development", "North-East Partnership for African Development"],
+      "correctAnswer": "New Partnership for Africa's Development"
+    },
+    {
+      "id": 19,
+      "question": "NEPAD was established by which organization?",
+      "options": ["United Nations", "African Union (AU)", "World Bank", "European Union"],
+      "correctAnswer": "African Union (AU)"
+    },
+    {
+      "id": 20,
+      "question": "Approximately what percentage of the world's HIV/AIDS cases are in sub-Saharan Africa?",
+      "options": ["25%", "50%", "75%", "90%"],
+      "correctAnswer": "75%"
+    },
+    {
+      "id": 21,
+      "question": "Good governance in Africa is challenged by:",
+      "options": ["Too much democracy", "Lack of democratic culture and political instability", "Excessive foreign aid", "Strong institutions"],
+      "correctAnswer": "Lack of democratic culture and political instability"
+    },
+    {
+      "id": 22,
+      "question": "France maintained a neo-colonial grip on which group of African countries?",
+      "options": ["British colonies", "Portuguese colonies", "Its former colonies", "Belgian colonies"],
+      "correctAnswer": "Its former colonies"
+    },
+    {
+      "id": 23,
+      "question": "Colonial hangover refers to:",
+      "options": ["Disease from colonial times", "Stronger ties with former colonial masters", "Colonial buildings", "Colonial languages"],
+      "correctAnswer": "Stronger ties with former colonial masters"
+    },
+    {
+      "id": 24,
+      "question": "The Biafra War is also known as:",
+      "options": ["The Congolese Civil War", "The Nigerian Civil War", "The Rwandan Genocide", "The Darfur Conflict"],
+      "correctAnswer": "The Nigerian Civil War"
+    },
+    {
+      "id": 25,
+      "question": "The Darfur conflict is an example of:",
+      "options": ["International war", "Ethnic conflict in Africa", "Colonial war", "Religious war"],
+      "correctAnswer": "Ethnic conflict in Africa"
+    },
+    {
+      "id": 26,
+      "question": "Which of these is a cause of African poverty?",
+      "options": ["Too many natural resources", "Inadequate agricultural infrastructure", "Low population growth", "Excessive peace"],
+      "correctAnswer": "Inadequate agricultural infrastructure"
+    },
+    {
+      "id": 27,
+      "question": "The 'second independence' refers to:",
+      "options": ["Decolonization in the 1960s", "Democratic reforms in the 1990s", "Economic independence in the 1980s", "Military takeovers in the 1970s"],
+      "correctAnswer": "Democratic reforms in the 1990s"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following collapsed in the 1990s, leading to a 'second independence'?",
+      "options": ["Colonial governments", "Single-party dictatorships and military rule", "Traditional monarchies", "Federal systems"],
+      "correctAnswer": "Single-party dictatorships and military rule"
+    },
+    {
+      "id": 29,
+      "question": "Approximately what percentage of global conflicts in 2013 were in sub-Saharan Africa?",
+      "options": ["11 out of 20", "5 out of 20", "15 out of 20", "20 out of 20"],
+      "correctAnswer": "11 out of 20"
+    },
+    {
+      "id": 30,
+      "question": "AIDS, malaria, and Ebola are examples of:",
+      "options": ["Non-communicable diseases", "Diseases affecting Africa", "Tropical diseases only found in sub-Saharan Africa", "Eliminated diseases"],
+      "correctAnswer": "Diseases affecting Africa"
+    }
+  ]
+}

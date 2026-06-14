@@ -1,1 +1,187 @@
-{"title":"Pan-Africanism and the OAU","description":"Quiz on Pan-Africanism, the formation of the OAU, its organs, and its successor the African Union.","tags":["#history","#africa","#panafricanism"],"questions":[{"id":1,"question":"What is the central idea of Pan-Africanism?","options":["African countries should remain independent","Peoples of African descent have common interests and should be unified","Africa should adopt one language","All African countries should have the same government"],"correctAnswer":"Peoples of African descent have common interests and should be unified"},{"id":2,"question":"Where was the Fifth Pan-African Congress held in October 1945?","options":["Addis Ababa","London","Manchester","Paris"],"correctAnswer":"Manchester"},{"id":3,"question":"Which organisation did Kwame Nkrumah help form in 1958 with Guinea?","options":["The Casablanca Group","The African Union","The Union of Independent African States","The Monrovia Group"],"correctAnswer":"The Union of Independent African States"},{"id":4,"question":"The Casablanca Group favoured what kind of political union for Africa?","options":["A loose confederation","A strong political union like the United States of Africa","A military alliance only","No political union"],"correctAnswer":"A strong political union like the United States of Africa"},{"id":5,"question":"Which countries played a neutral bridging role between the Casablanca and Monrovia groups?","options":["Ethiopia and Liberia","Nigeria and Ghana","Egypt and Kenya","Algeria and Morocco"],"correctAnswer":"Ethiopia and Liberia"},{"id":6,"question":"In which city was the OAU established in May 1963?","options":["Cairo","Addis Ababa","Accra","Durban"],"correctAnswer":"Addis Ababa"},{"id":7,"question":"How many African nations established the OAU in 1963?","options":["25","32","45","50"],"correctAnswer":"32"},{"id":8,"question":"Which was NOT one of the principal organs of the OAU?","options":["Assembly of Heads of State and Government","Council of Ministers","General Secretariat","African Court of Justice"],"correctAnswer":"African Court of Justice"},{"id":9,"question":"What was the greatest success of the OAU?","options":["Economic integration","Decolonisation","Military cooperation","Environmental protection"],"correctAnswer":"Decolonisation"},{"id":10,"question":"Where and when was the African Union (AU) officially launched?","options":["Addis Ababa, July 2002","Durban, July 2002","Accra, 2000","Abuja, 2001"],"correctAnswer":"Durban, July 2002"}]}
+{
+  "title": "7.1.6 Pan-Africanism and the OAU",
+  "description": "30 questions covering Pan-Africanism, African unity movements, and the establishment of the OAU",
+  "tags": ["history", "grade10", "africa", "pan-africanism", "OAU", "unity"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the core idea of Pan-Africanism?",
+      "options": ["African countries should remain separate", "Peoples of African descent have common interests", "Only North Africans share common heritage", "Africa should be recolonized"],
+      "correctAnswer": "Peoples of African descent have common interests"
+    },
+    {
+      "id": 2,
+      "question": "Where did Pan-Africanism originate?",
+      "options": ["Europe", "The New World (18th/19th centuries)", "Asia", "Africa itself"],
+      "correctAnswer": "The New World (18th/19th centuries)"
+    },
+    {
+      "id": 3,
+      "question": "Where and when was the 5th Pan-African Congress held? (Mnemonic: Manchester 1945)",
+      "options": ["Accra 1958", "Manchester October 1945", "Addis Ababa 1963", "Paris 1945"],
+      "correctAnswer": "Manchester October 1945"
+    },
+    {
+      "id": 4,
+      "question": "At the 5th Pan-African Congress, which delegates dominated?",
+      "options": ["American delegates", "European delegates", "African delegates", "Caribbean delegates"],
+      "correctAnswer": "African delegates"
+    },
+    {
+      "id": 5,
+      "question": "Who played a key role in the 5th Pan-African Congress?",
+      "options": ["Julius Nyerere", "Kwame Nkrumah", "Haile Selassie", "Nelson Mandela"],
+      "correctAnswer": "Kwame Nkrumah"
+    },
+    {
+      "id": 6,
+      "question": "Kwame Nkrumah formed the Union of Independent African States in 1958. Which two countries initially joined?",
+      "options": ["Ghana and Nigeria", "Ghana and Guinea", "Guinea and Mali", "Ghana and Egypt"],
+      "correctAnswer": "Ghana and Guinea"
+    },
+    {
+      "id": 7,
+      "question": "Which third country joined the Union of Independent African States in 1960?",
+      "options": ["Nigeria", "Ethiopia", "Mali", "Libya"],
+      "correctAnswer": "Mali"
+    },
+    {
+      "id": 8,
+      "question": "The Casablanca Group favored what type of political union for Africa?",
+      "options": ["Loose confederation", "Strong political union (United States of Africa)", "Economic cooperation only", "No political union"],
+      "correctAnswer": "Strong political union (United States of Africa)"
+    },
+    {
+      "id": 9,
+      "question": "Which countries were members of the Casablanca Group? (Pick the correct set)",
+      "options": ["Ghana, Guinea, Egypt, Mali, Morocco, Libya, Algerian government-in-exile", "Nigeria, Ethiopia, Liberia, Sierra Leone", "Senegal, Ivory Coast, Cameroon, Togo", "Kenya, Tanzania, Uganda, Zambia"],
+      "correctAnswer": "Ghana, Guinea, Egypt, Mali, Morocco, Libya, Algerian government-in-exile"
+    },
+    {
+      "id": 10,
+      "question": "The Casablanca Group was formed in which year?",
+      "options": ["1960", "1961", "1962", "1963"],
+      "correctAnswer": "1961"
+    },
+    {
+      "id": 11,
+      "question": "The Monrovia Group favored what type of union?",
+      "options": ["A strong central government", "Loose confederation", "United States of Africa", "Military alliance"],
+      "correctAnswer": "Loose confederation"
+    },
+    {
+      "id": 12,
+      "question": "Which countries were members of the Monrovia Group?",
+      "options": ["Only French colonies", "Former French colonies + Nigeria, Ethiopia, Liberia, Sierra Leone", "Only British colonies", "Only North African countries"],
+      "correctAnswer": "Former French colonies + Nigeria, Ethiopia, Liberia, Sierra Leone"
+    },
+    {
+      "id": 13,
+      "question": "The Brazzaville Group consisted of:",
+      "options": ["Anglophone states", "Francophone states", "Lusophone states", "North African states"],
+      "correctAnswer": "Francophone states"
+    },
+    {
+      "id": 14,
+      "question": "Which group did the Brazzaville Group join?",
+      "options": ["Casablanca Group", "Monrovia Group", "Non-Aligned Movement", "United Nations"],
+      "correctAnswer": "Monrovia Group"
+    },
+    {
+      "id": 15,
+      "question": "Which two countries remained neutral and helped bridge the gap between the Casablanca and Monrovia groups?",
+      "options": ["Ghana and Guinea", "Nigeria and Ghana", "Ethiopia and Liberia", "Egypt and Morocco"],
+      "correctAnswer": "Ethiopia and Liberia"
+    },
+    {
+      "id": 16,
+      "question": "When was the OAU (Organization of African Unity) established?",
+      "options": ["May 1963", "May 1962", "June 1963", "April 1963"],
+      "correctAnswer": "May 1963"
+    },
+    {
+      "id": 17,
+      "question": "Where was the OAU established?",
+      "options": ["Cairo, Egypt", "Accra, Ghana", "Addis Ababa, Ethiopia", "Lagos, Nigeria"],
+      "correctAnswer": "Addis Ababa, Ethiopia"
+    },
+    {
+      "id": 18,
+      "question": "How many countries founded the OAU?",
+      "options": ["32", "28", "36", "50"],
+      "correctAnswer": "32"
+    },
+    {
+      "id": 19,
+      "question": "What were the main objectives of the OAU?",
+      "options": ["Economic union of Africa", "Rid continent of colonization/apartheid, promote unity, cooperation, safeguard sovereignty", "Military alliance against Europe", "Establish a single African currency"],
+      "correctAnswer": "Rid continent of colonization/apartheid, promote unity, cooperation, safeguard sovereignty"
+    },
+    {
+      "id": 20,
+      "question": "Which was the supreme organ of the OAU?",
+      "options": ["Council of Ministers", "General Secretariat", "Assembly of Heads of State and Government", "African Court of Justice"],
+      "correctAnswer": "Assembly of Heads of State and Government"
+    },
+    {
+      "id": 21,
+      "question": "How often did the Assembly of Heads of State and Government meet?",
+      "options": ["Twice a year", "Once a year", "Once every two years", "Every five years"],
+      "correctAnswer": "Once a year"
+    },
+    {
+      "id": 22,
+      "question": "The Council of Ministers in the OAU met how often?",
+      "options": ["Once a month", "Once a year", "Twice a year", "Every two years"],
+      "correctAnswer": "Twice a year"
+    },
+    {
+      "id": 23,
+      "question": "What was the main function of the OAU Council of Ministers?",
+      "options": ["Make final decisions", "Prepare the agenda for the Assembly", "Execute military operations", "Manage African economies"],
+      "correctAnswer": "Prepare the agenda for the Assembly"
+    },
+    {
+      "id": 24,
+      "question": "The General Secretariat of the OAU was headed by:",
+      "options": ["The President of the Assembly", "A Secretary-General appointed by the Assembly", "The host country's leader", "An elected chairman"],
+      "correctAnswer": "A Secretary-General appointed by the Assembly"
+    },
+    {
+      "id": 25,
+      "question": "Who was the key figure behind the Union of Independent African States?",
+      "options": ["Haile Selassie", "Julius Nyerere", "Kwame Nkrumah", "Gamal Abdel Nasser"],
+      "correctAnswer": "Kwame Nkrumah"
+    },
+    {
+      "id": 26,
+      "question": "The 5th Pan-African Congress was held in which city?",
+      "options": ["London", "Paris", "Manchester", "New York"],
+      "correctAnswer": "Manchester"
+    },
+    {
+      "id": 27,
+      "question": "Which century did Pan-Africanism originate?",
+      "options": ["16th/17th centuries", "18th/19th centuries", "20th century", "21st century"],
+      "correctAnswer": "18th/19th centuries"
+    },
+    {
+      "id": 28,
+      "question": "The Monrovia Group was named after which city?",
+      "options": ["Cairo", "Addis Ababa", "Monrovia", "Accra"],
+      "correctAnswer": "Monrovia"
+    },
+    {
+      "id": 29,
+      "question": "The Casablanca Group wanted a 'United States of Africa'. The Monrovia Group wanted:",
+      "options": ["A single African government", "A loose confederation", "Immediate political union", "A military alliance"],
+      "correctAnswer": "A loose confederation"
+    },
+    {
+      "id": 30,
+      "question": "Kwame Nkrumah's Union of Independent African States was formed in which year?",
+      "options": ["1957", "1958", "1960", "1961"],
+      "correctAnswer": "1958"
+    }
+  ]
+}

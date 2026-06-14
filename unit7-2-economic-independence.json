@@ -1,1 +1,187 @@
-{"title":"Struggle for Economic Independence","description":"Quiz on post-independence economic challenges in Africa, including debt, drought, and regional economic communities.","tags":["#history","#africa","#economics"],"questions":[{"id":1,"question":"During which period did Africa achieve substantial economic growth?","options":["1945 to 1965","1965 to 1974","1980 to 1990","1990 to 2000"],"correctAnswer":"1965 to 1974"},{"id":2,"question":"What were two principal factors adversely affecting African developments in the 1980s and 1990s?","options":["War and disease","International debt and drought","Colonialism and slavery","Population growth and urbanisation"],"correctAnswer":"International debt and drought"},{"id":3,"question":"What happened to the price of Africa's raw material exports compared to manufactured imports since the 1960s?","options":["They increased","They dropped ten or twenty times","They stayed the same","They fluctuated randomly"],"correctAnswer":"They dropped ten or twenty times"},{"id":4,"question":"Which institutions did African governments turn to for emergency foreign exchange?","options":["African Development Bank and ECOWAS","IMF and World Bank","United Nations and AU","European Union and World Trade Organisation"],"correctAnswer":"IMF and World Bank"},{"id":5,"question":"What treaty established the African Economic Community (AEC)?","options":["Lagos Plan of Action","Abuja Treaty (1991)","COMESA Treaty","Banjul Charter"],"correctAnswer":"Abuja Treaty (1991)"},{"id":6,"question":"Which regional economic community was formed in December 1994?","options":["ECOWAS","COMESA","SADC","IGAD"],"correctAnswer":"COMESA"},{"id":7,"question":"COMESA replaced which earlier organisation that had existed since 1981?","options":["Preferential Trade Area","ECOWAS","African Economic Community","Southern African Customs Union"],"correctAnswer":"Preferential Trade Area"},{"id":8,"question":"Which REC covers West African states?","options":["COMESA","ECOWAS","SADC","IGAD"],"correctAnswer":"ECOWAS"},{"id":9,"question":"Which countries are members of IGAD?","options":["Ethiopia, Sudan, South Sudan, Eritrea, Kenya, Uganda, and Djibouti","Nigeria, Ghana, Senegal, and Mali","Zambia, Zimbabwe, and South Africa","Tunisia, Egypt, and Libya"],"correctAnswer":"Ethiopia, Sudan, South Sudan, Eritrea, Kenya, Uganda, and Djibouti"},{"id":10,"question":"What was the 1980 Lagos Plan of Action for?","options":["Military cooperation","The development of Africa","Environmental protection","Population control"],"correctAnswer":"The development of Africa"}]}
+{
+  "title": "7.2 Struggle for Economic Independence",
+  "description": "30 questions covering Africa's struggle for economic independence, regional economic communities, and debt crisis",
+  "tags": ["history", "grade10", "africa", "economy", "independence", "RECs"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "From which years did Africa experience substantial economic growth? (Mnemonic: 1965-1974, the golden decade)",
+      "options": ["1955-1964", "1960-1969", "1965-1974", "1970-1979"],
+      "correctAnswer": "1965-1974"
+    },
+    {
+      "id": 2,
+      "question": "After the period of substantial growth, what trend did the African economy follow?",
+      "options": ["Continued growth", "Downward trend", "Stagnation", "Rapid expansion"],
+      "correctAnswer": "Downward trend"
+    },
+    {
+      "id": 3,
+      "question": "In the 1980s and 1990s, which two principal factors affected African economies?",
+      "options": ["War and peace", "International debt and drought", "Industrialization and trade", "Education and technology"],
+      "correctAnswer": "International debt and drought"
+    },
+    {
+      "id": 4,
+      "question": "Since the 1960s, raw material exports from Africa dropped in price compared to manufactured imports by how much? (Mnemonic: 10-20x price drop for raw materials)",
+      "options": ["2-5 times", "5-10 times", "10-20 times", "20-50 times"],
+      "correctAnswer": "10-20 times"
+    },
+    {
+      "id": 5,
+      "question": "To which financial institutions did African governments turn for emergency loans?",
+      "options": ["World Bank and African Development Bank", "IMF and World Bank", "European Investment Bank and IMF", "African Union and World Bank"],
+      "correctAnswer": "IMF and World Bank"
+    },
+    {
+      "id": 6,
+      "question": "The IMF and World Bank were financed primarily by:",
+      "options": ["African governments", "Western capitalist economies", "Asian economies", "Oil-producing states"],
+      "correctAnswer": "Western capitalist economies"
+    },
+    {
+      "id": 7,
+      "question": "What does REC stand for? (Mnemonic: Regional Economic Community)",
+      "options": ["Regional Economic Community", "Regional European Council", "Reserve Economic Currency", "Rural Economic Cooperative"],
+      "correctAnswer": "Regional Economic Community"
+    },
+    {
+      "id": 8,
+      "question": "RECs were established for what purpose?",
+      "options": ["Military cooperation", "Regional economic integration", "Political unification", "Cultural exchange"],
+      "correctAnswer": "Regional economic integration"
+    },
+    {
+      "id": 9,
+      "question": "The Abuja Treaty of 1991 established which organization?",
+      "options": ["ECOWAS", "African Economic Community (AEC)", "COMESA", "SADC"],
+      "correctAnswer": "African Economic Community (AEC)"
+    },
+    {
+      "id": 10,
+      "question": "The Lagos Plan of Action for the Development of Africa was adopted in:",
+      "options": ["1979", "1980", "1981", "1982"],
+      "correctAnswer": "1980"
+    },
+    {
+      "id": 11,
+      "question": "COMESA was formed in which month and year? (Mnemonic: COMESA December 1994)",
+      "options": ["December 1994", "January 1994", "December 1993", "June 1995"],
+      "correctAnswer": "December 1994"
+    },
+    {
+      "id": 12,
+      "question": "COMESA replaced which earlier organization?",
+      "options": ["Preferential Trade Area (1981)", "ECOWAS", "SADC", "East African Community"],
+      "correctAnswer": "Preferential Trade Area (1981)"
+    },
+    {
+      "id": 13,
+      "question": "How many member states did COMESA have? (From Tunisia to Swaziland)",
+      "options": ["15", "19", "21", "25"],
+      "correctAnswer": "21"
+    },
+    {
+      "id": 14,
+      "question": "COMESA stands for:",
+      "options": ["Common Market for Eastern and Southern Africa", "Council for Economic and Social Affairs", "Committee for Eastern and Southern African States", "Commission for Economic and Security Affairs"],
+      "correctAnswer": "Common Market for Eastern and Southern Africa"
+    },
+    {
+      "id": 15,
+      "question": "COMESA's member states span from which country to which?",
+      "options": ["Egypt to South Africa", "Tunisia to Swaziland", "Morocco to Mozambique", "Libya to Lesotho"],
+      "correctAnswer": "Tunisia to Swaziland"
+    },
+    {
+      "id": 16,
+      "question": "ECOWAS is the regional economic community for:",
+      "options": ["Southern African countries", "East African countries", "West African states", "North African states"],
+      "correctAnswer": "West African states"
+    },
+    {
+      "id": 17,
+      "question": "ECOWAS stands for:",
+      "options": ["Economic Community of West African States", "European Council of West African States", "Economic Cooperation of Western African States", "Eastern Community of West African States"],
+      "correctAnswer": "Economic Community of West African States"
+    },
+    {
+      "id": 18,
+      "question": "IGAD includes which countries?",
+      "options": ["West African countries", "Ethiopia, Sudan, South Sudan, Eritrea, Kenya, Uganda, Djibouti", "Southern African countries", "North African countries"],
+      "correctAnswer": "Ethiopia, Sudan, South Sudan, Eritrea, Kenya, Uganda, Djibouti"
+    },
+    {
+      "id": 19,
+      "question": "IGAD stands for:",
+      "options": ["Inter-Governmental Authority on Development", "International Group for African Development", "Integrated Governance and Development", "Inter-African Development Authority"],
+      "correctAnswer": "Inter-Governmental Authority on Development"
+    },
+    {
+      "id": 20,
+      "question": "SADC is the regional economic community for:",
+      "options": ["West African countries", "Southern African countries", "East African countries", "North African countries"],
+      "correctAnswer": "Southern African countries"
+    },
+    {
+      "id": 21,
+      "question": "SADC stands for:",
+      "options": ["Southern African Development Community", "South Asian Development Council", "Strategic African Defense Committee", "Southern Alliance for Development and Cooperation"],
+      "correctAnswer": "Southern African Development Community"
+    },
+    {
+      "id": 22,
+      "question": "The Abuja Treaty was signed in which year?",
+      "options": ["1990", "1991", "1992", "1993"],
+      "correctAnswer": "1991"
+    },
+    {
+      "id": 23,
+      "question": "The Lagos Plan of Action was adopted by which organization?",
+      "options": ["United Nations", "OAU", "World Bank", "African Union"],
+      "correctAnswer": "OAU"
+    },
+    {
+      "id": 24,
+      "question": "Raw material export prices for Africa dropped by how much compared to manufactured imports since the 1960s?",
+      "options": ["2-3 times", "10-20 times", "30-40 times", "50-100 times"],
+      "correctAnswer": "10-20 times"
+    },
+    {
+      "id": 25,
+      "question": "The Preferential Trade Area (PTA) was established in:",
+      "options": ["1979", "1980", "1981", "1982"],
+      "correctAnswer": "1981"
+    },
+    {
+      "id": 26,
+      "question": "The PTA was replaced by which organization?",
+      "options": ["SADC", "ECOWAS", "COMESA", "IGAD"],
+      "correctAnswer": "COMESA"
+    },
+    {
+      "id": 27,
+      "question": "What term describes the period of substantial economic growth followed by a downward trend for Africa?",
+      "options": ["African Miracle", "Growth then decline (1965-1974 growth, then downward trend)", "African Renaissance", "Lost Decade"],
+      "correctAnswer": "Growth then decline (1965-1974 growth, then downward trend)"
+    },
+    {
+      "id": 28,
+      "question": "The Abuja Treaty established the AEC. What does AEC stand for?",
+      "options": ["African Economic Council", "African Economic Community", "African Exchange Commission", "Alliance for Economic Cooperation"],
+      "correctAnswer": "African Economic Community"
+    },
+    {
+      "id": 29,
+      "question": "In the 1980s and 1990s, which TWO factors hindered African economic development?",
+      "options": ["Industrialization and urbanization", "International debt and drought", "Education and technology", "Tourism and trade"],
+      "correctAnswer": "International debt and drought"
+    },
+    {
+      "id": 30,
+      "question": "Why did African governments turn to IMF and World Bank for loans?",
+      "options": ["To fund wars", "For emergency loans due to economic crisis", "To build infrastructure", "To pay civil servant salaries"],
+      "correctAnswer": "For emergency loans due to economic crisis"
+    }
+  ]
+}

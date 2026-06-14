@@ -1,1 +1,187 @@
-{"title":"West Africa Independence","description":"Quiz on national liberation movements in British, French, and Portuguese West Africa.","tags":["#history","#africa","#independence"],"questions":[{"id":1,"question":"Which was the first British colony in sub-Saharan Africa to gain independence?","options":["Nigeria","Sierra Leone","Gold Coast","Gambia"],"correctAnswer":"Gold Coast"},{"id":2,"question":"In what year did the Gold Coast become independent and adopt the name Ghana?","options":["1956","1957","1958","1960"],"correctAnswer":"1957"},{"id":3,"question":"What political party did Kwame Nkrumah found after leaving the UGCC?","options":["UGCC","CPP","NCNC","AG"],"correctAnswer":"CPP"},{"id":4,"question":"Which French colony in West Africa voted NO to Charles de Gaulle's 1958 referendum?","options":["Senegal","Ivory Coast","Guinea","Mali"],"correctAnswer":"Guinea"},{"id":5,"question":"When was the independent Republic of Guinea proclaimed?","options":["October 2, 1958","January 1, 1960","March 2, 1956","July 1, 1962"],"correctAnswer":"October 2, 1958"},{"id":6,"question":"The National Council of Nigeria and Cameroon (NCNC) was primarily based in which region?","options":["Yoruba land","Igbo land","Hausa-Fulani land","Northern region"],"correctAnswer":"Igbo land"},{"id":7,"question":"In what year did Nigeria become independent?","options":["1957","1959","1960","1961"],"correctAnswer":"1960"},{"id":8,"question":"Why did Portuguese African colonies gain independence later than British and French colonies?","options":["They were smaller territories","Portugal considered them overseas provinces and refused decolonisation","They had no nationalist movements","The UN blocked their independence"],"correctAnswer":"Portugal considered them overseas provinces and refused decolonisation"},{"id":9,"question":"In which year did Guinea-Bissau achieve independence?","options":["1973","1974","1965","1968"],"correctAnswer":"1973"},{"id":10,"question":"Which of these pairs of countries achieved independence in 1960?","options":["Ghana and Nigeria","Sierra Leone and Gambia","Cameroon and Madagascar","Guinea and Mali"],"correctAnswer":"Cameroon and Madagascar"}]}
+{
+  "title": "7.1.2 West Africa Liberation",
+  "description": "30 questions covering the liberation of British, French, and Portuguese West African colonies",
+  "tags": ["history", "grade10", "africa", "west-africa", "decolonization", "liberation"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which country was the first British sub-Saharan colony to gain independence? (Mnemonic: Gold Coast became Ghana 1957)",
+      "options": ["Nigeria", "Ghana", "Sierra Leone", "Gambia"],
+      "correctAnswer": "Ghana"
+    },
+    {
+      "id": 2,
+      "question": "What was Ghana called before independence?",
+      "options": ["Gold Coast", "Slave Coast", "Ivory Coast", "Upper Volta"],
+      "correctAnswer": "Gold Coast"
+    },
+    {
+      "id": 3,
+      "question": "In what year did Ghana gain independence?",
+      "options": ["1957", "1960", "1961", "1965"],
+      "correctAnswer": "1957"
+    },
+    {
+      "id": 4,
+      "question": "Which party first led the struggle in the Gold Coast before Kwame Nkrumah formed his own?",
+      "options": ["CPP", "KANU", "UGCC", "NCNC"],
+      "correctAnswer": "UGCC"
+    },
+    {
+      "id": 5,
+      "question": "In what year did Kwame Nkrumah found the CPP (Convention People's Party)?",
+      "options": ["1945", "1947", "1949", "1951"],
+      "correctAnswer": "1949"
+    },
+    {
+      "id": 6,
+      "question": "In Nigeria, which party was associated with the Igbo ethnic group?",
+      "options": ["NPC", "AG", "NCNC", "CPP"],
+      "correctAnswer": "NCNC"
+    },
+    {
+      "id": 7,
+      "question": "In Nigeria, which party was associated with the Yoruba ethnic group?",
+      "options": ["NCNC", "NPC", "AG", "KANU"],
+      "correctAnswer": "AG"
+    },
+    {
+      "id": 8,
+      "question": "In Nigeria, which party was associated with the Hausa-Fulani ethnic group?",
+      "options": ["AG", "NCNC", "NPC", "UGCC"],
+      "correctAnswer": "NPC"
+    },
+    {
+      "id": 9,
+      "question": "In what year did Nigeria become independent?",
+      "options": ["1957", "1959", "1960", "1961"],
+      "correctAnswer": "1960"
+    },
+    {
+      "id": 10,
+      "question": "In what year did the Nigerian parties reach agreement to pursue independence?",
+      "options": ["1957", "1959", "1960", "1961"],
+      "correctAnswer": "1959"
+    },
+    {
+      "id": 11, 
+      "question": "When did Sierra Leone become independent?",
+      "options": ["1960", "1961", "1963", "1965"],
+      "correctAnswer": "1961"
+    },
+    {
+      "id": 12,
+      "question": "When did Gambia become independent?",
+      "options": ["1960", "1961", "1963", "1965"],
+      "correctAnswer": "1965"
+    },
+    {
+      "id": 13,
+      "question": "De Gaulle's 1958 referendum offered French colonies the choice of:",
+      "options": ["Independence or continued French rule", "Joining a French Community or immediate independence", "Membership in the British Commonwealth", "UN Trusteeship status"],
+      "correctAnswer": "Joining a French Community or immediate independence"
+    },
+    {
+      "id": 14,
+      "question": "Which French West African colony voted NO in De Gaulle's 1958 referendum?",
+      "options": ["Senegal", "Ivory Coast", "Guinea", "Mali"],
+      "correctAnswer": "Guinea"
+    },
+    {
+      "id": 15,
+      "question": "Who led Guinea to vote NO in the 1958 referendum?",
+      "options": ["Houphouet-Boigny", "Leopold Senghor", "Seko Toure", "Modibo Keita"],
+      "correctAnswer": "Seko Toure"
+    },
+    {
+      "id": 16,
+      "question": "When did Guinea become independent?",
+      "options": ["October 2, 1958", "January 1, 1960", "March 2, 1956", "July 1, 1962"],
+      "correctAnswer": "October 2, 1958"
+    },
+    {
+      "id": 17,
+      "question": "What year did most French West and Equatorial African colonies become independent?",
+      "options": ["1958", "1960", "1961", "1962"],
+      "correctAnswer": "1960"
+    },
+    {
+      "id": 18,
+      "question": "French Sudan became independent as which country?",
+      "options": ["Mali", "Senegal", "Burkina Faso", "Guinea"],
+      "correctAnswer": "Mali"
+    },
+    {
+      "id": 19,
+      "question": "Upper Volta is now known as:",
+      "options": ["Benin", "Mali", "Burkina Faso", "Niger"],
+      "correctAnswer": "Burkina Faso"
+    },
+    {
+      "id": 20,
+      "question": "Dahomey is now known as:",
+      "options": ["Togo", "Benin", "Niger", "Senegal"],
+      "correctAnswer": "Benin"
+    },
+    {
+      "id": 21,
+      "question": "Ubangi Shari became independent as which country?",
+      "options": ["Congo (Brazzaville)", "Chad", "Central African Republic", "Gabon"],
+      "correctAnswer": "Central African Republic"
+    },
+    {
+      "id": 22,
+      "question": "Which of these was NOT a French West African colony?",
+      "options": ["Mauritania", "Senegal", "Nigeria", "Ivory Coast"],
+      "correctAnswer": "Nigeria"
+    },
+    {
+      "id": 23,
+      "question": "Which of these was NOT a French Equatorial African colony?",
+      "options": ["Chad", "Gabon", "Congo", "Togo"],
+      "correctAnswer": "Togo"
+    },
+    {
+      "id": 24,
+      "question": "The Portuguese considered their colonies as:",
+      "options": ["Mandates", "Trust territories", "Overseas provinces", "Protectorates"],
+      "correctAnswer": "Overseas provinces"
+    },
+    {
+      "id": 25,
+      "question": "When did Guinea-Bissau and Cape Verde become independent?",
+      "options": ["1960/1961", "1970/1971", "1973/1974", "1975/1976"],
+      "correctAnswer": "1973/1974"
+    },
+    {
+      "id": 26,
+      "question": "How would you describe the Portuguese West African independence struggles compared to others?",
+      "options": ["Peaceful and negotiated", "Violent, bloody, and protracted", "Quick and decisive", "Mediated by the UN"],
+      "correctAnswer": "Violent, bloody, and protracted"
+    },
+    {
+      "id": 27,
+      "question": "Besides Guinea-Bissau and Cape Verde, Portugal also colonized which other African countries?",
+      "options": ["Senegal and Mali", "Angola and Mozambique", "Nigeria and Ghana", "Kenya and Tanzania"],
+      "correctAnswer": "Angola and Mozambique"
+    },
+    {
+      "id": 28,
+      "question": "Which French colony voted NO in the 1958 referendum and became independent in 1958, ahead of the others?",
+      "options": ["Mali", "Senegal", "Guinea", "Niger"],
+      "correctAnswer": "Guinea"
+    },
+    {
+      "id": 29,
+      "question": "The British West African colonies included all EXCEPT:",
+      "options": ["Gold Coast", "Nigeria", "Sierra Leone", "Ivory Coast"],
+      "correctAnswer": "Ivory Coast"
+    },
+    {
+      "id": 30,
+      "question": "Which independent country was formed from the union of French and Spanish territories?",
+      "options": ["Ghana", "Guinea", "Morocco", "Nigeria"],
+      "correctAnswer": "Morocco"
+    }
+  ]
+}
