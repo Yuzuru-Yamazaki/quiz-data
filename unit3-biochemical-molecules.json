@@ -1,0 +1,247 @@
+{
+  "title": "3.0 Biochemical Molecules",
+  "description": "40 medium-difficulty questions covering water, inorganic ions, carbohydrates, lipids, proteins, and nucleic acids from Grade 10 Biology Unit 3.",
+  "tags": ["#biology", "#biochemistry", "#organic-molecules"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which two elements make up a water molecule?",
+      "options": ["Hydrogen and oxygen", "Carbon and hydrogen", "Oxygen and carbon", "Nitrogen and hydrogen"],
+      "correctAnswer": "Hydrogen and oxygen"
+    },
+    {
+      "id": 2,
+      "question": "What percentage of a cell's mass is typically water?",
+      "options": ["10 to 30 percent", "40 to 60 percent", "70 to 95 percent", "98 to 99 percent"],
+      "correctAnswer": "70 to 95 percent"
+    },
+    {
+      "id": 3,
+      "question": "What type of bond forms between the partially positive hydrogen of one water molecule and the partially negative oxygen of another?",
+      "options": ["Ionic bond", "Covalent bond", "Hydrogen bond", "Peptide bond"],
+      "correctAnswer": "Hydrogen bond"
+    },
+    {
+      "id": 4,
+      "question": "Water is an effective solvent for ions and polar molecules because of its:",
+      "options": ["High specific heat capacity", "Polarity", "Low density as ice", "High surface tension"],
+      "correctAnswer": "Polarity"
+    },
+    {
+      "id": 5,
+      "question": "The amount of heat energy required to raise the temperature of one gram of water by one degree Celsius is called its:",
+      "options": ["Latent heat of vaporization", "Specific heat capacity", "Boiling point", "Thermal conductivity"],
+      "correctAnswer": "Specific heat capacity"
+    },
+    {
+      "id": 6,
+      "question": "Why does ice float on liquid water?",
+      "options": ["Ice is denser than water", "Ice is less dense than liquid water", "Ice has a higher boiling point", "Ice contains air bubbles"],
+      "correctAnswer": "Ice is less dense than liquid water"
+    },
+    {
+      "id": 7,
+      "question": "The high surface tension of water allows organisms such as raft spiders to:",
+      "options": ["Breathe underwater", "Walk on the water surface", "Absorb water through their skin", "Fly above the water surface"],
+      "correctAnswer": "Walk on the water surface"
+    },
+    {
+      "id": 8,
+      "question": "Which process requires breaking hydrogen bonds so water molecules can escape as gas?",
+      "options": ["Freezing", "Condensation", "Vaporization", "Sublimation"],
+      "correctAnswer": "Vaporization"
+    },
+    {
+      "id": 9,
+      "question": "Inorganic ions that are required in relatively large amounts in the daily diet are called:",
+      "options": ["Micro-nutrients", "Macro-nutrients", "Trace elements", "Organic ions"],
+      "correctAnswer": "Macro-nutrients"
+    },
+    {
+      "id": 10,
+      "question": "The concentration of hydrogen ions in body fluids is expressed as:",
+      "options": ["ATP", "pH", "DNA", "NaCl"],
+      "correctAnswer": "pH"
+    },
+    {
+      "id": 11,
+      "question": "Which ion is the major extracellular cation in the human body?",
+      "options": ["Potassium", "Calcium", "Sodium", "Iron"],
+      "correctAnswer": "Sodium"
+    },
+    {
+      "id": 12,
+      "question": "Potassium ions are primarily found in higher concentration in which part of the body?",
+      "options": ["Extracellular fluid", "Inside the cytoplasm of cells", "Bones and teeth", "Blood plasma only"],
+      "correctAnswer": "Inside the cytoplasm of cells"
+    },
+    {
+      "id": 13,
+      "question": "Which is the most abundant inorganic ion in the human body?",
+      "options": ["Sodium", "Calcium", "Iron", "Chloride"],
+      "correctAnswer": "Calcium"
+    },
+    {
+      "id": 14,
+      "question": "Chloride ions are necessary for the formation of which digestive acid?",
+      "options": ["Sulfuric acid", "Hydrochloric acid", "Nitric acid", "Acetic acid"],
+      "correctAnswer": "Hydrochloric acid"
+    },
+    {
+      "id": 15,
+      "question": "Around 70 percent of iron in the human body is found in:",
+      "options": ["Bones and teeth", "Haemoglobin in red blood cells", "Thyroid gland", "Muscle tissue"],
+      "correctAnswer": "Haemoglobin in red blood cells"
+    },
+    {
+      "id": 16,
+      "question": "Iodine is essential for the normal functioning of which gland?",
+      "options": ["Pituitary gland", "Thyroid gland", "Adrenal gland", "Pancreas"],
+      "correctAnswer": "Thyroid gland"
+    },
+    {
+      "id": 17,
+      "question": "Which clinical condition is caused by iron deficiency?",
+      "options": ["Goiter", "Iron-deficiency Anemia", "Hemochromatosis", "Wilson disease"],
+      "correctAnswer": "Iron-deficiency Anemia"
+    },
+    {
+      "id": 18,
+      "question": "Organic molecules are compounds that contain which element as a basis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon", "Hydrogen"],
+      "correctAnswer": "Carbon"
+    },
+    {
+      "id": 19,
+      "question": "Small single molecular units that join together to form polymers are called:",
+      "options": ["Monomers", "Isomers", "Dimers", "Polypeptides"],
+      "correctAnswer": "Monomers"
+    },
+    {
+      "id": 20,
+      "question": "The general formula for a monosaccharide is:",
+      "options": ["(CH2O)n", "C6H12O6", "CH3(CH2)nCOOH", "RCH(NH2)COOH"],
+      "correctAnswer": "(CH2O)n"
+    },
+    {
+      "id": 21,
+      "question": "Glucose, galactose, and fructose are examples of:",
+      "options": ["Disaccharides", "Polysaccharides", "Monosaccharides", "Nucleotides"],
+      "correctAnswer": "Monosaccharides"
+    },
+    {
+      "id": 22,
+      "question": "Maltose is a disaccharide composed of:",
+      "options": ["Glucose and fructose", "Glucose and galactose", "Glucose and glucose", "Fructose and galactose"],
+      "correctAnswer": "Glucose and glucose"
+    },
+    {
+      "id": 23,
+      "question": "Lactose is a sugar found in:",
+      "options": ["Fruits", "Milk", "Grains", "Honey"],
+      "correctAnswer": "Milk"
+    },
+    {
+      "id": 24,
+      "question": "The storage form of glucose in plants is:",
+      "options": ["Glycogen", "Starch", "Cellulose", "Chitin"],
+      "correctAnswer": "Starch"
+    },
+    {
+      "id": 25,
+      "question": "The storage form of glucose in animals is:",
+      "options": ["Starch", "Cellulose", "Glycogen", "Chitin"],
+      "correctAnswer": "Glycogen"
+    },
+    {
+      "id": 26,
+      "question": "Cellulose is an important structural component of:",
+      "options": ["Animal cell membranes", "Plant cell walls", "Bacterial cell walls", "Human hair"],
+      "correctAnswer": "Plant cell walls"
+    },
+    {
+      "id": 27,
+      "question": "Which enzyme breaks down starch in the human mouth?",
+      "options": ["Lipase", "Amylase", "Pepsin", "Cellulase"],
+      "correctAnswer": "Amylase"
+    },
+    {
+      "id": 28,
+      "question": "Lipids are insoluble in water but soluble in:",
+      "options": ["Non-polar solvents such as ether and chloroform", "Polar solvents such as water", "Only acidic solutions", "Only alkaline solutions"],
+      "correctAnswer": "Non-polar solvents such as ether and chloroform"
+    },
+    {
+      "id": 29,
+      "question": "Fats are solid at room temperature while oils are liquid because oils contain:",
+      "options": ["Saturated fatty acids", "Unsaturated fatty acids", "More carbon atoms", "More oxygen atoms"],
+      "correctAnswer": "Unsaturated fatty acids"
+    },
+    {
+      "id": 30,
+      "question": "A phospholipid molecule has a hydrophilic head and hydrophobic tails. The hydrophilic head contains a:",
+      "options": ["Fatty acid chain", "Phosphate group", "Glycerol molecule", "Carboxyl group"],
+      "correctAnswer": "Phosphate group"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a function of lipids?",
+      "options": ["Storing genetic information", "Acting as a thermal insulator", "Catalysing metabolic reactions", "Transporting oxygen in the blood"],
+      "correctAnswer": "Acting as a thermal insulator"
+    },
+    {
+      "id": 32,
+      "question": "Amino acids, the monomers of proteins, contain which elements?",
+      "options": ["Carbon, hydrogen, and oxygen only", "Carbon, hydrogen, oxygen, and nitrogen", "Carbon, hydrogen, and nitrogen only", "Carbon, hydrogen, oxygen, and phosphorus"],
+      "correctAnswer": "Carbon, hydrogen, oxygen, and nitrogen"
+    },
+    {
+      "id": 33,
+      "question": "The bond that joins two amino acids together is called a:",
+      "options": ["Hydrogen bond", "Ionic bond", "Peptide bond", "Glycosidic bond"],
+      "correctAnswer": "Peptide bond"
+    },
+    {
+      "id": 34,
+      "question": "Haemoglobin and enzymes are examples of which type of protein?",
+      "options": ["Fibrous proteins", "Globular proteins", "Structural proteins", "Storage proteins"],
+      "correctAnswer": "Globular proteins"
+    },
+    {
+      "id": 35,
+      "question": "Keratin, found in hair and nails, is an example of which type of protein?",
+      "options": ["Globular protein", "Fibrous protein", "Transport protein", "Enzyme protein"],
+      "correctAnswer": "Fibrous protein"
+    },
+    {
+      "id": 36,
+      "question": "DNA and RNA are types of:",
+      "options": ["Carbohydrates", "Lipids", "Proteins", "Nucleic acids"],
+      "correctAnswer": "Nucleic acids"
+    },
+    {
+      "id": 37,
+      "question": "The monomers that make up DNA and RNA are called:",
+      "options": ["Amino acids", "Nucleotides", "Monosaccharides", "Fatty acids"],
+      "correctAnswer": "Nucleotides"
+    },
+    {
+      "id": 38,
+      "question": "Which nitrogenous base is found in RNA but NOT in DNA?",
+      "options": ["Adenine", "Thymine", "Uracil", "Cytosine"],
+      "correctAnswer": "Uracil"
+    },
+    {
+      "id": 39,
+      "question": "The sugar found in DNA is:",
+      "options": ["Ribose", "Deoxyribose", "Glucose", "Fructose"],
+      "correctAnswer": "Deoxyribose"
+    },
+    {
+      "id": 40,
+      "question": "Which type of RNA carries the genetic code from DNA to ribosomes for protein synthesis?",
+      "options": ["mRNA", "tRNA", "rRNA", "siRNA"],
+      "correctAnswer": "mRNA"
+    }
+  ]
+}
