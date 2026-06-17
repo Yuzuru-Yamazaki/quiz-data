@@ -1,0 +1,187 @@
+{
+  "title": "5.3 The Breathing System",
+  "description": "Quiz covering the human breathing system: structure, mechanism of breathing, gas exchange, lung capacities, and respiratory diseases.",
+  "tags": ["#biology", "#breathing", "#humanbiology"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary function of the breathing system in the human body?",
+      "options": ["Remove waste products like carbon dioxide", "Pump blood throughout the body", "Provide oxygen to body tissues for cellular respiration", "Break down food for nutrient absorption"],
+      "correctAnswer": "Provide oxygen to body tissues for cellular respiration"
+    },
+    {
+      "id": 2,
+      "question": "Through which structures does air enter the human breathing system?",
+      "options": ["The nasal cavities or the mouth", "The pharynx directly", "The trachea directly", "The larynx directly"],
+      "correctAnswer": "The nasal cavities or the mouth"
+    },
+    {
+      "id": 3,
+      "question": "What is the function of the tiny hairs that line the nasal cavities?",
+      "options": ["They produce mucus to trap bacteria", "They act as a filter, keeping foreign particles out of the lower breathing tract", "They warm the incoming air", "They detect odors"],
+      "correctAnswer": "They act as a filter, keeping foreign particles out of the lower breathing tract"
+    },
+    {
+      "id": 4,
+      "question": "What role does mucus play in the nasal cavity?",
+      "options": ["It traps foreign particles and keeps cells moist", "It breaks down food particles", "It produces oxygen for the blood", "It filters carbon dioxide from the air"],
+      "correctAnswer": "It traps foreign particles and keeps cells moist"
+    },
+    {
+      "id": 5,
+      "question": "Which systems does the pharynx serve?",
+      "options": ["The breathing and digestive systems", "Only the breathing system", "The circulatory and nervous systems", "Only the digestive system"],
+      "correctAnswer": "The breathing and digestive systems"
+    },
+    {
+      "id": 6,
+      "question": "Which structure connects the pharynx to the trachea?",
+      "options": ["The esophagus", "The bronchi", "The larynx", "The alveoli"],
+      "correctAnswer": "The larynx"
+    },
+    {
+      "id": 7,
+      "question": "What does the epiglottis cover during swallowing to prevent food from entering?",
+      "options": ["The opening of the trachea", "The opening of the esophagus", "The nasal cavity", "The pharynx"],
+      "correctAnswer": "The opening of the trachea"
+    },
+    {
+      "id": 8,
+      "question": "What is the glottis made up of?",
+      "options": ["The thyroid and cricoid cartilage", "The hyoid bone and epiglottis", "The arytenoid cartilage and vocal ligament", "The vestibular folds, true vocal cords, and the space between them"],
+      "correctAnswer": "The vestibular folds, true vocal cords, and the space between them"
+    },
+    {
+      "id": 9,
+      "question": "How many stacked pieces of cartilage form the trachea?",
+      "options": ["10 to 15", "16 to 20", "20 to 25", "5 to 10"],
+      "correctAnswer": "16 to 20"
+    },
+    {
+      "id": 10,
+      "question": "What is the function of the cartilage rings in the trachea?",
+      "options": ["To provide structural support and prevent the trachea from collapsing", "To produce mucus for trapping particles", "To contract and push air into the lungs", "To exchange gases with the blood"],
+      "correctAnswer": "To provide structural support and prevent the trachea from collapsing"
+    },
+    {
+      "id": 11,
+      "question": "What structures branch directly from the trachea toward the lungs?",
+      "options": ["The bronchioles", "The alveolar ducts", "The right and left primary bronchi", "The terminal bronchioles"],
+      "correctAnswer": "The right and left primary bronchi"
+    },
+    {
+      "id": 12,
+      "question": "What is the approximate diameter of a bronchiole?",
+      "options": ["2 mm", "1 mm", "0.5 mm", "5 mm"],
+      "correctAnswer": "1 mm"
+    },
+    {
+      "id": 13,
+      "question": "Approximately how many terminal bronchioles are found in each lung?",
+      "options": ["More than 500", "More than 2000", "More than 100", "More than 1000"],
+      "correctAnswer": "More than 1000"
+    },
+    {
+      "id": 14,
+      "question": "Where does actual gas exchange take place in the breathing system?",
+      "options": ["In the bronchi", "In the alveoli", "In the trachea", "In the pharynx"],
+      "correctAnswer": "In the alveoli"
+    },
+    {
+      "id": 15,
+      "question": "What is an alveolar sac?",
+      "options": ["A single air sac that exchanges gases", "A tube that carries air to the alveoli", "A cluster of many individual alveoli", "A cartilage structure in the lung"],
+      "correctAnswer": "A cluster of many individual alveoli"
+    },
+    {
+      "id": 16,
+      "question": "Alveoli have elastic walls that stretch during air intake. What is the benefit of this?",
+      "options": ["It greatly increases surface area available for gas exchange", "It decreases the pressure in the chest cavity", "It prevents mucus from entering the alveoli", "It helps produce surfactant"],
+      "correctAnswer": "It greatly increases surface area available for gas exchange"
+    },
+    {
+      "id": 17,
+      "question": "What is the function of alveolar pores that connect alveoli to their neighbours?",
+      "options": ["To allow blood to flow between alveoli", "To transport mucus out of the alveoli", "To increase the number of alveoli", "To help maintain equal air pressure throughout the alveoli and lung"],
+      "correctAnswer": "To help maintain equal air pressure throughout the alveoli and lung"
+    },
+    {
+      "id": 18,
+      "question": "What percentage of atmospheric air is oxygen?",
+      "options": ["21%", "16%", "78%", "4%"],
+      "correctAnswer": "21%"
+    },
+    {
+      "id": 19,
+      "question": "What percentage of exhaled air is carbon dioxide?",
+      "options": ["0.04%", "4%", "16%", "78%"],
+      "correctAnswer": "4%"
+    },
+    {
+      "id": 20,
+      "question": "According to the principles of gas movement in breathing, gases move from an area of:",
+      "options": ["Low pressure to high pressure", "Equal pressure to high pressure", "High pressure to low pressure", "Low concentration to high concentration"],
+      "correctAnswer": "High pressure to low pressure"
+    },
+    {
+      "id": 21,
+      "question": "When does inspiration (inhalation) occur?",
+      "options": ["When the pressure inside the lungs is less than atmospheric pressure", "When the pressure inside the lungs is greater than atmospheric pressure", "When the pressure inside the lungs equals atmospheric pressure", "When the diaphragm relaxes completely"],
+      "correctAnswer": "When the pressure inside the lungs is less than atmospheric pressure"
+    },
+    {
+      "id": 22,
+      "question": "When does expiration (exhalation) occur?",
+      "options": ["When the intercostal muscles contract", "When the chest volume increases", "When the diaphragm contracts", "When the pressure inside the lungs is greater than atmospheric pressure"],
+      "correctAnswer": "When the pressure inside the lungs is greater than atmospheric pressure"
+    },
+    {
+      "id": 23,
+      "question": "During inspiration, what does the diaphragm muscle do?",
+      "options": ["It relaxes and moves upward", "It contracts and pulls downward", "It remains stationary", "It expands sideways"],
+      "correctAnswer": "It contracts and pulls downward"
+    },
+    {
+      "id": 24,
+      "question": "During expiration, what happens to the diaphragm?",
+      "options": ["It relaxes and returns to its dome shape", "It contracts and flattens downward", "It remains contracted throughout", "It moves upward and compresses the lungs"],
+      "correctAnswer": "It relaxes and returns to its dome shape"
+    },
+    {
+      "id": 25,
+      "question": "During inspiration, what action do the external intercostal muscles perform?",
+      "options": ["They relax, allowing the ribs to fall", "They contract, pulling the ribs down and in", "They remain relaxed throughout", "They contract, pulling the ribs up and out"],
+      "correctAnswer": "They contract, pulling the ribs up and out"
+    },
+    {
+      "id": 26,
+      "question": "During expiration, what action do the internal intercostal muscles perform?",
+      "options": ["They relax completely", "They remain stationary", "They contract, pulling the ribs down and in", "They contract, pulling the ribs up and out"],
+      "correctAnswer": "They contract, pulling the ribs down and in"
+    },
+    {
+      "id": 27,
+      "question": "In bronchitis, what happens to the bronchial tubes?",
+      "options": ["The alveolar walls rupture", "The mucous lining becomes inflamed", "The trachea narrows and collapses", "The cartilage rings dissolve"],
+      "correctAnswer": "The mucous lining becomes inflamed"
+    },
+    {
+      "id": 28,
+      "question": "What happens to the alveolar walls in emphysema?",
+      "options": ["They become irritated, lose flexibility, stretch, and eventually rupture", "They become thicker and stronger", "They produce excess mucus", "They shrink and harden"],
+      "correctAnswer": "They become irritated, lose flexibility, stretch, and eventually rupture"
+    },
+    {
+      "id": 29,
+      "question": "What is the most common cause of emphysema?",
+      "options": ["Bacterial infection", "Allergens like pollen", "Air pollution", "Smoking"],
+      "correctAnswer": "Smoking"
+    },
+    {
+      "id": 30,
+      "question": "Bronchial asthma is linked to inflammation of which structures?",
+      "options": ["The alveoli", "The trachea", "The bronchioles", "The pharynx"],
+      "correctAnswer": "The bronchioles"
+    }
+  ]
+}

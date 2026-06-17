@@ -1,0 +1,187 @@
+{
+  "title": "5.5 The Immune System",
+  "description": "Quiz covering the immune system: types of immunity, white blood cells, antibodies, vaccination, and immune disorders.",
+  "tags": ["#biology", "#immunity", "#humanbiology"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Immunity is defined as the body's ability to prevent the invasion of _____.",
+      "options": ["pathogens", "toxins", "allergens", "cancer cells"],
+      "correctAnswer": "pathogens"
+    },
+    {
+      "id": 2,
+      "question": "The immune system includes defences against viruses, bacteria, fungal infections, and _____.",
+      "options": ["parasites", "prions", "toxins", "pollutants"],
+      "correctAnswer": "parasites"
+    },
+    {
+      "id": 3,
+      "question": "What do Pattern recognition receptors (PRRs) help to maintain?",
+      "options": ["Blood pressure", "Body temperature", "Homeostasis", "Heart rate"],
+      "correctAnswer": "Homeostasis"
+    },
+    {
+      "id": 4,
+      "question": "The innate immune system consists of _____ lines of defences.",
+      "options": ["non-specific and unchanging", "specific and unchanging", "non-specific and adaptable", "specific and adaptable"],
+      "correctAnswer": "non-specific and unchanging"
+    },
+    {
+      "id": 5,
+      "question": "What is the role of cytokines in the immune response?",
+      "options": ["To produce antibodies", "To engulf pathogens", "To mature T cells", "To attract immune cells to infection locations"],
+      "correctAnswer": "To attract immune cells to infection locations"
+    },
+    {
+      "id": 6,
+      "question": "The complement cascade is activated to help recognize _____.",
+      "options": ["viruses", "bacteria", "parasites", "fungi"],
+      "correctAnswer": "bacteria"
+    },
+    {
+      "id": 7,
+      "question": "When is adaptive (acquired) immunity formed?",
+      "options": ["Before birth", "At birth", "After an initial reaction to a new pathogen", "Only after vaccination"],
+      "correctAnswer": "After an initial reaction to a new pathogen"
+    },
+    {
+      "id": 8,
+      "question": "Vaccination is based on which immune process?",
+      "options": ["Innate immunity", "Passive immunity", "Acquired immunity", "Natural immunity"],
+      "correctAnswer": "Acquired immunity"
+    },
+    {
+      "id": 9,
+      "question": "The adaptive immune system recognizes particular _____ antigens.",
+      "options": ["self", "non-self", "viral", "bacterial"],
+      "correctAnswer": "non-self"
+    },
+    {
+      "id": 10,
+      "question": "Immunological memory involves signature antibodies or T cell receptors that _____.",
+      "options": ["attack all pathogens", "remember each infection", "produce cytokines", "activate the complement cascade"],
+      "correctAnswer": "remember each infection"
+    },
+    {
+      "id": 11,
+      "question": "What cells can be summoned to eliminate an invader swiftly during a recurring infection?",
+      "options": ["Memory cells", "Red blood cells", "Platelets", "Stem cells"],
+      "correctAnswer": "Memory cells"
+    },
+    {
+      "id": 12,
+      "question": "Where are lymphocytes formed?",
+      "options": ["Thymus", "Lymph nodes", "Bone marrow", "Spleen"],
+      "correctAnswer": "Bone marrow"
+    },
+    {
+      "id": 13,
+      "question": "Where do some lymphocytes mature into T cells?",
+      "options": ["Bone marrow", "Thymus", "Lymph nodes", "Spleen"],
+      "correctAnswer": "Thymus"
+    },
+    {
+      "id": 14,
+      "question": "Which are the three most common types of lymphocytes?",
+      "options": ["Neutrophils, macrophages, dendritic cells", "Red blood cells, platelets, plasma cells", "T cells, B cells, natural killer cells", "Monocytes, eosinophils, basophils"],
+      "correctAnswer": "T cells, B cells, natural killer cells"
+    },
+    {
+      "id": 15,
+      "question": "What is the most common form of white blood cell?",
+      "options": ["Neutrophil", "Lymphocyte", "Macrophage", "Dendritic cell"],
+      "correctAnswer": "Neutrophil"
+    },
+    {
+      "id": 16,
+      "question": "A phagocyte is a cell that _____.",
+      "options": ["produces antibodies", "presents antigens", "engulfs and digests cellular debris and pathogens", "releases histamine"],
+      "correctAnswer": "engulfs and digests cellular debris and pathogens"
+    },
+    {
+      "id": 17,
+      "question": "Which chemical signal causes neutrophils to be recruited to the site of injury or infection?",
+      "options": ["Histamine", "Interleukin-8", "Lymphokine", "Antibody"],
+      "correctAnswer": "Interleukin-8"
+    },
+    {
+      "id": 18,
+      "question": "Macrophages play a role in _____.",
+      "options": ["both innate and adaptive immune systems", "the innate immune system only", "the adaptive immune system only", "neither innate nor adaptive immunity"],
+      "correctAnswer": "both innate and adaptive immune systems"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a target of macrophages?",
+      "options": ["Red blood cells", "Platelets", "Hormones", "Cancer cells"],
+      "correctAnswer": "Cancer cells"
+    },
+    {
+      "id": 20,
+      "question": "Macrophages stimulate which cells to respond to pathogens?",
+      "options": ["Red blood cells", "Lymphocytes and other immune cells", "Platelets", "Skin cells"],
+      "correctAnswer": "Lymphocytes and other immune cells"
+    },
+    {
+      "id": 21,
+      "question": "Dendritic cells serve as _____ between the innate and adaptive immune systems.",
+      "options": ["barriers", "intermediaries", "suppressors", "targets"],
+      "correctAnswer": "intermediaries"
+    },
+    {
+      "id": 22,
+      "question": "Dendritic cells are frequently found in _____.",
+      "options": ["bones and muscles", "the brain and spinal cord", "tissues that contact the outside world", "the heart and blood vessels"],
+      "correctAnswer": "tissues that contact the outside world"
+    },
+    {
+      "id": 23,
+      "question": "Where do dendritic cells travel in response to infections?",
+      "options": ["Bone marrow", "Thymus", "Lymph nodes", "Liver"],
+      "correctAnswer": "Lymph nodes"
+    },
+    {
+      "id": 24,
+      "question": "Antibodies are also called _____.",
+      "options": ["antigens", "lymphokines", "cytokines", "immunoglobulins"],
+      "correctAnswer": "immunoglobulins"
+    },
+    {
+      "id": 25,
+      "question": "Antibodies are _____ shaped proteins.",
+      "options": ["circular", "Y-shaped", "rod-shaped", "spiral"],
+      "correctAnswer": "Y-shaped"
+    },
+    {
+      "id": 26,
+      "question": "Which cells produce antibodies?",
+      "options": ["T cells", "Macrophages", "B cells", "Natural killer cells"],
+      "correctAnswer": "B cells"
+    },
+    {
+      "id": 27,
+      "question": "Antibodies bind to antigens on the surface of foreign substances and recognize them as _____.",
+      "options": ["self", "non-self", "harmless", "nutrients"],
+      "correctAnswer": "non-self"
+    },
+    {
+      "id": 28,
+      "question": "Lymphokines are the common name for _____ produced by the immune system.",
+      "options": ["antibodies", "antigens", "hormones", "steroids"],
+      "correctAnswer": "hormones"
+    },
+    {
+      "id": 29,
+      "question": "What effect do steroids and corticosteroids have on the immune system?",
+      "options": ["They activate it", "They suppress it", "They strengthen it", "They have no effect"],
+      "correctAnswer": "They suppress it"
+    },
+    {
+      "id": 30,
+      "question": "A mother breastfeeding her baby provides antibodies to the child. This is an example of _____.",
+      "options": ["artificial active immunity", "artificial passive immunity", "natural active immunity", "natural passive immunity"],
+      "correctAnswer": "natural passive immunity"
+    }
+  ]
+}

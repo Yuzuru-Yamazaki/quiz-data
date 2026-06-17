@@ -182,6 +182,66 @@
       "question": "What did Charles Darwin conclude from his phototropism experiment on coleoptiles?",
       "options": ["Light destroys growth hormones on the illuminated side", "Auxin is produced in the roots and moves upward", "The tip detects light and some influence is transmitted to regulate growth", "Roots respond more strongly to light than shoots"],
       "correctAnswer": "The tip detects light and some influence is transmitted to regulate growth"
+    },
+    {
+      "id": 31,
+      "question": "What is the characteristic feature of spongy mesophyll cells in a leaf?",
+      "options": ["They are columnar and tightly packed with many chloroplasts", "They form a single layer of tightly packed cells on the leaf surface", "They are irregularly shaped with numerous airspaces and fewer chloroplasts", "They contain the largest number of chloroplasts per cell"],
+      "correctAnswer": "They are irregularly shaped with numerous airspaces and fewer chloroplasts"
+    },
+    {
+      "id": 32,
+      "question": "What shape are the guard cells that surround the stomata in the lower epidermis?",
+      "options": ["Columnar and vertically elongated", "Irregular and loosely arranged", "Round and thin-walled", "Bean-shaped"],
+      "correctAnswer": "Bean-shaped"
+    },
+    {
+      "id": 33,
+      "question": "How are vascular bundles arranged in a typical dicot stem?",
+      "options": ["Scattered throughout the stem", "In one or two regular rings", "Concentrated only in the pith region", "Arranged randomly in the cortex"],
+      "correctAnswer": "In one or two regular rings"
+    },
+    {
+      "id": 34,
+      "question": "What is the function of the pericycle in a dicot root?",
+      "options": ["It is the site of origin of lateral roots", "It absorbs water and minerals from the soil", "It stores starch grains as a food reserve", "It transports food to different plant parts"],
+      "correctAnswer": "It is the site of origin of lateral roots"
+    },
+    {
+      "id": 35,
+      "question": "Cross-pollination refers to the transfer of pollen grains between:",
+      "options": ["Stamen and pistil of the same flower", "Flowers on the same plant", "Anther and filament within the same stamen", "Two flowers on different plants"],
+      "correctAnswer": "Two flowers on different plants"
+    },
+    {
+      "id": 36,
+      "question": "What is the state of the endosperm in dicot seeds compared to monocot seeds?",
+      "options": ["Endosperm is large in dicot seeds and absent in monocot seeds", "Endosperm is absent in dicot seeds and large in monocot seeds", "Endosperm is present in both but larger in dicot seeds", "Endosperm is absent in both types of seeds"],
+      "correctAnswer": "Endosperm is absent in dicot seeds and large in monocot seeds"
+    },
+    {
+      "id": 37,
+      "question": "Why is oxygen necessary for seed germination?",
+      "options": ["It is needed for aerobic respiration to provide energy for embryo growth", "It helps hydrate the seed coat during germination", "It activates the enzymes needed for photosynthesis", "It provides carbon atoms for the growing seedling"],
+      "correctAnswer": "It is needed for aerobic respiration to provide energy for embryo growth"
+    },
+    {
+      "id": 38,
+      "question": "According to the cohesion-tension theory, what property of water helps hold the water column together within xylem vessels?",
+      "options": ["Adhesion of water to cell walls by hydrogen bonds", "The high density of water molecules", "Cohesion of water molecules by hydrogen bonds", "The osmotic potential of water"],
+      "correctAnswer": "Cohesion of water molecules by hydrogen bonds"
+    },
+    {
+      "id": 39,
+      "question": "Which Ethiopian medicinal plant is traditionally used to treat tapeworm infection?",
+      "options": ["Zingiber officinale", "Hagenia abyssinica", "Ocimum lamifolium", "Eucalyptus globulus"],
+      "correctAnswer": "Hagenia abyssinica"
+    },
+    {
+      "id": 40,
+      "question": "For what achievement was Professor Sebsebe Demissew awarded the Cuatrecases Medal in 2021?",
+      "options": ["For his lifetime work in conserving and recording the diverse Ethiopian flora", "For being the first Sub-Saharan African elected to the Royal Society", "For discovering new species of medicinal plants in Ethiopia", "For establishing the Ethiopian National Herbarium in Addis Ababa"],
+      "correctAnswer": "For his lifetime work in conserving and recording the diverse Ethiopian flora"
     }
   ]
 }

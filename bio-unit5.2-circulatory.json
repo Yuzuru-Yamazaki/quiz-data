@@ -1,0 +1,341 @@
+{
+  "title": "5.2 The Circulatory and Lymphatic System",
+  "description": "Quiz covering the circulatory and lymphatic systems: heart, blood vessels, blood composition, circulation, blood donation, and related diseases.",
+  "tags": [
+    "#biology",
+    "#circulatory",
+    "#humanbiology"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary function of the heart?",
+      "options": [
+        "Filter blood",
+        "Produce hormones",
+        "Pump blood",
+        "Digest nutrients"
+      ],
+      "correctAnswer": "Pump blood"
+    },
+    {
+      "id": 2,
+      "question": "How many chambers does the human heart have?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "correctAnswer": "Four"
+    },
+    {
+      "id": 3,
+      "question": "Which chamber of the heart receives deoxygenated blood from the body?",
+      "options": [
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium",
+        "Right ventricle"
+      ],
+      "correctAnswer": "Right atrium"
+    },
+    {
+      "id": 4,
+      "question": "Which valve separates the left atrium from the left ventricle?",
+      "options": [
+        "Tricuspid valve",
+        "Aortic valve",
+        "Bicuspid (Mitral) valve",
+        "Pulmonary valve"
+      ],
+      "correctAnswer": "Bicuspid (Mitral) valve"
+    },
+    {
+      "id": 5,
+      "question": "The thickest layer of the heart wall is the:",
+      "options": [
+        "Endocardium",
+        "Myocardium",
+        "Epicardium",
+        "Pericardium"
+      ],
+      "correctAnswer": "Myocardium"
+    },
+    {
+      "id": 6,
+      "question": "Which blood vessel carries deoxygenated blood from the heart to the lungs?",
+      "options": [
+        "Vena cava",
+        "Aorta",
+        "Pulmonary artery",
+        "Pulmonary vein"
+      ],
+      "correctAnswer": "Pulmonary artery"
+    },
+    {
+      "id": 7,
+      "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+      "options": [
+        "Aorta",
+        "Superior vena cava",
+        "Pulmonary artery",
+        "Pulmonary vein"
+      ],
+      "correctAnswer": "Pulmonary vein"
+    },
+    {
+      "id": 8,
+      "question": "The movement of blood from the heart to the lungs and back is called:",
+      "options": [
+        "Systemic circulation",
+        "Pulmonary circulation",
+        "Coronary circulation",
+        "Hepatic circulation"
+      ],
+      "correctAnswer": "Pulmonary circulation"
+    },
+    {
+      "id": 9,
+      "question": "Systemic circulation refers to the movement of blood:",
+      "options": [
+        "From the heart through the body and back",
+        "From the heart to the lungs and back",
+        "Through the coronary arteries",
+        "From the digestive system to the liver"
+      ],
+      "correctAnswer": "From the heart through the body and back"
+    },
+    {
+      "id": 10,
+      "question": "Which is the body's largest artery?",
+      "options": [
+        "Carotid artery",
+        "Brachial artery",
+        "Pulmonary artery",
+        "Aorta"
+      ],
+      "correctAnswer": "Aorta"
+    },
+    {
+      "id": 11,
+      "question": "The period of contraction of the heart during the cardiac cycle is called:",
+      "options": [
+        "Systole",
+        "Diastole",
+        "Murmur",
+        "Auscultation"
+      ],
+      "correctAnswer": "Systole"
+    },
+    {
+      "id": 12,
+      "question": "The \"Lub\" heart sound is caused by the closing of the:",
+      "options": [
+        "Semilunar valves",
+        "Aortic valve",
+        "Atrioventricular valves",
+        "Pulmonary valve"
+      ],
+      "correctAnswer": "Atrioventricular valves"
+    },
+    {
+      "id": 13,
+      "question": "Normal systolic blood pressure is less than:",
+      "options": [
+        "120 mmHg",
+        "80 mmHg",
+        "100 mmHg",
+        "140 mmHg"
+      ],
+      "correctAnswer": "120 mmHg"
+    },
+    {
+      "id": 14,
+      "question": "The instrument used to measure blood pressure is called a:",
+      "options": [
+        "Stethoscope",
+        "Sphygmomanometer",
+        "Thermometer",
+        "Electrocardiogram"
+      ],
+      "correctAnswer": "Sphygmomanometer"
+    },
+    {
+      "id": 15,
+      "question": "Which blood cells transport oxygen to the tissues?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma cells"
+      ],
+      "correctAnswer": "Red blood cells"
+    },
+    {
+      "id": 16,
+      "question": "The protein in red blood cells that carries oxygen is called:",
+      "options": [
+        "Fibrinogen",
+        "Hemoglobin",
+        "Thymosin",
+        "Antibody"
+      ],
+      "correctAnswer": "Hemoglobin"
+    },
+    {
+      "id": 17,
+      "question": "Which blood cells play an essential role in blood clotting?",
+      "options": [
+        "Erythrocytes",
+        "Leukocytes",
+        "Lymphocytes",
+        "Platelets"
+      ],
+      "correctAnswer": "Platelets"
+    },
+    {
+      "id": 18,
+      "question": "What percentage of blood volume is made up of plasma?",
+      "options": [
+        "75%",
+        "45%",
+        "55%",
+        "65%"
+      ],
+      "correctAnswer": "55%"
+    },
+    {
+      "id": 19,
+      "question": "Which blood group is known as the universal donor?",
+      "options": [
+        "Group AB",
+        "Group O",
+        "Group A",
+        "Group B"
+      ],
+      "correctAnswer": "Group O"
+    },
+    {
+      "id": 20,
+      "question": "Which blood group is known as the universal recipient?",
+      "options": [
+        "Group AB",
+        "Group O",
+        "Group B",
+        "Group A"
+      ],
+      "correctAnswer": "Group AB"
+    },
+    {
+      "id": 21,
+      "question": "A person with blood group A has which antigens on their red blood cells?",
+      "options": [
+        "B antigens",
+        "No antigens",
+        "A and B antigens",
+        "A antigens"
+      ],
+      "correctAnswer": "A antigens"
+    },
+    {
+      "id": 22,
+      "question": "Approximately what percentage of the population is Rhesus positive (Rh+)?",
+      "options": [
+        "65%",
+        "75%",
+        "85%",
+        "55%"
+      ],
+      "correctAnswer": "85%"
+    },
+    {
+      "id": 23,
+      "question": "The condition caused by the accumulation of plaque in artery walls is called:",
+      "options": [
+        "Atherosclerosis",
+        "Varicose veins",
+        "Arrhythmia",
+        "Leukemia"
+      ],
+      "correctAnswer": "Atherosclerosis"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is a cancer that affects blood-forming tissues?",
+      "options": [
+        "Elephantiasis",
+        "Leukemia",
+        "Anemia",
+        "Hypertension"
+      ],
+      "correctAnswer": "Leukemia"
+    },
+    {
+      "id": 25,
+      "question": "Elephantiasis is caused by a blockage in which system?",
+      "options": [
+        "Lymphatic system",
+        "Cardiovascular system",
+        "Respiratory system",
+        "Digestive system"
+      ],
+      "correctAnswer": "Lymphatic system"
+    },
+    {
+      "id": 26,
+      "question": "A key function of the lymphatic system is returning excess interstitial fluid to the:",
+      "options": [
+        "Heart",
+        "Arteries",
+        "Blood",
+        "Lungs"
+      ],
+      "correctAnswer": "Blood"
+    },
+    {
+      "id": 27,
+      "question": "Which lymphatic organ processes and matures T-lymphocytes?",
+      "options": [
+        "Spleen",
+        "Lymph nodes",
+        "Tonsils",
+        "Thymus"
+      ],
+      "correctAnswer": "Thymus"
+    },
+    {
+      "id": 28,
+      "question": "Varicose veins occur when:",
+      "options": [
+        "Lymphatic vessels become blocked",
+        "Faulty vein valves allow blood to flow in the wrong direction",
+        "Arteries become blocked with plaque",
+        "The heart fails to pump blood efficiently"
+      ],
+      "correctAnswer": "Faulty vein valves allow blood to flow in the wrong direction"
+    },
+    {
+      "id": 29,
+      "question": "What is the term for an abnormal heart rhythm?",
+      "options": [
+        "Arrhythmia",
+        "Bradycardia",
+        "Tachycardia",
+        "Atherosclerosis"
+      ],
+      "correctAnswer": "Arrhythmia"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a function of white blood cells?",
+      "options": [
+        "Carrying oxygen",
+        "Blood clotting",
+        "Transporting nutrients",
+        "Fighting infections"
+      ],
+      "correctAnswer": "Fighting infections"
+    }
+  ]
+}
