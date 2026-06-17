@@ -1,0 +1,187 @@
+{
+  "title": "2.0 Plants",
+  "description": "Quiz covering Unit 2 of Grade 10 Biology: plant characteristics, structure, reproduction, photosynthesis, transport, response, medicinal plants, and Ethiopian botanists.",
+  "tags": ["#biology", "#plants", "#photosynthesis"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are plants described as due to their ability to produce their own food?",
+      "options": ["Heterotrophs", "Consumers", "Producers or autotrophs", "Decomposers"],
+      "correctAnswer": "Producers or autotrophs"
+    },
+    {
+      "id": 2,
+      "question": "What is a distinctive feature of plant cells that is not found in animal cells?",
+      "options": ["A well-defined nucleus", "A cell membrane", "Membrane-bound organelles", "A rigid cell wall made of cellulose"],
+      "correctAnswer": "A rigid cell wall made of cellulose"
+    },
+    {
+      "id": 3,
+      "question": "Which plant group produces naked seeds that are not covered by a fruit?",
+      "options": ["Angiosperms", "Gymnosperms", "Mosses", "Liverworts"],
+      "correctAnswer": "Gymnosperms"
+    },
+    {
+      "id": 4,
+      "question": "What is the reproductive structure of gymnosperms?",
+      "options": ["Cone", "Flower", "Fruit", "Spore"],
+      "correctAnswer": "Cone"
+    },
+    {
+      "id": 5,
+      "question": "What is the broadest part of a leaf that provides a large surface area for collecting light?",
+      "options": ["Petiole", "Midrib", "Margin", "Lamina"],
+      "correctAnswer": "Lamina"
+    },
+    {
+      "id": 6,
+      "question": "Which type of root system is a feature of dicot plants?",
+      "options": ["Fibrous root system", "Adventitious root system", "Tap root system", "Aerial root system"],
+      "correctAnswer": "Tap root system"
+    },
+    {
+      "id": 7,
+      "question": "Which layer of the leaf contains the largest number of chloroplasts and carries out most of the photosynthesis?",
+      "options": ["Spongy layer", "Lower epidermis", "Upper epidermis", "Palisade layer"],
+      "correctAnswer": "Palisade layer"
+    },
+    {
+      "id": 8,
+      "question": "Which layer of the stem is composed of collenchyma cells that provide mechanical strength?",
+      "options": ["Epidermis", "Cortex", "Endodermis", "Hypodermis"],
+      "correctAnswer": "Hypodermis"
+    },
+    {
+      "id": 9,
+      "question": "What is the function of the endodermis in the root?",
+      "options": ["To help move water and nutrients from the cortex into the xylem", "To store food and water", "To give rise to lateral roots", "To absorb water from the soil"],
+      "correctAnswer": "To help move water and nutrients from the cortex into the xylem"
+    },
+    {
+      "id": 10,
+      "question": "In gymnosperms, which structure contains the egg cell?",
+      "options": ["Antheridium", "Ovary", "Archegonium", "Stigma"],
+      "correctAnswer": "Archegonium"
+    },
+    {
+      "id": 11,
+      "question": "What is the female reproductive organ of a flower called?",
+      "options": ["Stamen", "Pistil", "Petal", "Sepal"],
+      "correctAnswer": "Pistil"
+    },
+    {
+      "id": 12,
+      "question": "The transfer of pollen grains from an anther to a stigma on the same plant is called:",
+      "options": ["Cross-pollination", "Seed dispersal", "Double fertilization", "Self-pollination"],
+      "correctAnswer": "Self-pollination"
+    },
+    {
+      "id": 13,
+      "question": "What develops directly from the zygote after fertilization in flowering plants?",
+      "options": ["Endosperm", "Fruit", "Seed embryo", "Ovule"],
+      "correctAnswer": "Seed embryo"
+    },
+    {
+      "id": 14,
+      "question": "What are the three main parts of a seed?",
+      "options": ["Radicle, plumule, and cotyledon", "Epicotyl, hypocotyl, and radicle", "Seed embryo, cotyledon or endosperm, and seed coat", "Embryo, endosperm, and fruit"],
+      "correctAnswer": "Seed embryo, cotyledon or endosperm, and seed coat"
+    },
+    {
+      "id": 15,
+      "question": "How many cotyledons does a monocot seed have?",
+      "options": ["Two", "One", "Three", "Four"],
+      "correctAnswer": "One"
+    },
+    {
+      "id": 16,
+      "question": "Seeds that have hairy or winged structures are most likely dispersed by:",
+      "options": ["Animals", "Water", "Explosion", "Wind"],
+      "correctAnswer": "Wind"
+    },
+    {
+      "id": 17,
+      "question": "What is the role of water in seed germination?",
+      "options": ["It supplies carbon for the growing seedling", "It hydrates the seed coat and enables enzymatic hydrolysis", "It provides energy for the growing embryo", "It cools the seed during germination"],
+      "correctAnswer": "It hydrates the seed coat and enables enzymatic hydrolysis"
+    },
+    {
+      "id": 18,
+      "question": "According to the World Health Organization, approximately how many people in developing countries rely on plant medicines for their health care?",
+      "options": ["About 1 billion", "Nearly 2.5 billion", "Nearly 3.5 billion", "About 5 billion"],
+      "correctAnswer": "Nearly 3.5 billion"
+    },
+    {
+      "id": 19,
+      "question": "Which Ethiopian botanist was elected as a Foreign Member of the Royal Society in London in 2018?",
+      "options": ["Melaku Wondafrash", "Sebsebe Demissew", "Tesfaye Awas", "Ensermu Kelbessa"],
+      "correctAnswer": "Sebsebe Demissew"
+    },
+    {
+      "id": 20,
+      "question": "What are the two distinct parts of a chloroplast?",
+      "options": ["Thylakoid and lumen", "Matrix and cristae", "Palisade and spongy", "Granum and stroma"],
+      "correctAnswer": "Granum and stroma"
+    },
+    {
+      "id": 21,
+      "question": "What colour of light is mainly reflected by chlorophyll, causing leaves to appear green?",
+      "options": ["Green light", "Blue light", "Red light", "Violet light"],
+      "correctAnswer": "Green light"
+    },
+    {
+      "id": 22,
+      "question": "What gas is released into the atmosphere as a result of photolysis during the light reaction?",
+      "options": ["Carbon dioxide", "Water vapour", "Hydrogen", "Oxygen"],
+      "correctAnswer": "Oxygen"
+    },
+    {
+      "id": 23,
+      "question": "What is the immediate carbohydrate product of the dark reaction in photosynthesis?",
+      "options": ["Starch", "Glucose", "Cellulose", "Sucrose"],
+      "correctAnswer": "Glucose"
+    },
+    {
+      "id": 24,
+      "question": "What colour change indicates the presence of starch when iodine solution is applied to a leaf?",
+      "options": ["Yellow to brown", "Red to green", "Colourless to white", "Blue-black colour"],
+      "correctAnswer": "Blue-black colour"
+    },
+    {
+      "id": 25,
+      "question": "What does the xylem transport in plants?",
+      "options": ["Sucrose and amino acids", "Carbon dioxide and oxygen", "Water and dissolved minerals", "Food from leaves to roots"],
+      "correctAnswer": "Water and dissolved minerals"
+    },
+    {
+      "id": 26,
+      "question": "What is the process of food transport through the phloem called?",
+      "options": ["Transpiration", "Diffusion", "Absorption", "Translocation"],
+      "correctAnswer": "Translocation"
+    },
+    {
+      "id": 27,
+      "question": "In the ringing experiment, what is the first part of the plant to die when the bark with phloem is removed?",
+      "options": ["Leaf", "Root", "Stem", "Flower"],
+      "correctAnswer": "Root"
+    },
+    {
+      "id": 28,
+      "question": "Which tropism causes the shoot to bend towards light?",
+      "options": ["Geotropism", "Hydrotropism", "Thigmotropism", "Phototropism"],
+      "correctAnswer": "Phototropism"
+    },
+    {
+      "id": 29,
+      "question": "What is the response of the root to gravity?",
+      "options": ["Negatively hydrotropic", "Negatively geotropic", "Positively hydrotropic", "Positively geotropic"],
+      "correctAnswer": "Positively geotropic"
+    },
+    {
+      "id": 30,
+      "question": "What did Charles Darwin conclude from his phototropism experiment on coleoptiles?",
+      "options": ["Light destroys growth hormones on the illuminated side", "Auxin is produced in the roots and moves upward", "The tip detects light and some influence is transmitted to regulate growth", "Roots respond more strongly to light than shoots"],
+      "correctAnswer": "The tip detects light and some influence is transmitted to regulate growth"
+    }
+  ]
+}
