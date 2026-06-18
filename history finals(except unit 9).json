@@ -1,0 +1,4811 @@
+{
+  "title": "History Finals (Units 7 & 8)",
+  "description": "Comprehensive exam covering Grade 10 History Units 7 and 8 \u2014 all subtopics merged.",
+  "tags": [
+    "#history",
+    "#final",
+    "#merged"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "From what year was Egypt a British protectorate?",
+      "options": [
+        "1882",
+        "1900",
+        "1914",
+        "1922"
+      ],
+      "correctAnswer": "1882",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 2,
+      "question": "Who led the Egyptian delegation demanding an end to the British protectorate?",
+      "options": [
+        "Gamal Abdel Nasser",
+        "Muhammad Naguib",
+        "Saad Zaghlul",
+        "King Farouk"
+      ],
+      "correctAnswer": "Saad Zaghlul",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 3,
+      "question": "On what date did Britain issue a unilateral declaration of Egyptian independence?",
+      "options": [
+        "March 2, 1956",
+        "December 24, 1951",
+        "February 22, 1922",
+        "July 1, 1962"
+      ],
+      "correctAnswer": "February 22, 1922",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 4,
+      "question": "When did Libya become independent?",
+      "options": [
+        "December 24, 1951",
+        "January 1, 1956",
+        "March 2, 1956",
+        "July 1, 1962"
+      ],
+      "correctAnswer": "December 24, 1951",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 5,
+      "question": "Libya gained independence under what arrangement?",
+      "options": [
+        "French mandate",
+        "British protectorate",
+        "UN Trusteeship from Italy",
+        "Anglo-Egyptian Condominium"
+      ],
+      "correctAnswer": "UN Trusteeship from Italy",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 6,
+      "question": "The 1952 Egyptian Revolution overthrew which monarch?",
+      "options": [
+        "King Farouk",
+        "King Fuad",
+        "Sultan Mohammed V",
+        "King Idris"
+      ],
+      "correctAnswer": "King Farouk",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 7,
+      "question": "The 1952 Egyptian Revolution was led by which two individuals?",
+      "options": [
+        "Sadat and Mubarak",
+        "Muhammad Naguib and Gamal Abdel Nasser",
+        "Saad Zaghlul and Nasser",
+        "Naguib and King Farouk"
+      ],
+      "correctAnswer": "Muhammad Naguib and Gamal Abdel Nasser",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 8,
+      "question": "When did Sudan become independent?",
+      "options": [
+        "January 1, 1956",
+        "December 24, 1951",
+        "March 2, 1956",
+        "July 1, 1962"
+      ],
+      "correctAnswer": "January 1, 1956",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 9,
+      "question": "Sudan's independence ended which joint administration?",
+      "options": [
+        "French-British Condominium",
+        "Anglo-Egyptian Condominium",
+        "Italian-Egyptian Condominium",
+        "Belgian-British Condominium"
+      ],
+      "correctAnswer": "Anglo-Egyptian Condominium",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 10,
+      "question": "What French military defeat in 1954 gave impetus to North African liberation movements?",
+      "options": [
+        "Battle of Dien Bien Phu",
+        "Battle of Algiers",
+        "Fall of Paris",
+        "Defeat at Waterloo"
+      ],
+      "correctAnswer": "Battle of Dien Bien Phu",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 11,
+      "question": "After the Egyptian Revolution of 1952, who became Egypt's first President?",
+      "options": [
+        "Gamal Abdel Nasser",
+        "Muhammad Naguib",
+        "Saad Zaghlul",
+        "King Farouk"
+      ],
+      "correctAnswer": "Muhammad Naguib",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 12,
+      "question": "When did Morocco become independent?",
+      "options": [
+        "March 2, 1956",
+        "July 1, 1962",
+        "December 24, 1951",
+        "January 1, 1956"
+      ],
+      "correctAnswer": "March 2, 1956",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 13,
+      "question": "Who led Morocco to independence?",
+      "options": [
+        "Habib Bourguiba",
+        "Sultan Mohammed V",
+        "Ahmed Ben Bella",
+        "Saad Zaghlul"
+      ],
+      "correctAnswer": "Sultan Mohammed V",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 14,
+      "question": "What happened to French and Spanish Morocco after independence?",
+      "options": [
+        "They remained separate states",
+        "They were reunited",
+        "Spain kept its zone",
+        "They became a UN trusteeship"
+      ],
+      "correctAnswer": "They were reunited",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 15,
+      "question": "When did Tunisia become independent?",
+      "options": [
+        "1954",
+        "1955",
+        "1956",
+        "1957"
+      ],
+      "correctAnswer": "1956",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 16,
+      "question": "Who led Tunisia to independence and what party did he lead?",
+      "options": [
+        "Ahmed Ben Bella, FLN",
+        "Habib Bourguiba, Neo-Destour Party",
+        "Sultan Mohammed V, Istiqlal",
+        "Saad Zaghlul, Wafd Party"
+      ],
+      "correctAnswer": "Habib Bourguiba, Neo-Destour Party",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 17,
+      "question": "The Algerian guerrilla war against France lasted from:",
+      "options": [
+        "1954-1962",
+        "1950-1958",
+        "1956-1964",
+        "1952-1960"
+      ],
+      "correctAnswer": "1954-1962",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 18,
+      "question": "Which party led the Algerian liberation struggle?",
+      "options": [
+        "Neo-Destour Party",
+        "CPP",
+        "FLN (National Liberation Front of Algeria)",
+        "Wafd Party"
+      ],
+      "correctAnswer": "FLN (National Liberation Front of Algeria)",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 19,
+      "question": "Who was the leader of the FLN in Algeria?",
+      "options": [
+        "Habib Bourguiba",
+        "Ahmed Ben Bella",
+        "Muhammad Naguib",
+        "Sultan Mohammed V"
+      ],
+      "correctAnswer": "Ahmed Ben Bella",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 20,
+      "question": "What was the name of the white settler organization formed to prevent Algerian independence?",
+      "options": [
+        "Secret Armed Organization",
+        "National Liberation Front",
+        "Algerian Freedom Force",
+        "Colonial Defense League"
+      ],
+      "correctAnswer": "Secret Armed Organization",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 21,
+      "question": "In what year did Britain declare Egyptian independence?",
+      "options": [
+        "1914",
+        "1922",
+        "1936",
+        "1952"
+      ],
+      "correctAnswer": "1922",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 22,
+      "question": "When did Algeria become independent?",
+      "options": [
+        "July 1, 1962",
+        "March 2, 1956",
+        "January 1, 1956",
+        "December 24, 1951"
+      ],
+      "correctAnswer": "July 1, 1962",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 23,
+      "question": "Algerian independence was confirmed by what means?",
+      "options": [
+        "UN resolution",
+        "Treaty with France",
+        "Referendum",
+        "Military victory"
+      ],
+      "correctAnswer": "Referendum",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 24,
+      "question": "Which North African country was the first to achieve independence?",
+      "options": [
+        "Egypt",
+        "Libya",
+        "Sudan",
+        "Morocco"
+      ],
+      "correctAnswer": "Egypt",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 25,
+      "question": "Which North African country was the last to achieve independence?",
+      "options": [
+        "Egypt",
+        "Tunisia",
+        "Algeria",
+        "Morocco"
+      ],
+      "correctAnswer": "Algeria",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 26,
+      "question": "What was the Anglo-Egyptian Condominium over Sudan?",
+      "options": [
+        "A joint British-Egyptian administration",
+        "A French colonial territory",
+        "An independent kingdom",
+        "A UN trust territory"
+      ],
+      "correctAnswer": "A joint British-Egyptian administration",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 27,
+      "question": "Which North African country's independence was confirmed by a referendum?",
+      "options": [
+        "Egypt",
+        "Algeria",
+        "Morocco",
+        "Tunisia"
+      ],
+      "correctAnswer": "Algeria",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 28,
+      "question": "Sultan Mohammed V led which country to independence?",
+      "options": [
+        "Tunisia",
+        "Algeria",
+        "Morocco",
+        "Libya"
+      ],
+      "correctAnswer": "Morocco",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 29,
+      "question": "Britain's declaration of Egyptian independence in 1922 was described as:",
+      "options": [
+        "A negotiated treaty",
+        "Unilateral",
+        "A UN mandate",
+        "A conditional grant"
+      ],
+      "correctAnswer": "Unilateral",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 30,
+      "question": "The 1952 Egyptian Revolution was significant because it:",
+      "options": [
+        "Ended British rule immediately",
+        "Overthrew King Farouk and intensified demands for Sudanese independence",
+        "Created a monarchy",
+        "Established a French protectorate"
+      ],
+      "correctAnswer": "Overthrew King Farouk and intensified demands for Sudanese independence",
+      "source": "7.1.1 North Africa Liberation"
+    },
+    {
+      "id": 31,
+      "question": "Which territory was the first British colony in sub-Saharan Africa to gain independence?",
+      "options": [
+        "Gold Coast",
+        "Nigeria",
+        "Sierra Leone",
+        "Gambia"
+      ],
+      "correctAnswer": "Gold Coast",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 32,
+      "question": "What was Ghana called before independence?",
+      "options": [
+        "Gold Coast",
+        "Slave Coast",
+        "Ivory Coast",
+        "Upper Volta"
+      ],
+      "correctAnswer": "Gold Coast",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 33,
+      "question": "In what year did Ghana gain independence?",
+      "options": [
+        "1957",
+        "1960",
+        "1961",
+        "1965"
+      ],
+      "correctAnswer": "1957",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 34,
+      "question": "Which party first led the struggle in the Gold Coast before Kwame Nkrumah formed his own?",
+      "options": [
+        "CPP",
+        "KANU",
+        "UGCC",
+        "NCNC"
+      ],
+      "correctAnswer": "UGCC",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 35,
+      "question": "In what year did Kwame Nkrumah found the CPP (Convention People's Party)?",
+      "options": [
+        "1945",
+        "1947",
+        "1949",
+        "1951"
+      ],
+      "correctAnswer": "1949",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 36,
+      "question": "In Nigeria, which party was associated with the Igbo ethnic group?",
+      "options": [
+        "NPC",
+        "AG",
+        "NCNC",
+        "CPP"
+      ],
+      "correctAnswer": "NCNC",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 37,
+      "question": "In Nigeria, which party was associated with the Yoruba ethnic group?",
+      "options": [
+        "NCNC",
+        "NPC",
+        "AG",
+        "KANU"
+      ],
+      "correctAnswer": "AG",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 38,
+      "question": "In Nigeria, which party was associated with the Hausa-Fulani ethnic group?",
+      "options": [
+        "AG",
+        "NCNC",
+        "NPC",
+        "UGCC"
+      ],
+      "correctAnswer": "NPC",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 39,
+      "question": "In what year did Nigeria become independent?",
+      "options": [
+        "1957",
+        "1959",
+        "1960",
+        "1961"
+      ],
+      "correctAnswer": "1960",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 40,
+      "question": "In what year did the Nigerian parties reach agreement to pursue independence?",
+      "options": [
+        "1957",
+        "1959",
+        "1960",
+        "1961"
+      ],
+      "correctAnswer": "1959",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 41,
+      "question": "When did Sierra Leone become independent?",
+      "options": [
+        "1960",
+        "1961",
+        "1963",
+        "1965"
+      ],
+      "correctAnswer": "1961",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 42,
+      "question": "When did Gambia become independent?",
+      "options": [
+        "1960",
+        "1961",
+        "1963",
+        "1965"
+      ],
+      "correctAnswer": "1965",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 43,
+      "question": "In De Gaulle's 1958 referendum, what was offered to French African colonies in exchange for a YES vote?",
+      "options": [
+        "Joining the French Community",
+        "Full independence",
+        "UN membership",
+        "British Commonwealth membership"
+      ],
+      "correctAnswer": "Joining the French Community",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 44,
+      "question": "Which French West African colony voted NO in De Gaulle's 1958 referendum?",
+      "options": [
+        "Senegal",
+        "Ivory Coast",
+        "Guinea",
+        "Mali"
+      ],
+      "correctAnswer": "Guinea",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 45,
+      "question": "Who led Guinea to vote NO in the 1958 referendum?",
+      "options": [
+        "Houphouet-Boigny",
+        "Leopold Senghor",
+        "Seko Toure",
+        "Modibo Keita"
+      ],
+      "correctAnswer": "Seko Toure",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 46,
+      "question": "When did Guinea become independent?",
+      "options": [
+        "October 2, 1958",
+        "January 1, 1960",
+        "March 2, 1956",
+        "July 1, 1962"
+      ],
+      "correctAnswer": "October 2, 1958",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 47,
+      "question": "What year did most French West and Equatorial African colonies become independent?",
+      "options": [
+        "1958",
+        "1960",
+        "1961",
+        "1962"
+      ],
+      "correctAnswer": "1960",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 48,
+      "question": "French Sudan became independent as which country?",
+      "options": [
+        "Mali",
+        "Senegal",
+        "Burkina Faso",
+        "Guinea"
+      ],
+      "correctAnswer": "Mali",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 49,
+      "question": "Upper Volta is now known as:",
+      "options": [
+        "Benin",
+        "Mali",
+        "Burkina Faso",
+        "Niger"
+      ],
+      "correctAnswer": "Burkina Faso",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 50,
+      "question": "Dahomey is now known as:",
+      "options": [
+        "Togo",
+        "Benin",
+        "Niger",
+        "Senegal"
+      ],
+      "correctAnswer": "Benin",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 51,
+      "question": "Ubangi Shari became independent as which country?",
+      "options": [
+        "Congo (Brazzaville)",
+        "Chad",
+        "Central African Republic",
+        "Gabon"
+      ],
+      "correctAnswer": "Central African Republic",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 52,
+      "question": "Which of these was a French West African colony?",
+      "options": [
+        "Mauritania",
+        "Nigeria",
+        "Gambia",
+        "Sierra Leone"
+      ],
+      "correctAnswer": "Mauritania",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 53,
+      "question": "Which of these was a French Equatorial African colony?",
+      "options": [
+        "Chad",
+        "Togo",
+        "Nigeria",
+        "Ghana"
+      ],
+      "correctAnswer": "Chad",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 54,
+      "question": "The Portuguese considered their colonies as:",
+      "options": [
+        "Mandates",
+        "Trust territories",
+        "Overseas provinces",
+        "Protectorates"
+      ],
+      "correctAnswer": "Overseas provinces",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 55,
+      "question": "When did Guinea-Bissau and Cape Verde become independent?",
+      "options": [
+        "1960/1961",
+        "1970/1971",
+        "1973/1974",
+        "1975/1976"
+      ],
+      "correctAnswer": "1973/1974",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 56,
+      "question": "How would you describe the Portuguese West African independence struggles compared to others?",
+      "options": [
+        "Peaceful and negotiated",
+        "Violent, bloody, and protracted",
+        "Quick and decisive",
+        "Mediated by the UN"
+      ],
+      "correctAnswer": "Violent, bloody, and protracted",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 57,
+      "question": "Besides Guinea-Bissau and Cape Verde, Portugal also colonized which other African countries?",
+      "options": [
+        "Senegal and Mali",
+        "Angola and Mozambique",
+        "Nigeria and Ghana",
+        "Kenya and Tanzania"
+      ],
+      "correctAnswer": "Angola and Mozambique",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 58,
+      "question": "Why did Portuguese African colonies gain independence later than British and French ones?",
+      "options": [
+        "Portugal was weaker",
+        "Portugal considered them overseas provinces and refused decolonisation",
+        "They had no nationalist movements",
+        "The UN blocked their independence"
+      ],
+      "correctAnswer": "Portugal considered them overseas provinces and refused decolonisation",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 59,
+      "question": "Which of these was a British West African colony?",
+      "options": [
+        "Gold Coast",
+        "Ivory Coast",
+        "Mali",
+        "Guinea"
+      ],
+      "correctAnswer": "Gold Coast",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 60,
+      "question": "Which British West African colony became independent last?",
+      "options": [
+        "Sierra Leone in 1961",
+        "Gambia in 1965",
+        "Nigeria in 1960",
+        "Gold Coast in 1957"
+      ],
+      "correctAnswer": "Gambia in 1965",
+      "source": "7.1.2 West Africa Liberation"
+    },
+    {
+      "id": 61,
+      "question": "In what year did Tanganyika become independent?",
+      "options": [
+        "1961",
+        "1962",
+        "1963",
+        "1964"
+      ],
+      "correctAnswer": "1961",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 62,
+      "question": "What political party led Tanganyika to independence?",
+      "options": [
+        "KANU",
+        "TANU",
+        "UPC",
+        "MNC"
+      ],
+      "correctAnswer": "TANU",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 63,
+      "question": "Who led Tanganyika to independence?",
+      "options": [
+        "Jomo Kenyatta",
+        "Milton Obote",
+        "Julius Nyerere",
+        "Patrice Lumumba"
+      ],
+      "correctAnswer": "Julius Nyerere",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 64,
+      "question": "When did Zanzibar become independent?",
+      "options": [
+        "1961",
+        "1962",
+        "1963",
+        "1964"
+      ],
+      "correctAnswer": "1963",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 65,
+      "question": "In what year did Tanganyika and Zanzibar merge to form Tanzania?",
+      "options": [
+        "1961",
+        "1962",
+        "1963",
+        "1964"
+      ],
+      "correctAnswer": "1964",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 66,
+      "question": "When did Uganda become independent?",
+      "options": [
+        "1960",
+        "1961",
+        "1962",
+        "1963"
+      ],
+      "correctAnswer": "1962",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 67,
+      "question": "Who became the first leader of independent Uganda?",
+      "options": [
+        "Julius Nyerere",
+        "Jomo Kenyatta",
+        "Milton Obote",
+        "Patrice Lumumba"
+      ],
+      "correctAnswer": "Milton Obote",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 68,
+      "question": "Uganda's independence was achieved through a coalition between which two parties?",
+      "options": [
+        "TANU and KANU",
+        "UPC and Kabaka Yekka",
+        "MNC and ABAKO",
+        "CPP and UGCC"
+      ],
+      "correctAnswer": "UPC and Kabaka Yekka",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 69,
+      "question": "The Mau Mau revolt in Kenya occurred between:",
+      "options": [
+        "1948-1951",
+        "1952-1955",
+        "1956-1959",
+        "1960-1963"
+      ],
+      "correctAnswer": "1952-1955",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 70,
+      "question": "Who was the Mau Mau revolt primarily composed of?",
+      "options": [
+        "Wealthy landowners",
+        "Urban elites",
+        "Dispossessed peasants",
+        "Foreign settlers"
+      ],
+      "correctAnswer": "Dispossessed peasants",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 71,
+      "question": "Which Kenyan leader was imprisoned during the Mau Mau revolt?",
+      "options": [
+        "Milton Obote",
+        "Julius Nyerere",
+        "Jomo Kenyatta",
+        "Tom Mboya"
+      ],
+      "correctAnswer": "Jomo Kenyatta",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 72,
+      "question": "In what year did British officials ease restrictions on the Mau Mau, allowing the resurrection of KAU as KANU?",
+      "options": [
+        "1957",
+        "1958",
+        "1959",
+        "1960"
+      ],
+      "correctAnswer": "1959",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 73,
+      "question": "What percentage of the vote did KANU win in Kenya's first elections?",
+      "options": [
+        "51%",
+        "67%",
+        "75%",
+        "82%"
+      ],
+      "correctAnswer": "67%",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 74,
+      "question": "When did Kenya become independent?",
+      "options": [
+        "1961",
+        "1962",
+        "1963",
+        "1964"
+      ],
+      "correctAnswer": "1963",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 75,
+      "question": "Who became Kenya's first president after independence?",
+      "options": [
+        "Tom Mboya",
+        "Jomo Kenyatta",
+        "Daniel arap Moi",
+        "Milton Obote"
+      ],
+      "correctAnswer": "Jomo Kenyatta",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 76,
+      "question": "During what period was the Belgian Congo a colony of Belgium?",
+      "options": [
+        "1885 to 1960",
+        "1900 to 1960",
+        "1908 to 1960",
+        "1918 to 1960"
+      ],
+      "correctAnswer": "1908 to 1960",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 77,
+      "question": "Who launched the MNC (Congo National Movement) in 1958?",
+      "options": [
+        "Joseph Kasavubu",
+        "Moise Tshombe",
+        "Patrice Lumumba",
+        "Milton Obote"
+      ],
+      "correctAnswer": "Patrice Lumumba",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 78,
+      "question": "In what month and year did riots break out in Leopoldville (Kinshasa)?",
+      "options": [
+        "January 1958",
+        "January 1959",
+        "May 1960",
+        "June 1960"
+      ],
+      "correctAnswer": "January 1959",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 79,
+      "question": "In the May 1960 Congo elections, Lumumba became PM and who became president?",
+      "options": [
+        "Moise Tshombe",
+        "Joseph Kasavubu",
+        "Patrice Lumumba",
+        "Albert Kalonji"
+      ],
+      "correctAnswer": "Joseph Kasavubu",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 80,
+      "question": "Joseph Kasavubu was the leader of which party?",
+      "options": [
+        "MNC",
+        "ABAKO",
+        "TANU",
+        "UNIP"
+      ],
+      "correctAnswer": "ABAKO",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 81,
+      "question": "When did the Congo become independent?",
+      "options": [
+        "June 30, 1960",
+        "January 1, 1960",
+        "May 30, 1960",
+        "July 1, 1960"
+      ],
+      "correctAnswer": "June 30, 1960",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 82,
+      "question": "Which two regions seceded from the Congo after independence?",
+      "options": [
+        "Katanga and South Kasai",
+        "Katanga and North Kivu",
+        "South Kasai and Orientale",
+        "Leopoldville and Katanga"
+      ],
+      "correctAnswer": "Katanga and South Kasai",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 83,
+      "question": "Who led the Katanga secession?",
+      "options": [
+        "Patrice Lumumba",
+        "Joseph Kasavubu",
+        "Moise Tshombe",
+        "Albert Kalonji"
+      ],
+      "correctAnswer": "Moise Tshombe",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 84,
+      "question": "On what date was Patrice Lumumba executed?",
+      "options": [
+        "January 17, 1961",
+        "September 5, 1960",
+        "June 30, 1960",
+        "January 17, 1962"
+      ],
+      "correctAnswer": "January 17, 1961",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 85,
+      "question": "Lumumba was executed by Katangan forces along with which other forces?",
+      "options": [
+        "British troops",
+        "Belgian paratroopers",
+        "French Foreign Legion",
+        "UN peacekeepers"
+      ],
+      "correctAnswer": "Belgian paratroopers",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 86,
+      "question": "When did the Katanga secession officially end?",
+      "options": [
+        "January 1961",
+        "January 1963",
+        "December 1962",
+        "June 1963"
+      ],
+      "correctAnswer": "January 1963",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 87,
+      "question": "What force ended the Katanga secession?",
+      "options": [
+        "Belgian army",
+        "Congo national army",
+        "UN forces",
+        "Soviet forces"
+      ],
+      "correctAnswer": "UN forces",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 88,
+      "question": "What was the name of the German protectorate that included Rwanda, Burundi, and Tanganyika?",
+      "options": [
+        "German East Africa",
+        "German West Africa",
+        "German South-West Africa",
+        "German Kamerun"
+      ],
+      "correctAnswer": "German East Africa",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 89,
+      "question": "After WWI, Belgium controlled Ruanda-Urundi while Britain got:",
+      "options": [
+        "Kenya",
+        "Uganda",
+        "Tanganyika",
+        "Nyasaland"
+      ],
+      "correctAnswer": "Tanganyika",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 90,
+      "question": "When did Rwanda and Burundi become independent?",
+      "options": [
+        "1960",
+        "1961",
+        "1962",
+        "1963"
+      ],
+      "correctAnswer": "1962",
+      "source": "7.1.3 East & Central Africa Liberation"
+    },
+    {
+      "id": 91,
+      "question": "Which British colony became Zimbabwe?",
+      "options": [
+        "Northern Rhodesia",
+        "Southern Rhodesia",
+        "Nyasaland",
+        "Bechuanaland"
+      ],
+      "correctAnswer": "Southern Rhodesia",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 92,
+      "question": "Which British colony became Zambia?",
+      "options": [
+        "Southern Rhodesia",
+        "Northern Rhodesia",
+        "Nyasaland",
+        "Bechuanaland"
+      ],
+      "correctAnswer": "Northern Rhodesia",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 93,
+      "question": "Which British colony became Malawi?",
+      "options": [
+        "Northern Rhodesia",
+        "Bechuanaland",
+        "Nyasaland",
+        "Basutoland"
+      ],
+      "correctAnswer": "Nyasaland",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 94,
+      "question": "Which British colony became Botswana?",
+      "options": [
+        "Basutoland",
+        "Bechuanaland",
+        "Swaziland",
+        "Nyasaland"
+      ],
+      "correctAnswer": "Bechuanaland",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 95,
+      "question": "South Africa was given control of which territory after WWI via the League of Nations?",
+      "options": [
+        "Angola",
+        "Mozambique",
+        "SW Africa (Namibia)",
+        "Southern Rhodesia"
+      ],
+      "correctAnswer": "SW Africa (Namibia)",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 96,
+      "question": "Who led UNIP in the struggle for Zambian independence?",
+      "options": [
+        "Hastings Banda",
+        "Kenneth Kaunda",
+        "Joshua Nkomo",
+        "Robert Mugabe"
+      ],
+      "correctAnswer": "Kenneth Kaunda",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 97,
+      "question": "When did Zambia become independent?",
+      "options": [
+        "October 24, 1964",
+        "July 6, 1964",
+        "April 1980",
+        "1966"
+      ],
+      "correctAnswer": "October 24, 1964",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 98,
+      "question": "When did Malawi become independent?",
+      "options": [
+        "1963",
+        "1964",
+        "1965",
+        "1966"
+      ],
+      "correctAnswer": "1964",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 99,
+      "question": "Who led Malawi to independence?",
+      "options": [
+        "Kenneth Kaunda",
+        "Hastings Banda",
+        "Julius Nyerere",
+        "Milton Obote"
+      ],
+      "correctAnswer": "Hastings Banda",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 100,
+      "question": "When did Lesotho and Botswana become independent?",
+      "options": [
+        "1964",
+        "1965",
+        "1966",
+        "1968"
+      ],
+      "correctAnswer": "1966",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 101,
+      "question": "When did Mauritius become independent?",
+      "options": [
+        "1966",
+        "1967",
+        "1968",
+        "1970"
+      ],
+      "correctAnswer": "1968",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 102,
+      "question": "When did Seychelles become independent?",
+      "options": [
+        "1968",
+        "1970",
+        "1976",
+        "1980"
+      ],
+      "correctAnswer": "1976",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 103,
+      "question": "Who declared UDI (Unilateral Declaration of Independence) for Southern Rhodesia in 1965?",
+      "options": [
+        "Robert Mugabe",
+        "Joshua Nkomo",
+        "Ian Smith",
+        "Hastings Banda"
+      ],
+      "correctAnswer": "Ian Smith",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 104,
+      "question": "What does UDI stand for?",
+      "options": [
+        "United Democratic Independence",
+        "Unilateral Declaration of Independence",
+        "Union for Democratic Integration",
+        "Universal Decree of Independence"
+      ],
+      "correctAnswer": "Unilateral Declaration of Independence",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 105,
+      "question": "What type of rule did Ian Smith's government represent in Southern Rhodesia?",
+      "options": [
+        "Black majority rule",
+        "White minority rule",
+        "Joint power-sharing",
+        "UN trusteeship"
+      ],
+      "correctAnswer": "White minority rule",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 106,
+      "question": "Which two guerrilla movements fought against white rule in Southern Rhodesia?",
+      "options": [
+        "SWAPO and UNIP",
+        "ZANU and ZAPU",
+        "ANC and PAC",
+        "FLN and MNC"
+      ],
+      "correctAnswer": "ZANU and ZAPU",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 107,
+      "question": "Who led ZANU?",
+      "options": [
+        "Joshua Nkomo",
+        "Robert Mugabe",
+        "Ian Smith",
+        "Kenneth Kaunda"
+      ],
+      "correctAnswer": "Robert Mugabe",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 108,
+      "question": "Who led ZAPU?",
+      "options": [
+        "Robert Mugabe",
+        "Joshua Nkomo",
+        "Ian Smith",
+        "Sam Nujoma"
+      ],
+      "correctAnswer": "Joshua Nkomo",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 109,
+      "question": "When did majority rule come to Zimbabwe?",
+      "options": [
+        "April 1980",
+        "April 1979",
+        "April 1981",
+        "April 1982"
+      ],
+      "correctAnswer": "April 1980",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 110,
+      "question": "Who became the first Prime Minister of Zimbabwe?",
+      "options": [
+        "Joshua Nkomo",
+        "Ian Smith",
+        "Robert Mugabe",
+        "Sam Nujoma"
+      ],
+      "correctAnswer": "Robert Mugabe",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 111,
+      "question": "Which organization led the struggle for Namibian independence?",
+      "options": [
+        "ZANU",
+        "ZAPU",
+        "SWAPO",
+        "ANC"
+      ],
+      "correctAnswer": "SWAPO",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 112,
+      "question": "When did Namibia become independent?",
+      "options": [
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+      ],
+      "correctAnswer": "1990",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 113,
+      "question": "When did Equatorial Guinea (formerly Spanish Guinea) become independent?",
+      "options": [
+        "1968",
+        "1969",
+        "1970",
+        "1975"
+      ],
+      "correctAnswer": "1968",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 114,
+      "question": "Portugal had which two Southern African colonies?",
+      "options": [
+        "Namibia and Botswana",
+        "Angola and Mozambique",
+        "Zambia and Malawi",
+        "Lesotho and Swaziland"
+      ],
+      "correctAnswer": "Angola and Mozambique",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 115,
+      "question": "Which country was Southern Rhodesia renamed after majority rule?",
+      "options": [
+        "Zambia",
+        "Zimbabwe",
+        "Malawi",
+        "Botswana"
+      ],
+      "correctAnswer": "Zimbabwe",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 116,
+      "question": "Basutoland became independent as:",
+      "options": [
+        "Botswana",
+        "Lesotho",
+        "Swaziland",
+        "Malawi"
+      ],
+      "correctAnswer": "Lesotho",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 117,
+      "question": "Britain colonized which of these Southern African territories?",
+      "options": [
+        "Angola",
+        "Mozambique",
+        "Nyasaland",
+        "SW Africa"
+      ],
+      "correctAnswer": "Nyasaland",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 118,
+      "question": "Northern Rhodesia became independent as:",
+      "options": [
+        "Malawi",
+        "Zimbabwe",
+        "Zambia",
+        "Botswana"
+      ],
+      "correctAnswer": "Zambia",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 119,
+      "question": "Name the five mainland British colonies in Southern Africa.",
+      "options": [
+        "Southern Rhodesia, Northern Rhodesia, Nyasaland, Bechuanaland, Basutoland",
+        "Zambia, Zimbabwe, Malawi, Botswana, Lesotho",
+        "Angola, Mozambique, Namibia, South Africa",
+        "South Africa, Namibia, Botswana, Zimbabwe, Zambia"
+      ],
+      "correctAnswer": "Southern Rhodesia, Northern Rhodesia, Nyasaland, Bechuanaland, Basutoland",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 120,
+      "question": "Ian Smith's UDI occurred in what year?",
+      "options": [
+        "1963",
+        "1964",
+        "1965",
+        "1966"
+      ],
+      "correctAnswer": "1965",
+      "source": "7.1.4 Southern Africa Liberation"
+    },
+    {
+      "id": 121,
+      "question": "In what year was the ANC (African National Congress) formed?",
+      "options": [
+        "1910",
+        "1912",
+        "1914",
+        "1918"
+      ],
+      "correctAnswer": "1912",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 122,
+      "question": "In what year was the Union of South Africa formed, ending British rule?",
+      "options": [
+        "1902",
+        "1910",
+        "1912",
+        "1931"
+      ],
+      "correctAnswer": "1910",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 123,
+      "question": "Which political party won the 1948 election and introduced the policy of apartheid?",
+      "options": [
+        "ANC",
+        "National Party",
+        "Afrikaner National Party",
+        "Inkatha Freedom Party"
+      ],
+      "correctAnswer": "Afrikaner National Party",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 124,
+      "question": "What does the term 'apartheid' mean?",
+      "options": [
+        "Equal rights",
+        "Separate development and white domination",
+        "Multi-racial democracy",
+        "Unity in diversity"
+      ],
+      "correctAnswer": "Separate development and white domination",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 125,
+      "question": "What percentage of land was reserved for whites under apartheid?",
+      "options": [
+        "50%",
+        "75%",
+        "87%",
+        "93%"
+      ],
+      "correctAnswer": "87%",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 126,
+      "question": "In which year did the ANC launch passive resistance?",
+      "options": [
+        "1950",
+        "1952",
+        "1955",
+        "1960"
+      ],
+      "correctAnswer": "1952",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 127,
+      "question": "Who were the leaders of the 1952 ANC passive resistance campaign?",
+      "options": [
+        "Nelson Mandela and Robert Mugabe",
+        "Albert Luthuli, Oliver Tambo, Nelson Mandela, Walter Sisulu",
+        "Steve Biko and Desmond Tutu",
+        "Kenneth Kaunda and Julius Nyerere"
+      ],
+      "correctAnswer": "Albert Luthuli, Oliver Tambo, Nelson Mandela, Walter Sisulu",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 128,
+      "question": "The Sharpeville massacre occurred on:",
+      "options": [
+        "March 21, 1960",
+        "June 16, 1960",
+        "March 21, 1958",
+        "February 11, 1960"
+      ],
+      "correctAnswer": "March 21, 1960",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 129,
+      "question": "At Sharpeville, police fired on peaceful demonstrators killing how many people?",
+      "options": [
+        "69",
+        "72",
+        "87",
+        "186"
+      ],
+      "correctAnswer": "72",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 130,
+      "question": "How many people were wounded in the Sharpeville massacre?",
+      "options": [
+        "72",
+        "136",
+        "186",
+        "200"
+      ],
+      "correctAnswer": "186",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 131,
+      "question": "What was the international response to the Sharpeville massacre?",
+      "options": [
+        "No response",
+        "Worldwide condemnation and economic sanctions",
+        "Military intervention",
+        "Diplomatic support for South Africa"
+      ],
+      "correctAnswer": "Worldwide condemnation and economic sanctions",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 132,
+      "question": "Where was Nelson Mandela imprisoned after the Rivonia Trial?",
+      "options": [
+        "Pollsmoor Prison",
+        "Robben Island",
+        "Pretoria Central Prison",
+        "Johannesburg Prison"
+      ],
+      "correctAnswer": "Robben Island",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 133,
+      "question": "In what year was Nelson Mandela released from prison?",
+      "options": [
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+      ],
+      "correctAnswer": "1990",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 134,
+      "question": "What did the ANC crystallize its demands into?",
+      "options": [
+        "One man, one vote",
+        "Equal pay for all",
+        "Separate development",
+        "Independent homelands"
+      ],
+      "correctAnswer": "One man, one vote",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 135,
+      "question": "When did Nelson Mandela win South Africa's first democratic election?",
+      "options": [
+        "April 1994",
+        "June 1994",
+        "April 1993",
+        "May 1994"
+      ],
+      "correctAnswer": "April 1994",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 136,
+      "question": "Nelson Mandela became South Africa's first democratically elected president in:",
+      "options": [
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+      ],
+      "correctAnswer": "1994",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 137,
+      "question": "In what year did Nelson Mandela leave the presidency?",
+      "options": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+      ],
+      "correctAnswer": "1999",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 138,
+      "question": "Which political party was banned alongside the ANC by the South African government?",
+      "options": [
+        "All black political organizations were banned",
+        "Only the ANC was banned",
+        "Only the PAC was banned",
+        "No organizations were banned"
+      ],
+      "correctAnswer": "All black political organizations were banned",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 139,
+      "question": "Apartheid was formalized after which party won the 1948 election?",
+      "options": [
+        "ANC",
+        "Afrikaner National Party",
+        "United Party",
+        "Inkatha Freedom Party"
+      ],
+      "correctAnswer": "Afrikaner National Party",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 140,
+      "question": "The ANC was formed in 1912 \u2014 how many years after South Africa gained freedom from British rule?",
+      "options": [
+        "1 year",
+        "2 years",
+        "5 years",
+        "10 years"
+      ],
+      "correctAnswer": "2 years",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 141,
+      "question": "The Sharpeville massacre occurred because police fired on:",
+      "options": [
+        "Armed rebels",
+        "Peaceful demonstrators",
+        "Striking workers",
+        "Student protesters"
+      ],
+      "correctAnswer": "Peaceful demonstrators",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 142,
+      "question": "Oliver Tambo was a key leader of which organization?",
+      "options": [
+        "PAC",
+        "ANC",
+        "IFP",
+        "NP"
+      ],
+      "correctAnswer": "ANC",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 143,
+      "question": "Walter Sisulu was alongside Mandela and others in which campaign?",
+      "options": [
+        "Defiance Campaign",
+        "1952 ANC passive resistance",
+        "Soweto Uprising",
+        "Freedom Charter campaign"
+      ],
+      "correctAnswer": "1952 ANC passive resistance",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 144,
+      "question": "The ANC was formed with the initial purpose of:",
+      "options": [
+        "Armed revolution",
+        "Fighting for rights of black South Africans",
+        "Establishing a communist state",
+        "Supporting apartheid"
+      ],
+      "correctAnswer": "Fighting for rights of black South Africans",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 145,
+      "question": "Which island was Nelson Mandela imprisoned on?",
+      "options": [
+        "Robben Island",
+        "Seychelles",
+        "Mauritius",
+        "Zanzibar"
+      ],
+      "correctAnswer": "Robben Island",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 146,
+      "question": "April 1994 marked what historic event in South Africa?",
+      "options": [
+        "Mandela's release from prison",
+        "First democratic elections",
+        "End of apartheid laws",
+        "South Africa became a republic"
+      ],
+      "correctAnswer": "First democratic elections",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 147,
+      "question": "Which international measures were taken against South Africa after Sharpeville?",
+      "options": [
+        "Military invasion",
+        "Worldwide condemnation and economic sanctions",
+        "Diplomatic recognition",
+        "UN membership suspension"
+      ],
+      "correctAnswer": "Worldwide condemnation and economic sanctions",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 148,
+      "question": "Nelson Mandela served as president from:",
+      "options": [
+        "1990-1995",
+        "1994-1999",
+        "1994-2000",
+        "1992-1997"
+      ],
+      "correctAnswer": "1994-1999",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 149,
+      "question": "Under apartheid, what was the legal status of black political organizations?",
+      "options": [
+        "They were allowed to operate freely",
+        "They were banned as illegal",
+        "They were given government funding",
+        "They were merged with white parties"
+      ],
+      "correctAnswer": "They were banned as illegal",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 150,
+      "question": "Nelson Mandela is remembered for which achievement as president?",
+      "options": [
+        "Starting a civil war",
+        "Reconciling blacks and whites in peace",
+        "Maintaining apartheid",
+        "Establishing a monarchy"
+      ],
+      "correctAnswer": "Reconciling blacks and whites in peace",
+      "source": "7.1.5 Apartheid South Africa"
+    },
+    {
+      "id": 151,
+      "question": "What is the core idea of Pan-Africanism?",
+      "options": [
+        "African countries should remain separate",
+        "Peoples of African descent have common interests",
+        "Only North Africans share common heritage",
+        "Africa should be recolonized"
+      ],
+      "correctAnswer": "Peoples of African descent have common interests",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 152,
+      "question": "Where did the Pan-African movement first originate?",
+      "options": [
+        "Europe",
+        "The New World",
+        "Asia",
+        "Africa"
+      ],
+      "correctAnswer": "The New World",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 153,
+      "question": "Where and when was the 5th Pan-African Congress held?",
+      "options": [
+        "Accra 1958",
+        "Manchester October 1945",
+        "Addis Ababa 1963",
+        "Paris 1945"
+      ],
+      "correctAnswer": "Manchester October 1945",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 154,
+      "question": "At the 5th Pan-African Congress, which delegates dominated?",
+      "options": [
+        "American delegates",
+        "European delegates",
+        "African delegates",
+        "Caribbean delegates"
+      ],
+      "correctAnswer": "African delegates",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 155,
+      "question": "Who played a key role in the 5th Pan-African Congress?",
+      "options": [
+        "Julius Nyerere",
+        "Kwame Nkrumah",
+        "Haile Selassie",
+        "Nelson Mandela"
+      ],
+      "correctAnswer": "Kwame Nkrumah",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 156,
+      "question": "Kwame Nkrumah formed the Union of Independent African States in 1958. Which two countries initially joined?",
+      "options": [
+        "Ghana and Nigeria",
+        "Ghana and Guinea",
+        "Guinea and Mali",
+        "Ghana and Egypt"
+      ],
+      "correctAnswer": "Ghana and Guinea",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 157,
+      "question": "Which third country joined the Union of Independent African States in 1960?",
+      "options": [
+        "Nigeria",
+        "Ethiopia",
+        "Mali",
+        "Libya"
+      ],
+      "correctAnswer": "Mali",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 158,
+      "question": "The Casablanca Group favored what type of political union for Africa?",
+      "options": [
+        "Loose confederation",
+        "Strong political union (United States of Africa)",
+        "Economic cooperation only",
+        "No political union"
+      ],
+      "correctAnswer": "Strong political union (United States of Africa)",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 159,
+      "question": "Which countries were members of the Casablanca Group?",
+      "options": [
+        "Ghana, Guinea, Egypt, Mali, Morocco, Libya, Algerian government-in-exile",
+        "Nigeria, Ethiopia, Liberia, Sierra Leone",
+        "Senegal, Ivory Coast, Cameroon, Togo",
+        "Kenya, Tanzania, Uganda, Zambia"
+      ],
+      "correctAnswer": "Ghana, Guinea, Egypt, Mali, Morocco, Libya, Algerian government-in-exile",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 160,
+      "question": "The Casablanca Group was formed in which year?",
+      "options": [
+        "1960",
+        "1961",
+        "1962",
+        "1963"
+      ],
+      "correctAnswer": "1961",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 161,
+      "question": "The Monrovia Group favored what type of union?",
+      "options": [
+        "A strong central government",
+        "Loose confederation",
+        "United States of Africa",
+        "Military alliance"
+      ],
+      "correctAnswer": "Loose confederation",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 162,
+      "question": "Which countries were members of the Monrovia Group?",
+      "options": [
+        "Only French colonies",
+        "Former French colonies + Nigeria, Ethiopia, Liberia, Sierra Leone",
+        "Only British colonies",
+        "Only North African countries"
+      ],
+      "correctAnswer": "Former French colonies + Nigeria, Ethiopia, Liberia, Sierra Leone",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 163,
+      "question": "The Brazzaville Group consisted of:",
+      "options": [
+        "Anglophone states",
+        "Francophone states",
+        "Lusophone states",
+        "North African states"
+      ],
+      "correctAnswer": "Francophone states",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 164,
+      "question": "Which group did the Brazzaville Group join?",
+      "options": [
+        "Casablanca Group",
+        "Monrovia Group",
+        "Non-Aligned Movement",
+        "United Nations"
+      ],
+      "correctAnswer": "Monrovia Group",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 165,
+      "question": "Which two countries remained neutral and helped bridge the gap between the Casablanca and Monrovia groups?",
+      "options": [
+        "Ghana and Guinea",
+        "Nigeria and Ghana",
+        "Ethiopia and Liberia",
+        "Egypt and Morocco"
+      ],
+      "correctAnswer": "Ethiopia and Liberia",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 166,
+      "question": "When was the OAU (Organization of African Unity) established?",
+      "options": [
+        "May 1963",
+        "May 1962",
+        "June 1963",
+        "April 1963"
+      ],
+      "correctAnswer": "May 1963",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 167,
+      "question": "Where was the OAU established?",
+      "options": [
+        "Cairo, Egypt",
+        "Accra, Ghana",
+        "Addis Ababa, Ethiopia",
+        "Lagos, Nigeria"
+      ],
+      "correctAnswer": "Addis Ababa, Ethiopia",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 168,
+      "question": "How many countries founded the OAU?",
+      "options": [
+        "32",
+        "28",
+        "36",
+        "50"
+      ],
+      "correctAnswer": "32",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 169,
+      "question": "What were the main objectives of the OAU?",
+      "options": [
+        "Economic union of Africa",
+        "Rid continent of colonization/apartheid, promote unity, cooperation, safeguard sovereignty",
+        "Military alliance against Europe",
+        "Establish a single African currency"
+      ],
+      "correctAnswer": "Rid continent of colonization/apartheid, promote unity, cooperation, safeguard sovereignty",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 170,
+      "question": "Which was the supreme organ of the OAU?",
+      "options": [
+        "Council of Ministers",
+        "General Secretariat",
+        "Assembly of Heads of State and Government",
+        "African Court of Justice"
+      ],
+      "correctAnswer": "Assembly of Heads of State and Government",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 171,
+      "question": "How often did the Assembly of Heads of State and Government meet?",
+      "options": [
+        "Twice a year",
+        "Once a year",
+        "Once every two years",
+        "Every five years"
+      ],
+      "correctAnswer": "Once a year",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 172,
+      "question": "The Council of Ministers in the OAU met how often?",
+      "options": [
+        "Once a month",
+        "Once a year",
+        "Twice a year",
+        "Every two years"
+      ],
+      "correctAnswer": "Twice a year",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 173,
+      "question": "What was the main function of the OAU Council of Ministers?",
+      "options": [
+        "Make final decisions",
+        "Prepare the agenda for the Assembly",
+        "Execute military operations",
+        "Manage African economies"
+      ],
+      "correctAnswer": "Prepare the agenda for the Assembly",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 174,
+      "question": "The General Secretariat of the OAU was headed by:",
+      "options": [
+        "The President of the Assembly",
+        "A Secretary-General appointed by the Assembly",
+        "The host country's leader",
+        "An elected chairman"
+      ],
+      "correctAnswer": "A Secretary-General appointed by the Assembly",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 175,
+      "question": "Who was the key figure behind the Union of Independent African States?",
+      "options": [
+        "Haile Selassie",
+        "Julius Nyerere",
+        "Kwame Nkrumah",
+        "Gamal Abdel Nasser"
+      ],
+      "correctAnswer": "Kwame Nkrumah",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 176,
+      "question": "The 5th Pan-African Congress was held in which city?",
+      "options": [
+        "London",
+        "Paris",
+        "Manchester",
+        "New York"
+      ],
+      "correctAnswer": "Manchester",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 177,
+      "question": "Which century did Pan-Africanism originate?",
+      "options": [
+        "16th/17th centuries",
+        "18th/19th centuries",
+        "20th century",
+        "21st century"
+      ],
+      "correctAnswer": "18th/19th centuries",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 178,
+      "question": "Which two countries played a neutral role in bridging the Casablanca and Monrovia groups?",
+      "options": [
+        "Ghana and Guinea",
+        "Ethiopia and Liberia",
+        "Nigeria and Ghana",
+        "Egypt and Algeria"
+      ],
+      "correctAnswer": "Ethiopia and Liberia",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 179,
+      "question": "The Casablanca Group wanted a 'United States of Africa'. The Monrovia Group wanted:",
+      "options": [
+        "A single African government",
+        "A loose confederation",
+        "Immediate political union",
+        "A military alliance"
+      ],
+      "correctAnswer": "A loose confederation",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 180,
+      "question": "Kwame Nkrumah's Union of Independent African States was formed in which year?",
+      "options": [
+        "1957",
+        "1958",
+        "1960",
+        "1961"
+      ],
+      "correctAnswer": "1958",
+      "source": "7.1.6 Pan-Africanism and the OAU"
+    },
+    {
+      "id": 181,
+      "question": "What was the OAU's greatest success?",
+      "options": [
+        "Economic development",
+        "Decolonization and eradicating colonialism and white minority rule",
+        "Military integration",
+        "Single currency"
+      ],
+      "correctAnswer": "Decolonization and eradicating colonialism and white minority rule",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 182,
+      "question": "How did the OAU's record compare between successes and failures?",
+      "options": [
+        "Successes clearly outweighed failures",
+        "Failures outweighed successes",
+        "They were equal",
+        "The OAU had no successes"
+      ],
+      "correctAnswer": "Failures outweighed successes",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 183,
+      "question": "What was a major failure of the OAU?",
+      "options": [
+        "It couldn't bring peace, prosperity, security, and stability",
+        "It failed to achieve decolonization",
+        "It caused wars",
+        "It had no members"
+      ],
+      "correctAnswer": "It couldn't bring peace, prosperity, security, and stability",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 184,
+      "question": "The OAU's powers were described as:",
+      "options": [
+        "Very strong",
+        "Too weak and influence inadequate",
+        "Dictatorial",
+        "Absolute"
+      ],
+      "correctAnswer": "Too weak and influence inadequate",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 185,
+      "question": "Which areas did the OAU have inadequate influence over?",
+      "options": [
+        "Trade and agriculture",
+        "Conflicts, poor governance, and human rights abuses",
+        "Education and health",
+        "Infrastructure and transportation"
+      ],
+      "correctAnswer": "Conflicts, poor governance, and human rights abuses",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 186,
+      "question": "What challenge was the OAU incapable of meeting?",
+      "options": [
+        "Colonialism",
+        "Globalization",
+        "Apartheid",
+        "Trade negotiations"
+      ],
+      "correctAnswer": "Globalization",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 187,
+      "question": "By the end of which century was OAU reform deemed imperative?",
+      "options": [
+        "19th century",
+        "20th century",
+        "21st century",
+        "18th century"
+      ],
+      "correctAnswer": "20th century",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 188,
+      "question": "What organization replaced the OAU?",
+      "options": [
+        "United Nations",
+        "African Union (AU)",
+        "ECOWAS",
+        "Commonwealth"
+      ],
+      "correctAnswer": "African Union (AU)",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 189,
+      "question": "When was the AU officially launched?",
+      "options": [
+        "July 2002",
+        "May 2001",
+        "July 2003",
+        "June 2002"
+      ],
+      "correctAnswer": "July 2002",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 190,
+      "question": "Where was the AU officially launched?",
+      "options": [
+        "Addis Ababa, Ethiopia",
+        "Durban, South Africa",
+        "Accra, Ghana",
+        "Abuja, Nigeria"
+      ],
+      "correctAnswer": "Durban, South Africa",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 191,
+      "question": "Which African countries waged guerrilla wars of liberation against European colonial domination?",
+      "options": [
+        "Egypt and Tunisia",
+        "Algeria and South Rhodesia (Zimbabwe)",
+        "Ghana and Nigeria",
+        "Kenya and Uganda"
+      ],
+      "correctAnswer": "Algeria and South Rhodesia (Zimbabwe)",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 192,
+      "question": "What was a major area where the OAU failed?",
+      "options": [
+        "Decolonisation",
+        "Ending white minority rule",
+        "Peace, prosperity, security, and stability",
+        "International cooperation"
+      ],
+      "correctAnswer": "Peace, prosperity, security, and stability",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 193,
+      "question": "The OAU was described as having powers that were:",
+      "options": [
+        "Too weak",
+        "Too strong",
+        "Appropriate",
+        "Expanding"
+      ],
+      "correctAnswer": "Too weak",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 194,
+      "question": "The failure of the OAU to manage conflicts led to what conclusion?",
+      "options": [
+        "The OAU was a perfect organization",
+        "Reform was imperative",
+        "No changes were needed",
+        "The OAU should expand its powers slowly"
+      ],
+      "correctAnswer": "Reform was imperative",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 195,
+      "question": "The OAU was primarily unable to address challenges related to:",
+      "options": [
+        "Colonial occupation",
+        "Globalization, good governance, and human rights",
+        "Liberation struggles",
+        "Boundary demarcation"
+      ],
+      "correctAnswer": "Globalization, good governance, and human rights",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 196,
+      "question": "The OAU failed to bring peace to African countries due to:",
+      "options": [
+        "Lack of UN support",
+        "Too weak powers and inadequate influence",
+        "Lack of funds",
+        "European interference"
+      ],
+      "correctAnswer": "Too weak powers and inadequate influence",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 197,
+      "question": "Which of these was a genuine success of the OAU?",
+      "options": [
+        "Bringing economic prosperity to Africa",
+        "Ensuring political stability",
+        "Ending colonialism and white minority rule",
+        "Promoting industrial development"
+      ],
+      "correctAnswer": "Ending colonialism and white minority rule",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 198,
+      "question": "Reform of the OAU became imperative because:",
+      "options": [
+        "It was too powerful",
+        "Failures outweighed successes and it couldn't meet globalization challenges",
+        "It had too many members",
+        "It was too expensive"
+      ],
+      "correctAnswer": "Failures outweighed successes and it couldn't meet globalization challenges",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 199,
+      "question": "The African Union was launched in which country?",
+      "options": [
+        "Ethiopia",
+        "Ghana",
+        "South Africa",
+        "Nigeria"
+      ],
+      "correctAnswer": "South Africa",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 200,
+      "question": "The transition from OAU to AU took place in which year?",
+      "options": [
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+      ],
+      "correctAnswer": "2002",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 201,
+      "question": "What principle did the 1980 Lagos Plan of Action aim to promote?",
+      "options": [
+        "Military cooperation",
+        "The development of Africa",
+        "Political unification",
+        "Colonial restoration"
+      ],
+      "correctAnswer": "The development of Africa",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 202,
+      "question": "The OAU's influence was inadequate in addressing:",
+      "options": [
+        "Trade agreements",
+        "Poor governance and human rights abuses",
+        "Educational reform",
+        "Health initiatives"
+      ],
+      "correctAnswer": "Poor governance and human rights abuses",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 203,
+      "question": "What was a key reason the OAU was replaced by the AU?",
+      "options": [
+        "The OAU was too powerful",
+        "The OAU could not meet the challenges of globalization",
+        "The OAU had no members",
+        "The OAU achieved all its goals"
+      ],
+      "correctAnswer": "The OAU could not meet the challenges of globalization",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 204,
+      "question": "The OAU was described as having what kind of record?",
+      "options": [
+        "Perfect",
+        "Mixed",
+        "Complete failure",
+        "Unremarkable"
+      ],
+      "correctAnswer": "Mixed",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 205,
+      "question": "The OAU failed to bring which to African citizens?",
+      "options": [
+        "Independence",
+        "Peace, prosperity, security, and stability",
+        "Decolonization",
+        "International recognition"
+      ],
+      "correctAnswer": "Peace, prosperity, security, and stability",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 206,
+      "question": "The OAU's inability to handle conflicts was due to:",
+      "options": [
+        "Strong member commitment",
+        "Weak powers and inadequate influence",
+        "Too much funding",
+        "Excessive military capacity"
+      ],
+      "correctAnswer": "Weak powers and inadequate influence",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 207,
+      "question": "When did the AU officially launch?",
+      "options": [
+        "May 2001",
+        "July 2002",
+        "June 2003",
+        "August 2000"
+      ],
+      "correctAnswer": "July 2002",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 208,
+      "question": "Which South African city hosted the AU launch?",
+      "options": [
+        "Johannesburg",
+        "Cape Town",
+        "Durban",
+        "Pretoria"
+      ],
+      "correctAnswer": "Durban",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 209,
+      "question": "Which of these was an objective of the OAU?",
+      "options": [
+        "Establishing a single African currency",
+        "Ridding the continent of colonization and apartheid",
+        "Creating a unified African army",
+        "Building a common African language"
+      ],
+      "correctAnswer": "Ridding the continent of colonization and apartheid",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 210,
+      "question": "Which of the following best describes the legacy of the OAU?",
+      "options": [
+        "Complete success in all objectives",
+        "Major success in decolonization but failure in achieving peace and prosperity",
+        "Total failure across the board",
+        "Success only in economic matters"
+      ],
+      "correctAnswer": "Major success in decolonization but failure in achieving peace and prosperity",
+      "source": "7.1.7 OAU Successes and Failures"
+    },
+    {
+      "id": 211,
+      "question": "From which years did Africa experience substantial economic growth?",
+      "options": [
+        "1955-1964",
+        "1960-1969",
+        "1965-1974",
+        "1970-1979"
+      ],
+      "correctAnswer": "1965-1974",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 212,
+      "question": "After the period of substantial economic growth from 1965 to 1974, what happened to the African economy?",
+      "options": [
+        "It continued growing",
+        "It followed a downward trend",
+        "It stagnated completely",
+        "It collapsed entirely"
+      ],
+      "correctAnswer": "It followed a downward trend",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 213,
+      "question": "In the 1980s and 1990s, which two principal factors affected African economies?",
+      "options": [
+        "War and peace",
+        "International debt and drought",
+        "Industrialization and trade",
+        "Education and technology"
+      ],
+      "correctAnswer": "International debt and drought",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 214,
+      "question": "Since the 1960s, raw material exports from Africa dropped in price compared to manufactured imports by how much?",
+      "options": [
+        "2-5 times",
+        "5-10 times",
+        "10-20 times",
+        "20-50 times"
+      ],
+      "correctAnswer": "10-20 times",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 215,
+      "question": "To which financial institutions did African governments turn for emergency loans?",
+      "options": [
+        "World Bank and African Development Bank",
+        "IMF and World Bank",
+        "European Investment Bank and IMF",
+        "African Union and World Bank"
+      ],
+      "correctAnswer": "IMF and World Bank",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 216,
+      "question": "The IMF and World Bank were financed primarily by:",
+      "options": [
+        "African governments",
+        "Western capitalist economies",
+        "Asian economies",
+        "Oil-producing states"
+      ],
+      "correctAnswer": "Western capitalist economies",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 217,
+      "question": "What does REC stand for?",
+      "options": [
+        "Regional Economic Community",
+        "Regional European Council",
+        "Reserve Economic Currency",
+        "Rural Economic Cooperative"
+      ],
+      "correctAnswer": "Regional Economic Community",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 218,
+      "question": "RECs were established for what purpose?",
+      "options": [
+        "Military cooperation",
+        "Regional economic integration",
+        "Political unification",
+        "Cultural exchange"
+      ],
+      "correctAnswer": "Regional economic integration",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 219,
+      "question": "The Abuja Treaty of 1991 established which organization?",
+      "options": [
+        "ECOWAS",
+        "African Economic Community (AEC)",
+        "COMESA",
+        "SADC"
+      ],
+      "correctAnswer": "African Economic Community (AEC)",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 220,
+      "question": "The Lagos Plan of Action for the Development of Africa was adopted in:",
+      "options": [
+        "1979",
+        "1980",
+        "1981",
+        "1982"
+      ],
+      "correctAnswer": "1980",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 221,
+      "question": "COMESA was formed in which month and year?",
+      "options": [
+        "December 1994",
+        "January 1994",
+        "December 1993",
+        "June 1995"
+      ],
+      "correctAnswer": "December 1994",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 222,
+      "question": "COMESA replaced which earlier organization?",
+      "options": [
+        "Preferential Trade Area (1981)",
+        "ECOWAS",
+        "SADC",
+        "East African Community"
+      ],
+      "correctAnswer": "Preferential Trade Area (1981)",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 223,
+      "question": "How many member states did COMESA have?",
+      "options": [
+        "15",
+        "19",
+        "21",
+        "25"
+      ],
+      "correctAnswer": "21",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 224,
+      "question": "COMESA stands for:",
+      "options": [
+        "Common Market for Eastern and Southern Africa",
+        "Council for Economic and Social Affairs",
+        "Committee for Eastern and Southern African States",
+        "Commission for Economic and Security Affairs"
+      ],
+      "correctAnswer": "Common Market for Eastern and Southern Africa",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 225,
+      "question": "COMESA's member states span from which country to which?",
+      "options": [
+        "Egypt to South Africa",
+        "Tunisia to Swaziland",
+        "Morocco to Mozambique",
+        "Libya to Lesotho"
+      ],
+      "correctAnswer": "Tunisia to Swaziland",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 226,
+      "question": "ECOWAS is the regional economic community for:",
+      "options": [
+        "Southern African countries",
+        "East African countries",
+        "West African states",
+        "North African states"
+      ],
+      "correctAnswer": "West African states",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 227,
+      "question": "ECOWAS stands for:",
+      "options": [
+        "Economic Community of West African States",
+        "European Council of West African States",
+        "Economic Cooperation of Western African States",
+        "Eastern Community of West African States"
+      ],
+      "correctAnswer": "Economic Community of West African States",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 228,
+      "question": "IGAD includes which countries?",
+      "options": [
+        "West African countries",
+        "Ethiopia, Sudan, South Sudan, Eritrea, Kenya, Uganda, Djibouti",
+        "Southern African countries",
+        "North African countries"
+      ],
+      "correctAnswer": "Ethiopia, Sudan, South Sudan, Eritrea, Kenya, Uganda, Djibouti",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 229,
+      "question": "IGAD stands for:",
+      "options": [
+        "Inter-Governmental Authority on Development",
+        "International Group for African Development",
+        "Integrated Governance and Development",
+        "Inter-African Development Authority"
+      ],
+      "correctAnswer": "Inter-Governmental Authority on Development",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 230,
+      "question": "SADC is the regional economic community for:",
+      "options": [
+        "West African countries",
+        "Southern African countries",
+        "East African countries",
+        "North African countries"
+      ],
+      "correctAnswer": "Southern African countries",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 231,
+      "question": "SADC stands for:",
+      "options": [
+        "Southern African Development Community",
+        "South Asian Development Council",
+        "Strategic African Defense Committee",
+        "Southern Alliance for Development and Cooperation"
+      ],
+      "correctAnswer": "Southern African Development Community",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 232,
+      "question": "The Abuja Treaty was signed in which year?",
+      "options": [
+        "1990",
+        "1991",
+        "1992",
+        "1993"
+      ],
+      "correctAnswer": "1991",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 233,
+      "question": "What important agreement for African development was adopted in 1980?",
+      "options": [
+        "Abuja Treaty",
+        "Lagos Plan of Action",
+        "Banjul Charter",
+        "Addis Ababa Agreement"
+      ],
+      "correctAnswer": "Lagos Plan of Action",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 234,
+      "question": "Raw material export prices for Africa dropped by how much compared to manufactured imports since the 1960s?",
+      "options": [
+        "2-3 times",
+        "10-20 times",
+        "30-40 times",
+        "50-100 times"
+      ],
+      "correctAnswer": "10-20 times",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 235,
+      "question": "The Preferential Trade Area (PTA) was established in:",
+      "options": [
+        "1979",
+        "1980",
+        "1981",
+        "1982"
+      ],
+      "correctAnswer": "1981",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 236,
+      "question": "The PTA was replaced by which organization?",
+      "options": [
+        "SADC",
+        "ECOWAS",
+        "COMESA",
+        "IGAD"
+      ],
+      "correctAnswer": "COMESA",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 237,
+      "question": "What made the 1980s a difficult decade for African economies?",
+      "options": [
+        "Too much foreign investment",
+        "International debt and drought",
+        "Excessive industrialization",
+        "Overpopulation of cities"
+      ],
+      "correctAnswer": "International debt and drought",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 238,
+      "question": "The Abuja Treaty established the AEC. What does AEC stand for?",
+      "options": [
+        "African Economic Council",
+        "African Economic Community",
+        "African Exchange Commission",
+        "Alliance for Economic Cooperation"
+      ],
+      "correctAnswer": "African Economic Community",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 239,
+      "question": "In the 1980s and 1990s, which TWO factors hindered African economic development?",
+      "options": [
+        "Industrialization and urbanization",
+        "International debt and drought",
+        "Education and technology",
+        "Tourism and trade"
+      ],
+      "correctAnswer": "International debt and drought",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 240,
+      "question": "Why did African governments turn to IMF and World Bank for loans?",
+      "options": [
+        "To fund wars",
+        "For emergency loans due to economic crisis",
+        "To build infrastructure",
+        "To pay civil servant salaries"
+      ],
+      "correctAnswer": "For emergency loans due to economic crisis",
+      "source": "7.2 Struggle for Economic Independence"
+    },
+    {
+      "id": 241,
+      "question": "What term describes Africa's continued strong ties with former colonial masters?",
+      "options": [
+        "Neo-colonialism",
+        "Colonial hangover",
+        "Post-colonial syndrome",
+        "Imperial legacy"
+      ],
+      "correctAnswer": "Colonial hangover",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 242,
+      "question": "Which former colonial power maintained a neo-colonial grip in Africa?",
+      "options": [
+        "Britain",
+        "France",
+        "Portugal",
+        "Belgium"
+      ],
+      "correctAnswer": "France",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 243,
+      "question": "Border conflicts in Africa are mainly due to:",
+      "options": [
+        "Religious differences",
+        "Colonial boundaries and ethnic settlements",
+        "Trade disputes",
+        "Water rights"
+      ],
+      "correctAnswer": "Colonial boundaries and ethnic settlements",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 244,
+      "question": "The Biafra War in Nigeria was between which ethnic groups?",
+      "options": [
+        "Yoruba and Hausa",
+        "Igbo and Hausa",
+        "Tutsi and Hutu",
+        "Zulu and Xhosa"
+      ],
+      "correctAnswer": "Igbo and Hausa",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 245,
+      "question": "What was the main cause of the Biafra War?",
+      "options": [
+        "Religious differences",
+        "Unequal wealth distribution after Nigeria's independence",
+        "Border disputes",
+        "Foreign interference"
+      ],
+      "correctAnswer": "Unequal wealth distribution after Nigeria's independence",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 246,
+      "question": "What triggered the Nigerian civil war (Biafra War)?",
+      "options": [
+        "1960 independence",
+        "1966 coup",
+        "1967 secession",
+        "1970 ceasefire"
+      ],
+      "correctAnswer": "1966 coup",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 247,
+      "question": "The Rwandan Genocide occurred between which months and year?",
+      "options": [
+        "April-July 1994",
+        "January-March 1994",
+        "August-December 1994",
+        "June-September 1994"
+      ],
+      "correctAnswer": "April-July 1994",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 248,
+      "question": "The Rwandan Genocide was between which two ethnic groups?",
+      "options": [
+        "Igbo and Hausa",
+        "Hutu and Tutsi",
+        "Zulu and Xhosa",
+        "Yoruba and Fulani"
+      ],
+      "correctAnswer": "Hutu and Tutsi",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 249,
+      "question": "Approximately how many people died in the Rwandan Genocide?",
+      "options": [
+        "200,000",
+        "500,000",
+        "800,000",
+        "1,000,000"
+      ],
+      "correctAnswer": "800,000",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 250,
+      "question": "Which group was the majority of victims in the Rwandan Genocide?",
+      "options": [
+        "Hutu",
+        "Tutsi",
+        "Twa",
+        "All ethnic groups equally"
+      ],
+      "correctAnswer": "Tutsi",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 251,
+      "question": "Which of the following is a cause of poverty in Africa mentioned in the textbook?",
+      "options": [
+        "Too much foreign aid",
+        "Rapid population growth",
+        "Excessive industrialization",
+        "High literacy rates"
+      ],
+      "correctAnswer": "Rapid population growth",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 252,
+      "question": "In 2013, how many of the world's 20 conflicts were in sub-Saharan Africa?",
+      "options": [
+        "8",
+        "11",
+        "14",
+        "17"
+      ],
+      "correctAnswer": "11",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 253,
+      "question": "Climate change in Africa contributes to poverty through:",
+      "options": [
+        "Increased rainfall",
+        "Floods and droughts",
+        "Cooler temperatures",
+        "Better growing seasons"
+      ],
+      "correctAnswer": "Floods and droughts",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 254,
+      "question": "Which diseases are mentioned as affecting Africa?",
+      "options": [
+        "Malaria, COVID-19, Cholera",
+        "AIDS, malaria, Ebola",
+        "Tuberculosis, Polio, Yellow Fever",
+        "Cancer, Heart Disease, Diabetes"
+      ],
+      "correctAnswer": "AIDS, malaria, Ebola",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 255,
+      "question": "Democratic reforms in the 1990s were described as Africa's:",
+      "options": [
+        "Third liberation",
+        "Second independence",
+        "New democracy",
+        "Final freedom"
+      ],
+      "correctAnswer": "Second independence",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 256,
+      "question": "What is the estimated percentage of global HIV/AIDS cases found in sub-Saharan Africa?",
+      "options": [
+        "About 25%",
+        "About 50%",
+        "About 75%",
+        "About 90%"
+      ],
+      "correctAnswer": "About 75%",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 257,
+      "question": "The collapse of apartheid in South Africa led to:",
+      "options": [
+        "Civil war",
+        "Multi-party democracy in South Africa",
+        "Military rule",
+        "One-party state"
+      ],
+      "correctAnswer": "Multi-party democracy in South Africa",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 258,
+      "question": "NEPAD stands for:",
+      "options": [
+        "New Partnership for Africa's Development",
+        "National Economic Plan for African Development",
+        "New Economic Policy for African Development",
+        "North-East Partnership for African Development"
+      ],
+      "correctAnswer": "New Partnership for Africa's Development",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 259,
+      "question": "NEPAD was established by which organization?",
+      "options": [
+        "United Nations",
+        "African Union (AU)",
+        "World Bank",
+        "European Union"
+      ],
+      "correctAnswer": "African Union (AU)",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 260,
+      "question": "Approximately what percentage of the world's HIV/AIDS cases are in sub-Saharan Africa?",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "90%"
+      ],
+      "correctAnswer": "75%",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 261,
+      "question": "Good governance in Africa is challenged by:",
+      "options": [
+        "Too much democracy",
+        "Lack of democratic culture and political instability",
+        "Excessive foreign aid",
+        "Strong institutions"
+      ],
+      "correctAnswer": "Lack of democratic culture and political instability",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 262,
+      "question": "France maintained a neo-colonial grip on which group of African countries?",
+      "options": [
+        "British colonies",
+        "Portuguese colonies",
+        "Its former colonies",
+        "Belgian colonies"
+      ],
+      "correctAnswer": "Its former colonies",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 263,
+      "question": "The Biafra War was primarily caused by which factor?",
+      "options": [
+        "Religious differences",
+        "Unequal distribution of wealth and ethnic marginalization",
+        "Border disputes with neighboring countries",
+        "French colonial interference"
+      ],
+      "correctAnswer": "Unequal distribution of wealth and ethnic marginalization",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 264,
+      "question": "The Biafra War is also known as:",
+      "options": [
+        "The Congolese Civil War",
+        "The Nigerian Civil War",
+        "The Rwandan Genocide",
+        "The Darfur Conflict"
+      ],
+      "correctAnswer": "The Nigerian Civil War",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 265,
+      "question": "The Darfur conflict is an example of:",
+      "options": [
+        "International war",
+        "Ethnic conflict in Africa",
+        "Colonial war",
+        "Religious war"
+      ],
+      "correctAnswer": "Ethnic conflict in Africa",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 266,
+      "question": "Which of these factors contributes to poverty in Africa?",
+      "options": [
+        "Abundant agricultural infrastructure",
+        "Inadequate agricultural infrastructure",
+        "Low population growth",
+        "Excessive peace and stability"
+      ],
+      "correctAnswer": "Inadequate agricultural infrastructure",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 267,
+      "question": "The 'second independence' refers to:",
+      "options": [
+        "Decolonization in the 1960s",
+        "Democratic reforms in the 1990s",
+        "Economic independence in the 1980s",
+        "Military takeovers in the 1970s"
+      ],
+      "correctAnswer": "Democratic reforms in the 1990s",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 268,
+      "question": "How did the textbook describe the 1980s for Africa?",
+      "options": [
+        "The decade of prosperity",
+        "The lost decade",
+        "The golden age",
+        "The era of peace"
+      ],
+      "correctAnswer": "The lost decade",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 269,
+      "question": "What colonial power maintained a strong neo-colonial relationship with its former sub-Saharan African colonies?",
+      "options": [
+        "Britain",
+        "France",
+        "Portugal",
+        "Belgium"
+      ],
+      "correctAnswer": "France",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 270,
+      "question": "AIDS, malaria, and Ebola are examples of:",
+      "options": [
+        "Non-communicable diseases",
+        "Diseases affecting Africa",
+        "Tropical diseases only found in sub-Saharan Africa",
+        "Eliminated diseases"
+      ],
+      "correctAnswer": "Diseases affecting Africa",
+      "source": "7.3 Major Issues in Contemporary Africa"
+    },
+    {
+      "id": 271,
+      "question": "Which group dominated the Ethiopian People's Revolutionary Democratic Front (EPRDF)?",
+      "options": [
+        "OPDO",
+        "EPDM",
+        "TPLF",
+        "SEPDM"
+      ],
+      "correctAnswer": "TPLF",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 272,
+      "question": "The Marxist military junta that was toppled by EPRDF in 1991 was called:",
+      "options": [
+        "The Woyane",
+        "The Derg",
+        "The Shebelle",
+        "The Zemecha"
+      ],
+      "correctAnswer": "The Derg",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 273,
+      "question": "Which of the following was a member of the EPRDF coalition?",
+      "options": [
+        "EPLF",
+        "EPDM",
+        "OLF",
+        "TGE"
+      ],
+      "correctAnswer": "EPDM",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 274,
+      "question": "When did the London Conference on Ethiopia take place?",
+      "options": [
+        "May 1990",
+        "May 1991",
+        "June 1991",
+        "July 1991"
+      ],
+      "correctAnswer": "May 1991",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 275,
+      "question": "Who sponsored the London Conference?",
+      "options": [
+        "United Kingdom",
+        "USA",
+        "United Nations",
+        "Italy"
+      ],
+      "correctAnswer": "USA",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 276,
+      "question": "Who served as the mediator at the London Conference?",
+      "options": [
+        "Isaias Afwerki",
+        "Meles Zenawi",
+        "Tesfaye Dinka",
+        "Herman Cohen"
+      ],
+      "correctAnswer": "Herman Cohen",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 277,
+      "question": "Who represented the Ethiopian government at the London Conference?",
+      "options": [
+        "Meles Zenawi",
+        "Lencho Letta",
+        "Tesfaye Dinka",
+        "Isaias Afwerki"
+      ],
+      "correctAnswer": "Tesfaye Dinka",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 278,
+      "question": "The EPLF was represented at the London Conference by:",
+      "options": [
+        "Meles Zenawi",
+        "Isaias Afwerki",
+        "Lencho Letta",
+        "Tesfaye Dinka"
+      ],
+      "correctAnswer": "Isaias Afwerki",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 279,
+      "question": "Who represented the OLF at the London Conference?",
+      "options": [
+        "Isaias Afwerki",
+        "Meles Zenawi",
+        "Herman Cohen",
+        "Lencho Letta"
+      ],
+      "correctAnswer": "Lencho Letta",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 280,
+      "question": "On what date was Addis Ababa occupied by insurgents in 1991?",
+      "options": [
+        "May 1",
+        "May 28",
+        "June 1",
+        "June 28"
+      ],
+      "correctAnswer": "May 28",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 281,
+      "question": "The Ethiopian Democratic and Peaceful Transitional Conference was held during the:",
+      "options": [
+        "Last week of June 1991",
+        "First week of July 1991",
+        "Last week of July 1991",
+        "First week of August 1991"
+      ],
+      "correctAnswer": "First week of July 1991",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 282,
+      "question": "Who chaired the Ethiopian Democratic and Peaceful Transitional Conference?",
+      "options": [
+        "Isaias Afwerki",
+        "Lencho Letta",
+        "Herman Cohen",
+        "Meles Zenawi"
+      ],
+      "correctAnswer": "Meles Zenawi",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 283,
+      "question": "What did Herman Cohen announce regarding the EPRDF at the conference?",
+      "options": [
+        "EPRDF would share power equally",
+        "EPRDF would lead the interim government",
+        "EPRDF would be dissolved",
+        "EPRDF would leave Ethiopia"
+      ],
+      "correctAnswer": "EPRDF would lead the interim government",
+      "difficulty": "hard",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 284,
+      "question": "The agreement on Eritrean independence included a referendum to be held in:",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "5 years"
+      ],
+      "correctAnswer": "2 years",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 285,
+      "question": "How many votes were cast against the de facto acceptance of Eritrean secession?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Four"
+      ],
+      "correctAnswer": "One",
+      "difficulty": "hard",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 286,
+      "question": "How many abstentions were there on the Eritrean secession vote?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": "Four",
+      "difficulty": "hard",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 287,
+      "question": "What did the EPLF offer Ethiopia regarding Assab?",
+      "options": [
+        "Assab as a military base",
+        "Assab as a free port",
+        "Assab as a cultural center",
+        "Assab as a capital city"
+      ],
+      "correctAnswer": "Assab as a free port",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 288,
+      "question": "The new transitional government included a Council of Representatives with how many members?",
+      "options": [
+        "17",
+        "32",
+        "87",
+        "547"
+      ],
+      "correctAnswer": "87",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 289,
+      "question": "How many political groups were represented in the Council of Representatives?",
+      "options": [
+        "17",
+        "32",
+        "87",
+        "547"
+      ],
+      "correctAnswer": "32",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 290,
+      "question": "How many seats in the Council of Representatives did EPRDF-allied groups hold?",
+      "options": [
+        "17 of 87",
+        "32 of 87",
+        "87 of 87",
+        "4 of 87"
+      ],
+      "correctAnswer": "32 of 87",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 291,
+      "question": "The TGE's Council of Ministers had how many members?",
+      "options": [
+        "87",
+        "32",
+        "17",
+        "4"
+      ],
+      "correctAnswer": "17",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 292,
+      "question": "How many ministerial positions did the OLF hold in the TGE?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "4",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 293,
+      "question": "Who was elected as chairman of the Council of Representatives and president of Ethiopia?",
+      "options": [
+        "Isaias Afwerki",
+        "Lencho Letta",
+        "Negaso Gidada",
+        "Meles Zenawi"
+      ],
+      "correctAnswer": "Meles Zenawi",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 294,
+      "question": "When did the OLF withdraw from the transitional government?",
+      "options": [
+        "Immediately after TGE formation",
+        "Nearly a year after TGE formation",
+        "Two years after TGE formation",
+        "In 1995"
+      ],
+      "correctAnswer": "Nearly a year after TGE formation",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 295,
+      "question": "In March 1993, the TGE expelled which group?",
+      "options": [
+        "OLF",
+        "EPLF",
+        "Southern Ethiopia Peoples' Democratic Coalition",
+        "EPDM"
+      ],
+      "correctAnswer": "Southern Ethiopia Peoples' Democratic Coalition",
+      "difficulty": "hard",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 296,
+      "question": "What did Meles Zenawi pledge regarding the political system?",
+      "options": [
+        "One-party rule",
+        "Military government",
+        "Multiparty democracy",
+        "Socialist system"
+      ],
+      "correctAnswer": "Multiparty democracy",
+      "difficulty": "easy",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 297,
+      "question": "Elections for the 547-member Constituent Assembly were held in:",
+      "options": [
+        "May 1992",
+        "June 1993",
+        "June 1994",
+        "May 1995"
+      ],
+      "correctAnswer": "June 1994",
+      "difficulty": "hard",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 298,
+      "question": "The Transitional Charter established how many 'self-governing regions'?",
+      "options": [
+        "9",
+        "11",
+        "14",
+        "87"
+      ],
+      "correctAnswer": "14",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 299,
+      "question": "The period during which Ethiopia gradually evolved into a federal system was:",
+      "options": [
+        "1987-1991",
+        "1991-1995",
+        "1995-2000",
+        "1991-2000"
+      ],
+      "correctAnswer": "1991-1995",
+      "difficulty": "medium",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 300,
+      "question": "SEPDM joined the EPRDF in which year?",
+      "options": [
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+      ],
+      "correctAnswer": "1992",
+      "difficulty": "hard",
+      "source": "8.1.1 Transitional Charter and TGE"
+    },
+    {
+      "id": 301,
+      "question": "The 1995 constitution of Ethiopia established the country as a:",
+      "options": [
+        "Unitary state",
+        "Federation of multi-ethnic nation",
+        "Confederacy",
+        "Monarchy"
+      ],
+      "correctAnswer": "Federation of multi-ethnic nation",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 302,
+      "question": "How many regional states constitute the Ethiopian federation?",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "14"
+      ],
+      "correctAnswer": "9",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 303,
+      "question": "The type of federalism introduced in Ethiopia is often described as:",
+      "options": [
+        "Territorial federalism",
+        "Ethnic or ethnical federalism",
+        "Fiscal federalism",
+        "Cooperative federalism"
+      ],
+      "correctAnswer": "Ethnic or ethnical federalism",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 304,
+      "question": "The FDRE constitution is a compact document containing how many articles?",
+      "options": [
+        "87",
+        "106",
+        "114",
+        "547"
+      ],
+      "correctAnswer": "106",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 305,
+      "question": "The FDRE constitution is organized into how many chapters?",
+      "options": [
+        "9",
+        "11",
+        "14",
+        "17"
+      ],
+      "correctAnswer": "11",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 306,
+      "question": "Which of the following is listed as a principle of the 1995 constitution?",
+      "options": [
+        "One-party rule",
+        "Ethnic dominance",
+        "Rule of law",
+        "Military governance"
+      ],
+      "correctAnswer": "Rule of law",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 307,
+      "question": "Human rights in the FDRE constitution are covered in Articles:",
+      "options": [
+        "1-12",
+        "13-44",
+        "39-62",
+        "62-106"
+      ],
+      "correctAnswer": "13-44",
+      "difficulty": "hard",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 308,
+      "question": "The FDRE constitution strongly stresses which type of rights?",
+      "options": [
+        "Individual rights",
+        "Property rights",
+        "Group or collective rights",
+        "Political rights only"
+      ],
+      "correctAnswer": "Group or collective rights",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 309,
+      "question": "Which article of the FDRE constitution grants the right to secession?",
+      "options": [
+        "Article 13",
+        "Article 39",
+        "Article 44",
+        "Article 62"
+      ],
+      "correctAnswer": "Article 39",
+      "difficulty": "hard",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 310,
+      "question": "The supreme political organ in Ethiopia's parliamentary system is the:",
+      "options": [
+        "House of Federation",
+        "Federal Supreme Court",
+        "House of Peoples' Representatives",
+        "Council of Ministers"
+      ],
+      "correctAnswer": "House of Peoples' Representatives",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 311,
+      "question": "Members of the House of Peoples' Representatives are elected for a term of:",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "correctAnswer": "5 years",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 312,
+      "question": "The main task of the House of Federation is:",
+      "options": [
+        "Passing laws",
+        "Constitutional interpretation",
+        "Approving the budget",
+        "Declaring war"
+      ],
+      "correctAnswer": "Constitutional interpretation",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 313,
+      "question": "Which article defines the powers of the House of Federation?",
+      "options": [
+        "Article 13",
+        "Article 39",
+        "Article 44",
+        "Article 62"
+      ],
+      "correctAnswer": "Article 62",
+      "difficulty": "hard",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 314,
+      "question": "At the top of Ethiopia's three-tier judicial hierarchy is the:",
+      "options": [
+        "House of Federation",
+        "Federal High Court",
+        "Federal Supreme Court",
+        "Constitutional Court"
+      ],
+      "correctAnswer": "Federal Supreme Court",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 315,
+      "question": "Ultimate interpretive power under the constitution is given to the:",
+      "options": [
+        "Federal Supreme Court",
+        "House of Federation",
+        "House of Peoples' Representatives",
+        "President"
+      ],
+      "correctAnswer": "House of Federation",
+      "difficulty": "hard",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 316,
+      "question": "How many city administrations exist under the FDRE?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 317,
+      "question": "Which state is known as a 'federation within a federation' due to its approximately 56 ethnic groups?",
+      "options": [
+        "Oromia",
+        "Gambella",
+        "SNNPRS",
+        "Benishangul-Gumuz"
+      ],
+      "correctAnswer": "SNNPRS",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 318,
+      "question": "Which state covers approximately one-third of Ethiopia's total landmass?",
+      "options": [
+        "Amhara",
+        "Somali",
+        "Tigray",
+        "Oromia"
+      ],
+      "correctAnswer": "Oromia",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 319,
+      "question": "Which is the smallest state by area?",
+      "options": [
+        "Gambella",
+        "Harari",
+        "Afar",
+        "Benishangul-Gumuz"
+      ],
+      "correctAnswer": "Harari",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 320,
+      "question": "Oromos and Amharas together constitute approximately what percentage of Ethiopia's population?",
+      "options": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "correctAnswer": "70%",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 321,
+      "question": "What is the working language at the federal level?",
+      "options": [
+        "Afaan Oromo",
+        "Tigrigna",
+        "Amharic",
+        "English"
+      ],
+      "correctAnswer": "Amharic",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 322,
+      "question": "Tigray state has chosen which working language?",
+      "options": [
+        "Amharic",
+        "Tigrigna",
+        "Afaan Oromo",
+        "Somali"
+      ],
+      "correctAnswer": "Tigrigna",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 323,
+      "question": "Oromia state has chosen which working language?",
+      "options": [
+        "Amharic",
+        "Tigrigna",
+        "Afaan Oromo",
+        "Somali"
+      ],
+      "correctAnswer": "Afaan Oromo",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 324,
+      "question": "Which state chose Amharic as its working language until its own script is developed?",
+      "options": [
+        "Somali",
+        "Harari",
+        "Afar",
+        "Gambella"
+      ],
+      "correctAnswer": "Afar",
+      "difficulty": "hard",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 325,
+      "question": "Which three states chose Amharic as a neutral working language?",
+      "options": [
+        "Tigray, Afar, Somali",
+        "Oromia, Amhara, SNNPRS",
+        "Benshangul/Gumuz, Gambella, SNNPRS",
+        "Harari, Dire Dawa, Addis Ababa"
+      ],
+      "correctAnswer": "Benshangul/Gumuz, Gambella, SNNPRS",
+      "difficulty": "hard",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 326,
+      "question": "The constitutional objective of Ethiopian federalism is:",
+      "options": [
+        "Strength in uniformity",
+        "Unity in diversity",
+        "One nation, one people",
+        "Federalism for all"
+      ],
+      "correctAnswer": "Unity in diversity",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 327,
+      "question": "Who served as the first president of the FDRE?",
+      "options": [
+        "Meles Zenawi",
+        "Negaso Gidada",
+        "Lencho Letta",
+        "Isaias Afwerki"
+      ],
+      "correctAnswer": "Negaso Gidada",
+      "difficulty": "hard",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 328,
+      "question": "Which of the following is listed as a challenge of Ethiopian federalism?",
+      "options": [
+        "Lack of natural resources",
+        "Threat of secession and internal fragmentation",
+        "Excessive foreign aid",
+        "Absence of political parties"
+      ],
+      "correctAnswer": "Threat of secession and internal fragmentation",
+      "difficulty": "easy",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 329,
+      "question": "Which two city administrations are recognized under the FDRE?",
+      "options": [
+        "Addis Ababa and Bahir Dar",
+        "Addis Ababa and Dire Dawa",
+        "Dire Dawa and Mekelle",
+        "Addis Ababa and Hawassa"
+      ],
+      "correctAnswer": "Addis Ababa and Dire Dawa",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 330,
+      "question": "The House of Federation's members represent:",
+      "options": [
+        "Political parties",
+        "Geographical districts",
+        "Each Nation, Nationality, and People",
+        "Professional associations"
+      ],
+      "correctAnswer": "Each Nation, Nationality, and People",
+      "difficulty": "medium",
+      "source": "8.1.2 The 1995 Constitution and FDRE"
+    },
+    {
+      "id": 331,
+      "question": "The Nile River is approximately how long?",
+      "options": [
+        "4,500 km",
+        "5,800 km",
+        "6,825 km",
+        "7,200 km"
+      ],
+      "correctAnswer": "6,825 km",
+      "difficulty": "easy",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 332,
+      "question": "The Nile River flows in which direction?",
+      "options": [
+        "North to south",
+        "East to west",
+        "South to north",
+        "West to east"
+      ],
+      "correctAnswer": "South to north",
+      "difficulty": "easy",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 333,
+      "question": "How many degrees of latitude does the Nile cross?",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "correctAnswer": "35",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 334,
+      "question": "Which of the following is a major tributary of the Nile?",
+      "options": [
+        "Yellow Nile",
+        "Blue Nile (Abay)",
+        "Red Nile",
+        "Green Nile"
+      ],
+      "correctAnswer": "Blue Nile (Abay)",
+      "difficulty": "easy",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 335,
+      "question": "How many countries does the Nile traverse?",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "correctAnswer": "11",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 336,
+      "question": "The Blue Nile originates from the highlands of:",
+      "options": [
+        "Siemen Mountains",
+        "Western Gojjam, Sekela",
+        "Lake Tana",
+        "Bale Mountains"
+      ],
+      "correctAnswer": "Western Gojjam, Sekela",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 337,
+      "question": "The Blue Nile, from its source to Lake Tana, is called:",
+      "options": [
+        "Tekeze",
+        "Atbara",
+        "Gilgel Abay",
+        "White Nile"
+      ],
+      "correctAnswer": "Gilgel Abay",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 338,
+      "question": "The Blue Nile joins the White Nile in:",
+      "options": [
+        "Cairo",
+        "Addis Ababa",
+        "Juba",
+        "Khartoum"
+      ],
+      "correctAnswer": "Khartoum",
+      "difficulty": "easy",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 339,
+      "question": "The Blue Nile contributes approximately what percentage of the Nile's annual water volume?",
+      "options": [
+        "56%",
+        "66%",
+        "76%",
+        "86%"
+      ],
+      "correctAnswer": "86%",
+      "difficulty": "easy",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 340,
+      "question": "The Tekeze River originates from:",
+      "options": [
+        "Western Gojjam",
+        "Lake Tana",
+        "Siemen Mountains",
+        "Bale Mountains"
+      ],
+      "correctAnswer": "Siemen Mountains",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 341,
+      "question": "In Sudan, the Tekeze River is called:",
+      "options": [
+        "Abay",
+        "Atbara",
+        "Gilgel Abay",
+        "Blue Nile"
+      ],
+      "correctAnswer": "Atbara",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 342,
+      "question": "During which months does the Tekeze decrease and disappear in the Sudan deserts?",
+      "options": [
+        "July-December",
+        "January-June",
+        "March-August",
+        "October-March"
+      ],
+      "correctAnswer": "January-June",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 343,
+      "question": "Which country is the most extensive user of Nile waters?",
+      "options": [
+        "Sudan",
+        "Ethiopia",
+        "Egypt",
+        "Uganda"
+      ],
+      "correctAnswer": "Egypt",
+      "difficulty": "easy",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 344,
+      "question": "Ethiopia contributes approximately what percentage of the Nile's water?",
+      "options": [
+        "56%",
+        "66%",
+        "76%",
+        "86%"
+      ],
+      "correctAnswer": "86%",
+      "difficulty": "easy",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 345,
+      "question": "Until recent times, Ethiopia utilized what percentage of the Nile waters it contributes?",
+      "options": [
+        "Less than 1%",
+        "10%",
+        "25%",
+        "50%"
+      ],
+      "correctAnswer": "Less than 1%",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 346,
+      "question": "The 1929 Agreement on the Nile was between:",
+      "options": [
+        "Egypt and Sudan",
+        "Great Britain (on behalf of Sudan) and Egypt",
+        "Ethiopia and Egypt",
+        "All Nile riparian states"
+      ],
+      "correctAnswer": "Great Britain (on behalf of Sudan) and Egypt",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 347,
+      "question": "What right did the 1929 Agreement give Egypt?",
+      "options": [
+        "Unlimited access to the Nile",
+        "Right to veto any Nile project affecting its interests",
+        "Ownership of the Nile",
+        "Right to tax other users"
+      ],
+      "correctAnswer": "Right to veto any Nile project affecting its interests",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 348,
+      "question": "The 1959 Agreement allocated Egypt how many billion cubic meters of Nile water per year?",
+      "options": [
+        "18.5",
+        "35.5",
+        "55.5",
+        "74"
+      ],
+      "correctAnswer": "55.5",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 349,
+      "question": "The 1959 Agreement allocated Sudan how many billion cubic meters of Nile water per year?",
+      "options": [
+        "4",
+        "18.5",
+        "55.5",
+        "74"
+      ],
+      "correctAnswer": "18.5",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 350,
+      "question": "The 1959 Agreement was signed after how many years of negotiation?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": "3",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 351,
+      "question": "The Cooperative Framework Agreement (CFA) was signed between leaders of which two countries?",
+      "options": [
+        "Ethiopia and Sudan",
+        "Egypt and Sudan",
+        "Ethiopia and Egypt",
+        "Ethiopia and Uganda"
+      ],
+      "correctAnswer": "Ethiopia and Egypt",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 352,
+      "question": "Who signed the CFA for Ethiopia?",
+      "options": [
+        "Negaso Gidada",
+        "Meles Zenawi",
+        "Lencho Letta",
+        "Isaias Afwerki"
+      ],
+      "correctAnswer": "Meles Zenawi",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 353,
+      "question": "Who signed the CFA for Egypt?",
+      "options": [
+        "Anwar Sadat",
+        "Gamal Abdel Nasser",
+        "Hosni Mubarak",
+        "Mohamed Morsi"
+      ],
+      "correctAnswer": "Hosni Mubarak",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 354,
+      "question": "According to Meles Zenawi, the status quo regarding Nile water sharing:",
+      "options": [
+        "Was acceptable indefinitely",
+        "Could not be maintained indefinitely",
+        "Was legally binding",
+        "Had been resolved permanently"
+      ],
+      "correctAnswer": "Could not be maintained indefinitely",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 355,
+      "question": "The Nile Basin Initiatives (NBI) was established on:",
+      "options": [
+        "February 22, 1999",
+        "May 28, 1991",
+        "June 1, 1995",
+        "April 2, 2011"
+      ],
+      "correctAnswer": "February 22, 1999",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 356,
+      "question": "The NBI was signed in which city?",
+      "options": [
+        "Addis Ababa",
+        "Cairo",
+        "Dar es Salaam",
+        "Khartoum"
+      ],
+      "correctAnswer": "Dar es Salaam",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 357,
+      "question": "The Grand Ethiopian Renaissance Dam (GERD) is located on which river?",
+      "options": [
+        "Tekeze",
+        "White Nile",
+        "Abay (Blue Nile)",
+        "Gilgel Abay"
+      ],
+      "correctAnswer": "Abay (Blue Nile)",
+      "difficulty": "easy",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 358,
+      "question": "GERD construction started in:",
+      "options": [
+        "1999",
+        "2005",
+        "2011",
+        "2015"
+      ],
+      "correctAnswer": "2011",
+      "difficulty": "easy",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 359,
+      "question": "When completed, GERD's capacity is planned to be:",
+      "options": [
+        "55.5 billion m3",
+        "18.5 billion m3",
+        "74 billion m3",
+        "86 billion m3"
+      ],
+      "correctAnswer": "74 billion m3",
+      "difficulty": "medium",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 360,
+      "question": "Ethiopia's electricity demand is increasing annually at what rate?",
+      "options": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "correctAnswer": "30%",
+      "difficulty": "hard",
+      "source": "8.2.1 Hydro-Political History of the Nile Basin"
+    },
+    {
+      "id": 361,
+      "question": "In 1992, the TGE adopted which economic model?",
+      "options": [
+        "Socialist model",
+        "Free-market economic model",
+        "Mixed economy",
+        "Command economy"
+      ],
+      "correctAnswer": "Free-market economic model",
+      "difficulty": "easy",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 362,
+      "question": "The ALDI strategy stands for:",
+      "options": [
+        "Accelerated Light Development Initiative",
+        "Agricultural-led Development of Industrialization",
+        "Agriculture and Livestock Development Initiative",
+        "Advanced Local Development Integration"
+      ],
+      "correctAnswer": "Agricultural-led Development of Industrialization",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 363,
+      "question": "The purpose of the ALDI strategy is to:",
+      "options": [
+        "Promote heavy industry first",
+        "Improve agricultural productivity to transform to an industrialized economy",
+        "Focus solely on service sector",
+        "Reduce international trade"
+      ],
+      "correctAnswer": "Improve agricultural productivity to transform to an industrialized economy",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 364,
+      "question": "Ethiopia's average annual economic growth rate from 1981 to 1991 was:",
+      "options": [
+        "0.5%",
+        "2.5%",
+        "5.1%",
+        "10.9%"
+      ],
+      "correctAnswer": "0.5%",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 365,
+      "question": "Ethiopia's average annual economic growth rate from 1992 to 2004 was:",
+      "options": [
+        "0.5%",
+        "2.5%",
+        "5.1%",
+        "10.9%"
+      ],
+      "correctAnswer": "5.1%",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 366,
+      "question": "Ethiopia's average annual economic growth rate from 2005 to 2015 was approximately:",
+      "options": [
+        "5.1%",
+        "7.5%",
+        "10.9%",
+        "15.2%"
+      ],
+      "correctAnswer": "10.9%",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 367,
+      "question": "Ethiopia's road network in 1991 was approximately:",
+      "options": [
+        "18,000 km",
+        "30,000 km",
+        "60,000 km",
+        "120,000 km"
+      ],
+      "correctAnswer": "18,000 km",
+      "difficulty": "easy",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 368,
+      "question": "After 25 years of improvement, Ethiopia's road network expanded to over:",
+      "options": [
+        "50,000 km",
+        "80,000 km",
+        "100,000 km",
+        "120,000 km"
+      ],
+      "correctAnswer": "120,000 km",
+      "difficulty": "easy",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 369,
+      "question": "Approximately how many Ethiopians live below the poverty line of less than $1.25 per day?",
+      "options": [
+        "5 million",
+        "15 million",
+        "25 million",
+        "50 million"
+      ],
+      "correctAnswer": "25 million",
+      "difficulty": "easy",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 370,
+      "question": "The percentage of Ethiopians living below the poverty line is approximately:",
+      "options": [
+        "10%",
+        "25%",
+        "40%",
+        "50%"
+      ],
+      "correctAnswer": "25%",
+      "difficulty": "easy",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 371,
+      "question": "Before and after the 2005 economic boom, how many Ethiopians depended on food aid annually?",
+      "options": [
+        "1-2 million",
+        "5-18 million",
+        "20-30 million",
+        "35-50 million"
+      ],
+      "correctAnswer": "5-18 million",
+      "difficulty": "hard",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 372,
+      "question": "In 2015, Ethiopia experienced one of its worst:",
+      "options": [
+        "Floods",
+        "Earthquakes",
+        "Droughts",
+        "Locust plagues"
+      ],
+      "correctAnswer": "Droughts",
+      "difficulty": "easy",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 373,
+      "question": "Ethiopia's economic growth has been characterized by:",
+      "options": [
+        "Equal distribution of wealth",
+        "Concentration of wealth among a few rich",
+        "Elimination of poverty",
+        "Universal access to electricity"
+      ],
+      "correctAnswer": "Concentration of wealth among a few rich",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 374,
+      "question": "The FDRE constitution has been contested for:",
+      "options": [
+        "Its length",
+        "Its content and how it came about",
+        "Its language",
+        "Its binding nature"
+      ],
+      "correctAnswer": "Its content and how it came about",
+      "difficulty": "hard",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 375,
+      "question": "The FDRE constitution is seen by some as a formalization of whose political program?",
+      "options": [
+        "The Derg",
+        "The EPLF",
+        "The EPRDF",
+        "The OLF"
+      ],
+      "correctAnswer": "The EPRDF",
+      "difficulty": "hard",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 376,
+      "question": "Political upheavals in the post-1991 period have been especially frequent after:",
+      "options": [
+        "Harvest seasons",
+        "Elections",
+        "International summits",
+        "Religious festivals"
+      ],
+      "correctAnswer": "Elections",
+      "difficulty": "easy",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 377,
+      "question": "Which of the following was a way the constitution was violated by the government?",
+      "options": [
+        "Expanding civil liberties",
+        "Ethnic clashes instigated by groups affiliated with governing bodies",
+        "Holding regular elections",
+        "Providing free education"
+      ],
+      "correctAnswer": "Ethnic clashes instigated by groups affiliated with governing bodies",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 378,
+      "question": "In the post-1991 period, freedom of expression was:",
+      "options": [
+        "Fully protected",
+        "Severely curtailed",
+        "Never an issue",
+        "Expanded beyond international norms"
+      ],
+      "correctAnswer": "Severely curtailed",
+      "difficulty": "easy",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 379,
+      "question": "How many regional/national elections were held between 1995 and 2015?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correctAnswer": "Five",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 380,
+      "question": "The first two national elections (1995 and 2000) were characterized by:",
+      "options": [
+        "A decisive opposition victory",
+        "A boycott by the opposition",
+        "International observer condemnation",
+        "Violent conflict"
+      ],
+      "correctAnswer": "A boycott by the opposition",
+      "difficulty": "hard",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 381,
+      "question": "In the 2005 election, which two major opposition coalitions participated?",
+      "options": [
+        "EPRDF and OLF",
+        "CUD and UEDF",
+        "TPLF and EPDM",
+        "SEPDM and OPDO"
+      ],
+      "correctAnswer": "CUD and UEDF",
+      "difficulty": "hard",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 382,
+      "question": "In the 2005 election, the opposition won approximately how many seats?",
+      "options": [
+        "87",
+        "173",
+        "300",
+        "547"
+      ],
+      "correctAnswer": "173",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 383,
+      "question": "In 2005, the opposition won seats in which state(s)?",
+      "options": [
+        "Tigray only",
+        "Oromia, Amhara, and SNNPR",
+        "Somali and Afar",
+        "Gambella and Harari"
+      ],
+      "correctAnswer": "Oromia, Amhara, and SNNPR",
+      "difficulty": "hard",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 384,
+      "question": "In 2005, the opposition won all federal seats in which city?",
+      "options": [
+        "Dire Dawa",
+        "Mekelle",
+        "Addis Ababa",
+        "Bahir Dar"
+      ],
+      "correctAnswer": "Addis Ababa",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 385,
+      "question": "What was the death toll from the violent protests following the 2005 election?",
+      "options": [
+        "50",
+        "100",
+        "200",
+        "500"
+      ],
+      "correctAnswer": "200",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 386,
+      "question": "After the 2005 election controversy, CUD leaders ended up:",
+      "options": [
+        "In exile",
+        "In jail",
+        "In parliament",
+        "In the cabinet"
+      ],
+      "correctAnswer": "In jail",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 387,
+      "question": "Which group was also imprisoned after the 2005 election controversy?",
+      "options": [
+        "EPRDF members",
+        "Journalists and civil society leaders",
+        "Foreign diplomats",
+        "Military officers"
+      ],
+      "correctAnswer": "Journalists and civil society leaders",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 388,
+      "question": "Despite vast natural resources, Ethiopia remains one of:",
+      "options": [
+        "The most industrialized countries",
+        "The poorest countries",
+        "The most urbanized countries",
+        "The richest countries in Africa"
+      ],
+      "correctAnswer": "The poorest countries",
+      "difficulty": "easy",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 389,
+      "question": "Ethiopia's economic growth rate from 2005 to 2015 placed it among:",
+      "options": [
+        "The slowest growing economies",
+        "The fastest growth rates for a non-oil producing country",
+        "The most volatile economies",
+        "The most indebted countries"
+      ],
+      "correctAnswer": "The fastest growth rates for a non-oil producing country",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    },
+    {
+      "id": 390,
+      "question": "Approximately how many of Ethiopia's 110 million people lack electricity?",
+      "options": [
+        "One-quarter",
+        "One-third",
+        "More than half",
+        "Almost all"
+      ],
+      "correctAnswer": "More than half",
+      "difficulty": "medium",
+      "source": "8.2.2 Development and Democratization Challenges"
+    }
+  ]
+}
