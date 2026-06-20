@@ -1,0 +1,1158 @@
+{
+  "title": "4.2 Cell Division",
+  "description": "Cell division: mitosis (prophase, metaphase, anaphase, telophase) and meiosis (Meiosis I and Meiosis II).",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade10",
+    "cellreproduction"
+  ],
+  "questions": [
+    {
+      "question": "What is the basic structural and functional unit of life?",
+      "options": [
+        "The nucleus",
+        "The cell",
+        "The chromosome",
+        "The organelle"
+      ],
+      "correctAnswer": "The cell",
+      "id": 1
+    },
+    {
+      "question": "What distinguishes living organisms from non-living organisms?",
+      "options": [
+        "The ability to move",
+        "The ability to reproduce",
+        "The ability to breathe",
+        "The ability to grow"
+      ],
+      "correctAnswer": "The ability to reproduce",
+      "id": 2
+    },
+    {
+      "question": "Which unicellular organism is given as an example that reproduces by cell division?",
+      "options": [
+        "Paramecium",
+        "Amoeba",
+        "Euglena",
+        "Bacteria"
+      ],
+      "correctAnswer": "Amoeba",
+      "id": 3
+    },
+    {
+      "question": "According to cell theory, from what do new cells arise?",
+      "options": [
+        "Non-living matter",
+        "Pre-existing cells by cell division",
+        "Spontaneous generation",
+        "The nucleus of old cells"
+      ],
+      "correctAnswer": "Pre-existing cells by cell division",
+      "id": 4
+    },
+    {
+      "question": "The fundamental principle that new cells arise from pre-existing cells is known as what?",
+      "options": [
+        "The theory of evolution",
+        "The cell doctrine",
+        "The law of segregation",
+        "The principle of inheritance"
+      ],
+      "correctAnswer": "The cell doctrine",
+      "id": 5
+    },
+    {
+      "question": "Who originally postulated the cell doctrine in 1858?",
+      "options": [
+        "Walther Flemming",
+        "Gregor Mendel",
+        "Rudolf Virchow",
+        "Charles Darwin"
+      ],
+      "correctAnswer": "Rudolf Virchow",
+      "id": 6
+    },
+    {
+      "question": "The cell doctrine provides the basis for what?",
+      "options": [
+        "The evolution of species",
+        "The continuity of life",
+        "The formation of organs",
+        "The development of tissues"
+      ],
+      "correctAnswer": "The continuity of life",
+      "id": 7
+    },
+    {
+      "question": "Cell division is a basic process in all living things where a parent cell divides into how many daughter cells?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Eight"
+      ],
+      "correctAnswer": "Two",
+      "id": 8
+    },
+    {
+      "question": "Cells on the path to cell division proceed through a series of precisely timed and carefully regulated stages that ultimately produce what?",
+      "options": [
+        "Four genetically different cells",
+        "Two identical (clone) cells",
+        "Two genetically different cells",
+        "One larger cell"
+      ],
+      "correctAnswer": "Two identical (clone) cells",
+      "id": 9
+    },
+    {
+      "question": "As a cell grows, what happens to the volume of cytoplasm relative to the cell membrane?",
+      "options": [
+        "It stays the same",
+        "It becomes larger, resulting in low surface area to volume ratio",
+        "It becomes smaller, resulting in high surface area to volume ratio",
+        "It completely disappears"
+      ],
+      "correctAnswer": "It becomes larger, resulting in low surface area to volume ratio",
+      "id": 10
+    },
+    {
+      "question": "When the surface area to volume ratio is low, what becomes inadequate for the cell to survive?",
+      "options": [
+        "Active transport",
+        "Simple diffusion across the cell membrane",
+        "Facilitated diffusion",
+        "Endocytosis"
+      ],
+      "correctAnswer": "Simple diffusion across the cell membrane",
+      "id": 11
+    },
+    {
+      "question": "As the size of a cell increases, what is highly minimized?",
+      "options": [
+        "The amount of cytoplasm",
+        "The controlling power of the nucleus",
+        "The number of organelles",
+        "The cell membrane thickness"
+      ],
+      "correctAnswer": "The controlling power of the nucleus",
+      "id": 12
+    },
+    {
+      "question": "What mechanism does a cell employ to solve the problems of low surface area to volume ratio and minimized nuclear control?",
+      "options": [
+        "Cell growth",
+        "Cell division",
+        "Cell differentiation",
+        "Cell respiration"
+      ],
+      "correctAnswer": "Cell division",
+      "id": 13
+    },
+    {
+      "question": "In unicellular organisms, what is cell division a means of?",
+      "options": [
+        "Growth",
+        "Reproduction or getting new offspring",
+        "Repair of damaged parts",
+        "Tissue formation"
+      ],
+      "correctAnswer": "Reproduction or getting new offspring",
+      "id": 14
+    },
+    {
+      "question": "When a single-celled Amoeba divides, what has it increased?",
+      "options": [
+        "Its size",
+        "Its population or number of offspring",
+        "Its number of organelles",
+        "Its energy reserves"
+      ],
+      "correctAnswer": "Its population or number of offspring",
+      "id": 15
+    },
+    {
+      "question": "In multicellular organisms, cell division is a means of increasing cell number for what purposes?",
+      "options": [
+        "Only reproduction",
+        "Growth or to replace damaged or dead cells and repair the body",
+        "Only energy production",
+        "Only waste removal"
+      ],
+      "correctAnswer": "Growth or to replace damaged or dead cells and repair the body",
+      "id": 16
+    },
+    {
+      "question": "In sexually reproducing organisms, cell division occurs around reproductive organs as a means of getting what?",
+      "options": [
+        "New body cells",
+        "Gametes or sex cells",
+        "More cytoplasm",
+        "Larger nuclei"
+      ],
+      "correctAnswer": "Gametes or sex cells",
+      "id": 17
+    },
+    {
+      "question": "Cell division consists of which two subdivisions?",
+      "options": [
+        "Mitosis and interphase",
+        "Nuclear division (karyokinesis) and cytokinesis",
+        "Prophase and metaphase",
+        "DNA replication and protein synthesis"
+      ],
+      "correctAnswer": "Nuclear division (karyokinesis) and cytokinesis",
+      "id": 18
+    },
+    {
+      "question": "Nuclear division results in the separation and distribution of what to daughter cells?",
+      "options": [
+        "Cytoplasmic components",
+        "Duplicated genetic materials of the mother cell",
+        "Cell organelles",
+        "Energy reserves"
+      ],
+      "correctAnswer": "Duplicated genetic materials of the mother cell",
+      "id": 19
+    },
+    {
+      "question": "Nuclear division distributes genetic materials by which processes?",
+      "options": [
+        "Only mitosis",
+        "Only meiosis",
+        "Mitosis or meiosis",
+        "Binary fission"
+      ],
+      "correctAnswer": "Mitosis or meiosis",
+      "id": 20
+    },
+    {
+      "question": "What is the separation of cytoplasmic components into daughter cells called?",
+      "options": [
+        "Karyokinesis",
+        "Cytokinesis",
+        "Mitosis",
+        "Meiosis"
+      ],
+      "correctAnswer": "Cytokinesis",
+      "id": 21
+    },
+    {
+      "question": "What is mitosis?",
+      "options": [
+        "A type of cytoplasmic division",
+        "A type of nuclear division where duplicated chromosomes are distributed between two identical daughter cells",
+        "A type of cell division that produces gametes",
+        "A process that reduces chromosome number by half"
+      ],
+      "correctAnswer": "A type of nuclear division where duplicated chromosomes are distributed between two identical daughter cells",
+      "id": 22
+    },
+    {
+      "question": "In mitosis, a diploid (2n) mother cell gives rise to what kind of daughter cells?",
+      "options": [
+        "Two haploid (n) identical daughter cells",
+        "Two diploid (2n) identical daughter cells",
+        "Four haploid (n) daughter cells",
+        "Four diploid (2n) daughter cells"
+      ],
+      "correctAnswer": "Two diploid (2n) identical daughter cells",
+      "id": 23
+    },
+    {
+      "question": "Who first coined the term mitosis in 1882?",
+      "options": [
+        "Rudolf Virchow",
+        "Gregor Mendel",
+        "Walther Flemming",
+        "Tewolde Berhan Gebre Egziabher"
+      ],
+      "correctAnswer": "Walther Flemming",
+      "id": 24
+    },
+    {
+      "question": "What did Walther Flemming discover about chromosomes during cell division?",
+      "options": [
+        "They disappear completely",
+        "They split longitudinally to distribute themselves equally between two daughter cells",
+        "They fuse together",
+        "They remain unchanged"
+      ],
+      "correctAnswer": "They split longitudinally to distribute themselves equally between two daughter cells",
+      "id": 25
+    },
+    {
+      "question": "The end result of mitosis is growth of the eukaryotic organism and what else?",
+      "options": [
+        "Production of gametes",
+        "Replacement of damaged or dead cells",
+        "Reduction of chromosome number",
+        "Formation of sex cells"
+      ],
+      "correctAnswer": "Replacement of damaged or dead cells",
+      "id": 26
+    },
+    {
+      "question": "After fertilization, the growth of the zygote occurs by cell division through mitosis into the 2-cell stage, then 4-cell stage, 8-cell stage, 16-cell stage, and so on. What is this process called?",
+      "options": [
+        "Mitosis",
+        "Cleavage",
+        "Meiosis",
+        "Fertilization"
+      ],
+      "correctAnswer": "Cleavage",
+      "id": 27
+    },
+    {
+      "question": "Mitosis as nuclear division is divided into which series of phases?",
+      "options": [
+        "Interphase, prophase, metaphase, anaphase",
+        "Prophase, metaphase, anaphase, and telophase",
+        "G1, S, G2, and M",
+        "Prophase I, metaphase I, anaphase I, telophase I"
+      ],
+      "correctAnswer": "Prophase, metaphase, anaphase, and telophase",
+      "id": 28
+    },
+    {
+      "question": "What happens to the nuclear membrane during prophase?",
+      "options": [
+        "It thickens",
+        "It breaks down",
+        "It doubles in size",
+        "It remains unchanged"
+      ],
+      "correctAnswer": "It breaks down",
+      "id": 29
+    },
+    {
+      "question": "What happens to the nucleolus during prophase?",
+      "options": [
+        "It doubles in size",
+        "It disappears",
+        "It moves to the center",
+        "It remains unchanged"
+      ],
+      "correctAnswer": "It disappears",
+      "id": 30
+    },
+    {
+      "question": "During prophase, what happens to chromosomes?",
+      "options": [
+        "They elongate and become invisible",
+        "They shorten, thicken, and become visible",
+        "They separate completely",
+        "They disappear"
+      ],
+      "correctAnswer": "They shorten, thicken, and become visible",
+      "id": 31
+    },
+    {
+      "question": "During prophase, each duplicated chromosome is composed of what?",
+      "options": [
+        "Two homologous chromosomes",
+        "Two sister chromatids containing identical genetic material",
+        "Four chromatids",
+        "One single chromatid"
+      ],
+      "correctAnswer": "Two sister chromatids containing identical genetic material",
+      "id": 32
+    },
+    {
+      "question": "During prophase, what begins to move to opposite poles of the cell?",
+      "options": [
+        "The chromosomes",
+        "The centrosomes",
+        "The nucleolus",
+        "The cell membrane"
+      ],
+      "correctAnswer": "The centrosomes",
+      "id": 33
+    },
+    {
+      "question": "From where do spindle fibres emerge during prophase?",
+      "options": [
+        "The nucleus",
+        "The centrosomes",
+        "The cell membrane",
+        "The chromosomes"
+      ],
+      "correctAnswer": "The centrosomes",
+      "id": 34
+    },
+    {
+      "question": "Centrosomes are located where in relation to the nucleus?",
+      "options": [
+        "Inside the nucleus",
+        "Outside the nucleus",
+        "On the cell membrane",
+        "On the chromosomes"
+      ],
+      "correctAnswer": "Outside the nucleus",
+      "id": 35
+    },
+    {
+      "question": "How many centrosomes are present in a cell during prophase?",
+      "options": [
+        "One",
+        "Two",
+        "Four",
+        "Eight"
+      ],
+      "correctAnswer": "Two",
+      "id": 36
+    },
+    {
+      "question": "What phase of mitosis is known as the arrangement phase?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "correctAnswer": "Metaphase",
+      "id": 37
+    },
+    {
+      "question": "During metaphase, mitotic spindles are fully developed with centrosomes at what location?",
+      "options": [
+        "The center of the cell",
+        "The opposite poles",
+        "The nuclear membrane",
+        "The chromosomes"
+      ],
+      "correctAnswer": "The opposite poles",
+      "id": 38
+    },
+    {
+      "question": "During metaphase, chromosomes line up end-to-end along what structure?",
+      "options": [
+        "The nuclear membrane",
+        "The metaphase plate or equatorial plane",
+        "The cell wall",
+        "The centrosome"
+      ],
+      "correctAnswer": "The metaphase plate or equatorial plane",
+      "id": 39
+    },
+    {
+      "question": "During metaphase, each sister chromatid is attached to a spindle fibre originating from where?",
+      "options": [
+        "The same pole",
+        "Opposite poles",
+        "The centromere only",
+        "The cell membrane"
+      ],
+      "correctAnswer": "Opposite poles",
+      "id": 40
+    },
+    {
+      "question": "What phase of mitosis is known as the migrating phase?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "correctAnswer": "Anaphase",
+      "id": 41
+    },
+    {
+      "question": "During anaphase, what proteins binding the sister chromatids together break down?",
+      "options": [
+        "Histone proteins",
+        "Cohesion proteins at the centromere",
+        "Motor proteins",
+        "Receptor proteins"
+      ],
+      "correctAnswer": "Cohesion proteins at the centromere",
+      "id": 42
+    },
+    {
+      "question": "During anaphase, separated sister chromatids are pulled apart by which structure?",
+      "options": [
+        "The nuclear membrane",
+        "The mitotic spindle",
+        "The cell wall",
+        "The centrosome"
+      ],
+      "correctAnswer": "The mitotic spindle",
+      "id": 43
+    },
+    {
+      "question": "During anaphase, the mitotic spindle drags one chromatid to one pole and the other chromatid to the opposite pole. What does this ensure?",
+      "options": [
+        "Daughter cells receive different numbers of chromosomes",
+        "Daughter cells receive chromosomes that are the same in number and kind",
+        "The cell divides into four daughter cells",
+        "The chromosome number is reduced by half"
+      ],
+      "correctAnswer": "Daughter cells receive chromosomes that are the same in number and kind",
+      "id": 44
+    },
+    {
+      "question": "What phase of mitosis is known as a reverse of prophase?",
+      "options": [
+        "Metaphase",
+        "Anaphase",
+        "Telophase",
+        "Cytokinesis"
+      ],
+      "correctAnswer": "Telophase",
+      "id": 45
+    },
+    {
+      "question": "During telophase, what reappears to surround each set of chromosomes?",
+      "options": [
+        "The cell membrane",
+        "The nuclear membrane",
+        "The cell wall",
+        "The centrosome"
+      ],
+      "correctAnswer": "The nuclear membrane",
+      "id": 46
+    },
+    {
+      "question": "What happens to the mitotic spindle during telophase?",
+      "options": [
+        "It grows larger",
+        "It breaks down and disappears",
+        "It moves to the center",
+        "It attaches to chromosomes"
+      ],
+      "correctAnswer": "It breaks down and disappears",
+      "id": 47
+    },
+    {
+      "question": "When does cytokinesis take place?",
+      "options": [
+        "Before prophase",
+        "During metaphase",
+        "After the four stages of mitosis are completed",
+        "During interphase"
+      ],
+      "correctAnswer": "After the four stages of mitosis are completed",
+      "id": 48
+    },
+    {
+      "question": "In animal cells, what enables the cytoplasm to pinch or constrict in the middle during cytokinesis?",
+      "options": [
+        "The cell wall",
+        "The cell membrane only",
+        "The nuclear membrane",
+        "The spindle fibers"
+      ],
+      "correctAnswer": "The cell membrane only",
+      "id": 49
+    },
+    {
+      "question": "In plant cells, what prevents the cytoplasm from simply pinching off during cytokinesis?",
+      "options": [
+        "The large vacuole",
+        "The hard cell wall in addition to the cell membrane",
+        "The chloroplasts",
+        "The nucleus"
+      ],
+      "correctAnswer": "The hard cell wall in addition to the cell membrane",
+      "id": 50
+    },
+    {
+      "question": "In plant cells, what is laid down between the two daughter cells during cytokinesis?",
+      "options": [
+        "A new cell membrane",
+        "A new wall",
+        "A new spindle fiber",
+        "A new nucleolus"
+      ],
+      "correctAnswer": "A new wall",
+      "id": 51
+    },
+    {
+      "question": "What is the middle wall that joins two adjacent plant cells called?",
+      "options": [
+        "Cell plate",
+        "Middle lamella",
+        "Cell membrane",
+        "Spindle fiber"
+      ],
+      "correctAnswer": "Middle lamella",
+      "id": 52
+    },
+    {
+      "question": "The redistribution of duplicated chromosomes through mitosis produces two daughter cells that are identical in what?",
+      "options": [
+        "Size and shape only",
+        "Quality and quantity of chromosomes",
+        "Organelle number only",
+        "Cell membrane thickness"
+      ],
+      "correctAnswer": "Quality and quantity of chromosomes",
+      "id": 53
+    },
+    {
+      "question": "After the union of haploid sperm and haploid egg, the resulting zygote is what?",
+      "options": [
+        "Haploid (n)",
+        "Diploid (2n)",
+        "Triploid (3n)",
+        "Tetraploid (4n)"
+      ],
+      "correctAnswer": "Diploid (2n)",
+      "id": 54
+    },
+    {
+      "question": "How do human beings become made up of millions of cells starting from a single zygote?",
+      "options": [
+        "By meiosis",
+        "By repeated cell division through mitosis",
+        "By cell differentiation only",
+        "By cell growth without division"
+      ],
+      "correctAnswer": "By repeated cell division through mitosis",
+      "id": 55
+    },
+    {
+      "question": "Why do cells need to be replaced continuously in the body?",
+      "options": [
+        "Cells live forever",
+        "Cells have a finite life span and wear out or become damaged",
+        "Cells stop dividing after birth",
+        "Cells only divide during childhood"
+      ],
+      "correctAnswer": "Cells have a finite life span and wear out or become damaged",
+      "id": 56
+    },
+    {
+      "question": "What is a spindle fiber?",
+      "options": [
+        "A short carbohydrate fiber in the nucleus",
+        "A long protein fiber extending from centrioles",
+        "A lipid fiber in the cell membrane",
+        "A DNA strand in the chromosome"
+      ],
+      "correctAnswer": "A long protein fiber extending from centrioles",
+      "id": 57
+    },
+    {
+      "question": "During which stage of cell division is the spindle fiber necessary to pull chromosomes towards the pole?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "correctAnswer": "Anaphase",
+      "id": 58
+    },
+    {
+      "question": "What are homologous chromosomes?",
+      "options": [
+        "Two identical copies of the same chromosome",
+        "Couples of one maternal and one paternal chromosome paired up during fertilization",
+        "Chromosomes found only in sex cells",
+        "Chromosomes that have no genetic information"
+      ],
+      "correctAnswer": "Couples of one maternal and one paternal chromosome paired up during fertilization",
+      "id": 59
+    },
+    {
+      "question": "Each homologous pair of chromosomes represents a parent for what type of character?",
+      "options": [
+        "Only sex determination",
+        "A unit character such as height, body colour, or sex",
+        "Only height",
+        "Only eye colour"
+      ],
+      "correctAnswer": "A unit character such as height, body colour, or sex",
+      "id": 60
+    },
+    {
+      "question": "In humans, each diploid body cell has how many pairs of homologous chromosomes?",
+      "options": [
+        "46 pairs",
+        "23 pairs",
+        "33 pairs",
+        "12 pairs"
+      ],
+      "correctAnswer": "23 pairs",
+      "id": 61
+    },
+    {
+      "question": "What is the total number of chromosomes in a human diploid body cell?",
+      "options": [
+        "23",
+        "46",
+        "92",
+        "12"
+      ],
+      "correctAnswer": "46",
+      "id": 62
+    },
+    {
+      "question": "What are sister chromatids?",
+      "options": [
+        "Chromosomes from different parents",
+        "Two copies of one maternal or paternal chromosome linked by cohesive protein on the centromere",
+        "Homologous chromosomes paired together",
+        "Chromosomes found only in gametes"
+      ],
+      "correctAnswer": "Two copies of one maternal or paternal chromosome linked by cohesive protein on the centromere",
+      "id": 63
+    },
+    {
+      "question": "What links sister chromatids together?",
+      "options": [
+        "Spindle fibers",
+        "Cohesive protein on the centromere",
+        "The nuclear membrane",
+        "The cell membrane"
+      ],
+      "correctAnswer": "Cohesive protein on the centromere",
+      "id": 64
+    },
+    {
+      "question": "Meiosis is a characteristic feature of what type of organisms?",
+      "options": [
+        "Asexual organisms",
+        "Organisms that reproduce sexually",
+        "Prokaryotic organisms",
+        "Unicellular organisms only"
+      ],
+      "correctAnswer": "Organisms that reproduce sexually",
+      "id": 65
+    },
+    {
+      "question": "In which organs does meiosis occur in female animals?",
+      "options": [
+        "Testes",
+        "Ovaries",
+        "Kidneys",
+        "Liver"
+      ],
+      "correctAnswer": "Ovaries",
+      "id": 66
+    },
+    {
+      "question": "In which organs does meiosis occur in male animals?",
+      "options": [
+        "Ovaries",
+        "Testes",
+        "Lungs",
+        "Heart"
+      ],
+      "correctAnswer": "Testes",
+      "id": 67
+    },
+    {
+      "question": "In which parts of flowering plants does meiosis occur?",
+      "options": [
+        "Roots and stems",
+        "Anther and ovules",
+        "Leaves and flowers",
+        "Petals and sepals"
+      ],
+      "correctAnswer": "Anther and ovules",
+      "id": 68
+    },
+    {
+      "question": "Meiosis involves how many fissions of the nucleus?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": "Two",
+      "id": 69
+    },
+    {
+      "question": "Meiosis gives rise to how many gametes or sex cells?",
+      "options": [
+        "Two",
+        "Four",
+        "Eight",
+        "One"
+      ],
+      "correctAnswer": "Four",
+      "id": 70
+    },
+    {
+      "question": "Each gamete produced by meiosis possesses what number of chromosomes compared to the mother cell?",
+      "options": [
+        "The same number",
+        "Half the number (n)",
+        "Double the number",
+        "Triple the number"
+      ],
+      "correctAnswer": "Half the number (n)",
+      "id": 71
+    },
+    {
+      "question": "What is meiosis called because the final daughter cells are haploid compared to the diploid mother cell?",
+      "options": [
+        "Multiplication division",
+        "Reduction division",
+        "Equational division",
+        "Growth division"
+      ],
+      "correctAnswer": "Reduction division",
+      "id": 72
+    },
+    {
+      "question": "During gametogenesis in human ovaries and testes, the 46 chromosomes in the initial mother cell are reduced by half to how many chromosomes by meiosis?",
+      "options": [
+        "46",
+        "23",
+        "92",
+        "12"
+      ],
+      "correctAnswer": "23",
+      "id": 73
+    },
+    {
+      "question": "Human sperm and egg cells have how many chromosomes each?",
+      "options": [
+        "46 chromosomes (diploid)",
+        "23 chromosomes (haploid)",
+        "92 chromosomes (tetraploid)",
+        "12 chromosomes (haploid)"
+      ],
+      "correctAnswer": "23 chromosomes (haploid)",
+      "id": 74
+    },
+    {
+      "question": "When a sperm and egg join together at fertilization, what is the chromosome number of the resulting zygote?",
+      "options": [
+        "23 chromosomes",
+        "46 chromosomes",
+        "92 chromosomes",
+        "12 chromosomes"
+      ],
+      "correctAnswer": "46 chromosomes",
+      "id": 75
+    },
+    {
+      "question": "If human gametes had 46 chromosomes like body cells, how many chromosomes would be in the zygote?",
+      "options": [
+        "46",
+        "92",
+        "23",
+        "184"
+      ],
+      "correctAnswer": "92",
+      "id": 76
+    },
+    {
+      "question": "During prophase I of meiosis, what happens to the chromosomes?",
+      "options": [
+        "They elongate and become thinner",
+        "They appear shortened and thickened and form two chromatids",
+        "They separate completely",
+        "They disappear"
+      ],
+      "correctAnswer": "They appear shortened and thickened and form two chromatids",
+      "id": 77
+    },
+    {
+      "question": "During prophase I, what do homologous chromosomes do?",
+      "options": [
+        "Separate and move apart",
+        "Pair up",
+        "Disappear",
+        "Line up at the equator"
+      ],
+      "correctAnswer": "Pair up",
+      "id": 78
+    },
+    {
+      "question": "During metaphase I, where do chromosomes align?",
+      "options": [
+        "At the poles of the cell",
+        "On spindle fiber, lining up in the middle or metaphase plate",
+        "Randomly throughout the cytoplasm",
+        "Outside the nuclear membrane"
+      ],
+      "correctAnswer": "On spindle fiber, lining up in the middle or metaphase plate",
+      "id": 79
+    },
+    {
+      "question": "In metaphase I, does the centromere joining sister chromatids separate?",
+      "options": [
+        "Yes, it always separates",
+        "No, it does not separate",
+        "It only partially separates",
+        "It separates in some cells"
+      ],
+      "correctAnswer": "No, it does not separate",
+      "id": 80
+    },
+    {
+      "question": "During anaphase I, what moves to the end or pole of the cell?",
+      "options": [
+        "Individual chromatids",
+        "The pair of chromatids from each homologous pair",
+        "The entire nucleus",
+        "The spindle fibers"
+      ],
+      "correctAnswer": "The pair of chromatids from each homologous pair",
+      "id": 81
+    },
+    {
+      "question": "During anaphase I, why does reduction to haploid (n) take place?",
+      "options": [
+        "Because sister chromatids separate",
+        "Because homologous chromosomes of male and female parents separate",
+        "Because the cell undergoes cytokinesis",
+        "Because the nuclear membrane reforms"
+      ],
+      "correctAnswer": "Because homologous chromosomes of male and female parents separate",
+      "id": 82
+    },
+    {
+      "question": "What happens to the nuclear membrane during telophase I?",
+      "options": [
+        "It breaks down",
+        "It reforms",
+        "It disappears permanently",
+        "It thickens"
+      ],
+      "correctAnswer": "It reforms",
+      "id": 83
+    },
+    {
+      "question": "What happens to cells during telophase I?",
+      "options": [
+        "They immediately enter prophase II without any changes",
+        "The cells begin to divide, with some undergoing full cytokinesis and others having prolonged interphase but no further DNA duplication",
+        "They undergo DNA replication",
+        "They fuse together"
+      ],
+      "correctAnswer": "The cells begin to divide, with some undergoing full cytokinesis and others having prolonged interphase but no further DNA duplication",
+      "id": 84
+    },
+    {
+      "question": "During prophase II, what is formed?",
+      "options": [
+        "The nuclear membrane",
+        "New spindles",
+        "The cell wall",
+        "Homologous pairs"
+      ],
+      "correctAnswer": "New spindles",
+      "id": 85
+    },
+    {
+      "question": "During prophase II, where does the chromosome move?",
+      "options": [
+        "To the poles of the cell",
+        "Toward the middle of the cell",
+        "Out of the cell",
+        "To the nuclear membrane"
+      ],
+      "correctAnswer": "Toward the middle of the cell",
+      "id": 86
+    },
+    {
+      "question": "During metaphase II, where do the chromosomes line up?",
+      "options": [
+        "At the poles of each cell",
+        "On the metaphase plate with spindle attached to sister chromatids from opposite poles",
+        "Randomly in the cytoplasm",
+        "Outside the cell membrane"
+      ],
+      "correctAnswer": "On the metaphase plate with spindle attached to sister chromatids from opposite poles",
+      "id": 87
+    },
+    {
+      "question": "During anaphase II, what divides?",
+      "options": [
+        "The cell membrane",
+        "The centromeres",
+        "The nuclear membrane",
+        "The homologous chromosomes"
+      ],
+      "correctAnswer": "The centromeres",
+      "id": 88
+    },
+    {
+      "question": "During anaphase II, what happens to sister chromatids?",
+      "options": [
+        "They remain together",
+        "They separate and are pulled to the opposite ends of each cell",
+        "They fuse together",
+        "They disappear"
+      ],
+      "correctAnswer": "They separate and are pulled to the opposite ends of each cell",
+      "id": 89
+    },
+    {
+      "question": "During telophase II, what reappears?",
+      "options": [
+        "The cell wall",
+        "The nuclear membrane",
+        "The spindle fibers",
+        "The centromeres"
+      ],
+      "correctAnswer": "The nuclear membrane",
+      "id": 90
+    },
+    {
+      "question": "During telophase II, what happens to chromosomes?",
+      "options": [
+        "They shorten and thicken",
+        "They return to the interphase state",
+        "They separate completely",
+        "They disappear"
+      ],
+      "correctAnswer": "They return to the interphase state",
+      "id": 91
+    },
+    {
+      "question": "Telophase II results in how many daughter cells?",
+      "options": [
+        "Two",
+        "Four",
+        "Eight",
+        "One"
+      ],
+      "correctAnswer": "Four",
+      "id": 92
+    },
+    {
+      "question": "Each daughter cell at the end of telophase II has what chromosome number compared to the initial parent cell?",
+      "options": [
+        "The same number",
+        "Half the number",
+        "Double the number",
+        "Triple the number"
+      ],
+      "correctAnswer": "Half the number",
+      "id": 93
+    },
+    {
+      "question": "Which division of meiosis is similar to mitosis?",
+      "options": [
+        "Meiosis I",
+        "Meiosis II",
+        "Both meiosis I and II",
+        "Neither meiosis I nor II"
+      ],
+      "correctAnswer": "Meiosis II",
+      "id": 94
+    },
+    {
+      "question": "Mitosis is division of what type of cells?",
+      "options": [
+        "Reproductive cells",
+        "Somatic or body cells",
+        "Gametes only",
+        "Germ cells only"
+      ],
+      "correctAnswer": "Somatic or body cells",
+      "id": 95
+    },
+    {
+      "question": "Meiosis is division of what type of cells?",
+      "options": [
+        "Somatic or body cells",
+        "Reproductive cells",
+        "Skin cells only",
+        "Muscle cells only"
+      ],
+      "correctAnswer": "Reproductive cells",
+      "id": 96
+    },
+    {
+      "question": "Meiosis occurs only in which organs?",
+      "options": [
+        "Skin and muscles",
+        "Testes and ovaries",
+        "Heart and lungs",
+        "Kidneys and liver"
+      ],
+      "correctAnswer": "Testes and ovaries",
+      "id": 97
+    },
+    {
+      "question": "In meiosis I, what separates and moves to opposite cells?",
+      "options": [
+        "Sister chromatids",
+        "Homologous chromosomes",
+        "Centromeres",
+        "Spindle fibers"
+      ],
+      "correctAnswer": "Homologous chromosomes",
+      "id": 98
+    },
+    {
+      "question": "Meiosis I is a reduction by half, going from what to what?",
+      "options": [
+        "Haploid (n) to diploid (2n)",
+        "Diploid (2n) to haploid (n)",
+        "Diploid (2n) to diploid (2n)",
+        "Haploid (n) to haploid (n)"
+      ],
+      "correctAnswer": "Diploid (2n) to haploid (n)",
+      "id": 99
+    },
+    {
+      "question": "In meiosis II, what separates and moves to opposite poles of the cell?",
+      "options": [
+        "Homologous chromosomes",
+        "Sister chromatids",
+        "Whole chromosomes",
+        "Nuclear membranes"
+      ],
+      "correctAnswer": "Sister chromatids",
+      "id": 100
+    },
+    {
+      "question": "What happens in meiosis that does not happen in mitosis regarding the number of cell divisions?",
+      "options": [
+        "A cell divides once",
+        "A cell divides twice",
+        "A cell divides three times",
+        "A cell does not divide"
+      ],
+      "correctAnswer": "A cell divides twice",
+      "id": 101
+    },
+    {
+      "question": "Mitosis results in how many daughter cells?",
+      "options": [
+        "Four",
+        "Two",
+        "One",
+        "Eight"
+      ],
+      "correctAnswer": "Two",
+      "id": 102
+    },
+    {
+      "question": "In mitosis, the daughter cells have what chromosome number compared to the parent cell?",
+      "options": [
+        "Half the number",
+        "The same number",
+        "Double the number",
+        "Triple the number"
+      ],
+      "correctAnswer": "The same number",
+      "id": 103
+    },
+    {
+      "question": "Prokaryotic organisms like Bacteria do not divide by what process?",
+      "options": [
+        "Binary fission",
+        "Mitosis",
+        "Cell division",
+        "DNA replication"
+      ],
+      "correctAnswer": "Mitosis",
+      "id": 104
+    }
+  ]
+}

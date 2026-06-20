@@ -1,344 +1,142 @@
 {
   "title": "5.6 Renowned Physicians in Ethiopia",
-  "description": "Quiz covering renowned Ethiopian physicians and their contributions to medicine and public health.",
-  "tags": [
-    "#biology",
-    "#ethiopia",
-    "#physicians"
-  ],
+  "description": "Renowned physicians in Ethiopia — every fact from the Grade 10 Biology textbook.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade10", "humanbiology"],
   "questions": [
     {
       "id": 1,
-      "question": "In what year was Prof. Asrat Woldeyes born?",
-      "options": [
-        "1935",
-        "1918",
-        "1928",
-        "1942"
-      ],
-      "correctAnswer": "1928"
+      "question": "What were the birth and death years of Prof. Asrat Woldeyes?",
+      "options": ["1930-2001", "1928-1999", "1925-1995", "1935-2005"],
+      "correctAnswer": "1928-1999"
     },
     {
       "id": 2,
-      "question": "In what year did Prof. Asrat Woldeyes pass away?",
-      "options": [
-        "2005",
-        "1999",
-        "1985",
-        "2010"
-      ],
-      "correctAnswer": "1999"
+      "question": "What was Prof. Asrat Woldeyes described as?",
+      "options": ["The first distinguished Ethiopian physician", "The first distinguished Ethiopian surgeon and professor of medicine", "The first distinguished Ethiopian pediatrician", "The first distinguished Ethiopian cardiologist"],
+      "correctAnswer": "The first distinguished Ethiopian surgeon and professor of medicine"
     },
     {
       "id": 3,
-      "question": "What was Prof. Asrat Woldeyes' medical specialty?",
-      "options": [
-        "Pediatrics",
-        "Internal Medicine",
-        "Gynecology",
-        "Surgery"
-      ],
-      "correctAnswer": "Surgery"
-    },
-    {
-      "id": 4,
       "question": "At which university did Prof. Asrat Woldeyes study medicine?",
-      "options": [
-        "Edinburgh University",
-        "University of Oxford",
-        "Harvard University",
-        "University of Cambridge"
-      ],
+      "options": ["Oxford University", "Edinburgh University", "Cambridge University", "Harvard University"],
       "correctAnswer": "Edinburgh University"
     },
     {
-      "id": 5,
-      "question": "Edinburgh University is located in which country?",
-      "options": [
-        "England",
-        "Scotland",
-        "Ireland",
-        "Wales"
-      ],
+      "id": 4,
+      "question": "Where is Edinburgh University located?",
+      "options": ["England", "Scotland", "Wales", "Ireland"],
       "correctAnswer": "Scotland"
     },
     {
+      "id": 5,
+      "question": "Prof. Asrat Woldeyes was the first Ethiopian to qualify in his field of medicine in which region?",
+      "options": ["Africa", "Asia", "The Middle East", "The West"],
+      "correctAnswer": "The West"
+    },
+    {
       "id": 6,
-      "question": "At which university was Prof. Asrat Woldeyes a professor of medicine?",
-      "options": [
-        "University of Gondar",
-        "Addis Ababa University",
-        "Jimma University",
-        "Haramaya University"
-      ],
-      "correctAnswer": "Addis Ababa University"
-    },
-    {
-      "id": 7,
-      "question": "What administrative role did Prof. Asrat Woldeyes hold at the university?",
-      "options": [
-        "Vice President",
-        "Dean of Medicine",
-        "President",
-        "Registrar"
-      ],
-      "correctAnswer": "Dean of Medicine"
-    },
-    {
-      "id": 8,
-      "question": "In which city did Prof. Asrat Woldeyes practice medicine?",
-      "options": [
-        "Addis Ababa",
-        "Bahir Dar",
-        "Dire Dawa",
-        "Gondar"
-      ],
-      "correctAnswer": "Addis Ababa"
-    },
-    {
-      "id": 9,
-      "question": "Prof. Asrat Woldeyes is described as the first distinguished Ethiopian what?",
-      "options": [
-        "Cardiologist",
-        "Pediatrician",
-        "Surgeon",
-        "Pathologist"
-      ],
-      "correctAnswer": "Surgeon"
-    },
-    {
-      "id": 10,
-      "question": "Prof. Asrat Woldeyes was the first Ethiopian to qualify in his medical field in which region?",
-      "options": [
-        "Asia",
-        "Africa",
-        "the Middle East",
-        "the West"
-      ],
-      "correctAnswer": "the West"
-    },
-    {
-      "id": 11,
       "question": "Where did Prof. Asrat Woldeyes spend most of his surgical career?",
-      "options": [
-        "Addis Ababa's two main hospitals",
-        "Private clinics in Addis Ababa",
-        "Rural clinics in northern Ethiopia",
-        "Hospitals in Gondar and Jimma"
-      ],
+      "options": ["Rural Ethiopian hospitals", "Addis Ababa's two main hospitals", "European hospitals", "Hospitals in northern Ethiopia"],
       "correctAnswer": "Addis Ababa's two main hospitals"
     },
     {
-      "id": 12,
-      "question": "What title is used for Asrat Woldeyes in the textbook?",
-      "options": [
-        "Ambassador",
-        "Senator",
-        "Doctor",
-        "Professor"
-      ],
-      "correctAnswer": "Professor"
+      "id": 7,
+      "question": "At which university was Prof. Asrat Woldeyes a professor of medicine?",
+      "options": ["Gondar University", "Addis Ababa University", "Jimma University", "Haramaya University"],
+      "correctAnswer": "Addis Ababa University"
     },
     {
-      "id": 13,
-      "question": "Besides surgery, to what other role did Prof. Asrat Woldeyes dedicate his working life?",
-      "options": [
-        "Private practice",
-        "Research",
-        "Deanship of medicine",
-        "Public health"
-      ],
-      "correctAnswer": "Deanship of medicine"
+      "id": 8,
+      "question": "What deanship role did Prof. Asrat Woldeyes hold?",
+      "options": ["Dean of Sciences", "Dean of Medicine", "Dean of Engineering", "Dean of Law"],
+      "correctAnswer": "Dean of Medicine"
     },
     {
-      "id": 14,
+      "id": 9,
       "question": "Where was Dr. Widad KidaneMariam born?",
-      "options": [
-        "Palestine",
-        "Sudan",
-        "Ethiopia",
-        "Egypt"
-      ],
+      "options": ["Ethiopia", "Palestine", "Lebanon", "Sudan"],
       "correctAnswer": "Palestine"
     },
     {
-      "id": 15,
-      "question": "What was the nationality of Dr. Widad KidaneMariam's family?",
-      "options": [
-        "Palestinian",
-        "Ethiopian",
-        "Lebanese",
-        "Swedish"
-      ],
-      "correctAnswer": "Ethiopian"
+      "id": 10,
+      "question": "To what type of family was Dr. Widad KidaneMariam born?",
+      "options": ["Palestinian emigrant family", "Ethiopian emigrant family", "Lebanese emigrant family", "Egyptian emigrant family"],
+      "correctAnswer": "Ethiopian emigrant family"
     },
     {
-      "id": 16,
-      "question": "At which institution did Dr. Widad KidaneMariam study medicine?",
-      "options": [
-        "Cairo University",
-        "University of Khartoum",
-        "Addis Ababa University",
-        "American University of Beirut"
-      ],
+      "id": 11,
+      "question": "During what event was Dr. Widad KidaneMariam born in Palestine?",
+      "options": ["World War I", "The Italian occupation of Ethiopia", "The British mandate", "The Arab-Israeli war"],
+      "correctAnswer": "The Italian occupation of Ethiopia"
+    },
+    {
+      "id": 12,
+      "question": "At which university did Dr. Widad KidaneMariam study medicine?",
+      "options": ["Cairo University", "American University of Beirut", "University of Khartoum", "Addis Ababa University"],
       "correctAnswer": "American University of Beirut"
     },
     {
-      "id": 17,
-      "question": "What significant first did Dr. Widad KidaneMariam achieve in Ethiopia?",
-      "options": [
-        "First female medical practitioner",
-        "First female surgeon",
-        "First female professor of medicine",
-        "First female hospital director"
-      ],
-      "correctAnswer": "First female medical practitioner"
-    },
-    {
-      "id": 18,
-      "question": "During which period was Dr. Widad KidaneMariam a top physician administrator in the Ministry of Health?",
-      "options": [
-        "1940s-1950s",
-        "1970s-1980s",
-        "1960s-1970s",
-        "1950s-1960s"
-      ],
-      "correctAnswer": "1960s-1970s"
-    },
-    {
-      "id": 19,
-      "question": "What position did Dr. Widad KidaneMariam hold in the Ministry of Health?",
-      "options": [
-        "Minister of Health",
-        "Director of Nursing",
-        "Physician administrator in charge of medical services division",
-        "Head of Pharmacy"
-      ],
-      "correctAnswer": "Physician administrator in charge of medical services division"
-    },
-    {
-      "id": 20,
-      "question": "What was Dr. Widad KidaneMariam's role within the medical services division?",
-      "options": [
-        "Head nurse",
-        "Laboratory director",
-        "Topmost physician administrator",
-        "Pharmacy chief"
-      ],
-      "correctAnswer": "Topmost physician administrator"
-    },
-    {
-      "id": 21,
-      "question": "What was Dr. Widad KidaneMariam's medical specialty?",
-      "options": [
-        "Pediatrics",
-        "Internal Medicine",
-        "Ophthalmology",
-        "Gynecology"
-      ],
-      "correctAnswer": "Gynecology"
-    },
-    {
-      "id": 22,
-      "question": "For which organization did Dr. Widad KidaneMariam volunteer as a gynecologist?",
-      "options": [
-        "Swedish Save the Children Fund",
-        "Red Cross",
-        "Doctors Without Borders",
-        "World Health Organization"
-      ],
-      "correctAnswer": "Swedish Save the Children Fund"
-    },
-    {
-      "id": 23,
-      "question": "What association did Dr. Widad KidaneMariam help establish?",
-      "options": [
-        "Ethiopian Medical Association",
-        "Ethiopian Nurses Association",
-        "First Ethiopian Family Planning Association",
-        "Ethiopian Red Cross Society"
-      ],
-      "correctAnswer": "First Ethiopian Family Planning Association"
-    },
-    {
-      "id": 24,
-      "question": "What type of services did Dr. Widad KidaneMariam help organize for the homeless in Addis Ababa?",
-      "options": [
-        "Eye care services",
-        "Dental services",
-        "Mental health services",
-        "Maternal and Child services"
-      ],
-      "correctAnswer": "Maternal and Child services"
-    },
-    {
-      "id": 25,
-      "question": "In which municipality did Dr. Widad KidaneMariam establish Maternal and Child services?",
-      "options": [
-        "Gondar Municipality",
-        "Dire Dawa Municipality",
-        "Bahir Dar Municipality",
-        "Addis Ababa Municipality"
-      ],
-      "correctAnswer": "Addis Ababa Municipality"
-    },
-    {
-      "id": 26,
-      "question": "What historical event affected Ethiopia when Dr. Widad KidaneMariam was born in Palestine?",
-      "options": [
-        "Italian occupation",
-        "British occupation",
-        "World War I",
-        "Ethiopian Civil War"
-      ],
-      "correctAnswer": "Italian occupation"
-    },
-    {
-      "id": 27,
-      "question": "Dr. Widad KidaneMariam was asked to be the first Ethiopian gynecologist to do what?",
-      "options": [
-        "Open a private clinic",
-        "Teach at a university",
-        "Work at a government hospital",
-        "Volunteer for the Swedish Save the Children Fund project"
-      ],
-      "correctAnswer": "Volunteer for the Swedish Save the Children Fund project"
-    },
-    {
-      "id": 28,
-      "question": "Dr. Widad KidaneMariam was a founding organizer of Maternal and Child services for which group?",
-      "options": [
-        "Rural communities",
-        "The homeless",
-        "Government employees",
-        "University students"
-      ],
-      "correctAnswer": "The homeless"
-    },
-    {
-      "id": 29,
-      "question": "The American University of Beirut, where Dr. Widad KidaneMariam studied, is located in which country?",
-      "options": [
-        "Lebanon",
-        "Egypt",
-        "Syria",
-        "Jordan"
-      ],
+      "id": 13,
+      "question": "The American University of Beirut is located in which country?",
+      "options": ["Egypt", "Syria", "Lebanon", "Jordan"],
       "correctAnswer": "Lebanon"
     },
     {
-      "id": 30,
-      "question": "Dr. Widad KidaneMariam's family was an emigrant family from Ethiopia living in Palestine because of which circumstance?",
-      "options": [
-        "Diplomatic assignment",
-        "Italian occupation of Ethiopia",
-        "Educational opportunity",
-        "Trade and commerce"
-      ],
-      "correctAnswer": "Italian occupation of Ethiopia"
+      "id": 14,
+      "question": "What significant first did Dr. Widad KidaneMariam achieve?",
+      "options": ["First female surgeon in Ethiopia", "First female medical practitioner in Ethiopia", "First female professor in Ethiopia", "First female hospital director in Ethiopia"],
+      "correctAnswer": "First female medical practitioner in Ethiopia"
+    },
+    {
+      "id": 15,
+      "question": "What position did Dr. Widad KidaneMariam hold in the Ministry of Health?",
+      "options": ["Minister of Health", "Topmost physician administrator in charge of medical services division", "Director of Nursing", "Head of Pharmacy"],
+      "correctAnswer": "Topmost physician administrator in charge of medical services division"
+    },
+    {
+      "id": 16,
+      "question": "During which period did Dr. Widad KidaneMariam serve as a top physician administrator in the Ministry of Health?",
+      "options": ["1940s-1950s", "1950s-1960s", "1960s-1970s", "1970s-1980s"],
+      "correctAnswer": "1960s-1970s"
+    },
+    {
+      "id": 17,
+      "question": "What was Dr. Widad KidaneMariam's medical specialty?",
+      "options": ["Pediatrics", "Internal Medicine", "Gynecology", "Ophthalmology"],
+      "correctAnswer": "Gynecology"
+    },
+    {
+      "id": 18,
+      "question": "For which organization did Dr. Widad KidaneMariam volunteer as the first Ethiopian gynecologist?",
+      "options": ["Red Cross", "World Health Organization", "Swedish Save the Children Fund", "Doctors Without Borders"],
+      "correctAnswer": "Swedish Save the Children Fund"
+    },
+    {
+      "id": 19,
+      "question": "What association did Dr. Widad KidaneMariam help establish as a founding organizer?",
+      "options": ["Ethiopian Medical Association", "Ethiopian Nurses Association", "First Ethiopian Family Planning Association", "Ethiopian Red Cross Society"],
+      "correctAnswer": "First Ethiopian Family Planning Association"
+    },
+    {
+      "id": 20,
+      "question": "For whom did Dr. Widad KidaneMariam organize Maternal and Child services?",
+      "options": ["Rural communities", "The homeless in Addis Ababa Municipality", "University students", "Government employees"],
+      "correctAnswer": "The homeless in Addis Ababa Municipality"
+    },
+    {
+      "id": 21,
+      "question": "In which city municipality did Dr. Widad KidaneMariam establish Maternal and Child services for the homeless?",
+      "options": ["Gondar", "Dire Dawa", "Bahir Dar", "Addis Ababa"],
+      "correctAnswer": "Addis Ababa"
+    },
+    {
+      "id": 22,
+      "question": "The history of medicine in Ethiopia begins much earlier and the number of physicians has increased over time. What are Prof. Asrat Woldeyes and Dr. Widad KidaneMariam described as?",
+      "options": ["Founders of Ethiopian medicine", "Two of the most renowned pioneer Ethiopian physicians", "The only Ethiopian doctors of their time", "Foreign-trained Ethiopian doctors"],
+      "correctAnswer": "Two of the most renowned pioneer Ethiopian physicians"
     }
-  ],
-  "folder": "School/Grade 10/Biology",
-  "field": "natural",
-  "anki": true
+  ]
 }

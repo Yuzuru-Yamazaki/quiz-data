@@ -1,0 +1,364 @@
+{
+  "title": "1.1 Sub-fields of Biology",
+  "description": "Comprehensive coverage of all sub-fields of biology including zoology, botany, microbiology, and their sub-disciplines, as well as branches based on structure and life processes, and interrelationships with other sciences.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade10", "subfields"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Based on the type of organism it studies, biology is subdivided into which three major branches?",
+      "options": ["Zoology, Anatomy, and Microbiology", "Zoology, Botany, and Microbiology", "Botany, Physiology, and Genetics", "Zoology, Botany, and Ecology"],
+      "correctAnswer": "Zoology, Botany, and Microbiology"
+    },
+    {
+      "id": 2,
+      "question": "What is zoology?",
+      "options": ["The study of microorganisms", "The study of plants", "The study of animals", "The study of fossils"],
+      "correctAnswer": "The study of animals"
+    },
+    {
+      "id": 3,
+      "question": "What is the animal biology sub-discipline that studies reptiles?",
+      "options": ["Ichthyology", "Herpetology", "Ornithology", "Mammalogy"],
+      "correctAnswer": "Herpetology"
+    },
+    {
+      "id": 4,
+      "question": "What is the animal biology sub-discipline that studies fish?",
+      "options": ["Herpetology", "Mammalogy", "Ornithology", "Ichthyology"],
+      "correctAnswer": "Ichthyology"
+    },
+    {
+      "id": 5,
+      "question": "What is the animal biology sub-discipline that studies mammals?",
+      "options": ["Mammalogy", "Entomology", "Herpetology", "Ornithology"],
+      "correctAnswer": "Mammalogy"
+    },
+    {
+      "id": 6,
+      "question": "What is the animal biology sub-discipline that studies birds?",
+      "options": ["Entomology", "Herpetology", "Ornithology", "Mammalogy"],
+      "correctAnswer": "Ornithology"
+    },
+    {
+      "id": 7,
+      "question": "What is the animal biology sub-discipline that studies insects?",
+      "options": ["Ichthyology", "Ornithology", "Mammalogy", "Entomology"],
+      "correctAnswer": "Entomology"
+    },
+    {
+      "id": 8,
+      "question": "Zoology is concerned with which aspects of animal life?",
+      "options": ["Only animal behavior and genetics", "Only embryonic development and anatomy", "Embryonic development to mature adulthood, behavior, interactions, food finding, and genetics", "Only classification and naming of animals"],
+      "correctAnswer": "Embryonic development to mature adulthood, behavior, interactions, food finding, and genetics"
+    },
+    {
+      "id": 9,
+      "question": "Capra walie (Waliya ibex), one of the endemic wild animals of Ethiopia, is found in which mountains?",
+      "options": ["Bale Mountains", "Simien Mountains", "Chilalo Mountains", "Guna Mountains"],
+      "correctAnswer": "Simien Mountains"
+    },
+    {
+      "id": 10,
+      "question": "What is botany?",
+      "options": ["The study of animals", "The study of microorganisms", "The study of plants", "The study of the environment"],
+      "correctAnswer": "The study of plants"
+    },
+    {
+      "id": 11,
+      "question": "Botany deals with which aspects of plants?",
+      "options": ["Only their structure and properties", "Only their classification and diseases", "Structure, properties, biochemical processes, classification, diseases, and interactions with the environment", "Only their biochemical processes"],
+      "correctAnswer": "Structure, properties, biochemical processes, classification, diseases, and interactions with the environment"
+    },
+    {
+      "id": 12,
+      "question": "The principles and findings of botany have provided the base for which applied sciences?",
+      "options": ["Medicine and pharmacology", "Agriculture, horticulture, and forestry", "Engineering and architecture", "Astronomy and geology"],
+      "correctAnswer": "Agriculture, horticulture, and forestry"
+    },
+    {
+      "id": 13,
+      "question": "According to the text, plants have long been used as a source of which items?",
+      "options": ["Only food and medicine", "Food, shelter, clothing, medicine, ornament, and tools", "Only food and shelter", "Only medicine and tools"],
+      "correctAnswer": "Food, shelter, clothing, medicine, ornament, and tools"
+    },
+    {
+      "id": 14,
+      "question": "Through which process do green plants convert energy from the Sun into the chemical energy of food?",
+      "options": ["Respiration", "Fermentation", "Photosynthesis", "Transpiration"],
+      "correctAnswer": "Photosynthesis"
+    },
+    {
+      "id": 15,
+      "question": "What is the second unique and important capability of green plants besides converting solar energy into chemical energy?",
+      "options": ["Absorbing water from the soil", "The formation and release of oxygen as a by-product of photosynthesis", "Producing flowers", "Growing tall"],
+      "correctAnswer": "The formation and release of oxygen as a by-product of photosynthesis"
+    },
+    {
+      "id": 16,
+      "question": "Ruta chalepensis L., known as 'Tena Adam' in Amharic, is an example of what?",
+      "options": ["An endemic animal of Ethiopia", "A traditional herbal medicine of Ethiopia", "A type of Ethiopian microorganism", "An invasive plant species in Ethiopia"],
+      "correctAnswer": "A traditional herbal medicine of Ethiopia"
+    },
+    {
+      "id": 17,
+      "question": "What is microbiology?",
+      "options": ["The study of large animals", "The study of plants", "The study of microscopic organisms or microbes that cannot be seen by the unaided eye", "The study of fossils"],
+      "correctAnswer": "The study of microscopic organisms or microbes that cannot be seen by the unaided eye"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following groups are included in the study of microbiology?",
+      "options": ["Only bacteria and viruses", "Bacteria, archaea, protists, viruses, microscopic algae and fungi", "Only fungi and algae", "Only protists and archaea"],
+      "correctAnswer": "Bacteria, archaea, protists, viruses, microscopic algae and fungi"
+    },
+    {
+      "id": 19,
+      "question": "Bacteriology is the study of which type of microbe?",
+      "options": ["Fungi", "Viruses", "Bacteria", "Algae"],
+      "correctAnswer": "Bacteria"
+    },
+    {
+      "id": 20,
+      "question": "Mycology is the study of which type of microbe?",
+      "options": ["Bacteria", "Fungi", "Viruses", "Protozoa"],
+      "correctAnswer": "Fungi"
+    },
+    {
+      "id": 21,
+      "question": "Why have the majority of bacterial and other microbial species yet to be identified?",
+      "options": ["They are too dangerous to study", "They do not exist in significant numbers", "Due to the difficulty of isolating a single microscopic species", "They evolve before they can be identified"],
+      "correctAnswer": "Due to the difficulty of isolating a single microscopic species"
+    },
+    {
+      "id": 22,
+      "question": "What is helping microbiology, a rapidly expanding field, to constantly identify new species?",
+      "options": ["Increased funding only", "New technology and developments in the field", "More students studying biology", "Government regulations"],
+      "correctAnswer": "New technology and developments in the field"
+    },
+    {
+      "id": 23,
+      "question": "Which branch of biology studies the physical structures and parts of organisms?",
+      "options": ["Physiology", "Anatomy", "Morphology", "Histology"],
+      "correctAnswer": "Anatomy"
+    },
+    {
+      "id": 24,
+      "question": "How is anatomy primarily carried out according to the text?",
+      "options": ["Through observation of living organisms only", "By dissection and the separation of parts", "Through mathematical modeling", "By studying fossils"],
+      "correctAnswer": "By dissection and the separation of parts"
+    },
+    {
+      "id": 25,
+      "question": "Which branch of biology studies the external form and structure of organisms?",
+      "options": ["Anatomy", "Histology", "Morphology", "Cytology"],
+      "correctAnswer": "Morphology"
+    },
+    {
+      "id": 26,
+      "question": "Which branch of biology studies the details of tissue structure?",
+      "options": ["Anatomy", "Morphology", "Cytology", "Histology"],
+      "correctAnswer": "Histology"
+    },
+    {
+      "id": 27,
+      "question": "Parenchyma and connective tissue are examples studied in which branch of biology?",
+      "options": ["Cytology", "Histology", "Anatomy", "Molecular biology"],
+      "correctAnswer": "Histology"
+    },
+    {
+      "id": 28,
+      "question": "Which branch of biology studies cells?",
+      "options": ["Histology", "Anatomy", "Cytology", "Physiology"],
+      "correctAnswer": "Cytology"
+    },
+    {
+      "id": 29,
+      "question": "A plant cell and a nerve cell are examples studied in which branch of biology?",
+      "options": ["Histology", "Cytology", "Molecular biology", "Genetics"],
+      "correctAnswer": "Cytology"
+    },
+    {
+      "id": 30,
+      "question": "Which branch of biology studies the structure, function, and various aspects of the cell and its components?",
+      "options": ["Cytology", "Molecular biology", "Cell biology", "Histology"],
+      "correctAnswer": "Cell biology"
+    },
+    {
+      "id": 31,
+      "question": "Mitochondrion, ribosome, and nucleus are examples studied in which branch of biology?",
+      "options": ["Cytology", "Cell biology", "Molecular biology", "Histology"],
+      "correctAnswer": "Cell biology"
+    },
+    {
+      "id": 32,
+      "question": "Which branch of biology studies the structure and function of informational molecules such as DNA and RNA?",
+      "options": ["Cell biology", "Cytology", "Molecular biology", "Genetics"],
+      "correctAnswer": "Molecular biology"
+    },
+    {
+      "id": 33,
+      "question": "What does physiology study?",
+      "options": ["The structure of organisms", "The normal functions of living organisms and their parts", "The classification of organisms", "The evolution of species"],
+      "correctAnswer": "The normal functions of living organisms and their parts"
+    },
+    {
+      "id": 34,
+      "question": "Photosynthesis and digestion are examples of topics studied in which branch of biology?",
+      "options": ["Anatomy", "Physiology", "Morphology", "Cytology"],
+      "correctAnswer": "Physiology"
+    },
+    {
+      "id": 35,
+      "question": "Which branch of biology studies the embryo from a single-celled zygote to the formation of form and shape?",
+      "options": ["Genetics", "Embryology", "Evolution", "Cytology"],
+      "correctAnswer": "Embryology"
+    },
+    {
+      "id": 36,
+      "question": "A blastula is an embryo at an early stage of development consisting of what?",
+      "options": ["A solid ball of cells", "A hollow ball of cells", "A single layer of cells", "A two-layered structure"],
+      "correctAnswer": "A hollow ball of cells"
+    },
+    {
+      "id": 37,
+      "question": "Gastrula is the stage in embryonic development after which stage during which the embryo develops two layers?",
+      "options": ["Zygote", "Blastula", "Morula", "Neurula"],
+      "correctAnswer": "Blastula"
+    },
+    {
+      "id": 38,
+      "question": "Which branch of biology studies the interaction of organisms with their living environment?",
+      "options": ["Ecology", "Genetics", "Taxonomy", "Evolution"],
+      "correctAnswer": "Ecology"
+    },
+    {
+      "id": 39,
+      "question": "Food chain, biomass, and biosphere are examples studied in which branch of biology?",
+      "options": ["Physiology", "Taxonomy", "Ecology", "Embryology"],
+      "correctAnswer": "Ecology"
+    },
+    {
+      "id": 40,
+      "question": "Which branch of biology deals with the identification, nomenclature, and classification of organisms?",
+      "options": ["Taxonomy", "Ecology", "Genetics", "Evolution"],
+      "correctAnswer": "Taxonomy"
+    },
+    {
+      "id": 41,
+      "question": "According to the text, the biological name of a human is Homo sapiens and it was placed in the animal kingdom. This is an example from which field?",
+      "options": ["Physiology", "Genetics", "Taxonomy", "Evolution"],
+      "correctAnswer": "Taxonomy"
+    },
+    {
+      "id": 42,
+      "question": "Which branch of biology studies the origin, growth, and structure of organisms of the past?",
+      "options": ["Evolution", "Paleontology", "Exobiology", "Genetics"],
+      "correctAnswer": "Paleontology"
+    },
+    {
+      "id": 43,
+      "question": "Fossils of organisms are the primary subject of which branch of biology?",
+      "options": ["Paleontology", "Evolution", "Genetics", "Taxonomy"],
+      "correctAnswer": "Paleontology"
+    },
+    {
+      "id": 44,
+      "question": "Which branch of biology studies the change in the characteristics of a species over several generations that relies on natural selection?",
+      "options": ["Genetics", "Evolution", "Ecology", "Embryology"],
+      "correctAnswer": "Evolution"
+    },
+    {
+      "id": 45,
+      "question": "The beaks of Darwin's finches are an example studied in which branch of biology?",
+      "options": ["Ecology", "Genetics", "Evolution", "Taxonomy"],
+      "correctAnswer": "Evolution"
+    },
+    {
+      "id": 46,
+      "question": "Which branch of biology studies heredity and variation?",
+      "options": ["Evolution", "Genetics", "Embryology", "Ecology"],
+      "correctAnswer": "Genetics"
+    },
+    {
+      "id": 47,
+      "question": "The gene concept and Mendel's laws are core topics in which branch of biology?",
+      "options": ["Genetics", "Evolution", "Embryology", "Cytology"],
+      "correctAnswer": "Genetics"
+    },
+    {
+      "id": 48,
+      "question": "Which branch of biology studies the origin, evolution, distribution, and future of life in the Universe?",
+      "options": ["Paleontology", "Evolution", "Exobiology", "Astronomy"],
+      "correctAnswer": "Exobiology"
+    },
+    {
+      "id": 49,
+      "question": "Life on Moon and life on Mars are topics studied in which branch of biology?",
+      "options": ["Paleontology", "Ecology", "Exobiology", "Evolution"],
+      "correctAnswer": "Exobiology"
+    },
+    {
+      "id": 50,
+      "question": "According to the text, the structure of the cell membrane involving lipids and proteins is explained by which other science?",
+      "options": ["Physics", "Chemistry", "Geology", "Mathematics"],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 51,
+      "question": "The formation of oxyhaemoglobin during transportation of oxygen is explained by which other science?",
+      "options": ["Physics", "Chemistry", "Biology alone", "Astronomy"],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 52,
+      "question": "The absorption and elimination of salts in the excretory system involves acid-base equilibrium to maintain pH, which is a concept from which science?",
+      "options": ["Physics", "Chemistry", "Geology", "Mathematics"],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 53,
+      "question": "The absorption of sugars, amino acids, fatty acids, water, and salts involves diffusion and osmosis where molecules move into and out of the cell. This is explained by which science?",
+      "options": ["Physics", "Chemistry", "Biology alone", "Geology"],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 54,
+      "question": "The conduction of water from root to leaves involves cohesion and adhesion resulting in surface tension and capillary action, which are properties studied in which science?",
+      "options": ["Chemistry", "Physics", "Biology", "Geology"],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 55,
+      "question": "The electron transport chain, which transfers electrons from electron donors to electron acceptors via redox reactions, is involved in which process?",
+      "options": ["Photosynthesis", "Release of energy during respiration", "Transportation of water in plants", "Absorption of food"],
+      "correctAnswer": "Release of energy during respiration"
+    },
+    {
+      "id": 56,
+      "question": "All metabolic pathways involve chemical change, which shows that biology is related to which other science?",
+      "options": ["Physics", "Chemistry", "Mathematics", "Geology"],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 57,
+      "question": "What does biochemistry deal with according to the review questions in the unit?",
+      "options": ["The study of living organisms", "The chemical reactions that take place in living organisms", "The study of cells", "The study of genes"],
+      "correctAnswer": "The chemical reactions that take place in living organisms"
+    },
+    {
+      "id": 58,
+      "question": "What is the study of mixed agriculture called?",
+      "options": ["Agronomy", "Agroforestry", "Horticulture", "Permaculture"],
+      "correctAnswer": "Agroforestry"
+    },
+    {
+      "id": 59,
+      "question": "The evolutionary history of an organism is known as what?",
+      "options": ["Anatomy", "Ancestry", "Palaeontology", "Phylogeny"],
+      "correctAnswer": "Phylogeny"
+    }
+  ]
+}

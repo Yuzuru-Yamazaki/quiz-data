@@ -1,0 +1,434 @@
+{
+  "title": "6.1.1 Food Chain and Food Web",
+  "description": "Food chains and food webs \u2014 every fact from the Grade 10 Biology textbook.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade10",
+    "ecology",
+    "food-chain",
+    "food-web"
+  ],
+  "questions": [
+    {
+      "question": "What is the ultimate source of energy for all living organisms?",
+      "options": [
+        "The soil",
+        "Water",
+        "The sun",
+        "Air"
+      ],
+      "correctAnswer": "The sun",
+      "id": 1
+    },
+    {
+      "question": "What is the best way to trap and store energy from sunlight?",
+      "options": [
+        "Using solar panels",
+        "Growing plants and using the food they synthesize",
+        "Building wind turbines",
+        "Collecting rainwater"
+      ],
+      "correctAnswer": "Growing plants and using the food they synthesize",
+      "id": 2
+    },
+    {
+      "question": "Plants that first trap energy and produce their food are called what?",
+      "options": [
+        "Consumers",
+        "Decomposers",
+        "Producers",
+        "Herbivores"
+      ],
+      "correctAnswer": "Producers",
+      "id": 3
+    },
+    {
+      "question": "What is the scientific term for producers?",
+      "options": [
+        "Heterotrophs",
+        "Autotrophs",
+        "Carnivores",
+        "Parasites"
+      ],
+      "correctAnswer": "Autotrophs",
+      "id": 4
+    },
+    {
+      "question": "What does the word 'autotroph' mean?",
+      "options": [
+        "Self feeding",
+        "Other feeding",
+        "Plant eating",
+        "Energy producing"
+      ],
+      "correctAnswer": "Self feeding",
+      "id": 5
+    },
+    {
+      "question": "Animals that feed on plants or other animals for energy are known as what?",
+      "options": [
+        "Producers",
+        "Autotrophs",
+        "Consumers",
+        "Synthesizers"
+      ],
+      "correctAnswer": "Consumers",
+      "id": 6
+    },
+    {
+      "question": "What is the scientific term for consumers?",
+      "options": [
+        "Autotrophs",
+        "Heterotrophs",
+        "Producers",
+        "Photosynthesizers"
+      ],
+      "correctAnswer": "Heterotrophs",
+      "id": 7
+    },
+    {
+      "question": "What is a herbivore?",
+      "options": [
+        "An animal that feeds on other animals",
+        "An animal that feeds on plants",
+        "An animal that feeds on both plants and animals",
+        "An organism that decomposes dead matter"
+      ],
+      "correctAnswer": "An animal that feeds on plants",
+      "id": 8
+    },
+    {
+      "question": "What is a carnivore?",
+      "options": [
+        "An animal that feeds on plants",
+        "An animal that feeds on other animals",
+        "An animal that feeds on both plants and animals",
+        "A plant that traps energy"
+      ],
+      "correctAnswer": "An animal that feeds on other animals",
+      "id": 9
+    },
+    {
+      "question": "What is an omnivore?",
+      "options": [
+        "An animal that feeds only on plants",
+        "An animal that feeds only on other animals",
+        "An animal that feeds on both plants and animals",
+        "An organism that feeds on dead matter"
+      ],
+      "correctAnswer": "An animal that feeds on both plants and animals",
+      "id": 10
+    },
+    {
+      "question": "The transfer of energy from plants through a chain of organisms is called what?",
+      "options": [
+        "Photosynthesis",
+        "The food chain or food web",
+        "Respiration",
+        "Decomposition"
+      ],
+      "correctAnswer": "The food chain or food web",
+      "id": 11
+    },
+    {
+      "question": "What process is repeatedly described as 'to eat or to be eaten'?",
+      "options": [
+        "Photosynthesis",
+        "The food chain",
+        "Respiration",
+        "Transpiration"
+      ],
+      "correctAnswer": "The food chain",
+      "id": 12
+    },
+    {
+      "question": "What does a food chain represent among the biotic components of an ecosystem?",
+      "options": [
+        "Competitive interaction",
+        "Nutritive interaction",
+        "Territorial interaction",
+        "Reproductive interaction"
+      ],
+      "correctAnswer": "Nutritive interaction",
+      "id": 13
+    },
+    {
+      "question": "Where are producers located in a food chain?",
+      "options": [
+        "At the top",
+        "At the base or beginning",
+        "In the middle",
+        "At every level"
+      ],
+      "correctAnswer": "At the base or beginning",
+      "id": 14
+    },
+    {
+      "question": "What type of energy flow occurs from the sun to producers and then to consumers?",
+      "options": [
+        "Multidirectional",
+        "Circular",
+        "Unidirectional",
+        "Bidirectional"
+      ],
+      "correctAnswer": "Unidirectional",
+      "id": 15
+    },
+    {
+      "question": "An organism that feeds on both plants and animals occupies how many positions in the food chain?",
+      "options": [
+        "Exactly one position",
+        "More than one position",
+        "No position",
+        "All positions"
+      ],
+      "correctAnswer": "More than one position",
+      "id": 16
+    },
+    {
+      "question": "What is a food web?",
+      "options": [
+        "A single straight path of energy flow",
+        "A complex web of interconnected food chains",
+        "A method of farming",
+        "A type of ecosystem"
+      ],
+      "correctAnswer": "A complex web of interconnected food chains",
+      "id": 17
+    },
+    {
+      "question": "What does a food web create due to interconnected food chains?",
+      "options": [
+        "A linear path",
+        "A unidirectional flow",
+        "An interwoven or web-like structure",
+        "A circular pattern"
+      ],
+      "correctAnswer": "An interwoven or web-like structure",
+      "id": 18
+    },
+    {
+      "question": "How does energy flow in a food web?",
+      "options": [
+        "In a single direction only",
+        "In multiple directions",
+        "From consumers to producers",
+        "Energy does not flow in a food web"
+      ],
+      "correctAnswer": "In multiple directions",
+      "id": 19
+    },
+    {
+      "question": "In ecosystems, which feeding structure is more realistic than a simple chain?",
+      "options": [
+        "A food chain",
+        "A food web",
+        "Both are equally realistic",
+        "Neither is realistic"
+      ],
+      "correctAnswer": "A food web",
+      "id": 20
+    },
+    {
+      "question": "How many paths does a food chain follow?",
+      "options": [
+        "A single path",
+        "Multiple paths",
+        "Two paths",
+        "Three paths"
+      ],
+      "correctAnswer": "A single path",
+      "id": 21
+    },
+    {
+      "question": "How many paths does a food web follow?",
+      "options": [
+        "A single path",
+        "Multiple paths",
+        "No paths",
+        "One path only"
+      ],
+      "correctAnswer": "Multiple paths",
+      "id": 22
+    },
+    {
+      "question": "What is a trophic level?",
+      "options": [
+        "The amount of biomass in an organism",
+        "The position of an organism in the order of receiving energy",
+        "The speed at which an organism eats",
+        "The type of habitat an organism lives in"
+      ],
+      "correctAnswer": "The position of an organism in the order of receiving energy",
+      "id": 23
+    },
+    {
+      "question": "Trophic levels usually range from what number to what number?",
+      "options": [
+        "1 to 2",
+        "1 to 3 or 4",
+        "2 to 5",
+        "1 to 6"
+      ],
+      "correctAnswer": "1 to 3 or 4",
+      "id": 24
+    },
+    {
+      "question": "What organisms stand at the first trophic level?",
+      "options": [
+        "Herbivores",
+        "Carnivores",
+        "Plants (producers)",
+        "Omnivores"
+      ],
+      "correctAnswer": "Plants (producers)",
+      "id": 25
+    },
+    {
+      "question": "What organisms stand at the second trophic level?",
+      "options": [
+        "Producers",
+        "Herbivores that eat plants",
+        "Carnivores",
+        "Decomposers"
+      ],
+      "correctAnswer": "Herbivores that eat plants",
+      "id": 26
+    },
+    {
+      "question": "What organisms stand at the third trophic level?",
+      "options": [
+        "Plants",
+        "Herbivores",
+        "Carnivores that eat herbivores",
+        "Decomposers"
+      ],
+      "correctAnswer": "Carnivores that eat herbivores",
+      "id": 27
+    },
+    {
+      "question": "What is a feeding level?",
+      "options": [
+        "The amount of food available",
+        "The order of consuming or eating one another",
+        "The nutritional value of food",
+        "The time of day an organism feeds"
+      ],
+      "correctAnswer": "The order of consuming or eating one another",
+      "id": 28
+    },
+    {
+      "question": "At the first feeding level, which organisms consume plants?",
+      "options": [
+        "Secondary consumers",
+        "Primary consumers (herbivores)",
+        "Tertiary consumers",
+        "Decomposers"
+      ],
+      "correctAnswer": "Primary consumers (herbivores)",
+      "id": 29
+    },
+    {
+      "question": "At the second feeding level, which organisms eat herbivores?",
+      "options": [
+        "Producers",
+        "Primary consumers",
+        "Carnivores",
+        "Decomposers"
+      ],
+      "correctAnswer": "Carnivores",
+      "id": 30
+    },
+    {
+      "question": "What is the difference between trophic level and feeding level?",
+      "options": [
+        "Trophic level is about receiving energy, feeding level is about consuming others",
+        "They are exactly the same",
+        "Feeding level is about energy, trophic level is about eating",
+        "There is no difference"
+      ],
+      "correctAnswer": "Trophic level is about receiving energy, feeding level is about consuming others",
+      "id": 31
+    },
+    {
+      "question": "In Figure 6.2, which organism is the secondary consumer and stands at the third trophic level?",
+      "options": [
+        "Grass",
+        "Grasshopper",
+        "Frog",
+        "Snake"
+      ],
+      "correctAnswer": "Frog",
+      "id": 32
+    },
+    {
+      "question": "In Figure 6.2, which organism is the primary consumer at the first feeding level?",
+      "options": [
+        "Grass",
+        "Grasshopper",
+        "Frog",
+        "Sun"
+      ],
+      "correctAnswer": "Grasshopper",
+      "id": 33
+    },
+    {
+      "question": "In Figure 6.2, which organism is the producer at the first trophic level?",
+      "options": [
+        "Grass",
+        "Grasshopper",
+        "Frog",
+        "Bird"
+      ],
+      "correctAnswer": "Grass",
+      "id": 34
+    },
+    {
+      "question": "In Figure 6.1, what does the abbreviation P represent?",
+      "options": [
+        "Predator",
+        "Producer",
+        "Parasite",
+        "Primary consumer"
+      ],
+      "correctAnswer": "Producer",
+      "id": 35
+    },
+    {
+      "question": "In Figure 6.1, what does the abbreviation H represent?",
+      "options": [
+        "Herbivore",
+        "Heterotroph",
+        "Host",
+        "Habitat"
+      ],
+      "correctAnswer": "Herbivore",
+      "id": 36
+    },
+    {
+      "question": "In Figure 6.1, what does C1 represent?",
+      "options": [
+        "Primary carnivore",
+        "Secondary carnivore",
+        "Tertiary carnivore",
+        "Consumer 1"
+      ],
+      "correctAnswer": "Primary carnivore",
+      "id": 37
+    },
+    {
+      "question": "In Figure 6.1, what does C2 represent?",
+      "options": [
+        "Primary carnivore",
+        "Secondary carnivore",
+        "Tertiary carnivore",
+        "Consumer 2 only"
+      ],
+      "correctAnswer": "Secondary carnivore",
+      "id": 38
+    }
+  ]
+}

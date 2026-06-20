@@ -1,0 +1,514 @@
+{
+  "title": "1.4 Contributions of Biological Discoveries to Society and the Environment",
+  "description": "Comprehensive coverage of how biological discoveries, including the microscope, medical discoveries, and genetics, have impacted medicine, ecosystem study, forensic science, atomic study, genetic study, and tissue analysis.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade10",
+    "discoveries",
+    "contributions",
+    "society",
+    "microscope",
+    "medicine",
+    "genetics"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which invention and curative medication are mentioned as having transformed human life?",
+      "options": [
+        "The telescope and aspirin",
+        "Microscopes and penicillin",
+        "The X-ray and insulin",
+        "The stethoscope and vaccines"
+      ],
+      "correctAnswer": "Microscopes and penicillin"
+    },
+    {
+      "id": 2,
+      "question": "What is a microscope?",
+      "options": [
+        "A device that measures temperature",
+        "A device that magnifies objects or organisms too small to be seen with the naked eye",
+        "A device that separates mixtures",
+        "A device that records electrical activity"
+      ],
+      "correctAnswer": "A device that magnifies objects or organisms too small to be seen with the naked eye"
+    },
+    {
+      "id": 3,
+      "question": "The microscope has had an enormous influence on the development of which sciences?",
+      "options": [
+        "Physics, chemistry, and mathematics",
+        "Modern medical, forensics, and environmental sciences",
+        "Geology, astronomy, and meteorology",
+        "Psychology, sociology, and economics"
+      ],
+      "correctAnswer": "Modern medical, forensics, and environmental sciences"
+    },
+    {
+      "id": 4,
+      "question": "When did the use of microscopes in medicine begin?",
+      "options": [
+        "The 1820s",
+        "The 1860s",
+        "The 1900s",
+        "The 1920s"
+      ],
+      "correctAnswer": "The 1860s"
+    },
+    {
+      "id": 5,
+      "question": "Who reported that microscopic organisms seen through a microscope caused certain diseases?",
+      "options": [
+        "Robert Koch",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Joseph Lister"
+      ],
+      "correctAnswer": "Louis Pasteur"
+    },
+    {
+      "id": 6,
+      "question": "What did people believe caused diseases before Pasteur's germ theory?",
+      "options": [
+        "Bacteria and viruses",
+        "Evil spirits or God",
+        "Poor diet and lack of exercise",
+        "Genetic mutations"
+      ],
+      "correctAnswer": "Evil spirits or God"
+    },
+    {
+      "id": 7,
+      "question": "What did Pasteur's germ theory revolutionize?",
+      "options": [
+        "The study of plant biology",
+        "The process of identifying, treating, and preventing infectious diseases",
+        "The classification of organisms",
+        "The study of genetics"
+      ],
+      "correctAnswer": "The process of identifying, treating, and preventing infectious diseases"
+    },
+    {
+      "id": 8,
+      "question": "How do hospital laboratories use microscopes today according to the text?",
+      "options": [
+        "To perform surgery",
+        "To identify which microbe is causing an infection so physicians can prescribe the proper medicine",
+        "To grow bacteria",
+        "To mix medications"
+      ],
+      "correctAnswer": "To identify which microbe is causing an infection so physicians can prescribe the proper medicine"
+    },
+    {
+      "id": 9,
+      "question": "Besides identifying microbes, what else are microscopes used for in medicine?",
+      "options": [
+        "To perform blood transfusions",
+        "To diagnose cancer and other diseases",
+        "To administer anesthesia",
+        "To set broken bones"
+      ],
+      "correctAnswer": "To diagnose cancer and other diseases"
+    },
+    {
+      "id": 10,
+      "question": "How do field biologists use microscopes to study an ecosystem?",
+      "options": [
+        "By measuring water temperature",
+        "By identifying the types and numbers of microscopic organisms found in ecosystem samples",
+        "By tracking animal migrations",
+        "By analyzing soil pH"
+      ],
+      "correctAnswer": "By identifying the types and numbers of microscopic organisms found in ecosystem samples"
+    },
+    {
+      "id": 11,
+      "question": "How does studying microscopic organisms in an ecosystem help scientists?",
+      "options": [
+        "It helps them predict the weather",
+        "It helps in defining the ecosystem, detecting threats, and determining relationships of organisms with their environments",
+        "It helps them locate mineral deposits",
+        "It helps them measure air pollution"
+      ],
+      "correctAnswer": "It helps in defining the ecosystem, detecting threats, and determining relationships of organisms with their environments"
+    },
+    {
+      "id": 12,
+      "question": "What is forensic science?",
+      "options": [
+        "A field of science used to develop new medicines",
+        "A field of science used to gather and analyze evidence to establish facts used in a legal scenario",
+        "A field of science used to study ecosystems",
+        "A field of science used to classify organisms"
+      ],
+      "correctAnswer": "A field of science used to gather and analyze evidence to establish facts used in a legal scenario"
+    },
+    {
+      "id": 13,
+      "question": "What can be examined under a microscope to see if bullets match a particular gun?",
+      "options": [
+        "The bullet casing",
+        "Striations in bullets",
+        "The gunpowder residue",
+        "The fingerprints on the bullet"
+      ],
+      "correctAnswer": "Striations in bullets"
+    },
+    {
+      "id": 14,
+      "question": "What type of microscope has enabled scientists to study cells at an atomic level?",
+      "options": [
+        "Light microscope",
+        "Atomic force (electron) microscope",
+        "Dissecting microscope",
+        "Confocal microscope"
+      ],
+      "correctAnswer": "Atomic force (electron) microscope"
+    },
+    {
+      "id": 15,
+      "question": "What does the atomic force microscope enable scientists to do with viruses?",
+      "options": [
+        "Count their numbers",
+        "Scrutinize them at their atomic level and influence them for the delivery of innovative treatments",
+        "Grow them in the laboratory",
+        "Classify them by shape"
+      ],
+      "correctAnswer": "Scrutinize them at their atomic level and influence them for the delivery of innovative treatments"
+    },
+    {
+      "id": 16,
+      "question": "What does the electron microscope enable scientists to study and understand about viruses?",
+      "options": [
+        "How they reproduce",
+        "The types of viruses and how they infect the body",
+        "How they evolve",
+        "How they are transmitted"
+      ],
+      "correctAnswer": "The types of viruses and how they infect the body"
+    },
+    {
+      "id": 17,
+      "question": "How has the microscope impacted genetics research?",
+      "options": [
+        "It has had a significant impact on genetics research",
+        "It has had minimal impact on genetics research",
+        "It is not used in genetics research",
+        "It is only used in plant genetics"
+      ],
+      "correctAnswer": "It has had a significant impact on genetics research"
+    },
+    {
+      "id": 18,
+      "question": "What do scientists use a microscope to examine in genetics research?",
+      "options": [
+        "Soil samples",
+        "Certain genetic makeup",
+        "Water quality",
+        "Airborne particles"
+      ],
+      "correctAnswer": "Certain genetic makeup"
+    },
+    {
+      "id": 19,
+      "question": "What does the use of microscopes in genetics allow scientists to evaluate?",
+      "options": [
+        "Genetic abnormalities, regeneration, and tissue death",
+        "Only genetic abnormalities",
+        "Only tissue death",
+        "Only regeneration"
+      ],
+      "correctAnswer": "Genetic abnormalities, regeneration, and tissue death"
+    },
+    {
+      "id": 20,
+      "question": "What will histologists be able to explore as a result of genetics research using microscopes?",
+      "options": [
+        "New surgical techniques",
+        "Future therapies and preventive drugs",
+        "New classification systems",
+        "New types of microscopes"
+      ],
+      "correctAnswer": "Future therapies and preventive drugs"
+    },
+    {
+      "id": 21,
+      "question": "What do histologists commonly study using a microscope?",
+      "options": [
+        "Fossils",
+        "Cells and tissues",
+        "Bacteria cultures",
+        "Water samples"
+      ],
+      "correctAnswer": "Cells and tissues"
+    },
+    {
+      "id": 22,
+      "question": "When a section of tissue is taken for analysis, what can histologists determine using a microscope?",
+      "options": [
+        "The age of the person",
+        "If the sample is cancerous",
+        "The blood type",
+        "The genetic parentage"
+      ],
+      "correctAnswer": "If the sample is cancerous"
+    },
+    {
+      "id": 23,
+      "question": "Who discovered the circulatory system and in what year?",
+      "options": [
+        "William Harvey in 1628",
+        "Ibn al-Nafis in 1242, and first brought to prominence in 1628 by William Harvey",
+        "Louis Pasteur in 1861",
+        "Conrad Rontgen in 1895"
+      ],
+      "correctAnswer": "Ibn al-Nafis in 1242, and first brought to prominence in 1628 by William Harvey"
+    },
+    {
+      "id": 24,
+      "question": "Who discovered vaccination, and in what year and place?",
+      "options": [
+        "Louis Pasteur, France, 1861",
+        "Jenner, France, 1799",
+        "Edward Jenner, England, 1796",
+        "Robert Koch, Germany, 1882"
+      ],
+      "correctAnswer": "Jenner, France, 1799"
+    },
+    {
+      "id": 25,
+      "question": "Who discovered cell theory and in what year?",
+      "options": [
+        "Robert Hooke in 1665",
+        "Theodor Schwann and Matthias Schleiden in 1838",
+        "Louis Pasteur in 1861",
+        "Gregor Mendel in 1865"
+      ],
+      "correctAnswer": "Theodor Schwann and Matthias Schleiden in 1838"
+    },
+    {
+      "id": 26,
+      "question": "Who discovered the germ theory and in what year?",
+      "options": [
+        "Robert Koch in 1882",
+        "Louis Pasteur in 1861",
+        "Joseph Lister in 1867",
+        "Alexander Fleming in 1928"
+      ],
+      "correctAnswer": "Louis Pasteur in 1861"
+    },
+    {
+      "id": 27,
+      "question": "Who discovered X-rays and in what year?",
+      "options": [
+        "Conrad Rontgen in 1895",
+        "Wilhelm Roentgen in 1901",
+        "Marie Curie in 1898",
+        "Frederick Banting in 1920"
+      ],
+      "correctAnswer": "Conrad Rontgen in 1895"
+    },
+    {
+      "id": 28,
+      "question": "Who discovered vitamins and in what period?",
+      "options": [
+        "Frederick Hopkins in the 1900s",
+        "Albert Szent-Gyorgyi in the 1930s",
+        "Casimir Funk in 1912",
+        "James Lind in the 1750s"
+      ],
+      "correctAnswer": "Frederick Hopkins in the 1900s"
+    },
+    {
+      "id": 29,
+      "question": "Who discovered insulin and in what year?",
+      "options": [
+        "Frederick Banting in 1920",
+        "Frederick Sanger in 1955",
+        "Charles Best in 1921",
+        "John Macleod in 1922"
+      ],
+      "correctAnswer": "Frederick Banting in 1920"
+    },
+    {
+      "id": 30,
+      "question": "Who discovered penicillin and in what year?",
+      "options": [
+        "Joseph Lister in 1867",
+        "Alexander Fleming in 1928",
+        "Howard Florey in 1940",
+        "Ernst Chain in 1939"
+      ],
+      "correctAnswer": "Alexander Fleming in 1928"
+    },
+    {
+      "id": 31,
+      "question": "Who discovered DNA and in what period?",
+      "options": [
+        "James Watson and Francis Crick in 1953",
+        "Swiss chemist Friedrich Miescher in the 1860s and 1870s",
+        "Rosalind Franklin in 1952",
+        "Erwin Chargaff in the 1940s"
+      ],
+      "correctAnswer": "Swiss chemist Friedrich Miescher in the 1860s and 1870s"
+    },
+    {
+      "id": 32,
+      "question": "Who discovered anesthetics and what was the year of first clinical use?",
+      "options": [
+        "Joseph Priestley in 1772",
+        "Sigmund Freud and Karl Koller with first clinical use in 1884; Albert Niemann extracted it from leaves of Coca in 1860",
+        "William Morton in 1846",
+        "Humphry Davy in 1799"
+      ],
+      "correctAnswer": "Sigmund Freud and Karl Koller with first clinical use in 1884; Albert Niemann extracted it from leaves of Coca in 1860"
+    },
+    {
+      "id": 33,
+      "question": "Who discovered HIV and in what period?",
+      "options": [
+        "Luc Montagnier alone in 1983",
+        "Robert Gallo and Luc Montagnier in the 1980s",
+        "Robert Gallo alone in 1984",
+        "Francoise Barre-Sinoussi in 1983"
+      ],
+      "correctAnswer": "Robert Gallo and Luc Montagnier in the 1980s"
+    },
+    {
+      "id": 34,
+      "question": "Before 1900, the history of genetics was related to which field?",
+      "options": [
+        "Embryology",
+        "Cytology",
+        "Evolution",
+        "Physiology"
+      ],
+      "correctAnswer": "Cytology"
+    },
+    {
+      "id": 35,
+      "question": "Who elaborated various smaller things in a thinly sliced cork section from a mature tree?",
+      "options": [
+        "Antonie van Leeuwenhoek",
+        "Robert Hooke",
+        "Matthias Schleiden",
+        "Theodor Schwann"
+      ],
+      "correctAnswer": "Robert Hooke"
+    },
+    {
+      "id": 36,
+      "question": "In 1831, who discovered a consistent structure present in a regular way, called the nucleus?",
+      "options": [
+        "Robert Hooke",
+        "Brown",
+        "Schleiden",
+        "Schwann"
+      ],
+      "correctAnswer": "Brown"
+    },
+    {
+      "id": 37,
+      "question": "Who presented cell theory in 1836-1840 to depict various structures present in the cell and their nature?",
+      "options": [
+        "Robert Hooke and Brown",
+        "Schleiden and Schwann",
+        "Hertwig and Kolliker",
+        "Weismann and Strasburger"
+      ],
+      "correctAnswer": "Schleiden and Schwann"
+    },
+    {
+      "id": 38,
+      "question": "In 1884-1885, which four scientists derived that heredity matter existed in the nucleus in the material that makes up chromosomes?",
+      "options": [
+        "Mendel, Darwin, Pasteur, and Koch",
+        "Hertwig, Kolliker, Weismann (zoologists), and Strasburger (botanist)",
+        "Watson, Crick, Wilkins, and Franklin",
+        "Hooke, Brown, Schleiden, and Schwann"
+      ],
+      "correctAnswer": "Hertwig, Kolliker, Weismann (zoologists), and Strasburger (botanist)"
+    },
+    {
+      "id": 39,
+      "question": "What event caused genetics to take a progressive turn and revolutionize?",
+      "options": [
+        "The invention of the microscope",
+        "The discovery of Mendel's work and his laws",
+        "The discovery of DNA",
+        "The development of cell theory"
+      ],
+      "correctAnswer": "The discovery of Mendel's work and his laws"
+    },
+    {
+      "id": 40,
+      "question": "According to the text, genetics is providing numerous services to humanity in almost every field of life.",
+      "options": [
+        "True, its prominent role is in the welfare and betterment of human lives",
+        "False, genetics has limited applications",
+        "True, but only in medicine",
+        "False, genetics is still a theoretical field"
+      ],
+      "correctAnswer": "True, its prominent role is in the welfare and betterment of human lives"
+    },
+    {
+      "id": 41,
+      "question": "The invention of which device has revolutionized the science industry according to the text?",
+      "options": [
+        "The telescope",
+        "The microscope",
+        "The centrifuge",
+        "The spectrophotometer"
+      ],
+      "correctAnswer": "The microscope"
+    },
+    {
+      "id": 42,
+      "question": "What did Albert Niemann extract from leaves of Coca in 1860?",
+      "options": [
+        "Cocaine",
+        "Quinine",
+        "Aspirin",
+        "Morphine"
+      ],
+      "correctAnswer": "Cocaine"
+    },
+    {
+      "id": 43,
+      "question": "According to the text, genetics research using microscopes allows scientists to examine infected tissue for what purpose?",
+      "options": [
+        "To perform surgeries",
+        "To explore future therapies and preventive drugs",
+        "To classify diseases",
+        "To measure organ size"
+      ],
+      "correctAnswer": "To explore future therapies and preventive drugs"
+    },
+    {
+      "id": 44,
+      "question": "Which scientist reported in the 1860s that microscopic organisms caused certain diseases, revolutionizing medicine?",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Joseph Lister"
+      ],
+      "correctAnswer": "Louis Pasteur"
+    },
+    {
+      "id": 45,
+      "question": "The circulatory system discovery was first brought to prominence in 1628 by which physician?",
+      "options": [
+        "Ibn al-Nafis",
+        "William Harvey",
+        "Galen",
+        "Hippocrates"
+      ],
+      "correctAnswer": "William Harvey"
+    }
+  ]
+}

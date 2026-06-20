@@ -1,0 +1,334 @@
+{
+  "title": "6.2.4 Phosphorus Cycle",
+  "description": "Phosphorus cycle \u2014 every fact from the Grade 10 Biology textbook.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade10",
+    "ecology",
+    "phosphorus-cycle"
+  ],
+  "questions": [
+    {
+      "question": "Why is phosphorus needed by organisms?",
+      "options": [
+        "To build carbohydrates",
+        "To build proteins",
+        "To store water",
+        "To absorb sunlight"
+      ],
+      "correctAnswer": "To build proteins",
+      "id": 1
+    },
+    {
+      "question": "Besides proteins, of which important molecule is phosphorus an essential component?",
+      "options": [
+        "Carbohydrates",
+        "The nucleotides of DNA",
+        "Lipids",
+        "Vitamins"
+      ],
+      "correctAnswer": "The nucleotides of DNA",
+      "id": 2
+    },
+    {
+      "question": "What is DNA described as being key for?",
+      "options": [
+        "Energy production",
+        "Life",
+        "Movement",
+        "Digestion"
+      ],
+      "correctAnswer": "Life",
+      "id": 3
+    },
+    {
+      "question": "For which molecule's synthesis is phosphorus also needed?",
+      "options": [
+        "Glucose",
+        "ATP, the energy currency of a cell",
+        "Chlorophyll",
+        "Water"
+      ],
+      "correctAnswer": "ATP, the energy currency of a cell",
+      "id": 4
+    },
+    {
+      "question": "ATP stands for what?",
+      "options": [
+        "Adenosine triphosphate",
+        "Adenine triphosphate",
+        "Amino triphosphate",
+        "Adenosine diphosphate"
+      ],
+      "correctAnswer": "Adenosine triphosphate",
+      "id": 5
+    },
+    {
+      "question": "What is ATP the immediate source of?",
+      "options": [
+        "Oxygen",
+        "Energy (instantly liberates energy) needed for various activities of a cell",
+        "Carbon",
+        "Water"
+      ],
+      "correctAnswer": "Energy (instantly liberates energy) needed for various activities of a cell",
+      "id": 6
+    },
+    {
+      "question": "How is ATP produced?",
+      "options": [
+        "During photosynthesis",
+        "Energy released during cellular respiration is harvested and stored as ATP",
+        "During transpiration",
+        "During nitrogen fixation"
+      ],
+      "correctAnswer": "Energy released during cellular respiration is harvested and stored as ATP",
+      "id": 7
+    },
+    {
+      "question": "In what form is phosphorus usually present in soil and rock?",
+      "options": [
+        "Phosphorus gas",
+        "Phosphate ions",
+        "Phosphoric acid",
+        "Elemental phosphorus"
+      ],
+      "correctAnswer": "Phosphate ions",
+      "id": 8
+    },
+    {
+      "question": "What are phosphate ions present in soil or water taken up by?",
+      "options": [
+        "Animals only",
+        "Plants and aquatic algae",
+        "Only fungi",
+        "Only bacteria"
+      ],
+      "correctAnswer": "Plants and aquatic algae",
+      "id": 9
+    },
+    {
+      "question": "Into what form are phosphate ions converted when taken up by plants and algae?",
+      "options": [
+        "Inorganic phosphate",
+        "Organic phosphate",
+        "Phosphorus gas",
+        "Phosphoric acid"
+      ],
+      "correctAnswer": "Organic phosphate",
+      "id": 10
+    },
+    {
+      "question": "How is organic phosphate synthesized by producers transferred?",
+      "options": [
+        "Directly to decomposers",
+        "Along food chains to various consumers or feeders",
+        "Back to the soil directly",
+        "To the atmosphere"
+      ],
+      "correctAnswer": "Along food chains to various consumers or feeders",
+      "id": 11
+    },
+    {
+      "question": "What happens when dead bodies of plants and animals are decomposed by bacteria and fungi?",
+      "options": [
+        "Phosphorus is destroyed",
+        "Phosphate ions are released from compounds like phospholipids, ATP, and DNA and returned to soil and water",
+        "Phosphorus turns into gas",
+        "Phosphorus becomes locked in rocks forever"
+      ],
+      "correctAnswer": "Phosphate ions are released from compounds like phospholipids, ATP, and DNA and returned to soil and water",
+      "id": 12
+    },
+    {
+      "question": "From which compounds are phosphate ions released during decomposition?",
+      "options": [
+        "Carbohydrates and lipids only",
+        "Phospholipids, ATP, and DNA",
+        "Proteins and sugars only",
+        "Water and minerals"
+      ],
+      "correctAnswer": "Phospholipids, ATP, and DNA",
+      "id": 13
+    },
+    {
+      "question": "How else is phosphate returned to the environment besides decomposition?",
+      "options": [
+        "Through photosynthesis",
+        "Through excretion from animals and aquatic organisms",
+        "Through respiration",
+        "Through transpiration"
+      ],
+      "correctAnswer": "Through excretion from animals and aquatic organisms",
+      "id": 14
+    },
+    {
+      "question": "What is one way phosphate enters the soil?",
+      "options": [
+        "From rainfall",
+        "In the form of fertilizers obtained by mining phosphate rocks and applying them in agricultural lands",
+        "From the atmosphere",
+        "From volcanic eruptions"
+      ],
+      "correctAnswer": "In the form of fertilizers obtained by mining phosphate rocks and applying them in agricultural lands",
+      "id": 15
+    },
+    {
+      "question": "What is the purpose of applying phosphate fertilizers to agricultural lands?",
+      "options": [
+        "To increase soil acidity",
+        "To boost crop yield",
+        "To kill pests",
+        "To reduce water usage"
+      ],
+      "correctAnswer": "To boost crop yield",
+      "id": 16
+    },
+    {
+      "question": "What can happen when phosphate fertilizer from farmlands is leached by rainfall?",
+      "options": [
+        "It improves water quality",
+        "It can reach nearby water bodies and cause eutrophication",
+        "It evaporates into the atmosphere",
+        "It becomes permanently trapped in soil"
+      ],
+      "correctAnswer": "It can reach nearby water bodies and cause eutrophication",
+      "id": 17
+    },
+    {
+      "question": "What is eutrophication?",
+      "options": [
+        "The natural aging of a lake",
+        "Undesirable excessive growth of aquatic plants and massive growth of algae (algal bloom) induced by leaching of fertilizers rich in nitrogen and phosphorus",
+        "The process of water purification",
+        "The formation of new soil"
+      ],
+      "correctAnswer": "Undesirable excessive growth of aquatic plants and massive growth of algae (algal bloom) induced by leaching of fertilizers rich in nitrogen and phosphorus",
+      "id": 18
+    },
+    {
+      "question": "The phosphorus cycle mainly involves the transfer of what?",
+      "options": [
+        "Phosphorus gas from air to water",
+        "Phosphate ions from soil, water, and rock to plants and aquatic algae",
+        "Organic phosphorus from animals to plants",
+        "Phosphorus from the atmosphere to the soil"
+      ],
+      "correctAnswer": "Phosphate ions from soil, water, and rock to plants and aquatic algae",
+      "id": 19
+    },
+    {
+      "question": "In the phosphorus cycle, what is first converted in the producers?",
+      "options": [
+        "Phosphate ions to ATP",
+        "Phosphate to organic phosphate",
+        "Phosphate to phosphorus gas",
+        "Phosphate to DNA"
+      ],
+      "correctAnswer": "Phosphate to organic phosphate",
+      "id": 20
+    },
+    {
+      "question": "How is organic phosphate from producers transferred to consumers?",
+      "options": [
+        "Through the air",
+        "Through the food chain",
+        "Through water absorption",
+        "Through soil contact"
+      ],
+      "correctAnswer": "Through the food chain",
+      "id": 21
+    },
+    {
+      "question": "By what are phosphate ions released from dead bodies of plants and animals?",
+      "options": [
+        "Sunlight and water",
+        "Soil bacteria and fungi",
+        "Wind and rain",
+        "Plants and algae"
+      ],
+      "correctAnswer": "Soil bacteria and fungi",
+      "id": 22
+    },
+    {
+      "question": "Which type of fertilizer can cause eutrophication when leached into water bodies?",
+      "options": [
+        "Organic compost only",
+        "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
+        "Potash fertilizers only",
+        "Lime only"
+      ],
+      "correctAnswer": "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
+      "id": 23
+    },
+    {
+      "question": "The phosphorus cycle operates over what time frame for some processes?",
+      "options": [
+        "Days",
+        "Millions of years",
+        "Hours",
+        "Weeks"
+      ],
+      "correctAnswer": "Millions of years",
+      "id": 24
+    },
+    {
+      "question": "ATP is also known as what?",
+      "options": [
+        "The building block of DNA",
+        "The energy currency of a cell",
+        "The structural protein",
+        "The genetic messenger"
+      ],
+      "correctAnswer": "The energy currency of a cell",
+      "id": 25
+    },
+    {
+      "question": "What does ATP stand for in full?",
+      "options": [
+        "Adenosine Diphosphate",
+        "Adenosine Triphosphate",
+        "Amino Triphosphate",
+        "Adenine Triphosphate"
+      ],
+      "correctAnswer": "Adenosine Triphosphate",
+      "id": 26
+    },
+    {
+      "question": "Eutrophication leads to massive growth of which organisms?",
+      "options": [
+        "Fish and mammals",
+        "Aquatic plants (hydrophytes) and algae (algal bloom)",
+        "Bacteria and fungi only",
+        "Insects"
+      ],
+      "correctAnswer": "Aquatic plants (hydrophytes) and algae (algal bloom)",
+      "id": 27
+    },
+    {
+      "question": "What is the main source of phosphate fertilizers?",
+      "options": [
+        "Recycled animal waste",
+        "Mining phosphate rocks",
+        "Atmospheric deposition",
+        "Plant decomposition"
+      ],
+      "correctAnswer": "Mining phosphate rocks",
+      "id": 28
+    },
+    {
+      "question": "Which essential plant nutrients in fertilizers cause eutrophication when they leach into water bodies?",
+      "options": [
+        "Calcium and magnesium",
+        "Nitrogen and phosphorus",
+        "Potassium and sulfur",
+        "Iron and zinc"
+      ],
+      "correctAnswer": "Nitrogen and phosphorus",
+      "id": 29
+    }
+  ]
+}

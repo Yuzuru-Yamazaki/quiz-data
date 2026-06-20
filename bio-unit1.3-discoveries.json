@@ -1,0 +1,752 @@
+{
+  "title": "1.3 Major Discoveries that Revolutionized Biology",
+  "description": "Comprehensive coverage of twelve major discoveries that revolutionized biology, including Aristotle, Galen, Leeuwenhoek, Linnaeus, Darwin, Mendel, Pasteur, Koch, Goodall, McClintock, Watson and Crick, and Wilmut and Campbell.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade10",
+    "discoveries",
+    "scientists"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What was the classification system developed by Aristotle known as until the nineteenth century?",
+      "options": [
+        "The Tree of Life",
+        "The Ladder of Life",
+        "The Web of Life",
+        "The Circle of Life"
+      ],
+      "correctAnswer": "The Ladder of Life"
+    },
+    {
+      "id": 2,
+      "question": "What did Aristotle establish for the first time in biology?",
+      "options": [
+        "The theory of evolution",
+        "Species relationships and grouped them correctly",
+        "The structure of DNA",
+        "The germ theory of disease"
+      ],
+      "correctAnswer": "Species relationships and grouped them correctly"
+    },
+    {
+      "id": 3,
+      "question": "Aristotle classified organisms based on which criteria?",
+      "options": [
+        "Their diet and habitat",
+        "Their ability to move from one place to another and their characteristics as herbs, shrubs, and trees",
+        "Their color and size",
+        "Their reproductive methods"
+      ],
+      "correctAnswer": "Their ability to move from one place to another and their characteristics as herbs, shrubs, and trees"
+    },
+    {
+      "id": 4,
+      "question": "What time period did Aristotle live in?",
+      "options": [
+        "129-161 AD",
+        "384-322 BC",
+        "1632-1723",
+        "1707-1775"
+      ],
+      "correctAnswer": "384-322 BC"
+    },
+    {
+      "id": 5,
+      "question": "Galen's efforts transformed which field of science?",
+      "options": [
+        "Botany",
+        "Medical science",
+        "Ecology",
+        "Zoology"
+      ],
+      "correctAnswer": "Medical science"
+    },
+    {
+      "id": 6,
+      "question": "Which medical specialties did Galen significantly impact?",
+      "options": [
+        "Pediatrics and dermatology",
+        "Anatomy, Pathology, Physiology, and Neurology",
+        "Cardiology and ophthalmology",
+        "Psychiatry and orthopedics"
+      ],
+      "correctAnswer": "Anatomy, Pathology, Physiology, and Neurology"
+    },
+    {
+      "id": 7,
+      "question": "Among Galen's important findings were the distinctions between which two types of blood vessels?",
+      "options": [
+        "Capillaries and venules",
+        "Veins and arteries",
+        "Arterioles and venules",
+        "Lymphatic vessels and veins"
+      ],
+      "correctAnswer": "Veins and arteries"
+    },
+    {
+      "id": 8,
+      "question": "Galen recognized that which organ produces voice?",
+      "options": [
+        "Trachea",
+        "Larynx",
+        "Pharynx",
+        "Bronchi"
+      ],
+      "correctAnswer": "Larynx"
+    },
+    {
+      "id": 9,
+      "question": "What time period did Galen live in?",
+      "options": [
+        "384-322 BC",
+        "1632-1723",
+        "129-161 AD",
+        "1707-1775"
+      ],
+      "correctAnswer": "129-161 AD"
+    },
+    {
+      "id": 10,
+      "question": "What is Antonie van Leeuwenhoek well renowned for?",
+      "options": [
+        "His theory of evolution",
+        "His contributions to microscopy and applying it to biology",
+        "His discovery of penicillin",
+        "His classification system"
+      ],
+      "correctAnswer": "His contributions to microscopy and applying it to biology"
+    },
+    {
+      "id": 11,
+      "question": "According to some sources, how much could Leeuwenhoek's strong lenses magnify?",
+      "options": [
+        "Up to 100 times",
+        "Up to 500 times",
+        "Up to 1000 times",
+        "Up to 50 times"
+      ],
+      "correctAnswer": "Up to 500 times"
+    },
+    {
+      "id": 12,
+      "question": "Among Leeuwenhoek's findings using microscopes were which discoveries?",
+      "options": [
+        "The nucleus and mitochondria",
+        "Bacteria and the vacuole of the cell",
+        "DNA and RNA",
+        "Chromosomes and genes"
+      ],
+      "correctAnswer": "Bacteria and the vacuole of the cell"
+    },
+    {
+      "id": 13,
+      "question": "What time period did Antonie van Leeuwenhoek live in?",
+      "options": [
+        "1707-1775",
+        "1809-1882",
+        "1632-1723",
+        "1822-1884"
+      ],
+      "correctAnswer": "1632-1723"
+    },
+    {
+      "id": 14,
+      "question": "What professions did Carl Linnaeus hold?",
+      "options": [
+        "Physicist and astronomer",
+        "Botanist, physician, and naturalist",
+        "Chemist and mathematician",
+        "Philosopher and geologist"
+      ],
+      "correctAnswer": "Botanist, physician, and naturalist"
+    },
+    {
+      "id": 15,
+      "question": "What system did Carl Linnaeus devise?",
+      "options": [
+        "The theory of natural selection",
+        "The method for naming, ordering, and classifying creatures",
+        "The germ theory of disease",
+        "The structure of DNA"
+      ],
+      "correctAnswer": "The method for naming, ordering, and classifying creatures"
+    },
+    {
+      "id": 16,
+      "question": "Linnaeus separated items into which three categories?",
+      "options": [
+        "Birds, fish, and mammals",
+        "Animals, plants, and minerals",
+        "Herbs, shrubs, and trees",
+        "Prokaryotes, eukaryotes, and viruses"
+      ],
+      "correctAnswer": "Animals, plants, and minerals"
+    },
+    {
+      "id": 17,
+      "question": "How did Linnaeus organize living things?",
+      "options": [
+        "Into kingdoms and phyla",
+        "Into classes, orders, genera, and species",
+        "Into families and tribes",
+        "Into domains and kingdoms"
+      ],
+      "correctAnswer": "Into classes, orders, genera, and species"
+    },
+    {
+      "id": 18,
+      "question": "In the name Homo sapiens, which part is the genus?",
+      "options": [
+        "sapiens",
+        "Homo",
+        "sapien",
+        "Homo sapiens"
+      ],
+      "correctAnswer": "Homo"
+    },
+    {
+      "id": 19,
+      "question": "What time period did Carl Linnaeus live in?",
+      "options": [
+        "1632-1723",
+        "1809-1882",
+        "1707-1775",
+        "1822-1884"
+      ],
+      "correctAnswer": "1707-1775"
+    },
+    {
+      "id": 20,
+      "question": "What did Charles Darwin establish about all species of life?",
+      "options": [
+        "They were created by God at the beginning of the world",
+        "They descended over time from common ancestors",
+        "They remain completely unchanged over time",
+        "They are all unrelated to each other"
+      ],
+      "correctAnswer": "They descended over time from common ancestors"
+    },
+    {
+      "id": 21,
+      "question": "According to Darwin, species continue to exist through which process?",
+      "options": [
+        "Artificial selection",
+        "Natural selection",
+        "Genetic drift",
+        "Mutation"
+      ],
+      "correctAnswer": "Natural selection"
+    },
+    {
+      "id": 22,
+      "question": "In what year was Darwin's theory of evolution published in On the Origin of Species?",
+      "options": [
+        "1839",
+        "1859",
+        "1869",
+        "1849"
+      ],
+      "correctAnswer": "1859"
+    },
+    {
+      "id": 23,
+      "question": "What long-held belief was Darwin disputing with his theory?",
+      "options": [
+        "That the Earth was round",
+        "That all species had been created by God at the beginning of the world",
+        "That species could change over time",
+        "That fossils were remains of ancient organisms"
+      ],
+      "correctAnswer": "That all species had been created by God at the beginning of the world"
+    },
+    {
+      "id": 24,
+      "question": "What is the combination of evolution by natural selection with Mendelian genetics called?",
+      "options": [
+        "The modern evolutionary synthesis",
+        "The theory of inheritance",
+        "The genetic revolution",
+        "The Darwinian revolution"
+      ],
+      "correctAnswer": "The modern evolutionary synthesis"
+    },
+    {
+      "id": 25,
+      "question": "What time period did Charles Darwin live in?",
+      "options": [
+        "1707-1775",
+        "1822-1884",
+        "1809-1882",
+        "1843-1910"
+      ],
+      "correctAnswer": "1809-1882"
+    },
+    {
+      "id": 26,
+      "question": "What organism did Gregor Mendel use to discover and demonstrate the laws of genetic inheritance?",
+      "options": [
+        "Fruit flies",
+        "Peas",
+        "Mice",
+        "Bacteria"
+      ],
+      "correctAnswer": "Peas"
+    },
+    {
+      "id": 27,
+      "question": "What terms did Gregor Mendel coin in the process of discovering the laws of inheritance?",
+      "options": [
+        "Genotype and phenotype",
+        "'Dominant' and 'recessive' genes",
+        "Allele and locus",
+        "Homozygous and heterozygous"
+      ],
+      "correctAnswer": "'Dominant' and 'recessive' genes"
+    },
+    {
+      "id": 28,
+      "question": "When were Mendel's laws rediscovered?",
+      "options": [
+        "At the turn of the 19th century",
+        "At the turn of the 20th century",
+        "In the 1850s",
+        "In the 1950s"
+      ],
+      "correctAnswer": "At the turn of the 20th century"
+    },
+    {
+      "id": 29,
+      "question": "What time period did Gregor Mendel live in?",
+      "options": [
+        "1809-1882",
+        "1843-1910",
+        "1822-1884",
+        "1902-1992"
+      ],
+      "correctAnswer": "1822-1884"
+    },
+    {
+      "id": 30,
+      "question": "What is Louis Pasteur regarded as?",
+      "options": [
+        "The father of genetics",
+        "The father of medical microbiology",
+        "The father of evolution",
+        "The father of botany"
+      ],
+      "correctAnswer": "The father of medical microbiology"
+    },
+    {
+      "id": 31,
+      "question": "What did Louis Pasteur pioneer research on?",
+      "options": [
+        "DNA structure",
+        "Molecular asymmetry",
+        "Cell theory",
+        "Chromosome structure"
+      ],
+      "correctAnswer": "Molecular asymmetry"
+    },
+    {
+      "id": 32,
+      "question": "What did Louis Pasteur demonstrate about bacteria?",
+      "options": [
+        "That they are all harmful to humans",
+        "That they cause fermentation and disease",
+        "That they cannot survive in the presence of air",
+        "That they are classified as plants"
+      ],
+      "correctAnswer": "That they cause fermentation and disease"
+    },
+    {
+      "id": 33,
+      "question": "What process did Louis Pasteur introduce?",
+      "options": [
+        "Sterilization",
+        "Pasteurization",
+        "Fermentation",
+        "Distillation"
+      ],
+      "correctAnswer": "Pasteurization"
+    },
+    {
+      "id": 34,
+      "question": "Which industries did Louis Pasteur rescue in France?",
+      "options": [
+        "Textile and mining industries",
+        "Beer, wine, and silk industries",
+        "Agriculture and fishing industries",
+        "Pharmaceutical and chemical industries"
+      ],
+      "correctAnswer": "Beer, wine, and silk industries"
+    },
+    {
+      "id": 35,
+      "question": "Which vaccines did Louis Pasteur develop?",
+      "options": [
+        "Polio and measles vaccines",
+        "Anthrax and rabies vaccines",
+        "Smallpox and tetanus vaccines",
+        "Cholera and typhoid vaccines"
+      ],
+      "correctAnswer": "Anthrax and rabies vaccines"
+    },
+    {
+      "id": 36,
+      "question": "What time period did Louis Pasteur live in?",
+      "options": [
+        "1809-1882",
+        "1822-1895",
+        "1843-1910",
+        "1902-1992"
+      ],
+      "correctAnswer": "1822-1895"
+    },
+    {
+      "id": 37,
+      "question": "Robert Koch was a well-known German physician who pioneered which field?",
+      "options": [
+        "Microbiology",
+        "Genetics",
+        "Botany",
+        "Ecology"
+      ],
+      "correctAnswer": "Microbiology"
+    },
+    {
+      "id": 38,
+      "question": "What is Robert Koch credited as?",
+      "options": [
+        "The father of genetics",
+        "The father of modern bacteriology",
+        "The father of evolution",
+        "The father of microscopy"
+      ],
+      "correctAnswer": "The father of modern bacteriology"
+    },
+    {
+      "id": 39,
+      "question": "Which diseases did Robert Koch pinpoint the precise causal agents of?",
+      "options": [
+        "Malaria, yellow fever, and dengue",
+        "Tuberculosis, cholera, and anthrax",
+        "Polio, measles, and mumps",
+        "HIV, hepatitis, and influenza"
+      ],
+      "correctAnswer": "Tuberculosis, cholera, and anthrax"
+    },
+    {
+      "id": 40,
+      "question": "What did Robert Koch provide experimental support for?",
+      "options": [
+        "The theory of evolution",
+        "The concept of infectious disease",
+        "The cell theory",
+        "The laws of inheritance"
+      ],
+      "correctAnswer": "The concept of infectious disease"
+    },
+    {
+      "id": 41,
+      "question": "What time period did Robert Koch live in?",
+      "options": [
+        "1822-1895",
+        "1902-1992",
+        "1843-1910",
+        "1934"
+      ],
+      "correctAnswer": "1843-1910"
+    },
+    {
+      "id": 42,
+      "question": "Jane Goodall is a UK specialist in which field?",
+      "options": [
+        "Botany",
+        "Ethology",
+        "Genetics",
+        "Microbiology"
+      ],
+      "correctAnswer": "Ethology"
+    },
+    {
+      "id": 43,
+      "question": "What did Jane Goodall discover about chimpanzees?",
+      "options": [
+        "That they are herbivores and cannot use tools",
+        "That they are omnivores and tool users",
+        "That they are carnivores",
+        "That they live solitary lives"
+      ],
+      "correctAnswer": "That they are omnivores and tool users"
+    },
+    {
+      "id": 44,
+      "question": "What notable academic achievement did Jane Goodall accomplish?",
+      "options": [
+        "She was the first woman to win the Nobel Prize",
+        "She was awarded a PhD from the University of Cambridge without holding a bachelor's degree",
+        "She discovered the structure of DNA",
+        "She founded the field of genetics"
+      ],
+      "correctAnswer": "She was awarded a PhD from the University of Cambridge without holding a bachelor's degree"
+    },
+    {
+      "id": 45,
+      "question": "In what year was Jane Goodall born?",
+      "options": [
+        "1902",
+        "1934",
+        "1928",
+        "1944"
+      ],
+      "correctAnswer": "1934"
+    },
+    {
+      "id": 46,
+      "question": "What type of scientist was Barbara McClintock?",
+      "options": [
+        "American botanist",
+        "American geneticist",
+        "American microbiologist",
+        "American ethologist"
+      ],
+      "correctAnswer": "American geneticist"
+    },
+    {
+      "id": 47,
+      "question": "What plant did Barbara McClintock spend her career analyzing?",
+      "options": [
+        "Peas",
+        "Wheat",
+        "Maize",
+        "Rice"
+      ],
+      "correctAnswer": "Maize"
+    },
+    {
+      "id": 48,
+      "question": "What technique did Barbara McClintock develop?",
+      "options": [
+        "A technique for cloning mammals",
+        "A technique for identifying and examining chromosomes individually",
+        "A technique for sequencing DNA",
+        "A technique for classifying bacteria"
+      ],
+      "correctAnswer": "A technique for identifying and examining chromosomes individually"
+    },
+    {
+      "id": 49,
+      "question": "What did Barbara McClintock's work make possible?",
+      "options": [
+        "The cloning of the first mammal",
+        "Mapping human genomes",
+        "The discovery of penicillin",
+        "The development of vaccines"
+      ],
+      "correctAnswer": "Mapping human genomes"
+    },
+    {
+      "id": 50,
+      "question": "What award did Barbara McClintock receive in 1983?",
+      "options": [
+        "The Nobel Prize in Physiology or Medicine",
+        "The Nobel Peace Prize",
+        "The World Food Prize",
+        "The National Hero award"
+      ],
+      "correctAnswer": "The Nobel Peace Prize"
+    },
+    {
+      "id": 51,
+      "question": "Barbara McClintock is known for her discovery of which phenomenon?",
+      "options": [
+        "Natural selection",
+        "Transposition and how genes could turn their physical characteristics on and off",
+        "The double helix structure of DNA",
+        "The germ theory of disease"
+      ],
+      "correctAnswer": "Transposition and how genes could turn their physical characteristics on and off"
+    },
+    {
+      "id": 52,
+      "question": "What time period did Barbara McClintock live in?",
+      "options": [
+        "1822-1884",
+        "1902-1992",
+        "1916-2004",
+        "1928"
+      ],
+      "correctAnswer": "1902-1992"
+    },
+    {
+      "id": 53,
+      "question": "What discovery made James Watson and Francis Crick famous in 1962?",
+      "options": [
+        "The discovery of penicillin",
+        "The discovery of the structure of DNA",
+        "The discovery of the circulation of blood",
+        "The discovery of X-rays"
+      ],
+      "correctAnswer": "The discovery of the structure of DNA"
+    },
+    {
+      "id": 54,
+      "question": "What prize did Watson and Crick win for their discovery?",
+      "options": [
+        "The World Food Prize",
+        "The medical Nobel Prize",
+        "The Nobel Peace Prize",
+        "The National Hero award"
+      ],
+      "correctAnswer": "The medical Nobel Prize"
+    },
+    {
+      "id": 55,
+      "question": "Watson and Crick's model of DNA describes it as having what shape?",
+      "options": [
+        "Single helix",
+        "Double helix",
+        "Triple helix",
+        "Circular"
+      ],
+      "correctAnswer": "Double helix"
+    },
+    {
+      "id": 56,
+      "question": "What does the double helix model of DNA explain?",
+      "options": [
+        "How proteins are synthesized",
+        "How DNA replicates and hereditary information is coded and passed on to descendants",
+        "How cells divide",
+        "How organisms evolve"
+      ],
+      "correctAnswer": "How DNA replicates and hereditary information is coded and passed on to descendants"
+    },
+    {
+      "id": 57,
+      "question": "The discovery of DNA structure has been used in which areas?",
+      "options": [
+        "Only in agriculture",
+        "Disease diagnosis and treatment, forensics, and more",
+        "Only in forensics",
+        "Only in evolutionary biology"
+      ],
+      "correctAnswer": "Disease diagnosis and treatment, forensics, and more"
+    },
+    {
+      "id": 58,
+      "question": "What time period did Francis Crick live in?",
+      "options": [
+        "1902-1992",
+        "1916-2004",
+        "1928",
+        "1944-2012"
+      ],
+      "correctAnswer": "1916-2004"
+    },
+    {
+      "id": 59,
+      "question": "Which mammal did Ian Wilmut and Keith Campbell clone in 1996?",
+      "options": [
+        "A mouse named Minnie",
+        "A sheep named Dolly",
+        "A cow named Bessie",
+        "A pig named Babe"
+      ],
+      "correctAnswer": "A sheep named Dolly"
+    },
+    {
+      "id": 60,
+      "question": "How did Wilmut and Campbell clone Dolly?",
+      "options": [
+        "Using embryonic stem cells",
+        "Using a single adult sheep cell and a process of nuclear transfer",
+        "Using artificial insemination",
+        "Using gene splicing"
+      ],
+      "correctAnswer": "Using a single adult sheep cell and a process of nuclear transfer"
+    },
+    {
+      "id": 61,
+      "question": "How long did Dolly the sheep live?",
+      "options": [
+        "Two years",
+        "Four years",
+        "Six years",
+        "Ten years"
+      ],
+      "correctAnswer": "Six years"
+    },
+    {
+      "id": 62,
+      "question": "According to the text, what is the current status of human cloning?",
+      "options": [
+        "It is perfected and ready for use",
+        "It is still not perfect and certainly not ready for human application",
+        "It is illegal worldwide",
+        "It has been successfully performed on humans"
+      ],
+      "correctAnswer": "It is still not perfect and certainly not ready for human application"
+    },
+    {
+      "id": 63,
+      "question": "What time period did Ian Wilmot live in?",
+      "options": [
+        "1902-1992",
+        "1944",
+        "1916-2004",
+        "1928"
+      ],
+      "correctAnswer": "1944"
+    },
+    {
+      "id": 64,
+      "question": "What time period did Keith Campbell live in?",
+      "options": [
+        "1902-1992",
+        "1944-2012",
+        "1916-2004",
+        "1954-2012"
+      ],
+      "correctAnswer": "1954-2012"
+    },
+    {
+      "id": 65,
+      "question": "Aristotle was an ancient Greek philosopher who lived during which period?",
+      "options": [
+        "129-161 AD",
+        "384-322 BC",
+        "1707-1775",
+        "1809-1882"
+      ],
+      "correctAnswer": "384-322 BC"
+    },
+    {
+      "id": 66,
+      "question": "Leeuwenhoek invented a method for making strong lenses that could magnify up to how many times?",
+      "options": [
+        "100 times",
+        "300 times",
+        "500 times",
+        "1000 times"
+      ],
+      "correctAnswer": "500 times"
+    },
+    {
+      "id": 67,
+      "question": "Who is regarded as the father of genetics according to the review questions in the unit?",
+      "options": [
+        "Gregor Mendel",
+        "Gebissa Ejeta",
+        "Aristotle",
+        "Charles Darwin"
+      ],
+      "correctAnswer": "Gregor Mendel"
+    }
+  ]
+}

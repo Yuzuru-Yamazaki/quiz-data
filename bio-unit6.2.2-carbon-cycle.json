@@ -1,0 +1,379 @@
+{
+  "title": "6.2.2 Carbon Cycle",
+  "description": "Carbon cycle \u2014 every fact from the Grade 10 Biology textbook.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade10",
+    "ecology",
+    "carbon-cycle",
+    "global-warming"
+  ],
+  "questions": [
+    {
+      "question": "What gases is the air around us composed of?",
+      "options": [
+        "Only oxygen and carbon dioxide",
+        "Oxygen, carbon dioxide, nitrogen, and inert gases",
+        "Only nitrogen and oxygen",
+        "Only carbon dioxide and nitrogen"
+      ],
+      "correctAnswer": "Oxygen, carbon dioxide, nitrogen, and inert gases",
+      "id": 1
+    },
+    {
+      "question": "Which two gases are particularly important for the survival of living organisms?",
+      "options": [
+        "Nitrogen and inert gases",
+        "Oxygen and carbon dioxide",
+        "Hydrogen and helium",
+        "Methane and ammonia"
+      ],
+      "correctAnswer": "Oxygen and carbon dioxide",
+      "id": 2
+    },
+    {
+      "question": "What two processes maintain the amount of oxygen and carbon dioxide in the atmosphere?",
+      "options": [
+        "Nitrogen fixation and denitrification",
+        "Photosynthesis and cellular respiration",
+        "Evaporation and condensation",
+        "Combustion and decomposition"
+      ],
+      "correctAnswer": "Photosynthesis and cellular respiration",
+      "id": 3
+    },
+    {
+      "question": "How is the amount of carbon in the atmosphere maintained?",
+      "options": [
+        "By a single process",
+        "By processes that continuously take it from and release it back to the atmosphere",
+        "Only by processes that release it",
+        "Only by processes that absorb it"
+      ],
+      "correctAnswer": "By processes that continuously take it from and release it back to the atmosphere",
+      "id": 4
+    },
+    {
+      "question": "What do green plants absorb from the air during photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Water vapor"
+      ],
+      "correctAnswer": "Carbon dioxide",
+      "id": 5
+    },
+    {
+      "question": "What happens to the carbon stored in plants?",
+      "options": [
+        "It is released immediately",
+        "It is transferred to animals that eat the plant",
+        "It stays in the plant forever",
+        "It turns into oxygen"
+      ],
+      "correctAnswer": "It is transferred to animals that eat the plant",
+      "id": 6
+    },
+    {
+      "question": "What releases carbon dioxide back to the air when plants and animals die?",
+      "options": [
+        "Photosynthesis",
+        "Decomposition by bacteria and fungi",
+        "Respiration",
+        "Transpiration"
+      ],
+      "correctAnswer": "Decomposition by bacteria and fungi",
+      "id": 7
+    },
+    {
+      "question": "What do all living organisms, including plants and animals, release throughout their entire lifetime?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide through respiration",
+        "Hydrogen"
+      ],
+      "correctAnswer": "Carbon dioxide through respiration",
+      "id": 8
+    },
+    {
+      "question": "What do dead bodies of organisms become over a long period of time?",
+      "options": [
+        "Soil",
+        "Fossil fuel",
+        "Water",
+        "Minerals"
+      ],
+      "correctAnswer": "Fossil fuel",
+      "id": 9
+    },
+    {
+      "question": "What activities release carbon dioxide by burning fossil fuels?",
+      "options": [
+        "Only factories",
+        "Factories, power stations, and vehicles",
+        "Only vehicles",
+        "Only power stations"
+      ],
+      "correctAnswer": "Factories, power stations, and vehicles",
+      "id": 10
+    },
+    {
+      "question": "What is the chemical formula for carbon dioxide?",
+      "options": [
+        "CO",
+        "CO2",
+        "C2O",
+        "CH4"
+      ],
+      "correctAnswer": "CO2",
+      "id": 11
+    },
+    {
+      "question": "Is CO2 a natural part of Earth's atmosphere?",
+      "options": [
+        "No, it is entirely man-made",
+        "Yes, it is a natural part of Earth's atmosphere",
+        "It is only found in cities",
+        "It was never present before the industrial era"
+      ],
+      "correctAnswer": "Yes, it is a natural part of Earth's atmosphere",
+      "id": 12
+    },
+    {
+      "question": "Since when have atmospheric CO2 concentrations significantly increased?",
+      "options": [
+        "Since the Renaissance",
+        "Since the Industrial Revolution (late 18th century)",
+        "Since the 20th century only",
+        "Since ancient times"
+      ],
+      "correctAnswer": "Since the Industrial Revolution (late 18th century)",
+      "id": 13
+    },
+    {
+      "question": "What are the major sources of increased CO2?",
+      "options": [
+        "Natural forest fires",
+        "Burning of fossil fuels (coal, oil, natural gas) and wood for energy",
+        "Volcanic eruptions only",
+        "Animal respiration only"
+      ],
+      "correctAnswer": "Burning of fossil fuels (coal, oil, natural gas) and wood for energy",
+      "id": 14
+    },
+    {
+      "question": "How does atmospheric CO2 act in terms of heat?",
+      "options": [
+        "It repels heat",
+        "It acts like a heat-trapping blanket, absorbing heat and holding it in",
+        "It has no effect on heat",
+        "It cools the atmosphere"
+      ],
+      "correctAnswer": "It acts like a heat-trapping blanket, absorbing heat and holding it in",
+      "id": 15
+    },
+    {
+      "question": "What is global warming?",
+      "options": [
+        "A cooling of the earth's surface",
+        "A rise in the overall temperature of the earth's surface",
+        "A change in wind patterns",
+        "An increase in rainfall"
+      ],
+      "correctAnswer": "A rise in the overall temperature of the earth's surface",
+      "id": 16
+    },
+    {
+      "question": "Which gas is the most important heat-trapping (greenhouse) gas?",
+      "options": [
+        "Methane",
+        "Nitrous oxide",
+        "CO2",
+        "Water vapor"
+      ],
+      "correctAnswer": "CO2",
+      "id": 17
+    },
+    {
+      "question": "What are the other greenhouse gases mentioned besides CO2?",
+      "options": [
+        "Oxygen and nitrogen",
+        "Methane and nitrous oxide",
+        "Hydrogen and helium",
+        "Ammonia and ozone"
+      ],
+      "correctAnswer": "Methane and nitrous oxide",
+      "id": 18
+    },
+    {
+      "question": "What is the root cause of climate change according to the textbook?",
+      "options": [
+        "Natural climate variability",
+        "Addition of excessive CO2 into the atmosphere due to human activity",
+        "Volcanic eruptions",
+        "Solar activity changes"
+      ],
+      "correctAnswer": "Addition of excessive CO2 into the atmosphere due to human activity",
+      "id": 19
+    },
+    {
+      "question": "What are the two major processes that maintain the balance of oxygen and carbon dioxide in the atmosphere?",
+      "options": [
+        "Evaporation and condensation",
+        "Photosynthesis and cellular respiration",
+        "Nitrogen fixation and denitrification",
+        "Combustion and decomposition"
+      ],
+      "correctAnswer": "Photosynthesis and cellular respiration",
+      "id": 20
+    },
+    {
+      "question": "Where does photosynthesis occur in a plant cell?",
+      "options": [
+        "In the mitochondrion",
+        "In the chloroplast of the leaf cell",
+        "In the nucleus",
+        "In the cell wall"
+      ],
+      "correctAnswer": "In the chloroplast of the leaf cell",
+      "id": 21
+    },
+    {
+      "question": "Where does aerobic cellular respiration take place in a cell?",
+      "options": [
+        "In the chloroplast",
+        "In the mitochondrion",
+        "In the nucleus",
+        "In the cytoplasm only"
+      ],
+      "correctAnswer": "In the mitochondrion",
+      "id": 22
+    },
+    {
+      "question": "What are the reactants of photosynthesis?",
+      "options": [
+        "Glucose and oxygen",
+        "Carbon dioxide and water",
+        "Nitrogen and hydrogen",
+        "ATP and NADPH"
+      ],
+      "correctAnswer": "Carbon dioxide and water",
+      "id": 23
+    },
+    {
+      "question": "What are the products of photosynthesis?",
+      "options": [
+        "Carbon dioxide and water",
+        "Glucose (food) and oxygen",
+        "Nitrogen and ammonia",
+        "ATP and heat"
+      ],
+      "correctAnswer": "Glucose (food) and oxygen",
+      "id": 24
+    },
+    {
+      "question": "What are the reactants of cellular respiration?",
+      "options": [
+        "Carbon dioxide and water",
+        "Glucose and oxygen",
+        "Nitrogen and hydrogen",
+        "ATP and water"
+      ],
+      "correctAnswer": "Glucose and oxygen",
+      "id": 25
+    },
+    {
+      "question": "What are the products of cellular respiration?",
+      "options": [
+        "Glucose and oxygen",
+        "Carbon dioxide and water",
+        "Nitrogen and ammonia",
+        "ATP and oxygen"
+      ],
+      "correctAnswer": "Carbon dioxide and water",
+      "id": 26
+    },
+    {
+      "question": "What two things are needed for photosynthesis besides carbon dioxide and water?",
+      "options": [
+        "Nitrogen and phosphorus",
+        "Sunlight and chlorophyll",
+        "Oxygen and glucose",
+        "Soil and minerals"
+      ],
+      "correctAnswer": "Sunlight and chlorophyll",
+      "id": 27
+    },
+    {
+      "question": "What is the balanced chemical equation for photosynthesis?",
+      "options": [
+        "CO2 + H2O -> C6H12O6 + O2",
+        "C6H12O6 + O2 -> CO2 + H2O",
+        "N2 + H2 -> NH3",
+        "CO2 + O2 -> C6H12O6"
+      ],
+      "correctAnswer": "CO2 + H2O -> C6H12O6 + O2",
+      "id": 28
+    },
+    {
+      "question": "What is the balanced chemical equation for cellular respiration?",
+      "options": [
+        "CO2 + H2O -> C6H12O6 + O2",
+        "C6H12O6 + O2 -> CO2 + H2O",
+        "N2 + H2 -> NH3",
+        "NH3 + O2 -> NO2"
+      ],
+      "correctAnswer": "C6H12O6 + O2 -> CO2 + H2O",
+      "id": 29
+    },
+    {
+      "question": "Which human activities interfere with the carbon-oxygen cycle according to the textbook?",
+      "options": [
+        "Fishing and hunting",
+        "Illegal logging, forest burning, burning fields, excessive use of pesticides, and excessive release of smoke from vehicles",
+        "Building houses and roads",
+        "Farming and planting"
+      ],
+      "correctAnswer": "Illegal logging, forest burning, burning fields, excessive use of pesticides, and excessive release of smoke from vehicles",
+      "id": 30
+    },
+    {
+      "question": "Which of the following is a way to reduce interference with the carbon and oxygen cycles?",
+      "options": [
+        "Burning more forests",
+        "Planting more trees",
+        "Increasing factory emissions",
+        "Cutting down more trees"
+      ],
+      "correctAnswer": "Planting more trees",
+      "id": 31
+    },
+    {
+      "question": "In the oxygen cycle, oxygen is continuously taken from the atmosphere by which processes?",
+      "options": [
+        "Photosynthesis only",
+        "Respiration, decomposition, combustion, and rusting",
+        "Only respiration",
+        "Only combustion"
+      ],
+      "correctAnswer": "Respiration, decomposition, combustion, and rusting",
+      "id": 32
+    },
+    {
+      "question": "What process balances oxygen removal by releasing oxygen back to the air?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Combustion"
+      ],
+      "correctAnswer": "Photosynthesis",
+      "id": 33
+    }
+  ]
+}

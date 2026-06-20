@@ -1,0 +1,2054 @@
+{
+  "title": "3.1.3 Organic Molecules",
+  "description": "Carbohydrates, lipids, proteins, and nucleic acids.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade10",
+    "biochemistry"
+  ],
+  "questions": [
+    {
+      "question": "What is an organic molecule?",
+      "options": [
+        "A compound that contains carbon and is found in living things",
+        "A molecule that contains only oxygen and hydrogen",
+        "Any molecule found in the environment",
+        "A molecule that does not contain carbon"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "A compound that contains carbon and is found in living things",
+      "id": 1
+    },
+    {
+      "question": "Why does carbon form the basis of organic life?",
+      "options": [
+        "Carbon is non-reactive",
+        "Carbon is the lightest element",
+        "Carbon's ability to form large and complex molecules via covalent bonding",
+        "Carbon is the most abundant element"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Carbon's ability to form large and complex molecules via covalent bonding",
+      "id": 2
+    },
+    {
+      "question": "What are the four principal groups of organic compounds?",
+      "options": [
+        "Carbohydrates, lipids, proteins, and nucleic acids",
+        "Sugars, fats, vitamins, and minerals",
+        "Water, salts, acids, and bases",
+        "Enzymes, hormones, DNA, and RNA"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Carbohydrates, lipids, proteins, and nucleic acids",
+      "id": 3
+    },
+    {
+      "question": "What are monomers?",
+      "options": [
+        "Inorganic ions",
+        "Large complex molecules",
+        "Small, single molecular units that combine to form polymers",
+        "Long chains of repeating units"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Small, single molecular units that combine to form polymers",
+      "id": 4
+    },
+    {
+      "question": "What type of bonds connect monomers to create polymers?",
+      "options": [
+        "Hydrogen bonds",
+        "Van der Waals forces",
+        "Ionic bonds",
+        "Strong covalent bonds"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Strong covalent bonds",
+      "id": 5
+    },
+    {
+      "question": "What are the monomers of proteins?",
+      "options": [
+        "Fatty acids",
+        "Amino acids",
+        "Nucleotides",
+        "Monosaccharides"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Amino acids",
+      "id": 6
+    },
+    {
+      "question": "What are the monomers of lipids?",
+      "options": [
+        "Monosaccharides",
+        "Glycerol and fatty acid",
+        "Amino acids",
+        "Nucleotides"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Glycerol and fatty acid",
+      "id": 7
+    },
+    {
+      "question": "What are the monomers of carbohydrates?",
+      "options": [
+        "Nucleotides",
+        "Amino acids",
+        "Fatty acids",
+        "Monosaccharides"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Monosaccharides",
+      "id": 8
+    },
+    {
+      "question": "What are the monomers of nucleic acids?",
+      "options": [
+        "Amino acids",
+        "Fatty acids",
+        "Nucleotides",
+        "Monosaccharides"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Nucleotides",
+      "id": 9
+    },
+    {
+      "question": "Which elements make up proteins?",
+      "options": [
+        "C, H, O, and N",
+        "C, H, O only",
+        "C, H, O, N, and P",
+        "C, H, O, N, and sometimes P and S"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "C, H, O, N, and sometimes P and S",
+      "id": 10
+    },
+    {
+      "question": "Which elements make up carbohydrates?",
+      "options": [
+        "Carbon, hydrogen, and oxygen",
+        "Hydrogen, oxygen, and sulfur",
+        "Carbon, hydrogen, and nitrogen",
+        "Carbon, oxygen, and phosphorus"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Carbon, hydrogen, and oxygen",
+      "id": 11
+    },
+    {
+      "question": "Which elements make up nucleic acids?",
+      "options": [
+        "C, H, O, N, and P",
+        "C, H, O, N",
+        "C, H, O",
+        "C, H, O, N, and S"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "C, H, O, N, and P",
+      "id": 12
+    },
+    {
+      "question": "What is the ratio of hydrogen to oxygen in carbohydrates?",
+      "options": [
+        "1:2",
+        "3:1",
+        "1:1",
+        "2:1"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "2:1",
+      "id": 13
+    },
+    {
+      "question": "What are the three main groups of carbohydrates?",
+      "options": [
+        "Trioses, pentoses, and hexoses",
+        "Glucose, fructose, and galactose",
+        "Monosaccharides, disaccharides, and polysaccharides",
+        "Starch, glycogen, and cellulose"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Monosaccharides, disaccharides, and polysaccharides",
+      "id": 14
+    },
+    {
+      "question": "What is a monosaccharide?",
+      "options": [
+        "A type of lipid",
+        "A long chain of sugar units",
+        "A molecule containing two sugar units",
+        "A molecule containing only one sugar unit"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "A molecule containing only one sugar unit",
+      "id": 15
+    },
+    {
+      "question": "How do monosaccharides dissolve in water?",
+      "options": [
+        "They are insoluble",
+        "They dissolve quickly, forming sweet-tasting solutions",
+        "They dissolve slowly",
+        "They react with water to form acids"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "They dissolve quickly, forming sweet-tasting solutions",
+      "id": 16
+    },
+    {
+      "question": "What is the general formula of monosaccharides?",
+      "options": [
+        "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
+        "C\u2086H\u2081\u2082O\u2086",
+        "C\u2099H\u2082\u2099O\u2099",
+        "(CH\u2082O)\u2099"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "(CH\u2082O)\u2099",
+      "id": 17
+    },
+    {
+      "question": "What is the ratio of carbon to hydrogen to oxygen in monosaccharides?",
+      "options": [
+        "2:1:1",
+        "1:2:3",
+        "1:2:1",
+        "2:1:2"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "1:2:1",
+      "id": 18
+    },
+    {
+      "question": "Which monosaccharides are classified as trioses?",
+      "options": [
+        "3-carbon sugars",
+        "5-carbon sugars",
+        "4-carbon sugars",
+        "6-carbon sugars"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "3-carbon sugars",
+      "id": 19
+    },
+    {
+      "question": "What is the chemical formula for hexose sugar?",
+      "options": [
+        "C\u2083H\u2086O\u2083",
+        "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
+        "C\u2086H\u2081\u2082O\u2086",
+        "C\u2085H\u2081\u2080O\u2085"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "C\u2086H\u2081\u2082O\u2086",
+      "id": 20
+    },
+    {
+      "question": "What is the relationship between glucose, galactose, and fructose?",
+      "options": [
+        "They are isomers with the same chemical formula but different structures",
+        "They have different chemical formulas",
+        "They are all polysaccharides",
+        "They are all disaccharides"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "They are isomers with the same chemical formula but different structures",
+      "id": 21
+    },
+    {
+      "question": "What is the chemical formula shared by glucose, galactose, and fructose?",
+      "options": [
+        "C\u2083H\u2086O\u2083",
+        "C\u2085H\u2081\u2080O\u2085",
+        "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
+        "C\u2086H\u2081\u2082O\u2086"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "C\u2086H\u2081\u2082O\u2086",
+      "id": 22
+    },
+    {
+      "question": "What is the primary role of monosaccharides in living organisms?",
+      "options": [
+        "Source of energy in respiration",
+        "Structural support",
+        "Genetic information storage",
+        "Catalyzing reactions"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Source of energy in respiration",
+      "id": 23
+    },
+    {
+      "question": "What is released when carbon-hydrogen bonds in monosaccharides are broken?",
+      "options": [
+        "A large amount of energy transferred to help make ATP",
+        "Carbon dioxide",
+        "Water",
+        "Oxygen"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "A large amount of energy transferred to help make ATP",
+      "id": 24
+    },
+    {
+      "question": "What is the most important monosaccharide in energy metabolism?",
+      "options": [
+        "Ribose",
+        "Galactose",
+        "Fructose",
+        "Glucose"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Glucose",
+      "id": 25
+    },
+    {
+      "question": "Which pentose sugar is used to make RNA and ATP?",
+      "options": [
+        "Ribose",
+        "Fructose",
+        "Glucose",
+        "Deoxyribose"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Ribose",
+      "id": 26
+    },
+    {
+      "question": "Which pentose sugar is used to make DNA?",
+      "options": [
+        "Fructose",
+        "Ribose",
+        "Deoxyribose",
+        "Glucose"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Deoxyribose",
+      "id": 27
+    },
+    {
+      "question": "What is the formula for disaccharides?",
+      "options": [
+        "C\u2086H\u2081\u2082O\u2086",
+        "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
+        "C\u2083H\u2086O\u2083",
+        "C\u2085H\u2081\u2080O\u2085"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
+      "id": 28
+    },
+    {
+      "question": "What are disaccharides formed from?",
+      "options": [
+        "Many monosaccharides",
+        "Two monosaccharides",
+        "One monosaccharide",
+        "Three monosaccharides"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Two monosaccharides",
+      "id": 29
+    },
+    {
+      "question": "What is maltose composed of?",
+      "options": [
+        "Glucose and galactose",
+        "Glucose and fructose",
+        "Galactose and fructose",
+        "Glucose and glucose"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Glucose and glucose",
+      "id": 30
+    },
+    {
+      "question": "What is lactose composed of?",
+      "options": [
+        "Glucose and glucose",
+        "Fructose and galactose",
+        "Glucose and galactose",
+        "Glucose and fructose"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Glucose and galactose",
+      "id": 31
+    },
+    {
+      "question": "What is sucrose composed of?",
+      "options": [
+        "Glucose and fructose",
+        "Fructose and galactose",
+        "Glucose and glucose",
+        "Glucose and galactose"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Glucose and fructose",
+      "id": 32
+    },
+    {
+      "question": "What is maltose the product of?",
+      "options": [
+        "Breakdown of starch catalyzed by the enzyme amylase",
+        "Breakdown of cellulose",
+        "Breakdown of glycogen",
+        "Synthesis of glucose"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Breakdown of starch catalyzed by the enzyme amylase",
+      "id": 33
+    },
+    {
+      "question": "What is the transport sugar in plants?",
+      "options": [
+        "Glucose",
+        "Maltose",
+        "Lactose",
+        "Sucrose"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Sucrose",
+      "id": 34
+    },
+    {
+      "question": "Which disaccharide is commonly found in milk?",
+      "options": [
+        "Fructose",
+        "Maltose",
+        "Sucrose",
+        "Lactose"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Lactose",
+      "id": 35
+    },
+    {
+      "question": "What are the three most important polysaccharides?",
+      "options": [
+        "Glucose, fructose, and galactose",
+        "Starch, glycogen, and cellulose",
+        "Maltose, lactose, and sucrose",
+        "Chitin, pectin, and lignin"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Starch, glycogen, and cellulose",
+      "id": 36
+    },
+    {
+      "question": "What are polysaccharides made of?",
+      "options": [
+        "Polymers of amino acids",
+        "Polymers of nucleotides",
+        "Polymers of monomer glucose",
+        "Polymers of fatty acids"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Polymers of monomer glucose",
+      "id": 37
+    },
+    {
+      "question": "Why is glucose converted to storage polysaccharides in cells?",
+      "options": [
+        "To increase cell concentration",
+        "To increase cell volume",
+        "To make the cell more acidic",
+        "Because glucose would dissolve and compromise the cell's osmotic properties"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Because glucose would dissolve and compromise the cell's osmotic properties",
+      "id": 38
+    },
+    {
+      "question": "What type of reaction converts glucose to a storage polysaccharide?",
+      "options": [
+        "Reduction",
+        "Hydrolysis",
+        "Oxidation",
+        "Condensation reactions"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Condensation reactions",
+      "id": 39
+    },
+    {
+      "question": "What are the characteristics of a storage polysaccharide?",
+      "options": [
+        "Reactive and soluble",
+        "Convenient, compact, inert, and insoluble",
+        "Acidic and corrosive",
+        "Toxic and volatile"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Convenient, compact, inert, and insoluble",
+      "id": 40
+    },
+    {
+      "question": "What is the storage polysaccharide in plants?",
+      "options": [
+        "Starch",
+        "Cellulose",
+        "Chitin",
+        "Glycogen"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Starch",
+      "id": 41
+    },
+    {
+      "question": "What is the storage polysaccharide in animals?",
+      "options": [
+        "Chitin",
+        "Glycogen",
+        "Starch",
+        "Cellulose"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Glycogen",
+      "id": 42
+    },
+    {
+      "question": "Where do plants store surplus glucose as starch?",
+      "options": [
+        "In various plant components such as roots and seeds",
+        "Only in flowers",
+        "Only in stems",
+        "Only in leaves"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "In various plant components such as roots and seeds",
+      "id": 43
+    },
+    {
+      "question": "What is glycogen?",
+      "options": [
+        "The storage form of glucose in humans and animals",
+        "The plant storage form of glucose",
+        "A structural polysaccharide in plants",
+        "A type of disaccharide"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "The storage form of glucose in humans and animals",
+      "id": 44
+    },
+    {
+      "question": "Glycogen is the animal analogue of which polysaccharide?",
+      "options": [
+        "Starch",
+        "Cellulose",
+        "Chitin",
+        "Maltose"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Starch",
+      "id": 45
+    },
+    {
+      "question": "Where is glycogen often stored in the body?",
+      "options": [
+        "In the brain and heart",
+        "In the skin and bones",
+        "In liver and muscle cells",
+        "In the lungs and kidneys"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "In liver and muscle cells",
+      "id": 46
+    },
+    {
+      "question": "What happens to glycogen if glucose levels fall?",
+      "options": [
+        "It is excreted",
+        "It remains unchanged",
+        "It is converted to fat",
+        "It is broken down to release glucose"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "It is broken down to release glucose",
+      "id": 47
+    },
+    {
+      "question": "What percentage of liver mass can glycogen constitute in mammals?",
+      "options": [
+        "25 percent",
+        "50 percent",
+        "Up to 10 percent",
+        "1-2 percent"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Up to 10 percent",
+      "id": 48
+    },
+    {
+      "question": "What percentage of muscle mass can glycogen constitute in mammals?",
+      "options": [
+        "Up to 10 percent",
+        "20 percent",
+        "5 percent",
+        "1-2 percent"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "1-2 percent",
+      "id": 49
+    },
+    {
+      "question": "What supplies energy for muscle contraction during exercise?",
+      "options": [
+        "Muscle glycogen",
+        "Blood glucose",
+        "Body fat",
+        "Liver glycogen"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Muscle glycogen",
+      "id": 50
+    },
+    {
+      "question": "What is cellulose?",
+      "options": [
+        "A type of disaccharide",
+        "A type of lipid",
+        "A naturally occurring biopolymer that is abundant",
+        "A storage polysaccharide in animals"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "A naturally occurring biopolymer that is abundant",
+      "id": 51
+    },
+    {
+      "question": "What are plant cell walls mostly made of?",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Chitin"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Cellulose",
+      "id": 52
+    },
+    {
+      "question": "What gives cellulose its rigidity and high strength?",
+      "options": [
+        "Hydrogen bonds with water",
+        "Every other glucose monomer is densely packed as long extended chains",
+        "Its lipid content",
+        "Its protein content"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Every other glucose monomer is densely packed as long extended chains",
+      "id": 53
+    },
+    {
+      "question": "What is dietary fibre that passes through the digestive system?",
+      "options": [
+        "Cellulose",
+        "Glycogen",
+        "Starch",
+        "Glucose"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Cellulose",
+      "id": 54
+    },
+    {
+      "question": "Why can herbivores digest cellulose while humans cannot?",
+      "options": [
+        "Herbivores have stronger teeth",
+        "Herbivores produce different stomach acid",
+        "Bacteria in their rumens secrete the enzyme cellulase to degrade cellulose",
+        "Herbivores have longer intestines"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Bacteria in their rumens secrete the enzyme cellulase to degrade cellulose",
+      "id": 55
+    },
+    {
+      "question": "What enzyme degrades cellulose into glucose monomers?",
+      "options": [
+        "Amylase",
+        "Cellulase",
+        "Pepsin",
+        "Lipase"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Cellulase",
+      "id": 56
+    },
+    {
+      "question": "The strength of cellulose fibres is roughly similar to which material?",
+      "options": [
+        "Plastic",
+        "Steel",
+        "Wood",
+        "Rubber"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Steel",
+      "id": 57
+    },
+    {
+      "question": "What is one of the major functions of carbohydrates?",
+      "options": [
+        "Transport of oxygen",
+        "Primary source of energy for most organisms",
+        "Catalyzing biochemical reactions",
+        "Storage of genetic information"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Primary source of energy for most organisms",
+      "id": 58
+    },
+    {
+      "question": "Chitin is involved in the formation of which structure?",
+      "options": [
+        "Plant cell wall",
+        "Animal cell membrane",
+        "Bacterial cell wall",
+        "Fungal cell wall"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Fungal cell wall",
+      "id": 59
+    },
+    {
+      "question": "Cellulose is an important component of which diet?",
+      "options": [
+        "Ruminant diet",
+        "Carnivore diet",
+        "Fish diet",
+        "Insect diet"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Ruminant diet",
+      "id": 60
+    },
+    {
+      "question": "Which reagent is used in Benedict's test for reducing sugars?",
+      "options": [
+        "Xanthoproteic reagent",
+        "Biuret reagent",
+        "Iodine reagent",
+        "Benedict's reagent"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Benedict's reagent",
+      "id": 61
+    },
+    {
+      "question": "What colour is Benedict's reagent?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Blue",
+      "id": 62
+    },
+    {
+      "question": "What colour change occurs in Benedict's test when a reducing sugar is present?",
+      "options": [
+        "Colourless to blue",
+        "Red to blue",
+        "Blue to green",
+        "Blue to brick-red"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Blue to brick-red",
+      "id": 63
+    },
+    {
+      "question": "What is formed as a precipitate in Benedict's test?",
+      "options": [
+        "Blue copper sulphate",
+        "White precipitate",
+        "Brick-red copper oxide",
+        "Yellow iodine complex"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Brick-red copper oxide",
+      "id": 64
+    },
+    {
+      "question": "Which common disaccharide is a non-reducing sugar?",
+      "options": [
+        "Lactose",
+        "Sucrose",
+        "Maltose",
+        "All disaccharides are reducing"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Sucrose",
+      "id": 65
+    },
+    {
+      "question": "What colour change is observed when iodine reagent is added to starch?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Blue",
+      "id": 66
+    },
+    {
+      "question": "What are lipids?",
+      "options": [
+        "Polymers of amino acids",
+        "Molecules soluble in water",
+        "Diverse groups of biomolecules insoluble in water but soluble in non-polar solvents",
+        "Simple sugars"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Diverse groups of biomolecules insoluble in water but soluble in non-polar solvents",
+      "id": 67
+    },
+    {
+      "question": "In which solvents are lipids soluble?",
+      "options": [
+        "Water and alcohol",
+        "Only acids",
+        "Ether, chloroform, and acetone",
+        "Only water"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Ether, chloroform, and acetone",
+      "id": 68
+    },
+    {
+      "question": "What is the state of fats at room temperature?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Viscous"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Solid",
+      "id": 69
+    },
+    {
+      "question": "What is the state of oils at room temperature?",
+      "options": [
+        "Gas",
+        "Liquid",
+        "Solid",
+        "Semi-solid"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Liquid",
+      "id": 70
+    },
+    {
+      "question": "True lipids are organic compounds formed by what combining with alcohol?",
+      "options": [
+        "Nucleotides",
+        "Amino acids",
+        "Fatty acids",
+        "Monosaccharides"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Fatty acids",
+      "id": 71
+    },
+    {
+      "question": "What are the polymers that make up lipids?",
+      "options": [
+        "Amino acids and nucleotides",
+        "Glucose and fructose",
+        "Fatty acids and glycerol molecules",
+        "Nucleotides and phosphate"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Fatty acids and glycerol molecules",
+      "id": 72
+    },
+    {
+      "question": "What is the general formula for fatty acids?",
+      "options": [
+        "C\u2086H\u2081\u2082O\u2086",
+        "RCH(NH\u2082)COOH",
+        "(CH\u2082O)\u2099",
+        "CH\u2083(CH\u2082)\u2099COOH"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "CH\u2083(CH\u2082)\u2099COOH",
+      "id": 73
+    },
+    {
+      "question": "What is the acidic group found in fatty acids called?",
+      "options": [
+        "Carboxyl group",
+        "Phosphate group",
+        "Hydroxyl group",
+        "Amine group"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Carboxyl group",
+      "id": 74
+    },
+    {
+      "question": "How many carbon atoms long is the hydrocarbon chain of a fatty acid typically?",
+      "options": [
+        "20 or 22",
+        "10 or 12",
+        "15 or 17",
+        "5 or 7"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "15 or 17",
+      "id": 75
+    },
+    {
+      "question": "What distinguishes unsaturated fatty acids from saturated fatty acids?",
+      "options": [
+        "Unsaturated ones are solid at room temperature",
+        "Unsaturated ones have no carbon atoms",
+        "Unsaturated ones have more hydrogen",
+        "Unsaturated ones contain one or more double bonds"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Unsaturated ones contain one or more double bonds",
+      "id": 76
+    },
+    {
+      "question": "What effect do double bonds have on fatty acids and lipids?",
+      "options": [
+        "They make them insoluble in non-polar solvents",
+        "They have no effect on melting",
+        "They make them melt more easily",
+        "They make them more solid"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "They make them melt more easily",
+      "id": 77
+    },
+    {
+      "question": "What describes a fatty acid with more than one double bond?",
+      "options": [
+        "Hydrogenated",
+        "Polyunsaturated",
+        "Mono-unsaturated",
+        "Saturated"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Polyunsaturated",
+      "id": 78
+    },
+    {
+      "question": "What describes a fatty acid with only one double bond?",
+      "options": [
+        "Polyunsaturated",
+        "Trans-fat",
+        "Saturated",
+        "Mono-unsaturated"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Mono-unsaturated",
+      "id": 79
+    },
+    {
+      "question": "What type of lipids are plant lipids often found as?",
+      "options": [
+        "Solid fats",
+        "Steroids",
+        "Unsaturated oils",
+        "Waxes"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Unsaturated oils",
+      "id": 80
+    },
+    {
+      "question": "What type of lipids are animal lipids often found as?",
+      "options": [
+        "Phospholipids",
+        "Waxes",
+        "Saturated animal fat",
+        "Unsaturated oils"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Saturated animal fat",
+      "id": 81
+    },
+    {
+      "question": "Where is fat stored in the human body?",
+      "options": [
+        "In the lungs",
+        "In the bones",
+        "Just below the dermis of the skin and around the kidneys",
+        "In the brain and heart"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Just below the dermis of the skin and around the kidneys",
+      "id": 82
+    },
+    {
+      "question": "What function does fat serve below the skin?",
+      "options": [
+        "Insulator against loss of heat",
+        "Vitamin synthesis",
+        "Oxygen transport",
+        "Energy production"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Insulator against loss of heat",
+      "id": 83
+    },
+    {
+      "question": "What replaces one of the three fatty acid molecules in a phospholipid?",
+      "options": [
+        "Carboxyl group",
+        "Phosphate group",
+        "Hydroxyl group",
+        "Amino group"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Phosphate group",
+      "id": 84
+    },
+    {
+      "question": "What property does the phosphate group have in a phospholipid?",
+      "options": [
+        "It is polar and dissolves in water",
+        "It is insoluble",
+        "It is hydrophobic",
+        "It is non-polar"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "It is polar and dissolves in water",
+      "id": 85
+    },
+    {
+      "question": "The phosphate group in a phospholipid is described as what?",
+      "options": [
+        "Lipophilic",
+        "Hydro-neutral",
+        "Hydrophobic",
+        "Hydrophilic"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Hydrophilic",
+      "id": 86
+    },
+    {
+      "question": "The two remaining tails in a phospholipid molecule are described as what?",
+      "options": [
+        "Hydrophobic",
+        "Water-loving",
+        "Polar",
+        "Hydrophilic"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Hydrophobic",
+      "id": 87
+    },
+    {
+      "question": "How do phospholipids arrange themselves around a cell?",
+      "options": [
+        "Hydrophobic heads face outward",
+        "Hydrophilic heads lie in watery solutions outside the membrane, hydrophobic tails form an impermeable layer",
+        "They form a single layer",
+        "They dissolve in the cytoplasm"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Hydrophilic heads lie in watery solutions outside the membrane, hydrophobic tails form an impermeable layer",
+      "id": 88
+    },
+    {
+      "question": "What type of fats are stored in specialized cells called adipose cells?",
+      "options": [
+        "Fats serve as major fuel store and poor conductors of heat",
+        "Waxes",
+        "Unsaturated fats",
+        "Phospholipids"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Fats serve as major fuel store and poor conductors of heat",
+      "id": 89
+    },
+    {
+      "question": "Lipids serve as precursors for the synthesis of which vitamins and substances?",
+      "options": [
+        "Vitamin A and E",
+        "Vitamin C and B vitamins",
+        "Vitamin K and folate",
+        "Vitamin D, bile acids, and hormones"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Vitamin D, bile acids, and hormones",
+      "id": 90
+    },
+    {
+      "question": "Which sex hormones are derived from cholesterol?",
+      "options": [
+        "Only insulin",
+        "Only estrogen",
+        "Progesterone, estrogen, and testosterone",
+        "Only testosterone"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Progesterone, estrogen, and testosterone",
+      "id": 91
+    },
+    {
+      "question": "What gives fruits and leaves their shiny appearance?",
+      "options": [
+        "Waxes",
+        "Oils",
+        "Proteins",
+        "Carbohydrates"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Waxes",
+      "id": 92
+    },
+    {
+      "question": "What function do waxes serve on animals, birds, and insects?",
+      "options": [
+        "Water barrier and protection against cold",
+        "Oxygen transport",
+        "Structural support",
+        "Energy storage"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Water barrier and protection against cold",
+      "id": 93
+    },
+    {
+      "question": "What elements do proteins contain?",
+      "options": [
+        "Hydrogen, oxygen, and nitrogen only",
+        "Carbon, hydrogen, oxygen, and nitrogen, and sometimes phosphorus and sulphur",
+        "Carbon, nitrogen, and phosphorus only",
+        "Carbon, hydrogen, and oxygen only"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Carbon, hydrogen, oxygen, and nitrogen, and sometimes phosphorus and sulphur",
+      "id": 94
+    },
+    {
+      "question": "What is the general formula for amino acids in proteins?",
+      "options": [
+        "C\u2086H\u2081\u2082O\u2086",
+        "(CH\u2082O)\u2099",
+        "RCH(NH\u2082)COOH",
+        "CH\u2083(CH\u2082)\u2099COOH"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "RCH(NH\u2082)COOH",
+      "id": 95
+    },
+    {
+      "question": "What are the monomers that make up proteins?",
+      "options": [
+        "Monosaccharides",
+        "Nucleotides",
+        "Fatty acids",
+        "Amino acids"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Amino acids",
+      "id": 96
+    },
+    {
+      "question": "What percentage of the dry mass of most cells is protein?",
+      "options": [
+        "10 percent",
+        "More than 50 percent",
+        "25 percent",
+        "75 percent"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "More than 50 percent",
+      "id": 97
+    },
+    {
+      "question": "What are the four groups bonded to a central carbon atom in an amino acid?",
+      "options": [
+        "Carboxyl group, methyl group, oxygen atom, and R group",
+        "Amino group, hydroxyl group, hydrogen atom, and carbon chain",
+        "Hydroxyl group, phosphate group, sulfur group, and R group",
+        "Amino group, carboxylic acid group, hydrogen atom, and R group"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Amino group, carboxylic acid group, hydrogen atom, and R group",
+      "id": 98
+    },
+    {
+      "question": "What is the R group in an amino acid?",
+      "options": [
+        "A carboxyl group",
+        "A phosphate group",
+        "The side chain that varies in different amino acids",
+        "Always the same in all amino acids"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "The side chain that varies in different amino acids",
+      "id": 99
+    },
+    {
+      "question": "How many different amino acids occur in the proteins of living organisms?",
+      "options": [
+        "15",
+        "10",
+        "20",
+        "25"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "20",
+      "id": 100
+    },
+    {
+      "question": "What type of bond joins amino acids together?",
+      "options": [
+        "Peptide bond",
+        "Hydrogen bond",
+        "Ionic bond",
+        "Glycosidic bond"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Peptide bond",
+      "id": 101
+    },
+    {
+      "question": "What is formed when two amino acids are linked together?",
+      "options": [
+        "A polypeptide",
+        "A polysaccharide",
+        "A dipeptide",
+        "A nucleotide"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "A dipeptide",
+      "id": 102
+    },
+    {
+      "question": "What is a molecule made of many amino acids linked by peptide bonds called?",
+      "options": [
+        "A polynucleotide",
+        "A dipeptide",
+        "A polysaccharide",
+        "A polypeptide"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "A polypeptide",
+      "id": 103
+    },
+    {
+      "question": "Where do ribosomes function in relation to amino acids?",
+      "options": [
+        "They store amino acids",
+        "They transport amino acids",
+        "They are the sites where amino acids are joined together to form polypeptides",
+        "They break down amino acids"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "They are the sites where amino acids are joined together to form polypeptides",
+      "id": 104
+    },
+    {
+      "question": "What type of reaction breaks peptide bonds by adding water?",
+      "options": [
+        "Condensation",
+        "Hydrolysis",
+        "Reduction",
+        "Oxidation"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Hydrolysis",
+      "id": 105
+    },
+    {
+      "question": "Where does hydrolysis of proteins occur naturally during digestion?",
+      "options": [
+        "In the liver",
+        "In the stomach and small intestine",
+        "In the mouth and oesophagus",
+        "In the large intestine only"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "In the stomach and small intestine",
+      "id": 106
+    },
+    {
+      "question": "What are globular proteins?",
+      "options": [
+        "Proteins that have only structural roles",
+        "Proteins whose molecules curl up into a ball shape",
+        "Proteins that form long strands",
+        "Proteins that are insoluble in water"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Proteins whose molecules curl up into a ball shape",
+      "id": 107
+    },
+    {
+      "question": "What are examples of globular proteins?",
+      "options": [
+        "Keratin and collagen",
+        "Actin and myosin",
+        "Elastin and keratin",
+        "Enzymes, haemoglobin, and antibodies"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Enzymes, haemoglobin, and antibodies",
+      "id": 108
+    },
+    {
+      "question": "What are fibrous proteins?",
+      "options": [
+        "Proteins that curl into ball shapes",
+        "Proteins found in aqueous environments",
+        "Protein molecules that form long strands and are not usually soluble in water",
+        "Proteins involved in metabolic reactions"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Protein molecules that form long strands and are not usually soluble in water",
+      "id": 109
+    },
+    {
+      "question": "What are examples of fibrous proteins?",
+      "options": [
+        "Keratin and collagen",
+        "Insulin and glucagon",
+        "Enzymes and antibodies",
+        "Haemoglobin and myoglobin"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Keratin and collagen",
+      "id": 110
+    },
+    {
+      "question": "What is the function of structural proteins?",
+      "options": [
+        "They transport oxygen",
+        "They serve as structural elements of connective tissues, bones, tendons, cartilages, nails, hair, and horns",
+        "They store amino acids",
+        "They catalyze metabolic reactions"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "They serve as structural elements of connective tissues, bones, tendons, cartilages, nails, hair, and horns",
+      "id": 111
+    },
+    {
+      "question": "What are enzymes?",
+      "options": [
+        "Globular proteins that serve as biological catalysts",
+        "Structural proteins",
+        "Storage proteins",
+        "Transport proteins"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Globular proteins that serve as biological catalysts",
+      "id": 112
+    },
+    {
+      "question": "How do enzymes catalyze metabolic reactions?",
+      "options": [
+        "By increasing activation energy",
+        "By lowering the activation energy which increases the reaction rate",
+        "By consuming energy",
+        "By changing temperature"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "By lowering the activation energy which increases the reaction rate",
+      "id": 113
+    },
+    {
+      "question": "Which of the following are examples of protein enzymes?",
+      "options": [
+        "DNA polymerase, lysozyme, nitrogenase, and lipase",
+        "Trypsin and chymotrypsin",
+        "Amylase and maltase",
+        "Catalase and peroxidase"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "DNA polymerase, lysozyme, nitrogenase, and lipase",
+      "id": 114
+    },
+    {
+      "question": "What are protein hormones?",
+      "options": [
+        "Storage forms of energy",
+        "Polypeptides made of long chains of linked amino acids that regulate physiological processes",
+        "Globular proteins that catalyze reactions",
+        "Structural components of cell membranes"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Polypeptides made of long chains of linked amino acids that regulate physiological processes",
+      "id": 115
+    },
+    {
+      "question": "What are examples of protein hormones?",
+      "options": [
+        "Insulin and glucagon",
+        "Estrogen and testosterone",
+        "Adrenaline and cortisol",
+        "Growth hormone (GH) and follicle-stimulating hormone (FSH)"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Growth hormone (GH) and follicle-stimulating hormone (FSH)",
+      "id": 116
+    },
+    {
+      "question": "What are respiratory pigments in proteins?",
+      "options": [
+        "Structural proteins",
+        "Globular protein pigments that are typically water-soluble",
+        "Fibrous proteins",
+        "Storage proteins"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Globular protein pigments that are typically water-soluble",
+      "id": 117
+    },
+    {
+      "question": "What is the function of myoglobin?",
+      "options": [
+        "It transports oxygen in the blood",
+        "It provides oxygen to working muscles",
+        "It stores iron",
+        "It catalyzes reactions"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "It provides oxygen to working muscles",
+      "id": 118
+    },
+    {
+      "question": "What is the function of haemoglobin?",
+      "options": [
+        "It provides oxygen to working muscles",
+        "It transports oxygen to all tissues and organs via the blood",
+        "It digests proteins",
+        "It stores amino acids"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "It transports oxygen to all tissues and organs via the blood",
+      "id": 119
+    },
+    {
+      "question": "What are transport proteins?",
+      "options": [
+        "Enzymes that catalyze reactions",
+        "Hormones",
+        "Cell membrane components that create channels to transport specific molecules",
+        "Structural proteins"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Cell membrane components that create channels to transport specific molecules",
+      "id": 120
+    },
+    {
+      "question": "What are examples of transport proteins?",
+      "options": [
+        "Keratin and collagen",
+        "Collagen and elastin",
+        "Actin and myosin",
+        "Serum albumin, channel proteins, and carrier proteins"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Serum albumin, channel proteins, and carrier proteins",
+      "id": 121
+    },
+    {
+      "question": "What are motor proteins involved in?",
+      "options": [
+        "Muscle contraction and relaxation",
+        "Nerve conduction",
+        "Oxygen transport",
+        "Protein digestion"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Muscle contraction and relaxation",
+      "id": 122
+    },
+    {
+      "question": "What are examples of motor proteins?",
+      "options": [
+        "Haemoglobin and myoglobin",
+        "Ferritin and casein",
+        "Keratin and collagen",
+        "Actin, myosin, kinesin, and dynein"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Actin, myosin, kinesin, and dynein",
+      "id": 123
+    },
+    {
+      "question": "What is the function of storage proteins?",
+      "options": [
+        "They catalyze reactions",
+        "They serve as a storage reserve for amino acids and metal ions",
+        "They form cell membranes",
+        "They transport oxygen"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "They serve as a storage reserve for amino acids and metal ions",
+      "id": 124
+    },
+    {
+      "question": "What are examples of storage proteins?",
+      "options": [
+        "Actin and myosin",
+        "Ferritin, ovalbumin, and casein",
+        "Collagen and elastin",
+        "DNA polymerase and lysozyme"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Ferritin, ovalbumin, and casein",
+      "id": 125
+    },
+    {
+      "question": "Which organisms most commonly produce protein toxins?",
+      "options": [
+        "Viruses",
+        "Fungi",
+        "Plants",
+        "Bacteria"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Bacteria",
+      "id": 126
+    },
+    {
+      "question": "How do protein toxins from bacteria help the bacteria?",
+      "options": [
+        "They kill the host organism by causing cytotoxicity",
+        "They help in spore formation",
+        "They provide energy",
+        "They aid in reproduction"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "They kill the host organism by causing cytotoxicity",
+      "id": 127
+    },
+    {
+      "question": "What colour appears in the Biuret test when protein is present?",
+      "options": [
+        "Brick-red",
+        "Yellow",
+        "Blue",
+        "Mauve/purple"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Mauve/purple",
+      "id": 128
+    },
+    {
+      "question": "What does the Biuret test detect in an alkaline solution?",
+      "options": [
+        "Protein reacting with copper ions",
+        "Reducing sugars",
+        "Lipids dissolving in alcohol",
+        "Starch reacting with iodine"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Protein reacting with copper ions",
+      "id": 129
+    },
+    {
+      "question": "What does the Xanthoproteic test identify in proteins?",
+      "options": [
+        "Amino acids containing phenolic or indolic groups like phenylalanine, tyrosine, and tryptophan",
+        "Only lipids",
+        "All amino acids",
+        "Only carbohydrates"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Amino acids containing phenolic or indolic groups like phenylalanine, tyrosine, and tryptophan",
+      "id": 130
+    },
+    {
+      "question": "What is added to the sample in the Xanthoproteic test?",
+      "options": [
+        "Iodine reagent",
+        "Biuret solution",
+        "Concentrated nitric acid followed by NaOH",
+        "Benedict's reagent"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Concentrated nitric acid followed by NaOH",
+      "id": 131
+    },
+    {
+      "question": "What are nucleic acids?",
+      "options": [
+        "Polymers of monosaccharides",
+        "Polymers of amino acids",
+        "Chemical molecules made of phosphoric acid, sugars, and organic bases",
+        "Molecules that store fat"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Chemical molecules made of phosphoric acid, sugars, and organic bases",
+      "id": 132
+    },
+    {
+      "question": "What are the two main types of nucleic acids?",
+      "options": [
+        "Ribose and deoxyribose",
+        "ATP and ADP",
+        "DNA and RNA",
+        "mRNA and tRNA"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "DNA and RNA",
+      "id": 133
+    },
+    {
+      "question": "What are the smaller molecules that form DNA and RNA called?",
+      "options": [
+        "Nucleotides",
+        "Monosaccharides",
+        "Fatty acids",
+        "Amino acids"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Nucleotides",
+      "id": 134
+    },
+    {
+      "question": "In most organisms, where is genetic information carried?",
+      "options": [
+        "In the nucleotide sequences of DNA",
+        "In the fatty acid chains of lipids",
+        "In the amino acid sequences of proteins",
+        "In the polysaccharide chains"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "In the nucleotide sequences of DNA",
+      "id": 135
+    },
+    {
+      "question": "What are genes?",
+      "options": [
+        "The entire DNA molecule",
+        "Nucleotides",
+        "Entire chromosomes",
+        "Stretches of DNA that code for RNA and amino acids and therefore proteins"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Stretches of DNA that code for RNA and amino acids and therefore proteins",
+      "id": 136
+    },
+    {
+      "question": "What are the three components of a nucleotide?",
+      "options": [
+        "A nitrogen-containing base, a pentose sugar, and a phosphate group",
+        "Glycerol, fatty acid, and phosphate",
+        "Glucose, fructose, and galactose",
+        "Amino group, carboxyl group, and R group"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "A nitrogen-containing base, a pentose sugar, and a phosphate group",
+      "id": 137
+    },
+    {
+      "question": "How many different nitrogen-containing bases are found in DNA and RNA?",
+      "options": [
+        "Four",
+        "Three",
+        "Five",
+        "Six"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Five",
+      "id": 138
+    },
+    {
+      "question": "What are the four nitrogenous bases in DNA?",
+      "options": [
+        "Adenine, uracil, guanine, and cytosine",
+        "Adenine, thymine, guanine, and uracil",
+        "Adenine, thymine, guanine, and cytosine",
+        "Thymine, uracil, guanine, and cytosine"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Adenine, thymine, guanine, and cytosine",
+      "id": 139
+    },
+    {
+      "question": "Which nitrogenous base is present in RNA instead of thymine?",
+      "options": [
+        "Cytosine",
+        "Guanine",
+        "Uracil",
+        "Adenine"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Uracil",
+      "id": 140
+    },
+    {
+      "question": "Which base is found in DNA but replaced by uracil in RNA?",
+      "options": [
+        "Uracil",
+        "Guanine",
+        "Adenine",
+        "Thymine"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Thymine",
+      "id": 141
+    },
+    {
+      "question": "What determines the hereditary function of nucleic acids?",
+      "options": [
+        "The order and composition of different nucleotide sequences",
+        "The sugar component",
+        "The phosphate group",
+        "The length of the molecule"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "The order and composition of different nucleotide sequences",
+      "id": 142
+    },
+    {
+      "question": "What pentose sugar is found in RNA?",
+      "options": [
+        "Ribose",
+        "Deoxyribose",
+        "Fructose",
+        "Glucose"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Ribose",
+      "id": 143
+    },
+    {
+      "question": "What pentose sugar is found in DNA?",
+      "options": [
+        "Galactose",
+        "Glucose",
+        "Ribose",
+        "Deoxyribose"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Deoxyribose",
+      "id": 144
+    },
+    {
+      "question": "How does deoxyribose differ from ribose?",
+      "options": [
+        "It has no oxygen atom on its second carbon atom",
+        "It has an extra oxygen atom",
+        "It has no hydrogen atoms",
+        "It has an extra carbon atom"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "It has no oxygen atom on its second carbon atom",
+      "id": 145
+    },
+    {
+      "question": "What is the structure of DNA?",
+      "options": [
+        "Single-stranded",
+        "Triple helix",
+        "Double helix made of two strands of nucleotides",
+        "Circular single strand"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Double helix made of two strands of nucleotides",
+      "id": 146
+    },
+    {
+      "question": "What is the structure of RNA?",
+      "options": [
+        "Single-stranded",
+        "Circular double strand",
+        "Double helix",
+        "Triple helix"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Single-stranded",
+      "id": 147
+    },
+    {
+      "question": "What are the three types of RNA?",
+      "options": [
+        "DNA, RNA, and ATP",
+        "mRNA, rRNA, and tRNA",
+        "rRNA, DNA, and ATP",
+        "mRNA, DNA, and tRNA"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "mRNA, rRNA, and tRNA",
+      "id": 148
+    },
+    {
+      "question": "What is the function of DNA as genetic material?",
+      "options": [
+        "It stores all information required to be transferred to the next generation and has the property of replication",
+        "It catalyzes biochemical reactions",
+        "It transports amino acids",
+        "It provides structural support"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "It stores all information required to be transferred to the next generation and has the property of replication",
+      "id": 149
+    },
+    {
+      "question": "What is the process of copying DNA information to mRNA called?",
+      "options": [
+        "Transcription",
+        "Translation",
+        "Hydrolysis",
+        "Replication"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Transcription",
+      "id": 150
+    },
+    {
+      "question": "What is the process of translating the code in mRNA into amino acid sequences called?",
+      "options": [
+        "Translation",
+        "Replication",
+        "Transcription",
+        "Condensation"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Translation",
+      "id": 151
+    },
+    {
+      "question": "What is the role of mRNA?",
+      "options": [
+        "It provides amino acids for protein synthesis",
+        "It forms ribosomes",
+        "It stores genetic information",
+        "It moves the genetic code from DNA to ribosomes"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "It moves the genetic code from DNA to ribosomes",
+      "id": 152
+    },
+    {
+      "question": "What is the role of tRNA?",
+      "options": [
+        "It helps protein synthesis by providing a source of amino acids",
+        "It carries genetic code from DNA",
+        "It stores genetic information",
+        "It forms ribosomes"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "It helps protein synthesis by providing a source of amino acids",
+      "id": 153
+    },
+    {
+      "question": "What is the role of rRNA?",
+      "options": [
+        "It carries genetic code",
+        "It forms a complex with proteins making the structure of the ribosome",
+        "It transports mRNA",
+        "It provides amino acids"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "It forms a complex with proteins making the structure of the ribosome",
+      "id": 154
+    },
+    {
+      "question": "In some viruses, what acts as genetic material instead of DNA?",
+      "options": [
+        "Lipids",
+        "RNA",
+        "Proteins",
+        "Carbohydrates"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "RNA",
+      "id": 155
+    },
+    {
+      "question": "What is an RNA molecule with enzymatic activity called?",
+      "options": [
+        "Enzyme",
+        "Ribozyme",
+        "Holoenzyme",
+        "Catalyst"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Ribozyme",
+      "id": 156
+    },
+    {
+      "question": "Compared to DNA, how stable is RNA?",
+      "options": [
+        "More stable",
+        "Less stable and degraded quite quickly",
+        "RNA is not degraded at all",
+        "Equally stable"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "Less stable and degraded quite quickly",
+      "id": 157
+    },
+    {
+      "question": "How does the size of DNA compare to RNA?",
+      "options": [
+        "DNA is huge allowing it to carry code for many proteins while RNA is much smaller",
+        "They are the same size",
+        "DNA is much smaller",
+        "RNA is larger than DNA"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "DNA is huge allowing it to carry code for many proteins while RNA is much smaller",
+      "id": 158
+    },
+    {
+      "question": "Which element distinguishes nucleic acids from carbohydrates in terms of composition?",
+      "options": [
+        "Carbon",
+        "Oxygen",
+        "Phosphorus",
+        "Hydrogen"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Phosphorus",
+      "id": 159
+    },
+    {
+      "question": "Glycogen is a polysaccharide food reserve of which organisms?",
+      "options": [
+        "Animals, bacteria, and fungi",
+        "Only fungi",
+        "Only animals",
+        "Only plants"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Animals, bacteria, and fungi",
+      "id": 160
+    },
+    {
+      "question": "What type of starch-digesting enzyme is found in saliva?",
+      "options": [
+        "Cellulase",
+        "Lipase",
+        "Amylase",
+        "Pepsin"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Amylase",
+      "id": 161
+    },
+    {
+      "question": "What problem arises when excess glucose accumulates in cells without being stored as polysaccharide?",
+      "options": [
+        "It becomes a vitamin",
+        "It would dissolve and compromise the cell's osmotic properties",
+        "It provides more energy",
+        "It is excreted harmlessly"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "It would dissolve and compromise the cell's osmotic properties",
+      "id": 162
+    },
+    {
+      "question": "What does the cell wall of plants contain multiple layers of?",
+      "options": [
+        "Glycogen fibres",
+        "Protein fibres",
+        "Lipid layers",
+        "Cellulose fibres that run in different directions to boost strength"
+      ],
+      "answerIndex": 3,
+      "correctAnswer": "Cellulose fibres that run in different directions to boost strength",
+      "id": 163
+    },
+    {
+      "question": "What happens to a plant cell without a cell wall in a dilute fluid?",
+      "options": [
+        "It divides rapidly",
+        "It would explode",
+        "It shrinks",
+        "It remains unchanged"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "It would explode",
+      "id": 164
+    },
+    {
+      "question": "Despite their strength, what characteristic do cellulose fibres have?",
+      "options": [
+        "They dissolve in water",
+        "They are porous, allowing water and solutes to pass through",
+        "They are completely impermeable",
+        "They are brittle"
+      ],
+      "answerIndex": 1,
+      "correctAnswer": "They are porous, allowing water and solutes to pass through",
+      "id": 165
+    },
+    {
+      "question": "What hormones of the adrenal cortex are derived from cholesterol?",
+      "options": [
+        "Adrenaline and noradrenaline",
+        "Thyroxine and triiodothyronine",
+        "Cortisol and aldosterone",
+        "Insulin and glucagon"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Cortisol and aldosterone",
+      "id": 166
+    },
+    {
+      "question": "How many strands does DNA have?",
+      "options": [
+        "Two",
+        "One",
+        "Four",
+        "Three"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "Two",
+      "id": 167
+    },
+    {
+      "question": "How many strands does RNA have?",
+      "options": [
+        "One",
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "answerIndex": 0,
+      "correctAnswer": "One",
+      "id": 168
+    },
+    {
+      "question": "Reactants in a condensation reaction between amino acids produce what byproduct?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "A water molecule",
+        "Hydrogen gas"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "A water molecule",
+      "id": 169
+    },
+    {
+      "question": "What lipid type serves as protective coatings on skin, fur, feathers, fruits, and leaves?",
+      "options": [
+        "Steroids",
+        "Triglycerides",
+        "Waxes",
+        "Phospholipids"
+      ],
+      "answerIndex": 2,
+      "correctAnswer": "Waxes",
+      "id": 170
+    }
+  ]
+}

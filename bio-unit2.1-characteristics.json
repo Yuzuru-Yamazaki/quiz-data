@@ -1,0 +1,106 @@
+{
+  "title": "2.1 Characteristics of Plants",
+  "description": "Characteristics of plants — every fact from the textbook.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade10", "plants"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which statement describes plants as living things?",
+      "options": ["Plants do not grow", "Plants grow, reproduce and respond to changes in the environment", "Plants are non-living organisms", "Plants only reproduce through seeds"],
+      "correctAnswer": "Plants grow, reproduce and respond to changes in the environment"
+    },
+    {
+      "id": 2,
+      "question": "What type of cells make up plants?",
+      "options": ["Prokaryotic cells", "Many eukaryotic cells", "Single-celled organisms", "Cells without a nucleus"],
+      "correctAnswer": "Many eukaryotic cells"
+    },
+    {
+      "id": 3,
+      "question": "What structures do plant cells have that are well-defined?",
+      "options": ["Nuclei and membrane-bound organelles", "Only a cell wall", "Only chloroplasts", "Only a nucleus"],
+      "correctAnswer": "Nuclei and membrane-bound organelles"
+    },
+    {
+      "id": 4,
+      "question": "What is the rigid cell wall of plant cells primarily made of?",
+      "options": ["Chitin", "Peptidoglycan", "Cellulose", "Lignin"],
+      "correctAnswer": "Cellulose"
+    },
+    {
+      "id": 5,
+      "question": "Besides the cell membrane, what additional structure do plant cells have?",
+      "options": ["Flagellum", "A rigid cell wall", "Pili", "Capsule"],
+      "correctAnswer": "A rigid cell wall"
+    },
+    {
+      "id": 6,
+      "question": "What does the term autotrophic mean in relation to plants?",
+      "options": ["Plants feed on other organisms", "Plants are self-feeding", "Plants absorb dead matter", "Plants are parasitic"],
+      "correctAnswer": "Plants are self-feeding"
+    },
+    {
+      "id": 7,
+      "question": "Which green pigment enables plants to absorb sunlight and produce their own food?",
+      "options": ["Carotene", "Xanthophyll", "Chlorophyll", "Phycobilin"],
+      "correctAnswer": "Chlorophyll"
+    },
+    {
+      "id": 8,
+      "question": "What other name are plants called because they produce their own food?",
+      "options": ["Consumers", "Decomposers", "Producers", "Heterotrophs"],
+      "correctAnswer": "Producers"
+    },
+    {
+      "id": 9,
+      "question": "What does it mean that plants are sessile?",
+      "options": ["They can move freely", "They cannot move by themselves and remain fixed at one place", "They float on water", "They are carried by wind"],
+      "correctAnswer": "They cannot move by themselves and remain fixed at one place"
+    },
+    {
+      "id": 10,
+      "question": "How are plants firmly anchored to the soil?",
+      "options": ["By their stem", "By their leaves", "By their root", "By their flowers"],
+      "correctAnswer": "By their root"
+    },
+    {
+      "id": 11,
+      "question": "What response can the leaves of plants show?",
+      "options": ["Turn towards water", "Turn towards light and some respond to touch", "Move away from the sun", "Detach and fall"],
+      "correctAnswer": "Turn towards light and some respond to touch"
+    },
+    {
+      "id": 12,
+      "question": "What can the roots of plants orient towards?",
+      "options": ["Light", "Warmth", "Water or moist soil", "Air"],
+      "correctAnswer": "Water or moist soil"
+    },
+    {
+      "id": 13,
+      "question": "Which reproduction patterns do plants practice?",
+      "options": ["Only sexual reproduction", "Only asexual reproduction", "Asexual and sexual reproduction patterns", "Binary fission only"],
+      "correctAnswer": "Asexual and sexual reproduction patterns"
+    },
+    {
+      "id": 14,
+      "question": "What is the dominant form of reproduction in lower plants such as mosses and liverworts?",
+      "options": ["Sexual reproduction through flowers", "Asexual reproduction through spores", "Vegetative propagation", "Budding"],
+      "correctAnswer": "Asexual reproduction through spores"
+    },
+    {
+      "id": 15,
+      "question": "In which group of plants is sexual reproduction the dominant and visible form?",
+      "options": ["Mosses and liverworts", "Algae", "Gymnosperms and angiosperms", "Ferns"],
+      "correctAnswer": "Gymnosperms and angiosperms"
+    },
+    {
+      "id": 16,
+      "question": "What does sexual reproduction in higher plants involve?",
+      "options": ["Spore formation", "Fragmentation", "The union of gametes or sex cells", "Budding"],
+      "correctAnswer": "The union of gametes or sex cells"
+    }
+  ]
+}

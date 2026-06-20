@@ -1,0 +1,448 @@
+{
+  "title": "2.3 Structure and Function of Plant Parts",
+  "description": "Structure and function of plant parts — every fact from the textbook.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade10", "plants"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are the two major systems of the external structure of a typical angiosperm?",
+      "options": ["The root system and the flower system", "The shoot system and the root system", "The leaf system and the stem system", "The vascular system and the reproductive system"],
+      "correctAnswer": "The shoot system and the root system"
+    },
+    {
+      "id": 2,
+      "question": "What does the shoot system of a plant include?",
+      "options": ["Only leaves", "Stem, branches, leaves, buds, flowers and fruits", "Only flowers and fruits", "Roots and stems"],
+      "correctAnswer": "Stem, branches, leaves, buds, flowers and fruits"
+    },
+    {
+      "id": 3,
+      "question": "Where is the shoot system usually found?",
+      "options": ["Below the ground", "Above the ground", "Inside the soil", "Underwater"],
+      "correctAnswer": "Above the ground"
+    },
+    {
+      "id": 4,
+      "question": "What organs may be missing from the shoot system depending on the reproductive stage?",
+      "options": ["Stem and leaves", "Flowers and fruits", "Buds and branches", "Roots and stems"],
+      "correctAnswer": "Flowers and fruits"
+    },
+    {
+      "id": 5,
+      "question": "What does the root system include?",
+      "options": ["Primary or tap root, lateral or branch roots, root hairs and root cap", "Only the tap root", "Only root hairs", "Stem and leaves"],
+      "correctAnswer": "Primary or tap root, lateral or branch roots, root hairs and root cap"
+    },
+    {
+      "id": 6,
+      "question": "How are roots distinguished from underground stems?",
+      "options": ["Roots bear leaves", "Roots bear buds", "Roots do not bear either leaves or buds", "Roots are green"],
+      "correctAnswer": "Roots do not bear either leaves or buds"
+    },
+    {
+      "id": 7,
+      "question": "What are the external parts of a typical leaf?",
+      "options": ["Petiole, lamina, midrib, margin, base and tips", "Only the blade and petiole", "Only the midrib and margin", "Stem and petiole"],
+      "correctAnswer": "Petiole, lamina, midrib, margin, base and tips"
+    },
+    {
+      "id": 8,
+      "question": "Which part of the leaf is described as the broadest, flat, wide and commonly thin?",
+      "options": ["Petiole", "Midrib", "Lamina", "Margin"],
+      "correctAnswer": "Lamina"
+    },
+    {
+      "id": 9,
+      "question": "What does the broad and flat lamina provide for the leaf?",
+      "options": ["Large surface area to collect light", "Support against wind", "Water storage", "Protection from herbivores"],
+      "correctAnswer": "Large surface area to collect light"
+    },
+    {
+      "id": 10,
+      "question": "What does the thinness of the lamina create?",
+      "options": ["Short distance for gas exchange through stomata", "Long distance for water transport", "Storage space for food", "Protection from cold"],
+      "correctAnswer": "Short distance for gas exchange through stomata"
+    },
+    {
+      "id": 11,
+      "question": "What does the midrib of a leaf contain?",
+      "options": ["Only supportive tissues", "The vein (transporting vessels) and supportive tissues", "Only chlorophyll", "Only stomata"],
+      "correctAnswer": "The vein (transporting vessels) and supportive tissues"
+    },
+    {
+      "id": 12,
+      "question": "What are the two basic types of roots?",
+      "options": ["Primary and secondary roots", "Tap-roots and fibrous roots", "Aerial and underground roots", "Storage and breathing roots"],
+      "correctAnswer": "Tap-roots and fibrous roots"
+    },
+    {
+      "id": 13,
+      "question": "What is a characteristic of a tap-root system?",
+      "options": ["Many thin roots of similar size", "One large primary vertical root with few lateral roots", "Roots that grow from stems", "Roots that spread near the surface"],
+      "correctAnswer": "One large primary vertical root with few lateral roots"
+    },
+    {
+      "id": 14,
+      "question": "How does a tap-root provide stability?",
+      "options": ["By spreading near the surface", "By penetrating deep into the soil", "By forming a thick network", "By growing horizontally"],
+      "correctAnswer": "By penetrating deep into the soil"
+    },
+    {
+      "id": 15,
+      "question": "Which group of plants typically has a tap-root system?",
+      "options": ["Monocot plants", "Dicot plants", "All grasses", "Mosses"],
+      "correctAnswer": "Dicot plants"
+    },
+    {
+      "id": 16,
+      "question": "How is a fibrous root formed?",
+      "options": ["From one large primary root", "By thin moderately branching roots growing from stems", "From a single deep root", "By vertical growth only"],
+      "correctAnswer": "By thin moderately branching roots growing from stems"
+    },
+    {
+      "id": 17,
+      "question": "What are fibrous roots efficient at?",
+      "options": ["Penetrating deep soil", "Absorbing water and minerals close to the soil surface", "Storing food", "Anchoring against strong winds"],
+      "correctAnswer": "Absorbing water and minerals close to the soil surface"
+    },
+    {
+      "id": 18,
+      "question": "What ecological benefit do fibrous roots provide?",
+      "options": ["They prevent soil erosion by holding soil together", "They add nutrients to the soil", "They attract pollinators", "They cool the soil"],
+      "correctAnswer": "They prevent soil erosion by holding soil together"
+    },
+    {
+      "id": 19,
+      "question": "Which group of plants typically has fibrous roots?",
+      "options": ["Dicot plants", "Monocot plants", "All trees", "Gymnosperms"],
+      "correctAnswer": "Monocot plants"
+    },
+    {
+      "id": 20,
+      "question": "What is the outer layer of a leaf called?",
+      "options": ["Mesophyll", "Epidermis", "Cortex", "Endodermis"],
+      "correctAnswer": "Epidermis"
+    },
+    {
+      "id": 21,
+      "question": "What covers the upper epidermis of a leaf?",
+      "options": ["A waxy cuticle", "A layer of chlorophyll", "Stomata", "Root hairs"],
+      "correctAnswer": "A waxy cuticle"
+    },
+    {
+      "id": 22,
+      "question": "What is the function of the waxy cuticle on the upper epidermis?",
+      "options": ["Absorb sunlight", "Restrict water loss by evaporation", "Allow gas exchange", "Produce food"],
+      "correctAnswer": "Restrict water loss by evaporation"
+    },
+    {
+      "id": 23,
+      "question": "What type of cells are found in the lower epidermis that leave open spaces?",
+      "options": ["Palisade cells", "Guard cells", "Spongy cells", "Epidermal cells"],
+      "correctAnswer": "Guard cells"
+    },
+    {
+      "id": 24,
+      "question": "What are the open spaces in the lower epidermis called?",
+      "options": ["Cuticles", "Stomata", "Veins", "Air spaces"],
+      "correctAnswer": "Stomata"
+    },
+    {
+      "id": 25,
+      "question": "What functions do stomata regulate?",
+      "options": ["Only water intake", "Oxygen release, carbon dioxide intake and water loss", "Only food transport", "Only photosynthesis"],
+      "correctAnswer": "Oxygen release, carbon dioxide intake and water loss"
+    },
+    {
+      "id": 26,
+      "question": "Why are stomata more abundant in the lower epidermis of most leaves?",
+      "options": ["To absorb more sunlight", "To reduce water loss due to direct sunlight", "To increase photosynthesis", "To attract insects"],
+      "correctAnswer": "To reduce water loss due to direct sunlight"
+    },
+    {
+      "id": 27,
+      "question": "What is the middle layer of a leaf called?",
+      "options": ["Epidermis", "Mesophyll", "Cuticle", "Cortex"],
+      "correctAnswer": "Mesophyll"
+    },
+    {
+      "id": 28,
+      "question": "What are the two regions of the mesophyll layer?",
+      "options": ["Upper and lower epidermis", "Palisade layer and spongy layer", "Cortex and pith", "Xylem and phloem"],
+      "correctAnswer": "Palisade layer and spongy layer"
+    },
+    {
+      "id": 29,
+      "question": "How are palisade cells arranged?",
+      "options": ["Irregularly with many air spaces", "Regularly arranged and closely packed columnar cells", "Loosely packed round cells", "In a single layer of flat cells"],
+      "correctAnswer": "Regularly arranged and closely packed columnar cells"
+    },
+    {
+      "id": 30,
+      "question": "Which layer of the leaf contains the largest number of chloroplasts per cell?",
+      "options": ["Spongy layer", "Palisade layer", "Lower epidermis", "Upper epidermis"],
+      "correctAnswer": "Palisade layer"
+    },
+    {
+      "id": 31,
+      "question": "Why is the palisade layer best positioned for capturing sunlight?",
+      "options": ["It is near the lower epidermis", "It is immediately beneath the upper epidermis", "It is in the center of the leaf", "It has the most air spaces"],
+      "correctAnswer": "It is immediately beneath the upper epidermis"
+    },
+    {
+      "id": 32,
+      "question": "What do the slight separations between columnar cells in the palisade layer maximize?",
+      "options": ["Chlorophyll production", "Diffusion of carbon dioxide and capillary movement of water", "Heat absorption", "Water storage"],
+      "correctAnswer": "Diffusion of carbon dioxide and capillary movement of water"
+    },
+    {
+      "id": 33,
+      "question": "How are spongy layer cells characterized?",
+      "options": ["Regularly arranged with many chloroplasts", "Irregularly shaped with fewer chloroplasts and numerous air spaces", "Closely packed with no air spaces", "Columnar and elongated"],
+      "correctAnswer": "Irregularly shaped with fewer chloroplasts and numerous air spaces"
+    },
+    {
+      "id": 34,
+      "question": "What do the air spaces in the spongy layer allow?",
+      "options": ["Storage of food", "Diffusion of oxygen, water vapour and carbon dioxide", "Absorption of water", "Support for the leaf"],
+      "correctAnswer": "Diffusion of oxygen, water vapour and carbon dioxide"
+    },
+    {
+      "id": 35,
+      "question": "What is the outermost layer of a dicot stem called?",
+      "options": ["Cortex", "Endodermis", "Epidermis", "Pith"],
+      "correctAnswer": "Epidermis"
+    },
+    {
+      "id": 36,
+      "question": "What is the outer walls of the stem epidermis thickened with to minimize transpiration?",
+      "options": ["Chlorophyll", "Cuticles", "Starch", "Lignin"],
+      "correctAnswer": "Cuticles"
+    },
+    {
+      "id": 37,
+      "question": "What do the compactly arranged cells of the stem epidermis protect against?",
+      "options": ["Only water loss", "Mechanical injury and entry of harmful organisms", "Only sunlight", "Only heat"],
+      "correctAnswer": "Mechanical injury and entry of harmful organisms"
+    },
+    {
+      "id": 38,
+      "question": "What lies below the epidermis in a dicot stem?",
+      "options": ["Pith", "Cortex", "Hypodermis", "Endodermis"],
+      "correctAnswer": "Hypodermis"
+    },
+    {
+      "id": 39,
+      "question": "What type of cells is the hypodermis mainly composed of?",
+      "options": ["Parenchyma cells", "Collenchyma cells", "Sclerenchyma cells", "Epidermal cells"],
+      "correctAnswer": "Collenchyma cells"
+    },
+    {
+      "id": 40,
+      "question": "What gives the hypodermis its ability to provide mechanical strength?",
+      "options": ["Thickening at the corners due to cellulose deposition", "Presence of chloroplasts", "Air spaces between cells", "Thin cell walls"],
+      "correctAnswer": "Thickening at the corners due to cellulose deposition"
+    },
+    {
+      "id": 41,
+      "question": "What is the cortex in a dicot stem composed of?",
+      "options": ["Thick-walled cells with no intercellular space", "Thin-walled large round or oval cells with intercellular space", "Columnar cells with many chloroplasts", "Dead cells forming tubes"],
+      "correctAnswer": "Thin-walled large round or oval cells with intercellular space"
+    },
+    {
+      "id": 42,
+      "question": "What is the function of the cortex in a dicot stem?",
+      "options": ["Photosynthesis", "Storage of food", "Water transport", "Mechanical support"],
+      "correctAnswer": "Storage of food"
+    },
+    {
+      "id": 43,
+      "question": "What is the endodermis in a stem?",
+      "options": ["The outermost layer of the stem", "The innermost layer of the cortex separating cortex from vascular bundles", "The central part of the stem", "The layer below the hypodermis"],
+      "correctAnswer": "The innermost layer of the cortex separating cortex from vascular bundles"
+    },
+    {
+      "id": 44,
+      "question": "What do endodermis cells usually contain?",
+      "options": ["Chloroplasts", "Starch grains", "Air spaces", "Chlorophyll"],
+      "correctAnswer": "Starch grains"
+    },
+    {
+      "id": 45,
+      "question": "What is the endodermis sometimes called due to its starch content?",
+      "options": ["Starch sheath", "Food layer", "Storage ring", "Nutrient band"],
+      "correctAnswer": "Starch sheath"
+    },
+    {
+      "id": 46,
+      "question": "What are vascular bundles in a stem composed of?",
+      "options": ["Only xylem", "Only phloem", "Xylem and phloem arranged in a ring around the pith", "Pith and cortex"],
+      "correctAnswer": "Xylem and phloem arranged in a ring around the pith"
+    },
+    {
+      "id": 47,
+      "question": "Where is xylem located within each vascular bundle of a dicot stem?",
+      "options": ["Towards the endodermis", "Towards the pith", "In the center of the bundle", "Outside the bundle"],
+      "correctAnswer": "Towards the pith"
+    },
+    {
+      "id": 48,
+      "question": "Where is phloem located within each vascular bundle of a dicot stem?",
+      "options": ["Towards the pith", "Towards the endodermis", "In the center", "In the cortex"],
+      "correctAnswer": "Towards the endodermis"
+    },
+    {
+      "id": 49,
+      "question": "What is found between xylem and phloem in a vascular bundle?",
+      "options": ["Pith", "A strip of actively dividing young cells (cambium)", "Cortex", "Endodermis"],
+      "correctAnswer": "A strip of actively dividing young cells (cambium)"
+    },
+    {
+      "id": 50,
+      "question": "What does xylem transport?",
+      "options": ["Synthesized food", "Water and dissolved minerals", "Only water", "Only minerals"],
+      "correctAnswer": "Water and dissolved minerals"
+    },
+    {
+      "id": 51,
+      "question": "What does phloem transport?",
+      "options": ["Water and minerals", "Synthesized food to different tissues", "Only oxygen", "Only carbon dioxide"],
+      "correctAnswer": "Synthesized food to different tissues"
+    },
+    {
+      "id": 52,
+      "question": "What occupies the central portion of a dicot stem?",
+      "options": ["Cortex", "Vascular bundles", "Pith", "Endodermis"],
+      "correctAnswer": "Pith"
+    },
+    {
+      "id": 53,
+      "question": "What are the cells of the pith composed of?",
+      "options": ["Thick-walled cells", "Thin-walled cells that are rounded or polygonal", "Collenchyma cells", "Dead cells"],
+      "correctAnswer": "Thin-walled cells that are rounded or polygonal"
+    },
+    {
+      "id": 54,
+      "question": "What functions does the pith serve?",
+      "options": ["Photosynthesis and reproduction", "Food storage and help in internal translocation of water", "Mechanical support and protection", "Gas exchange and transpiration"],
+      "correctAnswer": "Food storage and help in internal translocation of water"
+    },
+    {
+      "id": 55,
+      "question": "How can angiosperms be classified based on cotyledon number?",
+      "options": ["As monocots and dicots", "As gymnosperms and angiosperms", "As vascular and non-vascular", "As annuals and perennials"],
+      "correctAnswer": "As monocots and dicots"
+    },
+    {
+      "id": 56,
+      "question": "How many sets of vascular bundles does a dicot stem have?",
+      "options": ["Many scattered bundles", "Few (4 to 8) sets of vascular bundles", "Two to three", "More than 20"],
+      "correctAnswer": "Few (4 to 8) sets of vascular bundles"
+    },
+    {
+      "id": 57,
+      "question": "How are vascular bundles arranged in a dicot stem?",
+      "options": ["Scattered throughout", "Arranged in the form of one or two rings", "Randomly distributed", "In a single strand"],
+      "correctAnswer": "Arranged in the form of one or two rings"
+    },
+    {
+      "id": 58,
+      "question": "What is the pith like in a dicot stem?",
+      "options": ["Absent", "Present and well developed", "Very small", "Scattered"],
+      "correctAnswer": "Present and well developed"
+    },
+    {
+      "id": 59,
+      "question": "What is the outermost layer of a dicot root called?",
+      "options": ["Epidermis", "Piliferous layer", "Endodermis", "Cortex"],
+      "correctAnswer": "Piliferous layer"
+    },
+    {
+      "id": 60,
+      "question": "What does the piliferous layer consist of?",
+      "options": ["Multi-celled root hairs", "Single-celled root hairs", "Guard cells", "Palisade cells"],
+      "correctAnswer": "Single-celled root hairs"
+    },
+    {
+      "id": 61,
+      "question": "What is absent in the piliferous layer?",
+      "options": ["Root hairs", "Cuticle", "Cell wall", "Nucleus"],
+      "correctAnswer": "Cuticle"
+    },
+    {
+      "id": 62,
+      "question": "What type of cells make up the cortex of a dicot root?",
+      "options": ["Thick-walled cells without intercellular spaces", "Thin-walled oval or rounded loosely arranged cells with intercellular spaces", "Columnar cells with chloroplasts", "Dead tubular cells"],
+      "correctAnswer": "Thin-walled oval or rounded loosely arranged cells with intercellular spaces"
+    },
+    {
+      "id": 63,
+      "question": "What does the cortex of a root store?",
+      "options": ["Chlorophyll and oxygen", "Food and water", "Only starch", "Only minerals"],
+      "correctAnswer": "Food and water"
+    },
+    {
+      "id": 64,
+      "question": "What is the endodermis in a root made of?",
+      "options": ["Loosely arranged round cells", "Barrel-shaped closely packed cells", "Columnar cells with chloroplasts", "Dead cells with thick walls"],
+      "correctAnswer": "Barrel-shaped closely packed cells"
+    },
+    {
+      "id": 65,
+      "question": "What does the endodermis layer help with?",
+      "options": ["Photosynthesis", "Movement of water and dissolved nutrients from cortex into xylem", "Food storage", "Mechanical support"],
+      "correctAnswer": "Movement of water and dissolved nutrients from cortex into xylem"
+    },
+    {
+      "id": 66,
+      "question": "What is the pericycle in a root?",
+      "options": ["The outermost layer", "A single layer inner to endodermis that is the site of origin of lateral roots", "The central pith", "The food storage layer"],
+      "correctAnswer": "A single layer inner to endodermis that is the site of origin of lateral roots"
+    },
+    {
+      "id": 67,
+      "question": "Where do lateral roots originate?",
+      "options": ["In the cortex", "In the pericycle", "In the endodermis", "In the pith"],
+      "correctAnswer": "In the pericycle"
+    },
+    {
+      "id": 68,
+      "question": "What do the vascular bundles in a root consist of?",
+      "options": ["Only xylem", "Xylem and phloem with cambium between them", "Only phloem", "Xylem and cortex"],
+      "correctAnswer": "Xylem and phloem with cambium between them"
+    },
+    {
+      "id": 69,
+      "question": "How is the pith described in dicot roots?",
+      "options": ["Large and always present", "Present in young roots while absent in old roots", "Always absent", "Present only in old roots"],
+      "correctAnswer": "Present in young roots while absent in old roots"
+    },
+    {
+      "id": 70,
+      "question": "How is the cortex area in a dicot root described?",
+      "options": ["Wide", "Narrow", "Absent", "Variable"],
+      "correctAnswer": "Narrow"
+    },
+    {
+      "id": 71,
+      "question": "How many vascular bundles does a dicot root typically have?",
+      "options": ["10 to 20", "Limited in number between 2 and 6", "More than 15", "Exactly 8"],
+      "correctAnswer": "Limited in number between 2 and 6"
+    },
+    {
+      "id": 72,
+      "question": "What describes the pith in a dicot root?",
+      "options": ["Large and central", "Either extremely small or absent", "Well developed", "Always present"],
+      "correctAnswer": "Either extremely small or absent"
+    },
+    {
+      "id": 73,
+      "question": "Do dicot roots show secondary growth?",
+      "options": ["No, they never show secondary growth", "Yes, due to the presence of cambium", "Only in young roots", "Only in old roots"],
+      "correctAnswer": "Yes, due to the presence of cambium"
+    }
+  ]
+}

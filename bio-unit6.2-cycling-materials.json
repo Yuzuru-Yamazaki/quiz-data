@@ -1,0 +1,257 @@
+{
+  "title": "6.2 Cycling of Materials in an Ecosystem",
+  "description": "Biogeochemical cycles overview \u2014 every fact from the Grade 10 Biology textbook.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade10",
+    "ecology",
+    "biogeochemical-cycles"
+  ],
+  "questions": [
+    {
+      "question": "What does an ecosystem refer to?",
+      "options": [
+        "Only living organisms in an area",
+        "The complex of living organisms, their physical and chemical environment, and all their interactions in a particular unit of space",
+        "Only non-living components of an environment",
+        "The climate of a region"
+      ],
+      "correctAnswer": "The complex of living organisms, their physical and chemical environment, and all their interactions in a particular unit of space",
+      "id": 1
+    },
+    {
+      "question": "What are the two main components of an ecosystem?",
+      "options": [
+        "Plants and animals",
+        "Biotic (living) and abiotic (non-living)",
+        "Land and water",
+        "Air and soil"
+      ],
+      "correctAnswer": "Biotic (living) and abiotic (non-living)",
+      "id": 2
+    },
+    {
+      "question": "What does the biotic component of an ecosystem consist of?",
+      "options": [
+        "Atmosphere, hydrosphere, and lithosphere",
+        "Plants, animals, and microorganisms",
+        "Only plants and animals",
+        "Only microorganisms"
+      ],
+      "correctAnswer": "Plants, animals, and microorganisms",
+      "id": 3
+    },
+    {
+      "question": "What does the abiotic component of an ecosystem comprise?",
+      "options": [
+        "Plants and animals",
+        "The atmosphere (air), hydrosphere (water), and lithosphere (soil)",
+        "Only soil and rocks",
+        "Only air and water"
+      ],
+      "correctAnswer": "The atmosphere (air), hydrosphere (water), and lithosphere (soil)",
+      "id": 4
+    },
+    {
+      "question": "Why is it essential for nutrient materials to be continuously reused in an ecosystem?",
+      "options": [
+        "Because materials are found in unlimited amounts",
+        "Because materials are found in limited amounts",
+        "Because organisms produce too much waste",
+        "Because the sun provides all nutrients"
+      ],
+      "correctAnswer": "Because materials are found in limited amounts",
+      "id": 5
+    },
+    {
+      "question": "Between which components does cycling of materials occur?",
+      "options": [
+        "Only between animals",
+        "Between biotic (living) and abiotic (non-living) components",
+        "Only between plants",
+        "Only in the atmosphere"
+      ],
+      "correctAnswer": "Between biotic (living) and abiotic (non-living) components",
+      "id": 6
+    },
+    {
+      "question": "How do materials move around within an ecosystem?",
+      "options": [
+        "Only through wind",
+        "When organisms feed, breathe, respire, and excrete",
+        "Only through water flow",
+        "Only through decomposition"
+      ],
+      "correctAnswer": "When organisms feed, breathe, respire, and excrete",
+      "id": 7
+    },
+    {
+      "question": "What happens to nutrients when waste products or dead bodies are decomposed?",
+      "options": [
+        "They are destroyed",
+        "They are released",
+        "They remain unchanged",
+        "They turn into energy"
+      ],
+      "correctAnswer": "They are released",
+      "id": 8
+    },
+    {
+      "question": "What does animal excreta become after being broken down by decomposers?",
+      "options": [
+        "A pollutant",
+        "A vital nutrient like nitrogen and phosphorus for plant growth",
+        "Carbon dioxide",
+        "Energy"
+      ],
+      "correctAnswer": "A vital nutrient like nitrogen and phosphorus for plant growth",
+      "id": 9
+    },
+    {
+      "question": "What are the decomposers commonly found in soil?",
+      "options": [
+        "Earthworms only",
+        "Bacteria and fungi",
+        "Insects only",
+        "Plants"
+      ],
+      "correctAnswer": "Bacteria and fungi",
+      "id": 10
+    },
+    {
+      "question": "What key role do decomposers play in the ecosystem?",
+      "options": [
+        "Producing food",
+        "Returning nutrients to the ecosystem",
+        "Consuming producers",
+        "Trapping solar energy"
+      ],
+      "correctAnswer": "Returning nutrients to the ecosystem",
+      "id": 11
+    },
+    {
+      "question": "How does digestion occur in decomposers compared to ingesters?",
+      "options": [
+        "Inside their gut like ingesters",
+        "Outside the living body in the soil through extracellular digestion",
+        "They do not digest at all",
+        "Inside specialized organs"
+      ],
+      "correctAnswer": "Outside the living body in the soil through extracellular digestion",
+      "id": 12
+    },
+    {
+      "question": "What do decomposers release onto dead matter to digest complex organic matter?",
+      "options": [
+        "Water",
+        "Enzymes",
+        "Heat",
+        "Oxygen"
+      ],
+      "correctAnswer": "Enzymes",
+      "id": 13
+    },
+    {
+      "question": "What is the result of extracellular digestion by decomposers?",
+      "options": [
+        "Complex organic matter is built up",
+        "Complex organic matter is broken into simpler and smaller molecules that are then absorbed",
+        "Energy is created",
+        "Water is produced"
+      ],
+      "correctAnswer": "Complex organic matter is broken into simpler and smaller molecules that are then absorbed",
+      "id": 14
+    },
+    {
+      "question": "What do the products released by decomposers accumulate to form in the soil?",
+      "options": [
+        "A waste layer",
+        "A nutrient pool",
+        "A rock layer",
+        "A water source"
+      ],
+      "correctAnswer": "A nutrient pool",
+      "id": 15
+    },
+    {
+      "question": "How does the nutrient pool from decomposers affect the soil?",
+      "options": [
+        "It decreases soil fertility",
+        "It increases soil fertility and plant productivity",
+        "It has no effect",
+        "It pollutes the soil"
+      ],
+      "correctAnswer": "It increases soil fertility and plant productivity",
+      "id": 16
+    },
+    {
+      "question": "In addition to water, how many elements (nutrients) cycle through the ecosystem?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": "Four",
+      "id": 17
+    },
+    {
+      "question": "Which four elements cycle through the ecosystem besides water?",
+      "options": [
+        "Hydrogen, helium, lithium, beryllium",
+        "Oxygen, carbon, nitrogen, and phosphorus",
+        "Sodium, potassium, calcium, magnesium",
+        "Iron, zinc, copper, manganese"
+      ],
+      "correctAnswer": "Oxygen, carbon, nitrogen, and phosphorus",
+      "id": 18
+    },
+    {
+      "question": "What path do these cycling elements take?",
+      "options": [
+        "From living to non-living only",
+        "From the non-living environment to living organisms and back to the non-living environment",
+        "Only within living organisms",
+        "Only within the atmosphere"
+      ],
+      "correctAnswer": "From the non-living environment to living organisms and back to the non-living environment",
+      "id": 19
+    },
+    {
+      "question": "What is a bio-geochemical cycle?",
+      "options": [
+        "A cycle involving only geological processes",
+        "A path that includes biological, geological, and chemical processes forming cycles",
+        "A cycle involving only chemical processes",
+        "A cycle involving only biological processes"
+      ],
+      "correctAnswer": "A path that includes biological, geological, and chemical processes forming cycles",
+      "id": 20
+    },
+    {
+      "question": "A waste product from one organism can serve as what for another organism?",
+      "options": [
+        "A toxin",
+        "A vital nutrient",
+        "A habitat",
+        "A waste product"
+      ],
+      "correctAnswer": "A vital nutrient",
+      "id": 21
+    },
+    {
+      "question": "What can a waste product be a rich source of instead of polluting the environment?",
+      "options": [
+        "Toxic chemicals",
+        "Organic fertilizer",
+        "Plastic",
+        "Synthetic material"
+      ],
+      "correctAnswer": "Organic fertilizer",
+      "id": 22
+    }
+  ]
+}

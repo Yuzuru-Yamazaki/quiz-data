@@ -1,0 +1,76 @@
+{
+  "title": "2.11 Renowned Ethiopian Botanist",
+  "description": "Renowned Ethiopian botanist — every fact from the textbook.",
+  "folder": "School/Grade 10/Biology",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade10", "plants"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is the renowned Ethiopian botanist profiled in this section?",
+      "options": ["Melaku Worede", "Sebsebe Demissew", "Tilahun Gessesse", "Amanuel Gidey"],
+      "correctAnswer": "Sebsebe Demissew"
+    },
+    {
+      "id": 2,
+      "question": "What is Professor Sebsebe Demissew a professor of?",
+      "options": ["Plant Physiology", "Plant systematics and Biodiversity", "Soil Science", "Agricultural Economics"],
+      "correctAnswer": "Plant systematics and Biodiversity"
+    },
+    {
+      "id": 3,
+      "question": "At which university is Professor Sebsebe Demissew a professor?",
+      "options": ["Arba Minch University", "Addis Ababa University", "Jimma University", "Mekelle University"],
+      "correctAnswer": "Addis Ababa University"
+    },
+    {
+      "id": 4,
+      "question": "Where is Professor Sebsebe Demissew the Executive Director?",
+      "options": ["Ethiopian National Herbarium", "Gullele Botanic Garden in Addis Ababa", "Royal Society", "Kew Gardens"],
+      "correctAnswer": "Gullele Botanic Garden in Addis Ababa"
+    },
+    {
+      "id": 5,
+      "question": "In which year was Professor Sebsebe Demissew awarded the Kew international medal?",
+      "options": ["2014", "2016", "2018", "2021"],
+      "correctAnswer": "2016"
+    },
+    {
+      "id": 6,
+      "question": "In which year was Professor Sebsebe Demissew elected as a Foreign Member of the Royal Society in London?",
+      "options": ["2016", "2018", "2020", "2021"],
+      "correctAnswer": "2018"
+    },
+    {
+      "id": 7,
+      "question": "What distinction does Professor Sebsebe Demissew hold regarding the Royal Society?",
+      "options": ["He is the only Ethiopian in the Royal Society", "He is the first Sub-Saharan African scientist elected in the Societys 357-year history", "He is the youngest member ever elected", "He is the first plant scientist elected"],
+      "correctAnswer": "He is the first Sub-Saharan African scientist elected in the Societys 357-year history"
+    },
+    {
+      "id": 8,
+      "question": "What award was Professor Sebsebe Demissew awarded in 2021?",
+      "options": ["Nobel Prize", "Cuatrcases Medal for Excellence in Tropical Botany", "Lasker Award", "Africa Prize"],
+      "correctAnswer": "Cuatrcases Medal for Excellence in Tropical Botany"
+    },
+    {
+      "id": 9,
+      "question": "Which institution awarded the Cuatrcases Medal to Professor Sebsebe Demissew?",
+      "options": ["Royal Society, London", "Smithsonian National Museum of Natural History, USA", "Kew Gardens, UK", "UNESCO, Paris"],
+      "correctAnswer": "Smithsonian National Museum of Natural History, USA"
+    },
+    {
+      "id": 10,
+      "question": "What was the Cuatrcases Medal awarded for?",
+      "options": ["His work in genetics", "His lifetime works in conserving and recording the very diverse Ethiopian flora with many endemic species", "His work in medicinal plants", "His teaching career"],
+      "correctAnswer": "His lifetime works in conserving and recording the very diverse Ethiopian flora with many endemic species"
+    },
+    {
+      "id": 11,
+      "question": "What leadership roles did Professor Sebsebe Demissew hold that contributed to his award?",
+      "options": ["Leadership of the Ethiopian flora project and the Ethiopian National Herbarium at Addis Ababa University", "Minister of Agriculture", "Dean of Science Faculty", "President of Addis Ababa University"],
+      "correctAnswer": "Leadership of the Ethiopian flora project and the Ethiopian National Herbarium at Addis Ababa University"
+    }
+  ]
+}
