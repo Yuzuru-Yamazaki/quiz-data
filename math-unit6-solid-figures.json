@@ -339,5 +339,7 @@
     }
   ],
   "folder": "School/Grade 10/Math",
-  "field": "natural"
+  "field": "natural",
+  "anki": true,
+  "theme": "gruvbox"
 }

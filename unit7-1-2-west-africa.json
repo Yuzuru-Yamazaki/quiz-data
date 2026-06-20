@@ -342,5 +342,7 @@
     }
   ],
   "folder": "School/Grade 10/History",
-  "field": "social"
+  "field": "social",
+  "anki": true,
+  "theme": "gruvbox"
 }
