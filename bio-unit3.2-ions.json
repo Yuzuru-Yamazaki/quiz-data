@@ -1,7 +1,7 @@
 {
   "title": "3.1.2 Inorganic Ions",
   "description": "Roles of inorganic ions in living organisms.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 3",
   "field": "natural",
   "anki": true,
   "tags": [
@@ -769,13 +769,13 @@
     {
       "question": "What is the daily iodine requirement for adolescents and adults?",
       "options": [
-        "150 \u00b5g/day",
-        "500 \u00b5g/day",
-        "300 \u00b5g/day",
-        "50 \u00b5g/day"
+        "150 µg/day",
+        "500 µg/day",
+        "300 µg/day",
+        "50 µg/day"
       ],
       "answerIndex": 0,
-      "correctAnswer": "150 \u00b5g/day",
+      "correctAnswer": "150 µg/day",
       "id": 64
     },
     {

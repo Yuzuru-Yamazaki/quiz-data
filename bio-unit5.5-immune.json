@@ -1,249 +1,453 @@
 {
   "title": "5.5 The Immune System",
   "description": "The immune system — every fact from the Grade 10 Biology textbook.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 5",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade10", "humanbiology"],
+  "tags": [
+    "biology",
+    "grade10",
+    "humanbiology"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "How is immunity defined?",
-      "options": ["The body's ability to produce hormones", "The body's ability to prevent the invasion of pathogens", "The body's ability to digest food", "The body's ability to circulate blood"],
+      "options": [
+        "The body's ability to produce hormones",
+        "The body's ability to prevent the invasion of pathogens",
+        "The body's ability to digest food",
+        "The body's ability to circulate blood"
+      ],
       "correctAnswer": "The body's ability to prevent the invasion of pathogens"
     },
     {
       "id": 2,
       "question": "Against what types of organisms does the immune system defend?",
-      "options": ["Only bacteria", "Viruses, bacteria, fungal infections, and parasites", "Only viruses", "Only parasites"],
+      "options": [
+        "Only bacteria",
+        "Viruses, bacteria, fungal infections, and parasites",
+        "Only viruses",
+        "Only parasites"
+      ],
       "correctAnswer": "Viruses, bacteria, fungal infections, and parasites"
     },
     {
       "id": 3,
       "question": "The lymphatic system is part of which broader system?",
-      "options": ["Circulatory system", "Immune system", "Digestive system", "Nervous system"],
+      "options": [
+        "Circulatory system",
+        "Immune system",
+        "Digestive system",
+        "Nervous system"
+      ],
       "correctAnswer": "Immune system"
     },
     {
       "id": 4,
       "question": "What are the two types of immune systems?",
-      "options": ["Active and passive", "Innate and adaptive (acquired)", "Natural and artificial", "Specific and non-specific"],
+      "options": [
+        "Active and passive",
+        "Innate and adaptive (acquired)",
+        "Natural and artificial",
+        "Specific and non-specific"
+      ],
       "correctAnswer": "Innate and adaptive (acquired)"
     },
     {
       "id": 5,
       "question": "What is the body's initial line of defense against invading microbial diseases?",
-      "options": ["Adaptive immunity", "Innate immunity", "Vaccination", "Antibiotics"],
+      "options": [
+        "Adaptive immunity",
+        "Innate immunity",
+        "Vaccination",
+        "Antibiotics"
+      ],
       "correctAnswer": "Innate immunity"
     },
     {
       "id": 6,
       "question": "What do Pattern recognition receptors (PRRs) produced by innate immune cells help to maintain?",
-      "options": ["Blood pressure", "Body temperature", "Homeostasis", "Heart rate"],
+      "options": [
+        "Blood pressure",
+        "Body temperature",
+        "Homeostasis",
+        "Heart rate"
+      ],
       "correctAnswer": "Homeostasis"
     },
     {
       "id": 7,
       "question": "What type of lines of defense does innate immunity have?",
-      "options": ["Specific and changing", "Non-specific and unchanging", "Specific and unchanging", "Non-specific and changing"],
+      "options": [
+        "Specific and changing",
+        "Non-specific and unchanging",
+        "Specific and unchanging",
+        "Non-specific and changing"
+      ],
       "correctAnswer": "Non-specific and unchanging"
     },
     {
       "id": 8,
       "question": "What chemical agents are produced to attract immune cells to infection locations?",
-      "options": ["Antibodies", "Cytokines", "Antigens", "Hormones"],
+      "options": [
+        "Antibodies",
+        "Cytokines",
+        "Antigens",
+        "Hormones"
+      ],
       "correctAnswer": "Cytokines"
     },
     {
       "id": 9,
       "question": "What cascade is activated to recognize bacteria, stimulate cells, and facilitate clearance of dead cells?",
-      "options": ["Complement cascade", "Coagulation cascade", "Metabolic cascade", "Signaling cascade"],
+      "options": [
+        "Complement cascade",
+        "Coagulation cascade",
+        "Metabolic cascade",
+        "Signaling cascade"
+      ],
       "correctAnswer": "Complement cascade"
     },
     {
       "id": 10,
       "question": "What specialized cells identify and remove foreign compounds found in organs, tissues, blood, and lymph?",
-      "options": ["Red blood cells", "White blood cells", "Platelets", "Epithelial cells"],
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Epithelial cells"
+      ],
       "correctAnswer": "White blood cells"
     },
     {
       "id": 11,
       "question": "When is adaptive (acquired) immunity formed?",
-      "options": ["Before birth", "At birth", "After an initial reaction to a new pathogen", "Only after age 5"],
+      "options": [
+        "Before birth",
+        "At birth",
+        "After an initial reaction to a new pathogen",
+        "Only after age 5"
+      ],
       "correctAnswer": "After an initial reaction to a new pathogen"
     },
     {
       "id": 12,
       "question": "What is vaccination based on?",
-      "options": ["Innate immunity", "Acquired immunity", "Natural immunity", "Passive immunity"],
+      "options": [
+        "Innate immunity",
+        "Acquired immunity",
+        "Natural immunity",
+        "Passive immunity"
+      ],
       "correctAnswer": "Acquired immunity"
     },
     {
       "id": 13,
       "question": "During antigen presentation, what type of antigens are recognized by the adaptive immune system?",
-      "options": ["Self antigens", "Non-self antigens", "Viral antigens only", "Bacterial antigens only"],
+      "options": [
+        "Self antigens",
+        "Non-self antigens",
+        "Viral antigens only",
+        "Bacterial antigens only"
+      ],
       "correctAnswer": "Non-self antigens"
     },
     {
       "id": 14,
       "question": "What is the development of targeted responses to eradicate specific infections called?",
-      "options": ["Innate response", "Adaptive response", "Inflammatory response", "Allergic response"],
+      "options": [
+        "Innate response",
+        "Adaptive response",
+        "Inflammatory response",
+        "Allergic response"
+      ],
       "correctAnswer": "Adaptive response"
     },
     {
       "id": 15,
       "question": "What is the process through which signature antibodies or T cell receptors remember each infection called?",
-      "options": ["Immunological memory", "Immune tolerance", "Immune suppression", "Immune activation"],
+      "options": [
+        "Immunological memory",
+        "Immune tolerance",
+        "Immune suppression",
+        "Immune activation"
+      ],
       "correctAnswer": "Immunological memory"
     },
     {
       "id": 16,
       "question": "What cells can be summoned to eliminate an invader swiftly if another infection arises?",
-      "options": ["Memory cells", "Stem cells", "Red blood cells", "Platelets"],
+      "options": [
+        "Memory cells",
+        "Stem cells",
+        "Red blood cells",
+        "Platelets"
+      ],
       "correctAnswer": "Memory cells"
     },
     {
       "id": 17,
       "question": "Which white blood cells travel between the bloodstream and the lymphatic system?",
-      "options": ["Neutrophils", "Lymphocytes", "Macrophages", "Dendritic cells"],
+      "options": [
+        "Neutrophils",
+        "Lymphocytes",
+        "Macrophages",
+        "Dendritic cells"
+      ],
       "correctAnswer": "Lymphocytes"
     },
     {
       "id": 18,
       "question": "What are the three most common types of lymphocytes?",
-      "options": ["Neutrophils, eosinophils, basophils", "T cells, B cells, and natural killer cells", "Monocytes, macrophages, dendritic cells", "Helper T cells, cytotoxic T cells, suppressor T cells"],
+      "options": [
+        "Neutrophils, eosinophils, basophils",
+        "T cells, B cells, and natural killer cells",
+        "Monocytes, macrophages, dendritic cells",
+        "Helper T cells, cytotoxic T cells, suppressor T cells"
+      ],
       "correctAnswer": "T cells, B cells, and natural killer cells"
     },
     {
       "id": 19,
       "question": "Where are lymphocytes formed?",
-      "options": ["Thymus", "Bone marrow", "Lymph nodes", "Spleen"],
+      "options": [
+        "Thymus",
+        "Bone marrow",
+        "Lymph nodes",
+        "Spleen"
+      ],
       "correctAnswer": "Bone marrow"
     },
     {
       "id": 20,
       "question": "Where do some lymphocytes move to mature into T cells?",
-      "options": ["Bone marrow", "Thymus", "Spleen", "Lymph nodes"],
+      "options": [
+        "Bone marrow",
+        "Thymus",
+        "Spleen",
+        "Lymph nodes"
+      ],
       "correctAnswer": "Thymus"
     },
     {
       "id": 21,
       "question": "Where do some lymphocytes mature into B cells?",
-      "options": ["Thymus", "Bone marrow", "Lymph nodes", "Spleen"],
+      "options": [
+        "Thymus",
+        "Bone marrow",
+        "Lymph nodes",
+        "Spleen"
+      ],
       "correctAnswer": "Bone marrow"
     },
     {
       "id": 22,
       "question": "What is the most common form of white blood cell?",
-      "options": ["Lymphocyte", "Neutrophil", "Macrophage", "Dendritic cell"],
+      "options": [
+        "Lymphocyte",
+        "Neutrophil",
+        "Macrophage",
+        "Dendritic cell"
+      ],
       "correctAnswer": "Neutrophil"
     },
     {
       "id": 23,
       "question": "What vital role do neutrophils play?",
-      "options": ["Antibody production", "Innate immune system", "Memory formation", "Antigen presentation"],
+      "options": [
+        "Antibody production",
+        "Innate immune system",
+        "Memory formation",
+        "Antigen presentation"
+      ],
       "correctAnswer": "Innate immune system"
     },
     {
       "id": 24,
       "question": "What type of cell is a phagocyte?",
-      "options": ["A cell that produces antibodies", "A cell that engulfs and digests cellular debris and pathogens", "A cell that presents antigens", "A cell that produces hormones"],
+      "options": [
+        "A cell that produces antibodies",
+        "A cell that engulfs and digests cellular debris and pathogens",
+        "A cell that presents antigens",
+        "A cell that produces hormones"
+      ],
       "correctAnswer": "A cell that engulfs and digests cellular debris and pathogens"
     },
     {
       "id": 25,
       "question": "What chemical signal causes neutrophils to be promptly recruited to the site of injury or infection?",
-      "options": ["Histamine", "Interleukin-8", "Lymphokine", "Cytokine"],
+      "options": [
+        "Histamine",
+        "Interleukin-8",
+        "Lymphokine",
+        "Cytokine"
+      ],
       "correctAnswer": "Interleukin-8"
     },
     {
       "id": 26,
       "question": "Where are neutrophils ordinarily located?",
-      "options": ["Tissues", "Lymph nodes", "The bloodstream", "Bone marrow"],
+      "options": [
+        "Tissues",
+        "Lymph nodes",
+        "The bloodstream",
+        "Bone marrow"
+      ],
       "correctAnswer": "The bloodstream"
     },
     {
       "id": 27,
       "question": "Macrophages play a role in which immune systems?",
-      "options": ["Only innate", "Only adaptive", "Both innate and adaptive", "Neither"],
+      "options": [
+        "Only innate",
+        "Only adaptive",
+        "Both innate and adaptive",
+        "Neither"
+      ],
       "correctAnswer": "Both innate and adaptive"
     },
     {
       "id": 28,
       "question": "What are targets of macrophages?",
-      "options": ["Only bacteria", "Foreign chemicals, pathogenic bacteria, and cancer cells", "Only viruses", "Only fungi"],
+      "options": [
+        "Only bacteria",
+        "Foreign chemicals, pathogenic bacteria, and cancer cells",
+        "Only viruses",
+        "Only fungi"
+      ],
       "correctAnswer": "Foreign chemicals, pathogenic bacteria, and cancer cells"
     },
     {
       "id": 29,
       "question": "What cells do macrophages stimulate to respond to pathogens?",
-      "options": ["Red blood cells", "Lymphocytes and other immune cells", "Platelets", "Skin cells"],
+      "options": [
+        "Red blood cells",
+        "Lymphocytes and other immune cells",
+        "Platelets",
+        "Skin cells"
+      ],
       "correctAnswer": "Lymphocytes and other immune cells"
     },
     {
       "id": 30,
       "question": "What type of cells serve as intermediaries between the innate and adaptive immune systems?",
-      "options": ["Neutrophils", "Macrophages", "Dendritic cells", "B cells"],
+      "options": [
+        "Neutrophils",
+        "Macrophages",
+        "Dendritic cells",
+        "B cells"
+      ],
       "correctAnswer": "Dendritic cells"
     },
     {
       "id": 31,
       "question": "Where are dendritic cells frequently found?",
-      "options": ["In the bloodstream", "In tissues that contact the outside world", "In bone marrow", "In the thymus"],
+      "options": [
+        "In the bloodstream",
+        "In tissues that contact the outside world",
+        "In bone marrow",
+        "In the thymus"
+      ],
       "correctAnswer": "In tissues that contact the outside world"
     },
     {
       "id": 32,
       "question": "Where do dendritic cells travel in response to infections?",
-      "options": ["Bone marrow", "Thymus", "Lymph nodes", "Spleen"],
+      "options": [
+        "Bone marrow",
+        "Thymus",
+        "Lymph nodes",
+        "Spleen"
+      ],
       "correctAnswer": "Lymph nodes"
     },
     {
       "id": 33,
       "question": "What cells do dendritic cells interact with to start the adaptive immune response?",
-      "options": ["Red blood cells and platelets", "T cells and B cells", "Neutrophils and basophils", "Macrophages and monocytes"],
+      "options": [
+        "Red blood cells and platelets",
+        "T cells and B cells",
+        "Neutrophils and basophils",
+        "Macrophages and monocytes"
+      ],
       "correctAnswer": "T cells and B cells"
     },
     {
       "id": 34,
       "question": "What is another name for antibodies?",
-      "options": ["Antigens", "Immunoglobulins", "Cytokines", "Lymphokines"],
+      "options": [
+        "Antigens",
+        "Immunoglobulins",
+        "Cytokines",
+        "Lymphokines"
+      ],
       "correctAnswer": "Immunoglobulins"
     },
     {
       "id": 35,
       "question": "What shape are antibodies?",
-      "options": ["Circular", "Y-shaped", "Rod-shaped", "Spiral"],
+      "options": [
+        "Circular",
+        "Y-shaped",
+        "Rod-shaped",
+        "Spiral"
+      ],
       "correctAnswer": "Y-shaped"
     },
     {
       "id": 36,
       "question": "Which cells produce antibodies?",
-      "options": ["T cells", "Macrophages", "Dendritic cells", "B cells"],
+      "options": [
+        "T cells",
+        "Macrophages",
+        "Dendritic cells",
+        "B cells"
+      ],
       "correctAnswer": "B cells"
     },
     {
       "id": 37,
       "question": "What do antibodies bind to on the surface of foreign substances?",
-      "options": ["Receptors", "Antigens", "Hormones", "Enzymes"],
+      "options": [
+        "Receptors",
+        "Antigens",
+        "Hormones",
+        "Enzymes"
+      ],
       "correctAnswer": "Antigens"
     },
     {
       "id": 38,
       "question": "What do antibodies recognize and identify the foreign thing as?",
-      "options": ["Self", "Non-self", "Harmless", "Nutritious"],
+      "options": [
+        "Self",
+        "Non-self",
+        "Harmless",
+        "Nutritious"
+      ],
       "correctAnswer": "Non-self"
     },
     {
       "id": 39,
       "question": "What are the hormones produced by the immune system commonly called?",
-      "options": ["Antibodies", "Cytokines", "Lymphokines", "Immunoglobulins"],
+      "options": [
+        "Antibodies",
+        "Cytokines",
+        "Lymphokines",
+        "Immunoglobulins"
+      ],
       "correctAnswer": "Lymphokines"
     },
     {
       "id": 40,
       "question": "What effect do steroids and corticosteroids have on the immune system?",
-      "options": ["They activate it", "They suppress it", "They enhance it", "They have no effect"],
+      "options": [
+        "They activate it",
+        "They suppress it",
+        "They enhance it",
+        "They have no effect"
+      ],
       "correctAnswer": "They suppress it"
     }
   ]

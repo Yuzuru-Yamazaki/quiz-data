@@ -1,291 +1,530 @@
 {
   "title": "2.10 Medicinal Plants",
   "description": "Medicinal plants — every fact from the textbook.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 2",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade10", "plants"],
+  "tags": [
+    "biology",
+    "grade10",
+    "plants"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "Besides food, what other organic products do plants produce?",
-      "options": ["Only water", "Products with ornamental, commercial and medicinal values", "Only oxygen", "Only carbon dioxide"],
+      "options": [
+        "Only water",
+        "Products with ornamental, commercial and medicinal values",
+        "Only oxygen",
+        "Only carbon dioxide"
+      ],
       "correctAnswer": "Products with ornamental, commercial and medicinal values"
     },
     {
       "id": 2,
       "question": "What role do medicinal plants play?",
-      "options": ["Only decorative purposes", "A vital role in treating diseases and fighting infections", "Only food production", "Only building materials"],
+      "options": [
+        "Only decorative purposes",
+        "A vital role in treating diseases and fighting infections",
+        "Only food production",
+        "Only building materials"
+      ],
       "correctAnswer": "A vital role in treating diseases and fighting infections"
     },
     {
       "id": 3,
       "question": "What percentage of the world population depends on traditional or locally available plant medicines for health care?",
-      "options": ["About 30%", "More than 60%", "Less than 10%", "Exactly 50%"],
+      "options": [
+        "About 30%",
+        "More than 60%",
+        "Less than 10%",
+        "Exactly 50%"
+      ],
       "correctAnswer": "More than 60%"
     },
     {
       "id": 4,
       "question": "According to WHO, how many people in developing countries believe in the efficiency of plant medicines?",
-      "options": ["Nearly 1 billion", "Nearly 3.5 billion", "Nearly 500 million", "Nearly 7 billion"],
+      "options": [
+        "Nearly 1 billion",
+        "Nearly 3.5 billion",
+        "Nearly 500 million",
+        "Nearly 7 billion"
+      ],
       "correctAnswer": "Nearly 3.5 billion"
     },
     {
       "id": 5,
       "question": "What is the local name of Ruta chalepensis?",
-      "options": ["Jinjibil", "Teenadem", "Kosso", "Damakesse"],
+      "options": [
+        "Jinjibil",
+        "Teenadem",
+        "Kosso",
+        "Damakesse"
+      ],
       "correctAnswer": "Teenadem"
     },
     {
       "id": 6,
       "question": "What part of Ruta chalepensis is used and how is it administered?",
-      "options": ["Root, oral", "Leaf, oral", "Seed, nasal", "Flower, topical"],
+      "options": [
+        "Root, oral",
+        "Leaf, oral",
+        "Seed, nasal",
+        "Flower, topical"
+      ],
       "correctAnswer": "Leaf, oral"
     },
     {
       "id": 7,
       "question": "What disease is treated by Ruta chalepensis?",
-      "options": ["Tapeworm", "Abdominal pain", "Asthma", "Headache"],
+      "options": [
+        "Tapeworm",
+        "Abdominal pain",
+        "Asthma",
+        "Headache"
+      ],
       "correctAnswer": "Abdominal pain"
     },
     {
       "id": 8,
       "question": "What is the local name of Zingiber officinale?",
-      "options": ["Teenadem", "Jinjibil", "Aritii", "Dubba"],
+      "options": [
+        "Teenadem",
+        "Jinjibil",
+        "Aritii",
+        "Dubba"
+      ],
       "correctAnswer": "Jinjibil"
     },
     {
       "id": 9,
       "question": "What part of Zingiber officinale is used?",
-      "options": ["Leaf", "Seed", "Rhizome (underground stem)", "Flower"],
+      "options": [
+        "Leaf",
+        "Seed",
+        "Rhizome (underground stem)",
+        "Flower"
+      ],
       "correctAnswer": "Rhizome (underground stem)"
     },
     {
       "id": 10,
       "question": "What diseases are treated by Zingiber officinale?",
-      "options": ["Tapeworm, diarrhea", "Tonsilitis, abdominal pain, cough", "Malaria, fever", "Headache, asthma"],
+      "options": [
+        "Tapeworm, diarrhea",
+        "Tonsilitis, abdominal pain, cough",
+        "Malaria, fever",
+        "Headache, asthma"
+      ],
       "correctAnswer": "Tonsilitis, abdominal pain, cough"
     },
     {
       "id": 11,
       "question": "What is the local name of Hagenia abysinica?",
-      "options": ["Tejsar", "Ye-kosso Zaf", "Besobilla", "Feto"],
+      "options": [
+        "Tejsar",
+        "Ye-kosso Zaf",
+        "Besobilla",
+        "Feto"
+      ],
       "correctAnswer": "Ye-kosso Zaf"
     },
     {
       "id": 12,
       "question": "What part of Hagenia abysinica is used and how?",
-      "options": ["Leaf, nasal", "Female flower (Seed), oral", "Root, oral", "Bark, topical"],
+      "options": [
+        "Leaf, nasal",
+        "Female flower (Seed), oral",
+        "Root, oral",
+        "Bark, topical"
+      ],
       "correctAnswer": "Female flower (Seed), oral"
     },
     {
       "id": 13,
       "question": "What disease is treated by Hagenia abysinica?",
-      "options": ["Common cold", "Tapeworm", "Abdominal pain", "Headache"],
+      "options": [
+        "Common cold",
+        "Tapeworm",
+        "Abdominal pain",
+        "Headache"
+      ],
       "correctAnswer": "Tapeworm"
     },
     {
       "id": 14,
       "question": "What is the local name of Artemesia absinthium?",
-      "options": ["Damakesse", "Aritii (Megagna)", "Nechshinkurt", "Abish"],
+      "options": [
+        "Damakesse",
+        "Aritii (Megagna)",
+        "Nechshinkurt",
+        "Abish"
+      ],
       "correctAnswer": "Aritii (Megagna)"
     },
     {
       "id": 15,
       "question": "What disease is treated by Artemesia absinthium?",
-      "options": ["Intestinal parasites", "Unexplained stomach ache", "Tonsilitis", "Bronchial asthma"],
+      "options": [
+        "Intestinal parasites",
+        "Unexplained stomach ache",
+        "Tonsilitis",
+        "Bronchial asthma"
+      ],
       "correctAnswer": "Unexplained stomach ache"
     },
     {
       "id": 16,
       "question": "What is the local name of Nigella sativa?",
-      "options": ["Tikur Azmud", "Rosmery", "Nech-Bahirzaf", "Kosseret"],
+      "options": [
+        "Tikur Azmud",
+        "Rosmery",
+        "Nech-Bahirzaf",
+        "Kosseret"
+      ],
       "correctAnswer": "Tikur Azmud"
     },
     {
       "id": 17,
       "question": "What part of Nigella sativa is used?",
-      "options": ["Leaf", "Seed", "Root", "Flower"],
+      "options": [
+        "Leaf",
+        "Seed",
+        "Root",
+        "Flower"
+      ],
       "correctAnswer": "Seed"
     },
     {
       "id": 18,
       "question": "What disease is treated by Nigella sativa?",
-      "options": ["Abdominal pain", "Intestinal parasites", "Tapeworm", "Diarrhea"],
+      "options": [
+        "Abdominal pain",
+        "Intestinal parasites",
+        "Tapeworm",
+        "Diarrhea"
+      ],
       "correctAnswer": "Intestinal parasites"
     },
     {
       "id": 19,
       "question": "What is the local name of Ocimum lamifolium?",
-      "options": ["Damakesse", "Tejsar", "Besobilla", "Feto"],
+      "options": [
+        "Damakesse",
+        "Tejsar",
+        "Besobilla",
+        "Feto"
+      ],
       "correctAnswer": "Damakesse"
     },
     {
       "id": 20,
       "question": "How is Ocimum lamifolium administered?",
-      "options": ["Oral", "Nasal", "Topical", "Injection"],
+      "options": [
+        "Oral",
+        "Nasal",
+        "Topical",
+        "Injection"
+      ],
       "correctAnswer": "Nasal"
     },
     {
       "id": 21,
       "question": "What diseases are treated by Ocimum lamifolium?",
-      "options": ["Intestinal parasites, diarrhea", "Headache, general body illness (Mich)", "Tapeworm, abdominal pain", "Asthma, gastritis"],
+      "options": [
+        "Intestinal parasites, diarrhea",
+        "Headache, general body illness (Mich)",
+        "Tapeworm, abdominal pain",
+        "Asthma, gastritis"
+      ],
       "correctAnswer": "Headache, general body illness (Mich)"
     },
     {
       "id": 22,
       "question": "What is the local name of Rosmarinus officinalis?",
-      "options": ["Rosmery", "Aritii", "Jinjibil", "Dubba"],
+      "options": [
+        "Rosmery",
+        "Aritii",
+        "Jinjibil",
+        "Dubba"
+      ],
       "correctAnswer": "Rosmery"
     },
     {
       "id": 23,
       "question": "What diseases are treated by Rosmarinus officinalis?",
-      "options": ["Common cold, fever", "Bronchial asthma, prostate disorder, inflammatory diseases", "Abdominal pain, diarrhea", "Tapeworm, intestinal parasites"],
+      "options": [
+        "Common cold, fever",
+        "Bronchial asthma, prostate disorder, inflammatory diseases",
+        "Abdominal pain, diarrhea",
+        "Tapeworm, intestinal parasites"
+      ],
       "correctAnswer": "Bronchial asthma, prostate disorder, inflammatory diseases"
     },
     {
       "id": 24,
       "question": "What is the local name of Cymbopogen citratus?",
-      "options": ["Tikur Azmud", "Tejsar", "Nechshinkurt", "Abish"],
+      "options": [
+        "Tikur Azmud",
+        "Tejsar",
+        "Nechshinkurt",
+        "Abish"
+      ],
       "correctAnswer": "Tejsar"
     },
     {
       "id": 25,
       "question": "What disease is treated by Cymbopogen citratus?",
-      "options": ["Headache", "Stomach complaint", "Tonsilitis", "Common cold"],
+      "options": [
+        "Headache",
+        "Stomach complaint",
+        "Tonsilitis",
+        "Common cold"
+      ],
       "correctAnswer": "Stomach complaint"
     },
     {
       "id": 26,
       "question": "What is the local name of Allium sativum?",
-      "options": ["Nechshinkurt", "Feto", "Besobilla", "Dubba"],
+      "options": [
+        "Nechshinkurt",
+        "Feto",
+        "Besobilla",
+        "Dubba"
+      ],
       "correctAnswer": "Nechshinkurt"
     },
     {
       "id": 27,
       "question": "What part of Allium sativum is used?",
-      "options": ["Leaf", "Bulb", "Seed", "Root"],
+      "options": [
+        "Leaf",
+        "Bulb",
+        "Seed",
+        "Root"
+      ],
       "correctAnswer": "Bulb"
     },
     {
       "id": 28,
       "question": "What diseases are treated by Allium sativum?",
-      "options": ["Tapeworm, asthma", "Abdominal pain, toothache, tonsillitis, common cold", "Intestinal parasites, diarrhea", "Fever, headache"],
+      "options": [
+        "Tapeworm, asthma",
+        "Abdominal pain, toothache, tonsillitis, common cold",
+        "Intestinal parasites, diarrhea",
+        "Fever, headache"
+      ],
       "correctAnswer": "Abdominal pain, toothache, tonsillitis, common cold"
     },
     {
       "id": 29,
       "question": "What is the local name of Eucalyptus globulus?",
-      "options": ["Tejsar", "Nech-Bahirzaf", "Ye-kosso Zaf", "Teenadem"],
+      "options": [
+        "Tejsar",
+        "Nech-Bahirzaf",
+        "Ye-kosso Zaf",
+        "Teenadem"
+      ],
       "correctAnswer": "Nech-Bahirzaf"
     },
     {
       "id": 30,
       "question": "How is Eucalyptus globulus administered?",
-      "options": ["Oral", "Nasal", "Topical", "Injection"],
+      "options": [
+        "Oral",
+        "Nasal",
+        "Topical",
+        "Injection"
+      ],
       "correctAnswer": "Nasal"
     },
     {
       "id": 31,
       "question": "What diseases are treated by Eucalyptus globulus?",
-      "options": ["Abdominal pain, cough", "Common cold, fever with headache", "Tapeworm, intestinal parasites", "Asthma, gastritis"],
+      "options": [
+        "Abdominal pain, cough",
+        "Common cold, fever with headache",
+        "Tapeworm, intestinal parasites",
+        "Asthma, gastritis"
+      ],
       "correctAnswer": "Common cold, fever with headache"
     },
     {
       "id": 32,
       "question": "What is the local name of Curcurbita pepo?",
-      "options": ["Dubba", "Abish", "Feto", "Besobilla"],
+      "options": [
+        "Dubba",
+        "Abish",
+        "Feto",
+        "Besobilla"
+      ],
       "correctAnswer": "Dubba"
     },
     {
       "id": 33,
       "question": "What part of Curcurbita pepo is used?",
-      "options": ["Leaf", "Seed", "Root", "Fruit"],
+      "options": [
+        "Leaf",
+        "Seed",
+        "Root",
+        "Fruit"
+      ],
       "correctAnswer": "Seed"
     },
     {
       "id": 34,
       "question": "What disease is treated by Curcurbita pepo?",
-      "options": ["Abdominal pain", "Tapeworm", "Diarrhea", "Common cold"],
+      "options": [
+        "Abdominal pain",
+        "Tapeworm",
+        "Diarrhea",
+        "Common cold"
+      ],
       "correctAnswer": "Tapeworm"
     },
     {
       "id": 35,
       "question": "What is the local name of Trigonella foenumgraecum?",
-      "options": ["Tikur Azmud", "Abish", "Aritii", "Teenadem"],
+      "options": [
+        "Tikur Azmud",
+        "Abish",
+        "Aritii",
+        "Teenadem"
+      ],
       "correctAnswer": "Abish"
     },
     {
       "id": 36,
       "question": "How is Trigonella foenumgraecum used?",
-      "options": ["Mixed with garlic to treat asthma, used to treat gastritis", "Taken orally for abdominal pain", "Applied nasally for headache", "Used as a poultice for wounds"],
+      "options": [
+        "Mixed with garlic to treat asthma, used to treat gastritis",
+        "Taken orally for abdominal pain",
+        "Applied nasally for headache",
+        "Used as a poultice for wounds"
+      ],
       "correctAnswer": "Mixed with garlic to treat asthma, used to treat gastritis"
     },
     {
       "id": 37,
       "question": "What is the local name of Ocimum basilicum?",
-      "options": ["Damakesse", "Besobilla", "Tejsar", "Feto"],
+      "options": [
+        "Damakesse",
+        "Besobilla",
+        "Tejsar",
+        "Feto"
+      ],
       "correctAnswer": "Besobilla"
     },
     {
       "id": 38,
       "question": "What disease is treated by Ocimum basilicum?",
-      "options": ["Diarrhea", "Abdominal pain", "Headache", "Common cold"],
+      "options": [
+        "Diarrhea",
+        "Abdominal pain",
+        "Headache",
+        "Common cold"
+      ],
       "correctAnswer": "Abdominal pain"
     },
     {
       "id": 39,
       "question": "What is the local name of Lepidium sativum?",
-      "options": ["Feto", "Dubba", "Abish", "Rosmery"],
+      "options": [
+        "Feto",
+        "Dubba",
+        "Abish",
+        "Rosmery"
+      ],
       "correctAnswer": "Feto"
     },
     {
       "id": 40,
       "question": "What disease is treated by Lepidium sativum?",
-      "options": ["Abdominal pain", "Treatment of diarrhea", "Tapeworm", "Asthma"],
+      "options": [
+        "Abdominal pain",
+        "Treatment of diarrhea",
+        "Tapeworm",
+        "Asthma"
+      ],
       "correctAnswer": "Treatment of diarrhea"
     },
     {
       "id": 41,
       "question": "What is the local name of Lippia adoensis?",
-      "options": ["Kosseret", "Tossign", "Kebericho", "Dingetegna"],
+      "options": [
+        "Kosseret",
+        "Tossign",
+        "Kebericho",
+        "Dingetegna"
+      ],
       "correctAnswer": "Kosseret"
     },
     {
       "id": 42,
       "question": "What is the local name of Thymus schimperi?",
-      "options": ["Kebericho", "Tossign", "Shiferaw", "Dingetegna"],
+      "options": [
+        "Kebericho",
+        "Tossign",
+        "Shiferaw",
+        "Dingetegna"
+      ],
       "correctAnswer": "Tossign"
     },
     {
       "id": 43,
       "question": "What is the local name of Echinos kebericho?",
-      "options": ["Kosseret", "Kebericho", "Aleko", "Dingetegna"],
+      "options": [
+        "Kosseret",
+        "Kebericho",
+        "Aleko",
+        "Dingetegna"
+      ],
       "correctAnswer": "Kebericho"
     },
     {
       "id": 44,
       "question": "What is the local name of Taverniera abyssinica?",
-      "options": ["Kosseret", "Tossign", "Dingetegna", "Aleko"],
+      "options": [
+        "Kosseret",
+        "Tossign",
+        "Dingetegna",
+        "Aleko"
+      ],
       "correctAnswer": "Dingetegna"
     },
     {
       "id": 45,
       "question": "What are the local names of Moringa stenopetala?",
-      "options": ["Shiferaw or Aleko", "Kosseret or Tossign", "Kebericho or Dingetegna", "Teenadem or Aritii"],
+      "options": [
+        "Shiferaw or Aleko",
+        "Kosseret or Tossign",
+        "Kebericho or Dingetegna",
+        "Teenadem or Aritii"
+      ],
       "correctAnswer": "Shiferaw or Aleko"
     },
     {
       "id": 46,
       "question": "What safety precaution should students take when collecting medicinal plants?",
-      "options": ["Wear sunglasses", "Use hand gloves, not taste or ingest them, not inhale volatile substances, and wash hands after handling", "Wear a mask at all times", "Collect only dry plants"],
+      "options": [
+        "Wear sunglasses",
+        "Use hand gloves, not taste or ingest them, not inhale volatile substances, and wash hands after handling",
+        "Wear a mask at all times",
+        "Collect only dry plants"
+      ],
       "correctAnswer": "Use hand gloves, not taste or ingest them, not inhale volatile substances, and wash hands after handling"
     },
     {
       "id": 47,
       "question": "What type of plants can students in pastoralist areas focus on for medicinal plant study?",
-      "options": ["Only trees", "Medicinal plants used for livestock", "Only flowers", "Only aquatic plants"],
+      "options": [
+        "Only trees",
+        "Medicinal plants used for livestock",
+        "Only flowers",
+        "Only aquatic plants"
+      ],
       "correctAnswer": "Medicinal plants used for livestock"
     }
   ]

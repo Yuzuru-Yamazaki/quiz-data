@@ -1,609 +1,1113 @@
 {
   "title": "5.3 The Breathing System",
   "description": "The breathing system — every fact from the Grade 10 Biology textbook.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 5",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade10", "humanbiology"],
+  "tags": [
+    "biology",
+    "grade10",
+    "humanbiology"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "How long can a person typically go without breathing?",
-      "options": ["1 minute", "3 minutes", "5 minutes", "10 minutes"],
+      "options": [
+        "1 minute",
+        "3 minutes",
+        "5 minutes",
+        "10 minutes"
+      ],
       "correctAnswer": "3 minutes"
     },
     {
       "id": 2,
       "question": "What would take over if you tried to stop breathing?",
-      "options": ["Central nervous system", "Autonomic nervous system", "Somatic nervous system", "Peripheral nervous system"],
+      "options": [
+        "Central nervous system",
+        "Autonomic nervous system",
+        "Somatic nervous system",
+        "Peripheral nervous system"
+      ],
       "correctAnswer": "Autonomic nervous system"
     },
     {
       "id": 3,
       "question": "What is the process by which energy is produced in the form of ATP called?",
-      "options": ["Photosynthesis", "Cellular respiration", "Fermentation", "Digestion"],
+      "options": [
+        "Photosynthesis",
+        "Cellular respiration",
+        "Fermentation",
+        "Digestion"
+      ],
       "correctAnswer": "Cellular respiration"
     },
     {
       "id": 4,
       "question": "What is used as a reactant in oxidative phosphorylation?",
-      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Water"],
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Water"
+      ],
       "correctAnswer": "Oxygen"
     },
     {
       "id": 5,
       "question": "What is released as a waste product in oxidative phosphorylation?",
-      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Water"],
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Water"
+      ],
       "correctAnswer": "Carbon dioxide"
     },
     {
       "id": 6,
       "question": "The need to breathe is primarily driven by the accumulation of which gas?",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
       "correctAnswer": "Carbon dioxide"
     },
     {
       "id": 7,
       "question": "What are the primary functions of the breathing system?",
-      "options": ["Provide oxygen and remove carbon dioxide", "Pump blood", "Digest food", "Filter waste"],
+      "options": [
+        "Provide oxygen and remove carbon dioxide",
+        "Pump blood",
+        "Digest food",
+        "Filter waste"
+      ],
       "correctAnswer": "Provide oxygen and remove carbon dioxide"
     },
     {
       "id": 8,
       "question": "What non-vital functions does the breathing system serve?",
-      "options": ["Digestion and absorption", "Sensing odors, producing speech, and coughing", "Blood circulation", "Hormone production"],
+      "options": [
+        "Digestion and absorption",
+        "Sensing odors, producing speech, and coughing",
+        "Blood circulation",
+        "Hormone production"
+      ],
       "correctAnswer": "Sensing odors, producing speech, and coughing"
     },
     {
       "id": 9,
       "question": "What are the major structures of the breathing system?",
-      "options": ["Nose, larynx, pharynx, trachea, bronchi, bronchioles, and alveoli", "Mouth, esophagus, stomach, intestines", "Heart, arteries, veins, capillaries", "Kidneys, ureters, bladder, urethra"],
+      "options": [
+        "Nose, larynx, pharynx, trachea, bronchi, bronchioles, and alveoli",
+        "Mouth, esophagus, stomach, intestines",
+        "Heart, arteries, veins, capillaries",
+        "Kidneys, ureters, bladder, urethra"
+      ],
       "correctAnswer": "Nose, larynx, pharynx, trachea, bronchi, bronchioles, and alveoli"
     },
     {
       "id": 10,
       "question": "Through which structures does air enter the breathing system in humans?",
-      "options": ["Only the mouth", "The two nasal cavities or the mouth", "Only the nasal cavities", "The ears"],
+      "options": [
+        "Only the mouth",
+        "The two nasal cavities or the mouth",
+        "Only the nasal cavities",
+        "The ears"
+      ],
       "correctAnswer": "The two nasal cavities or the mouth"
     },
     {
       "id": 11,
       "question": "What do the tiny hairs that line the nasal cavities do?",
-      "options": ["Produce mucus", "Act as a filter keeping foreign particles out", "Warm the air", "Detect odors"],
+      "options": [
+        "Produce mucus",
+        "Act as a filter keeping foreign particles out",
+        "Warm the air",
+        "Detect odors"
+      ],
       "correctAnswer": "Act as a filter keeping foreign particles out"
     },
     {
       "id": 12,
       "question": "What does the mucus in the nasal cavity do?",
-      "options": ["Digests food", "Warms and moistens incoming air, traps foreign particles", "Produces oxygen", "Filters blood"],
+      "options": [
+        "Digests food",
+        "Warms and moistens incoming air, traps foreign particles",
+        "Produces oxygen",
+        "Filters blood"
+      ],
       "correctAnswer": "Warms and moistens incoming air, traps foreign particles"
     },
     {
       "id": 13,
       "question": "Where are the nostrils located?",
-      "options": ["On the pharynx", "In the nose", "In the trachea", "On the larynx"],
+      "options": [
+        "On the pharynx",
+        "In the nose",
+        "In the trachea",
+        "On the larynx"
+      ],
       "correctAnswer": "In the nose"
     },
     {
       "id": 14,
       "question": "What divides the nasal cavity into left and right sections?",
-      "options": ["Nasal conchae", "Nasal septum", "Hard palate", "Soft palate"],
+      "options": [
+        "Nasal conchae",
+        "Nasal septum",
+        "Hard palate",
+        "Soft palate"
+      ],
       "correctAnswer": "Nasal septum"
     },
     {
       "id": 15,
       "question": "Where does air move after leaving the nasal cavities?",
-      "options": ["To the trachea", "To the pharynx", "To the larynx", "To the bronchi"],
+      "options": [
+        "To the trachea",
+        "To the pharynx",
+        "To the larynx",
+        "To the bronchi"
+      ],
       "correctAnswer": "To the pharynx"
     },
     {
       "id": 16,
       "question": "What type of cells produce mucus to trap debris in the nasal epithelium?",
-      "options": ["Squamous cells", "Goblet cells", "Cuboidal cells", "Columnar cells"],
+      "options": [
+        "Squamous cells",
+        "Goblet cells",
+        "Cuboidal cells",
+        "Columnar cells"
+      ],
       "correctAnswer": "Goblet cells"
     },
     {
       "id": 17,
       "question": "What helps remove mucus and debris from the nasal cavity?",
-      "options": ["Hairs", "Cilia", "Enzymes", "Blood flow"],
+      "options": [
+        "Hairs",
+        "Cilia",
+        "Enzymes",
+        "Blood flow"
+      ],
       "correctAnswer": "Cilia"
     },
     {
       "id": 18,
       "question": "What effect does cold air have on cilia movement?",
-      "options": ["Speeds it up", "Slows it down", "Stops it completely", "No effect"],
+      "options": [
+        "Speeds it up",
+        "Slows it down",
+        "Stops it completely",
+        "No effect"
+      ],
       "correctAnswer": "Slows it down"
     },
     {
       "id": 19,
       "question": "What causes a runny nose in winter?",
-      "options": ["Increased cilia movement", "Accumulation of mucus due to slowed cilia", "More mucus production", "Decreased mucus production"],
+      "options": [
+        "Increased cilia movement",
+        "Accumulation of mucus due to slowed cilia",
+        "More mucus production",
+        "Decreased mucus production"
+      ],
       "correctAnswer": "Accumulation of mucus due to slowed cilia"
     },
     {
       "id": 20,
       "question": "What warms the incoming air in the nasal cavity?",
-      "options": ["Mucus", "Capillaries just beneath the nasal epithelium", "Cilia", "Goblet cells"],
+      "options": [
+        "Mucus",
+        "Capillaries just beneath the nasal epithelium",
+        "Cilia",
+        "Goblet cells"
+      ],
       "correctAnswer": "Capillaries just beneath the nasal epithelium"
     },
     {
       "id": 21,
       "question": "Why do you lose your ability to smell during a common cold or influenza?",
-      "options": ["Cilia stop working", "Thick mucus blocks receptors on the nasal epithelium", "The nose swells shut", "Olfactory nerves are damaged"],
+      "options": [
+        "Cilia stop working",
+        "Thick mucus blocks receptors on the nasal epithelium",
+        "The nose swells shut",
+        "Olfactory nerves are damaged"
+      ],
       "correctAnswer": "Thick mucus blocks receptors on the nasal epithelium"
     },
     {
       "id": 22,
       "question": "What is the pharynx made up of?",
-      "options": ["Smooth muscle and cartilage", "Skeletal muscle and mucous membrane", "Cardiac muscle and connective tissue", "Bone and ligament"],
+      "options": [
+        "Smooth muscle and cartilage",
+        "Skeletal muscle and mucous membrane",
+        "Cardiac muscle and connective tissue",
+        "Bone and ligament"
+      ],
       "correctAnswer": "Skeletal muscle and mucous membrane"
     },
     {
       "id": 23,
       "question": "What is another name for the pharynx?",
-      "options": ["Voice box", "Windpipe", "Throat", "Food pipe"],
+      "options": [
+        "Voice box",
+        "Windpipe",
+        "Throat",
+        "Food pipe"
+      ],
       "correctAnswer": "Throat"
     },
     {
       "id": 24,
       "question": "From which vertebra does the pharynx extend from the base of the skull to?",
-      "options": ["Fourth cervical vertebra", "Sixth cervical vertebra", "Eighth cervical vertebra", "Tenth thoracic vertebra"],
+      "options": [
+        "Fourth cervical vertebra",
+        "Sixth cervical vertebra",
+        "Eighth cervical vertebra",
+        "Tenth thoracic vertebra"
+      ],
       "correctAnswer": "Sixth cervical vertebra"
     },
     {
       "id": 25,
       "question": "What does the pharynx receive from the nasal cavity?",
-      "options": ["Food", "Air", "Blood", "Mucus"],
+      "options": [
+        "Food",
+        "Air",
+        "Blood",
+        "Mucus"
+      ],
       "correctAnswer": "Air"
     },
     {
       "id": 26,
       "question": "What does the pharynx receive from the oral cavity?",
-      "options": ["Only air", "Only food", "Air, food, and water", "Only water"],
+      "options": [
+        "Only air",
+        "Only food",
+        "Air, food, and water",
+        "Only water"
+      ],
       "correctAnswer": "Air, food, and water"
     },
     {
       "id": 27,
       "question": "The pharynx opens into which structures?",
-      "options": ["Nasal cavity and mouth", "Larynx and esophagus", "Trachea and bronchi", "Stomach and intestines"],
+      "options": [
+        "Nasal cavity and mouth",
+        "Larynx and esophagus",
+        "Trachea and bronchi",
+        "Stomach and intestines"
+      ],
       "correctAnswer": "Larynx and esophagus"
     },
     {
       "id": 28,
       "question": "What can pass through the upper part of the pharynx?",
-      "options": ["Only food", "Only air", "Air and food", "Water and food"],
+      "options": [
+        "Only food",
+        "Only air",
+        "Air and food",
+        "Water and food"
+      ],
       "correctAnswer": "Only air"
     },
     {
       "id": 29,
       "question": "What can pass through the lower parts of the pharynx?",
-      "options": ["Only air", "Air, food, and fluids", "Only food", "Only water"],
+      "options": [
+        "Only air",
+        "Air, food, and fluids",
+        "Only food",
+        "Only water"
+      ],
       "correctAnswer": "Air, food, and fluids"
     },
     {
       "id": 30,
       "question": "Which tonsils are located in the pharynx?",
-      "options": ["Only palatine tonsils", "Pharyngeal, palatine, and lingual tonsils", "Only lingual tonsils", "Only pharyngeal tonsils"],
+      "options": [
+        "Only palatine tonsils",
+        "Pharyngeal, palatine, and lingual tonsils",
+        "Only lingual tonsils",
+        "Only pharyngeal tonsils"
+      ],
       "correctAnswer": "Pharyngeal, palatine, and lingual tonsils"
     },
     {
       "id": 31,
       "question": "What type of cells does the pharyngeal tonsil contain in large numbers?",
-      "options": ["Red blood cells", "Platelets", "Lymphocytes", "Goblet cells"],
+      "options": [
+        "Red blood cells",
+        "Platelets",
+        "Lymphocytes",
+        "Goblet cells"
+      ],
       "correctAnswer": "Lymphocytes"
     },
     {
       "id": 32,
       "question": "What covers the pharyngeal tonsil to trap and destroy pathogens?",
-      "options": ["Cilia", "Ciliated epithelium", "Mucus", "Hair"],
+      "options": [
+        "Cilia",
+        "Ciliated epithelium",
+        "Mucus",
+        "Hair"
+      ],
       "correctAnswer": "Ciliated epithelium"
     },
     {
       "id": 33,
       "question": "What does the larynx connect?",
-      "options": ["Nose to pharynx", "Pharynx to trachea", "Trachea to bronchi", "Bronchi to alveoli"],
+      "options": [
+        "Nose to pharynx",
+        "Pharynx to trachea",
+        "Trachea to bronchi",
+        "Bronchi to alveoli"
+      ],
       "correctAnswer": "Pharynx to trachea"
     },
     {
       "id": 34,
       "question": "What helps the larynx regulate?",
-      "options": ["The amount of food swallowed", "The amount of air entering and leaving the lungs", "Blood flow", "Mucus production"],
+      "options": [
+        "The amount of food swallowed",
+        "The amount of air entering and leaving the lungs",
+        "Blood flow",
+        "Mucus production"
+      ],
       "correctAnswer": "The amount of air entering and leaving the lungs"
     },
     {
       "id": 35,
       "question": "What is the structure of the larynx made of?",
-      "options": ["Bone", "Several pieces of cartilage", "Smooth muscle", "Ligaments only"],
+      "options": [
+        "Bone",
+        "Several pieces of cartilage",
+        "Smooth muscle",
+        "Ligaments only"
+      ],
       "correctAnswer": "Several pieces of cartilage"
     },
     {
       "id": 36,
       "question": "What is the epiglottis?",
-      "options": ["A bone in the larynx", "A thin, elastic cartilage that covers the trachea's opening", "A muscle in the pharynx", "A valve in the esophagus"],
+      "options": [
+        "A bone in the larynx",
+        "A thin, elastic cartilage that covers the trachea's opening",
+        "A muscle in the pharynx",
+        "A valve in the esophagus"
+      ],
       "correctAnswer": "A thin, elastic cartilage that covers the trachea's opening"
     },
     {
       "id": 37,
       "question": "What is the epiglottis attached to?",
-      "options": ["Hyoid bone", "Thyroid cartilage", "Cricoid cartilage", "Arytenoid cartilage"],
+      "options": [
+        "Hyoid bone",
+        "Thyroid cartilage",
+        "Cricoid cartilage",
+        "Arytenoid cartilage"
+      ],
       "correctAnswer": "Thyroid cartilage"
     },
     {
       "id": 38,
       "question": "What is the glottis made up of?",
-      "options": ["Epiglottis and thyroid cartilage", "Vestibular folds, true vocal cords, and space between them", "Arytenoid and cricoid cartilage", "False vocal cords only"],
+      "options": [
+        "Epiglottis and thyroid cartilage",
+        "Vestibular folds, true vocal cords, and space between them",
+        "Arytenoid and cricoid cartilage",
+        "False vocal cords only"
+      ],
       "correctAnswer": "Vestibular folds, true vocal cords, and space between them"
     },
     {
       "id": 39,
       "question": "What do the inner borders of the true vocal cords allow?",
-      "options": ["Air to pass freely", "Oscillation to make sound", "Food to pass", "Mucus to flow"],
+      "options": [
+        "Air to pass freely",
+        "Oscillation to make sound",
+        "Food to pass",
+        "Mucus to flow"
+      ],
       "correctAnswer": "Oscillation to make sound"
     },
     {
       "id": 40,
       "question": "Why do males have deeper voices than females?",
-      "options": ["Males have larger lungs", "Males have greater vocal cord folds", "Males have larger tracheas", "Males have more cartilage"],
+      "options": [
+        "Males have larger lungs",
+        "Males have greater vocal cord folds",
+        "Males have larger tracheas",
+        "Males have more cartilage"
+      ],
       "correctAnswer": "Males have greater vocal cord folds"
     },
     {
       "id": 41,
       "question": "During swallowing, what happens to the epiglottis?",
-      "options": ["It lifts upward", "It swings downward to close the trachea opening", "It remains stationary", "It opens wider"],
+      "options": [
+        "It lifts upward",
+        "It swings downward to close the trachea opening",
+        "It remains stationary",
+        "It opens wider"
+      ],
       "correctAnswer": "It swings downward to close the trachea opening"
     },
     {
       "id": 42,
       "question": "Another name for the trachea is:",
-      "options": ["Voice box", "Throat", "Windpipe", "Food pipe"],
+      "options": [
+        "Voice box",
+        "Throat",
+        "Windpipe",
+        "Food pipe"
+      ],
       "correctAnswer": "Windpipe"
     },
     {
       "id": 43,
       "question": "How many stacked pieces of cartilage form the trachea?",
-      "options": ["10 to 15", "16 to 20", "21 to 25", "26 to 30"],
+      "options": [
+        "10 to 15",
+        "16 to 20",
+        "21 to 25",
+        "26 to 30"
+      ],
       "correctAnswer": "16 to 20"
     },
     {
       "id": 44,
       "question": "What connects the pieces of cartilage in the trachea?",
-      "options": ["Ligaments", "Connective tissue", "Muscles", "Tendons"],
+      "options": [
+        "Ligaments",
+        "Connective tissue",
+        "Muscles",
+        "Tendons"
+      ],
       "correctAnswer": "Connective tissue"
     },
     {
       "id": 45,
       "question": "What prevents the trachea from collapsing?",
-      "options": ["Mucus", "The rings of cartilage", "Smooth muscle", "Cilia"],
+      "options": [
+        "Mucus",
+        "The rings of cartilage",
+        "Smooth muscle",
+        "Cilia"
+      ],
       "correctAnswer": "The rings of cartilage"
     },
     {
       "id": 46,
       "question": "What do the right and left primary bronchi branch from?",
-      "options": ["Larynx", "Pharynx", "Trachea", "Bronchioles"],
+      "options": [
+        "Larynx",
+        "Pharynx",
+        "Trachea",
+        "Bronchioles"
+      ],
       "correctAnswer": "Trachea"
     },
     {
       "id": 47,
       "question": "What do the primary bronchi further branch into?",
-      "options": ["Terminal bronchioles", "Secondary and tertiary bronchi", "Alveolar ducts", "Alveoli"],
+      "options": [
+        "Terminal bronchioles",
+        "Secondary and tertiary bronchi",
+        "Alveolar ducts",
+        "Alveoli"
+      ],
       "correctAnswer": "Secondary and tertiary bronchi"
     },
     {
       "id": 48,
       "question": "What branches from the tertiary bronchi?",
-      "options": ["Alveoli", "Bronchioles", "Alveolar ducts", "Terminal sacs"],
+      "options": [
+        "Alveoli",
+        "Bronchioles",
+        "Alveolar ducts",
+        "Terminal sacs"
+      ],
       "correctAnswer": "Bronchioles"
     },
     {
       "id": 49,
       "question": "What is the approximate diameter of a bronchiole?",
-      "options": ["0.5 mm", "1 mm", "2 mm", "3 mm"],
+      "options": [
+        "0.5 mm",
+        "1 mm",
+        "2 mm",
+        "3 mm"
+      ],
       "correctAnswer": "1 mm"
     },
     {
       "id": 50,
       "question": "How many terminal bronchioles are in each lung?",
-      "options": ["More than 100", "More than 500", "More than 1000", "More than 5000"],
+      "options": [
+        "More than 100",
+        "More than 500",
+        "More than 1000",
+        "More than 5000"
+      ],
       "correctAnswer": "More than 1000"
     },
     {
       "id": 51,
       "question": "What do the muscular walls of bronchioles lack that bronchi have?",
-      "options": ["Mucus", "Cartilage", "Cilia", "Smooth muscle"],
+      "options": [
+        "Mucus",
+        "Cartilage",
+        "Cilia",
+        "Smooth muscle"
+      ],
       "correctAnswer": "Cartilage"
     },
     {
       "id": 52,
       "question": "What can smooth muscle in bronchioles change?",
-      "options": ["The amount of mucus", "The size of the tubing to increase or decrease airflow", "The number of cilia", "The amount of cartilage"],
+      "options": [
+        "The amount of mucus",
+        "The size of the tubing to increase or decrease airflow",
+        "The number of cilia",
+        "The amount of cartilage"
+      ],
       "correctAnswer": "The size of the tubing to increase or decrease airflow"
     },
     {
       "id": 53,
       "question": "Where does the breathing zone begin?",
-      "options": ["At the trachea", "Where terminal bronchioles join a breathing bronchiole", "At the pharynx", "At the larynx"],
+      "options": [
+        "At the trachea",
+        "Where terminal bronchioles join a breathing bronchiole",
+        "At the pharynx",
+        "At the larynx"
+      ],
       "correctAnswer": "Where terminal bronchioles join a breathing bronchiole"
     },
     {
       "id": 54,
       "question": "What does a breathing bronchiole lead to?",
-      "options": ["A terminal bronchiole", "An alveolar duct that opens into a cluster of alveoli", "A primary bronchiole", "A secondary bronchiole"],
+      "options": [
+        "A terminal bronchiole",
+        "An alveolar duct that opens into a cluster of alveoli",
+        "A primary bronchiole",
+        "A secondary bronchiole"
+      ],
       "correctAnswer": "An alveolar duct that opens into a cluster of alveoli"
     },
     {
       "id": 55,
       "question": "What is an alveolar sac?",
-      "options": ["A single air sac", "A cluster of many individual alveoli", "A passageway for air", "A cartilage structure"],
+      "options": [
+        "A single air sac",
+        "A cluster of many individual alveoli",
+        "A passageway for air",
+        "A cartilage structure"
+      ],
       "correctAnswer": "A cluster of many individual alveoli"
     },
     {
       "id": 56,
       "question": "What are alveoli responsible for?",
-      "options": ["Filtering air", "Gas exchange", "Producing mucus", "Warming air"],
+      "options": [
+        "Filtering air",
+        "Gas exchange",
+        "Producing mucus",
+        "Warming air"
+      ],
       "correctAnswer": "Gas exchange"
     },
     {
       "id": 57,
       "question": "What do the elastic walls of alveoli do during air intake?",
-      "options": ["Contract", "Stretch, greatly increasing surface area", "Collapse", "Harden"],
+      "options": [
+        "Contract",
+        "Stretch, greatly increasing surface area",
+        "Collapse",
+        "Harden"
+      ],
       "correctAnswer": "Stretch, greatly increasing surface area"
     },
     {
       "id": 58,
       "question": "What connects alveoli to their neighbours?",
-      "options": ["Alveolar ducts", "Alveolar pores", "Capillaries", "Bronchioles"],
+      "options": [
+        "Alveolar ducts",
+        "Alveolar pores",
+        "Capillaries",
+        "Bronchioles"
+      ],
       "correctAnswer": "Alveolar pores"
     },
     {
       "id": 59,
       "question": "What function do alveolar pores serve?",
-      "options": ["Increase surface area", "Help maintain equal air pressure throughout the alveoli and lung", "Allow blood flow", "Transport mucus"],
+      "options": [
+        "Increase surface area",
+        "Help maintain equal air pressure throughout the alveoli and lung",
+        "Allow blood flow",
+        "Transport mucus"
+      ],
       "correctAnswer": "Help maintain equal air pressure throughout the alveoli and lung"
     },
     {
       "id": 60,
       "question": "What percentage of atmospheric air is oxygen?",
-      "options": ["16%", "21%", "78%", "0.04%"],
+      "options": [
+        "16%",
+        "21%",
+        "78%",
+        "0.04%"
+      ],
       "correctAnswer": "21%"
     },
     {
       "id": 61,
       "question": "What percentage of atmospheric air is nitrogen?",
-      "options": ["21%", "78%", "0.04%", "4%"],
+      "options": [
+        "21%",
+        "78%",
+        "0.04%",
+        "4%"
+      ],
       "correctAnswer": "78%"
     },
     {
       "id": 62,
       "question": "What percentage of atmospheric air is carbon dioxide?",
-      "options": ["4%", "0.04%", "16%", "78%"],
+      "options": [
+        "4%",
+        "0.04%",
+        "16%",
+        "78%"
+      ],
       "correctAnswer": "0.04%"
     },
     {
       "id": 63,
       "question": "What percentage of exhaled air is oxygen?",
-      "options": ["21%", "16%", "4%", "78%"],
+      "options": [
+        "21%",
+        "16%",
+        "4%",
+        "78%"
+      ],
       "correctAnswer": "16%"
     },
     {
       "id": 64,
       "question": "What percentage of exhaled air is carbon dioxide?",
-      "options": ["0.04%", "4%", "16%", "21%"],
+      "options": [
+        "0.04%",
+        "4%",
+        "16%",
+        "21%"
+      ],
       "correctAnswer": "4%"
     },
     {
       "id": 65,
       "question": "At what temperature is exhaled air?",
-      "options": ["Room temperature", "37 degrees centigrade", "20 degrees centigrade", "40 degrees centigrade"],
+      "options": [
+        "Room temperature",
+        "37 degrees centigrade",
+        "20 degrees centigrade",
+        "40 degrees centigrade"
+      ],
       "correctAnswer": "37 degrees centigrade"
     },
     {
       "id": 66,
       "question": "Gases move from an area of which pressure?",
-      "options": ["Low to high pressure", "High pressure to low pressure", "Equal to any pressure", "Low to equal pressure"],
+      "options": [
+        "Low to high pressure",
+        "High pressure to low pressure",
+        "Equal to any pressure",
+        "Low to equal pressure"
+      ],
       "correctAnswer": "High pressure to low pressure"
     },
     {
       "id": 67,
       "question": "When does inspiration (inhalation) occur?",
-      "options": ["When lung pressure is greater than atmospheric", "When lung pressure is less than atmospheric", "When lung pressure equals atmospheric", "When the diaphragm relaxes"],
+      "options": [
+        "When lung pressure is greater than atmospheric",
+        "When lung pressure is less than atmospheric",
+        "When lung pressure equals atmospheric",
+        "When the diaphragm relaxes"
+      ],
       "correctAnswer": "When lung pressure is less than atmospheric"
     },
     {
       "id": 68,
       "question": "When does expiration (exhalation) occur?",
-      "options": ["When lung pressure is less than atmospheric", "When lung pressure is greater than atmospheric", "When lung pressure equals atmospheric", "When the diaphragm contracts"],
+      "options": [
+        "When lung pressure is less than atmospheric",
+        "When lung pressure is greater than atmospheric",
+        "When lung pressure equals atmospheric",
+        "When the diaphragm contracts"
+      ],
       "correctAnswer": "When lung pressure is greater than atmospheric"
     },
     {
       "id": 69,
       "question": "What is the diaphragm?",
-      "options": ["A muscle in the arm", "A dome-shaped sheet of muscle separating thoracic from abdominal cavity", "A cartilage in the throat", "A valve in the heart"],
+      "options": [
+        "A muscle in the arm",
+        "A dome-shaped sheet of muscle separating thoracic from abdominal cavity",
+        "A cartilage in the throat",
+        "A valve in the heart"
+      ],
       "correctAnswer": "A dome-shaped sheet of muscle separating thoracic from abdominal cavity"
     },
     {
       "id": 70,
       "question": "What happens to the diaphragm during inspiration?",
-      "options": ["It relaxes", "It contracts and pulls downward", "It moves sideways", "It expands outward"],
+      "options": [
+        "It relaxes",
+        "It contracts and pulls downward",
+        "It moves sideways",
+        "It expands outward"
+      ],
       "correctAnswer": "It contracts and pulls downward"
     },
     {
       "id": 71,
       "question": "What happens to chest volume during inspiration?",
-      "options": ["Decreases", "Increases", "Stays the same", "Fluctuates"],
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays the same",
+        "Fluctuates"
+      ],
       "correctAnswer": "Increases"
     },
     {
       "id": 72,
       "question": "What happens to pressure in the lungs during inspiration?",
-      "options": ["Increases", "Decreases", "Stays the same", "Reaches equilibrium"],
+      "options": [
+        "Increases",
+        "Decreases",
+        "Stays the same",
+        "Reaches equilibrium"
+      ],
       "correctAnswer": "Decreases"
     },
     {
       "id": 73,
       "question": "What happens to the diaphragm during expiration?",
-      "options": ["It contracts", "It relaxes and returns to its dome shape", "It flattens further", "It moves sideways"],
+      "options": [
+        "It contracts",
+        "It relaxes and returns to its dome shape",
+        "It flattens further",
+        "It moves sideways"
+      ],
       "correctAnswer": "It relaxes and returns to its dome shape"
     },
     {
       "id": 74,
       "question": "What happens to chest volume during expiration?",
-      "options": ["Increases", "Decreases", "Stays the same", "Expands"],
+      "options": [
+        "Increases",
+        "Decreases",
+        "Stays the same",
+        "Expands"
+      ],
       "correctAnswer": "Decreases"
     },
     {
       "id": 75,
       "question": "What happens to pressure in the chest cavity during expiration?",
-      "options": ["Decreases", "Increases", "Stays the same", "Equalizes with atmosphere"],
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays the same",
+        "Equalizes with atmosphere"
+      ],
       "correctAnswer": "Increases"
     },
     {
       "id": 76,
       "question": "During inspiration, what do the external intercostal muscles do?",
-      "options": ["Relax", "Contract, pulling the ribs up and out", "Contract, pulling the ribs down", "Remain inactive"],
+      "options": [
+        "Relax",
+        "Contract, pulling the ribs up and out",
+        "Contract, pulling the ribs down",
+        "Remain inactive"
+      ],
       "correctAnswer": "Contract, pulling the ribs up and out"
     },
     {
       "id": 77,
       "question": "During expiration, what do the internal intercostal muscles do?",
-      "options": ["Relax", "Contract, pulling the ribs down and in", "Contract, pulling the ribs up", "Remain inactive"],
+      "options": [
+        "Relax",
+        "Contract, pulling the ribs down and in",
+        "Contract, pulling the ribs up",
+        "Remain inactive"
+      ],
       "correctAnswer": "Contract, pulling the ribs down and in"
     },
     {
       "id": 78,
       "question": "During inspiration, what do the internal intercostal muscles do?",
-      "options": ["Contract", "Relax", "Pull ribs down", "Pull ribs up"],
+      "options": [
+        "Contract",
+        "Relax",
+        "Pull ribs down",
+        "Pull ribs up"
+      ],
       "correctAnswer": "Relax"
     },
     {
       "id": 79,
       "question": "During expiration, what do the external intercostal muscles do?",
-      "options": ["Contract", "Relax", "Pull ribs up", "Pull ribs down"],
+      "options": [
+        "Contract",
+        "Relax",
+        "Pull ribs up",
+        "Pull ribs down"
+      ],
       "correctAnswer": "Relax"
     },
     {
       "id": 80,
       "question": "What happens to the rib cage and sternum during inspiration?",
-      "options": ["Move downwards and inwards", "Move upwards and outwards", "Remain stationary", "Move backwards"],
+      "options": [
+        "Move downwards and inwards",
+        "Move upwards and outwards",
+        "Remain stationary",
+        "Move backwards"
+      ],
       "correctAnswer": "Move upwards and outwards"
     },
     {
       "id": 81,
       "question": "What happens to the rib cage and sternum during expiration?",
-      "options": ["Move upwards and outwards", "Move downwards and inwards", "Remain stationary", "Move forwards"],
+      "options": [
+        "Move upwards and outwards",
+        "Move downwards and inwards",
+        "Remain stationary",
+        "Move forwards"
+      ],
       "correctAnswer": "Move downwards and inwards"
     },
     {
       "id": 82,
       "question": "What happens to thorax volume during inspiration?",
-      "options": ["Decreases", "Increases", "No change", "Oscillates"],
+      "options": [
+        "Decreases",
+        "Increases",
+        "No change",
+        "Oscillates"
+      ],
       "correctAnswer": "Increases"
     },
     {
       "id": 83,
       "question": "What happens to thorax volume during expiration?",
-      "options": ["Increases", "Decreases", "No change", "Expands"],
+      "options": [
+        "Increases",
+        "Decreases",
+        "No change",
+        "Expands"
+      ],
       "correctAnswer": "Decreases"
     },
     {
       "id": 84,
       "question": "What drives air into the lungs during inspiration?",
-      "options": ["High internal lung pressure", "External air pressure", "Muscle relaxation", "Gravity"],
+      "options": [
+        "High internal lung pressure",
+        "External air pressure",
+        "Muscle relaxation",
+        "Gravity"
+      ],
       "correctAnswer": "External air pressure"
     },
     {
       "id": 85,
       "question": "What forces air out of the lungs during expiration?",
-      "options": ["External air pressure", "Thorax compression and elastic recoil of lungs", "Diaphragm contraction", "Rib expansion"],
+      "options": [
+        "External air pressure",
+        "Thorax compression and elastic recoil of lungs",
+        "Diaphragm contraction",
+        "Rib expansion"
+      ],
       "correctAnswer": "Thorax compression and elastic recoil of lungs"
     },
     {
       "id": 86,
       "question": "What kind of lime water color change indicates exhaled carbon dioxide?",
-      "options": ["Turns red", "Turns milky/cloudy", "Turns blue", "Turns green"],
+      "options": [
+        "Turns red",
+        "Turns milky/cloudy",
+        "Turns blue",
+        "Turns green"
+      ],
       "correctAnswer": "Turns milky/cloudy"
     },
     {
       "id": 87,
       "question": "What is bronchitis?",
-      "options": ["A condition where the mucous lining of the bronchial tubes becomes inflamed", "A condition where alveolar walls rupture", "A condition where the trachea narrows", "A condition of the pharynx"],
+      "options": [
+        "A condition where the mucous lining of the bronchial tubes becomes inflamed",
+        "A condition where alveolar walls rupture",
+        "A condition where the trachea narrows",
+        "A condition of the pharynx"
+      ],
       "correctAnswer": "A condition where the mucous lining of the bronchial tubes becomes inflamed"
     },
     {
       "id": 88,
       "question": "What are symptoms of bronchitis?",
-      "options": ["Excess mucus production, tissue swelling, constriction of airways, restricted airflow", "Alveolar rupture", "Tracheal collapse", "Loss of voice"],
+      "options": [
+        "Excess mucus production, tissue swelling, constriction of airways, restricted airflow",
+        "Alveolar rupture",
+        "Tracheal collapse",
+        "Loss of voice"
+      ],
       "correctAnswer": "Excess mucus production, tissue swelling, constriction of airways, restricted airflow"
     },
     {
       "id": 89,
       "question": "Unlike the trachea and bronchi, the bronchioles are not maintained by what?",
-      "options": ["Mucus", "Cartilage bands", "Smooth muscle", "Cilia"],
+      "options": [
+        "Mucus",
+        "Cartilage bands",
+        "Smooth muscle",
+        "Cilia"
+      ],
       "correctAnswer": "Cartilage bands"
     },
     {
       "id": 90,
       "question": "What happens to alveolar walls in emphysema?",
-      "options": ["They thicken", "They become irritated, lose flexibility, stretch, and eventually rupture", "They produce more mucus", "They develop more cilia"],
+      "options": [
+        "They thicken",
+        "They become irritated, lose flexibility, stretch, and eventually rupture",
+        "They produce more mucus",
+        "They develop more cilia"
+      ],
       "correctAnswer": "They become irritated, lose flexibility, stretch, and eventually rupture"
     },
     {
       "id": 91,
       "question": "Why does exhalation become difficult in emphysema?",
-      "options": ["Too much mucus", "Air becomes trapped in the lungs", "The diaphragm is paralyzed", "The trachea collapses"],
+      "options": [
+        "Too much mucus",
+        "Air becomes trapped in the lungs",
+        "The diaphragm is paralyzed",
+        "The trachea collapses"
+      ],
       "correctAnswer": "Air becomes trapped in the lungs"
     },
     {
       "id": 92,
       "question": "What is the most common cause of emphysema?",
-      "options": ["Allergens", "Smoking", "Pollution", "Bacteria"],
+      "options": [
+        "Allergens",
+        "Smoking",
+        "Pollution",
+        "Bacteria"
+      ],
       "correctAnswer": "Smoking"
     },
     {
       "id": 93,
       "question": "What is the name given to the combination of chronic bronchitis and emphysema?",
-      "options": ["COPD (Chronic Obstructive Pulmonary Disease)", "Asthma", "Bronchitis", "Lung cancer"],
+      "options": [
+        "COPD (Chronic Obstructive Pulmonary Disease)",
+        "Asthma",
+        "Bronchitis",
+        "Lung cancer"
+      ],
       "correctAnswer": "COPD (Chronic Obstructive Pulmonary Disease)"
     },
     {
       "id": 94,
       "question": "How does the circulatory system respond to COPD?",
-      "options": ["Slowing down the heartbeat", "Speeding up the heartbeat", "Dilating blood vessels", "Constricting blood vessels"],
+      "options": [
+        "Slowing down the heartbeat",
+        "Speeding up the heartbeat",
+        "Dilating blood vessels",
+        "Constricting blood vessels"
+      ],
       "correctAnswer": "Speeding up the heartbeat"
     },
     {
       "id": 95,
       "question": "Bronchial asthma is linked to inflammation of which structures?",
-      "options": ["Alveoli", "Bronchioles", "Trachea", "Pharynx"],
+      "options": [
+        "Alveoli",
+        "Bronchioles",
+        "Trachea",
+        "Pharynx"
+      ],
       "correctAnswer": "Bronchioles"
     },
     {
       "id": 96,
       "question": "Which phase of breathing requires more work in asthma?",
-      "options": ["Inhalation", "Exhalation", "Both equally", "Neither"],
+      "options": [
+        "Inhalation",
+        "Exhalation",
+        "Both equally",
+        "Neither"
+      ],
       "correctAnswer": "Exhalation"
     },
     {
       "id": 97,
       "question": "What are common causes of asthma?",
-      "options": ["Tobacco smoking, pollution, and allergens such as pollen, mold, dust", "Lack of exercise", "Overeating", "Drinking cold water"],
+      "options": [
+        "Tobacco smoking, pollution, and allergens such as pollen, mold, dust",
+        "Lack of exercise",
+        "Overeating",
+        "Drinking cold water"
+      ],
       "correctAnswer": "Tobacco smoking, pollution, and allergens such as pollen, mold, dust"
     },
     {
       "id": 98,
       "question": "The right lung is divided into how many lobes?",
-      "options": ["Two", "Three", "Four", "Five"],
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
       "correctAnswer": "Three"
     },
     {
       "id": 99,
       "question": "The left lung is divided into how many lobes?",
-      "options": ["Two", "Three", "Four", "Five"],
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
       "correctAnswer": "Two"
     },
     {
       "id": 100,
       "question": "What are the parts of the respiration process?",
-      "options": ["Ventilation, external respiration, gas transfer, internal respiration, cellular respiration", "Inhalation and exhalation only", "Oxygen intake and carbon dioxide removal", "Breathing and gas exchange"],
+      "options": [
+        "Ventilation, external respiration, gas transfer, internal respiration, cellular respiration",
+        "Inhalation and exhalation only",
+        "Oxygen intake and carbon dioxide removal",
+        "Breathing and gas exchange"
+      ],
       "correctAnswer": "Ventilation, external respiration, gas transfer, internal respiration, cellular respiration"
     }
   ]

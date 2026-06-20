@@ -1,81 +1,145 @@
 {
   "title": "2.2 Flowering and Non-flowering Plants",
   "description": "Flowering and non-flowering plants — every fact from the textbook.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 2",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade10", "plants"],
+  "tags": [
+    "biology",
+    "grade10",
+    "plants"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "With what features is the concept of a plant widely associated?",
-      "options": ["Only roots and leaves", "Flowers, root, stem and leaves having transporting vessels", "Only stems and flowers", "Only leaves and fruits"],
+      "options": [
+        "Only roots and leaves",
+        "Flowers, root, stem and leaves having transporting vessels",
+        "Only stems and flowers",
+        "Only leaves and fruits"
+      ],
       "correctAnswer": "Flowers, root, stem and leaves having transporting vessels"
     },
     {
       "id": 2,
       "question": "What are mosses and liverworts classified as?",
-      "options": ["Vascular plants", "Non-vascular plants", "Flowering plants", "Gymnosperms"],
+      "options": [
+        "Vascular plants",
+        "Non-vascular plants",
+        "Flowering plants",
+        "Gymnosperms"
+      ],
       "correctAnswer": "Non-vascular plants"
     },
     {
       "id": 3,
       "question": "What do non-vascular plants lack?",
-      "options": ["Leaves", "A transporting system or conducting vessels", "Roots", "Chlorophyll"],
+      "options": [
+        "Leaves",
+        "A transporting system or conducting vessels",
+        "Roots",
+        "Chlorophyll"
+      ],
       "correctAnswer": "A transporting system or conducting vessels"
     },
     {
       "id": 4,
       "question": "What is a characteristic of non-vascular plants regarding their size?",
-      "options": ["They are generally tall", "They are generally small with limited height", "They can grow to any height", "They are medium-sized"],
+      "options": [
+        "They are generally tall",
+        "They are generally small with limited height",
+        "They can grow to any height",
+        "They are medium-sized"
+      ],
       "correctAnswer": "They are generally small with limited height"
     },
     {
       "id": 5,
       "question": "Where are non-vascular plants restricted to?",
-      "options": ["Dry and sunny areas", "Sandy deserts", "Moist and shaded areas", "High mountain tops"],
+      "options": [
+        "Dry and sunny areas",
+        "Sandy deserts",
+        "Moist and shaded areas",
+        "High mountain tops"
+      ],
       "correctAnswer": "Moist and shaded areas"
     },
     {
       "id": 6,
       "question": "Do lower plants produce seeds, flowers and fruits?",
-      "options": ["They produce all three", "They are seedless and do not have flowers and fruits", "They produce only seeds", "They produce only flowers"],
+      "options": [
+        "They produce all three",
+        "They are seedless and do not have flowers and fruits",
+        "They produce only seeds",
+        "They produce only flowers"
+      ],
       "correctAnswer": "They are seedless and do not have flowers and fruits"
     },
     {
       "id": 7,
       "question": "What structures do gymnosperms have?",
-      "options": ["Well-developed root, stem and leaves", "Only stems and leaves", "Only roots", "Flowers and fruits"],
+      "options": [
+        "Well-developed root, stem and leaves",
+        "Only stems and leaves",
+        "Only roots",
+        "Flowers and fruits"
+      ],
       "correctAnswer": "Well-developed root, stem and leaves"
     },
     {
       "id": 8,
       "question": "What structure serves as the reproductive organ in gymnosperms instead of flowers?",
-      "options": ["Fruit", "Cone", "Spore", "Bud"],
+      "options": [
+        "Fruit",
+        "Cone",
+        "Spore",
+        "Bud"
+      ],
       "correctAnswer": "Cone"
     },
     {
       "id": 9,
       "question": "How are seeds in gymnosperm cones described?",
-      "options": ["Covered by fruit", "Without cover (naked seeds)", "Enclosed in a pod", "Surrounded by flesh"],
+      "options": [
+        "Covered by fruit",
+        "Without cover (naked seeds)",
+        "Enclosed in a pod",
+        "Surrounded by flesh"
+      ],
       "correctAnswer": "Without cover (naked seeds)"
     },
     {
       "id": 10,
       "question": "What are flowering plants commonly known as?",
-      "options": ["Gymnosperms", "Angiosperms", "Bryophytes", "Pteridophytes"],
+      "options": [
+        "Gymnosperms",
+        "Angiosperms",
+        "Bryophytes",
+        "Pteridophytes"
+      ],
       "correctAnswer": "Angiosperms"
     },
     {
       "id": 11,
       "question": "What feature distinguishes angiosperms from gymnosperms?",
-      "options": ["Angiosperms have cones", "Angiosperms have flowers and produce seeds within a fruit", "Angiosperms have naked seeds", "Angiosperms lack vascular tissue"],
+      "options": [
+        "Angiosperms have cones",
+        "Angiosperms have flowers and produce seeds within a fruit",
+        "Angiosperms have naked seeds",
+        "Angiosperms lack vascular tissue"
+      ],
       "correctAnswer": "Angiosperms have flowers and produce seeds within a fruit"
     },
     {
       "id": 12,
       "question": "What are gymnosperm seeds produced in their cone described as?",
-      "options": ["Enclosed in a fruit", "Naked seeds without cover", "Covered with flesh", "Wrapped in a pod"],
+      "options": [
+        "Enclosed in a fruit",
+        "Naked seeds without cover",
+        "Covered with flesh",
+        "Wrapped in a pod"
+      ],
       "correctAnswer": "Naked seeds without cover"
     }
   ]

@@ -1,195 +1,354 @@
 {
   "title": "2.8 Transport in Plants",
   "description": "Transport in plants — every fact from the textbook.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 2",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade10", "plants"],
+  "tags": [
+    "biology",
+    "grade10",
+    "plants"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "What are the transporting vessels of higher plants collectively called?",
-      "options": ["Veins", "Vascular bundles", "Capillaries", "Fibres"],
+      "options": [
+        "Veins",
+        "Vascular bundles",
+        "Capillaries",
+        "Fibres"
+      ],
       "correctAnswer": "Vascular bundles"
     },
     {
       "id": 2,
       "question": "What are the two types of transporting vessels in plants?",
-      "options": ["Xylem and phloem", "Root and stem", "Leaf and flower", "Cortex and pith"],
+      "options": [
+        "Xylem and phloem",
+        "Root and stem",
+        "Leaf and flower",
+        "Cortex and pith"
+      ],
       "correctAnswer": "Xylem and phloem"
     },
     {
       "id": 3,
       "question": "What does xylem transport?",
-      "options": ["Food from leaves to roots", "Water and minerals from root to leaf", "Only minerals", "Only water"],
+      "options": [
+        "Food from leaves to roots",
+        "Water and minerals from root to leaf",
+        "Only minerals",
+        "Only water"
+      ],
       "correctAnswer": "Water and minerals from root to leaf"
     },
     {
       "id": 4,
       "question": "What type of cells make up xylem?",
-      "options": ["Living cells arranged end to end", "Elongated dead cells joined end to end to form continuous vessels", "Thin-walled parenchyma cells", "Meristematic cells"],
+      "options": [
+        "Living cells arranged end to end",
+        "Elongated dead cells joined end to end to form continuous vessels",
+        "Thin-walled parenchyma cells",
+        "Meristematic cells"
+      ],
       "correctAnswer": "Elongated dead cells joined end to end to form continuous vessels"
     },
     {
       "id": 5,
       "question": "What does phloem transport?",
-      "options": ["Water and minerals", "Organic matter (food) manufactured in the leaf to the rest of the plant", "Only water", "Only minerals"],
+      "options": [
+        "Water and minerals",
+        "Organic matter (food) manufactured in the leaf to the rest of the plant",
+        "Only water",
+        "Only minerals"
+      ],
       "correctAnswer": "Organic matter (food) manufactured in the leaf to the rest of the plant"
     },
     {
       "id": 6,
       "question": "What type of cells make up phloem?",
-      "options": ["Dead cells arranged end to end", "Living cells arranged end to end", "Single cells with no connections", "Elongated dead cells"],
+      "options": [
+        "Dead cells arranged end to end",
+        "Living cells arranged end to end",
+        "Single cells with no connections",
+        "Elongated dead cells"
+      ],
       "correctAnswer": "Living cells arranged end to end"
     },
     {
       "id": 7,
       "question": "What is the transport of food through phloem called?",
-      "options": ["Transpiration", "Translocation", "Photosynthesis", "Absorption"],
+      "options": [
+        "Transpiration",
+        "Translocation",
+        "Photosynthesis",
+        "Absorption"
+      ],
       "correctAnswer": "Translocation"
     },
     {
       "id": 8,
       "question": "What substances does phloem transport?",
-      "options": ["Water and minerals", "Sucrose and amino acids", "Only sucrose", "Only amino acids"],
+      "options": [
+        "Water and minerals",
+        "Sucrose and amino acids",
+        "Only sucrose",
+        "Only amino acids"
+      ],
       "correctAnswer": "Sucrose and amino acids"
     },
     {
       "id": 9,
       "question": "Can phloem transport food up and down the plant?",
-      "options": ["No, only upward", "No, only downward", "Yes, both up and down", "Only horizontally"],
+      "options": [
+        "No, only upward",
+        "No, only downward",
+        "Yes, both up and down",
+        "Only horizontally"
+      ],
       "correctAnswer": "Yes, both up and down"
     },
     {
       "id": 10,
       "question": "What are sites of food production (sources) and sites of use or storage (sinks) connected by?",
-      "options": ["Only xylem", "Translocation through phloem", "Only roots", "Only leaves"],
+      "options": [
+        "Only xylem",
+        "Translocation through phloem",
+        "Only roots",
+        "Only leaves"
+      ],
       "correctAnswer": "Translocation through phloem"
     },
     {
       "id": 11,
       "question": "Why is the stem of sugar cane so sweet?",
-      "options": ["It contains more water", "Sugars synthesized in the leaf are converted to starch and accumulated in storage organs", "It produces sugar directly", "It absorbs sugar from soil"],
+      "options": [
+        "It contains more water",
+        "Sugars synthesized in the leaf are converted to starch and accumulated in storage organs",
+        "It produces sugar directly",
+        "It absorbs sugar from soil"
+      ],
       "correctAnswer": "Sugars synthesized in the leaf are converted to starch and accumulated in storage organs"
     },
     {
       "id": 12,
       "question": "What are examples of storage organs in plants?",
-      "options": ["Only roots", "Root and stem tubers, leaves, seeds and fruits", "Only fruits", "Only stems"],
+      "options": [
+        "Only roots",
+        "Root and stem tubers, leaves, seeds and fruits",
+        "Only fruits",
+        "Only stems"
+      ],
       "correctAnswer": "Root and stem tubers, leaves, seeds and fruits"
     },
     {
       "id": 13,
       "question": "How does water from the soil first enter the root?",
-      "options": ["Through the root cap", "Through root hairs, which are elongated single cells", "Through the endodermis", "Through the pericycle"],
+      "options": [
+        "Through the root cap",
+        "Through root hairs, which are elongated single cells",
+        "Through the endodermis",
+        "Through the pericycle"
+      ],
       "correctAnswer": "Through root hairs, which are elongated single cells"
     },
     {
       "id": 14,
       "question": "What do root hairs provide that allows more water to enter the root?",
-      "options": ["A thick barrier", "A large surface area", "A waterproof layer", "A selective filter"],
+      "options": [
+        "A thick barrier",
+        "A large surface area",
+        "A waterproof layer",
+        "A selective filter"
+      ],
       "correctAnswer": "A large surface area"
     },
     {
       "id": 15,
       "question": "What is the process of water and minerals entering the root called?",
-      "options": ["Translocation", "Absorption", "Transpiration", "Photosynthesis"],
+      "options": [
+        "Translocation",
+        "Absorption",
+        "Transpiration",
+        "Photosynthesis"
+      ],
       "correctAnswer": "Absorption"
     },
     {
       "id": 16,
       "question": "How does water pass from cell to cell across the root?",
-      "options": ["Only by osmosis", "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall", "Only by active transport", "Only by diffusion"],
+      "options": [
+        "Only by osmosis",
+        "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall",
+        "Only by active transport",
+        "Only by diffusion"
+      ],
       "correctAnswer": "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall"
     },
     {
       "id": 17,
       "question": "Does water pass actively or passively across the root cells?",
-      "options": ["Actively (spending energy)", "Passively (without spending additional energy)", "Both actively and passively", "Neither"],
+      "options": [
+        "Actively (spending energy)",
+        "Passively (without spending additional energy)",
+        "Both actively and passively",
+        "Neither"
+      ],
       "correctAnswer": "Passively (without spending additional energy)"
     },
     {
       "id": 18,
       "question": "What is the main force responsible for pulling water from root to leaves through xylem?",
-      "options": ["Root pressure", "Transpiration pull", "Capillary action", "Osmotic pressure"],
+      "options": [
+        "Root pressure",
+        "Transpiration pull",
+        "Capillary action",
+        "Osmotic pressure"
+      ],
       "correctAnswer": "Transpiration pull"
     },
     {
       "id": 19,
       "question": "What creates the transpiration pull?",
-      "options": ["Root absorption", "Water evaporating from leaves", "Wind blowing", "Soil water pressure"],
+      "options": [
+        "Root absorption",
+        "Water evaporating from leaves",
+        "Wind blowing",
+        "Soil water pressure"
+      ],
       "correctAnswer": "Water evaporating from leaves"
     },
     {
       "id": 20,
       "question": "What helps resist the downward pull of gravity on water in the xylem?",
-      "options": ["Root pressure", "Adhesion of water to the cell wall by hydrogen bonds", "Osmosis", "Active transport"],
+      "options": [
+        "Root pressure",
+        "Adhesion of water to the cell wall by hydrogen bonds",
+        "Osmosis",
+        "Active transport"
+      ],
       "correctAnswer": "Adhesion of water to the cell wall by hydrogen bonds"
     },
     {
       "id": 21,
       "question": "What helps hold together the column of water within xylem cells?",
-      "options": ["Adhesion", "Cohesion due to hydrogen bonds between water molecules", "Gravity", "Root pressure"],
+      "options": [
+        "Adhesion",
+        "Cohesion due to hydrogen bonds between water molecules",
+        "Gravity",
+        "Root pressure"
+      ],
       "correctAnswer": "Cohesion due to hydrogen bonds between water molecules"
     },
     {
       "id": 22,
       "question": "In what form do minerals enter the root?",
-      "options": ["Solid form", "Ionic (charged) form", "Gaseous form", "Molecular form"],
+      "options": [
+        "Solid form",
+        "Ionic (charged) form",
+        "Gaseous form",
+        "Molecular form"
+      ],
       "correctAnswer": "Ionic (charged) form"
     },
     {
       "id": 23,
       "question": "How are minerals taken up when concentration is higher in plant cells than outside?",
-      "options": ["Passively by diffusion", "Actively by cell spending energy against a concentration gradient", "By osmosis", "By transpiration pull"],
+      "options": [
+        "Passively by diffusion",
+        "Actively by cell spending energy against a concentration gradient",
+        "By osmosis",
+        "By transpiration pull"
+      ],
       "correctAnswer": "Actively by cell spending energy against a concentration gradient"
     },
     {
       "id": 24,
       "question": "What is the ringing or girdling experiment used to demonstrate?",
-      "options": ["Water transport through xylem", "Food transport through phloem", "Root absorption", "Transpiration"],
+      "options": [
+        "Water transport through xylem",
+        "Food transport through phloem",
+        "Root absorption",
+        "Transpiration"
+      ],
       "correctAnswer": "Food transport through phloem"
     },
     {
       "id": 25,
       "question": "What happens in the ringing experiment?",
-      "options": ["The xylem is removed", "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts", "The whole stem is cut", "The leaves are removed"],
+      "options": [
+        "The xylem is removed",
+        "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts",
+        "The whole stem is cut",
+        "The leaves are removed"
+      ],
       "correctAnswer": "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts"
     },
     {
       "id": 26,
       "question": "What is observed in the upper part of the girdled area after a few days?",
-      "options": ["The plant dies immediately", "A swelling due to accumulation of food materials translocated from the leaf", "New roots grow", "The stem turns green"],
+      "options": [
+        "The plant dies immediately",
+        "A swelling due to accumulation of food materials translocated from the leaf",
+        "New roots grow",
+        "The stem turns green"
+      ],
       "correctAnswer": "A swelling due to accumulation of food materials translocated from the leaf"
     },
     {
       "id": 27,
       "question": "What are aphids?",
-      "options": ["A type of fungus", "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap", "A type of bacteria", "A type of root nodule"],
+      "options": [
+        "A type of fungus",
+        "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap",
+        "A type of bacteria",
+        "A type of root nodule"
+      ],
       "correctAnswer": "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap"
     },
     {
       "id": 28,
       "question": "What will ultimately happen to a plant that is ringed?",
-      "options": ["It will grow faster", "It will die because of disruption of food transport through the phloem", "It will produce more fruit", "It will develop a new phloem layer"],
+      "options": [
+        "It will grow faster",
+        "It will die because of disruption of food transport through the phloem",
+        "It will produce more fruit",
+        "It will develop a new phloem layer"
+      ],
       "correctAnswer": "It will die because of disruption of food transport through the phloem"
     },
     {
       "id": 29,
       "question": "Which part of a ringed plant dies first?",
-      "options": ["The leaves", "The shoot tip", "The root", "The stem"],
+      "options": [
+        "The leaves",
+        "The shoot tip",
+        "The root",
+        "The stem"
+      ],
       "correctAnswer": "The root"
     },
     {
       "id": 30,
       "question": "Why does the root of a ringed plant die first?",
-      "options": ["Because water supply is cut off", "Because supply of food to the root is discontinued", "Because oxygen supply is cut off", "Because minerals are not absorbed"],
+      "options": [
+        "Because water supply is cut off",
+        "Because supply of food to the root is discontinued",
+        "Because oxygen supply is cut off",
+        "Because minerals are not absorbed"
+      ],
       "correctAnswer": "Because supply of food to the root is discontinued"
     },
     {
       "id": 31,
       "question": "What type of transport occurs through the phloem?",
-      "options": ["Passive transport", "Active transport where living phloem cells use energy obtained by metabolic process", "Diffusion only", "Osmosis only"],
+      "options": [
+        "Passive transport",
+        "Active transport where living phloem cells use energy obtained by metabolic process",
+        "Diffusion only",
+        "Osmosis only"
+      ],
       "correctAnswer": "Active transport where living phloem cells use energy obtained by metabolic process"
     }
   ]

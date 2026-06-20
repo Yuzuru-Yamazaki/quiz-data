@@ -1,255 +1,465 @@
 {
   "title": "1.2 Pure and Applied Fields of Biology",
   "description": "Comprehensive coverage of the distinction between pure and applied biology, examples of each, and important interdisciplinary fields such as biotechnology, bioinformatics, genetic engineering, biomedical engineering, environment management, and forensic science.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade10", "purebiology", "appliedbiology"],
+  "tags": [
+    "biology",
+    "grade10",
+    "purebiology",
+    "appliedbiology"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "What is pure biology?",
-      "options": ["The use of biological knowledge to manage life", "The study of how life functions in nature", "The application of biology in industry", "The study of microorganisms only"],
+      "options": [
+        "The use of biological knowledge to manage life",
+        "The study of how life functions in nature",
+        "The application of biology in industry",
+        "The study of microorganisms only"
+      ],
       "correctAnswer": "The study of how life functions in nature"
     },
     {
       "id": 2,
       "question": "Which of the following topics is studied under pure biology?",
-      "options": ["Gardening", "Behavior, internal and external structure, and reproduction", "Forestry", "Poultry"],
+      "options": [
+        "Gardening",
+        "Behavior, internal and external structure, and reproduction",
+        "Forestry",
+        "Poultry"
+      ],
       "correctAnswer": "Behavior, internal and external structure, and reproduction"
     },
     {
       "id": 3,
       "question": "What is applied biology?",
-      "options": ["The study of how life functions in nature", "The study of theoretical biological principles", "Using what you have learned in biology for practical purposes", "The study of only plant life"],
+      "options": [
+        "The study of how life functions in nature",
+        "The study of theoretical biological principles",
+        "Using what you have learned in biology for practical purposes",
+        "The study of only plant life"
+      ],
       "correctAnswer": "Using what you have learned in biology for practical purposes"
     },
     {
       "id": 4,
       "question": "Which of the following is an example of applied biology?",
-      "options": ["Studying animal behavior", "Agriculture, nursery work, plant disease, forestry, and poultry", "Studying internal structure of organisms", "Studying reproduction in animals"],
+      "options": [
+        "Studying animal behavior",
+        "Agriculture, nursery work, plant disease, forestry, and poultry",
+        "Studying internal structure of organisms",
+        "Studying reproduction in animals"
+      ],
       "correctAnswer": "Agriculture, nursery work, plant disease, forestry, and poultry"
     },
     {
       "id": 5,
       "question": "The relationship between pure and applied biology is similar to the relationship between which two fields?",
-      "options": ["Physics and chemistry", "Anatomy and surgery", "Botany and zoology", "Genetics and evolution"],
+      "options": [
+        "Physics and chemistry",
+        "Anatomy and surgery",
+        "Botany and zoology",
+        "Genetics and evolution"
+      ],
       "correctAnswer": "Anatomy and surgery"
     },
     {
       "id": 6,
       "question": "Which of the following is classified as a pure field of biology according to Table 1.4?",
-      "options": ["Agriculture", "Biotechnology", "Morphology", "Horticulture"],
+      "options": [
+        "Agriculture",
+        "Biotechnology",
+        "Morphology",
+        "Horticulture"
+      ],
       "correctAnswer": "Morphology"
     },
     {
       "id": 7,
       "question": "Which of the following is classified as a pure field of biology according to Table 1.4?",
-      "options": ["Pathology", "Taxonomy", "Poultry", "Agroforestry"],
+      "options": [
+        "Pathology",
+        "Taxonomy",
+        "Poultry",
+        "Agroforestry"
+      ],
       "correctAnswer": "Taxonomy"
     },
     {
       "id": 8,
       "question": "Which of the following is classified as a pure field of biology according to Table 1.4?",
-      "options": ["Apiculture", "Evolution", "Pharmacognosy", "Animal Husbandry"],
+      "options": [
+        "Apiculture",
+        "Evolution",
+        "Pharmacognosy",
+        "Animal Husbandry"
+      ],
       "correctAnswer": "Evolution"
     },
     {
       "id": 9,
       "question": "Which of the following is classified as a pure field of biology according to Table 1.4?",
-      "options": ["Entomology", "Cytology", "Pisciculture", "Bacteriology"],
+      "options": [
+        "Entomology",
+        "Cytology",
+        "Pisciculture",
+        "Bacteriology"
+      ],
       "correctAnswer": "Cytology"
     },
     {
       "id": 10,
       "question": "Which of the following is classified as a pure field of biology according to Table 1.4?",
-      "options": ["Sericulture", "Embryology", "Biotechnology", "Forestry"],
+      "options": [
+        "Sericulture",
+        "Embryology",
+        "Biotechnology",
+        "Forestry"
+      ],
       "correctAnswer": "Embryology"
     },
     {
       "id": 11,
       "question": "Which of the following is classified as a pure field of biology according to Table 1.4?",
-      "options": ["Horticulture", "Histology", "Poultry", "Agroforestry"],
+      "options": [
+        "Horticulture",
+        "Histology",
+        "Poultry",
+        "Agroforestry"
+      ],
       "correctAnswer": "Histology"
     },
     {
       "id": 12,
       "question": "Which of the following is classified as a pure field of biology according to Table 1.4?",
-      "options": ["Agriculture", "Paleontology", "Bacteriology", "Pharmacognosy"],
+      "options": [
+        "Agriculture",
+        "Paleontology",
+        "Bacteriology",
+        "Pharmacognosy"
+      ],
       "correctAnswer": "Paleontology"
     },
     {
       "id": 13,
       "question": "Which of the following is classified as a pure field of biology according to Table 1.4?",
-      "options": ["Physiology", "Apiculture", "Sericulture", "Animal Husbandry"],
+      "options": [
+        "Physiology",
+        "Apiculture",
+        "Sericulture",
+        "Animal Husbandry"
+      ],
       "correctAnswer": "Physiology"
     },
     {
       "id": 14,
       "question": "Which of the following is classified as a pure field of biology according to Table 1.4?",
-      "options": ["Pisciculture", "Entomology", "Molecular Biology", "Pathology"],
+      "options": [
+        "Pisciculture",
+        "Entomology",
+        "Molecular Biology",
+        "Pathology"
+      ],
       "correctAnswer": "Molecular Biology"
     },
     {
       "id": 15,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Morphology", "Taxonomy", "Agriculture", "Evolution"],
+      "options": [
+        "Morphology",
+        "Taxonomy",
+        "Agriculture",
+        "Evolution"
+      ],
       "correctAnswer": "Agriculture"
     },
     {
       "id": 16,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Cytology", "Biotechnology", "Embryology", "Histology"],
+      "options": [
+        "Cytology",
+        "Biotechnology",
+        "Embryology",
+        "Histology"
+      ],
       "correctAnswer": "Biotechnology"
     },
     {
       "id": 17,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Paleontology", "Physiology", "Horticulture", "Molecular Biology"],
+      "options": [
+        "Paleontology",
+        "Physiology",
+        "Horticulture",
+        "Molecular Biology"
+      ],
       "correctAnswer": "Horticulture"
     },
     {
       "id": 18,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Evolution", "Pathology", "Taxonomy", "Morphology"],
+      "options": [
+        "Evolution",
+        "Pathology",
+        "Taxonomy",
+        "Morphology"
+      ],
       "correctAnswer": "Pathology"
     },
     {
       "id": 19,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Cytology", "Embryology", "Forestry", "Histology"],
+      "options": [
+        "Cytology",
+        "Embryology",
+        "Forestry",
+        "Histology"
+      ],
       "correctAnswer": "Forestry"
     },
     {
       "id": 20,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Paleontology", "Physiology", "Pharmacognosy", "Molecular Biology"],
+      "options": [
+        "Paleontology",
+        "Physiology",
+        "Pharmacognosy",
+        "Molecular Biology"
+      ],
       "correctAnswer": "Pharmacognosy"
     },
     {
       "id": 21,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Taxonomy", "Pisciculture", "Morphology", "Evolution"],
+      "options": [
+        "Taxonomy",
+        "Pisciculture",
+        "Morphology",
+        "Evolution"
+      ],
       "correctAnswer": "Pisciculture"
     },
     {
       "id": 22,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Cytology", "Apiculture", "Embryology", "Histology"],
+      "options": [
+        "Cytology",
+        "Apiculture",
+        "Embryology",
+        "Histology"
+      ],
       "correctAnswer": "Apiculture"
     },
     {
       "id": 23,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Paleontology", "Molecular Biology", "Agroforestry", "Physiology"],
+      "options": [
+        "Paleontology",
+        "Molecular Biology",
+        "Agroforestry",
+        "Physiology"
+      ],
       "correctAnswer": "Agroforestry"
     },
     {
       "id": 24,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Evolution", "Animal Husbandry", "Morphology", "Taxonomy"],
+      "options": [
+        "Evolution",
+        "Animal Husbandry",
+        "Morphology",
+        "Taxonomy"
+      ],
       "correctAnswer": "Animal Husbandry"
     },
     {
       "id": 25,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Cytology", "Bacteriology", "Histology", "Embryology"],
+      "options": [
+        "Cytology",
+        "Bacteriology",
+        "Histology",
+        "Embryology"
+      ],
       "correctAnswer": "Bacteriology"
     },
     {
       "id": 26,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Paleontology", "Entomology", "Physiology", "Molecular Biology"],
+      "options": [
+        "Paleontology",
+        "Entomology",
+        "Physiology",
+        "Molecular Biology"
+      ],
       "correctAnswer": "Entomology"
     },
     {
       "id": 27,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Evolution", "Poultry", "Morphology", "Taxonomy"],
+      "options": [
+        "Evolution",
+        "Poultry",
+        "Morphology",
+        "Taxonomy"
+      ],
       "correctAnswer": "Poultry"
     },
     {
       "id": 28,
       "question": "Which of the following is classified as an applied field of biology according to Table 1.4?",
-      "options": ["Cytology", "Sericulture", "Embryology", "Histology"],
+      "options": [
+        "Cytology",
+        "Sericulture",
+        "Embryology",
+        "Histology"
+      ],
       "correctAnswer": "Sericulture"
     },
     {
       "id": 29,
       "question": "What is biotechnology?",
-      "options": ["The study of computer programs for biological data", "The use of living organisms or their products for the welfare of humanity", "The study of environmental observation", "The application of engineering to medicine"],
+      "options": [
+        "The study of computer programs for biological data",
+        "The use of living organisms or their products for the welfare of humanity",
+        "The study of environmental observation",
+        "The application of engineering to medicine"
+      ],
       "correctAnswer": "The use of living organisms or their products for the welfare of humanity"
     },
     {
       "id": 30,
       "question": "What does biotechnology involve the technical manipulation of?",
-      "options": ["A living organism's habitat", "A living organism's genetic makeup", "A living organism's behavior", "A living organism's diet"],
+      "options": [
+        "A living organism's habitat",
+        "A living organism's genetic makeup",
+        "A living organism's behavior",
+        "A living organism's diet"
+      ],
       "correctAnswer": "A living organism's genetic makeup"
     },
     {
       "id": 31,
       "question": "What has been produced by biotechnology according to the text?",
-      "options": ["New fossil fuels", "Genetically modified and improved varieties of crops and animals", "Synthetic materials", "Renewable energy sources"],
+      "options": [
+        "New fossil fuels",
+        "Genetically modified and improved varieties of crops and animals",
+        "Synthetic materials",
+        "Renewable energy sources"
+      ],
       "correctAnswer": "Genetically modified and improved varieties of crops and animals"
     },
     {
       "id": 32,
       "question": "What is bioinformatics concerned with?",
-      "options": ["The use of living organisms for industrial production", "The acquisition, storage, analysis, and dissemination of biological data", "The study of environmental management", "The application of engineering to medicine"],
+      "options": [
+        "The use of living organisms for industrial production",
+        "The acquisition, storage, analysis, and dissemination of biological data",
+        "The study of environmental management",
+        "The application of engineering to medicine"
+      ],
       "correctAnswer": "The acquisition, storage, analysis, and dissemination of biological data"
     },
     {
       "id": 33,
       "question": "Bioinformatics most often deals with which type of biological data?",
-      "options": ["Fossil records", "DNA and amino acid sequences", "Plant morphological data", "Animal behavior data"],
+      "options": [
+        "Fossil records",
+        "DNA and amino acid sequences",
+        "Plant morphological data",
+        "Animal behavior data"
+      ],
       "correctAnswer": "DNA and amino acid sequences"
     },
     {
       "id": 34,
       "question": "Bioinformatics uses computer programs for which of the following applications?",
-      "options": ["Only determining gene functions", "Determining gene and protein functions, establishing evolutionary relationships, and predicting three-dimensional shapes of proteins", "Only predicting protein shapes", "Only establishing evolutionary relationships"],
+      "options": [
+        "Only determining gene functions",
+        "Determining gene and protein functions, establishing evolutionary relationships, and predicting three-dimensional shapes of proteins",
+        "Only predicting protein shapes",
+        "Only establishing evolutionary relationships"
+      ],
       "correctAnswer": "Determining gene and protein functions, establishing evolutionary relationships, and predicting three-dimensional shapes of proteins"
     },
     {
       "id": 35,
       "question": "What is genetic engineering?",
-      "options": ["The study of genes and heredity", "Extracting selected genes from an organism or synthesizing selected genes and inserting them into another organism", "The use of computer programs to analyze genetic data", "The study of genetic variation in populations"],
+      "options": [
+        "The study of genes and heredity",
+        "Extracting selected genes from an organism or synthesizing selected genes and inserting them into another organism",
+        "The use of computer programs to analyze genetic data",
+        "The study of genetic variation in populations"
+      ],
       "correctAnswer": "Extracting selected genes from an organism or synthesizing selected genes and inserting them into another organism"
     },
     {
       "id": 36,
       "question": "What is the result of genetic engineering?",
-      "options": ["The organism develops a new combination of genes", "The organism becomes larger", "The organism lives longer", "The organism changes its behavior"],
+      "options": [
+        "The organism develops a new combination of genes",
+        "The organism becomes larger",
+        "The organism lives longer",
+        "The organism changes its behavior"
+      ],
       "correctAnswer": "The organism develops a new combination of genes"
     },
     {
       "id": 37,
       "question": "What is biomedical engineering?",
-      "options": ["The use of living organisms for medical purposes", "The application of the principles and problem-solving techniques of engineering to biology and medicine", "The study of biological data using computers", "The study of genetics"],
+      "options": [
+        "The use of living organisms for medical purposes",
+        "The application of the principles and problem-solving techniques of engineering to biology and medicine",
+        "The study of biological data using computers",
+        "The study of genetics"
+      ],
       "correctAnswer": "The application of the principles and problem-solving techniques of engineering to biology and medicine"
     },
     {
       "id": 38,
       "question": "What does biomedical engineering focus on?",
-      "options": ["Advances that improve human health and health care at all levels", "The development of new computer programs", "The study of environmental balance", "The classification of organisms"],
+      "options": [
+        "Advances that improve human health and health care at all levels",
+        "The development of new computer programs",
+        "The study of environmental balance",
+        "The classification of organisms"
+      ],
       "correctAnswer": "Advances that improve human health and health care at all levels"
     },
     {
       "id": 39,
       "question": "What does environment management deal with?",
-      "options": ["The study of microorganisms in the environment", "Environmental observation and finding solutions to maintain the balance of nature", "The management of agricultural farms", "The study of animal habitats"],
+      "options": [
+        "The study of microorganisms in the environment",
+        "Environmental observation and finding solutions to maintain the balance of nature",
+        "The management of agricultural farms",
+        "The study of animal habitats"
+      ],
       "correctAnswer": "Environmental observation and finding solutions to maintain the balance of nature"
     },
     {
       "id": 40,
       "question": "What is forensic science?",
-      "options": ["The study of fossils", "The application of engineering to medicine", "The application of the knowledge of biological science to criminal and civil laws", "The study of environmental management"],
+      "options": [
+        "The study of fossils",
+        "The application of engineering to medicine",
+        "The application of the knowledge of biological science to criminal and civil laws",
+        "The study of environmental management"
+      ],
       "correctAnswer": "The application of the knowledge of biological science to criminal and civil laws"
     },
     {
       "id": 41,
       "question": "Which biological science techniques are used in forensic science according to the text?",
-      "options": ["Microscopy and staining", "DNA fingerprints and blood typing", "Cell culture and tissue analysis", "Photosynthesis measurement"],
+      "options": [
+        "Microscopy and staining",
+        "DNA fingerprints and blood typing",
+        "Cell culture and tissue analysis",
+        "Photosynthesis measurement"
+      ],
       "correctAnswer": "DNA fingerprints and blood typing"
     }
   ]

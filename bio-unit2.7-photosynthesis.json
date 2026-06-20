@@ -1,237 +1,431 @@
 {
   "title": "2.7 Photosynthesis",
   "description": "Photosynthesis — every fact from the textbook.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 2",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade10", "plants"],
+  "tags": [
+    "biology",
+    "grade10",
+    "plants"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "What are the leaves of green plants described as?",
-      "options": ["The smallest food factories", "The largest food factories on Earth", "The water storage organs", "The respiratory organs"],
+      "options": [
+        "The smallest food factories",
+        "The largest food factories on Earth",
+        "The water storage organs",
+        "The respiratory organs"
+      ],
       "correctAnswer": "The largest food factories on Earth"
     },
     {
       "id": 2,
       "question": "What provides food that supports nearly all life on earth?",
-      "options": ["Only algae", "The product of leaves together with photosynthetic productivity of algae", "Only roots", "Only fruits"],
+      "options": [
+        "Only algae",
+        "The product of leaves together with photosynthetic productivity of algae",
+        "Only roots",
+        "Only fruits"
+      ],
       "correctAnswer": "The product of leaves together with photosynthetic productivity of algae"
     },
     {
       "id": 3,
       "question": "Why are plants called producers or autotrophs?",
-      "options": ["They consume other organisms", "They can prepare their own food by photosynthesis", "They decompose organic matter", "They absorb ready-made food"],
+      "options": [
+        "They consume other organisms",
+        "They can prepare their own food by photosynthesis",
+        "They decompose organic matter",
+        "They absorb ready-made food"
+      ],
       "correctAnswer": "They can prepare their own food by photosynthesis"
     },
     {
       "id": 4,
       "question": "What term describes organisms that feed on plants and on one another?",
-      "options": ["Autotrophs", "Producers", "Heterotrophs", "Decomposers"],
+      "options": [
+        "Autotrophs",
+        "Producers",
+        "Heterotrophs",
+        "Decomposers"
+      ],
       "correctAnswer": "Heterotrophs"
     },
     {
       "id": 5,
       "question": "What is the basic source of energy that sustains life?",
-      "options": ["Water", "Soil", "Sunlight", "Carbon dioxide"],
+      "options": [
+        "Water",
+        "Soil",
+        "Sunlight",
+        "Carbon dioxide"
+      ],
       "correctAnswer": "Sunlight"
     },
     {
       "id": 6,
       "question": "What pigment absorbs sunlight in plants?",
-      "options": ["Carotene", "Chlorophyll", "Xanthophyll", "Phycocyanin"],
+      "options": [
+        "Carotene",
+        "Chlorophyll",
+        "Xanthophyll",
+        "Phycocyanin"
+      ],
       "correctAnswer": "Chlorophyll"
     },
     {
       "id": 7,
       "question": "What does chlorophyll enable plants to do?",
-      "options": ["Absorb water", "Trap solar energy and transform it into chemical energy", "Absorb minerals", "Release oxygen"],
+      "options": [
+        "Absorb water",
+        "Trap solar energy and transform it into chemical energy",
+        "Absorb minerals",
+        "Release oxygen"
+      ],
       "correctAnswer": "Trap solar energy and transform it into chemical energy"
     },
     {
       "id": 8,
       "question": "What organisms bear chlorophyll and perform photosynthesis?",
-      "options": ["Only higher plants", "Green algae and higher plants", "Only algae", "All living organisms"],
+      "options": [
+        "Only higher plants",
+        "Green algae and higher plants",
+        "Only algae",
+        "All living organisms"
+      ],
       "correctAnswer": "Green algae and higher plants"
     },
     {
       "id": 9,
       "question": "What is the photosynthetic apparatus?",
-      "options": ["The leaf", "The chloroplast", "The stem", "The root"],
+      "options": [
+        "The leaf",
+        "The chloroplast",
+        "The stem",
+        "The root"
+      ],
       "correctAnswer": "The chloroplast"
     },
     {
       "id": 10,
       "question": "What are the two distinct parts of a chloroplast?",
-      "options": ["Granum and Stroma", "Thylakoid and lumen", "Inner and outer membrane", "Palisade and spongy"],
+      "options": [
+        "Granum and Stroma",
+        "Thylakoid and lumen",
+        "Inner and outer membrane",
+        "Palisade and spongy"
+      ],
       "correctAnswer": "Granum and Stroma"
     },
     {
       "id": 11,
       "question": "What is a granum composed of?",
-      "options": ["Single flattened sack", "Stacks of flattened sacks, each called thylakoid", "Gel-like matrix", "Circular DNA"],
+      "options": [
+        "Single flattened sack",
+        "Stacks of flattened sacks, each called thylakoid",
+        "Gel-like matrix",
+        "Circular DNA"
+      ],
       "correctAnswer": "Stacks of flattened sacks, each called thylakoid"
     },
     {
       "id": 12,
       "question": "What does the granum contain?",
-      "options": ["Only chlorophyll", "Chlorophyll, enzymes and co-factors that participate in the light trapping phase of photosynthesis", "Only enzymes", "Starch grains"],
+      "options": [
+        "Only chlorophyll",
+        "Chlorophyll, enzymes and co-factors that participate in the light trapping phase of photosynthesis",
+        "Only enzymes",
+        "Starch grains"
+      ],
       "correctAnswer": "Chlorophyll, enzymes and co-factors that participate in the light trapping phase of photosynthesis"
     },
     {
       "id": 13,
       "question": "Where does the light reaction of photosynthesis take place?",
-      "options": ["In the stroma", "In the granum", "In the cytoplasm", "In the vacuole"],
+      "options": [
+        "In the stroma",
+        "In the granum",
+        "In the cytoplasm",
+        "In the vacuole"
+      ],
       "correctAnswer": "In the granum"
     },
     {
       "id": 14,
       "question": "What is the stroma of the chloroplast?",
-      "options": ["A stack of thylakoids", "A gel-like colourless matrix that is the site for sugar synthesis", "The outer membrane", "The inner membrane space"],
+      "options": [
+        "A stack of thylakoids",
+        "A gel-like colourless matrix that is the site for sugar synthesis",
+        "The outer membrane",
+        "The inner membrane space"
+      ],
       "correctAnswer": "A gel-like colourless matrix that is the site for sugar synthesis"
     },
     {
       "id": 15,
       "question": "What is produced in the stroma?",
-      "options": ["Oxygen", "Sugar (carbohydrate) through carbon fixation", "ATP", "Water"],
+      "options": [
+        "Oxygen",
+        "Sugar (carbohydrate) through carbon fixation",
+        "ATP",
+        "Water"
+      ],
       "correctAnswer": "Sugar (carbohydrate) through carbon fixation"
     },
     {
       "id": 16,
       "question": "What organic compounds are directly or indirectly converted from sugar produced in the stroma?",
-      "options": ["Only proteins", "Amino acids, proteins and lipids", "Only lipids", "Only nucleic acids"],
+      "options": [
+        "Only proteins",
+        "Amino acids, proteins and lipids",
+        "Only lipids",
+        "Only nucleic acids"
+      ],
       "correctAnswer": "Amino acids, proteins and lipids"
     },
     {
       "id": 17,
       "question": "What light absorbing pigments are found in the chloroplast?",
-      "options": ["Only chlorophyll a", "Chlorophyll a and b and other accessory pigments", "Only carotenoids", "Only chlorophyll b"],
+      "options": [
+        "Only chlorophyll a",
+        "Chlorophyll a and b and other accessory pigments",
+        "Only carotenoids",
+        "Only chlorophyll b"
+      ],
       "correctAnswer": "Chlorophyll a and b and other accessory pigments"
     },
     {
       "id": 18,
       "question": "What range of visible light wavelengths do chloroplast pigments absorb?",
-      "options": ["200 - 400 nm", "400 - 700 nm", "700 - 900 nm", "100 - 300 nm"],
+      "options": [
+        "200 - 400 nm",
+        "400 - 700 nm",
+        "700 - 900 nm",
+        "100 - 300 nm"
+      ],
       "correctAnswer": "400 - 700 nm"
     },
     {
       "id": 19,
       "question": "At which wavelengths does maximum light absorption occur?",
-      "options": ["400 - 500 nm and 600 - 700 nm", "500 - 600 nm only", "300 - 400 nm only", "700 - 800 nm only"],
+      "options": [
+        "400 - 500 nm and 600 - 700 nm",
+        "500 - 600 nm only",
+        "300 - 400 nm only",
+        "700 - 800 nm only"
+      ],
       "correctAnswer": "400 - 500 nm and 600 - 700 nm"
     },
     {
       "id": 20,
       "question": "What colours correspond to the wavelengths of maximum absorption?",
-      "options": ["Green and yellow", "Blue and red light", "Orange and violet", "Indigo and green"],
+      "options": [
+        "Green and yellow",
+        "Blue and red light",
+        "Orange and violet",
+        "Indigo and green"
+      ],
       "correctAnswer": "Blue and red light"
     },
     {
       "id": 21,
       "question": "Why do leaves look green?",
-      "options": ["Chlorophyll absorbs green light", "Light ranging from 500 to 600 nm (green light) is reflected, not absorbed", "Leaves produce green pigment", "Chlorophyll reflects all light"],
+      "options": [
+        "Chlorophyll absorbs green light",
+        "Light ranging from 500 to 600 nm (green light) is reflected, not absorbed",
+        "Leaves produce green pigment",
+        "Chlorophyll reflects all light"
+      ],
       "correctAnswer": "Light ranging from 500 to 600 nm (green light) is reflected, not absorbed"
     },
     {
       "id": 22,
       "question": "What happens during the light reaction of photosynthesis?",
-      "options": ["Carbon fixation occurs", "Water molecules are split into H+ and O2 (photolysis) and electrons are excited", "Glucose is formed", "Starch is produced"],
+      "options": [
+        "Carbon fixation occurs",
+        "Water molecules are split into H+ and O2 (photolysis) and electrons are excited",
+        "Glucose is formed",
+        "Starch is produced"
+      ],
       "correctAnswer": "Water molecules are split into H+ and O2 (photolysis) and electrons are excited"
     },
     {
       "id": 23,
       "question": "What is the splitting of water molecules called?",
-      "options": ["Hydrolysis", "Photolysis", "Oxidation", "Reduction"],
+      "options": [
+        "Hydrolysis",
+        "Photolysis",
+        "Oxidation",
+        "Reduction"
+      ],
       "correctAnswer": "Photolysis"
     },
     {
       "id": 24,
       "question": "What happens to the oxygen produced during photolysis?",
-      "options": ["It is used in the dark reaction", "It is released to the atmosphere through leaf stomata", "It is stored in the chloroplast", "It combines with carbon dioxide"],
+      "options": [
+        "It is used in the dark reaction",
+        "It is released to the atmosphere through leaf stomata",
+        "It is stored in the chloroplast",
+        "It combines with carbon dioxide"
+      ],
       "correctAnswer": "It is released to the atmosphere through leaf stomata"
     },
     {
       "id": 25,
       "question": "What molecule is generated by excited electrons passing down the electron transport system during light reaction?",
-      "options": ["Glucose", "ATP", "Starch", "Carbon dioxide"],
+      "options": [
+        "Glucose",
+        "ATP",
+        "Starch",
+        "Carbon dioxide"
+      ],
       "correctAnswer": "ATP"
     },
     {
       "id": 26,
       "question": "What serves as input in the stroma for converting carbon dioxide to carbohydrate?",
-      "options": ["Light and water", "ATP and H+ harvested during light reaction", "Oxygen and glucose", "Chlorophyll and enzymes"],
+      "options": [
+        "Light and water",
+        "ATP and H+ harvested during light reaction",
+        "Oxygen and glucose",
+        "Chlorophyll and enzymes"
+      ],
       "correctAnswer": "ATP and H+ harvested during light reaction"
     },
     {
       "id": 27,
       "question": "What is the dark reaction also known as?",
-      "options": ["Light dependent stage", "Light independent stage", "Photolysis", "Electron transport"],
+      "options": [
+        "Light dependent stage",
+        "Light independent stage",
+        "Photolysis",
+        "Electron transport"
+      ],
       "correctAnswer": "Light independent stage"
     },
     {
       "id": 28,
       "question": "Can the dark reaction occur in the absence of light?",
-      "options": ["No, it always needs light", "Yes, as long as there is sufficient H+ and ATP from the light reaction", "Yes, it needs darkness to function", "No, it needs both light and dark"],
+      "options": [
+        "No, it always needs light",
+        "Yes, as long as there is sufficient H+ and ATP from the light reaction",
+        "Yes, it needs darkness to function",
+        "No, it needs both light and dark"
+      ],
       "correctAnswer": "Yes, as long as there is sufficient H+ and ATP from the light reaction"
     },
     {
       "id": 29,
       "question": "What is the process where H+ indirectly combines with CO2 in the stroma called?",
-      "options": ["Photolysis", "Carbon fixation", "Electron transport", "Translocation"],
+      "options": [
+        "Photolysis",
+        "Carbon fixation",
+        "Electron transport",
+        "Translocation"
+      ],
       "correctAnswer": "Carbon fixation"
     },
     {
       "id": 30,
       "question": "What is the immediate result of the dark reaction?",
-      "options": ["Oxygen", "Glucose (carbohydrate)", "ATP", "Carbon dioxide"],
+      "options": [
+        "Oxygen",
+        "Glucose (carbohydrate)",
+        "ATP",
+        "Carbon dioxide"
+      ],
       "correctAnswer": "Glucose (carbohydrate)"
     },
     {
       "id": 31,
       "question": "What is the overall chemical equation of photosynthesis?",
-      "options": ["6CO2 + 6H2O -> C6H12O6 + 6O2", "C6H12O6 + 6O2 -> 6CO2 + 6H2O", "6CO2 + 12H2O -> C6H12O6 + 6O2", "CO2 + H2O -> CH2O + O2"],
+      "options": [
+        "6CO2 + 6H2O -> C6H12O6 + 6O2",
+        "C6H12O6 + 6O2 -> 6CO2 + 6H2O",
+        "6CO2 + 12H2O -> C6H12O6 + 6O2",
+        "CO2 + H2O -> CH2O + O2"
+      ],
       "correctAnswer": "6CO2 + 6H2O -> C6H12O6 + 6O2"
     },
     {
       "id": 32,
       "question": "What are needed for photosynthesis according to the overall equation?",
-      "options": ["Carbon dioxide, water, chlorophyll and sunlight", "Oxygen and glucose", "Only sunlight", "Only carbon dioxide and water"],
+      "options": [
+        "Carbon dioxide, water, chlorophyll and sunlight",
+        "Oxygen and glucose",
+        "Only sunlight",
+        "Only carbon dioxide and water"
+      ],
       "correctAnswer": "Carbon dioxide, water, chlorophyll and sunlight"
     },
     {
       "id": 33,
       "question": "What are the products of photosynthesis?",
-      "options": ["Carbon dioxide and water", "Glucose and oxygen", "ATP and water", "Chlorophyll and carbon dioxide"],
+      "options": [
+        "Carbon dioxide and water",
+        "Glucose and oxygen",
+        "ATP and water",
+        "Chlorophyll and carbon dioxide"
+      ],
       "correctAnswer": "Glucose and oxygen"
     },
     {
       "id": 34,
       "question": "What is a simple way of demonstrating food synthesis in leaves?",
-      "options": ["Boiling the leaf", "Testing a leaf for starch using iodine solution", "Measuring oxygen production", "Checking leaf colour"],
+      "options": [
+        "Boiling the leaf",
+        "Testing a leaf for starch using iodine solution",
+        "Measuring oxygen production",
+        "Checking leaf colour"
+      ],
       "correctAnswer": "Testing a leaf for starch using iodine solution"
     },
     {
       "id": 35,
       "question": "What colour develops when iodine is applied to starch?",
-      "options": ["Red", "Blue-black", "Yellow", "Green"],
+      "options": [
+        "Red",
+        "Blue-black",
+        "Yellow",
+        "Green"
+      ],
       "correctAnswer": "Blue-black"
     },
     {
       "id": 36,
       "question": "Why is the leaf boiled in water before testing for starch?",
-      "options": ["To make it soft", "To kill the cells and stop metabolic activity, and to break down the cuticle", "To remove chlorophyll", "To add water"],
+      "options": [
+        "To make it soft",
+        "To kill the cells and stop metabolic activity, and to break down the cuticle",
+        "To remove chlorophyll",
+        "To add water"
+      ],
       "correctAnswer": "To kill the cells and stop metabolic activity, and to break down the cuticle"
     },
     {
       "id": 37,
       "question": "Why is the leaf treated with alcohol when testing for starch?",
-      "options": ["To add color", "To remove the green pigment chlorophyll that interferes with the iodine effect", "To soften the leaf", "To preserve the leaf"],
+      "options": [
+        "To add color",
+        "To remove the green pigment chlorophyll that interferes with the iodine effect",
+        "To soften the leaf",
+        "To preserve the leaf"
+      ],
       "correctAnswer": "To remove the green pigment chlorophyll that interferes with the iodine effect"
     },
     {
       "id": 38,
       "question": "Why is the leaf placed in cold water after alcohol treatment when testing for starch?",
-      "options": ["To keep it fresh", "To make it firm and ready for iodine application", "To remove alcohol", "To add starch"],
+      "options": [
+        "To keep it fresh",
+        "To make it firm and ready for iodine application",
+        "To remove alcohol",
+        "To add starch"
+      ],
       "correctAnswer": "To make it firm and ready for iodine application"
     }
   ]

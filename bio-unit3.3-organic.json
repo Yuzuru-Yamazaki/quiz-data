@@ -1,7 +1,7 @@
 {
   "title": "3.1.3 Organic Molecules",
   "description": "Carbohydrates, lipids, proteins, and nucleic acids.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 3",
   "field": "natural",
   "anki": true,
   "tags": [
@@ -205,13 +205,13 @@
     {
       "question": "What is the general formula of monosaccharides?",
       "options": [
-        "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
-        "C\u2086H\u2081\u2082O\u2086",
-        "C\u2099H\u2082\u2099O\u2099",
-        "(CH\u2082O)\u2099"
+        "C₁₂H₂₂O₁₁",
+        "C₆H₁₂O₆",
+        "CₙH₂ₙOₙ",
+        "(CH₂O)ₙ"
       ],
       "answerIndex": 3,
-      "correctAnswer": "(CH\u2082O)\u2099",
+      "correctAnswer": "(CH₂O)ₙ",
       "id": 17
     },
     {
@@ -241,13 +241,13 @@
     {
       "question": "What is the chemical formula for hexose sugar?",
       "options": [
-        "C\u2083H\u2086O\u2083",
-        "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
-        "C\u2086H\u2081\u2082O\u2086",
-        "C\u2085H\u2081\u2080O\u2085"
+        "C₃H₆O₃",
+        "C₁₂H₂₂O₁₁",
+        "C₆H₁₂O₆",
+        "C₅H₁₀O₅"
       ],
       "answerIndex": 2,
-      "correctAnswer": "C\u2086H\u2081\u2082O\u2086",
+      "correctAnswer": "C₆H₁₂O₆",
       "id": 20
     },
     {
@@ -265,13 +265,13 @@
     {
       "question": "What is the chemical formula shared by glucose, galactose, and fructose?",
       "options": [
-        "C\u2083H\u2086O\u2083",
-        "C\u2085H\u2081\u2080O\u2085",
-        "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
-        "C\u2086H\u2081\u2082O\u2086"
+        "C₃H₆O₃",
+        "C₅H₁₀O₅",
+        "C₁₂H₂₂O₁₁",
+        "C₆H₁₂O₆"
       ],
       "answerIndex": 3,
-      "correctAnswer": "C\u2086H\u2081\u2082O\u2086",
+      "correctAnswer": "C₆H₁₂O₆",
       "id": 22
     },
     {
@@ -337,13 +337,13 @@
     {
       "question": "What is the formula for disaccharides?",
       "options": [
-        "C\u2086H\u2081\u2082O\u2086",
-        "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
-        "C\u2083H\u2086O\u2083",
-        "C\u2085H\u2081\u2080O\u2085"
+        "C₆H₁₂O₆",
+        "C₁₂H₂₂O₁₁",
+        "C₃H₆O₃",
+        "C₅H₁₀O₅"
       ],
       "answerIndex": 1,
-      "correctAnswer": "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
+      "correctAnswer": "C₁₂H₂₂O₁₁",
       "id": 28
     },
     {
@@ -877,13 +877,13 @@
     {
       "question": "What is the general formula for fatty acids?",
       "options": [
-        "C\u2086H\u2081\u2082O\u2086",
-        "RCH(NH\u2082)COOH",
-        "(CH\u2082O)\u2099",
-        "CH\u2083(CH\u2082)\u2099COOH"
+        "C₆H₁₂O₆",
+        "RCH(NH₂)COOH",
+        "(CH₂O)ₙ",
+        "CH₃(CH₂)ₙCOOH"
       ],
       "answerIndex": 3,
-      "correctAnswer": "CH\u2083(CH\u2082)\u2099COOH",
+      "correctAnswer": "CH₃(CH₂)ₙCOOH",
       "id": 73
     },
     {
@@ -1141,13 +1141,13 @@
     {
       "question": "What is the general formula for amino acids in proteins?",
       "options": [
-        "C\u2086H\u2081\u2082O\u2086",
-        "(CH\u2082O)\u2099",
-        "RCH(NH\u2082)COOH",
-        "CH\u2083(CH\u2082)\u2099COOH"
+        "C₆H₁₂O₆",
+        "(CH₂O)ₙ",
+        "RCH(NH₂)COOH",
+        "CH₃(CH₂)ₙCOOH"
       ],
       "answerIndex": 2,
-      "correctAnswer": "RCH(NH\u2082)COOH",
+      "correctAnswer": "RCH(NH₂)COOH",
       "id": 95
     },
     {

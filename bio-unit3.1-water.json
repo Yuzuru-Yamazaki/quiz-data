@@ -1,7 +1,7 @@
 {
   "title": "3.1.1 Inorganic Molecules: Water",
   "description": "Properties and importance of water as a biochemical molecule.",
-  "folder": "School/Grade 10/Biology",
+  "folder": "School/Grade 10/Biology/Unit 3",
   "field": "natural",
   "anki": true,
   "tags": [
@@ -13,13 +13,13 @@
     {
       "question": "What is the chemical formula of water?",
       "options": [
-        "H\u2082O\u2082",
-        "HO\u2082",
+        "H₂O₂",
+        "HO₂",
         "HO",
-        "H\u2082O"
+        "H₂O"
       ],
       "answerIndex": 3,
-      "correctAnswer": "H\u2082O",
+      "correctAnswer": "H₂O",
       "id": 1
     },
     {
@@ -217,13 +217,13 @@
     {
       "question": "At what temperature does water density begin to fall?",
       "options": [
-        "Below 4\u00b0C",
-        "Below 10\u00b0C",
-        "0\u00b0C",
-        "100\u00b0C"
+        "Below 4°C",
+        "Below 10°C",
+        "0°C",
+        "100°C"
       ],
       "answerIndex": 0,
-      "correctAnswer": "Below 4\u00b0C",
+      "correctAnswer": "Below 4°C",
       "id": 18
     },
     {
@@ -325,25 +325,25 @@
     {
       "question": "What is the boiling point of water?",
       "options": [
-        "-62\u00b0C",
-        "100\u00b0C",
-        "117.9\u00b0C",
-        "78.4\u00b0C"
+        "-62°C",
+        "100°C",
+        "117.9°C",
+        "78.4°C"
       ],
       "answerIndex": 1,
-      "correctAnswer": "100\u00b0C",
+      "correctAnswer": "100°C",
       "id": 27
     },
     {
       "question": "What is the freezing point of water?",
       "options": [
-        "16.6\u00b0C",
-        "-84\u00b0C",
-        "-114.6\u00b0C",
-        "0\u00b0C"
+        "16.6°C",
+        "-84°C",
+        "-114.6°C",
+        "0°C"
       ],
       "answerIndex": 3,
-      "correctAnswer": "0\u00b0C",
+      "correctAnswer": "0°C",
       "id": 28
     },
     {
@@ -409,37 +409,37 @@
     {
       "question": "What is the freezing point of hydrogen sulfide?",
       "options": [
-        "0\u00b0C",
-        "16.6\u00b0C",
-        "-62\u00b0C",
-        "-84\u00b0C"
+        "0°C",
+        "16.6°C",
+        "-62°C",
+        "-84°C"
       ],
       "answerIndex": 3,
-      "correctAnswer": "-84\u00b0C",
+      "correctAnswer": "-84°C",
       "id": 34
     },
     {
       "question": "How do water molecules distribute themselves around a positively charged ion in solution?",
       "options": [
-        "The hydrogen (\u03b4+) faces the ion",
+        "The hydrogen (δ+) faces the ion",
         "Both ends face the ion equally",
-        "The oxygen (\u03b4-) faces the ion",
+        "The oxygen (δ-) faces the ion",
         "The molecule turns away from the ion"
       ],
       "answerIndex": 0,
-      "correctAnswer": "The hydrogen (\u03b4+) faces the ion",
+      "correctAnswer": "The hydrogen (δ+) faces the ion",
       "id": 35
     },
     {
       "question": "How do water molecules distribute themselves around a negatively charged ion in solution?",
       "options": [
-        "The oxygen (\u03b4-) faces the ion",
+        "The oxygen (δ-) faces the ion",
         "The molecule dissolves the ion completely",
         "Both hydrogen atoms point toward the ion",
-        "The hydrogen (\u03b4+) faces away from the ion"
+        "The hydrogen (δ+) faces away from the ion"
       ],
       "answerIndex": 0,
-      "correctAnswer": "The oxygen (\u03b4-) faces the ion",
+      "correctAnswer": "The oxygen (δ-) faces the ion",
       "id": 36
     },
     {
