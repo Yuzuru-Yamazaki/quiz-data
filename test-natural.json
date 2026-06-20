@@ -2,27 +2,44 @@
   "title": "Test: Natural Sciences",
   "description": "A short 3-question quiz to test the Anki export feature.",
   "folder": "School/Grade 10/Biology",
-  "tags": ["#biology", "#test"],
+  "tags": [
+    "#biology",
+    "#test"
+  ],
   "field": "natural",
   "anki": true,
-  "theme": "gruvbox",
   "questions": [
     {
       "id": 1,
       "question": "What is the powerhouse of the cell?",
-      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
       "correctAnswer": "Mitochondria"
     },
     {
       "id": 2,
       "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
-      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
       "correctAnswer": "Carbon dioxide"
     },
     {
       "id": 3,
       "question": "What is the chemical symbol for water?",
-      "options": ["H2O", "CO2", "NaCl", "O2"],
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "O2"
+      ],
       "correctAnswer": "H2O"
     }
   ]
