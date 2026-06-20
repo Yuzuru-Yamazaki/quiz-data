@@ -1,187 +1,342 @@
 {
   "title": "5.1 The Digestive System",
   "description": "Quiz covering the digestive system: organs, enzymes, digestion of carbohydrates, proteins, and fats, absorption, and the role of gut bacteria.",
-  "tags": ["#biology", "#digestion", "#humanbiology"],
+  "tags": [
+    "#biology",
+    "#digestion",
+    "#humanbiology"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "What is the approximate length of the digestive tract in adult humans?",
-      "options": ["3 to 5 m", "6.5 to 9 m", "10 to 12 m", "1 to 2 m"],
+      "options": [
+        "3 to 5 m",
+        "6.5 to 9 m",
+        "10 to 12 m",
+        "1 to 2 m"
+      ],
       "correctAnswer": "6.5 to 9 m"
     },
     {
       "id": 2,
       "question": "Which process involves the transport of digested nutrients from the small intestine to the cells of the body?",
-      "options": ["Ingestion", "Digestion", "Egestion", "Absorption"],
+      "options": [
+        "Ingestion",
+        "Digestion",
+        "Egestion",
+        "Absorption"
+      ],
       "correctAnswer": "Absorption"
     },
     {
       "id": 3,
       "question": "Which type of tooth is chisel-shaped and specialized for cutting?",
-      "options": ["Canine", "Premolar", "Incisor", "Molar"],
+      "options": [
+        "Canine",
+        "Premolar",
+        "Incisor",
+        "Molar"
+      ],
       "correctAnswer": "Incisor"
     },
     {
       "id": 4,
       "question": "Where does the chemical digestion of carbohydrates begin?",
-      "options": ["Oral cavity", "Stomach", "Small intestine", "Large intestine"],
+      "options": [
+        "Oral cavity",
+        "Stomach",
+        "Small intestine",
+        "Large intestine"
+      ],
       "correctAnswer": "Oral cavity"
     },
     {
       "id": 5,
       "question": "What wave-like muscle movement pushes food through the esophagus?",
-      "options": ["Peristalsis", "Mastication", "Diffusion", "Emulsification"],
+      "options": [
+        "Peristalsis",
+        "Mastication",
+        "Diffusion",
+        "Emulsification"
+      ],
       "correctAnswer": "Peristalsis"
     },
     {
       "id": 6,
       "question": "What is the pH range of the stomach contents?",
-      "options": ["1.5 to 2.5", "6.5 to 7.5", "7.0 to 8.0", "4.0 to 5.0"],
+      "options": [
+        "1.5 to 2.5",
+        "6.5 to 7.5",
+        "7.0 to 8.0",
+        "4.0 to 5.0"
+      ],
       "correctAnswer": "1.5 to 2.5"
     },
     {
       "id": 7,
       "question": "Which enzyme digests proteins in the stomach?",
-      "options": ["Amylase", "Lipase", "Maltase", "Pepsin"],
+      "options": [
+        "Amylase",
+        "Lipase",
+        "Maltase",
+        "Pepsin"
+      ],
       "correctAnswer": "Pepsin"
     },
     {
       "id": 8,
       "question": "What is the mixture of partially digested food and gastric juice called?",
-      "options": ["Chyme", "Bolus", "Bile", "Feces"],
+      "options": [
+        "Chyme",
+        "Bolus",
+        "Bile",
+        "Feces"
+      ],
       "correctAnswer": "Chyme"
     },
     {
       "id": 9,
       "question": "Which of the following is a component of gastric fluid?",
-      "options": ["Bile salts", "Trypsin", "Hydrochloric acid", "Enterokinase"],
+      "options": [
+        "Bile salts",
+        "Trypsin",
+        "Hydrochloric acid",
+        "Enterokinase"
+      ],
       "correctAnswer": "Hydrochloric acid"
     },
     {
       "id": 10,
       "question": "What substance protects the stomach lining from being digested by its own enzymes?",
-      "options": ["Mucus", "Bicarbonate", "Bile", "Saliva"],
+      "options": [
+        "Mucus",
+        "Bicarbonate",
+        "Bile",
+        "Saliva"
+      ],
       "correctAnswer": "Mucus"
     },
     {
       "id": 11,
       "question": "What is the length of the small intestine?",
-      "options": ["Up to 3 m", "Up to 7 m", "Up to 5 m", "Up to 9 m"],
+      "options": [
+        "Up to 3 m",
+        "Up to 7 m",
+        "Up to 5 m",
+        "Up to 9 m"
+      ],
       "correctAnswer": "Up to 7 m"
     },
     {
       "id": 12,
       "question": "Which part of the small intestine is the first section where most chemical digestion occurs?",
-      "options": ["Ileum", "Jejunum", "Cecum", "Duodenum"],
+      "options": [
+        "Ileum",
+        "Jejunum",
+        "Cecum",
+        "Duodenum"
+      ],
       "correctAnswer": "Duodenum"
     },
     {
       "id": 13,
       "question": "What are the finger-like projections that increase the surface area of the small intestine?",
-      "options": ["Villi", "Cilia", "Sphincters", "Papillae"],
+      "options": [
+        "Villi",
+        "Cilia",
+        "Sphincters",
+        "Papillae"
+      ],
       "correctAnswer": "Villi"
     },
     {
       "id": 14,
       "question": "What converts inactive trypsinogen into active trypsin in the small intestine?",
-      "options": ["Enterokinase", "Pepsin", "Lipase", "Amylase"],
+      "options": [
+        "Enterokinase",
+        "Pepsin",
+        "Lipase",
+        "Amylase"
+      ],
       "correctAnswer": "Enterokinase"
     },
     {
       "id": 15,
       "question": "Which organ produces bile?",
-      "options": ["Gallbladder", "Pancreas", "Liver", "Stomach"],
+      "options": [
+        "Gallbladder",
+        "Pancreas",
+        "Liver",
+        "Stomach"
+      ],
       "correctAnswer": "Liver"
     },
     {
       "id": 16,
       "question": "What is the function of the gallbladder?",
-      "options": ["Produces bile", "Secretes bicarbonate", "Produces trypsin", "Stores and concentrates bile"],
+      "options": [
+        "Produces bile",
+        "Secretes bicarbonate",
+        "Produces trypsin",
+        "Stores and concentrates bile"
+      ],
       "correctAnswer": "Stores and concentrates bile"
     },
     {
       "id": 17,
       "question": "Which pancreatic enzyme breaks down fats into fatty acids and glycerol?",
-      "options": ["Trypsin", "Lipase", "Amylase", "Maltase"],
+      "options": [
+        "Trypsin",
+        "Lipase",
+        "Amylase",
+        "Maltase"
+      ],
       "correctAnswer": "Lipase"
     },
     {
       "id": 18,
       "question": "What is the role of bile in fat digestion?",
-      "options": ["Emulsifies large fat globules", "Chemically breaks down fats", "Converts fats into amino acids", "Neutralizes stomach acid"],
+      "options": [
+        "Emulsifies large fat globules",
+        "Chemically breaks down fats",
+        "Converts fats into amino acids",
+        "Neutralizes stomach acid"
+      ],
       "correctAnswer": "Emulsifies large fat globules"
     },
     {
       "id": 19,
       "question": "Which enzyme breaks down maltose into glucose?",
-      "options": ["Amylase", "Sucrase", "Maltase", "Lactase"],
+      "options": [
+        "Amylase",
+        "Sucrase",
+        "Maltase",
+        "Lactase"
+      ],
       "correctAnswer": "Maltase"
     },
     {
       "id": 20,
       "question": "What does the enzyme erepsin break down?",
-      "options": ["Starches into disaccharides", "Proteins into peptides", "Fats into fatty acids and glycerol", "Peptides into amino acids"],
+      "options": [
+        "Starches into disaccharides",
+        "Proteins into peptides",
+        "Fats into fatty acids and glycerol",
+        "Peptides into amino acids"
+      ],
       "correctAnswer": "Peptides into amino acids"
     },
     {
       "id": 21,
       "question": "Which enzyme continues the digestion of carbohydrates that began in the mouth?",
-      "options": ["Salivary amylase", "Maltase", "Lipase", "Pancreatic amylase"],
+      "options": [
+        "Salivary amylase",
+        "Maltase",
+        "Lipase",
+        "Pancreatic amylase"
+      ],
       "correctAnswer": "Pancreatic amylase"
     },
     {
       "id": 22,
       "question": "How are monosaccharides and amino acids absorbed in the small intestine?",
-      "options": ["Into the capillary networks", "Into the lacteals", "Into the large intestine", "Directly into the liver"],
+      "options": [
+        "Into the capillary networks",
+        "Into the lacteals",
+        "Into the large intestine",
+        "Directly into the liver"
+      ],
       "correctAnswer": "Into the capillary networks"
     },
     {
       "id": 23,
       "question": "How are fats absorbed in the small intestine?",
-      "options": ["Into the capillary networks", "Into the large intestine", "Directly into the bloodstream", "Into the lacteals"],
+      "options": [
+        "Into the capillary networks",
+        "Into the large intestine",
+        "Directly into the bloodstream",
+        "Into the lacteals"
+      ],
       "correctAnswer": "Into the lacteals"
     },
     {
       "id": 24,
       "question": "What vitamins do bacteria in the large intestine synthesize?",
-      "options": ["Vitamin A and C", "Vitamin D and E", "Vitamin C and D", "Vitamin B and K"],
+      "options": [
+        "Vitamin A and C",
+        "Vitamin D and E",
+        "Vitamin C and D",
+        "Vitamin B and K"
+      ],
       "correctAnswer": "Vitamin B and K"
     },
     {
       "id": 25,
       "question": "What is the main function of the colon?",
-      "options": ["Extract water and mineral salts from undigested food", "Digest proteins", "Secrete digestive enzymes", "Produce bile"],
+      "options": [
+        "Extract water and mineral salts from undigested food",
+        "Digest proteins",
+        "Secrete digestive enzymes",
+        "Produce bile"
+      ],
       "correctAnswer": "Extract water and mineral salts from undigested food"
     },
     {
       "id": 26,
       "question": "What substance converts pepsinogen into its active form pepsin?",
-      "options": ["Bile", "Hydrochloric acid", "Enterokinase", "Trypsin"],
+      "options": [
+        "Bile",
+        "Hydrochloric acid",
+        "Enterokinase",
+        "Trypsin"
+      ],
       "correctAnswer": "Hydrochloric acid"
     },
     {
       "id": 27,
       "question": "What is the dental formula for adult humans?",
-      "options": ["2102 / 2102", "3122 / 3122", "2123 / 2123", "1232 / 1232"],
+      "options": [
+        "2102 / 2102",
+        "3122 / 3122",
+        "2123 / 2123",
+        "1232 / 1232"
+      ],
       "correctAnswer": "2123 / 2123"
     },
     {
       "id": 28,
       "question": "Which enzyme is released from the pancreas as an inactive form and activated in the small intestine?",
-      "options": ["Pepsin", "Amylase", "Lipase", "Trypsin"],
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
       "correctAnswer": "Trypsin"
     },
     {
       "id": 29,
       "question": "What does the pancreas secrete to neutralize acidic chyme?",
-      "options": ["Bicarbonate", "Bile", "Hydrochloric acid", "Mucus"],
+      "options": [
+        "Bicarbonate",
+        "Bile",
+        "Hydrochloric acid",
+        "Mucus"
+      ],
       "correctAnswer": "Bicarbonate"
     },
     {
       "id": 30,
       "question": "What is the largest internal organ in humans?",
-      "options": ["Pancreas", "Stomach", "Small intestine", "Liver"],
+      "options": [
+        "Pancreas",
+        "Stomach",
+        "Small intestine",
+        "Liver"
+      ],
       "correctAnswer": "Liver"
     }
-  ]
+  ],
+  "folder": "School/Grade 10"
 }

@@ -1,6 +1,6 @@
 {
   "title": "History Finals (Units 7 & 8)",
-  "description": "Comprehensive exam covering Grade 10 History Units 7 and 8 \u2014 all subtopics merged.",
+  "description": "Comprehensive exam covering Grade 10 History Units 7 and 8 — all subtopics merged.",
   "tags": [
     "#history",
     "#final",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 140,
-      "question": "The ANC was formed in 1912 \u2014 how many years after South Africa gained freedom from British rule?",
+      "question": "The ANC was formed in 1912 — how many years after South Africa gained freedom from British rule?",
       "options": [
         "1 year",
         "2 years",
@@ -4807,5 +4807,6 @@
       "difficulty": "medium",
       "source": "8.2.2 Development and Democratization Challenges"
     }
-  ]
+  ],
+  "folder": "School/Grade 10"
 }

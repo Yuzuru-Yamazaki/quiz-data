@@ -221,7 +221,7 @@
     },
     {
       "id": 20,
-      "question": "The ANC was formed in 1912 \u2014 how many years after South Africa gained freedom from British rule?",
+      "question": "The ANC was formed in 1912 — how many years after South Africa gained freedom from British rule?",
       "options": [
         "1 year",
         "2 years",
@@ -340,5 +340,6 @@
       ],
       "correctAnswer": "Reconciling blacks and whites in peace"
     }
-  ]
+  ],
+  "folder": "School/Grade 10"
 }

@@ -1,6 +1,6 @@
 {
   "title": "7.0 Coordinate Geometry",
-  "description": "Grade 10 Math Unit 7 \u2014 extremely difficult problems on distance, line division, equations of lines, parallel/perpendicular lines, circles, and applications.",
+  "description": "Grade 10 Math Unit 7 — extremely difficult problems on distance, line division, equations of lines, parallel/perpendicular lines, circles, and applications.",
   "tags": [
     "#math",
     "#coordinategeometry",
@@ -110,16 +110,16 @@
       "id": 10,
       "question": "Points P and Q trisect the line segment joining A(2, 4) and B(11, 13). Find the distance PQ.",
       "options": [
-        "2\u221a2",
-        "3\u221a2",
-        "4\u221a2",
-        "\u221a2"
+        "2√2",
+        "3√2",
+        "4√2",
+        "√2"
       ],
-      "correctAnswer": "3\u221a2"
+      "correctAnswer": "3√2"
     },
     {
       "id": 11,
-      "question": "The angle of inclination of a line is 135\u00b0. What is its slope?",
+      "question": "The angle of inclination of a line is 135°. What is its slope?",
       "options": [
         "1",
         "undefined",
@@ -240,12 +240,12 @@
     },
     {
       "id": 22,
-      "question": "Find the center and radius of the circle x\u00b2 + y\u00b2 + 6x - 8y - 11 = 0.",
+      "question": "Find the center and radius of the circle x² + y² + 6x - 8y - 11 = 0.",
       "options": [
-        "(3, -4), \u221a11",
+        "(3, -4), √11",
         "(-3, 4), 6",
         "(3, -4), 6",
-        "(-3, 4), \u221a11"
+        "(-3, 4), √11"
       ],
       "correctAnswer": "(-3, 4), 6"
     },
@@ -253,27 +253,27 @@
       "id": 23,
       "question": "A circle has center (2, -1) and passes through (5, 3). Find its equation in general form.",
       "options": [
-        "x\u00b2 + y\u00b2 + 4x - 2y - 20 = 0",
-        "x\u00b2 + y\u00b2 - 4x - 2y - 20 = 0",
-        "x\u00b2 + y\u00b2 - 4x + 2y - 20 = 0",
-        "x\u00b2 + y\u00b2 - 4x + 2y + 20 = 0"
+        "x² + y² + 4x - 2y - 20 = 0",
+        "x² + y² - 4x - 2y - 20 = 0",
+        "x² + y² - 4x + 2y - 20 = 0",
+        "x² + y² - 4x + 2y + 20 = 0"
       ],
-      "correctAnswer": "x\u00b2 + y\u00b2 - 4x + 2y - 20 = 0"
+      "correctAnswer": "x² + y² - 4x + 2y - 20 = 0"
     },
     {
       "id": 24,
       "question": "The endpoints of a diameter of a circle are A(-1, 2) and B(5, 6). Find the equation of the circle in general form.",
       "options": [
-        "x\u00b2 + y\u00b2 - 4x - 8y + 7 = 0",
-        "x\u00b2 + y\u00b2 + 4x + 8y - 7 = 0",
-        "x\u00b2 + y\u00b2 - 4x - 8y - 7 = 0",
-        "x\u00b2 + y\u00b2 + 4x + 8y + 7 = 0"
+        "x² + y² - 4x - 8y + 7 = 0",
+        "x² + y² + 4x + 8y - 7 = 0",
+        "x² + y² - 4x - 8y - 7 = 0",
+        "x² + y² + 4x + 8y + 7 = 0"
       ],
-      "correctAnswer": "x\u00b2 + y\u00b2 - 4x - 8y + 7 = 0"
+      "correctAnswer": "x² + y² - 4x - 8y + 7 = 0"
     },
     {
       "id": 25,
-      "question": "Find the radius of the circle x\u00b2 + y\u00b2 - 10x + 6y + 9 = 0.",
+      "question": "Find the radius of the circle x² + y² - 10x + 6y + 9 = 0.",
       "options": [
         "5",
         "4",
@@ -284,7 +284,7 @@
     },
     {
       "id": 26,
-      "question": "The line y = 3x + k is tangent to the circle x\u00b2 + y\u00b2 = 10. Find k\u00b2.",
+      "question": "The line y = 3x + k is tangent to the circle x² + y² = 10. Find k².",
       "options": [
         "80",
         "100",
@@ -337,5 +337,6 @@
       ],
       "correctAnswer": "6 or 0"
     }
-  ]
+  ],
+  "folder": "School/Grade 10"
 }

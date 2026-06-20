@@ -1,427 +1,782 @@
 {
   "title": "6.0 Hydrocarbons and their Natural Sources",
   "description": "Quiz covering Unit 6 of Grade 10 Chemistry: organic chemistry history, alkanes, alkenes, alkynes, aromatic hydrocarbons, benzene, and natural sources of hydrocarbons.",
-  "tags": ["#chemistry", "#hydrocarbons", "#organic"],
+  "tags": [
+    "#chemistry",
+    "#hydrocarbons",
+    "#organic"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "According to Vitalism theory, organic compounds could only be produced by:",
-      "options": ["chemical synthesis in laboratories", "living organisms through a vital force", "inorganic reactions in nature", "the decay of minerals"],
+      "options": [
+        "chemical synthesis in laboratories",
+        "living organisms through a vital force",
+        "inorganic reactions in nature",
+        "the decay of minerals"
+      ],
       "correctAnswer": "living organisms through a vital force"
     },
     {
       "id": 2,
       "question": "Friedrich Wöhler synthesized urea in 1828 by evaporating an aqueous solution of:",
-      "options": ["ammonium chloride", "ammonium cyanate", "sodium acetate", "calcium carbide"],
+      "options": [
+        "ammonium chloride",
+        "ammonium cyanate",
+        "sodium acetate",
+        "calcium carbide"
+      ],
       "correctAnswer": "ammonium cyanate"
     },
     {
       "id": 3,
       "question": "Organic chemistry is the study of carbon compounds. Which class of compounds is considered inorganic?",
-      "options": ["hydrocarbons", "alcohols", "oxides of carbon", "carboxylic acids"],
+      "options": [
+        "hydrocarbons",
+        "alcohols",
+        "oxides of carbon",
+        "carboxylic acids"
+      ],
       "correctAnswer": "oxides of carbon"
     },
     {
       "id": 4,
       "question": "The ability of carbon atoms to join together to form short or long chains and rings is called:",
-      "options": ["polymerization", "catenation", "isomerization", "hybridization"],
+      "options": [
+        "polymerization",
+        "catenation",
+        "isomerization",
+        "hybridization"
+      ],
       "correctAnswer": "catenation"
     },
     {
       "id": 5,
       "question": "In a bond-line structural representation, what is represented by the line junctions?",
-      "options": ["hydrogen atoms", "heteroatoms", "carbon atoms", "methyl groups"],
+      "options": [
+        "hydrogen atoms",
+        "heteroatoms",
+        "carbon atoms",
+        "methyl groups"
+      ],
       "correctAnswer": "carbon atoms"
     },
     {
       "id": 6,
       "question": "A functional group is best defined as:",
-      "options": ["the longest carbon chain in a molecule", "a group of atoms that determines the chemical behavior of a molecule", "any atom other than carbon or hydrogen", "the repeating unit in a homologous series"],
+      "options": [
+        "the longest carbon chain in a molecule",
+        "a group of atoms that determines the chemical behavior of a molecule",
+        "any atom other than carbon or hydrogen",
+        "the repeating unit in a homologous series"
+      ],
       "correctAnswer": "a group of atoms that determines the chemical behavior of a molecule"
     },
     {
       "id": 7,
       "question": "Which class of organic compounds lacks a specific functional group?",
-      "options": ["alkenes", "alkynes", "alkanes", "aromatic hydrocarbons"],
+      "options": [
+        "alkenes",
+        "alkynes",
+        "alkanes",
+        "aromatic hydrocarbons"
+      ],
       "correctAnswer": "alkanes"
     },
     {
       "id": 8,
       "question": "Saturated hydrocarbons are those that contain:",
-      "options": ["only carbon-carbon double bonds", "only single bonds between carbon atoms", "at least one triple bond", "a benzene ring"],
+      "options": [
+        "only carbon-carbon double bonds",
+        "only single bonds between carbon atoms",
+        "at least one triple bond",
+        "a benzene ring"
+      ],
       "correctAnswer": "only single bonds between carbon atoms"
     },
     {
       "id": 9,
       "question": "A homologous series is characterized by each consecutive member differing by:",
-      "options": ["a CH₃ group", "a CH₂ group", "a hydrogen atom", "an oxygen atom"],
+      "options": [
+        "a CH₃ group",
+        "a CH₂ group",
+        "a hydrogen atom",
+        "an oxygen atom"
+      ],
       "correctAnswer": "a CH₂ group"
     },
     {
       "id": 10,
       "question": "Which characteristic is absent from members of a homologous series?",
-      "options": ["a general formula", "similar chemical reactivity", "different functional groups", "trends in physical properties"],
+      "options": [
+        "a general formula",
+        "similar chemical reactivity",
+        "different functional groups",
+        "trends in physical properties"
+      ],
       "correctAnswer": "different functional groups"
     },
     {
       "id": 11,
       "question": "At room temperature, the first four members of the alkane homologous series are:",
-      "options": ["liquids", "solids", "gases", "plasma"],
+      "options": [
+        "liquids",
+        "solids",
+        "gases",
+        "plasma"
+      ],
       "correctAnswer": "gases"
     },
     {
       "id": 12,
       "question": "All alkanes have densities that are:",
-      "options": ["greater than 1.00 g/mL", "considerably less than 1.00 g/mL", "exactly 1.00 g/mL", "equal to the density of water at 4 °C"],
+      "options": [
+        "greater than 1.00 g/mL",
+        "considerably less than 1.00 g/mL",
+        "exactly 1.00 g/mL",
+        "equal to the density of water at 4 °C"
+      ],
       "correctAnswer": "considerably less than 1.00 g/mL"
     },
     {
       "id": 13,
       "question": "As the number of carbon atoms in an alkane increases, its boiling point generally:",
-      "options": ["decreases", "remains constant", "increases", "fluctuates randomly"],
+      "options": [
+        "decreases",
+        "remains constant",
+        "increases",
+        "fluctuates randomly"
+      ],
       "correctAnswer": "increases"
     },
     {
       "id": 14,
       "question": "The prefix used in common names when all carbon atoms form a continuous chain is:",
-      "options": ["iso-", "neo-", "n-", "tert-"],
+      "options": [
+        "iso-",
+        "neo-",
+        "n-",
+        "tert-"
+      ],
       "correctAnswer": "n-"
     },
     {
       "id": 15,
       "question": "In IUPAC nomenclature, what does the suffix -ane indicate?",
-      "options": ["an alkene", "an alkyne", "an alkane", "an aromatic compound"],
+      "options": [
+        "an alkene",
+        "an alkyne",
+        "an alkane",
+        "an aromatic compound"
+      ],
       "correctAnswer": "an alkane"
     },
     {
       "id": 16,
       "question": "In the IUPAC name 3-methylheptane, the locant '3' indicates:",
-      "options": ["the number of carbon atoms in the parent chain", "the position of the substituent on the parent chain", "the total number of substituent groups", "the position of the double bond"],
+      "options": [
+        "the number of carbon atoms in the parent chain",
+        "the position of the substituent on the parent chain",
+        "the total number of substituent groups",
+        "the position of the double bond"
+      ],
       "correctAnswer": "the position of the substituent on the parent chain"
     },
     {
       "id": 17,
       "question": "When naming branched-chain alkanes, the parent chain is selected as:",
-      "options": ["the most branched chain", "the longest continuous chain of carbon atoms", "the chain with the most substituents", "the shortest chain containing all substituents"],
+      "options": [
+        "the most branched chain",
+        "the longest continuous chain of carbon atoms",
+        "the chain with the most substituents",
+        "the shortest chain containing all substituents"
+      ],
       "correctAnswer": "the longest continuous chain of carbon atoms"
     },
     {
       "id": 18,
       "question": "Removing one hydrogen atom from an alkane produces:",
-      "options": ["an alkene", "an alkyl group", "an alkyne", "a cycloalkane"],
+      "options": [
+        "an alkene",
+        "an alkyl group",
+        "an alkyne",
+        "a cycloalkane"
+      ],
       "correctAnswer": "an alkyl group"
     },
     {
       "id": 19,
       "question": "Alkyl groups have names ending in:",
-      "options": ["-ane", "-ene", "-yne", "-yl"],
+      "options": [
+        "-ane",
+        "-ene",
+        "-yne",
+        "-yl"
+      ],
       "correctAnswer": "-yl"
     },
     {
       "id": 20,
       "question": "Structural isomers are compounds that have:",
-      "options": ["different molecular formulas but the same structure", "the same molecular formula but different connectivity of atoms", "the same structure but different physical properties only", "different numbers of carbon and hydrogen atoms"],
+      "options": [
+        "different molecular formulas but the same structure",
+        "the same molecular formula but different connectivity of atoms",
+        "the same structure but different physical properties only",
+        "different numbers of carbon and hydrogen atoms"
+      ],
       "correctAnswer": "the same molecular formula but different connectivity of atoms"
     },
     {
       "id": 21,
       "question": "How many structural isomers does butane (C₄H₁₀) have?",
-      "options": ["1", "2", "3", "4"],
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
       "correctAnswer": "2"
     },
     {
       "id": 22,
       "question": "The Würtz reaction involves the reaction of a halogenated alkane with:",
-      "options": ["sodium metal", "potassium hydroxide", "soda lime", "hydrogen gas"],
+      "options": [
+        "sodium metal",
+        "potassium hydroxide",
+        "soda lime",
+        "hydrogen gas"
+      ],
       "correctAnswer": "sodium metal"
     },
     {
       "id": 23,
       "question": "In the decarboxylation method for preparing alkanes, the reactant is:",
-      "options": ["an alkyl halide and sodium", "an alkene and hydrogen", "a sodium salt of a carboxylic acid with soda lime", "an alcohol and sulfuric acid"],
+      "options": [
+        "an alkyl halide and sodium",
+        "an alkene and hydrogen",
+        "a sodium salt of a carboxylic acid with soda lime",
+        "an alcohol and sulfuric acid"
+      ],
       "correctAnswer": "a sodium salt of a carboxylic acid with soda lime"
     },
     {
       "id": 24,
       "question": "Alkanes are sometimes referred to as paraffins, which means:",
-      "options": ["high reactivity", "little affinity", "fat-like", "ring-shaped"],
+      "options": [
+        "high reactivity",
+        "little affinity",
+        "fat-like",
+        "ring-shaped"
+      ],
       "correctAnswer": "little affinity"
     },
     {
       "id": 25,
       "question": "Which type of reaction is most characteristic of alkanes?",
-      "options": ["addition", "substitution", "polymerization", "hydration"],
+      "options": [
+        "addition",
+        "substitution",
+        "polymerization",
+        "hydration"
+      ],
       "correctAnswer": "substitution"
     },
     {
       "id": 26,
       "question": "The halogenation of methane in the presence of light proceeds through:",
-      "options": ["an ionic mechanism", "a free radical mechanism", "an electrophilic mechanism", "a nucleophilic mechanism"],
+      "options": [
+        "an ionic mechanism",
+        "a free radical mechanism",
+        "an electrophilic mechanism",
+        "a nucleophilic mechanism"
+      ],
       "correctAnswer": "a free radical mechanism"
     },
     {
       "id": 27,
       "question": "An elimination reaction in alkanes involves:",
-      "options": ["addition of hydrogen across a double bond", "removal of smaller molecules leading to multiple bond formation", "replacement of hydrogen by a halogen", "reaction with oxygen to produce carbon dioxide and water"],
+      "options": [
+        "addition of hydrogen across a double bond",
+        "removal of smaller molecules leading to multiple bond formation",
+        "replacement of hydrogen by a halogen",
+        "reaction with oxygen to produce carbon dioxide and water"
+      ],
       "correctAnswer": "removal of smaller molecules leading to multiple bond formation"
     },
     {
       "id": 28,
       "question": "Cycloalkanes that contain a single ring have the general formula:",
-      "options": ["CₙH₂ₙ₊₂", "CₙH₂ₙ", "CₙH₂ₙ₋₂", "CₙH₂ₙ₋₆"],
+      "options": [
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂",
+        "CₙH₂ₙ₋₆"
+      ],
       "correctAnswer": "CₙH₂ₙ"
     },
     {
       "id": 29,
       "question": "The simplest alicyclic compound is:",
-      "options": ["cyclohexane", "cyclopentane", "cyclopropane", "cyclobutane"],
+      "options": [
+        "cyclohexane",
+        "cyclopentane",
+        "cyclopropane",
+        "cyclobutane"
+      ],
       "correctAnswer": "cyclopropane"
     },
     {
       "id": 30,
       "question": "Alkanes are primarily used as:",
-      "options": ["solvents only", "raw materials for plastics only", "fuels", "medicines"],
+      "options": [
+        "solvents only",
+        "raw materials for plastics only",
+        "fuels",
+        "medicines"
+      ],
       "correctAnswer": "fuels"
     },
     {
       "id": 31,
       "question": "Alkenes are also known as:",
-      "options": ["paraffins", "olefins", "acetylenes", "arenes"],
+      "options": [
+        "paraffins",
+        "olefins",
+        "acetylenes",
+        "arenes"
+      ],
       "correctAnswer": "olefins"
     },
     {
       "id": 32,
       "question": "The general formula for an alkene is:",
-      "options": ["CₙH₂ₙ₊₂", "CₙH₂ₙ", "CₙH₂ₙ₋₂", "CₙH₂ₙ₋₆"],
+      "options": [
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂",
+        "CₙH₂ₙ₋₆"
+      ],
       "correctAnswer": "CₙH₂ₙ"
     },
     {
       "id": 33,
       "question": "Ethene occurs naturally as:",
-      "options": ["a component of natural gas", "a plant hormone involved in fruit ripening", "a mineral in rocks", "a byproduct of coal burning"],
+      "options": [
+        "a component of natural gas",
+        "a plant hormone involved in fruit ripening",
+        "a mineral in rocks",
+        "a byproduct of coal burning"
+      ],
       "correctAnswer": "a plant hormone involved in fruit ripening"
     },
     {
       "id": 34,
       "question": "The IUPAC name for the compound with common name ethylene is:",
-      "options": ["ethane", "ethyne", "ethene", "ethyl"],
+      "options": [
+        "ethane",
+        "ethyne",
+        "ethene",
+        "ethyl"
+      ],
       "correctAnswer": "ethene"
     },
     {
       "id": 35,
       "question": "The common name for 2-methylpropene is:",
-      "options": ["propylene", "isobutylene", "butylene", "ethylene"],
+      "options": [
+        "propylene",
+        "isobutylene",
+        "butylene",
+        "ethylene"
+      ],
       "correctAnswer": "isobutylene"
     },
     {
       "id": 36,
       "question": "When numbering an alkene chain for IUPAC naming, the numbering should:",
-      "options": ["begin at the end nearer the double bond", "begin at the end with more substituents", "always begin from the left", "begin at the end farther from the double bond"],
+      "options": [
+        "begin at the end nearer the double bond",
+        "begin at the end with more substituents",
+        "always begin from the left",
+        "begin at the end farther from the double bond"
+      ],
       "correctAnswer": "begin at the end nearer the double bond"
     },
     {
       "id": 37,
       "question": "In addition to chain isomerism, alkenes exhibit:",
-      "options": ["only position isomerism", "only geometrical isomerism", "both position and geometrical isomerism", "optical isomerism"],
+      "options": [
+        "only position isomerism",
+        "only geometrical isomerism",
+        "both position and geometrical isomerism",
+        "optical isomerism"
+      ],
       "correctAnswer": "both position and geometrical isomerism"
     },
     {
       "id": 38,
       "question": "The cis and trans prefixes in geometrical isomerism refer to:",
-      "options": ["the length of the carbon chain", "the spatial arrangement of groups about the double bond", "the number of double bonds", "the position of substituents on a ring"],
+      "options": [
+        "the length of the carbon chain",
+        "the spatial arrangement of groups about the double bond",
+        "the number of double bonds",
+        "the position of substituents on a ring"
+      ],
       "correctAnswer": "the spatial arrangement of groups about the double bond"
     },
     {
       "id": 39,
       "question": "Which of the following can exhibit cis-trans isomerism?",
-      "options": ["1-pentene", "ethene", "2-butene", "propene"],
+      "options": [
+        "1-pentene",
+        "ethene",
+        "2-butene",
+        "propene"
+      ],
       "correctAnswer": "2-butene"
     },
     {
       "id": 40,
       "question": "Geometrical isomerism exists in alkenes because:",
-      "options": ["the carbon chain can branch", "rotation about the double bond is restricted", "the molecules are polar", "the double bond is easily broken"],
+      "options": [
+        "the carbon chain can branch",
+        "rotation about the double bond is restricted",
+        "the molecules are polar",
+        "the double bond is easily broken"
+      ],
       "correctAnswer": "rotation about the double bond is restricted"
     },
     {
       "id": 41,
       "question": "One laboratory method for preparing alkenes involves:",
-      "options": ["hydrogenation of alkanes", "dehydration of alcohols with concentrated H₂SO₄", "decarboxylation of carboxylic acids", "reaction of alkyl halides with sodium"],
+      "options": [
+        "hydrogenation of alkanes",
+        "dehydration of alcohols with concentrated H₂SO₄",
+        "decarboxylation of carboxylic acids",
+        "reaction of alkyl halides with sodium"
+      ],
       "correctAnswer": "dehydration of alcohols with concentrated H₂SO₄"
     },
     {
       "id": 42,
       "question": "The main type of reaction that alkenes undergo is:",
-      "options": ["substitution", "elimination", "addition", "combustion only"],
+      "options": [
+        "substitution",
+        "elimination",
+        "addition",
+        "combustion only"
+      ],
       "correctAnswer": "addition"
     },
     {
       "id": 43,
       "question": "When bromine in CCl₄ is added to an alkene, the reddish-brown colour disappears because:",
-      "options": ["bromine evaporates", "bromine adds across the double bond", "bromine reacts with carbon", "bromine dissolves in water"],
+      "options": [
+        "bromine evaporates",
+        "bromine adds across the double bond",
+        "bromine reacts with carbon",
+        "bromine dissolves in water"
+      ],
       "correctAnswer": "bromine adds across the double bond"
     },
     {
       "id": 44,
       "question": "Markovnikov's rule states that when an alkene reacts with HX, the hydrogen adds to:",
-      "options": ["the carbon with fewer hydrogen atoms", "the carbon with the greater number of hydrogen atoms", "either carbon atom randomly", "the carbon atom in the middle of the chain"],
+      "options": [
+        "the carbon with fewer hydrogen atoms",
+        "the carbon with the greater number of hydrogen atoms",
+        "either carbon atom randomly",
+        "the carbon atom in the middle of the chain"
+      ],
       "correctAnswer": "the carbon with the greater number of hydrogen atoms"
     },
     {
       "id": 45,
       "question": "The addition of water to an alkene in the presence of an acid catalyst produces:",
-      "options": ["an alkane", "an alkyl halide", "an alcohol", "a diol"],
+      "options": [
+        "an alkane",
+        "an alkyl halide",
+        "an alcohol",
+        "a diol"
+      ],
       "correctAnswer": "an alcohol"
     },
     {
       "id": 46,
       "question": "Alkaline KMnO₄ solution used to test for unsaturation is called:",
-      "options": ["Würtz reagent", "Baeyer's reagent", "Fehling's solution", "Markovnikov's reagent"],
+      "options": [
+        "Würtz reagent",
+        "Baeyer's reagent",
+        "Fehling's solution",
+        "Markovnikov's reagent"
+      ],
       "correctAnswer": "Baeyer's reagent"
     },
     {
       "id": 47,
       "question": "The polymerization of ethene under high pressure and temperature produces:",
-      "options": ["polypropylene", "polyethene", "polyvinyl chloride", "polystyrene"],
+      "options": [
+        "polypropylene",
+        "polyethene",
+        "polyvinyl chloride",
+        "polystyrene"
+      ],
       "correctAnswer": "polyethene"
     },
     {
       "id": 48,
       "question": "Cycloalkenes have the general formula:",
-      "options": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙH₂ₙ₋₆"],
+      "options": [
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ₋₂",
+        "CₙH₂ₙ₋₆"
+      ],
       "correctAnswer": "CₙH₂ₙ₋₂"
     },
     {
       "id": 49,
       "question": "The general formula for the alkyne homologous series is:",
-      "options": ["CₙH₂ₙ₊₂", "CₙH₂ₙ", "CₙH₂ₙ₋₂", "CₙHₙ"],
+      "options": [
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂",
+        "CₙHₙ"
+      ],
       "correctAnswer": "CₙH₂ₙ₋₂"
     },
     {
       "id": 50,
       "question": "The simplest alkyne is commonly known as:",
-      "options": ["ethene", "acetylene", "ethane", "ethylene"],
+      "options": [
+        "ethene",
+        "acetylene",
+        "ethane",
+        "ethylene"
+      ],
       "correctAnswer": "acetylene"
     },
     {
       "id": 51,
       "question": "Alkynes show which type of isomerism?",
-      "options": ["chain and position only", "chain, position, and geometrical", "geometrical only", "optical only"],
+      "options": [
+        "chain and position only",
+        "chain, position, and geometrical",
+        "geometrical only",
+        "optical only"
+      ],
       "correctAnswer": "chain and position only"
     },
     {
       "id": 52,
       "question": "Ethyne can be prepared in the laboratory by the reaction of calcium carbide with:",
-      "options": ["hydrochloric acid", "water", "sodium hydroxide", "ethanol"],
+      "options": [
+        "hydrochloric acid",
+        "water",
+        "sodium hydroxide",
+        "ethanol"
+      ],
       "correctAnswer": "water"
     },
     {
       "id": 53,
       "question": "The combustion of alkynes produces a smoky luminous flame due to:",
-      "options": ["their low carbon content", "their relatively high carbon content", "the presence of oxygen", "the triple bond breaking easily"],
+      "options": [
+        "their low carbon content",
+        "their relatively high carbon content",
+        "the presence of oxygen",
+        "the triple bond breaking easily"
+      ],
       "correctAnswer": "their relatively high carbon content"
     },
     {
       "id": 54,
       "question": "Partial hydrogenation of an alkyne in the presence of Lindlar's catalyst gives:",
-      "options": ["an alkane", "the cis-alkene", "the trans-alkene", "a tetrahaloalkane"],
+      "options": [
+        "an alkane",
+        "the cis-alkene",
+        "the trans-alkene",
+        "a tetrahaloalkane"
+      ],
       "correctAnswer": "the cis-alkene"
     },
     {
       "id": 55,
       "question": "When acetylene is heated at 600–700 °C, it undergoes trimerization to form:",
-      "options": ["ethane", "ethene", "benzene", "cyclohexane"],
+      "options": [
+        "ethane",
+        "ethene",
+        "benzene",
+        "cyclohexane"
+      ],
       "correctAnswer": "benzene"
     },
     {
       "id": 56,
       "question": "Acetylene is stored as a solution in acetone in steel cylinders because:",
-      "options": ["it is a liquid at room temperature", "it is unstable and explosive when compressed alone", "it reacts with steel", "it evaporates easily"],
+      "options": [
+        "it is a liquid at room temperature",
+        "it is unstable and explosive when compressed alone",
+        "it reacts with steel",
+        "it evaporates easily"
+      ],
       "correctAnswer": "it is unstable and explosive when compressed alone"
     },
     {
       "id": 57,
       "question": "Oxy-acetylene torches produce flame temperatures of about:",
-      "options": ["1000 °C", "2000 °C", "3000 °C", "4000 °C"],
+      "options": [
+        "1000 °C",
+        "2000 °C",
+        "3000 °C",
+        "4000 °C"
+      ],
       "correctAnswer": "3000 °C"
     },
     {
       "id": 58,
       "question": "The term 'aromatic' originally referred to compounds with:",
-      "options": ["ring structures", "pleasant smell", "high stability", "low hydrogen content"],
+      "options": [
+        "ring structures",
+        "pleasant smell",
+        "high stability",
+        "low hydrogen content"
+      ],
       "correctAnswer": "pleasant smell"
     },
     {
       "id": 59,
       "question": "Benzene has a molecular formula of:",
-      "options": ["C₆H₁₀", "C₆H₆", "C₆H₁₂", "C₆H₈"],
+      "options": [
+        "C₆H₁₀",
+        "C₆H₆",
+        "C₆H₁₂",
+        "C₆H₈"
+      ],
       "correctAnswer": "C₆H₆"
     },
     {
       "id": 60,
       "question": "The structure of benzene was first proposed by:",
-      "options": ["Friedrich Wöhler", "August Kekulé", "Charles Würtz", "John Dalton"],
+      "options": [
+        "Friedrich Wöhler",
+        "August Kekulé",
+        "Charles Würtz",
+        "John Dalton"
+      ],
       "correctAnswer": "August Kekulé"
     },
     {
       "id": 61,
       "question": "The carbon-carbon bonds in benzene are best described as:",
-      "options": ["alternating single and double bonds", "all single bonds", "all double bonds", "intermediate between single and double bonds"],
+      "options": [
+        "alternating single and double bonds",
+        "all single bonds",
+        "all double bonds",
+        "intermediate between single and double bonds"
+      ],
       "correctAnswer": "intermediate between single and double bonds"
     },
     {
       "id": 62,
       "question": "In the IUPAC system, methylbenzene is commonly known as:",
-      "options": ["aniline", "phenol", "toluene", "xylene"],
+      "options": [
+        "aniline",
+        "phenol",
+        "toluene",
+        "xylene"
+      ],
       "correctAnswer": "toluene"
     },
     {
       "id": 63,
       "question": "In disubstituted benzenes, the prefix ortho- (o-) refers to substituents located at positions:",
-      "options": ["1,3", "1,4", "1,2", "1,5"],
+      "options": [
+        "1,3",
+        "1,4",
+        "1,2",
+        "1,5"
+      ],
       "correctAnswer": "1,2"
     },
     {
       "id": 64,
       "question": "Benzene is a carcinogenic substance that can cause:",
-      "options": ["lung cancer", "leukemia", "skin cancer", "liver cancer"],
+      "options": [
+        "lung cancer",
+        "leukemia",
+        "skin cancer",
+        "liver cancer"
+      ],
       "correctAnswer": "leukemia"
     },
     {
       "id": 65,
       "question": "Benzene fails to decolorize which of the following reagents?",
-      "options": ["bromine in CCl₄", "concentrated sulfuric acid", "nitric acid", "hydrogen gas"],
+      "options": [
+        "bromine in CCl₄",
+        "concentrated sulfuric acid",
+        "nitric acid",
+        "hydrogen gas"
+      ],
       "correctAnswer": "bromine in CCl₄"
     },
     {
       "id": 66,
       "question": "The characteristic reaction of benzene is:",
-      "options": ["addition", "elimination", "substitution", "polymerization"],
+      "options": [
+        "addition",
+        "elimination",
+        "substitution",
+        "polymerization"
+      ],
       "correctAnswer": "substitution"
     },
     {
       "id": 67,
       "question": "Natural gas consists chiefly of:",
-      "options": ["ethane", "propane", "methane", "butane"],
+      "options": [
+        "ethane",
+        "propane",
+        "methane",
+        "butane"
+      ],
       "correctAnswer": "methane"
     },
     {
       "id": 68,
       "question": "Crude oil mainly contains which classes of hydrocarbons?",
-      "options": ["alkanes, alkenes, and alkynes", "alkanes, cycloalkanes, and aromatic hydrocarbons", "alkenes, alkynes, and arenes", "only alkanes"],
+      "options": [
+        "alkanes, alkenes, and alkynes",
+        "alkanes, cycloalkanes, and aromatic hydrocarbons",
+        "alkenes, alkynes, and arenes",
+        "only alkanes"
+      ],
       "correctAnswer": "alkanes, cycloalkanes, and aromatic hydrocarbons"
     },
     {
       "id": 69,
       "question": "The octane number of 2,2,4-trimethylpentane (isooctane) is:",
-      "options": ["0", "50", "87", "100"],
+      "options": [
+        "0",
+        "50",
+        "87",
+        "100"
+      ],
       "correctAnswer": "100"
     },
     {
       "id": 70,
       "question": "Destructive distillation of coal in the absence of air produces coal tar, coal gas, and:",
-      "options": ["petroleum", "coke", "methane", "gasoline"],
+      "options": [
+        "petroleum",
+        "coke",
+        "methane",
+        "gasoline"
+      ],
       "correctAnswer": "coke"
     }
-  ]
+  ],
+  "folder": "School/Grade 10"
 }
