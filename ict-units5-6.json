@@ -1,0 +1,340 @@
+{
+  "title": "Grade 7 ICT — Units 5-6",
+  "description": "30 challenging questions covering computer security, safety, and LOGO programming.",
+  "folder": "temp/Grade 7/ICT",
+  "field": "natural",
+  "anki": true,
+  "tags": ["ict", "grade7", "computer"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Before cleaning any electrical equipment, what must you ensure according to the textbook?",
+      "options": [
+        "It is switched off and unplugged from the power source",
+        "The equipment is running to heat up dust",
+        "The battery is fully charged",
+        "Only the monitor is turned off"
+      ],
+      "correctAnswer": "It is switched off and unplugged from the power source"
+    },
+    {
+      "id": 2,
+      "question": "How long should monitors and laser printers be allowed to cool down before cleaning?",
+      "options": [
+        "At least 60 minutes",
+        "At least 10 minutes",
+        "At least 20 minutes",
+        "At least 30 minutes"
+      ],
+      "correctAnswer": "At least 30 minutes"
+    },
+    {
+      "id": 3,
+      "question": "Which computer components should only be maintained by specially trained people because they use high voltages?",
+      "options": [
+        "Power supplies and monitors",
+        "Hard drives and SSDs",
+        "Keyboards and mice",
+        "RAM and CPU"
+      ],
+      "correctAnswer": "Power supplies and monitors"
+    },
+    {
+      "id": 4,
+      "question": "According to the textbook, what does dust act as inside a computer?",
+      "options": [
+        "A lubricant for moving parts",
+        "A conductor of electricity",
+        "An insulator that prevents air circulation",
+        "A coolant for overheating parts"
+      ],
+      "correctAnswer": "An insulator that prevents air circulation"
+    },
+    {
+      "id": 5,
+      "question": "What problem can dust containing conductive particles cause inside a computer?",
+      "options": [
+        "It can improve electrical connectivity",
+        "It can cause a short circuit and possibly a fire",
+        "It can increase processing speed",
+        "It can reduce power consumption"
+      ],
+      "correctAnswer": "It can cause a short circuit and possibly a fire"
+    },
+    {
+      "id": 6,
+      "question": "What is compressed air used for when cleaning a computer?",
+      "options": [
+        "Drying wet internal components",
+        "Cooling the CPU during use",
+        "Cleaning keyboard keys",
+        "Blasting dust"
+      ],
+      "correctAnswer": "Blasting dust"
+    },
+    {
+      "id": 7,
+      "question": "What is the safest method to clean a computer monitor according to the textbook?",
+      "options": [
+        "Wiping with a dry paper towel",
+        "Using a vacuum cleaner with a brush attachment",
+        "Using a soft and clean cloth moistened with water",
+        "Spraying glass cleaner directly on the screen"
+      ],
+      "correctAnswer": "Using a soft and clean cloth moistened with water"
+    },
+    {
+      "id": 8,
+      "question": "Why should liquids not be sprayed directly onto a computer screen?",
+      "options": [
+        "The liquid could make the screen permanently slippery",
+        "The liquid could leak into the monitor and damage internal components",
+        "The liquid could cause the screen to change color",
+        "The liquid could cause a fire"
+      ],
+      "correctAnswer": "The liquid could leak into the monitor and damage internal components"
+    },
+    {
+      "id": 9,
+      "question": "What is recommended for cleaning sticky dirt from a computer keyboard?",
+      "options": [
+        "Cotton moistened with alcohol",
+        "A wet sponge with soap",
+        "Compressed air only",
+        "A dry paintbrush"
+      ],
+      "correctAnswer": "Cotton moistened with alcohol"
+    },
+    {
+      "id": 10,
+      "question": "How many types of user accounts does the Windows operating system offer according to the textbook?",
+      "options": [
+        "Four",
+        "Three",
+        "Five",
+        "Two"
+      ],
+      "correctAnswer": "Three"
+    },
+    {
+      "id": 11,
+      "question": "What does the acronym LOGO stand for?",
+      "options": [
+        "Language Oriented Graphics Output",
+        "Learning Oriented Graphical Organizer",
+        "Logical Object Graphic Operator",
+        "Logic Oriented Graphics Oriented"
+      ],
+      "correctAnswer": "Logic Oriented Graphics Oriented"
+    },
+    {
+      "id": 12,
+      "question": "LOGO's graphics language is called what?",
+      "options": [
+        "Raster graphics",
+        "Vector graphics",
+        "Pixel graphics",
+        "Turtle graphics"
+      ],
+      "correctAnswer": "Turtle graphics"
+    },
+    {
+      "id": 13,
+      "question": "According to the glossary, LOGO is classified as what type of programming language?",
+      "options": [
+        "Machine language",
+        "Assembly language",
+        "Low-level language",
+        "High-level language"
+      ],
+      "correctAnswer": "High-level language"
+    },
+    {
+      "id": 14,
+      "question": "What type of programming language is LOGO described as in the textbook?",
+      "options": [
+        "A visual programming language",
+        "An object-oriented programming language",
+        "A text-based programming language",
+        "A graphical programming language"
+      ],
+      "correctAnswer": "A text-based programming language"
+    },
+    {
+      "id": 15,
+      "question": "What was LOGO originally designed for?",
+      "options": [
+        "To create professional graphic designs",
+        "To introduce children to programming concepts",
+        "To replace BASIC as a business language",
+        "To develop artificial intelligence programs"
+      ],
+      "correctAnswer": "To introduce children to programming concepts"
+    },
+    {
+      "id": 16,
+      "question": "What are the two main parts of the MSW Logo screen according to Section 6.2?",
+      "options": [
+        "Button bar and Listener window",
+        "Title bar and Menu bar",
+        "Command input box and Output box",
+        "Main screen and Commander window"
+      ],
+      "correctAnswer": "Main screen and Commander window"
+    },
+    {
+      "id": 17,
+      "question": "What shape is the turtle at the center of the MSW Logo graphic screen?",
+      "options": [
+        "A circle",
+        "A square",
+        "An arrow",
+        "A triangle"
+      ],
+      "correctAnswer": "A triangle"
+    },
+    {
+      "id": 18,
+      "question": "Which screen element of MSW Logo contains the name of the program?",
+      "options": [
+        "Title bar",
+        "Menu bar",
+        "Button bar",
+        "Listener window"
+      ],
+      "correctAnswer": "Title bar"
+    },
+    {
+      "id": 19,
+      "question": "What is the function of the Button bar in MSW Logo?",
+      "options": [
+        "It displays error messages and output results",
+        "It provides additional shortcuts for LOGO commands",
+        "It shows the current position of the turtle",
+        "It contains the name of the program"
+      ],
+      "correctAnswer": "It provides additional shortcuts for LOGO commands"
+    },
+    {
+      "id": 20,
+      "question": "What does the CS command do in MSW Logo?",
+      "options": [
+        "Changes the turtle's speed",
+        "Saves the current drawing to a file",
+        "Closes the current procedure",
+        "Erases all drawings and sets the turtle at the center"
+      ],
+      "correctAnswer": "Erases all drawings and sets the turtle at the center"
+    },
+    {
+      "id": 21,
+      "question": "How many basic drawing commands does MSW Logo consist of?",
+      "options": [
+        "Six",
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "correctAnswer": "Four"
+    },
+    {
+      "id": 22,
+      "question": "What type of argument does the FD (forward) command require?",
+      "options": [
+        "Angles",
+        "Colors",
+        "Coordinates",
+        "Units"
+      ],
+      "correctAnswer": "Units"
+    },
+    {
+      "id": 23,
+      "question": "What type of argument does the RT (right) command require?",
+      "options": [
+        "Units",
+        "Angles",
+        "Coordinates",
+        "Colors"
+      ],
+      "correctAnswer": "Angles"
+    },
+    {
+      "id": 24,
+      "question": "What shape does the command REPEAT 4 [FORWARD 100 RIGHT 90] draw?",
+      "options": [
+        "A triangle",
+        "A circle",
+        "A pentagon",
+        "A square"
+      ],
+      "correctAnswer": "A square"
+    },
+    {
+      "id": 25,
+      "question": "What is a procedure in LOGO programming?",
+      "options": [
+        "A built-in command that cannot be changed",
+        "A set of instructions given a name",
+        "A special type of error message",
+        "A file format for saving drawings"
+      ],
+      "correctAnswer": "A set of instructions given a name"
+    },
+    {
+      "id": 26,
+      "question": "Which command is used to begin defining a new procedure in LOGO?",
+      "options": [
+        "TO",
+        "START",
+        "DEFINE",
+        "PROC"
+      ],
+      "correctAnswer": "TO"
+    },
+    {
+      "id": 27,
+      "question": "What must be typed to mark the end of a procedure in the To Mode Input box?",
+      "options": [
+        "STOP",
+        "EXIT",
+        "FINISH",
+        "END"
+      ],
+      "correctAnswer": "END"
+    },
+    {
+      "id": 28,
+      "question": "What message appears if you try to run a procedure before defining it in LOGO?",
+      "options": [
+        "Invalid procedure identifier",
+        "Command not recognized",
+        "Your procedure is not in LOGO's vocabulary yet",
+        "Procedure does not exist"
+      ],
+      "correctAnswer": "Your procedure is not in LOGO's vocabulary yet"
+    },
+    {
+      "id": 29,
+      "question": "What is the file extension for files saved in LOGO?",
+      "options": [
+        ".LOG",
+        ".LOGO",
+        ".LGO",
+        ".LGS"
+      ],
+      "correctAnswer": ".LOGO"
+    },
+    {
+      "id": 30,
+      "question": "What are primitive procedures in LOGO?",
+      "options": [
+        "Procedures that contain programming errors",
+        "Procedures defined by the user for specific tasks",
+        "Basic commands that LOGO already knows",
+        "The longest and most complex procedures"
+      ],
+      "correctAnswer": "Basic commands that LOGO already knows"
+    }
+  ]
+}
