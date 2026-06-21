@@ -12,7 +12,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the normal pH range of blood?",
+      "question": "What is the normal $pH$ range of blood?",
       "options": [
         "7.0 to 7.2",
         "7.35 to 7.45",
@@ -23,7 +23,7 @@
     },
     {
       "id": 2,
-      "question": "What blood pH value can lead to death?",
+      "question": "What blood $pH$ value can lead to death?",
       "options": [
         "Higher than 7.0 or lower than 6.5",
         "Higher than 7.8 or lower than 6.8",
@@ -59,7 +59,7 @@
       "question": "In the final synthesis step of which vitamin do the kidneys play a role?",
       "options": [
         "Vitamin A",
-        "Vitamin B12",
+        "Vitamin $B_{12}$",
         "Vitamin C",
         "Vitamin D"
       ],
@@ -573,25 +573,25 @@
     },
     {
       "id": 52,
-      "question": "What substance does the proximal convoluted tubule secrete into the filtrate to regulate blood pH?",
+      "question": "What substance does the proximal convoluted tubule secrete into the filtrate to regulate blood $pH$?",
       "options": [
         "Bicarbonate",
-        "Ammonia (NH3)",
+        "Ammonia ($NH_3$)",
         "Sodium",
         "Potassium"
       ],
-      "correctAnswer": "Ammonia (NH3)"
+      "correctAnswer": "Ammonia ($NH_3$)"
     },
     {
       "id": 53,
-      "question": "Ammonia secreted into the filtrate interacts with H+ to form what?",
+      "question": "Ammonia secreted into the filtrate interacts with $H^+$ to form what?",
       "options": [
-        "NH4+",
-        "NH2-",
-        "N2",
+        "$NH_4^+$",
+        "$NH_2$-",
+        "$N_2$",
         "HNO3"
       ],
-      "correctAnswer": "NH4+"
+      "correctAnswer": "$NH_4^+$"
     },
     {
       "id": 54,
@@ -630,16 +630,16 @@
       "id": 57,
       "question": "Which ions diffuse into the interstitial fluid in the thin section of the ascending loop of Henle?",
       "options": [
-        "K+ and H+",
-        "Na+ and Cl-",
-        "Ca2+ and Mg2+",
-        "HCO3- and PO4-"
+        "$K^+$ and $H^+$",
+        "$Na^+$ and $Cl^-$",
+        "$Ca^{2+}$ and $Mg^{2+}$",
+        "$HCO_3^-$ and $PO_4$-"
       ],
-      "correctAnswer": "Na+ and Cl-"
+      "correctAnswer": "$Na^+$ and $Cl^-$"
     },
     {
       "id": 58,
-      "question": "What happens to Na+ and Cl- in the thick region of the ascending loop of Henle?",
+      "question": "What happens to $Na^+$ and $Cl^-$ in the thick region of the ascending loop of Henle?",
       "options": [
         "They diffuse out",
         "They are actively transferred into the interstitial fluid",
@@ -663,23 +663,23 @@
       "id": 60,
       "question": "Which ions are selectively secreted into the filtrate in the distal convoluted tubule?",
       "options": [
-        "Na+ and Cl-",
-        "K+ and H+",
-        "Ca2+ and HCO3-",
-        "NH3 and water"
+        "$Na^+$ and $Cl^-$",
+        "$K^+$ and $H^+$",
+        "$Ca^{2+}$ and $HCO_3^-$",
+        "$NH_3$ and water"
       ],
-      "correctAnswer": "K+ and H+"
+      "correctAnswer": "$K^+$ and $H^+$"
     },
     {
       "id": 61,
-      "question": "Which ions are reabsorbed in the distal convoluted tubule to maintain blood pH and electrolyte balance?",
+      "question": "Which ions are reabsorbed in the distal convoluted tubule to maintain blood $pH$ and electrolyte balance?",
       "options": [
-        "K+ and H+",
-        "Na+, Cl-, and HCO3-",
-        "Ca2+ and Mg2+",
-        "NH3 and urea"
+        "$K^+$ and $H^+$",
+        "$Na^+$, $Cl^-$, and $HCO_3^-$",
+        "$Ca^{2+}$ and $Mg^{2+}$",
+        "$NH_3$ and urea"
       ],
-      "correctAnswer": "Na+, Cl-, and HCO3-"
+      "correctAnswer": "$Na^+$, $Cl^-$, and $HCO_3^-$"
     },
     {
       "id": 62,

@@ -253,14 +253,14 @@
       "id": 22
     },
     {
-      "question": "In mitosis, a diploid (2n) mother cell gives rise to what kind of daughter cells?",
+      "question": "In mitosis, a diploid ($2n$) mother cell gives rise to what kind of daughter cells?",
       "options": [
-        "Two haploid (n) identical daughter cells",
-        "Two diploid (2n) identical daughter cells",
-        "Four haploid (n) daughter cells",
-        "Four diploid (2n) daughter cells"
+        "Two haploid ($n$) identical daughter cells",
+        "Two diploid ($2n$) identical daughter cells",
+        "Four haploid ($n$) daughter cells",
+        "Four diploid ($2n$) daughter cells"
       ],
-      "correctAnswer": "Two diploid (2n) identical daughter cells",
+      "correctAnswer": "Two diploid ($2n$) identical daughter cells",
       "id": 23
     },
     {
@@ -596,12 +596,12 @@
     {
       "question": "After the union of haploid sperm and haploid egg, the resulting zygote is what?",
       "options": [
-        "Haploid (n)",
-        "Diploid (2n)",
-        "Triploid (3n)",
-        "Tetraploid (4n)"
+        "Haploid ($n$)",
+        "Diploid ($2n$)",
+        "Triploid ($3n$)",
+        "Tetraploid ($4n$)"
       ],
-      "correctAnswer": "Diploid (2n)",
+      "correctAnswer": "Diploid ($2n$)",
       "id": 54
     },
     {
@@ -784,11 +784,11 @@
       "question": "Each gamete produced by meiosis possesses what number of chromosomes compared to the mother cell?",
       "options": [
         "The same number",
-        "Half the number (n)",
+        "Half the number ($n$)",
         "Double the number",
         "Triple the number"
       ],
-      "correctAnswer": "Half the number (n)",
+      "correctAnswer": "Half the number ($n$)",
       "id": 71
     },
     {
@@ -902,7 +902,7 @@
       "id": 81
     },
     {
-      "question": "During anaphase I, why does reduction to haploid (n) take place?",
+      "question": "During anaphase I, why does reduction to haploid ($n$) take place?",
       "options": [
         "Because sister chromatids separate",
         "Because homologous chromosomes of male and female parents separate",
@@ -1091,12 +1091,12 @@
     {
       "question": "Meiosis I is a reduction by half, going from what to what?",
       "options": [
-        "Haploid (n) to diploid (2n)",
-        "Diploid (2n) to haploid (n)",
-        "Diploid (2n) to diploid (2n)",
-        "Haploid (n) to haploid (n)"
+        "Haploid ($n$) to diploid ($2n$)",
+        "Diploid ($2n$) to haploid ($n$)",
+        "Diploid ($2n$) to diploid ($2n$)",
+        "Haploid ($n$) to haploid ($n$)"
       ],
-      "correctAnswer": "Diploid (2n) to haploid (n)",
+      "correctAnswer": "Diploid ($2n$) to haploid ($n$)",
       "id": 99
     },
     {

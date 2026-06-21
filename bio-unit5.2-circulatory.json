@@ -72,7 +72,7 @@
         "Oxygen",
         "Body fluid",
         "Carbon dioxide",
-        "pH"
+        "$pH$"
       ],
       "correctAnswer": "Body fluid"
     },

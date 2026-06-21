@@ -310,10 +310,10 @@
     {
       "question": "What is the haploid abbreviation used in the textbook?",
       "options": [
-        "2n",
+        "$2n$",
         "n",
-        "4n",
-        "3n"
+        "$4n$",
+        "$3n$"
       ],
       "correctAnswer": "n",
       "id": 28
@@ -322,15 +322,15 @@
       "question": "What is the diploid abbreviation used in the textbook?",
       "options": [
         "n",
-        "2n",
-        "4n",
-        "3n"
+        "$2n$",
+        "$4n$",
+        "$3n$"
       ],
-      "correctAnswer": "2n",
+      "correctAnswer": "$2n$",
       "id": 29
     },
     {
-      "question": "If a cell has 2n = 40 and divides by meiosis, how many cells are formed at the end of meiosis I?",
+      "question": "If a cell has $2n$ = 40 and divides by meiosis, how many cells are formed at the end of meiosis I?",
       "options": [
         "Four",
         "Two",
@@ -341,7 +341,7 @@
       "id": 30
     },
     {
-      "question": "If a cell has 2n = 40 and divides by meiosis, how many cells are formed at the end of meiosis II?",
+      "question": "If a cell has $2n$ = 40 and divides by meiosis, how many cells are formed at the end of meiosis II?",
       "options": [
         "Two",
         "Four",

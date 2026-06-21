@@ -205,13 +205,13 @@
     {
       "question": "What is the general formula of monosaccharides?",
       "options": [
-        "C₁₂H₂₂O₁₁",
-        "C₆H₁₂O₆",
-        "CₙH₂ₙOₙ",
-        "(CH₂O)ₙ"
+        "$C_{12}H_{22}O_{11}$",
+        "$C_{6}H_{12}O_{6}$",
+        "CnH2nOn",
+        "($CH_2O$)n"
       ],
       "answerIndex": 3,
-      "correctAnswer": "(CH₂O)ₙ",
+      "correctAnswer": "($CH_2O$)n",
       "id": 17
     },
     {
@@ -241,13 +241,13 @@
     {
       "question": "What is the chemical formula for hexose sugar?",
       "options": [
-        "C₃H₆O₃",
-        "C₁₂H₂₂O₁₁",
-        "C₆H₁₂O₆",
-        "C₅H₁₀O₅"
+        "$C_{3}H_{6}O_{3}$",
+        "$C_{12}H_{22}O_{11}$",
+        "$C_{6}H_{12}O_{6}$",
+        "$C_{5}H_{10}O_{5}$"
       ],
       "answerIndex": 2,
-      "correctAnswer": "C₆H₁₂O₆",
+      "correctAnswer": "$C_{6}H_{12}O_{6}$",
       "id": 20
     },
     {
@@ -265,13 +265,13 @@
     {
       "question": "What is the chemical formula shared by glucose, galactose, and fructose?",
       "options": [
-        "C₃H₆O₃",
-        "C₅H₁₀O₅",
-        "C₁₂H₂₂O₁₁",
-        "C₆H₁₂O₆"
+        "$C_{3}H_{6}O_{3}$",
+        "$C_{5}H_{10}O_{5}$",
+        "$C_{12}H_{22}O_{11}$",
+        "$C_{6}H_{12}O_{6}$"
       ],
       "answerIndex": 3,
-      "correctAnswer": "C₆H₁₂O₆",
+      "correctAnswer": "$C_{6}H_{12}O_{6}$",
       "id": 22
     },
     {
@@ -337,13 +337,13 @@
     {
       "question": "What is the formula for disaccharides?",
       "options": [
-        "C₆H₁₂O₆",
-        "C₁₂H₂₂O₁₁",
-        "C₃H₆O₃",
-        "C₅H₁₀O₅"
+        "$C_{6}H_{12}O_{6}$",
+        "$C_{12}H_{22}O_{11}$",
+        "$C_{3}H_{6}O_{3}$",
+        "$C_{5}H_{10}O_{5}$"
       ],
       "answerIndex": 1,
-      "correctAnswer": "C₁₂H₂₂O₁₁",
+      "correctAnswer": "$C_{12}H_{22}O_{11}$",
       "id": 28
     },
     {
@@ -877,13 +877,13 @@
     {
       "question": "What is the general formula for fatty acids?",
       "options": [
-        "C₆H₁₂O₆",
-        "RCH(NH₂)COOH",
-        "(CH₂O)ₙ",
-        "CH₃(CH₂)ₙCOOH"
+        "$C_{6}H_{12}O_{6}$",
+        "RCH($NH_2$)COOH",
+        "($CH_2O$)n",
+        "CH3(CH2)nCOOH"
       ],
       "answerIndex": 3,
-      "correctAnswer": "CH₃(CH₂)ₙCOOH",
+      "correctAnswer": "CH3(CH2)nCOOH",
       "id": 73
     },
     {
@@ -1141,13 +1141,13 @@
     {
       "question": "What is the general formula for amino acids in proteins?",
       "options": [
-        "C₆H₁₂O₆",
-        "(CH₂O)ₙ",
-        "RCH(NH₂)COOH",
-        "CH₃(CH₂)ₙCOOH"
+        "$C_{6}H_{12}O_{6}$",
+        "($CH_2O$)n",
+        "RCH($NH_2$)COOH",
+        "CH3(CH2)nCOOH"
       ],
       "answerIndex": 2,
-      "correctAnswer": "RCH(NH₂)COOH",
+      "correctAnswer": "RCH($NH_2$)COOH",
       "id": 95
     },
     {

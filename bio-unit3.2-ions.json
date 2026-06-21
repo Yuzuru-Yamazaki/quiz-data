@@ -109,17 +109,17 @@
     {
       "question": "How is the concentration of hydrogen ions expressed?",
       "options": [
-        "As pH",
+        "As $pH$",
         "As temperature",
         "As osmolarity",
         "As molarity"
       ],
       "answerIndex": 0,
-      "correctAnswer": "As pH",
+      "correctAnswer": "As $pH$",
       "id": 9
     },
     {
-      "question": "What is the range of the pH scale?",
+      "question": "What is the range of the $pH$ scale?",
       "options": [
         "7 to 14",
         "1 to 14",
@@ -131,15 +131,15 @@
       "id": 10
     },
     {
-      "question": "What is the relationship between pH value and hydrogen ion concentration?",
+      "question": "What is the relationship between $pH$ value and hydrogen ion concentration?",
       "options": [
-        "The higher the pH, the lower the hydrogen ion concentration",
-        "pH and hydrogen ion concentration are identical",
+        "The higher the $pH$, the lower the hydrogen ion concentration",
+        "$pH$ and hydrogen ion concentration are identical",
         "There is no relationship",
-        "The higher the pH, the higher the hydrogen ion concentration"
+        "The higher the $pH$, the higher the hydrogen ion concentration"
       ],
       "answerIndex": 0,
-      "correctAnswer": "The higher the pH, the lower the hydrogen ion concentration",
+      "correctAnswer": "The higher the $pH$, the lower the hydrogen ion concentration",
       "id": 11
     },
     {

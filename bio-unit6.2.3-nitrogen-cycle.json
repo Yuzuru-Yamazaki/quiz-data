@@ -100,7 +100,7 @@
       "id": 8
     },
     {
-      "question": "What percentage of the atmosphere is nitrogen gas (N2)?",
+      "question": "What percentage of the atmosphere is nitrogen gas ($N_2$)?",
       "options": [
         "About 21%",
         "About 50%",
@@ -111,7 +111,7 @@
       "id": 9
     },
     {
-      "question": "Are most living organisms able to incorporate atmospheric nitrogen (N2) directly?",
+      "question": "Are most living organisms able to incorporate atmospheric nitrogen ($N_2$) directly?",
       "options": [
         "Yes, all can",
         "No, most are unable to",
@@ -122,7 +122,7 @@
       "id": 10
     },
     {
-      "question": "What usable forms must N2 be fixed into?",
+      "question": "What usable forms must $N_2$ be fixed into?",
       "options": [
         "Nitrogen gas or nitric acid",
         "Ammonia or nitrate",
@@ -135,12 +135,12 @@
     {
       "question": "What is nitrogen fixation?",
       "options": [
-        "The release of N2 into the atmosphere",
-        "The conversion of N2 into ammonia",
+        "The release of $N_2$ into the atmosphere",
+        "The conversion of $N_2$ into ammonia",
         "The breakdown of proteins",
         "The absorption of nitrate by plants"
       ],
-      "correctAnswer": "The conversion of N2 into ammonia",
+      "correctAnswer": "The conversion of $N_2$ into ammonia",
       "id": 12
     },
     {
@@ -155,7 +155,7 @@
       "id": 13
     },
     {
-      "question": "What are the two categories of biological N2 fixation?",
+      "question": "What are the two categories of biological $N_2$ fixation?",
       "options": [
         "Aerobic and anaerobic fixation",
         "Symbiotic nitrogen fixation and non-symbiotic fixation",
@@ -191,11 +191,11 @@
       "question": "What do rhizobia form with leguminous plants?",
       "options": [
         "A parasitic relationship",
-        "A symbiotic association that forms root nodules where N2 is reduced into ammonia",
+        "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia",
         "A competitive relationship",
         "A predator-prey relationship"
       ],
-      "correctAnswer": "A symbiotic association that forms root nodules where N2 is reduced into ammonia",
+      "correctAnswer": "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia",
       "id": 17
     },
     {
@@ -212,12 +212,12 @@
     {
       "question": "What is the balanced equation for nitrogen fixation?",
       "options": [
-        "N2 + 3H2 -> 2NH3",
-        "N2 + 8e + 8H + 16ATP -> 2NH3 + H2 + 16ADP + 16Pi",
-        "N2 + O2 -> 2NO",
-        "NH3 + O2 -> NO2"
+        "$N_{2} + 3H_{2} \\rightarrow 2NH_{3}$",
+        "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
+        "$N_{2} + O_{2} \\rightarrow 2NO$",
+        "$NH_{3} + O_{2} \\rightarrow NO_{2}$"
       ],
-      "correctAnswer": "N2 + 8e + 8H + 16ATP -> 2NH3 + H2 + 16ADP + 16Pi",
+      "correctAnswer": "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
       "id": 19
     },
     {
@@ -232,7 +232,7 @@
       "id": 20
     },
     {
-      "question": "What is nitrous oxide (N2O) an intermediate product of?",
+      "question": "What is nitrous oxide ($N_2O$) an intermediate product of?",
       "options": [
         "Nitrification",
         "Microbial denitrification in the nitrogen cycle",
@@ -243,18 +243,18 @@
       "id": 21
     },
     {
-      "question": "How does the global warming potential of N2O compare to CO2?",
+      "question": "How does the global warming potential of $N_2O$ compare to $CO_2$?",
       "options": [
         "It is the same",
-        "It is over 300 times greater than CO2",
-        "It is less than CO2",
-        "It is 100 times less than CO2"
+        "It is over 300 times greater than $CO_2$",
+        "It is less than $CO_2$",
+        "It is 100 times less than $CO_2$"
       ],
-      "correctAnswer": "It is over 300 times greater than CO2",
+      "correctAnswer": "It is over 300 times greater than $CO_2$",
       "id": 22
     },
     {
-      "question": "What is the major source of N2O emissions?",
+      "question": "What is the major source of $N_2O$ emissions?",
       "options": [
         "Natural soil processes",
         "Excessive use of synthetic N fertilizer in agricultural systems",
@@ -265,14 +265,14 @@
       "id": 23
     },
     {
-      "question": "How can biological N2 fixation by rhizobia help the environment?",
+      "question": "How can biological $N_2$ fixation by rhizobia help the environment?",
       "options": [
-        "By increasing CO2 emissions",
-        "By serving as an alternative to synthetic N fertilizer and mitigating N2O emissions",
+        "By increasing $CO_2$ emissions",
+        "By serving as an alternative to synthetic N fertilizer and mitigating $N_2O$ emissions",
         "By using more energy",
         "By producing more waste"
       ],
-      "correctAnswer": "By serving as an alternative to synthetic N fertilizer and mitigating N2O emissions",
+      "correctAnswer": "By serving as an alternative to synthetic N fertilizer and mitigating $N_2O$ emissions",
       "id": 24
     },
     {
@@ -300,9 +300,9 @@
     {
       "question": "What is nitrification?",
       "options": [
-        "Conversion of N2 to NH3",
+        "Conversion of $N_2$ to $NH_3$",
         "A microbial process by which ammonia is sequentially oxidized first to nitrite and then to nitrate",
-        "Conversion of nitrate to N2",
+        "Conversion of nitrate to $N_2$",
         "Absorption of nitrogen by plants"
       ],
       "correctAnswer": "A microbial process by which ammonia is sequentially oxidized first to nitrite and then to nitrate",
@@ -322,12 +322,12 @@
     {
       "question": "What is the chemical equation for the first step of nitrification?",
       "options": [
-        "NO2 + O2 -> NO3",
-        "NH3 + O2 -> NO2 + 3H + 2e",
-        "N2 + H2 -> NH3",
-        "NO3 -> N2"
+        "$NO_{2} + O_{2} \\rightarrow NO_{3}$",
+        "$NH_{3} + O_{2} \\rightarrow NO_{2} + 3H + 2e$",
+        "$N_{2} + H_{2} \\rightarrow NH_{3}$",
+        "$NO_{3} \\rightarrow N_{2}$"
       ],
-      "correctAnswer": "NH3 + O2 -> NO2 + 3H + 2e",
+      "correctAnswer": "$NH_{3} + O_{2} \\rightarrow NO_{2} + 3H + 2e$",
       "id": 29
     },
     {
@@ -344,45 +344,45 @@
     {
       "question": "What is the chemical equation for the second step of nitrification?",
       "options": [
-        "NH3 + O2 -> NO2",
-        "NO2 + O2 -> NO3 + 2H + 2e",
-        "N2 + H2 -> NH3",
-        "NO3 -> NO2"
+        "$NH_{3} + O_{2} \\rightarrow NO_{2}$",
+        "$NO_{2} + O_{2} \\rightarrow NO_{3} + 2H + 2e$",
+        "$N_{2} + H_{2} \\rightarrow NH_{3}$",
+        "$NO_{3} \\rightarrow NO_{2}$"
       ],
-      "correctAnswer": "NO2 + O2 -> NO3 + 2H + 2e",
+      "correctAnswer": "$NO_{2} + O_{2} \\rightarrow NO_{3} + 2H + 2e$",
       "id": 31
     },
     {
       "question": "In what inorganic forms do plants commonly absorb nitrogen?",
       "options": [
-        "N2 gas only",
-        "Nitrate (NO3) or ammonium (NH4)",
+        "$N_2$ gas only",
+        "Nitrate ($NO_3$) or ammonium ($NH_4$)",
         "Nitrite only",
         "Nitrous oxide only"
       ],
-      "correctAnswer": "Nitrate (NO3) or ammonium (NH4)",
+      "correctAnswer": "Nitrate ($NO_3$) or ammonium ($NH_4$)",
       "id": 32
     },
     {
       "question": "Which form of nitrogen do plants preferentially take up?",
       "options": [
-        "Oxidized nitrate (NO3)",
-        "Reduced ammonium (NH4)",
-        "Nitrite (NO2)",
-        "N2 gas"
+        "Oxidized nitrate ($NO_3$)",
+        "Reduced ammonium ($NH_4$)",
+        "Nitrite ($NO_2$)",
+        "$N_2$ gas"
       ],
-      "correctAnswer": "Reduced ammonium (NH4)",
+      "correctAnswer": "Reduced ammonium ($NH_4$)",
       "id": 33
     },
     {
-      "question": "Why do plants prefer ammonium (NH4) over nitrate (NO3)?",
+      "question": "Why do plants prefer ammonium ($NH_4$) over nitrate ($NO_3$)?",
       "options": [
         "Because ammonium is more available",
-        "Because the energy expenditure for NH4 assimilation is much lower than for NO3",
+        "Because the energy expenditure for $NH_4$ assimilation is much lower than for $NO_3$",
         "Because ammonium is toxic",
         "Because nitrate is not usable"
       ],
-      "correctAnswer": "Because the energy expenditure for NH4 assimilation is much lower than for NO3",
+      "correctAnswer": "Because the energy expenditure for $NH_4$ assimilation is much lower than for $NO_3$",
       "id": 34
     },
     {
@@ -421,23 +421,23 @@
     {
       "question": "What is ammonification?",
       "options": [
-        "Conversion of N2 to NH3",
-        "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen (NH4) through microorganisms",
-        "Conversion of NH4 to NO3",
-        "Conversion of NO3 to N2"
+        "Conversion of $N_2$ to $NH_3$",
+        "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen ($NH_4$) through microorganisms",
+        "Conversion of $NH_4$ to $NO_3$",
+        "Conversion of $NO_3$ to $N_2$"
       ],
-      "correctAnswer": "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen (NH4) through microorganisms",
+      "correctAnswer": "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen ($NH_4$) through microorganisms",
       "id": 38
     },
     {
       "question": "What is the general formula for an amine group?",
       "options": [
         "-OH",
-        "R - NH2",
+        "R - $NH_2$",
         "-COOH",
         "-SH"
       ],
-      "correctAnswer": "R - NH2",
+      "correctAnswer": "R - $NH_2$",
       "id": 39
     },
     {
@@ -465,23 +465,23 @@
     {
       "question": "What is denitrification?",
       "options": [
-        "Conversion of N2 to NH3",
-        "Conversion of nitrate to nitrogen gas (N2), removing bioavailable nitrogen and returning it to the atmosphere",
-        "Conversion of NH4 to NO3",
+        "Conversion of $N_2$ to $NH_3$",
+        "Conversion of nitrate to nitrogen gas ($N_2$), removing bioavailable nitrogen and returning it to the atmosphere",
+        "Conversion of $NH_4$ to $NO_3$",
         "Absorption of nitrogen by plants"
       ],
-      "correctAnswer": "Conversion of nitrate to nitrogen gas (N2), removing bioavailable nitrogen and returning it to the atmosphere",
+      "correctAnswer": "Conversion of nitrate to nitrogen gas ($N_2$), removing bioavailable nitrogen and returning it to the atmosphere",
       "id": 42
     },
     {
       "question": "What is the sequential conversion in denitrification?",
       "options": [
-        "N2 -> NO3 -> NO2",
-        "NO3 -> NO2 -> NO -> N2O -> N2",
-        "NH3 -> NO2 -> NO3",
-        "NO2 -> NH3 -> N2"
+        "$N_{2} \\rightarrow NO_{3} \\rightarrow NO_{2}$",
+        "$NO_{3} \\rightarrow NO_{2} \\rightarrow NO \\rightarrow N_{2}O \\rightarrow N_{2}$",
+        "$NH_{3} \\rightarrow NO_{2} \\rightarrow NO_{3}$",
+        "$NO_{2} \\rightarrow NH_{3} \\rightarrow N_{2}$"
       ],
-      "correctAnswer": "NO3 -> NO2 -> NO -> N2O -> N2",
+      "correctAnswer": "$NO_{3} \\rightarrow NO_{2} \\rightarrow NO \\rightarrow N_{2}O \\rightarrow N_{2}$",
       "id": 43
     },
     {
@@ -672,7 +672,7 @@
       "id": 60
     },
     {
-      "question": "Can plants directly use atmospheric nitrogen (N2)?",
+      "question": "Can plants directly use atmospheric nitrogen ($N_2$)?",
       "options": [
         "Yes, all plants can",
         "No, plants cannot directly use atmospheric nitrogen",
@@ -685,7 +685,7 @@
     {
       "question": "What inorganic forms of nitrogen do plants use?",
       "options": [
-        "N2 gas and NO2",
+        "$N_2$ gas and $NO_2$",
         "Ammonium and nitrate",
         "Nitrous oxide and nitric acid",
         "Amino acids and proteins"

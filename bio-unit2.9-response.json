@@ -124,12 +124,12 @@
       "id": 11,
       "question": "What auxin concentration promotes shoot growth?",
       "options": [
-        "10^-4 ppm",
-        "10^-8 to 10^-1 ppm",
+        "$10^{-4}$ ppm",
+        "$10^{-8}$ to $10^{-1}$ ppm",
         "10 ppm",
         "100 ppm"
       ],
-      "correctAnswer": "10^-8 to 10^-1 ppm"
+      "correctAnswer": "$10^{-8}$ to $10^{-1}$ ppm"
     },
     {
       "id": 12,
@@ -146,12 +146,12 @@
       "id": 13,
       "question": "What auxin concentration is required for root growth?",
       "options": [
-        "About 10^-8 ppm",
-        "About 10^-4 ppm",
+        "About $10^{-8}$ ppm",
+        "About $10^{-4}$ ppm",
         "About 10 ppm",
         "About 1 ppm"
       ],
-      "correctAnswer": "About 10^-4 ppm"
+      "correctAnswer": "About $10^{-4}$ ppm"
     },
     {
       "id": 14,

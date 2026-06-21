@@ -121,7 +121,7 @@
         "By measuring water temperature",
         "By identifying the types and numbers of microscopic organisms found in ecosystem samples",
         "By tracking animal migrations",
-        "By analyzing soil pH"
+        "By analyzing soil $pH$"
       ],
       "correctAnswer": "By identifying the types and numbers of microscopic organisms found in ecosystem samples"
     },

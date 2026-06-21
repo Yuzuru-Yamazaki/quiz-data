@@ -126,15 +126,15 @@
       "question": "What is the chemical formula for carbon dioxide?",
       "options": [
         "CO",
-        "CO2",
+        "$CO_2$",
         "C2O",
-        "CH4"
+        "$CH_4$"
       ],
-      "correctAnswer": "CO2",
+      "correctAnswer": "$CO_2$",
       "id": 11
     },
     {
-      "question": "Is CO2 a natural part of Earth's atmosphere?",
+      "question": "Is $CO_2$ a natural part of Earth's atmosphere?",
       "options": [
         "No, it is entirely man-made",
         "Yes, it is a natural part of Earth's atmosphere",
@@ -145,7 +145,7 @@
       "id": 12
     },
     {
-      "question": "Since when have atmospheric CO2 concentrations significantly increased?",
+      "question": "Since when have atmospheric $CO_2$ concentrations significantly increased?",
       "options": [
         "Since the Renaissance",
         "Since the Industrial Revolution (late 18th century)",
@@ -156,7 +156,7 @@
       "id": 13
     },
     {
-      "question": "What are the major sources of increased CO2?",
+      "question": "What are the major sources of increased $CO_2$?",
       "options": [
         "Natural forest fires",
         "Burning of fossil fuels (coal, oil, natural gas) and wood for energy",
@@ -167,7 +167,7 @@
       "id": 14
     },
     {
-      "question": "How does atmospheric CO2 act in terms of heat?",
+      "question": "How does atmospheric $CO_2$ act in terms of heat?",
       "options": [
         "It repels heat",
         "It acts like a heat-trapping blanket, absorbing heat and holding it in",
@@ -193,14 +193,14 @@
       "options": [
         "Methane",
         "Nitrous oxide",
-        "CO2",
+        "$CO_2$",
         "Water vapor"
       ],
-      "correctAnswer": "CO2",
+      "correctAnswer": "$CO_2$",
       "id": 17
     },
     {
-      "question": "What are the other greenhouse gases mentioned besides CO2?",
+      "question": "What are the other greenhouse gases mentioned besides $CO_2$?",
       "options": [
         "Oxygen and nitrogen",
         "Methane and nitrous oxide",
@@ -214,11 +214,11 @@
       "question": "What is the root cause of climate change according to the textbook?",
       "options": [
         "Natural climate variability",
-        "Addition of excessive CO2 into the atmosphere due to human activity",
+        "Addition of excessive $CO_2$ into the atmosphere due to human activity",
         "Volcanic eruptions",
         "Solar activity changes"
       ],
-      "correctAnswer": "Addition of excessive CO2 into the atmosphere due to human activity",
+      "correctAnswer": "Addition of excessive $CO_2$ into the atmosphere due to human activity",
       "id": 19
     },
     {
@@ -312,23 +312,23 @@
     {
       "question": "What is the balanced chemical equation for photosynthesis?",
       "options": [
-        "CO2 + H2O -> C6H12O6 + O2",
-        "C6H12O6 + O2 -> CO2 + H2O",
-        "N2 + H2 -> NH3",
-        "CO2 + O2 -> C6H12O6"
+        "$CO_{2} + H_{2}O \\rightarrow C_{6}H_{12}O_{6} + O_{2}$",
+        "$C_{6}H_{12}O_{6} + O_{2} \\rightarrow CO_{2} + H_{2}O$",
+        "$N_{2} + H_{2} \\rightarrow NH_{3}$",
+        "$CO_{2} + O_{2} \\rightarrow C_{6}H_{12}O_{6}$"
       ],
-      "correctAnswer": "CO2 + H2O -> C6H12O6 + O2",
+      "correctAnswer": "$CO_{2} + H_{2}O \\rightarrow C_{6}H_{12}O_{6} + O_{2}$",
       "id": 28
     },
     {
       "question": "What is the balanced chemical equation for cellular respiration?",
       "options": [
-        "CO2 + H2O -> C6H12O6 + O2",
-        "C6H12O6 + O2 -> CO2 + H2O",
-        "N2 + H2 -> NH3",
-        "NH3 + O2 -> NO2"
+        "$CO_{2} + H_{2}O \\rightarrow C_{6}H_{12}O_{6} + O_{2}$",
+        "$C_{6}H_{12}O_{6} + O_{2} \\rightarrow CO_{2} + H_{2}O$",
+        "$N_{2} + H_{2} \\rightarrow NH_{3}$",
+        "$NH_{3} + O_{2} \\rightarrow NO_{2}$"
       ],
-      "correctAnswer": "C6H12O6 + O2 -> CO2 + H2O",
+      "correctAnswer": "$C_{6}H_{12}O_{6} + O_{2} \\rightarrow CO_{2} + H_{2}O$",
       "id": 29
     },
     {

@@ -177,7 +177,7 @@
     },
     {
       "id": 16,
-      "question": "What is the pH range of the stomach contents?",
+      "question": "What is the $pH$ range of the stomach contents?",
       "options": [
         "3.0 to 4.0",
         "5.0 to 6.0",
@@ -727,7 +727,7 @@
     },
     {
       "id": 66,
-      "question": "What is the normal pH range inside the stomach?",
+      "question": "What is the normal $pH$ range inside the stomach?",
       "options": [
         "1.0 to 2.0",
         "2.0 to 3.0",
@@ -738,7 +738,7 @@
     },
     {
       "id": 67,
-      "question": "What pH can the stomach approach?",
+      "question": "What $pH$ can the stomach approach?",
       "options": [
         "0.5",
         "1.0",
@@ -1137,11 +1137,11 @@
       "question": "Which vitamins does the liver store?",
       "options": [
         "A, C, and E",
-        "A, B12, and D",
+        "A, $B_{12}$, and D",
         "B, C, and K",
         "D, E, and K"
       ],
-      "correctAnswer": "A, B12, and D"
+      "correctAnswer": "A, $B_{12}$, and D"
     },
     {
       "id": 104,
@@ -1244,47 +1244,47 @@
     },
     {
       "id": 113,
-      "question": "What is the pH of the mouth in adults?",
+      "question": "What is the $pH$ of the mouth in adults?",
       "options": [
-        "pH 5",
-        "pH 7 (slightly acidic to neutral)",
-        "pH 8",
-        "pH 9"
+        "$pH$ 5",
+        "$pH$ 7 (slightly acidic to neutral)",
+        "$pH$ 8",
+        "$pH$ 9"
       ],
-      "correctAnswer": "pH 7 (slightly acidic to neutral)"
+      "correctAnswer": "$pH$ 7 (slightly acidic to neutral)"
     },
     {
       "id": 114,
-      "question": "What is the pH in the stomach?",
+      "question": "What is the $pH$ in the stomach?",
       "options": [
-        "pH 1 (strongly acidic)",
-        "pH 5",
-        "pH 7",
-        "pH 9"
+        "$pH$ 1 (strongly acidic)",
+        "$pH$ 5",
+        "$pH$ 7",
+        "$pH$ 9"
       ],
-      "correctAnswer": "pH 1 (strongly acidic)"
+      "correctAnswer": "$pH$ 1 (strongly acidic)"
     },
     {
       "id": 115,
-      "question": "What is the pH of the duodenum?",
+      "question": "What is the $pH$ of the duodenum?",
       "options": [
-        "pH 1 to 2",
-        "pH 4 to 5",
-        "pH 7 to 8 (slightly alkaline)",
-        "pH 9 to 10"
+        "$pH$ 1 to 2",
+        "$pH$ 4 to 5",
+        "$pH$ 7 to 8 (slightly alkaline)",
+        "$pH$ 9 to 10"
       ],
-      "correctAnswer": "pH 7 to 8 (slightly alkaline)"
+      "correctAnswer": "$pH$ 7 to 8 (slightly alkaline)"
     },
     {
       "id": 116,
-      "question": "What is the pH of the large intestine?",
+      "question": "What is the $pH$ of the large intestine?",
       "options": [
-        "pH 1 to 3",
-        "pH 4 to 5",
-        "pH 6 to 8",
-        "pH 9 to 10"
+        "$pH$ 1 to 3",
+        "$pH$ 4 to 5",
+        "$pH$ 6 to 8",
+        "$pH$ 9 to 10"
       ],
-      "correctAnswer": "pH 6 to 8"
+      "correctAnswer": "$pH$ 6 to 8"
     },
     {
       "id": 117,

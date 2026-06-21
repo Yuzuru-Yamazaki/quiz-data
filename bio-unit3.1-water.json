@@ -13,13 +13,13 @@
     {
       "question": "What is the chemical formula of water?",
       "options": [
-        "H₂O₂",
-        "HO₂",
+        "$H_{2}O_{2}$",
+        "HO2",
         "HO",
-        "H₂O"
+        "$H_2O$"
       ],
       "answerIndex": 3,
-      "correctAnswer": "H₂O",
+      "correctAnswer": "$H_2O$",
       "id": 1
     },
     {
