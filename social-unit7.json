@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Why is methane from landfills like Koshe considered a more immediate localized environmental threat compared to CFCs from refrigerators, even though both are greenhouse gases?",
+    "options": [
+      "Methane has a higher global warming potential per molecule and accumulates closer to the ground in populated areas",
+      "CFCs only affect the ozone layer and have no global warming potential whatsoever",
+      "Methane is completely harmless once it mixes with oxygen in the upper atmosphere",
+      "CFCs decompose within minutes of release, while methane persists for centuries"
+    ],
+    "correctAnswer": "Methane has a higher global warming potential per molecule and accumulates closer to the ground in populated areas",
+    "explanation": "Methane has more than 25 times the global warming potential of CO2 and is released near ground level in populated areas, making its local warming effect more immediate, whereas CFCs rise to the stratosphere to deplete ozone.",
+    "anki": true
+  },
+  {
+    "question": "How does the cause-and-effect relationship between deforestation and land pollution fundamentally differ from the relationship between industrial waste and water pollution?",
+    "options": [
+      "Deforestation causes land pollution indirectly by removing soil stability, while industrial waste directly contaminates water bodies through chemical discharge",
+      "Both deforestation and industrial waste directly release the same types of pollutants into their respective systems",
+      "Industrial waste only causes air pollution, never water pollution, while deforestation only affects land",
+      "Deforestation directly adds pollutants to the soil, while industrial waste only affects water through atmospheric deposition"
+    ],
+    "correctAnswer": "Deforestation causes land pollution indirectly by removing soil stability, while industrial waste directly contaminates water bodies through chemical discharge",
+    "explanation": "Deforestation degrades land primarily by removing tree cover that holds soil together, leading to erosion and desertification indirectly, whereas industrial waste is a direct source of chemical pollutants entering rivers and groundwater.",
+    "anki": true
+  },
+  {
+    "question": "Why is carbon monoxide from car exhaust considered more immediately dangerous to human health in urban areas than carbon dioxide, even though CO2 is more abundant in the atmosphere?",
+    "options": [
+      "Carbon monoxide binds to hemoglobin 200 times more strongly than oxygen, causing cellular suffocation at low concentrations",
+      "Carbon dioxide is completely harmless to humans regardless of concentration",
+      "Carbon monoxide only affects plants and has no impact on human respiratory systems",
+      "Carbon dioxide causes immediate death at the same concentrations as carbon monoxide"
+    ],
+    "correctAnswer": "Carbon monoxide binds to hemoglobin 200 times more strongly than oxygen, causing cellular suffocation at low concentrations",
+    "explanation": "CO binds to hemoglobin about 200-250 times more readily than oxygen, forming carboxyhemoglobin that prevents oxygen transport in the blood, making it acutely toxic even at low concentrations, unlike CO2 which requires much higher levels to cause harm.",
+    "anki": true
+  },
+  {
+    "question": "Which of the following best explains why CFCs (chlorofluorocarbons) are more damaging to the ozone layer than naturally occurring chlorine from ocean spray, despite both releasing chlorine atoms?",
+    "options": [
+      "CFCs are inert in the lower atmosphere and only release chlorine when reaching the stratosphere, whereas ocean spray chlorine dissolves in rainwater before reaching high altitudes",
+      "Ocean spray releases far more chlorine than all human-made CFCs combined, making natural sources the primary threat",
+      "CFCs contain fluorine which directly destroys ozone, while natural chlorine has no effect on ozone molecules",
+      "Chlorine from ocean spray actually helps repair the ozone layer, while CFCs are the only substances that can break down ozone"
+    ],
+    "correctAnswer": "CFCs are inert in the lower atmosphere and only release chlorine when reaching the stratosphere, whereas ocean spray chlorine dissolves in rainwater before reaching high altitudes",
+    "explanation": "CFCs are stable enough to reach the stratosphere intact, where UV radiation breaks them down to release chlorine that catalytically destroys ozone. Natural chlorine compounds from ocean spray are water-soluble and wash out in the troposphere before reaching the ozone layer.",
+    "anki": true
+  },
+  {
+    "question": "A community is considering two water conservation strategies: (1) building rainwater harvesting systems and (2) digging deeper boreholes. Which approach is more sustainable for long-term groundwater conservation?",
+    "options": [
+      "Rainwater harvesting is more sustainable because it replenishes surface water and reduces dependence on finite groundwater aquifers",
+      "Deeper boreholes are more sustainable because they access ancient water reserves that never run dry",
+      "Both strategies are equally sustainable as they both extract water from the same underground sources",
+      "Neither strategy conserves water because all rainwater harvesting systems eventually leak into the ground"
+    ],
+    "correctAnswer": "Rainwater harvesting is more sustainable because it replenishes surface water and reduces dependence on finite groundwater aquifers",
+    "explanation": "Rainwater harvesting captures precipitation for direct use and allows groundwater recharge, preserving aquifer levels. Deeper boreholes extract fossil groundwater that may take thousands of years to replenish, making them unsustainable long-term.",
+    "anki": true
+  },
+  {
+    "question": "How does the mechanism of ozone layer depletion by CFCs differ fundamentally from the mechanism of global warming by carbon dioxide?",
+    "options": [
+      "CFCs destroy ozone molecules through catalytic chemical reactions in the stratosphere, while CO2 traps infrared radiation in the troposphere",
+      "Both CFCs and CO2 destroy ozone molecules through the same chemical process in the stratosphere",
+      "CFCs cause global warming directly, while CO2 only depletes the ozone layer without affecting temperature",
+      "Carbon dioxide breaks down ozone molecules, while CFCs trap heat radiation in the upper atmosphere"
+    ],
+    "correctAnswer": "CFCs destroy ozone molecules through catalytic chemical reactions in the stratosphere, while CO2 traps infrared radiation in the troposphere",
+    "explanation": "Ozone depletion is a chemical destruction process where chlorine from CFCs breaks apart O3 molecules in the stratosphere. Global warming is a physical process where CO2 absorbs and re-emits infrared radiation, trapping heat in the lower atmosphere.",
+    "anki": true
+  },
+  {
+    "question": "Why would afforestation in a grassland region have a different environmental impact than reforestation in a previously forested area, even if both involve planting trees?",
+    "options": [
+      "Afforestation introduces trees to ecosystems that never had them, potentially disrupting existing biodiversity, while reforestation restores a former forest ecosystem",
+      "Afforestation and reforestation are identical processes with identical ecological outcomes",
+      "Reforestation always fails because the soil has been permanently damaged, while afforestation always succeeds",
+      "Afforestation only uses non-native tree species, while reforestation exclusively uses native species"
+    ],
+    "correctAnswer": "Afforestation introduces trees to ecosystems that never had them, potentially disrupting existing biodiversity, while reforestation restores a former forest ecosystem",
+    "explanation": "Afforestation plants trees where forests never existed, which can alter local ecosystems, reduce grassland biodiversity, and affect water tables. Reforestation rebuilds a previous forest ecosystem, restoring habitat and ecological balance that was lost.",
+    "anki": true
+  },
+  {
+    "question": "Why is the loss of biodiversity caused by global warming considered a secondary effect, whereas biodiversity loss from deforestation is considered a primary effect?",
+    "options": [
+      "Global warming changes habitats gradually through temperature shifts (secondary), while deforestation directly and immediately destroys habitats (primary)",
+      "Deforestation only affects plant species, while global warming only affects animal species",
+      "Global warming directly kills individual organisms, while deforestation only indirectly affects biodiversity",
+      "Biodiversity loss from deforestation is always reversible, while loss from global warming is permanent"
+    ],
+    "correctAnswer": "Global warming changes habitats gradually through temperature shifts (secondary), while deforestation directly and immediately destroys habitats (primary)",
+    "explanation": "Deforestation directly removes forest habitat, causing immediate biodiversity loss. Global warming indirectly threatens biodiversity by altering temperature, rainfall patterns, and ecosystems over time, pushing species beyond their adaptive capacity.",
+    "anki": true
+  },
+  {
+    "question": "Which waste management strategy addresses the root cause of pollution at the earliest stage of the consumption cycle?",
+    "options": [
+      "Buying less (source reduction) prevents waste from being created in the first place, addressing pollution before production begins",
+      "Recycling deals with waste after it has been used, which is the most effective early-stage solution",
+      "Composting manages organic waste at the disposal stage, which is the earliest intervention point",
+      "Landfill disposal captures pollution at the final stage, preventing it from entering the environment earlier"
+    ],
+    "correctAnswer": "Buying less (source reduction) prevents waste from being created in the first place, addressing pollution before production begins",
+    "explanation": "Source reduction eliminates waste at the design and consumption stage, requiring no energy for processing or disposal. Recycling and composting happen after waste is generated, while landfilling is the last resort.",
+    "anki": true
+  },
+  {
+    "question": "How does rapid urbanization contribute to land pollution through a mechanism that is fundamentally different from how agricultural activities cause land pollution?",
+    "options": [
+      "Urbanization seals soil surfaces with concrete, preventing natural decomposition and water infiltration, while agriculture degrades soil through nutrient depletion and chemical runoff",
+      "Urbanization and agriculture both cause land pollution through identical mechanisms of soil compaction",
+      "Agricultural activities only affect air quality, while urbanization is the sole cause of land pollution",
+      "Urbanization improves soil quality through infrastructure development, while agriculture is the only source of land pollution"
+    ],
+    "correctAnswer": "Urbanization seals soil surfaces with concrete, preventing natural decomposition and water infiltration, while agriculture degrades soil through nutrient depletion and chemical runoff",
+    "explanation": "Urban land pollution involves physical coverage of soil with impermeable surfaces, disrupting natural cycles. Agricultural land pollution involves chemical degradation from fertilizers, pesticides, and physical erosion from intensive farming practices.",
+    "anki": true
+  },
+  {
+    "question": "Why does the melting of ice caps due to global warming create a dangerous feedback loop that accelerates further warming?",
+    "options": [
+      "Ice caps reflect sunlight (albedo effect); when they melt, darker ocean water absorbs more heat, causing more melting and more warming",
+      "Melting ice caps release cold freshwater that cools the planet, creating a self-correcting cycle that prevents further warming",
+      "Ice caps trap carbon dioxide; when they melt, the released CO2 causes additional global warming",
+      "Melting ice caps have no effect on global temperatures because ice and water absorb the same amount of solar radiation"
+    ],
+    "correctAnswer": "Ice caps reflect sunlight (albedo effect); when they melt, darker ocean water absorbs more heat, causing more melting and more warming",
+    "explanation": "The albedo feedback loop: white ice reflects up to 80% of solar radiation, but dark ocean water absorbs about 90%. As ice melts, more dark water is exposed, absorbing more heat and accelerating further ice melt and warming.",
+    "anki": true
+  },
+  {
+    "question": "What distinguishes the pollution caused by mining and industrial activities from pollution caused by agricultural activities in terms of the types of contaminants released into the environment?",
+    "options": [
+      "Mining and industry release heavy metals and toxic chemicals like mercury and lead, while agriculture primarily releases nitrates, phosphates, and organic pesticides",
+      "Agricultural pollution involves exclusively synthetic chemicals, while mining releases only naturally occurring substances",
+      "Mining pollution is always biodegradable, while agricultural pollution persists permanently in the environment",
+      "Both activities release identical pollutants, differing only in the quantity released per square kilometer"
+    ],
+    "correctAnswer": "Mining and industry release heavy metals and toxic chemicals like mercury and lead, while agriculture primarily releases nitrates, phosphates, and organic pesticides",
+    "explanation": "Industrial/mining pollution typically involves heavy metals (lead, mercury, arsenic) and synthetic chemicals that can bioaccumulate. Agricultural pollution involves nutrient runoff (nitrates, phosphates causing eutrophication) and pesticide residues with different environmental behaviors.",
+    "anki": true
+  },
+  {
+    "question": "Why is UV radiation more harmful to living organisms after ozone layer depletion than before, even though the Sun emits the same amount of UV energy?",
+    "options": [
+      "The ozone layer absorbs most of the Sun's harmful UV-B and UV-C radiation; when depleted, more high-energy UV reaches the Earth's surface",
+      "Ozone depletion causes the Sun to emit more UV radiation than it did before the industrial era",
+      "UV radiation becomes fundamentally more destructive to DNA once the ozone layer is compromised",
+      "Without the ozone layer, UV radiation multiplies in intensity as it passes through the atmosphere"
+    ],
+    "correctAnswer": "The ozone layer absorbs most of the Sun's harmful UV-B and UV-C radiation; when depleted, more high-energy UV reaches the Earth's surface",
+    "explanation": "The stratospheric ozone layer acts as a natural filter, absorbing 97-99% of the Sun's medium-frequency UV light (UV-B and UV-C). Even a 1% decrease in ozone can increase UV-B radiation at the surface by up to 2%, increasing health risks.",
+    "anki": true
+  },
+  {
+    "question": "How does the environmental impact of industrial farming differ from subsistence farming in terms of land pollution contribution?",
+    "options": [
+      "Industrial farming uses synthetic fertilizers and pesticides that accumulate in soil and waterways, while subsistence farming typically uses organic methods that have minimal long-term soil contamination",
+      "Subsistence farming causes more land pollution than industrial farming because it covers larger total land areas",
+      "Both farming methods produce identical types and quantities of land pollutants per hectare",
+      "Industrial farming produces no land pollution because all chemicals are absorbed by crops"
+    ],
+    "correctAnswer": "Industrial farming uses synthetic fertilizers and pesticides that accumulate in soil and waterways, while subsistence farming typically uses organic methods that have minimal long-term soil contamination",
+    "explanation": "Industrial farming relies on chemical inputs that can persist in soil, contaminate groundwater, and disrupt soil ecosystems. Subsistence farming in Ethiopia often uses traditional methods like crop rotation and organic manure, which maintain soil health.",
+    "anki": true
+  },
+  {
+    "question": "What is the most significant long-term consequence of sea level rise caused by global warming for a coastal developing country like Somalia?",
+    "options": [
+      "Permanent loss of agricultural land, freshwater contamination by saltwater intrusion, and displacement of coastal populations",
+      "Temporary flooding during storms only, with no permanent land loss",
+      "Increased fish populations as ocean waters warm and expand",
+      "Improved agricultural productivity due to warmer coastal climates"
+    ],
+    "correctAnswer": "Permanent loss of agricultural land, freshwater contamination by saltwater intrusion, and displacement of coastal populations",
+    "explanation": "Sea level rise leads to coastal erosion, saltwater intruding into freshwater aquifers (making drinking water salty), inundation of farmland, and eventual displacement of millions of people living in low-lying coastal areas.",
+    "anki": true
+  },
+  {
+    "question": "Why does composting kitchen waste reduce methane emissions from landfills even though both composting and landfills decompose organic material?",
+    "options": [
+      "Composting is an aerobic process that produces CO2 and humus, while landfills decompose anaerobically producing methane, a much more potent greenhouse gas",
+      "Landfills produce no greenhouse gases during decomposition, while composting releases large amounts of methane",
+      "Composting and landfills produce identical amounts and types of greenhouse gases",
+      "Composting creates a vacuum that captures all methane, while landfills release it freely into the atmosphere"
+    ],
+    "correctAnswer": "Composting is an aerobic process that produces CO2 and humus, while landfills decompose anaerobically producing methane, a much more potent greenhouse gas",
+    "explanation": "Aerobic composting with oxygen produces carbon dioxide and nutrient-rich soil. In oxygen-deprived landfills, anaerobic decomposition generates methane, which is 25-80 times more potent as a greenhouse gas than CO2 over different timeframes.",
+    "anki": true
+  },
+  {
+    "question": "How does the concept of 'environment' in social studies extend beyond the purely physical or natural environment to include human dimensions?",
+    "options": [
+      "The environment includes both natural elements (air, water, land) and human-modified elements (cities, farms, infrastructure) that together shape living conditions",
+      "The environment refers exclusively to untouched wilderness areas without any human presence or influence",
+      "Only the physical elements of nature count as environment; human creations are studied separately under culture",
+      "The environment is defined solely by climate conditions and does not include landforms or vegetation"
+    ],
+    "correctAnswer": "The environment includes both natural elements (air, water, land) and human-modified elements (cities, farms, infrastructure) that together shape living conditions",
+    "explanation": "In social studies, the environment encompasses the total surroundings - both biophysical (natural) and built (human-made) - that affect organisms and human societies, recognizing the interconnectedness of natural and human systems.",
+    "anki": true
+  },
+  {
+    "question": "Why is the loss of biodiversity due to overpopulation considered a multiplier effect that worsens other causes like deforestation and pollution?",
+    "options": [
+      "More people require more resources, accelerating deforestation for agriculture and settlements, while also generating more waste that pollutes remaining habitats",
+      "Overpopulation only affects biodiversity through increased noise pollution, which has minimal impact on other environmental problems",
+      "Overpopulation reduces biodiversity but has no connection to deforestation or pollution rates",
+      "Biodiversity loss from overpopulation occurs independently and does not interact with other environmental threats"
+    ],
+    "correctAnswer": "More people require more resources, accelerating deforestation for agriculture and settlements, while also generating more waste that pollutes remaining habitats",
+    "explanation": "Overpopulation amplifies other threats: more people need food (more deforestation for farmland), housing (more urban expansion), and produce more waste (more pollution), creating a cascading effect where each additional person compounds multiple environmental pressures simultaneously.",
+    "anki": true
+  },
+  {
+    "question": "What is the key difference between air pollution sources that release primary pollutants versus those that contribute to secondary pollutant formation?",
+    "options": [
+      "Primary pollutants are emitted directly from sources like vehicle exhaust, while secondary pollutants like ground-level ozone form through chemical reactions in the atmosphere",
+      "Primary pollutants are natural, while secondary pollutants are always human-made",
+      "Secondary pollutants are the same as primary pollutants, just measured at a different location",
+      "Primary pollutants only come from factories, while secondary pollutants only come from vehicles"
+    ],
+    "correctAnswer": "Primary pollutants are emitted directly from sources like vehicle exhaust, while secondary pollutants like ground-level ozone form through chemical reactions in the atmosphere",
+    "explanation": "Primary pollutants (e.g., CO, SO2, particulate matter) are emitted directly from identifiable sources. Secondary pollutants (e.g., ozone, smog) form when primary pollutants react with sunlight, water vapor, and other compounds in the atmosphere.",
+    "anki": true
+  },
+  {
+    "question": "Why is habitat restoration considered a more effective long-term solution for biodiversity loss than seed banking, even though both preserve genetic material?",
+    "options": [
+      "Habitat restoration allows species to live and reproduce in natural ecosystems with evolutionary processes, while seed banking only preserves genetic material without ensuring species survival in the wild",
+      "Seed banking is always unsuccessful because seeds cannot survive in storage conditions",
+      "Habitat restoration only works for plant species, while seed banking protects both plants and animals",
+      "Seed banking is the only proven method for preventing extinction, while habitat restoration rarely succeeds"
+    ],
+    "correctAnswer": "Habitat restoration allows species to live and reproduce in natural ecosystems with evolutionary processes, while seed banking only preserves genetic material without ensuring species survival in the wild",
+    "explanation": "Habitat restoration recreates functional ecosystems where species can interact, reproduce, and evolve. Seed banking is a backup that preserves genetic diversity but cannot maintain the ecological relationships and evolutionary processes that species need to survive long-term.",
+    "anki": true
+  },
+  {
+    "question": "How does the pollution caused by burning fossil fuels in urban transportation create environmental effects that span across all three pollution categories (air, water, land)?",
+    "options": [
+      "Vehicle emissions pollute air directly, settle onto land as acid rain, and contaminate water through runoff and deposition",
+      "Vehicle exhaust only affects air quality and has no impact on land or water resources",
+      "Each pollution type from vehicles is completely independent and does not interact with the others",
+      "Vehicle pollution only affects water when oil leaks from engines directly into rivers"
+    ],
+    "correctAnswer": "Vehicle emissions pollute air directly, settle onto land as acid rain, and contaminate water through runoff and deposition",
+    "explanation": "Burning fossil fuels releases NOx and SO2 into the air, which form acid rain that acidifies soil (land pollution) and water bodies (water pollution). Particulate matter settles on land, and nitrogen compounds wash into waterways, showing the interconnected nature of pollution.",
+    "anki": true
+  },
+  {
+    "question": "What distinguishes the environmental threat of CFCs from that of carbon monoxide in terms of the atmospheric layer each primarily affects and the type of harm caused?",
+    "options": [
+      "CFCs deplete ozone in the stratosphere allowing UV penetration, while CO accumulates in the troposphere causing direct respiratory toxicity",
+      "Both CFCs and CO primarily damage the ozone layer in the stratosphere through identical chemical mechanisms",
+      "CFCs are harmless to the atmosphere and only affect human health, while CO is the main cause of ozone depletion",
+      "Carbon monoxide depletes ozone in the stratosphere, while CFCs cause breathing problems in the troposphere"
+    ],
+    "correctAnswer": "CFCs deplete ozone in the stratosphere allowing UV penetration, while CO accumulates in the troposphere causing direct respiratory toxicity",
+    "explanation": "CFCs reach the stratosphere and destroy ozone, increasing UV radiation at the surface. Carbon monoxide remains in the troposphere (lower atmosphere) where it is directly inhaled, binding to hemoglobin and reducing oxygen delivery to tissues.",
+    "anki": true
+  },
+  {
+    "question": "Why is the relationship between deforestation and desertification considered a positive feedback loop in dryland regions like Ethiopia's northern highlands?",
+    "options": [
+      "Removing trees reduces soil moisture and organic matter, leading to erosion and drier conditions that prevent tree regrowth, worsening desertification",
+      "Deforestation in drylands actually increases rainfall and reverses desertification by opening up the land to precipitation",
+      "Desertification causes deforestation, but deforestation never causes desertification in any climate",
+      "Trees in dryland regions consume all available water, so removing them prevents desertification"
+    ],
+    "correctAnswer": "Removing trees reduces soil moisture and organic matter, leading to erosion and drier conditions that prevent tree regrowth, worsening desertification",
+    "explanation": "Trees anchor soil, retain moisture, and add organic matter. Deforestation exposes soil to erosion, reduces water retention, and creates drier microclimates. This degraded land cannot support new tree growth, creating a self-reinforcing cycle of increasing desertification.",
+    "anki": true
+  },
+  {
+    "question": "Which of the following best analyzes why water conservation through reduced consumption is more environmentally effective than water conservation through improved treatment technologies?",
+    "options": [
+      "Reduced consumption decreases demand on freshwater sources and energy use, while treatment technologies still require significant energy and chemicals and do not address overall water scarcity",
+      "Treatment technologies are always ineffective at removing pollutants, making consumption reduction the only viable option",
+      "Reduced consumption only helps during droughts, while treatment technologies provide permanent solutions to water scarcity",
+      "Both strategies are equally effective because treated water is identical in quality to conserved water"
+    ],
+    "correctAnswer": "Reduced consumption decreases demand on freshwater sources and energy use, while treatment technologies still require significant energy and chemicals and do not address overall water scarcity",
+    "explanation": "Demand-side conservation reduces the pressure on water sources, lowers energy for pumping and treatment, and decreases wastewater volume. Treatment technologies are important but address symptoms (cleaning used water) rather than the root problem of over-extraction.",
+    "anki": true
+  },
+  {
+    "question": "Why is reducing particulate emissions from diesel vehicles in Addis Ababa considered an air pollution control strategy that also mitigates land and water pollution indirectly?",
+    "options": [
+      "Particulate matter from diesel exhaust settles onto soil and water surfaces, contaminating both, so reducing emissions decreases multi-environment pollution simultaneously",
+      "Diesel particulate only affects air quality and has no interaction with land or water systems",
+      "Reducing diesel emissions improves air quality but has no effect on land or water pollution",
+      "Particulate matter from vehicles dissolves completely in the atmosphere and never reaches the ground"
+    ],
+    "correctAnswer": "Particulate matter from diesel exhaust settles onto soil and water surfaces, contaminating both, so reducing emissions decreases multi-environment pollution simultaneously",
+    "explanation": "Diesel particulate matter contains toxic compounds that are emitted into the air but eventually settle onto land surfaces and wash into waterways. Reducing tailpipe emissions therefore benefits air, land, and water quality through this cross-media transfer.",
+    "anki": true
+  },
+  {
+    "question": "Why is demography considered an essential tool for government planning rather than just an academic field of study?",
+    "options": [
+      "Demographic data helps governments predict future needs for schools, healthcare, housing, and jobs based on population size, age structure, and growth rates",
+      "Demography is purely theoretical and has no practical applications for government policy or planning",
+      "Governments only use demographic data for census counting and ignore it for all other planning purposes",
+      "Demographic data is only useful for predicting election outcomes and has no role in resource allocation"
+    ],
+    "correctAnswer": "Demographic data helps governments predict future needs for schools, healthcare, housing, and jobs based on population size, age structure, and growth rates",
+    "explanation": "Understanding population size, age distribution, growth rate, and migration patterns allows governments to allocate resources effectively - building enough schools for a young population, planning healthcare for an aging one, and creating jobs for entering workforce cohorts.",
+    "anki": true
+  },
+  {
+    "question": "What distinguishes the resource depletion caused by population growth from resource depletion caused by technological advancement?",
+    "options": [
+      "Population growth increases demand through sheer numbers of consumers, while technological advancement can either increase or decrease resource consumption per unit of production",
+      "Technology always reduces resource consumption, while population growth always increases it",
+      "Both population growth and technological advancement deplete resources through identical mechanisms",
+      "Resource depletion is caused solely by population growth, with technology having no effect on resource use"
+    ],
+    "correctAnswer": "Population growth increases demand through sheer numbers of consumers, while technological advancement can either increase or decrease resource consumption per unit of production",
+    "explanation": "Population growth scales up total resource demand proportionally. Technology can be either resource-efficient (saving resources per unit) or resource-intensive (e.g., requiring rare minerals for electronics), making its net effect on depletion context-dependent.",
+    "anki": true
+  },
+  {
+    "question": "How does the relationship between population pressure and land degradation in Ethiopia's highlands illustrate the concept of carrying capacity being exceeded?",
+    "options": [
+      "When population exceeds the land's carrying capacity, farmers cultivate steep slopes and marginal lands, leading to severe erosion and declining agricultural productivity per capita",
+      "Carrying capacity is a fixed number that, once exceeded, causes instant and permanent collapse of all life in the area",
+      "Population pressure in the highlands has improved land quality through increased terracing and conservation efforts",
+      "Carrying capacity only applies to animal populations and cannot be used to analyze human-environment interactions"
+    ],
+    "correctAnswer": "When population exceeds the land's carrying capacity, farmers cultivate steep slopes and marginal lands, leading to severe erosion and declining agricultural productivity per capita",
+    "explanation": "Exceeding carrying capacity forces people onto fragile lands (steep slopes, marginal soils). Intensive cultivation without adequate fallow periods depletes nutrients, while plowing on slopes accelerates erosion, creating a downward spiral of land degradation and falling yields.",
+    "anki": true
+  },
+  {
+    "question": "What makes population control measures in Ethiopia different from those needed in countries that have already achieved replacement-level fertility?",
+    "options": [
+      "Ethiopia needs voluntary family planning and access to education that address high fertility drivers, while countries with low fertility may need policies to encourage childbearing to prevent workforce decline",
+      "Population control measures are identical for all countries regardless of their current fertility rates",
+      "Ethiopia needs measures to increase birth rates, while other countries need measures to decrease birth rates",
+      "Population control is unnecessary in Ethiopia because the country has already achieved population stability"
+    ],
+    "correctAnswer": "Ethiopia needs voluntary family planning and access to education that address high fertility drivers, while countries with low fertility may need policies to encourage childbearing to prevent workforce decline",
+    "explanation": "Ethiopia's Total Fertility Rate remains above replacement level, requiring expanded access to family planning, girls' education, and economic opportunities. Countries like Japan or Germany face below-replacement fertility and need pro-natalist policies.",
+    "anki": true
+  },
+  {
+    "question": "How does uncontrolled population growth contribute to deforestation through a chain of cause and effect that differs from how it contributes to desertification?",
+    "options": [
+      "Population growth drives demand for farmland (causing deforestation by clearing forests) and demand for fuelwood and grazing (causing desertification by stripping vegetation and compacting soil)",
+      "Population growth causes deforestation directly but has no relationship whatsoever with desertification",
+      "Desertification is caused entirely by climate change while deforestation is caused entirely by population growth",
+      "Both deforestation and desertification from population growth occur through the identical mechanism of urban expansion"
+    ],
+    "correctAnswer": "Population growth drives demand for farmland (causing deforestation by clearing forests) and demand for fuelwood and grazing (causing desertification by stripping vegetation and compacting soil)",
+    "explanation": "More people need more food, leading to forest clearance for agriculture (deforestation). More people also need fuel for cooking and grazing land for livestock, stripping remaining vegetation and compacting soil, which leads to desertification in dry areas.",
+    "anki": true
+  },
+  {
+    "question": "Why do countries with rapidly growing populations face different economic challenges from countries with shrinking populations, even when both have the same total population size?",
+    "options": [
+      "Growing populations require heavy investment in schools and job creation for youth cohorts, while shrinking populations face labor shortages and rising healthcare costs for the elderly",
+      "Both growing and shrinking populations face identical economic challenges regardless of age structure",
+      "Growing populations have lower education costs because there are fewer children per family",
+      "Shrinking populations require more schools and job training programs than growing populations"
+    ],
+    "correctAnswer": "Growing populations require heavy investment in schools and job creation for youth cohorts, while shrinking populations face labor shortages and rising healthcare costs for the elderly",
+    "explanation": "Rapidly growing populations have a high youth dependency ratio, requiring investment in education and employment. Shrinking populations have a high elderly dependency ratio, requiring healthcare and pension spending, with fewer young workers to support the economy.",
+    "anki": true
+  },
+  {
+    "question": "How does the dependency ratio in Ethiopia's population structure affect household and national economic decisions differently than it would in a country with a more evenly distributed age structure?",
+    "options": [
+      "Ethiopia's high youth dependency ratio means more resources are spent on education and childcare, leaving less for savings and investment, while a balanced age structure allows more working-age adults to save and invest",
+      "Dependency ratios have no effect on economic decisions at either the household or national level",
+      "Ethiopia's high youth dependency ratio increases national savings because children save more than adults",
+      "A balanced age structure leads to higher dependency burdens because there are more elderly people"
+    ],
+    "correctAnswer": "Ethiopia's high youth dependency ratio means more resources are spent on education and childcare, leaving less for savings and investment, while a balanced age structure allows more working-age adults to save and invest",
+    "explanation": "A high proportion of children (dependents) relative to working-age adults means households spend more on basic needs and education, reducing savings. National resources are directed toward schools and health facilities rather than infrastructure that boosts productivity.",
+    "anki": true
+  },
+  {
+    "question": "What distinguishes the long-term demographic challenge of rapid population growth in Ethiopia from the demographic challenge of a declining population in Japan?",
+    "options": [
+      "Ethiopia faces pressure to create enough jobs and schools for a growing young population, while Japan faces a shrinking workforce supporting an increasing elderly population",
+      "Both Ethiopia and Japan face the identical challenge of having too few young people to support the elderly",
+      "Ethiopia's challenge is an aging workforce, while Japan's challenge is a youth bulge needing education",
+      "Rapid population growth creates no challenges because more people mean more economic productivity"
+    ],
+    "correctAnswer": "Ethiopia faces pressure to create enough jobs and schools for a growing young population, while Japan faces a shrinking workforce supporting an increasing elderly population",
+    "explanation": "Ethiopia's high fertility rate produces many young people who need education and employment, creating a demographic dividend opportunity if managed well, or instability if not. Japan's low fertility rate creates labor shortages and rising pension/healthcare costs.",
+    "anki": true
+  },
+  {
+    "question": "Why does terrorism pose a unique challenge to democratic governments that differs from how they handle conventional military threats?",
+    "options": [
+      "Terrorists operate covertly among civilians, forcing democracies to balance security measures against protecting civil liberties and due process rights",
+      "Democratic governments have no legal constraints and can respond to terrorism exactly as they would to conventional military invasions",
+      "Terrorism is an easier threat to address than conventional military threats because terrorists follow international laws of war",
+      "Conventional military threats require no balancing of civil liberties, while terrorism requires democracies to suspend all rights permanently"
+    ],
+    "correctAnswer": "Terrorists operate covertly among civilians, forcing democracies to balance security measures against protecting civil liberties and due process rights",
+    "explanation": "Unlike conventional armies that operate on battlefields, terrorists hide within civilian populations. Democratic governments must implement surveillance, detention, and security measures while respecting constitutional rights, creating a complex balancing act that conventional warfare does not require.",
+    "anki": true
+  },
+  {
+    "question": "How does the socio-economic impact of terrorism on tourism in a country like Kenya differ from its impact on foreign direct investment?",
+    "options": [
+      "Tourism declines immediately due to perceived risk and safety concerns, while foreign investment may initially pause but can recover with improved security measures over time",
+      "Terrorism has no impact on tourism because tourists are not affected by security concerns",
+      "Foreign investment is always affected more severely and permanently than tourism",
+      "Both tourism and foreign investment are completely unaffected by terrorist activity in any country"
+    ],
+    "correctAnswer": "Tourism declines immediately due to perceived risk and safety concerns, while foreign investment may initially pause but can recover with improved security measures over time",
+    "explanation": "Tourism is highly sensitive to security perceptions and drops sharply after attacks as travelers avoid risky destinations. Foreign investment is more resilient - investors may delay decisions but often return once governments demonstrate effective security responses.",
+    "anki": true
+  },
+  {
+    "question": "What distinguishes the psychological impact of terrorism on a population from the psychological impact of natural disasters, even when both cause similar levels of casualties?",
+    "options": [
+      "Terrorism involves intentional human malice, creating sustained fear, distrust, and a sense of vulnerability, whereas natural disasters are seen as uncontrollable acts of nature without deliberate malice",
+      "Natural disasters always cause more severe psychological trauma than terrorist attacks of any scale",
+      "Terrorism and natural disasters produce identical psychological responses in affected populations",
+      "Natural disasters create more long-term psychological damage because they cannot be prevented"
+    ],
+    "correctAnswer": "Terrorism involves intentional human malice, creating sustained fear, distrust, and a sense of vulnerability, whereas natural disasters are seen as uncontrollable acts of nature without deliberate malice",
+    "explanation": "Intentional violence by fellow humans creates unique psychological responses: heightened vigilance, erosion of trust in strangers, and fear that attacks could happen anywhere at any time. Natural disasters lack this element of deliberate human cruelty.",
+    "anki": true
+  },
+  {
+    "question": "How does the use of cyberterrorism differ from conventional terrorist tactics such as bombings in terms of reach and attribution?",
+    "options": [
+      "Cyberterrorism can disrupt infrastructure across national borders instantly with anonymous or misattributed sources, while conventional bombings are localized and easier to trace to perpetrators",
+      "Cyberterrorism and conventional bombings have identical reach, both limited to a single geographic location",
+      "Conventional bombings are always anonymous, while cyberterrorism is always easily traced to specific groups",
+      "Cyberterrorism causes no real damage compared to the physical destruction of conventional bombings"
+    ],
+    "correctAnswer": "Cyberterrorism can disrupt infrastructure across national borders instantly with anonymous or misattributed sources, while conventional bombings are localized and easier to trace to perpetrators",
+    "explanation": "Cyber attacks can target power grids, financial systems, or communication networks in multiple countries simultaneously from anywhere in the world, and attackers can disguise their identity or frame others. Physical attacks are limited to one location and leave forensic evidence.",
+    "anki": true
+  },
+  {
+    "question": "Why might counterterrorism strategies that focus solely on military force fail to address the root causes of terrorism in regions affected by poverty and political marginalization?",
+    "options": [
+      "Military force addresses only the symptoms (violent acts) but does not resolve grievances like inequality, lack of opportunity, and political exclusion that fuel terrorist recruitment",
+      "Military force is always the most effective strategy because it eliminates all potential terrorists permanently",
+      "Poverty and marginalization have no connection to terrorism, so addressing them would not affect terrorist activity",
+      "Military strategies are specifically designed to address root causes rather than just symptoms"
+    ],
+    "correctAnswer": "Military force addresses only the symptoms (violent acts) but does not resolve grievances like inequality, lack of opportunity, and political exclusion that fuel terrorist recruitment",
+    "explanation": "Terrorism often emerges from conditions of political oppression, economic hopelessness, and social injustice. Military countermeasures without addressing these underlying grievances may temporarily suppress attacks but fail to reduce the appeal of extremist ideologies to disenfranchised populations.",
+    "anki": true
+  },
+  {
+    "question": "What distinguishes a terrorist act from other forms of political violence like guerrilla warfare in terms of targeting strategy?",
+    "options": [
+      "Terrorism deliberately targets civilians and non-combatants to create fear and pressure governments, while guerrilla warfare typically targets military and government security forces",
+      "Terrorism only targets government buildings, while guerrilla warfare only targets civilians",
+      "Guerrilla warfare is always international, while terrorism is always domestic",
+      "Both terrorism and guerrilla warfare follow the same targeting rules under international law"
+    ],
+    "correctAnswer": "Terrorism deliberately targets civilians and non-combatants to create fear and pressure governments, while guerrilla warfare typically targets military and government security forces",
+    "explanation": "The defining characteristic of terrorism is the intentional targeting of civilians to generate widespread fear and psychological impact. Guerrilla warfare involves irregular military forces attacking enemy combatants and military infrastructure, not deliberately targeting civilians.",
+    "anki": true
+  },
+  {
+    "question": "How does the economic impact of terrorism on infrastructure destruction differ from its impact on long-term economic productivity?",
+    "options": [
+      "Infrastructure destruction causes immediate direct costs for rebuilding, while the long-term productivity loss from disrupted trade, investment, and tourism can exceed rebuilding costs many times over",
+      "Infrastructure damage is the only economic impact of terrorism, with no effect on long-term productivity",
+      "Terrorism actually stimulates economic growth through increased security spending and construction jobs",
+      "Long-term productivity is always affected less than the immediate cost of infrastructure repair"
+    ],
+    "correctAnswer": "Infrastructure destruction causes immediate direct costs for rebuilding, while the long-term productivity loss from disrupted trade, investment, and tourism can exceed rebuilding costs many times over",
+    "explanation": "Rebuilding destroyed buildings and infrastructure has a visible but finite cost. The harder-to-measure economic damage comes from reduced foreign investment, declining tourism, increased security costs, disrupted supply chains, and lost productivity over years or decades.",
+    "anki": true
+  },
+  {
+    "question": "What makes state-sponsored terrorism different from terrorism carried out by non-state actors in terms of resources and international accountability?",
+    "options": [
+      "State-sponsored terrorism has access to greater resources, intelligence, and diplomatic cover, while being harder to hold accountable because of state sovereignty protections",
+      "State-sponsored terrorism always uses less violence than non-state terrorism because governments follow international law",
+      "Non-state actors have more resources than state sponsors because they receive funding from multiple illegal sources",
+      "Both types of terrorism face identical accountability mechanisms in international courts"
+    ],
+    "correctAnswer": "State-sponsored terrorism has access to greater resources, intelligence, and diplomatic cover, while being harder to hold accountable because of state sovereignty protections",
+    "explanation": "States can provide funding, weapons, training, intelligence, and diplomatic protection to terrorist proxies, and state sovereignty shields sponsoring governments from direct legal consequences unless the UN Security Council acts.",
+    "anki": true
+  },
+  {
+    "question": "Why might terrorist organizations specifically target infrastructure like power grids and water supplies instead of only targeting government or military facilities?",
+    "options": [
+      "Attacking civilian infrastructure maximizes economic disruption and public fear by affecting the daily lives of the entire population, amplifying the psychological impact beyond direct casualties",
+      "Terrorist organizations avoid infrastructure targets because they cause too much economic damage to the population they claim to represent",
+      "Infrastructure targets are only attacked when terrorist groups cannot reach government or military facilities",
+      "Attacking infrastructure has no psychological impact because citizens do not notice disruptions to power or water"
+    ],
+    "correctAnswer": "Attacking civilian infrastructure maximizes economic disruption and public fear by affecting the daily lives of the entire population, amplifying the psychological impact beyond direct casualties",
+    "explanation": "Infrastructure attacks cause widespread disruption to ordinary life, creating daily reminders of insecurity. Power outages, water contamination, or communication blackouts affect millions, generating diffuse fear and pressuring governments far more than attacks on isolated military targets.",
+    "anki": true
+  },
+  {
+    "question": "How does human trafficking differ from human smuggling in terms of the consent and ongoing exploitation of the victim after crossing a border?",
+    "options": [
+      "Human trafficking involves coercion and ongoing exploitation for labor or sex after arrival, while smuggling involves a person who voluntarily pays for illegal border crossing and is then free",
+      "Human trafficking and human smuggling are identical crimes with no meaningful legal distinction",
+      "Smuggling always involves forced labor after arrival, while trafficking involves voluntary movement with consent",
+      "Both crimes are consensual transactions where victims willingly participate in their own exploitation"
+    ],
+    "correctAnswer": "Human trafficking involves coercion and ongoing exploitation for labor or sex after arrival, while smuggling involves a person who voluntarily pays for illegal border crossing and is then free",
+    "explanation": "The key distinction: smuggling is a consensual transaction where the migrant pays for illegal entry and is then free. Trafficking involves fraud, force, or coercion for ongoing exploitation. Trafficking does not require crossing borders; smuggling does.",
+    "anki": true
+  },
+  {
+    "question": "Why does poverty in rural Ethiopia drive both internal trafficking (movement within the country) and external trafficking (movement abroad), but through different pathways?",
+    "options": [
+      "Rural poverty drives internal trafficking through false promises of domestic work in cities, and external trafficking through promises of better wages in Gulf countries or Europe",
+      "Internal trafficking is caused by urban poverty, while external trafficking is the only form linked to rural poverty",
+      "Poverty only drives external trafficking from Ethiopia because internal movement is always voluntary and safe",
+      "Both internal and external trafficking from poverty follow identical recruitment and exploitation patterns"
+    ],
+    "correctAnswer": "Rural poverty drives internal trafficking through false promises of domestic work in cities, and external trafficking through promises of better wages in Gulf countries or Europe",
+    "explanation": "Desperate economic conditions make rural Ethiopians vulnerable to traffickers. Domestically, victims are lured to cities with promises of jobs as domestic workers. Internationally, traffickers promise high wages in the Middle East or Europe, but victims face exploitation in both cases.",
+    "anki": true
+  },
+  {
+    "question": "How does the demand for cheap labor in destination countries create a pull factor that reinforces the push factors of poverty and war in source countries for human trafficking?",
+    "options": [
+      "Demand for cheap labor creates profit incentives for traffickers to recruit vulnerable people from poor and conflict-affected regions, linking push factors to pull factors",
+      "Push factors (poverty, war) and pull factors (demand for labor) operate independently and never influence each other",
+      "Demand for cheap labor reduces trafficking because it creates legitimate job opportunities",
+      "Trafficking is caused only by push factors, with pull factors playing no role in the trafficking cycle"
+    ],
+    "correctAnswer": "Demand for cheap labor creates profit incentives for traffickers to recruit vulnerable people from poor and conflict-affected regions, linking push factors to pull factors",
+    "explanation": "Trafficking operates through interconnected push factors (poverty, conflict, lack of opportunity in source countries) and pull factors (employers in wealthy countries seeking low-cost workers). Traffickers profit by connecting vulnerable people with exploitative labor markets.",
+    "anki": true
+  },
+  {
+    "question": "What distinguishes the psychological consequences of human trafficking from the physical consequences in terms of long-term recovery prospects for victims?",
+    "options": [
+      "Physical injuries may heal with medical treatment, but psychological trauma from trafficking (PTSD, depression, loss of trust) can persist for years and requires specialized long-term counseling",
+      "Psychological trauma from trafficking always heals faster than physical injuries",
+      "Physical consequences of trafficking are permanent, while psychological effects resolve within weeks",
+      "Both physical and psychological consequences of trafficking heal completely once the victim is rescued"
+    ],
+    "correctAnswer": "Physical injuries may heal with medical treatment, but psychological trauma from trafficking (PTSD, depression, loss of trust) can persist for years and requires specialized long-term counseling",
+    "explanation": "Victims often suffer from physical injuries (violence, unsafe working conditions) that can be treated. However, the psychological damage - including complex PTSD, deep distrust, shame, and depression - requires intensive, long-term mental health support for recovery.",
+    "anki": true
+  },
+  {
+    "question": "Why is child trafficking considered particularly harmful compared to adult trafficking, even when both involve forced labor?",
+    "options": [
+      "Children are still developing physically and psychologically, so exploitation during childhood causes permanent developmental damage that affects the rest of their lives",
+      "Child trafficking and adult trafficking cause identical levels of harm to their victims",
+      "Adult trafficking is more harmful because adults understand the exploitation they are experiencing",
+      "Children recover from trafficking more quickly than adults because they are more resilient"
+    ],
+    "correctAnswer": "Children are still developing physically and psychologically, so exploitation during childhood causes permanent developmental damage that affects the rest of their lives",
+    "explanation": "Child trafficking disrupts critical developmental stages: physical growth, education, social skills, and emotional development. The trauma during formative years can cause lifelong psychological damage, whereas adults have more established coping mechanisms and life skills.",
+    "anki": true
+  },
+  {
+    "question": "How does the phenomenon of child marriage in Ethiopia relate to human trafficking, and what distinguishes it from other forms of trafficking?",
+    "options": [
+      "Child marriage is a form of trafficking when girls are married without consent for economic benefit, but differs because it is often framed as a cultural practice rather than criminal exploitation",
+      "Child marriage has no connection to human trafficking and is purely a cultural practice",
+      "Child marriage is the most severe form of human trafficking and is always prosecuted as such in Ethiopia",
+      "Child marriage only affects boys in Ethiopia and is not related to the trafficking of girls"
+    ],
+    "correctAnswer": "Child marriage is a form of trafficking when girls are married without consent for economic benefit, but differs because it is often framed as a cultural practice rather than criminal exploitation",
+    "explanation": "When a child is given in marriage for payment (bride price) or other benefit, it meets the definition of trafficking (exploitation of a minor). However, it is often not recognized as trafficking because communities view it as tradition rather than exploitation.",
+    "anki": true
+  },
+  {
+    "question": "Why does organ trafficking present unique ethical and legal challenges that differ from labor trafficking or sex trafficking?",
+    "options": [
+      "Organ trafficking involves irreversible physical removal of body parts, requires medical professionals as participants, and exists in a gray area between illegal trade and legitimate transplant medicine",
+      "Organ trafficking is identical to other forms of trafficking and presents no unique legal challenges",
+      "Organ trafficking is legal in most countries and only becomes trafficking when organs are infected",
+      "Organ trafficking is less harmful than labor trafficking because donors receive payment for their organs"
+    ],
+    "correctAnswer": "Organ trafficking involves irreversible physical removal of body parts, requires medical professionals as participants, and exists in a gray area between illegal trade and legitimate transplant medicine",
+    "explanation": "Unlike labor or sex trafficking where exploitation is ongoing, organ trafficking causes permanent physical loss. It involves complex ethical questions about medical ethics, requires complicity from healthcare professionals, and blurs lines with legal organ transplantation.",
+    "anki": true
+  },
+  {
+    "question": "How does the relationship between war and human trafficking create a cycle where each condition worsens the other?",
+    "options": [
+      "War creates refugees and economic collapse (increasing vulnerability to trafficking), and trafficking profits can fund armed groups (prolonging conflict)",
+      "War reduces human trafficking because borders close and movement becomes restricted",
+      "Human trafficking causes wars but wars do not increase trafficking rates",
+      "War and human trafficking are completely unrelated phenomena that do not influence each other"
+    ],
+    "correctAnswer": "War creates refugees and economic collapse (increasing vulnerability to trafficking), and trafficking profits can fund armed groups (prolonging conflict)",
+    "explanation": "War destabilizes economies, displaces populations, and breaks down law enforcement - all of which make people vulnerable to traffickers. In turn, armed groups use trafficking (forced labor, sexual slavery, forced recruitment) to generate revenue to sustain their military operations.",
+    "anki": true
+  }
+]
