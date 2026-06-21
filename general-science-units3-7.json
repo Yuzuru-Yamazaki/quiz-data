@@ -1,0 +1,564 @@
+{
+  "title": "Grade 7 General Science — Units 3-7",
+  "description": "50 challenging questions covering elements/compounds, cells, living things diversity, Earth in space, and motion/force/energy.",
+  "folder": "temp/Grade 7/General Science",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "science",
+    "grade7",
+    "general-science"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the expression 4NH₃, what does the coefficient 4 indicate according to the textbook?",
+      "options": [
+        "4 atoms of ammonia",
+        "4 molecules of ammonia",
+        "4 nitrogen atoms and 12 hydrogen atoms",
+        "1 molecule with 4 nitrogen atoms"
+      ],
+      "correctAnswer": "4 molecules of ammonia"
+    },
+    {
+      "id": 2,
+      "question": "The chemical symbol for silver is Ag. From which Latin name is this symbol derived?",
+      "options": [
+        "Cuprum",
+        "Argentum",
+        "Kalium",
+        "Natrium"
+      ],
+      "correctAnswer": "Argentum"
+    },
+    {
+      "id": 3,
+      "question": "In the LCM method of balancing 4Al + 3O₂ → 2Al₂O₃, the total valence numbers are 3, 4, and 6. What is their LCM used to find the coefficients?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "24"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "id": 4,
+      "question": "How many oxygen atoms are present in one formula unit of Ca(NO₃)₂?",
+      "options": [
+        "2",
+        "9",
+        "6",
+        "3"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 5,
+      "question": "When balancing the equation N₂ + H₂ → NH₃ by the inspection method, which coefficient is placed before H₂?",
+      "options": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 6,
+      "question": "Mixing silver nitrate and sodium chloride solutions produces a white precipitate. What is this precipitate?",
+      "options": [
+        "Silver nitrate",
+        "Sodium nitrate",
+        "Sodium chloride",
+        "Silver chloride"
+      ],
+      "correctAnswer": "Silver chloride"
+    },
+    {
+      "id": 7,
+      "question": "Elements such as hydrogen, nitrogen, and oxygen exist as diatomic molecules. Which of the following exists as a monoatomic gas?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Helium",
+        "Chlorine"
+      ],
+      "correctAnswer": "Helium"
+    },
+    {
+      "id": 8,
+      "question": "Which three elements combine to form magnesium carbonate?",
+      "options": [
+        "Magnesium, calcium, oxygen",
+        "Magnesium, sulfur, oxygen",
+        "Magnesium, carbon, oxygen",
+        "Magnesium, carbon, nitrogen"
+      ],
+      "correctAnswer": "Magnesium, carbon, oxygen"
+    },
+    {
+      "id": 9,
+      "question": "What is the correct chemical formula for Iron (III) chloride?",
+      "options": [
+        "Fe₂Cl₃",
+        "FeCl₃",
+        "FeCl",
+        "FeCl₂"
+      ],
+      "correctAnswer": "FeCl₃"
+    },
+    {
+      "id": 10,
+      "question": "In naming simple binary compounds, the ending of the non-metal name is replaced with which suffix?",
+      "options": [
+        "-ide",
+        "-ite",
+        "-ium",
+        "-ate"
+      ],
+      "correctAnswer": "-ide"
+    },
+    {
+      "id": 11,
+      "question": "In the notation 2Fe, what is the number 2 called?",
+      "options": [
+        "Subscript",
+        "Atomic number",
+        "Coefficient",
+        "Valence number"
+      ],
+      "correctAnswer": "Coefficient"
+    },
+    {
+      "id": 12,
+      "question": "In the synthesis of sulfuric acid, sulfur is oxidized to sulfur dioxide and then to sulfur trioxide. Which gas is bubbled through water to produce the acid?",
+      "options": [
+        "Carbon dioxide",
+        "Sulfur dioxide",
+        "Sulfur trioxide",
+        "Hydrogen sulfide"
+      ],
+      "correctAnswer": "Sulfur trioxide"
+    },
+    {
+      "id": 13,
+      "question": "A compound microscope has an eyepiece labeled 10X and a high-power objective labeled 40X. What is the total magnification?",
+      "options": [
+        "40X",
+        "4X",
+        "400X",
+        "50X"
+      ],
+      "correctAnswer": "400X"
+    },
+    {
+      "id": 14,
+      "question": "Robert Hooke observed cork cells in 1665. What did Anton van Leeuwenhoek observe in 1674 that Hooke had not?",
+      "options": [
+        "Plant cell walls",
+        "Cork cells",
+        "Living, moving unicellular organisms",
+        "Bacteria from teeth"
+      ],
+      "correctAnswer": "Living, moving unicellular organisms"
+    },
+    {
+      "id": 15,
+      "question": "According to the textbook, what is the maximum ATP yield from one glucose molecule during aerobic cellular respiration?",
+      "options": [
+        "38 ATP",
+        "36 ATP",
+        "4 ATP",
+        "2 ATP"
+      ],
+      "correctAnswer": "38 ATP"
+    },
+    {
+      "id": 16,
+      "question": "Both lactic acid fermentation in animal cells and ethanol fermentation in yeast produce how many ATP per glucose molecule?",
+      "options": [
+        "36 ATP",
+        "4 ATP",
+        "2 ATP",
+        "38 ATP"
+      ],
+      "correctAnswer": "2 ATP"
+    },
+    {
+      "id": 17,
+      "question": "The inner mitochondrial membrane has folds called cristae. What is the function of these folds?",
+      "options": [
+        "To increase the surface area",
+        "To produce chlorophyll",
+        "To store genetic material",
+        "To digest cellular waste"
+      ],
+      "correctAnswer": "To increase the surface area"
+    },
+    {
+      "id": 18,
+      "question": "Which organelle is responsible for the sorting, tagging, packaging, and distribution of lipids and proteins?",
+      "options": [
+        "Golgi apparatus",
+        "Lysosomes",
+        "Endoplasmic reticulum",
+        "Ribosomes"
+      ],
+      "correctAnswer": "Golgi apparatus"
+    },
+    {
+      "id": 19,
+      "question": "The human egg cell measures about 0.12 mm in diameter, while Mycoplasma gallicepticum measures about 0.0001 mm. Approximately how many Mycoplasma cells could fit across the diameter of one egg cell?",
+      "options": [
+        "1200",
+        "120",
+        "12000",
+        "12"
+      ],
+      "correctAnswer": "1200"
+    },
+    {
+      "id": 20,
+      "question": "When focusing a specimen on a compound microscope, with which objective lens should you always start?",
+      "options": [
+        "Oil immersion",
+        "Low power",
+        "High power",
+        "Medium power"
+      ],
+      "correctAnswer": "Low power"
+    },
+    {
+      "id": 21,
+      "question": "In animal cells, which organelle is described as the cell's 'garbage disposal' because it contains digestive enzymes?",
+      "options": [
+        "Vacuoles",
+        "Lysosomes",
+        "Peroxisomes",
+        "Golgi apparatus"
+      ],
+      "correctAnswer": "Lysosomes"
+    },
+    {
+      "id": 22,
+      "question": "The five-kingdom classification system was developed by which scientist and in which year?",
+      "options": [
+        "Charles Darwin, 1859",
+        "Carl Linnaeus, 1758",
+        "Robert H. Whittaker, 1969",
+        "Robert Hooke, 1665"
+      ],
+      "correctAnswer": "Robert H. Whittaker, 1969"
+    },
+    {
+      "id": 23,
+      "question": "A horse and a donkey can produce a mule, but the mule is infertile. According to the textbook, what is the reason?",
+      "options": [
+        "It cannot find a mate",
+        "It belongs to a different genus",
+        "It has no parents",
+        "It is a product of organisms of different species"
+      ],
+      "correctAnswer": "It is a product of organisms of different species"
+    },
+    {
+      "id": 24,
+      "question": "According to the textbook, how many pairs of antennae do insects have?",
+      "options": [
+        "Three",
+        "Two",
+        "Zero",
+        "One"
+      ],
+      "correctAnswer": "One"
+    },
+    {
+      "id": 25,
+      "question": "If two organisms belong to the same order, which higher-level group must they also share?",
+      "options": [
+        "Species",
+        "Class",
+        "Family",
+        "Genus"
+      ],
+      "correctAnswer": "Class"
+    },
+    {
+      "id": 26,
+      "question": "What is the key difference between gymnosperms and angiosperms regarding their seeds?",
+      "options": [
+        "Angiosperms lack vascular tissue",
+        "Gymnosperms have flowers",
+        "Angiosperm seeds are not enclosed in fruit",
+        "Gymnosperm seeds are not enclosed in fruit"
+      ],
+      "correctAnswer": "Gymnosperm seeds are not enclosed in fruit"
+    },
+    {
+      "id": 27,
+      "question": "Which kingdom consists of prokaryotic unicellular organisms that lack membrane-bound organelles and reproduce by binary fission?",
+      "options": [
+        "Monera",
+        "Fungi",
+        "Plantae",
+        "Protista"
+      ],
+      "correctAnswer": "Monera"
+    },
+    {
+      "id": 28,
+      "question": "Bryophytes (mosses and liverworts) lack vascular tissue. What is the main consequence of this?",
+      "options": [
+        "They cannot transport water and nutrients efficiently",
+        "They cannot grow on land",
+        "They cannot photosynthesize",
+        "They cannot reproduce"
+      ],
+      "correctAnswer": "They cannot transport water and nutrients efficiently"
+    },
+    {
+      "id": 29,
+      "question": "Cyanobacteria (blue-green algae) hold an important place in Earth's history. What were they the first organisms to produce as a byproduct of photosynthesis?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Methane"
+      ],
+      "correctAnswer": "Oxygen"
+    },
+    {
+      "id": 30,
+      "question": "In the scientific name Panthera leo, what taxonomic level does 'Panthera' represent?",
+      "options": [
+        "Family",
+        "Order",
+        "Species",
+        "Genus"
+      ],
+      "correctAnswer": "Genus"
+    },
+    {
+      "id": 31,
+      "question": "Which class of vertebrates is poikilothermic (cold-blooded), has dry skin with scales, and lays eggs with a rubbery waterproof shell on land?",
+      "options": [
+        "Fish",
+        "Amphibians",
+        "Birds",
+        "Reptiles"
+      ],
+      "correctAnswer": "Reptiles"
+    },
+    {
+      "id": 32,
+      "question": "Animals store carbon as glycogen and fat. Which other kingdom also stores carbon as glycogen?",
+      "options": [
+        "Protista",
+        "Monera",
+        "Plantae",
+        "Fungi"
+      ],
+      "correctAnswer": "Fungi"
+    },
+    {
+      "id": 33,
+      "question": "The fungus Penicillium was used to produce which important medical substance?",
+      "options": [
+        "Aspirin",
+        "Insulin",
+        "Penicillin",
+        "Vaccines"
+      ],
+      "correctAnswer": "Penicillin"
+    },
+    {
+      "id": 34,
+      "question": "Earth's equatorial circumference is 40,075 km and its polar circumference is 40,008 km. What is the difference between these two measurements?",
+      "options": [
+        "12,756 km",
+        "42 km",
+        "40,008 km",
+        "67 km"
+      ],
+      "correctAnswer": "67 km"
+    },
+    {
+      "id": 35,
+      "question": "An observer at sea notices a ship appears to 'sink' as it sails over the horizon. What does this observation best demonstrate?",
+      "options": [
+        "The ocean has depressions",
+        "The Earth is revolving",
+        "The Earth has a curved surface",
+        "The Earth is rotating"
+      ],
+      "correctAnswer": "The Earth has a curved surface"
+    },
+    {
+      "id": 36,
+      "question": "What is the precise time Earth takes to complete one full rotation on its axis?",
+      "options": [
+        "12 hours",
+        "365.24 days",
+        "24 hours exactly",
+        "23 hours, 56 minutes, 4 seconds"
+      ],
+      "correctAnswer": "23 hours, 56 minutes, 4 seconds"
+    },
+    {
+      "id": 37,
+      "question": "In the nitrogen cycle, which step is NOT completed by bacteria?",
+      "options": [
+        "De-nitrification",
+        "Nitrogen fixation",
+        "Nitrification",
+        "Assimilation"
+      ],
+      "correctAnswer": "Assimilation"
+    },
+    {
+      "id": 38,
+      "question": "Which layer of the atmosphere contains about 75% of all the air and almost all of the water vapor?",
+      "options": [
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere",
+        "Troposphere"
+      ],
+      "correctAnswer": "Troposphere"
+    },
+    {
+      "id": 39,
+      "question": "What causes the temperature to increase with height in the stratosphere?",
+      "options": [
+        "Volcanic activity",
+        "Increased air pressure",
+        "Proximity to the sun",
+        "Absorption of ultraviolet radiation by ozone"
+      ],
+      "correctAnswer": "Absorption of ultraviolet radiation by ozone"
+    },
+    {
+      "id": 40,
+      "question": "The lithosphere includes the crust and which other part of Earth?",
+      "options": [
+        "Entire mantle",
+        "Outer core",
+        "Upper portion of the mantle",
+        "Lower mantle"
+      ],
+      "correctAnswer": "Upper portion of the mantle"
+    },
+    {
+      "id": 41,
+      "question": "Around 500 B.C., Pythagoras proposed a spherical Earth. What was the basis for his proposal according to the textbook?",
+      "options": [
+        "Circumnavigation",
+        "Aesthetic grounds rather than physical evidence",
+        "Ship disappearance observations",
+        "Lunar eclipse observations"
+      ],
+      "correctAnswer": "Aesthetic grounds rather than physical evidence"
+    },
+    {
+      "id": 42,
+      "question": "The stratosphere extends to about 50 km above Earth. What is the approximate elevation of the stratopause (the upper boundary of the stratosphere)?",
+      "options": [
+        "80 km",
+        "50 km",
+        "30 km",
+        "10 km"
+      ],
+      "correctAnswer": "50 km"
+    },
+    {
+      "id": 43,
+      "question": "A ball thrown vertically upward slows down, stops, and falls back to Earth. Which fundamental force causes this behavior?",
+      "options": [
+        "Magnetic force",
+        "Frictional force",
+        "Elastic force",
+        "Gravitational force"
+      ],
+      "correctAnswer": "Gravitational force"
+    },
+    {
+      "id": 44,
+      "question": "Earth's revolution around the Sun follows a path. According to the textbook's classification, this motion is an example of which type?",
+      "options": [
+        "Rectilinear motion",
+        "Oscillatory motion",
+        "Rotary motion",
+        "Curvilinear motion"
+      ],
+      "correctAnswer": "Curvilinear motion"
+    },
+    {
+      "id": 45,
+      "question": "According to the textbook, a battery is a transducer that converts chemical energy into what form?",
+      "options": [
+        "Light energy",
+        "Electrical energy",
+        "Mechanical energy",
+        "Heat energy"
+      ],
+      "correctAnswer": "Electrical energy"
+    },
+    {
+      "id": 46,
+      "question": "What happens to the spring in a spring balance when a larger force is applied to the hook?",
+      "options": [
+        "It stays the same",
+        "It compresses more",
+        "It stretches more",
+        "It breaks"
+      ],
+      "correctAnswer": "It stretches more"
+    },
+    {
+      "id": 47,
+      "question": "According to the textbook, which type of energy source has a higher upfront cost but lower carbon emissions and carbon footprint?",
+      "options": [
+        "Fossil fuels",
+        "Renewable energy",
+        "Non-renewable energy",
+        "Nuclear energy"
+      ],
+      "correctAnswer": "Renewable energy"
+    },
+    {
+      "id": 48,
+      "question": "What is the scientific instrument called that is used to measure force?",
+      "options": [
+        "Beam balance",
+        "Newton meter",
+        "Thermometer",
+        "Barometer"
+      ],
+      "correctAnswer": "Newton meter"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is listed in the textbook as a cause of resource depletion?",
+      "options": [
+        "Conservation",
+        "Recycling",
+        "Reforestation",
+        "Overpopulation"
+      ],
+      "correctAnswer": "Overpopulation"
+    },
+    {
+      "id": 50,
+      "question": "The textbook defines a transducer as a device used for what purpose?",
+      "options": [
+        "To generate electricity from motion",
+        "To transform energy from one form to another",
+        "To measure the size of a force",
+        "To store chemical energy"
+      ],
+      "correctAnswer": "To transform energy from one form to another"
+    }
+  ]
+}
