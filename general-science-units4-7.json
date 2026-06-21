@@ -1,0 +1,480 @@
+{
+  "title": "Grade 7 General Science — Units 4-7",
+  "description": "50 challenging questions covering cells, living things diversity, Earth in space, and motion/force/energy.",
+  "folder": "temp/Grade 7/General Science",
+  "field": "natural",
+  "anki": true,
+  "tags": ["science", "grade7", "general-science"],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A student uses a compound microscope with a 10X eyepiece and wants a total magnification of 400X. Which objective lens should they select?",
+      "options": ["4X", "10X", "40X", "100X"],
+      "correctAnswer": "40X"
+    },
+    {
+      "id": 2,
+      "question": "Robert Hooke observed cork cells in 1665 using a compound microscope, but Anton van Leeuwenhoek is considered the founder of microscopy. What key advantage did Leeuwenhoek's simple microscopes have over Hooke's compound microscope?",
+      "options": [
+        "They could magnify up to 300X without blurring",
+        "They used multiple lenses for higher resolution",
+        "They were the first to use oil immersion lenses",
+        "They could observe multicellular organisms in color"
+      ],
+      "correctAnswer": "They could magnify up to 300X without blurring"
+    },
+    {
+      "id": 3,
+      "question": "A unicellular organism is observed under a microscope. It is green, contains chloroplasts, and moves toward light. Into which kingdom should this organism be classified?",
+      "options": ["Plantae", "Animalia", "Protista", "Monera"],
+      "correctAnswer": "Protista"
+    },
+    {
+      "id": 4,
+      "question": "During complete aerobic respiration, one glucose molecule produces up to 38 ATP. If a cell breaks down 3 glucose molecules entirely through aerobic respiration, how many ATP molecules would be produced in total?",
+      "options": ["76", "114", "41", "152"],
+      "correctAnswer": "114"
+    },
+    {
+      "id": 5,
+      "question": "An organism is eukaryotic, multicellular, has a cell wall made of cellulose, contains chloroplasts, and is non-motile. This organism belongs to kingdom:",
+      "options": ["Animalia", "Plantae", "Fungi", "Protista"],
+      "correctAnswer": "Plantae"
+    },
+    {
+      "id": 6,
+      "question": "A cell has a cell wall made of cellulose, a large central vacuole, and chloroplasts. Based on these features, which organelle would this cell most likely lack?",
+      "options": ["Mitochondria", "Ribosomes", "Lysosomes", "Nucleus"],
+      "correctAnswer": "Lysosomes"
+    },
+    {
+      "id": 7,
+      "question": "Anaerobic respiration in yeast produces ethanol and carbon dioxide, while anaerobic respiration in animal cells produces lactic acid. Both processes share which common outcome?",
+      "options": [
+        "They both produce 38 ATP per glucose molecule",
+        "They both produce only 2 ATP per glucose molecule",
+        "They both require oxygen to proceed",
+        "They both produce water as a byproduct"
+      ],
+      "correctAnswer": "They both produce only 2 ATP per glucose molecule"
+    },
+    {
+      "id": 8,
+      "question": "A student views a specimen using the 10X eyepiece and the 40X objective, but the image is blurry when using the coarse adjustment knob. To obtain a sharp focus under high power, the student should use the:",
+      "options": [
+        "Coarse adjustment knob only",
+        "Fine adjustment knob only",
+        "Diaphragm to reduce light",
+        "Medium power objective first"
+      ],
+      "correctAnswer": "Fine adjustment knob only"
+    },
+    {
+      "id": 9,
+      "question": "A plant has rectangular, rigid cells with distinct edges, while an animal has irregular-shaped cells. The primary reason for this difference is that plant cells have:",
+      "options": [
+        "A larger nucleus that maintains shape",
+        "A cell wall that forces a definite shape",
+        "More mitochondria that provide structure",
+        "A fluid-filled vacuole that fills the cell"
+      ],
+      "correctAnswer": "A cell wall that forces a definite shape"
+    },
+    {
+      "id": 10,
+      "question": "The human egg cell measures approximately 0.12 mm in diameter, while the bacterium Mycoplasma gallicepticum measures about 0.0001 mm. The egg cell is larger because:",
+      "options": [
+        "It stores more genetic material than bacteria",
+        "It needs extra energy reserves for zygote development",
+        "It contains multiple nuclei for rapid division",
+        "It has a thicker cell wall for protection"
+      ],
+      "correctAnswer": "It needs extra energy reserves for zygote development"
+    },
+    {
+      "id": 11,
+      "question": "Carl Linnaeus developed binomial nomenclature. Two organisms share the same genus name but have different species names. What can you conclude about these two organisms?",
+      "options": [
+        "They belong to different kingdoms",
+        "They are closely related but cannot produce fertile offspring together",
+        "They can interbreed to produce fertile offspring",
+        "They belong to the same phylum but different classes"
+      ],
+      "correctAnswer": "They are closely related but cannot produce fertile offspring together"
+    },
+    {
+      "id": 12,
+      "question": "A horse and a donkey can mate and produce a mule, but the mule is infertile. In terms of biological classification, this is because horses and donkeys:",
+      "options": [
+        "Belong to the same species but different genera",
+        "Belong to the same genus but different species",
+        "Belong to different classes within the same phylum",
+        "Belong to the same kingdom but different phyla"
+      ],
+      "correctAnswer": "Belong to the same genus but different species"
+    },
+    {
+      "id": 13,
+      "question": "Which sequence correctly shows Linnaeus's classification hierarchy from the broadest group to the most specific group?",
+      "options": [
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Kingdom, Class, Phylum, Order, Family, Genus, Species",
+        "Phylum, Kingdom, Class, Order, Family, Genus, Species"
+      ],
+      "correctAnswer": "Kingdom, Phylum, Class, Order, Family, Genus, Species"
+    },
+    {
+      "id": 14,
+      "question": "You discover a new organism that is eukaryotic, unicellular, and contains chloroplasts for photosynthesis. Under the five-kingdom system, it should be classified under:",
+      "options": ["Monera", "Plantae", "Protista", "Fungi"],
+      "correctAnswer": "Protista"
+    },
+    {
+      "id": 15,
+      "question": "A mushroom, a yeast cell, and bread mold are all classified in Kingdom Fungi. Which characteristic do all members of this kingdom share?",
+      "options": [
+        "They are autotrophic and make their own food",
+        "They have cell walls made of chitin and are heterotrophic",
+        "They are prokaryotic and reproduce by binary fission",
+        "They store food as starch and have cellulose cell walls"
+      ],
+      "correctAnswer": "They have cell walls made of chitin and are heterotrophic"
+    },
+    {
+      "id": 16,
+      "question": "Blue-green algae (cyanobacteria) perform photosynthesis but are classified under Kingdom Monera rather than Plantae. What is the primary reason?",
+      "options": [
+        "They lack chlorophyll and use a different pigment",
+        "They are prokaryotic and lack a true nucleus",
+        "They are multicellular and form colonies",
+        "They have cell walls made of cellulose"
+      ],
+      "correctAnswer": "They are prokaryotic and lack a true nucleus"
+    },
+    {
+      "id": 17,
+      "question": "A scientist classifies organisms by considering internal features, external features, and evolutionary relationships. This method of classification is known as:",
+      "options": [
+        "Artificial classification",
+        "Natural or biological classification",
+        "Arbitrary classification",
+        "Hierarchical nomenclature"
+      ],
+      "correctAnswer": "Natural or biological classification"
+    },
+    {
+      "id": 18,
+      "question": "An insect has a body divided into three parts and three pairs of legs. According to the text, which additional feature do insects typically possess?",
+      "options": [
+        "A hydroskeleton for support",
+        "Two pairs of wings",
+        "A vertebral column",
+        "Moist skin for gas exchange"
+      ],
+      "correctAnswer": "Two pairs of wings"
+    },
+    {
+      "id": 19,
+      "question": "Mosses and ferns both reproduce by spores, but ferns are vascular plants while mosses are not. Which statement correctly describes this distinction?",
+      "options": [
+        "Ferns have well-developed xylem and phloem; mosses lack vascular tissue",
+        "Mosses have true roots and stems; ferns have only rhizomes",
+        "Ferns produce seeds; mosses produce spores",
+        "Mosses grow only in water; ferns grow only on land"
+      ],
+      "correctAnswer": "Ferns have well-developed xylem and phloem; mosses lack vascular tissue"
+    },
+    {
+      "id": 20,
+      "question": "Fish are poikilothermic vertebrates that live only in water. Which combination of features is characteristic of fish?",
+      "options": [
+        "Moist skin, lungs, and four limbs",
+        "Scales, gills, fins, and external fertilization",
+        "Dry scales, lungs, and eggs with rubbery shells",
+        "Feathers, wings, and hard-shelled eggs"
+      ],
+      "correctAnswer": "Scales, gills, fins, and external fertilization"
+    },
+    {
+      "id": 21,
+      "question": "The scientific name for humans is Homo sapiens. According to the rules of binomial nomenclature, the first part of this name (Homo) represents the:",
+      "options": ["Kingdom", "Genus", "Species", "Phylum"],
+      "correctAnswer": "Genus"
+    },
+    {
+      "id": 22,
+      "question": "Amphibians live both in water and on land, but they are not fully adapted to terrestrial life. Which feature supports this statement?",
+      "options": [
+        "They have dry skin with scales to prevent water loss",
+        "They lay jelly-covered eggs in water and have moist skin",
+        "They breathe only through gills throughout their life",
+        "They produce eggs with hard waterproof shells on land"
+      ],
+      "correctAnswer": "They lay jelly-covered eggs in water and have moist skin"
+    },
+    {
+      "id": 23,
+      "question": "Gymnosperms are called 'naked seed' plants because:",
+      "options": [
+        "They produce flowers but no seeds",
+        "Their seeds are not enclosed in a fruit",
+        "They reproduce through spores only",
+        "They lack vascular tissue for transport"
+      ],
+      "correctAnswer": "Their seeds are not enclosed in a fruit"
+    },
+    {
+      "id": 24,
+      "question": "Birds and mammals are both homoeothermic, but they differ in reproduction. Which statement correctly distinguishes them?",
+      "options": [
+        "Birds give birth to live young; mammals lay eggs",
+        "Birds lay eggs with hard shells; mammals produce live young",
+        "Birds have mammary glands; mammals have feathers",
+        "Birds are cold-blooded; mammals are warm-blooded"
+      ],
+      "correctAnswer": "Birds lay eggs with hard shells; mammals produce live young"
+    },
+    {
+      "id": 25,
+      "question": "Protists can be classified as animal-like or plant-like. Which feature distinguishes plant-like protists (protophyta) from animal-like protists (protozoans)?",
+      "options": [
+        "They are multicellular while protozoans are unicellular",
+        "They have cell walls and chloroplasts for photosynthesis",
+        "They reproduce only sexually while protozoans reproduce asexually",
+        "They are prokaryotic while protozoans are eukaryotic"
+      ],
+      "correctAnswer": "They have cell walls and chloroplasts for photosynthesis"
+    },
+    {
+      "id": 26,
+      "question": "Ancient Greek philosopher Aristotle (384-322 B.C.) used physical evidence to argue for a spherical Earth. Which two observations did he specifically cite?",
+      "options": [
+        "Lunar eclipses and space photographs",
+        "Ships disappearing hull-first and different constellations at different latitudes",
+        "Sunrise and sunset times and satellite images",
+        "Circumnavigation and the curved horizon from mountains"
+      ],
+      "correctAnswer": "Ships disappearing hull-first and different constellations at different latitudes"
+    },
+    {
+      "id": 27,
+      "question": "The equatorial circumference of Earth is 40,075 km, but the polar circumference is only 40,008 km. This difference is best explained by:",
+      "options": [
+        "The gravitational pull of the moon stretching the equator",
+        "Earth's rotation causing an equatorial bulge",
+        "Continental drift pushing material toward the equator",
+        "The tilt of Earth's axis compressing the poles"
+      ],
+      "correctAnswer": "Earth's rotation causing an equatorial bulge"
+    },
+    {
+      "id": 28,
+      "question": "An airplane is cruising at an altitude of 12 km near the equator. Based on the text, which atmospheric layer is the airplane flying in?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "correctAnswer": "Troposphere"
+    },
+    {
+      "id": 29,
+      "question": "Ozone in the stratosphere absorbs ultraviolet (UV) radiation from the sun. According to the text, what direct health benefit does this provide?",
+      "options": [
+        "It warms the Earth's surface for agriculture",
+        "It protects us from skin cancer and other health damage",
+        "It prevents acid rain from forming",
+        "It increases oxygen levels in the troposphere"
+      ],
+      "correctAnswer": "It protects us from skin cancer and other health damage"
+    },
+    {
+      "id": 30,
+      "question": "Two ships are approaching an observer along the same line of sight, maintaining a considerable distance between them. If the Earth's surface were flat, the observer would see:",
+      "options": [
+        "Only the front ship because it blocks the back ship",
+        "Both ships at the same time",
+        "The back ship before the front ship",
+        "Neither ship until they are very close"
+      ],
+      "correctAnswer": "Both ships at the same time"
+    },
+    {
+      "id": 31,
+      "question": "In the nitrogen cycle, which step is the only one NOT carried out by bacteria?",
+      "options": ["Nitrogen fixation", "Nitrification", "Assimilation", "Denitrification"],
+      "correctAnswer": "Assimilation"
+    },
+    {
+      "id": 32,
+      "question": "During a lunar eclipse, Earth's shadow on the moon is always circular. What does this phenomenon demonstrate about Earth?",
+      "options": [
+        "Earth is rotating on its axis",
+        "Earth has a spherical shape",
+        "Earth is closer to the moon than the sun",
+        "Earth's atmosphere bends light around it"
+      ],
+      "correctAnswer": "Earth has a spherical shape"
+    },
+    {
+      "id": 33,
+      "question": "Earth's average distance from the sun is defined as one astronomical unit (AU). Approximately what is this distance?",
+      "options": [
+        "40,075 km",
+        "1.496 × 10^8 km",
+        "12,756 km",
+        "150 million km"
+      ],
+      "correctAnswer": "1.496 × 10^8 km"
+    },
+    {
+      "id": 34,
+      "question": "The Earth rotates from west to east. If it is currently noon in a city located at 45° East longitude, what time is it at the Prime Meridian (0° longitude)?",
+      "options": [
+        "3:00 PM the same day",
+        "9:00 AM the same day",
+        "3:00 AM the next day",
+        "12:00 PM the same day"
+      ],
+      "correctAnswer": "9:00 AM the same day"
+    },
+    {
+      "id": 35,
+      "question": "In the water cycle, water returns to the atmosphere as vapor through two main processes. These are:",
+      "options": [
+        "Condensation and precipitation",
+        "Evaporation and transpiration",
+        "Precipitation and runoff",
+        "Transpiration and condensation"
+      ],
+      "correctAnswer": "Evaporation and transpiration"
+    },
+    {
+      "id": 36,
+      "question": "During the Northern Hemisphere summer (June to August), the North Pole points toward the sun. What season is occurring in the Southern Hemisphere during these months?",
+      "options": ["Summer", "Winter", "Spring", "Fall"],
+      "correctAnswer": "Winter"
+    },
+    {
+      "id": 37,
+      "question": "The crust is the thinnest layer of Earth. Which statement correctly compares oceanic and continental crust?",
+      "options": [
+        "Oceanic crust is thicker and made of granite",
+        "Continental crust is denser and made of basalt",
+        "Oceanic crust is denser and thinner than continental crust",
+        "Both types of crust have the same thickness and composition"
+      ],
+      "correctAnswer": "Oceanic crust is denser and thinner than continental crust"
+    },
+    {
+      "id": 38,
+      "question": "A ball thrown horizontally from a height follows a curved path as it falls toward the ground. According to the text, this type of motion is called:",
+      "options": ["Rectilinear motion", "Rotary motion", "Curvilinear motion", "Oscillatory motion"],
+      "correctAnswer": "Curvilinear motion"
+    },
+    {
+      "id": 39,
+      "question": "A soccer player kicks a stationary ball, causing it to move. Later, the same player kicks a moving ball at an angle, changing its direction. Which two effects of force are demonstrated?",
+      "options": [
+        "Change of shape and change of speed",
+        "Move a stationary object and change direction of a moving object",
+        "Stop a moving object and change its shape",
+        "Change speed and stop a moving object"
+      ],
+      "correctAnswer": "Move a stationary object and change direction of a moving object"
+    },
+    {
+      "id": 40,
+      "question": "Before using a spring balance (Newton meter) to measure force, what must the user do first?",
+      "options": [
+        "Oil the spring to reduce friction",
+        "Check that the force meter reads zero",
+        "Attach the hook to the heaviest object available",
+        "Warm the spring to room temperature"
+      ],
+      "correctAnswer": "Check that the force meter reads zero"
+    },
+    {
+      "id": 41,
+      "question": "According to the text, which transducer converts chemical energy into electrical energy?",
+      "options": ["Generator", "Motor", "Battery", "Microphone"],
+      "correctAnswer": "Battery"
+    },
+    {
+      "id": 42,
+      "question": "A student squeezes a toothpaste tube, changing its shape, and toothpaste is forced out through the opening. This action demonstrates which effects of force?",
+      "options": [
+        "Change speed and stop a moving object",
+        "Change shape and move a stationary object",
+        "Change direction and change speed",
+        "Start a stationary object and stop a moving object"
+      ],
+      "correctAnswer": "Change shape and move a stationary object"
+    },
+    {
+      "id": 43,
+      "question": "Non-renewable energy sources are considered more harmful to the environment than renewable sources primarily because:",
+      "options": [
+        "They are more expensive to extract and use",
+        "They have a comparatively higher carbon footprint and carbon emissions",
+        "They cannot be transported easily",
+        "They produce only heat and no usable electricity"
+      ],
+      "correctAnswer": "They have a comparatively higher carbon footprint and carbon emissions"
+    },
+    {
+      "id": 44,
+      "question": "A spinning top rotates on its own axis, while a simple pendulum swings back and forth. These are examples of which two types of motion, respectively?",
+      "options": [
+        "Curvilinear and rectilinear",
+        "Rotary and oscillatory",
+        "Oscillatory and rotary",
+        "Rectilinear and curvilinear"
+      ],
+      "correctAnswer": "Rotary and oscillatory"
+    },
+    {
+      "id": 45,
+      "question": "According to the text, which device transforms mechanical energy into electrical energy?",
+      "options": ["Battery", "Motor", "Solar panel", "Generator"],
+      "correctAnswer": "Generator"
+    },
+    {
+      "id": 46,
+      "question": "The text lists three R's for energy conservation. Which of the three is described as 'the best way to conserve natural resources and reduce pollution'?",
+      "options": ["Recycle", "Reuse", "Reduce", "Replace"],
+      "correctAnswer": "Reduce"
+    },
+    {
+      "id": 47,
+      "question": "Energy cannot be created or destroyed, but it can be converted from one form to another. A device that transforms energy from one form to another is called a:",
+      "options": ["Generator", "Transducer", "Motor", "Converter"],
+      "correctAnswer": "Transducer"
+    },
+    {
+      "id": 48,
+      "question": "Gravitational force is classified as a non-contact force. Which other forces are also classified as non-contact forces in the text?",
+      "options": [
+        "Spring and frictional forces",
+        "Magnetic and electrical forces",
+        "Collision and elastic forces",
+        "Tension and compression forces"
+      ],
+      "correctAnswer": "Magnetic and electrical forces"
+    },
+    {
+      "id": 49,
+      "question": "Both resource depletion and environmental degradation are caused by human activities. Which factor is listed in the text as a cause of BOTH resource depletion and environmental degradation?",
+      "options": ["Mining", "Deforestation", "Waste", "Erosion"],
+      "correctAnswer": "Deforestation"
+    },
+    {
+      "id": 50,
+      "question": "A car moving along a straight road speeds up when the driver presses the accelerator and slows down when the driver applies the brakes. According to the text, these actions demonstrate that force can:",
+      "options": [
+        "Move a stationary object and change its shape",
+        "Change the speed of a moving object and stop a moving object",
+        "Change direction and change the shape of an object",
+        "Start a stationary object and change its direction"
+      ],
+      "correctAnswer": "Change the speed of a moving object and stop a moving object"
+    }
+  ]
+}
