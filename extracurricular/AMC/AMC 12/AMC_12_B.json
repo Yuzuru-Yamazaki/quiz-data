@@ -1,0 +1,416 @@
+{
+  "title": "AMC 12 B",
+  "description": "AMC problems from AMC 12 B",
+  "folder": "extracurricular/AMC/AMC 12",
+  "field": "neutral",
+  "anki": true,
+  "tags": [
+    "math",
+    "olympiad",
+    "AMC"
+  ],
+  "questions": [
+    {
+      "question": "What is the sum of all possible values of $t$ between $0$ and $360$ such that the triangle in the coordinate plane whose vertices are $(\\cos 40^\\circ, \\sin 40^\\circ)$, $(\\cos 60^\\circ, \\sin 60^\\circ)$, and $(\\cos t^\\circ, \\sin t^\\circ)$ is isosceles?",
+      "options": [
+        "100",
+        "150",
+        "330",
+        "360",
+        "380"
+      ],
+      "correctAnswer": "380",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Circles",
+        "Geometry > Plane Geometry > Miscellaneous > Angle chasing"
+      ]
+    },
+    {
+      "question": "What is the sum of all possible values of $t$ between $0$ and $360$ such that the triangle in the coordinate plane whose vertices are $(\\cos 40^\\circ, \\sin 40^\\circ)$, $(\\cos 60^\\circ, \\sin 60^\\circ)$, and $(\\cos t^\\circ, \\sin t^\\circ)$ is isosceles?",
+      "options": [
+        "100",
+        "150",
+        "330",
+        "360",
+        "380"
+      ],
+      "correctAnswer": "380",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Trigonometry",
+        "Geometry > Plane Geometry > Miscellaneous > Constructions and loci"
+      ]
+    },
+    {
+      "question": "For $n$ a positive integer, let $f(n)$ be the quotient obtained when the sum of all positive divisors of $n$ is divided by $n$. For example, $f(14) = (1 + 2 + 7 + 14) \\div 14 = \\frac{12}{7}$. What is $f(768) - f(384)$ ?",
+      "options": [
+        "$\\frac{1}{768}$",
+        "$\\frac{1}{192}$",
+        "1",
+        "$\\frac{4}{3}$",
+        "$\\frac{8}{3}$"
+      ],
+      "correctAnswer": "$\\frac{1}{192}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Number-Theoretic Functions > σ (sum of divisors)",
+        "Number Theory > Divisibility / Factorization > Factorization techniques"
+      ]
+    },
+    {
+      "question": "For $n$ a positive integer, let $f(n)$ be the quotient obtained when the sum of all positive divisors of $n$ is divided by $n$. For example, $f(14) = (1 + 2 + 7 + 14) \\div 14 = \\frac{12}{7}$. What is $f(768) - f(384)$?",
+      "options": [
+        "$\\frac{1}{768}$",
+        "$\\frac{1}{192}$",
+        "1",
+        "$\\frac{4}{3}$",
+        "$\\frac{8}{3}$"
+      ],
+      "correctAnswer": "$\\frac{1}{192}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Number-Theoretic Functions > σ (sum of divisors)",
+        "Number Theory > Divisibility / Factorization > Factorization techniques"
+      ]
+    },
+    {
+      "question": "Let $c = \\frac{2\\pi}{11}$. What is the value of\n$$\n\\frac{\\sin 3c \\cdot \\sin 6c \\cdot \\sin 9c \\cdot \\sin 12c \\cdot \\sin 15c}{\\sin c \\cdot \\sin 2c \\cdot \\sin 3c \\cdot \\sin 4c \\cdot \\sin 5c} ?\n$$",
+      "options": [
+        "$-1$",
+        "$-\\frac{\\sqrt{11}}{5}$",
+        "$\\frac{\\sqrt{11}}{5}$",
+        "$\\frac{10}{11}$",
+        "$1$"
+      ],
+      "correctAnswer": "$1$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Precalculus > Trigonometric functions"
+      ]
+    },
+    {
+      "question": "Let $c = \\frac{2\\pi}{11}$. What is the value of\n$$\n\\frac{\\sin 3c \\cdot \\sin 6c \\cdot \\sin 9c \\cdot \\sin 12c \\cdot \\sin 15c}{\\sin c \\cdot \\sin 2c \\cdot \\sin 3c \\cdot \\sin 4c \\cdot \\sin 5c} ?\n$$",
+      "options": [
+        "-1",
+        "$-\\frac{\\sqrt{11}}{5}$",
+        "$\\frac{\\sqrt{11}}{5}$",
+        "$\\frac{10}{11}$",
+        "1"
+      ],
+      "correctAnswer": "1",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Trigonometry"
+      ]
+    },
+    {
+      "question": "Suppose that $P(z)$, $Q(z)$, and $R(z)$ are polynomials with real coefficients, having degrees $2$, $3$, and $6$, respectively, and constant terms $1$, $2$, and $3$, respectively. Let $N$ be the number of distinct complex numbers $z$ that satisfy the equation $P(z) \\cdot Q(z) = R(z)$. What is the minimum possible value of $N$?\n$",
+      "options": [
+        "\\ 0\\ \\",
+        "\\ 1\\ \\",
+        "\\ 2\\ \\",
+        "\\ 3\\ \\",
+        "\\ 5$"
+      ],
+      "correctAnswer": "\\ 1\\ \\",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Polynomials > Polynomial operations"
+      ]
+    },
+    {
+      "question": "Suppose $a$, $b$, and $c$ are positive integers such that $a + b + c = 23$ and $\\gcd(a, b) + \\gcd(b, c) + \\gcd(c, a) = 9$. What is the sum of all possible distinct values of $a^2 + b^2 + c^2$?",
+      "options": [
+        "259",
+        "438",
+        "516",
+        "625",
+        "687"
+      ],
+      "correctAnswer": "438",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Divisibility / Factorization > Greatest common divisors (gcd)",
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "Set $u_0 = \\frac{1}{4}$, and for $k \\ge 0$ let $u_{k+1}$ be determined by the recurrence $u_{k+1} = 2u_k - 2u_k^2$. This sequence tends to a limit; call it $L$. What is the least value of $k$ such that\n$$\n|u_k - L| \\le \\frac{1}{2^{1000}}?\n$$",
+      "options": [
+        "10",
+        "97",
+        "123",
+        "329",
+        "401"
+      ],
+      "correctAnswer": "10",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Sequences and Series > Recurrence relations"
+      ]
+    },
+    {
+      "question": "For real numbers $x$, let\n$$P(x) = 1 + \\cos(x) + i \\sin(x) - \\cos(2x) - i \\sin(2x) + \\cos(3x) + i \\sin(3x),$$\nwhere $i = \\sqrt{-1}$. For how many values of $x$ with $0 \\le x < 2\\pi$ does $P(x) = 0$?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "0",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Intermediate Algebra > Complex numbers"
+      ]
+    },
+    {
+      "question": "Right triangle $ABC$ has side lengths $BC = 6$, $AC = 8$, and $AB = 10$. A circle centered at $O$ is tangent to line $BC$ at $B$ and passes through $A$. A circle centered at $P$ is tangent to line $AC$ at $A$ and passes through $B$. What is $OP$?",
+      "options": [
+        "$\\frac{23}{8}$",
+        "$\\frac{29}{10}$",
+        "$\\frac{35}{12}$",
+        "$\\frac{73}{25}$",
+        "3"
+      ],
+      "correctAnswer": "$\\frac{35}{12}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Circles > Tangents",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates",
+        "Geometry > Plane Geometry > Miscellaneous > Angle chasing"
+      ]
+    },
+    {
+      "question": "Right triangle $ABC$ has side lengths $BC = 6$, $AC = 8$, and $AB = 10$. A circle centered at $O$ is tangent to line $BC$ at $B$ and passes through $A$. A circle centered at $P$ is tangent to line $AC$ at $A$ and passes through $B$. What is $OP$?",
+      "options": [
+        "$\\frac{23}{8}$",
+        "$\\frac{29}{10}$",
+        "$\\frac{35}{12}$",
+        "$\\frac{73}{25}$",
+        "$3$"
+      ],
+      "correctAnswer": "$\\frac{35}{12}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Circles > Tangents",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates",
+        "Geometry > Plane Geometry > Miscellaneous > Distance chasing"
+      ]
+    },
+    {
+      "question": "What is the average number of pairs of consecutive integers in a randomly selected subset of $5$ distinct integers chosen from the set $\\{1, 2, 3, \\ldots, 30\\}$? (For example, the set $\\{1, 17, 18, 19, 30\\}$ has $2$ pairs of consecutive integers.)",
+      "options": [
+        "$\\frac{2}{3}$ \\quad",
+        "$\\frac{29}{36}$ \\quad",
+        "$\\frac{5}{6}$ \\quad",
+        "$\\frac{29}{30}$ \\quad",
+        "$1$"
+      ],
+      "correctAnswer": "$\\frac{2}{3}$ \\quad",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Expected values"
+      ]
+    },
+    {
+      "question": "Triangle $ABC$ has side lengths $AB = 11$, $BC = 24$, and $CA = 20$. The bisector of $\\angle BAC$ intersects $\\overline{BC}$ in point $D$ and intersects the circumcircle of $\\triangle ABC$ in point $E \\neq A$. The circumcircle of $\\triangle BED$ intersects the line $AB$ in points $B$ and $F \\neq B$. What is $CF$?",
+      "options": [
+        "28",
+        "$20\\sqrt{2}$",
+        "30",
+        "32",
+        "$20\\sqrt{3}$"
+      ],
+      "correctAnswer": "30",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates",
+        "Geometry > Plane Geometry > Triangles",
+        "Geometry > Plane Geometry > Circles",
+        "Geometry > Plane Geometry > Miscellaneous > Distance chasing"
+      ]
+    },
+    {
+      "question": "For $n$ a positive integer, let $R(n)$ be the sum of remainders when $n$ is divided by $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$, and $10$. For example, $R(15) = 1 + 0 + 3 + 0 + 3 + 1 + 7 + 6 + 5 = 26$. How many two-digit positive integers $n$ satisfy $R(n) = R(n + 1)$?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Divisibility / Factorization > Least common multiples (lcm)"
+      ]
+    },
+    {
+      "question": "At noon on a certain day, Minneapolis is $N$ degrees warmer than St. Louis. At 4:00 the temperature in Minneapolis has fallen by $5$ degrees while the temperature in St. Louis has risen by $3$ degrees, at which time the temperatures in the two cities differ by $2$ degrees. What is the product of all possible values of $N$?",
+      "options": [
+        "$10$",
+        "$30$",
+        "$60$",
+        "$100$",
+        "$120$"
+      ],
+      "correctAnswer": "$60$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Simple Equations"
+      ]
+    },
+    {
+      "question": "Let $n = 8^{2022}$. Which of the following is equal to $\\frac{n}{4}$?",
+      "options": [
+        "$4^{1010}$",
+        "$2^{2022}$",
+        "$8^{2018}$",
+        "$4^{3031}$",
+        "$4^{3032}$"
+      ],
+      "correctAnswer": "$4^{3032}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Intermediate Algebra > Exponential functions"
+      ]
+    },
+    {
+      "question": "Call a fraction $\\frac{a}{b}$, not necessarily in simplest form, *special* if $a$ and $b$ are positive integers whose sum is $15$. How many distinct integers can be written as the sum of two, not necessarily different, special fractions?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": "11",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Fractions"
+      ]
+    },
+    {
+      "question": "The greatest prime number that is a divisor of $16,384$ is $2$ because $16,384 = 2^{14}$. What is the sum of the digits of the greatest prime number that is a divisor of $16,383$?",
+      "options": [
+        "3",
+        "7",
+        "10",
+        "16",
+        "22"
+      ],
+      "correctAnswer": "10",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Divisibility / Factorization > Factorization techniques",
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "Which of the following conditions is sufficient to guarantee that integers $x$, $y$, and $z$ satisfy the equation\n$$\nx(x - y) + y(y - z) + z(z - x) = 1?\n$$",
+      "options": [
+        "$x > y$ and $y = z$",
+        "$x = y - 1$ and $y = z - 1$",
+        "$x = z + 1$ and $y = x + 1$",
+        "$x = z$ and $y - 1 = x$",
+        "$x + y + z = 1$"
+      ],
+      "correctAnswer": "$x = z$ and $y - 1 = x$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Polynomials > Polynomial operations",
+        "Number Theory > Diophantine Equations > Techniques: modulo, size analysis, order analysis, inequalities"
+      ]
+    },
+    {
+      "question": "Which of the following conditions is sufficient to guarantee that integers $x$, $y$, and $z$ satisfy the equation\n$$\nx(x - y) + y(y - z) + z(z - x) = 1?\n$$",
+      "options": [
+        "$x > y$ and $y = z$",
+        "$x = y - 1$ and $y = z - 1$",
+        "$x = z + 1$ and $y = x + 1$",
+        "$x = z$ and $y - 1 = x$",
+        "$x + y + z = 1$"
+      ],
+      "correctAnswer": "$x = z$ and $y - 1 = x$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Polynomials > Symmetric functions",
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "The product of the lengths of the two congruent sides of an obtuse isosceles triangle is equal to the product of the base and twice the triangle's height to the base. What is the measure, in degrees, of the vertex angle of this triangle?",
+      "options": [
+        "105",
+        "120",
+        "135",
+        "150",
+        "165"
+      ],
+      "correctAnswer": "150",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry"
+      ]
+    },
+    {
+      "question": "The product of the lengths of the two congruent sides of an obtuse isosceles triangle is equal to the product of the base and twice the triangle's height to the base. What is the measure, in degrees, of the vertex angle of this triangle?",
+      "options": [
+        "105",
+        "120",
+        "135",
+        "150",
+        "165"
+      ],
+      "correctAnswer": "150",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry"
+      ]
+    },
+    {
+      "question": "Triangle $ABC$ is equilateral with side length $6$. Suppose that $O$ is the center of the inscribed circle of this triangle. What is the area of the circle passing through $A$, $O$, and $C$?",
+      "options": [
+        "$9\\pi$",
+        "$12\\pi$",
+        "$18\\pi$",
+        "$24\\pi$",
+        "$27\\pi$"
+      ],
+      "correctAnswer": "$12\\pi$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles > Triangle centers: centroid, incenter, circumcenter, orthocenter, Euler line, nine-point circle",
+        "Geometry > Plane Geometry > Circles",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates",
+        "Geometry > Plane Geometry > Miscellaneous > Distance chasing"
+      ]
+    }
+  ]
+}

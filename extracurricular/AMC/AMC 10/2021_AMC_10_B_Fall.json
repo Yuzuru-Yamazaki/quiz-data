@@ -1,0 +1,150 @@
+{
+  "title": "2021 AMC 10 B Fall",
+  "description": "AMC problems from 2021 AMC 10 B Fall",
+  "folder": "extracurricular/AMC/AMC 10",
+  "field": "neutral",
+  "anki": true,
+  "tags": [
+    "math",
+    "olympiad",
+    "AMC"
+  ],
+  "questions": [
+    {
+      "question": "A regular hexagon of side length $1$ is inscribed in a circle. Each minor arc of the circle determined by a side of the hexagon is reflected over that side. What is the area of the region bounded by these $6$ reflected arcs?",
+      "options": [
+        "$\\frac{5\\sqrt{3}}{2} - \\pi$",
+        "$3\\sqrt{3} - \\pi$",
+        "$4\\sqrt{3} - \\frac{3\\pi}{2}$",
+        "$\\pi - \\frac{\\sqrt{3}}{2}$",
+        "$\\frac{\\pi + \\sqrt{3}}{2}$"
+      ],
+      "correctAnswer": "$3\\sqrt{3} - \\pi$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Circles",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Trigonometry"
+      ]
+    },
+    {
+      "question": "Which of the following conditions is sufficient to guarantee that integers $x$, $y$, and $z$ satisfy the equation\n$$\nx(x - y) + y(y - z) + z(z - x) = 1?\n$$",
+      "options": [
+        "$x > y$ and $y = z$",
+        "$x = y - 1$ and $y = z - 1$",
+        "$x = z + 1$ and $y = x + 1$",
+        "$x = z$ and $y - 1 = x$",
+        "$x + y + z = 1$"
+      ],
+      "correctAnswer": "$x = z$ and $y - 1 = x$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Polynomials > Polynomial operations",
+        "Algebra > Algebraic Expressions > Polynomials > Symmetric functions",
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "A square with side length $3$ is inscribed in an isosceles triangle with one side of the square along the base of the triangle. A square with side length $2$ has two vertices on the other square and the other two on sides of the triangle, as shown. What is the area of the triangle?\n![](attached_image_1.png)",
+      "options": [
+        "$19\\frac{1}{4}$",
+        "$20\\frac{1}{4}$",
+        "$21\\frac{3}{4}$",
+        "$22\\frac{1}{2}$",
+        "$23\\frac{3}{4}$"
+      ],
+      "correctAnswer": "$20\\frac{1}{4}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Quadrilaterals > Inscribed/circumscribed quadrilaterals",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates"
+      ]
+    },
+    {
+      "question": "Five balls are arranged around a circle. Chris chooses two adjacent balls at random and interchanges them. Then Silva does the same, with her choice of adjacent balls to interchange being independent of Chris's. What is the expected number of balls that occupy their original positions after these two successive transpositions?",
+      "options": [
+        "1.6",
+        "1.8",
+        "2.0",
+        "2.2",
+        "2.4"
+      ],
+      "correctAnswer": "2.2",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Expected values"
+      ]
+    },
+    {
+      "question": "Let $N$ be the positive integer $7777\\ldots777$, a $313$-digit number where each digit is a $7$. Let $f(r)$ be the leading digit of the $r$th root of $N$. What is $f(2) + f(3) + f(4) + f(5) + f(6)$?",
+      "options": [
+        "8",
+        "9",
+        "11",
+        "22",
+        "29"
+      ],
+      "correctAnswer": "8",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Intermediate Algebra > Logarithmic functions",
+        "Algebra > Intermediate Algebra > Exponential functions",
+        "Algebra > Prealgebra / Basic Algebra > Decimals"
+      ]
+    },
+    {
+      "question": "For each integer $n \\ge 2$, let $S_n$ be the sum of all products $jk$, where $j$ and $k$ are integers and $1 \\le j < k \\le n$. What is the sum of the 10 least values of $n$ such that $S_n$ is divisible by 3?",
+      "options": [
+        "196",
+        "197",
+        "198",
+        "199",
+        "200"
+      ],
+      "correctAnswer": "197",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Modular Arithmetic > Inverses mod n",
+        "Algebra > Algebraic Expressions > Sequences and Series > Sums and products"
+      ]
+    },
+    {
+      "question": "The least positive integer with exactly $2021$ distinct positive divisors can be written in the form $m \\cdot 6^k$, where $m$ and $k$ are integers and $6$ is not a divisor of $m$. What is $m + k$?",
+      "options": [
+        "$47$",
+        "$58$",
+        "$59$",
+        "$88$",
+        "$90$"
+      ],
+      "correctAnswer": "$58$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Number-Theoretic Functions > τ (number of divisors)",
+        "Number Theory > Divisibility / Factorization > Factorization techniques"
+      ]
+    },
+    {
+      "question": "The knights in a certain kingdom come in two colors: $\\frac{2}{7}$ of them are red, and the rest are blue. Furthermore, $\\frac{1}{6}$ of the knights are magical, and the fraction of red knights who are magical is 2 times the fraction of blue knights who are magical. What fraction of red knights are magical?",
+      "options": [
+        "$\\frac{2}{9}$",
+        "$\\frac{3}{13}$",
+        "$\\frac{7}{27}$",
+        "$\\frac{2}{7}$",
+        "$\\frac{1}{3}$"
+      ],
+      "correctAnswer": "$\\frac{7}{27}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Fractions"
+      ]
+    }
+  ]
+}

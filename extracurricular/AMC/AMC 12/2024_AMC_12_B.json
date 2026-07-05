@@ -1,0 +1,318 @@
+{
+  "title": "2024 AMC 12 B",
+  "description": "AMC problems from 2024 AMC 12 B",
+  "folder": "extracurricular/AMC/AMC 12",
+  "field": "neutral",
+  "anki": true,
+  "tags": [
+    "math",
+    "olympiad",
+    "AMC"
+  ],
+  "questions": [
+    {
+      "question": "Let $x_n = \\sin^2(n°)$. What is the mean of $x_1, x_2, x_3, \\dots, x_{90}$?",
+      "options": [
+        "$\\frac{11}{45}$",
+        "$\\frac{22}{45}$",
+        "$\\frac{89}{180}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{91}{180}$"
+      ],
+      "correctAnswer": "$\\frac{91}{180}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Sequences and Series > Sums and products"
+      ]
+    },
+    {
+      "question": "Suppose $z$ is a complex number with positive imaginary part, with real part greater than $1$, and with $|z| = 2$. In the complex plane, the four values $0$, $z$, $z^2$, and $z^3$ are the vertices of a quadrilateral with area $15$. What is the imaginary part of $z$?",
+      "options": [
+        "$\\frac{3}{4}$",
+        "$1$",
+        "$\\frac{4}{3}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{5}{3}$"
+      ],
+      "correctAnswer": "$\\frac{3}{2}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Complex numbers in geometry",
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry",
+        "Algebra > Intermediate Algebra > Complex numbers"
+      ]
+    },
+    {
+      "question": "There are real numbers $x$, $y$, $h$, and $k$ that satisfy the system of equations\n$$\n\\begin{aligned}\nx^2 + y^2 - 6x - 8y &= h \\\\\nx^2 + y^2 - 10x + 4y &= k.\n\\end{aligned}\n$$\nWhat is the minimum possible value of $h + k$?",
+      "options": [
+        "-54",
+        "-46",
+        "-34",
+        "-16",
+        "16"
+      ],
+      "correctAnswer": "-34",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Circles > Tangents",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates",
+        "Algebra > Intermediate Algebra > Quadratic functions",
+        "Algebra > Equations and Inequalities > Linear and quadratic inequalities"
+      ]
+    },
+    {
+      "question": "A triangle in the coordinate plane has vertices $A(\\log_2 1, \\log_2 2)$, $B(\\log_2 3, \\log_2 4)$, and $C(\\log_2 7, \\log_2 8)$. What is the area of $\\triangle ABC$?",
+      "options": [
+        "$\\log_2 \\frac{\\sqrt{3}}{7}$",
+        "$\\log_2 \\frac{3}{\\sqrt{7}}$",
+        "$\\log_2 \\frac{7}{\\sqrt{3}}$",
+        "$\\log_2 \\frac{11}{\\sqrt{7}}$",
+        "$\\log_2 \\frac{11}{\\sqrt{3}}$"
+      ],
+      "correctAnswer": "$\\log_2 \\frac{3}{\\sqrt{7}}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Vectors",
+        "Algebra > Linear Algebra > Determinants",
+        "Algebra > Linear Algebra > Vectors"
+      ]
+    },
+    {
+      "question": "Integers $a$ and $b$ are randomly chosen without replacement from the set of integers with absolute value not exceeding $10$. What is the probability that the polynomial $x^3 + a x^2 + b x + 6$ has $3$ distinct integer roots?",
+      "options": [
+        "$\\frac{1}{240}$",
+        "$\\frac{1}{221}$",
+        "$\\frac{1}{105}$",
+        "$\\frac{1}{84}$",
+        "$\\frac{1}{63}$"
+      ],
+      "correctAnswer": "$\\frac{1}{105}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Polynomials > Vieta's formulas",
+        "Number Theory > Divisibility / Factorization > Factorization techniques"
+      ]
+    },
+    {
+      "question": "Equilateral $\\triangle ABC$ with side length $14$ is rotated about its center by angle $\\theta$, where $0 < \\theta \\le 60^\\circ$, to form $\\triangle DEF$. See the figure. The area of hexagon $ADBECF$ is $91\\sqrt{3}$. What is $\\tan \\theta$?\n![](attached_image_1.png)",
+      "options": [
+        "$\\frac{3}{5}$",
+        "$\\frac{5\\sqrt{3}}{11}$",
+        "$\\frac{4}{5}$",
+        "$\\frac{11}{13}$",
+        "$\\frac{7\\sqrt{3}}{13}$"
+      ],
+      "correctAnswer": "$\\frac{5\\sqrt{3}}{11}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Transformations > Rotation",
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry",
+        "Geometry > Plane Geometry > Triangles > Triangle centers: centroid, incenter, circumcenter, orthocenter, Euler line, nine-point circle",
+        "Geometry > Plane Geometry > Miscellaneous > Angle chasing",
+        "Geometry > Plane Geometry > Miscellaneous > Distance chasing"
+      ]
+    },
+    {
+      "question": "Suppose $A$, $B$, and $C$ are points in the plane with $AB = 40$ and $AC = 42$, and let $x$ be the length of the line segment from $A$ to the midpoint of $BC$. Define a function $f$ by letting $f(x)$ be the area of $\\triangle ABC$. Then the domain of $f$ is an open interval $(p, q)$, and the maximum value of $f(x)$ occurs at $x = s$. What is $p + q + r + s$?",
+      "options": [
+        "909",
+        "910",
+        "911",
+        "912",
+        "913"
+      ],
+      "correctAnswer": "911",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles > Triangle inequalities",
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Vectors"
+      ]
+    },
+    {
+      "question": "The measures of the smallest angles of three different right triangles sum to $90^\\circ$. All three triangles have side lengths that are primitive Pythagorean triples. Two of them are $3$-$4$-$5$ and $5$-$12$-$13$. What is the perimeter of the third triangle?",
+      "options": [
+        "$40$",
+        "$126$",
+        "$154$",
+        "$176$",
+        "$208$"
+      ],
+      "correctAnswer": "$154$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Complex numbers in geometry",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Trigonometry"
+      ]
+    },
+    {
+      "question": "Let $\\triangle ABC$ be a triangle with integer side lengths and the property that $\\angle B = 2\\angle A$. What is the least possible perimeter of such a triangle?",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correctAnswer": "15",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry",
+        "Geometry > Plane Geometry > Geometric Inequalities > Triangle inequalities",
+        "Number Theory > Divisibility / Factorization > Greatest common divisors (gcd)",
+        "Number Theory > Divisibility / Factorization > Factorization techniques"
+      ]
+    },
+    {
+      "question": "A right pyramid has regular octagon $ABCDEFGH$ with side length $1$ as its base and apex $V$. Segments $\\overline{AV}$ and $\\overline{DV}$ are perpendicular. What is the square of the height of the pyramid?",
+      "options": [
+        "$1$ \\quad",
+        "$\\frac{1+\\sqrt{2}}{2}$ \\quad",
+        "$\\sqrt{2}$ \\quad",
+        "$\\frac{3}{2}$ \\quad",
+        "$\\frac{2+\\sqrt{2}}{3}$"
+      ],
+      "correctAnswer": "$\\frac{1+\\sqrt{2}}{2}$ \\quad",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Solid Geometry > 3D Shapes",
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Vectors",
+        "Algebra > Linear Algebra > Vectors"
+      ]
+    },
+    {
+      "question": "What is the number of ordered triples $(a, b, c)$ of positive integers, with $a \\le b \\le c \\le 9$, such that there exists a (non-degenerate) triangle $\\triangle ABC$ with an integer inradius for which $a, b$, and $c$ are the lengths of the altitudes from $A$ to $\\overline{BC}$, $B$ to $\\overline{AC}$, and $C$ to $\\overline{AB}$, respectively? (Recall that the inradius of a triangle is the radius of the largest possible circle that can be inscribed in the triangle.)",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "3",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles > Triangle centers: centroid, incenter, circumcenter, orthocenter, Euler line, nine-point circle",
+        "Geometry > Plane Geometry > Triangles > Triangle inequalities",
+        "Algebra > Prealgebra / Basic Algebra > Fractions"
+      ]
+    },
+    {
+      "question": "Pablo will decorate each of 6 identical white balls with either a striped or a dotted pattern, using either red or blue paint. He will decide on the color and pattern for each ball by flipping a fair coin for each of the 12 decisions he must make. After the paint dries, he will place the 6 balls in an urn. Frida will randomly select one ball from the urn and note its color and pattern. The events “the ball Frida selects is red” and “the ball Frida selects is striped” may or may not be independent, depending on the outcome of Pablo’s coin flips. The probability that these two events are independent can be written as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m$? (Recall that two events $A$ and $B$ are independent if $P(A \\text{ and } B) = P",
+      "options": [
+        "\\cdot P",
+        "$.)",
+        "243",
+        "245",
+        "247",
+        "249",
+        "251"
+      ],
+      "correctAnswer": "\\cdot P",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Statistics > Probability > Counting Methods > Combinations",
+        "Statistics > Probability > Counting Methods > Other"
+      ]
+    },
+    {
+      "question": "For how many integer values of $x$ is $|2x| \\le 7\\pi$?",
+      "options": [
+        "16",
+        "17",
+        "19",
+        "20",
+        "21"
+      ],
+      "correctAnswer": "21",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Equations and Inequalities > Linear and quadratic inequalities",
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "In the following expression, Melanie changed some of the plus signs to minus signs:\n$$\n1 + 3 + 5 + 7 + \\dots + 97 + 99.\n$$\nWhen the new expression was evaluated, it was negative. What is the least number of plus signs that Melanie could have changed to minus signs?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctAnswer": "15",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Sequences and Series > Sums and products",
+        "Algebra > Prealgebra / Basic Algebra > Integers",
+        "Algebra > Equations and Inequalities > Linear and quadratic inequalities"
+      ]
+    },
+    {
+      "question": "The national debt of the United States is on track to reach $5 \\times 10^{13}$ dollars by 2033. How many digits does this number of dollars have when written as a numeral in base 5? (The approximation of $\\log_{10} 5$ as 0.7 is sufficient for this problem.)",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correctAnswer": "20",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Intermediate Algebra > Logarithmic functions"
+      ]
+    },
+    {
+      "question": "In the figure below $WXYZ$ is a rectangle with $WX = 4$ and $WZ = 8$. Point $M$ lies on $\\overline{XY}$, point $A$ lies on $\\overline{YZ}$, and $\\angle WMA$ is a right angle. The areas of triangles $\\triangle WXM$ and $\\triangle WAZ$ are equal. What is the area of $\\triangle WMA$?\n![](attached_image_1.png)",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correctAnswer": "15",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry",
+        "Geometry > Plane Geometry > Miscellaneous > Distance chasing"
+      ]
+    },
+    {
+      "question": "What value of $x$ satisfies\n$$\n\\frac{\\log_2 x \\cdot \\log_3 x}{\\log_2 x + \\log_3 x} = 2?\n$$",
+      "options": [
+        "25",
+        "32",
+        "36",
+        "42",
+        "48"
+      ],
+      "correctAnswer": "36",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Intermediate Algebra > Logarithmic functions"
+      ]
+    }
+  ]
+}

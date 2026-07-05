@@ -1,0 +1,628 @@
+{
+  "title": "AMC 10 A",
+  "description": "AMC problems from AMC 10 A",
+  "folder": "extracurricular/AMC/AMC 10",
+  "field": "neutral",
+  "anki": true,
+  "tags": [
+    "math",
+    "olympiad",
+    "AMC"
+  ],
+  "questions": [
+    {
+      "question": "What is the value of $\\frac{(2112-2021)^2}{169}$?",
+      "options": [
+        "7",
+        "21",
+        "49",
+        "64",
+        "91"
+      ],
+      "correctAnswer": "49",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Integers",
+        "Algebra > Prealgebra / Basic Algebra > Fractions"
+      ]
+    },
+    {
+      "question": "Emily sees a ship traveling at a constant speed along a straight section of a river. She walks parallel to the riverbank at a uniform rate faster than the ship. She counts 210 equal steps walking from the back of the ship to the front. Walking in the opposite direction, she counts 42 steps of the same size from the front of the ship to the back. In terms of Emily's equal steps, what is the length of the ship?",
+      "options": [
+        "70",
+        "84",
+        "98",
+        "105",
+        "126"
+      ],
+      "correctAnswer": "70",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Simple Equations"
+      ]
+    },
+    {
+      "question": "Each of 6 balls is randomly and independently painted either black or white with equal probability. What is the probability that every ball is different in color from more than half of the other 5 balls?",
+      "options": [
+        "$\\frac{1}{64}$",
+        "$\\frac{1}{6}$",
+        "$\\frac{1}{4}$",
+        "$\\frac{5}{16}$",
+        "$\\frac{1}{2}$"
+      ],
+      "correctAnswer": "$\\frac{5}{16}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Statistics > Probability > Counting Methods > Combinations"
+      ]
+    },
+    {
+      "question": "How many ordered pairs $(x, y)$ of real numbers satisfy the following system of equations?\n$$\n\\begin{aligned}\nx^2 + 3y &= 9 \\\\\n(|x| + |y| - 4)^2 &= 1\n\\end{aligned}\n$$",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctAnswer": "5",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates",
+        "Geometry > Plane Geometry > Miscellaneous > Constructions and loci",
+        "Algebra > Intermediate Algebra > Quadratic functions"
+      ]
+    },
+    {
+      "question": "Isosceles triangle $ABC$ has $AB = AC = 3\\sqrt{6}$, and a circle with radius $5\\sqrt{2}$ is tangent to line $AB$ at $B$ and to line $AC$ at $C$. What is the area of the circle that passes through vertices $A$, $B$, and $C$?",
+      "options": [
+        "$24\\pi$",
+        "$25\\pi$",
+        "$26\\pi$",
+        "$27\\pi$",
+        "$28\\pi$"
+      ],
+      "correctAnswer": "$26\\pi$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Circles > Tangents",
+        "Geometry > Plane Geometry > Quadrilaterals > Cyclic quadrilaterals",
+        "Geometry > Plane Geometry > Triangles > Triangle centers: centroid, incenter, circumcenter, orthocenter, Euler line, nine-point circle",
+        "Geometry > Plane Geometry > Miscellaneous > Angle chasing",
+        "Geometry > Plane Geometry > Miscellaneous > Distance chasing"
+      ]
+    },
+    {
+      "question": "The graph of $f(x) = |\\lfloor x \\rfloor| - |\\lfloor 1-x \\rfloor|$ is symmetric about which of the following? (Here $\\lfloor x \\rfloor$ is the greatest integer not exceeding $x$.)",
+      "options": [
+        "the $y$-axis",
+        "the line $x = 1$",
+        "the origin",
+        "the point $(\\frac{1}{2}, 0)$",
+        "the point $(1, 0)$"
+      ],
+      "correctAnswer": "the point $(\\frac{1}{2}, 0)$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Sequences and Series > Floors and ceilings"
+      ]
+    },
+    {
+      "question": "An architect is building a structure that will place vertical pillars at the vertices of regular hexagon $ABCDEF$, which is lying horizontally on the ground. The six pillars will hold up a flat solar panel that will not be parallel to the ground. The heights of the pillars at $A$, $B$, and $C$ are $12$, $9$, and $10$ meters, respectively. What is the height, in meters, of the pillar at $E$?",
+      "options": [
+        "$9$",
+        "$6\\sqrt{3}$",
+        "$8\\sqrt{3}$",
+        "$17$",
+        "$12\\sqrt{3}$"
+      ],
+      "correctAnswer": "$17$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry",
+        "Geometry > Plane Geometry > Miscellaneous > Distance chasing"
+      ]
+    },
+    {
+      "question": "An architect is building a structure that will place vertical pillars at the vertices of regular hexagon $ABCDEF$, which is lying horizontally on the ground. The six pillars will hold up a flat solar panel that will not be parallel to the ground. The heights of the pillars at $A$, $B$, and $C$ are $12$, $9$, and $10$ meters, respectively. What is the height, in meters, of the pillar at $E$?",
+      "options": [
+        "$9$",
+        "$6\\sqrt{3}$",
+        "$8\\sqrt{3}$",
+        "$17$",
+        "$12\\sqrt{3}$"
+      ],
+      "correctAnswer": "$17$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Vectors"
+      ]
+    },
+    {
+      "question": "A farmer's rectangular field is partitioned into a $2$ by $2$ grid of $4$ rectangular sections as shown in the figure. In each section the farmer will plant one crop: corn, wheat, soybeans, or potatoes. The farmer does not want to grow corn and wheat in any two sections that share a border, and the farmer does not want to grow soybeans and potatoes in any two sections that share a border. Given these restrictions, in how many ways can the farmer choose crops to plant in each of the four sections of the field?\n![](attached_image_1.png)",
+      "options": [
+        "$12$",
+        "$64$",
+        "$84$",
+        "$90$",
+        "$144$"
+      ],
+      "correctAnswer": "$84$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Coloring schemes, extremal arguments",
+        "Algebra > Linear Algebra > Matrices"
+      ]
+    },
+    {
+      "question": "A disk of radius $1$ rolls all the way around the inside of a square of side length $s > 4$ and sweeps out a region of area $A$. A second disk of radius $1$ rolls all the way around the outside of the same square and sweeps out a region of area $2A$. The value of $s$ can be written as $a + \\frac{b\\pi}{c}$, where $a$, $b$, and $c$ are positive integers and $b$ and $c$ are relatively prime. What is $a + b + c$?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": "10",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Circles > Tangents",
+        "Geometry > Plane Geometry > Miscellaneous > Constructions and loci"
+      ]
+    },
+    {
+      "question": "Inside a right circular cone with base radius $5$ and height $12$ are three congruent spheres each with radius $r$. Each sphere is tangent to the other two spheres and also tangent to the base and side of the cone. What is $r$?",
+      "options": [
+        "$\\frac{3}{2}$",
+        "$\\frac{90 - 40\\sqrt{3}}{11}$",
+        "$2$",
+        "$\\frac{144 - 25\\sqrt{3}}{44}$",
+        "$\\frac{5}{2}$"
+      ],
+      "correctAnswer": "$\\frac{90 - 40\\sqrt{3}}{11}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Solid Geometry > 3D Shapes",
+        "Geometry > Plane Geometry > Circles > Tangents",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates",
+        "Geometry > Plane Geometry > Triangles > Triangle centers: centroid, incenter, circumcenter, orthocenter, Euler line, nine-point circle"
+      ]
+    },
+    {
+      "question": "Inside a right circular cone with base radius $5$ and height $12$ are three congruent spheres each with radius $r$. Each sphere is tangent to the other two spheres and also tangent to the base and side of the cone. What is $r$?",
+      "options": [
+        "$\\frac{3}{2}$",
+        "$\\frac{90 - 40\\sqrt{3}}{11}$",
+        "$2$",
+        "$\\frac{144 - 25\\sqrt{3}}{44}$",
+        "$\\frac{5}{2}$"
+      ],
+      "correctAnswer": "$\\frac{90 - 40\\sqrt{3}}{11}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Solid Geometry > 3D Shapes",
+        "Geometry > Plane Geometry > Miscellaneous > Distance chasing"
+      ]
+    },
+    {
+      "question": "Each of the 12 edges of a cube is labeled $0$ or $1$. Two labelings are considered different even if one can be obtained from the other by a sequence of one or more rotations and/or reflections. For how many such labelings is the sum of the labels on the edges of each of the 6 faces of the cube equal to $2$?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "16",
+        "20"
+      ],
+      "correctAnswer": "20",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Counting two ways",
+        "Discrete Mathematics > Combinatorics > Recursion, bijection"
+      ]
+    },
+    {
+      "question": "A quadratic polynomial $p(x)$ with real coefficients and leading coefficient $1$ is called *disrespectful* if the equation $p(p(x)) = 0$ is satisfied by exactly three real numbers. Among all the disrespectful quadratic polynomials, there is a unique such polynomial $\\tilde{p}(x)$ for which the sum of the roots is maximized. What is $\\tilde{p}(1)$?",
+      "options": [
+        "$\\frac{5}{16}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{5}{8}$",
+        "$1$",
+        "$\\frac{9}{8}$"
+      ],
+      "correctAnswer": "$\\frac{5}{16}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Polynomials > Vieta's formulas",
+        "Algebra > Intermediate Algebra > Quadratic functions"
+      ]
+    },
+    {
+      "question": "What is the maximum number of balls of clay with radius $2$ that can completely fit inside a cube of side length $6$ assuming that the balls can be reshaped but not compressed before they are packed in the cube?",
+      "options": [
+        "$3$",
+        "$4$",
+        "$5$",
+        "$6$",
+        "$7$"
+      ],
+      "correctAnswer": "$6$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Solid Geometry > Volume"
+      ]
+    },
+    {
+      "question": "A two-digit positive integer is said to be *cuddly* if it is equal to the sum of its nonzero tens digit and the square of its units digit. How many two-digit positive integers are cuddly?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "1",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Integers",
+        "Number Theory > Other"
+      ]
+    },
+    {
+      "question": "When a certain unfair die is rolled, an even number is 3 times as likely to appear as an odd number. The die is rolled twice. What is the probability that the sum of the numbers rolled is even?",
+      "options": [
+        "$\\frac{3}{8}$",
+        "$\\frac{4}{9}$",
+        "$\\frac{5}{9}$",
+        "$\\frac{9}{16}$",
+        "$\\frac{5}{8}$"
+      ],
+      "correctAnswer": "$\\frac{5}{8}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Statistics > Probability > Counting Methods > Other"
+      ]
+    },
+    {
+      "question": "When a certain unfair die is rolled, an even number is 3 times as likely to appear as an odd number. The die is rolled twice. What is the probability that the sum of the numbers rolled is even?",
+      "options": [
+        "$\\frac{3}{8}$",
+        "$\\frac{4}{9}$",
+        "$\\frac{5}{9}$",
+        "$\\frac{9}{16}$",
+        "$\\frac{5}{8}$"
+      ],
+      "correctAnswer": "$\\frac{5}{8}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Statistics > Probability > Counting Methods > Other",
+        "Math Word Problems"
+      ]
+    },
+    {
+      "question": "What is the value of $101 \\cdot 9,901 - 99 \\cdot 10,101$?",
+      "options": [
+        "2",
+        "20",
+        "21",
+        "200",
+        "2020"
+      ],
+      "correctAnswer": "2",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Integers",
+        "Algebra > Algebraic Expressions > Polynomials > Polynomial operations"
+      ]
+    },
+    {
+      "question": "Consider the following operation. Given a positive integer $n$, if $n$ is a multiple of $3$, then you replace $n$ by $\\frac{n}{3}$. If $n$ is not a multiple of $3$, then you replace $n$ by $n+10$. Then continue this process. For example, beginning with $n=4$, this procedure gives $4 \\rightarrow 14 \\rightarrow 24 \\rightarrow 8 \\rightarrow 18 \\rightarrow 6 \\rightarrow 2 \\rightarrow 12 \\rightarrow \\dots$. Suppose you start with $n=100$. What value results if you perform this operation exactly $100$ times?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correctAnswer": "30",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Invariants / monovariants",
+        "Algebra > Algebraic Expressions > Sequences and Series > Recurrence relations",
+        "Number Theory > Other"
+      ]
+    },
+    {
+      "question": "How many ordered pairs of integers $(m, n)$ satisfy $\\sqrt{n^2 - 49} = m$?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "infinitely many"
+      ],
+      "correctAnswer": "4",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Divisibility / Factorization > Factorization techniques",
+        "Number Theory > Diophantine Equations > Techniques: modulo, size analysis, order analysis, inequalities",
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "Two transformations are said to *commute* if applying the first followed by the second gives the same result as applying the second followed by the first. Consider these four transformations of the coordinate plane:\n* a translation 2 units to the right,\n* a $90^\\circ$-rotation counterclockwise about the origin,\n* a reflection across the $x$-axis, and\n* a dilation centered at the origin with scale factor $2$.\nOf the $6$ pairs of distinct transformations from this list, how many commute?",
+      "options": [
+        "$1$",
+        "$2$",
+        "$3$",
+        "$4$",
+        "$5$"
+      ],
+      "correctAnswer": "$3$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Transformations > Translation",
+        "Geometry > Plane Geometry > Transformations > Rotation",
+        "Geometry > Plane Geometry > Transformations > Homothety",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates"
+      ]
+    },
+    {
+      "question": "One side of an equilateral triangle of height $24$ lies on line $l$. A circle of radius $12$ is tangent to $l$ and is externally tangent to the triangle. The area of the region exterior to the triangle and the circle and bounded by the triangle, the circle, and line $l$ can be written as $a\\sqrt{b} - c\\pi$, where $a$, $b$, and $c$ are positive integers and $b$ is not divisible by the square of any prime. What is $a + b + c$?",
+      "options": [
+        "72",
+        "73",
+        "74",
+        "75",
+        "76"
+      ],
+      "correctAnswer": "75",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Circles > Tangents",
+        "Geometry > Plane Geometry > Miscellaneous > Angle chasing",
+        "Geometry > Plane Geometry > Triangles > Triangle trigonometry"
+      ]
+    },
+    {
+      "question": "Let $M$ be the greatest integer such that both $M + 1213$ and $M + 3773$ are perfect squares. What is the units digit of $M$?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "8",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Divisibility / Factorization > Factorization techniques",
+        "Number Theory > Diophantine Equations > Techniques: modulo, size analysis, order analysis, inequalities"
+      ]
+    },
+    {
+      "question": "Two teams are in a best-two-out-of-three playoff: the teams will play at most $3$ games, and the winner of the playoff is the first team to win $2$ games. The first game is played on Team $A$'s home field, and the remaining games are played on Team $B$'s home field. Team $A$ has a $\\frac{2}{3}$ chance of winning at home, and its probability of winning when playing away from home is $p$. Outcomes of the games are independent. The probability that Team $A$ wins the playoff is $\\frac{1}{2}$. Then $p$ can be written in the form $\\frac{1}{2}(m - \\sqrt{n})$, where $m$ and $n$ are positive integers. What is $m + n$?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": "14",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Intermediate Algebra > Quadratic functions"
+      ]
+    },
+    {
+      "question": "There are exactly $K$ positive integers $b$ with $5 \\le b \\le 2024$ such that the base-$b$ integer $2024_b$ is divisible by 16 (where 16 is in base ten). What is the sum of the digits of $K$?",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "20",
+        "21"
+      ],
+      "correctAnswer": "20",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Divisibility / Factorization > Factorization techniques",
+        "Number Theory > Modular Arithmetic > Polynomials mod p",
+        "Algebra > Algebraic Expressions > Polynomials > Polynomial operations"
+      ]
+    },
+    {
+      "question": "The first three terms of a geometric sequence are the integers $a$, $720$, and $b$, where $a < 720 < b$. What is the sum of the digits of the least possible value of $b$?",
+      "options": [
+        "9",
+        "12",
+        "16",
+        "18",
+        "21"
+      ],
+      "correctAnswer": "21",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Sequences and Series",
+        "Number Theory > Divisibility / Factorization > Factorization techniques"
+      ]
+    },
+    {
+      "question": "A model used to estimate the time it will take to hike to the top of a mountain on a trail is of the form $T = aL + bG$, where $a$ and $b$ are constants, $T$ is the time in minutes, $L$ is the length of the trail in miles, and $G$ is the altitude gain in feet. The model estimates that it will take 69 minutes to hike to the top if a trail is 1.5 miles long and ascends 800 feet, as well as if a trail is 1.2 miles long and ascends 1100 feet. How many minutes does the model estimate it will take to hike to the top if the trail is 4.2 miles long and ascends 4000 feet?",
+      "options": [
+        "240",
+        "246",
+        "252",
+        "258",
+        "264"
+      ],
+      "correctAnswer": "246",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Simple Equations"
+      ]
+    },
+    {
+      "question": "Let $S$ be a subset of $\\{1, 2, 3, \\dots, 2024\\}$ such that the following two conditions hold:\n* If $x$ and $y$ are distinct elements of $S$, then $|x - y| > 2$.\n* If $x$ and $y$ are distinct odd elements of $S$, then $|x - y| > 6$.\nWhat is the maximum possible number of elements in $S$?",
+      "options": [
+        "436",
+        "506",
+        "608",
+        "654",
+        "675"
+      ],
+      "correctAnswer": "608",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Coloring schemes, extremal arguments"
+      ]
+    },
+    {
+      "question": "Integers $a$, $b$, and $c$ satisfy $ab + c = 100$, $bc + a = 87$, and $ca + b = 60$. What is $ab + bc + ca$?",
+      "options": [
+        "212",
+        "247",
+        "258",
+        "276",
+        "284"
+      ],
+      "correctAnswer": "276",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Simple Equations",
+        "Number Theory > Divisibility / Factorization > Prime numbers",
+        "Number Theory > Diophantine Equations > Techniques: modulo, size analysis, order analysis, inequalities"
+      ]
+    },
+    {
+      "question": "A bee is moving in three-dimensional space. A fair six-sided die with faces labeled $A^+$, $A^-$, $B^+$, $B^-$, $C^+$, and $C^-$ is rolled. Suppose the bee occupies the point $(a, b, c)$. If the die shows $A^+$, then the bee moves to the point $(a+1, b, c)$, and if the die shows $A^-$, then the bee moves to the point $(a-1, b, c)$. Analogous moves are made with the other four outcomes. Suppose the bee starts at the point $(0, 0, 0)$ and the die is rolled four times. What is the probability that the bee traverses four distinct edges of some unit cube?",
+      "options": [
+        "$\\frac{1}{54}$",
+        "$\\frac{7}{54}$",
+        "$\\frac{1}{6}$",
+        "$\\frac{5}{18}$",
+        "$\\frac{2}{5}$"
+      ],
+      "correctAnswer": "$\\frac{7}{54}$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Solid Geometry > 3D Shapes"
+      ]
+    },
+    {
+      "question": "What is the least value of $n$ such that $n!$ is a multiple of 2024?",
+      "options": [
+        "11",
+        "21",
+        "22",
+        "23",
+        "253"
+      ],
+      "correctAnswer": "23",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Divisibility / Factorization > Factorization techniques",
+        "Number Theory > Divisibility / Factorization > Prime numbers"
+      ]
+    },
+    {
+      "question": "What is the minimum number of successive swaps of adjacent letters in the string $ABCDEF$ that are needed to change the string to $FEDCBA$? (For example, 3 swaps are required to change $ABC$ to $CBA$; one such sequence of swaps is $ABC \\to BAC \\to BCA \\to CBA$.)",
+      "options": [
+        "6",
+        "10",
+        "12",
+        "15",
+        "24"
+      ],
+      "correctAnswer": "15",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Invariants / monovariants"
+      ]
+    },
+    {
+      "question": "The product of three integers is $60$. What is the least possible positive sum of the three integers?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "6",
+        "13"
+      ],
+      "correctAnswer": "3",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Integers",
+        "Number Theory > Divisibility / Factorization > Factorization techniques"
+      ]
+    },
+    {
+      "question": "Amy, Bomani, Charlie, and Daria work in a chocolate factory. On Monday Amy, Bomani, and Charlie started working at 1:00 PM and were able to pack $4$, $3$, and $3$ packages, respectively, every $3$ minutes. At some later time, Daria joined the group, and Daria was able to pack $5$ packages every $4$ minutes. Together, they finished packing $450$ packages at exactly $2{:}45$ PM. At what time did Daria join the group?",
+      "options": [
+        "1:25 PM",
+        "1:35 PM",
+        "1:45 PM",
+        "1:55 PM",
+        "2:05 PM"
+      ],
+      "correctAnswer": "1:25 PM",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Simple Equations"
+      ]
+    },
+    {
+      "question": "In how many ways can 6 juniors and 6 seniors form 3 disjoint teams of 4 people so that each team has 2 juniors and 2 seniors?",
+      "options": [
+        "720",
+        "1350",
+        "2700",
+        "3280",
+        "8100"
+      ],
+      "correctAnswer": "1350",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Enumeration with symmetry",
+        "Discrete Mathematics > Combinatorics > Counting two ways"
+      ]
+    }
+  ]
+}

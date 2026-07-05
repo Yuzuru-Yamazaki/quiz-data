@@ -1,0 +1,317 @@
+{
+  "title": "AMC 10 B",
+  "description": "AMC problems from AMC 10 B",
+  "folder": "extracurricular/AMC/AMC 10",
+  "field": "neutral",
+  "anki": true,
+  "tags": [
+    "math",
+    "olympiad",
+    "AMC"
+  ],
+  "questions": [
+    {
+      "question": "In a long line of people arranged left to right, the $1013$th person from the left is also the $1010$th person from the right. How many people are in the line?",
+      "options": [
+        "$2021$",
+        "$2022$",
+        "$2023$",
+        "$2024$",
+        "$2025$"
+      ],
+      "correctAnswer": "$2022$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Math Word Problems"
+      ]
+    },
+    {
+      "question": "Quadrilateral $ABCD$ is a parallelogram, and $E$ is the midpoint of the side $\\overline{AD}$. Let $F$ be the intersection of lines $EB$ and $AC$. What is the ratio of the area of quadrilateral $CDEF$ to the area of $\\triangle CFB$?",
+      "options": [
+        "5:4",
+        "4:3",
+        "3:2",
+        "5:3",
+        "2:1"
+      ],
+      "correctAnswer": "5:4",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Triangles",
+        "Geometry > Plane Geometry > Quadrilaterals",
+        "Geometry > Plane Geometry > Miscellaneous > Angle chasing"
+      ]
+    },
+    {
+      "question": "A group of 100 students from different countries meet at a mathematics competition. Each student speaks the same number of languages, and, for every pair of students $A$ and $B$, student $A$ speaks some language that student $B$ does not speak, and student $B$ speaks some language that student $A$ does not speak. What is the least possible total number of languages spoken by all the students?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "51",
+        "100"
+      ],
+      "correctAnswer": "9",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Algebraic properties of binomial coefficients"
+      ]
+    },
+    {
+      "question": "Positive integers $x$ and $y$ satisfy the equation $\\sqrt{x} + \\sqrt{y} = \\sqrt{1183}$. What is the minimum possible value of $x + y$?",
+      "options": [
+        "585",
+        "595",
+        "623",
+        "700",
+        "791"
+      ],
+      "correctAnswer": "595",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Intermediate Algebra > Quadratic functions",
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "A dartboard is the region $B$ in the coordinate plane consisting of points $(x, y)$ such that $|x| + |y| \\le 8$. A target $T$ is the region where $(x^2 + y^2 - 25)^2 \\le 49$. A dart is thrown and lands at a random point in $B$. The probability that the dart lands in $T$ can be expressed as $\\frac{m}{n} \\cdot \\pi$, where $m$ and $n$ are relatively prime positive integers. What is $m + n$?",
+      "options": [
+        "39",
+        "71",
+        "73",
+        "75",
+        "135"
+      ],
+      "correctAnswer": "71",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Geometry > Plane Geometry > Circles",
+        "Geometry > Plane Geometry > Analytic / Coordinate Methods > Cartesian coordinates"
+      ]
+    },
+    {
+      "question": "A list of 9 real numbers consists of $1$, $2.2$, $3.2$, $5.2$, $6.2$, and $7$, as well as $x$, $y$, and $z$ with $x \\le y \\le z$. The range of the list is $7$, and the mean and the median are both positive integers. How many ordered triples $(x, y, z)$ are possible?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "infinitely many"
+      ],
+      "correctAnswer": "3",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Statistics > Mathematical Statistics",
+        "Math Word Problems"
+      ]
+    },
+    {
+      "question": "Jerry likes to play with numbers. One day, he wrote all the integers from $1$ to $2024$ on the whiteboard. Then he repeatedly chose four numbers on the whiteboard, erased them, and replaced them by either their sum or their product. (For example, Jerry's first step might have been to erase $1$, $2$, $3$, and $5$, and then write either $11$, their sum, or $30$, their product, on the whiteboard.) After repeatedly performing this operation, Jerry noticed that all the remaining numbers on the whiteboard were odd. What is the maximum possible number of integers on the whiteboard at that time?",
+      "options": [
+        "$1010$",
+        "$1011$",
+        "$1012$",
+        "$1013$",
+        "$1014$"
+      ],
+      "correctAnswer": "$1010$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Invariants / monovariants",
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "In a race among 5 snails, there is at most one tie, but that tie can involve any number of snails. For example, the result of the race might be that Dazzler is first; Abby, Cyrus, and Elroy are tied for second; and Bruna is fifth. How many different results of the race are possible?",
+      "options": [
+        "180",
+        "361",
+        "420",
+        "431",
+        "720"
+      ],
+      "correctAnswer": "431",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Statistics > Probability > Counting Methods > Permutations",
+        "Statistics > Probability > Counting Methods > Combinations"
+      ]
+    },
+    {
+      "question": "How many different remainders can result when the 100th power of an integer is divided by 125?",
+      "options": [
+        "1",
+        "2",
+        "5",
+        "25",
+        "125"
+      ],
+      "correctAnswer": "2",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Modular Arithmetic > Fermat / Euler / Wilson theorems",
+        "Number Theory > Number-Theoretic Functions > φ (Euler's totient)",
+        "Algebra > Algebraic Expressions > Polynomials > Polynomial operations"
+      ]
+    },
+    {
+      "question": "What is $10! - 7! \\cdot 6!$?",
+      "options": [
+        "-120",
+        "0",
+        "120",
+        "600",
+        "720"
+      ],
+      "correctAnswer": "0",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "Three different pairs of shoes are placed in a row so that no left shoe is next to a right shoe from a different pair. In how many ways can these six shoes be lined up?",
+      "options": [
+        "60",
+        "72",
+        "90",
+        "108",
+        "120"
+      ],
+      "correctAnswer": "60",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Enumeration with symmetry"
+      ]
+    },
+    {
+      "question": "A group of 16 people will be partitioned into 4 indistinguishable 4-person committees. Each committee will have one chairperson and one secretary. The number of different ways to make these assignments can be written as $3^r M$, where $r$ and $M$ are positive integers and $M$ is not divisible by 3. What is $r$?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": "5",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Discrete Mathematics > Combinatorics > Counting two ways",
+        "Number Theory > Divisibility / Factorization > Factorization techniques"
+      ]
+    },
+    {
+      "question": "Each of 27 bricks (right rectangular prisms) has dimensions $a \\times b \\times c$, where $a$, $b$, and $c$ are pairwise relatively prime positive integers. These bricks are arranged to form a $3 \\times 3 \\times 3$ block, as shown on the left below. A 28th brick with the same dimensions is introduced, and these bricks are reconfigured into a $2 \\times 2 \\times 7$ block, shown on the right. The new block is 1 unit taller, 1 unit wider, and 1 unit deeper than the old one. What is $a + b + c$?\n![](attached_image_1.png)\n![](attached_image_2.png)",
+      "options": [
+        "88",
+        "89",
+        "90",
+        "91",
+        "92"
+      ],
+      "correctAnswer": "92",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Prealgebra / Basic Algebra > Simple Equations",
+        "Geometry > Solid Geometry > 3D Shapes"
+      ]
+    },
+    {
+      "question": "Balls numbered $1, 2, 3, \\ldots$ are deposited in $5$ bins, labeled $A$, $B$, $C$, $D$, and $E$, using the following procedure. Ball $1$ is deposited in bin $A$, and balls $2$ and $3$ are deposited in bin $B$. The next $3$ balls are deposited in bin $C$, the next $4$ in bin $D$, and so on, cycling back to bin $A$ after balls are deposited in bin $E$. (For example, balls numbered $22, 23, \\ldots, 28$ are deposited in bin $B$ at step $7$ of this process.) In which bin is ball $2024$ deposited?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": "D",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Sequences and Series > Sums and products",
+        "Number Theory > Other"
+      ]
+    },
+    {
+      "question": "A rectangle has integer length sides and an area of $2024$. What is the least possible perimeter of the rectangle?",
+      "options": [
+        "$160$",
+        "$180$",
+        "$222$",
+        "$228$",
+        "$390$"
+      ],
+      "correctAnswer": "$180$",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Divisibility / Factorization > Factorization techniques",
+        "Algebra > Equations and Inequalities > QM-AM-GM-HM / Power Mean"
+      ]
+    },
+    {
+      "question": "What is the remainder when $7^{2024} + 7^{2025} + 7^{2026}$ is divided by 19?",
+      "options": [
+        "0",
+        "1",
+        "7",
+        "11",
+        "18"
+      ],
+      "correctAnswer": "0",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Residues and Primitive Roots > Multiplicative order"
+      ]
+    },
+    {
+      "question": "Let $N$ be the product of all the positive integer divisors of $42$. What is the units digit of $N$?",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "6",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Number Theory > Divisibility / Factorization > Factorization techniques",
+        "Number Theory > Number-Theoretic Functions > τ (number of divisors)",
+        "Algebra > Prealgebra / Basic Algebra > Integers"
+      ]
+    },
+    {
+      "question": "Real numbers $a$, $b$, and $c$ have arithmetic mean $0$. The arithmetic mean of $a^2$, $b^2$, and $c^2$ is $10$. What is the arithmetic mean of $ab$, $ac$, and $bc$?\n$",
+      "options": [
+        "$ $-5$ $",
+        "$ $-\\frac{10}{3}$ $",
+        "$ $-\\frac{10}{9}$ $",
+        "$ $0$ $",
+        "$ $\\frac{10}{9}$"
+      ],
+      "correctAnswer": "$ $-5$ $",
+      "explanation": "",
+      "anki": true,
+      "_topics": [
+        "Algebra > Algebraic Expressions > Polynomials > Symmetric functions"
+      ]
+    }
+  ]
+}
