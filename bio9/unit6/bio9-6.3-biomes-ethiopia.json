@@ -1,0 +1,154 @@
+{
+  "title": "6.3 Biomes of Ethiopia",
+  "description": "Major biomes in Ethiopia including afroalpine, montane forest, savanna, desert, and aquatic ecosystems with endemic species",
+  "folder": "School/Grade 9/Biology/Unit 6",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit6"],
+  "questions": [
+    {
+      "question": "Which Ethiopian biome is found at the highest altitudes, typically above 3,200 meters?",
+      "options": ["Montane forest", "Savanna grassland", "Afroalpine biome", "Desert"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is a characteristic feature of the afroalpine biome in Ethiopia?",
+      "options": ["Tall trees forming a dense canopy", "Low temperatures and high solar radiation", "High rainfall throughout the year", "Sandy soil with very little vegetation"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which giant plant is a well-known endemic species of the Ethiopian afroalpine biome?",
+      "options": ["Juniper tree", "Acacia tree", "Giant lobelia", "Podocarpus tree"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following animals is endemic to the Ethiopian highlands and commonly found in the afroalpine biome?",
+      "options": ["Zebra", "Gelada baboon", "Giraffe", "Elephant"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "The Ethiopian wolf is an endemic carnivore found in which biome?",
+      "options": ["Savanna grassland", "Desert", "Afroalpine biome", "Montane forest"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which tree species is commonly found in the montane forests of Ethiopia?",
+      "options": ["Acacia", "Baobab", "Juniper", "Mangrove"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Podocarpus is a characteristic tree species found in which Ethiopian biome?",
+      "options": ["Afroalpine", "Montane forest", "Savanna", "Desert"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which biome covers the largest area of Ethiopia?",
+      "options": ["Montane forest", "Afroalpine", "Savanna grassland", "Desert"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What type of vegetation is dominant in the Ethiopian savanna?",
+      "options": ["Coniferous trees", "Mosses and lichens", "Grasses and scattered acacia trees", "Giant lobelia and tussock grasses"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following large mammals is commonly found in the Ethiopian savanna?",
+      "options": ["Polar bear", "Kangaroo", "Lion", "Penguin"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which biome in Ethiopia receives very low rainfall, typically less than 250 mm per year?",
+      "options": ["Montane forest", "Afroalpine", "Savanna grassland", "Desert and semi-desert"],
+      "answer": 3,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an adaptation of plants in the Ethiopian desert biome?",
+      "options": ["Large broad leaves", "Deep root systems and water storage", "Needle-like leaves that shed easily", "Dense canopy coverage"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which animal is well-adapted to survive in the Ethiopian desert and semi-desert biome?",
+      "options": ["Hippopotamus", "Camel", "Gelada baboon", "Mountain nyala"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Lake Tana, the largest lake in Ethiopia, is an example of which type of ecosystem?",
+      "options": ["Marine ecosystem", "Desert ecosystem", "Aquatic or wetland ecosystem", "Montane forest ecosystem"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "The Awash River is a major water body in Ethiopia that supports which type of biome?",
+      "options": ["Afroalpine", "Savanna", "Aquatic and wetland ecosystem", "Montane forest"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "The mountain nyala is an endemic antelope species found in which Ethiopian biome?",
+      "options": ["Desert", "Savanna grassland", "Montane forest and afroalpine", "Aquatic ecosystem"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an endemic bird species found in the afroalpine biome of Ethiopia?",
+      "options": ["Ostrich", "Rueppell's chat", "Penguin", "Pelican"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What type of vegetation is typical of the Ethiopian montane forest?",
+      "options": ["Cacti and succulents", "Grasses and scattered acacia", "Evergreen trees like juniper and podocarpus", "Mosses and lichens on bare rock"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following Ethiopian biomes has the highest biodiversity?",
+      "options": ["Desert", "Savanna grassland", "Montane forest", "Semi-desert"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "The gelada baboon is endemic to which country's highlands?",
+      "options": ["Kenya", "Tanzania", "Ethiopia", "South Africa"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which biome in Ethiopia is characterized by scattered acacia trees, grasses, and a distinct wet and dry season?",
+      "options": ["Afroalpine", "Montane forest", "Savanna grassland", "Desert"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is the main threat to the afroalpine biome in Ethiopia?",
+      "options": ["Overfishing", "Agricultural expansion and climate change", "Oil spills", "Coral bleaching"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "The endemic Ethiopian wolf primarily feeds on which prey found in the afroalpine?",
+      "options": ["Fish", "Giant lobelia", "Rodents like giant mole rats", "Acacia leaves"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a characteristic of the Ethiopian desert biome?",
+      "options": ["High rainfall throughout the year", "Dense forest cover", "Extreme temperature variation between day and night", "Rich organic soil"],
+      "answer": 2,
+      "anki": true
+    }
+  ]
+}

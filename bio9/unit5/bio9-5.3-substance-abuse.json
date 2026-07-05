@@ -1,0 +1,125 @@
+{
+  "title": "5.3 Substance Abuse",
+  "description": "Drug classification, substance abuse, alcohol, tobacco, khat, and addiction",
+  "folder": "School/Grade 9/Biology/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit5"],
+  "questions": [
+    {
+      "question": "What is a drug?",
+      "options": ["Any substance taken into the body that changes or affects chemical reactions in the body", "Only illegal substances that cause hallucinations", "Any food that provides energy", "Only medicines prescribed by doctors"],
+      "answer": "Any substance taken into the body that changes or affects chemical reactions in the body"
+    },
+    {
+      "question": "What is substance abuse?",
+      "options": ["Using legal or illegal drugs in the wrong way or in excessive amounts", "Taking medicine as prescribed by a doctor", "Eating a balanced diet", "Drinking only water for hydration"],
+      "answer": "Using legal or illegal drugs in the wrong way or in excessive amounts"
+    },
+    {
+      "question": "Which of the following is classified as a stimulant?",
+      "options": ["Cocaine, caffeine, and nicotine", "Alcohol", "Heroin", "Morphine"],
+      "answer": "Cocaine, caffeine, and nicotine"
+    },
+    {
+      "question": "Alcohol is classified as which type of drug?",
+      "options": ["Depressant", "Stimulant", "Hallucinogen", "Narcotic"],
+      "answer": "Depressant"
+    },
+    {
+      "question": "Which of the following are classified as narcotics?",
+      "options": ["Heroin and morphine", "Cocaine and caffeine", "LSD and cannabis", "Alcohol and nicotine"],
+      "answer": "Heroin and morphine"
+    },
+    {
+      "question": "Which of the following are examples of hallucinogens?",
+      "options": ["LSD and cannabis", "Heroin and morphine", "Alcohol and nicotine", "Cocaine and caffeine"],
+      "answer": "LSD and cannabis"
+    },
+    {
+      "question": "What are the three main harmful chemical components found in cigarette smoke?",
+      "options": ["Tar, nicotine, and carbon monoxide", "Tar, caffeine, and alcohol", "Nicotine, ethanol, and carbon dioxide", "Carbon monoxide, oxygen, and nitrogen"],
+      "answer": "Tar, nicotine, and carbon monoxide"
+    },
+    {
+      "question": "What is tar?",
+      "options": ["A black sticky substance found in cigarette smoke that collects in the lungs and can cause chronic bronchitis and lung cancer", "A colourless gas that binds to hemoglobin", "A stimulant that increases heart rate", "A compound that causes addiction"],
+      "answer": "A black sticky substance found in cigarette smoke that collects in the lungs and can cause chronic bronchitis and lung cancer"
+    },
+    {
+      "question": "What disease is caused by the accumulation of tar in the bronchioles, leading to excess mucus and breathing difficulty?",
+      "options": ["Chronic bronchitis", "Emphysema", "Lung cancer", "Asthma"],
+      "answer": "Chronic bronchitis"
+    },
+    {
+      "question": "How does carbon monoxide from cigarette smoke affect the body?",
+      "options": ["It binds permanently with hemoglobin, reducing the amount of oxygen carried in the blood", "It increases lung capacity", "It stimulates the production of red blood cells", "It strengthens the immune system"],
+      "answer": "It binds permanently with hemoglobin, reducing the amount of oxygen carried in the blood"
+    },
+    {
+      "question": "What is the role of nicotine in cigarette smoking?",
+      "options": ["It is a stimulant that produces addiction", "It causes chronic bronchitis", "It blocks oxygen transport", "It destroys lung tissue"],
+      "answer": "It is a stimulant that produces addiction"
+    },
+    {
+      "question": "What neurotransmitter does nicotine activate in the brain, producing feelings of pleasure?",
+      "options": ["Dopamine", "Serotonin", "Adrenaline", "Endorphins"],
+      "answer": "Dopamine"
+    },
+    {
+      "question": "What condition results when alveoli walls weaken and burst due to coughing, reducing the surface area for gas exchange?",
+      "options": ["Emphysema", "Chronic bronchitis", "Lung cancer", "Pneumonia"],
+      "answer": "Emphysema"
+    },
+    {
+      "question": "What effect does alcohol have on the nervous system?",
+      "options": ["It slows down the transmission of nerve impulses", "It speeds up nerve impulses", "It has no effect on the nervous system", "It improves coordination"],
+      "answer": "It slows down the transmission of nerve impulses"
+    },
+    {
+      "question": "Long-term heavy consumption of alcohol can lead to which liver condition?",
+      "options": ["Cirrhosis (scarring of the liver)", "Hepatitis A", "Liver cancer", "Fatty liver disease only"],
+      "answer": "Cirrhosis (scarring of the liver)"
+    },
+    {
+      "question": "What is the active stimulant compound found in fresh khat leaves?",
+      "options": ["Cathinone", "Tetrahydrocannabinol (THC)", "Nicotine", "Caffeine"],
+      "answer": "Cathinone"
+    },
+    {
+      "question": "Heroin is similar in structure to which natural brain chemicals?",
+      "options": ["Endorphins", "Dopamine", "Serotonin", "Adrenaline"],
+      "answer": "Endorphins"
+    },
+    {
+      "question": "What is the psychoactive component in cannabis?",
+      "options": ["Tetrahydrocannabinol (THC)", "Cathinone", "Nicotine", "Caffeine"],
+      "answer": "Tetrahydrocannabinol (THC)"
+    },
+    {
+      "question": "What is doping in sports?",
+      "options": ["The use of prohibited medications, drugs, or treatments to improve athletic performance", "The use of legal supplements approved by sports authorities", "The practice of training with heavy equipment", "A diet plan for athletes"],
+      "answer": "The use of prohibited medications, drugs, or treatments to improve athletic performance"
+    },
+    {
+      "question": "Which organization is responsible for testing athletes for doping?",
+      "options": ["World Anti-Doping Agency (WADA)", "World Health Organization (WHO)", "International Olympic Committee (IOC)", "United Nations (UN)"],
+      "answer": "World Anti-Doping Agency (WADA)"
+    },
+    {
+      "question": "Which of the following is a consequence of drug addiction?",
+      "options": ["Financial problems, family breakdown, and loss of job", "Improved physical health", "Better social relationships", "Increased productivity at work"],
+      "answer": "Financial problems, family breakdown, and loss of job"
+    },
+    {
+      "question": "Khat chewing can lead to which health problem?",
+      "options": ["Gastritis, peptic ulcer, and loss of appetite", "Improved digestion", "Stronger teeth", "Better eyesight"],
+      "answer": "Gastritis, peptic ulcer, and loss of appetite"
+    },
+    {
+      "question": "What is a standard drink according to WHO guidelines?",
+      "options": ["A drink containing 10 grams of pure ethanol", "A drink containing 5 grams of pure ethanol", "A drink containing 20 grams of pure ethanol", "A drink containing 15 grams of pure ethanol"],
+      "answer": "A drink containing 10 grams of pure ethanol"
+    }
+  ]
+}

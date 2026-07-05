@@ -1,0 +1,370 @@
+{
+  "title": "1.3 Tools of a Biologist",
+  "description": "Laboratory and field tools used by biologists",
+  "folder": "School/Grade 9/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which tool is used by biologists to observe very small objects that cannot be seen with the naked eye?",
+      "options": [
+        "Hand lens",
+        "Microscope",
+        "Telescope",
+        "Binoculars"
+      ],
+      "correctAnswer": "Microscope"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is the primary use of a beaker in a biology laboratory?",
+      "options": [
+        "Measuring precise volumes of liquid",
+        "Holding and mixing liquids",
+        "Heating solid substances",
+        "Observing microorganisms"
+      ],
+      "correctAnswer": "Holding and mixing liquids"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which laboratory tool is used to hold small amounts of liquid for experiments or tests?",
+      "options": [
+        "Beaker",
+        "Flask",
+        "Test tube",
+        "Measuring cylinder"
+      ],
+      "correctAnswer": "Test tube"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What is the function of a Petri dish in a biology laboratory?",
+      "options": [
+        "To heat chemicals",
+        "To culture microorganisms",
+        "To measure temperature",
+        "To cut specimens"
+      ],
+      "correctAnswer": "To culture microorganisms"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which tool provides a flame for heating and sterilizing equipment in the laboratory?",
+      "options": [
+        "Hot plate",
+        "Bunsen burner",
+        "Incubator",
+        "Oven"
+      ],
+      "correctAnswer": "Bunsen burner"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What is the function of a laboratory balance?",
+      "options": [
+        "To measure volume",
+        "To measure temperature",
+        "To measure mass",
+        "To measure length"
+      ],
+      "correctAnswer": "To measure mass"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which tool is used to grasp or hold small objects during a dissection?",
+      "options": [
+        "Scalpel",
+        "Forceps",
+        "Scissors",
+        "Dropper"
+      ],
+      "correctAnswer": "Forceps"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What is the function of a scalpel in a biology laboratory?",
+      "options": [
+        "To measure liquids",
+        "To cut tissues or specimens",
+        "To observe cells",
+        "To stir solutions"
+      ],
+      "correctAnswer": "To cut tissues or specimens"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which tool is used to transfer small amounts of liquid drop by drop?",
+      "options": [
+        "Measuring cylinder",
+        "Beaker",
+        "Dropper or pipette",
+        "Flask"
+      ],
+      "correctAnswer": "Dropper or pipette"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What is the function of a flask (Erlenmeyer flask) in a laboratory?",
+      "options": [
+        "To measure precise volumes",
+        "To heat and mix liquids, especially when swirling is needed",
+        "To observe specimens",
+        "To cut tissues"
+      ],
+      "correctAnswer": "To heat and mix liquids, especially when swirling is needed"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which tool is used to measure the volume of liquids accurately?",
+      "options": [
+        "Beaker",
+        "Test tube",
+        "Measuring cylinder",
+        "Petri dish"
+      ],
+      "correctAnswer": "Measuring cylinder"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "What is the function of a thermometer in a biology laboratory?",
+      "options": [
+        "To measure temperature",
+        "To measure mass",
+        "To measure volume",
+        "To measure pressure"
+      ],
+      "correctAnswer": "To measure temperature"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which tool is used by biologists to magnify objects that are larger than what a microscope can handle but still need magnification?",
+      "options": [
+        "Telescope",
+        "Hand lens or magnifying glass",
+        "Spectrophotometer",
+        "Centrifuge"
+      ],
+      "correctAnswer": "Hand lens or magnifying glass"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What is the purpose of a notebook in field biology?",
+      "options": [
+        "To store specimens",
+        "To record observations, data, and notes",
+        "To measure distance",
+        "To navigate"
+      ],
+      "correctAnswer": "To record observations, data, and notes"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which tool is used by field biologists to determine their exact location on Earth?",
+      "options": [
+        "Compass",
+        "GPS (Global Positioning System)",
+        "Map",
+        "Thermometer"
+      ],
+      "correctAnswer": "GPS (Global Positioning System)"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "What is the function of a collecting net in field biology?",
+      "options": [
+        "To measure temperature",
+        "To catch insects or small aquatic organisms",
+        "To cut plant samples",
+        "To dig soil"
+      ],
+      "correctAnswer": "To catch insects or small aquatic organisms"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Which tool is used in the laboratory to separate substances of different densities by spinning them at high speed?",
+      "options": [
+        "Centrifuge",
+        "Microscope",
+        "Balance",
+        "Bunsen burner"
+      ],
+      "correctAnswer": "Centrifuge"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "What is the function of a slide and cover slip in microscopy?",
+      "options": [
+        "To heat the specimen",
+        "To mount the specimen for observation under a microscope",
+        "To stain the specimen",
+        "To cut the specimen"
+      ],
+      "correctAnswer": "To mount the specimen for observation under a microscope"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Which tool is used to transfer solid chemicals or powders in a laboratory?",
+      "options": [
+        "Dropper",
+        "Spatula",
+        "Forceps",
+        "Pipette"
+      ],
+      "correctAnswer": "Spatula"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "What is a dissecting pan used for?",
+      "options": [
+        "Heating chemicals",
+        "Holding specimens during dissection",
+        "Measuring volume",
+        "Culturing bacteria"
+      ],
+      "correctAnswer": "Holding specimens during dissection"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Which tool is used to hold a test tube while heating?",
+      "options": [
+        "Tripod",
+        "Test tube holder",
+        "Wire gauze",
+        "Clamp"
+      ],
+      "correctAnswer": "Test tube holder"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "What is the wire gauze used for in a laboratory setup?",
+      "options": [
+        "To filter liquids",
+        "To distribute heat evenly when heating a beaker or flask",
+        "To hold test tubes",
+        "To measure temperature"
+      ],
+      "correctAnswer": "To distribute heat evenly when heating a beaker or flask"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Which tool is used to stir liquids in a laboratory?",
+      "options": [
+        "Forceps",
+        "Scalpel",
+        "Stirring rod",
+        "Dropper"
+      ],
+      "correctAnswer": "Stirring rod"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "What is the function of a tripod in a laboratory?",
+      "options": [
+        "To hold a microscope",
+        "To support a wire gauze or apparatus during heating",
+        "To store test tubes",
+        "To measure liquid volume"
+      ],
+      "correctAnswer": "To support a wire gauze or apparatus during heating"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Which tool is used by field biologists to collect plant samples?",
+      "options": [
+        "Plant press",
+        "Microscope",
+        "Centrifuge",
+        "Balance"
+      ],
+      "correctAnswer": "Plant press"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "What is a quadrat used for in field biology?",
+      "options": [
+        "Measuring temperature",
+        "Sampling and studying the distribution of organisms in a defined area",
+        "Collecting insects",
+        "Navigating in the field"
+      ],
+      "correctAnswer": "Sampling and studying the distribution of organisms in a defined area"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Which laboratory tool is used to accurately measure and transfer small volumes of liquid?",
+      "options": [
+        "Measuring cylinder",
+        "Pipette",
+        "Beaker",
+        "Flask"
+      ],
+      "correctAnswer": "Pipette"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "What is the function of a magnifying hand lens in field biology?",
+      "options": [
+        "To observe small details of specimens in the field",
+        "To measure distance",
+        "To record GPS coordinates",
+        "To collect water samples"
+      ],
+      "correctAnswer": "To observe small details of specimens in the field"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "Which tool is used to hold a specimen slide on the stage of a microscope?",
+      "options": [
+        "Stage clips",
+        "Forceps",
+        "Scalpel",
+        "Cover slip"
+      ],
+      "correctAnswer": "Stage clips"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "What is the function of a clamp and stand in the laboratory?",
+      "options": [
+        "To hold and support apparatus during experiments",
+        "To heat specimens",
+        "To measure volumes",
+        "To observe cells"
+      ],
+      "correctAnswer": "To hold and support apparatus during experiments"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "title": "3.4 Microscopy",
+  "description": "Observing cells under a microscope: staining techniques and wet mount preparation",
+  "folder": "School/Grade 9/Biology/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit3"],
+  "questions": [
+    {
+      "question": "What is the purpose of staining cells before viewing them under a microscope?",
+      "options": [
+        "To kill the cells",
+        "To increase contrast and make cell structures more visible",
+        "To make the cells larger",
+        "To preserve the cells permanently"
+      ],
+      "answer": 1,
+      "explanation": "Cells are naturally transparent. Staining adds color to specific structures, increasing contrast so they become visible under the microscope."
+    },
+    {
+      "question": "Which stain is commonly used to observe animal cells such as cheek cells?",
+      "options": [
+        "Iodine solution",
+        "Methylene blue",
+        "Eosin",
+        "Crystal violet"
+      ],
+      "answer": 1,
+      "explanation": "Methylene blue is commonly used to stain animal cells (e.g., cheek cells) because it binds to the nucleus and makes it visible."
+    },
+    {
+      "question": "Which stain is commonly used to observe plant cells such as onion epidermal cells?",
+      "options": [
+        "Methylene blue",
+        "Iodine solution",
+        "Safranin",
+        "Haematoxylin"
+      ],
+      "answer": 1,
+      "explanation": "Iodine solution is commonly used to stain plant cells like onion epidermis. It stains starch and makes the nucleus and cell walls more visible."
+    },
+    {
+      "question": "How do you prepare a wet mount slide?",
+      "options": [
+        "Place a dry specimen directly on the stage and focus the microscope",
+        "Place the specimen on a slide, add a drop of water, and gently lower a coverslip over it",
+        "Place the specimen between two glass slides and press firmly",
+        "Mount the specimen on a needle and position it under the lens"
+      ],
+      "answer": 1,
+      "explanation": "A wet mount involves placing the specimen on a slide, adding a drop of water (or stain), and covering it with a coverslip at an angle to avoid air bubbles."
+    },
+    {
+      "question": "What is the purpose of using a coverslip when preparing a slide?",
+      "options": [
+        "To magnify the specimen",
+        "To protect the objective lens and keep the specimen flat and in place",
+        "To add color to the cells",
+        "To dry the specimen"
+      ],
+      "answer": 1,
+      "explanation": "The coverslip flattens the specimen for clearer viewing, prevents evaporation of the liquid, and protects the microscope objective from contacting the specimen."
+    },
+    {
+      "question": "Why should you lower the coverslip at an angle when preparing a wet mount?",
+      "options": [
+        "To make the cells divide faster",
+        "To avoid trapping air bubbles in the liquid",
+        "To ensure the stain is evenly distributed",
+        "To prevent breaking the coverslip"
+      ],
+      "answer": 1,
+      "explanation": "Lowering the coverslip at a 45-degree angle allows air to escape, preventing air bubbles that would obstruct the view of the specimen."
+    },
+    {
+      "question": "What is the function of the diaphragm on a compound microscope?",
+      "options": [
+        "To magnify the image",
+        "To control the amount of light passing through the specimen",
+        "To hold the slide in place",
+        "To focus the image"
+      ],
+      "answer": 1,
+      "explanation": "The diaphragm (or iris diaphragm) controls the amount of light that reaches the specimen, adjusting contrast and brightness."
+    },
+    {
+      "question": "What part of the microscope do you use to focus the image after using the coarse adjustment knob?",
+      "options": [
+        "Coarse adjustment knob",
+        "Fine adjustment knob",
+        "Objective lens",
+        "Stage"
+      ],
+      "answer": 1,
+      "explanation": "The fine adjustment knob is used for precise focusing after initial focusing with the coarse adjustment knob, especially at higher magnifications."
+    },
+    {
+      "question": "What is the total magnification if you are using a 10x eyepiece and a 40x objective lens?",
+      "options": [
+        "50x",
+        "400x",
+        "100x",
+        "40x"
+      ],
+      "answer": 1,
+      "explanation": "Total magnification = eyepiece magnification $\\times$ objective magnification = $10 \\times 40 = 400$x."
+    },
+    {
+      "question": "Which biological specimen is commonly used to observe plant cells under a microscope?",
+      "options": [
+        "Cheek cells",
+        "Onion epidermal cells (skin)",
+        "Blood cells",
+        "Bone cells"
+      ],
+      "answer": 1,
+      "explanation": "Onion epidermal cells are commonly used because they are easy to obtain, form a thin single layer, and clearly show cell walls, nucleus, and cytoplasm."
+    },
+    {
+      "question": "Which biological specimen is commonly used to observe animal cells under a microscope?",
+      "options": [
+        "Onion skin",
+        "Human cheek cells (buccal epithelial cells)",
+        "Elodea leaf",
+        "Potato tuber"
+      ],
+      "answer": 1,
+      "explanation": "Human cheek cells (buccal epithelial cells) are easily obtained by gently scraping the inside of the cheek and are commonly used to observe animal cells."
+    },
+    {
+      "question": "Why is iodine solution added to onion epidermal cells before viewing?",
+      "options": [
+        "To prevent the cells from drying out",
+        "To stain the nucleus and other organelles, making them more visible",
+        "To cause plasmolysis",
+        "To increase the size of the cells"
+      ],
+      "answer": 1,
+      "explanation": "Iodine solution stains the cell components, particularly the nucleus, making them more visible under the microscope."
+    },
+    {
+      "question": "What would happen if you used too much water when preparing a wet mount?",
+      "options": [
+        "The specimen would be clearer",
+        "The coverslip would float and the specimen could move; water might spill onto the microscope",
+        "The cells would be stained better",
+        "The magnification would increase"
+      ],
+      "answer": 1,
+      "explanation": "Excess water causes the coverslip to float, making it hard to focus, and increases the risk of water damaging the microscope."
+    },
+    {
+      "question": "What do you observe when viewing Elodea leaf cells under a microscope?",
+      "options": [
+        "Only the cell wall and nucleus",
+        "Green chloroplasts moving around the cell (cytoplasmic streaming)",
+        "Only the cell membrane",
+        "No visible structures because they are transparent"
+      ],
+      "answer": 1,
+      "explanation": "Elodea is an aquatic plant; its cells contain chloroplasts that move through the cytoplasm in a process called cytoplasmic streaming."
+    },
+    {
+      "question": "What is the correct order of steps for preparing a wet mount of onion cells?",
+      "options": [
+        "Add stain, place specimen, add coverslip, add water",
+        "Place specimen on slide, add a drop of water or stain, lower coverslip at an angle",
+        "Place coverslip first, then specimen, then water",
+        "Add water, then coverslip, then specimen"
+      ],
+      "answer": 1,
+      "explanation": "The correct order: (1) place specimen on slide, (2) add a drop of water or stain, (3) gently lower coverslip at an angle to avoid air bubbles."
+    },
+    {
+      "question": "What is the function of the coarse adjustment knob on a microscope?",
+      "options": [
+        "To change the magnification",
+        "To make large adjustments to focus, used with low-power objective first",
+        "To control the amount of light",
+        "To move the slide"
+      ],
+      "answer": 1,
+      "explanation": "The coarse adjustment knob moves the stage up or down in larger increments for initial focusing, typically used with the low-power objective."
+    },
+    {
+      "question": "Why should you always start with the lowest power objective lens when viewing a slide?",
+      "options": [
+        "It provides the highest magnification",
+        "It gives the widest field of view, making it easier to locate the specimen",
+        "It uses the most light",
+        "It is the only lens that can be used with a wet mount"
+      ],
+      "answer": 1,
+      "explanation": "Starting with the lowest power gives the widest field of view, making it easier to locate and center the specimen before switching to higher magnification."
+    },
+    {
+      "question": "What does a microscope with a 10x eyepiece and a 10x objective give as total magnification?",
+      "options": [
+        "10x",
+        "20x",
+        "100x",
+        "1000x"
+      ],
+      "answer": 2,
+      "explanation": "Total magnification = $10 \\times 10 = 100$x."
+    },
+    {
+      "question": "What is the function of the stage clips on a microscope?",
+      "options": [
+        "To adjust the focus",
+        "To hold the slide in place on the stage",
+        "To change the objective lens",
+        "To control the light intensity"
+      ],
+      "answer": 1,
+      "explanation": "Stage clips hold the glass slide securely in position on the stage so it does not move during viewing."
+    },
+    {
+      "question": "Why do cells need to be stained for microscopic observation?",
+      "options": [
+        "To increase their size",
+        "Because cells are mostly transparent and staining adds contrast",
+        "To keep them alive longer",
+        "To make them multiply"
+      ],
+      "answer": 1,
+      "explanation": "Cells consist mostly of water and are colorless/transparent. Stains bind to specific cell components, creating contrast for visibility."
+    },
+    {
+      "question": "What is the resolution of a microscope?",
+      "options": [
+        "The ability to make objects appear larger",
+        "The ability to distinguish two closely spaced objects as separate",
+        "The amount of light that passes through the specimen",
+        "The color of the image"
+      ],
+      "answer": 1,
+      "explanation": "Resolution (resolving power) is the ability to distinguish fine details and separate two points that are close together."
+    },
+    {
+      "question": "What happens to the field of view as you increase magnification?",
+      "options": [
+        "It increases (you see more of the specimen)",
+        "It decreases (you see a smaller area of the specimen)",
+        "It stays the same",
+        "It becomes brighter"
+      ],
+      "answer": 1,
+      "explanation": "As magnification increases, the field of view decreases — you see a smaller area but with greater detail."
+    },
+    {
+      "question": "What is a common stain used to observe cheek epithelial cells in the classroom?",
+      "options": [
+        "Iodine",
+        "Methylene blue",
+        "Congo red",
+        "Sudan black"
+      ],
+      "answer": 1,
+      "explanation": "Methylene blue is the standard stain for observing cheek cells — it stains the nucleus a dark blue color."
+    },
+    {
+      "question": "What is the purpose of using a coverslip at a 45-degree angle when preparing a wet mount?",
+      "options": [
+        "To allow the stain to react with the cells",
+        "To prevent air bubbles from being trapped under the coverslip",
+        "To break the cells open",
+        "To make the cells adhere to the slide"
+      ],
+      "answer": 1,
+      "explanation": "Lowering the coverslip at an angle allows air to be pushed out as the coverslip is lowered, minimizing air bubbles."
+    },
+    {
+      "question": "Which part of the microscope should you hold when carrying it?",
+      "options": [
+        "The stage",
+        "The arm and the base",
+        "The objective lenses",
+        "The eyepiece"
+      ],
+      "answer": 1,
+      "explanation": "Always carry a microscope by holding the arm with one hand and supporting the base with the other hand."
+    },
+    {
+      "question": "What type of microscope is most commonly used in school laboratories?",
+      "options": [
+        "Electron microscope",
+        "Compound light microscope",
+        "Scanning tunneling microscope",
+        "Fluorescence microscope"
+      ],
+      "answer": 1,
+      "explanation": "The compound light microscope (which uses visible light and multiple lenses) is the standard microscope used in school biology labs."
+    },
+    {
+      "question": "When viewing a wet mount of onion cells stained with iodine, which structure appears most prominent (darkest)?",
+      "options": [
+        "Cell wall",
+        "Nucleus",
+        "Vacuole",
+        "Cytoplasm"
+      ],
+      "answer": 1,
+      "explanation": "The nucleus stains most prominently with iodine, appearing as a dark round structure within the cell."
+    },
+    {
+      "question": "What is the purpose of the arm on a compound microscope?",
+      "options": [
+        "To hold the objective lenses",
+        "To connect the body tube to the base for carrying and support",
+        "To adjust the focus",
+        "To hold the slide"
+      ],
+      "answer": 1,
+      "explanation": "The arm connects the head/body tube to the base and is used for carrying the microscope."
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "title": "3.1 Cell Theory",
+  "description": "The three principles of cell theory and its historical development",
+  "folder": "School/Grade 9/Biology/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit3"],
+  "questions": [
+    {
+      "question": "What are the three principles of the cell theory?",
+      "options": [
+        "All living things are composed of cells, cells are the basic unit of life, all cells come from pre-existing cells",
+        "Cells have nuclei, cells require oxygen, cells reproduce by mitosis",
+        "All cells are identical, cells need energy, cells have cell walls",
+        "Cells contain DNA, cells perform photosynthesis, cells are microscopic"
+      ],
+      "answer": 0,
+      "explanation": "The three principles state: (1) all living things are composed of cells, (2) cells are the basic unit of structure and function in living things, and (3) all cells arise from pre-existing cells."
+    },
+    {
+      "question": "Who was the first person to observe cells using a microscope?",
+      "options": [
+        "Antonie van Leeuwenhoek",
+        "Robert Hooke",
+        "Matthias Schleiden",
+        "Theodor Schwann"
+      ],
+      "answer": 1,
+      "explanation": "Robert Hooke (1665) observed thin slices of cork under a microscope and described small box-like structures which he called 'cells'."
+    },
+    {
+      "question": "Which scientist concluded that all plants are made of cells?",
+      "options": [
+        "Theodor Schwann",
+        "Rudolf Virchow",
+        "Matthias Schleiden",
+        "Robert Hooke"
+      ],
+      "answer": 2,
+      "explanation": "Matthias Schleiden (1838) concluded that all plant tissues are composed of cells."
+    },
+    {
+      "question": "Which scientist concluded that all animals are made of cells?",
+      "options": [
+        "Matthias Schleiden",
+        "Theodor Schwann",
+        "Rudolf Virchow",
+        "Robert Hooke"
+      ],
+      "answer": 1,
+      "explanation": "Theodor Schwann (1839) concluded that all animal tissues are composed of cells, extending cell theory to animals."
+    },
+    {
+      "question": "Who added the principle that all cells arise from pre-existing cells?",
+      "options": [
+        "Robert Hooke",
+        "Matthias Schleiden",
+        "Theodor Schwann",
+        "Rudolf Virchow"
+      ],
+      "answer": 3,
+      "explanation": "Rudolf Virchow (1855) proposed 'Omnis cellula e cellula' — all cells arise from pre-existing cells."
+    },
+    {
+      "question": "Which of the following is an exception to the cell theory?",
+      "options": [
+        "Bacteria",
+        "Viruses",
+        "Human skin cells",
+        "Plant root cells"
+      ],
+      "answer": 1,
+      "explanation": "Viruses are considered exceptions to cell theory because they are acellular — they are not made of cells and cannot reproduce independently."
+    },
+    {
+      "question": "What material did Robert Hooke examine when he first discovered cells?",
+      "options": [
+        "Onion skin",
+        "Cork",
+        "Leaf tissue",
+        "Blood"
+      ],
+      "answer": 1,
+      "explanation": "Robert Hooke examined thin slices of cork (dead plant cell walls) under a compound microscope in 1665."
+    },
+    {
+      "question": "What is the meaning of the Latin phrase 'Omnis cellula e cellula'?",
+      "options": [
+        "Cells are the basic unit of life",
+        "All cells contain a nucleus",
+        "All cells arise from pre-existing cells",
+        "Cells are found in all living things"
+      ],
+      "answer": 2,
+      "explanation": "This phrase, proposed by Rudolf Virchow, means 'every cell from a cell' — all cells come from pre-existing cells."
+    },
+    {
+      "question": "Why is striated muscle tissue considered an exception to cell theory?",
+      "options": [
+        "It lacks a nucleus",
+        "It contains very large, multinucleated cells that challenge the definition of a single cell",
+        "It does not come from pre-existing cells",
+        "It is not made of cells"
+      ],
+      "answer": 1,
+      "explanation": "Striated muscle fibers are very long and contain many nuclei, making it difficult to define where one cell ends and another begins."
+    },
+    {
+      "question": "Which statement about cells is NOT part of the cell theory?",
+      "options": [
+        "All living organisms are composed of one or more cells",
+        "All cells contain a nucleus",
+        "The cell is the basic structural and functional unit of life",
+        "All cells arise from pre-existing cells"
+      ],
+      "answer": 1,
+      "explanation": "The statement 'all cells contain a nucleus' is not part of cell theory — prokaryotic cells (bacteria) lack a nucleus."
+    },
+    {
+      "question": "In what year did Robert Hooke first observe and name cells?",
+      "options": [
+        "1655",
+        "1665",
+        "1675",
+        "1685"
+      ],
+      "answer": 1,
+      "explanation": "Robert Hooke published his observations of cork cells in his book 'Micrographia' in 1665."
+    },
+    {
+      "question": "The giant alga Acetabularia is an exception to cell theory because it is:",
+      "options": [
+        "A non-living organism",
+        "A single cell that can grow up to several centimeters in length",
+        "Made of many small cells joined together",
+        "Not composed of cells"
+      ],
+      "answer": 1,
+      "explanation": "Acetabularia is a giant single-celled alga that can grow to 2-6 cm, challenging the typical view of cells as microscopic."
+    },
+    {
+      "question": "Which statement best describes the contribution of Antonie van Leeuwenhoek to cell biology?",
+      "options": [
+        "He first named cells",
+        "He proposed that all plants are made of cells",
+        "He was the first to observe living cells using a microscope",
+        "He added the principle of biogenesis to cell theory"
+      ],
+      "answer": 2,
+      "explanation": "Van Leeuwenhoek improved microscopes and was the first to observe living microorganisms (which he called 'animalcules'), bacteria, and protozoa."
+    },
+    {
+      "question": "What does the first principle of cell theory state?",
+      "options": [
+        "Cells are the basic unit of reproduction",
+        "All living things are composed of one or more cells",
+        "All cells have a nucleus",
+        "Cells can arise spontaneously from non-living matter"
+      ],
+      "answer": 1,
+      "explanation": "The first principle states that all living organisms are composed of one or more cells."
+    },
+    {
+      "question": "What does the second principle of cell theory state?",
+      "options": [
+        "All cells come from pre-existing cells",
+        "The cell is the basic structural and functional unit of life",
+        "Cells can be seen without a microscope",
+        "All cells contain organelles"
+      ],
+      "answer": 1,
+      "explanation": "The second principle states that the cell is the fundamental unit of structure and function in living organisms."
+    },
+    {
+      "question": "What does the third principle of cell theory state?",
+      "options": [
+        "All cells are surrounded by a cell wall",
+        "All living things are made of cells",
+        "All cells arise from pre-existing cells",
+        "The cell is the basic unit of life"
+      ],
+      "answer": 2,
+      "explanation": "The third principle states that all cells arise only from pre-existing cells (biogenesis), refuting spontaneous generation."
+    },
+    {
+      "question": "Which of the following organisms is NOT composed of cells?",
+      "options": [
+        "Bacterium",
+        "Virus",
+        "Yeast",
+        "Amoeba"
+      ],
+      "answer": 1,
+      "explanation": "Viruses are acellular — they consist of genetic material (DNA or RNA) enclosed in a protein coat but are not made of cells."
+    },
+    {
+      "question": "How did the invention of the microscope contribute to the development of cell theory?",
+      "options": [
+        "It allowed scientists to see cells and their structures for the first time",
+        "It proved spontaneous generation of cells",
+        "It showed that all cells are identical",
+        "It demonstrated that cells do not reproduce"
+      ],
+      "answer": 0,
+      "explanation": "The microscope enabled scientists to observe cells directly, leading to the discoveries that formed the basis of cell theory."
+    },
+    {
+      "question": "What is the main difference between unicellular and multicellular organisms according to cell theory?",
+      "options": [
+        "Unicellular organisms are not alive",
+        "Unicellular organisms consist of a single cell, while multicellular organisms consist of many cells",
+        "Multicellular organisms do not come from pre-existing cells",
+        "Unicellular organisms have no DNA"
+      ],
+      "answer": 1,
+      "explanation": "Unicellular organisms (e.g., bacteria, amoeba) are made of one cell, while multicellular organisms (e.g., humans, trees) are composed of many cells."
+    },
+    {
+      "question": "Why is spontaneous generation rejected by cell theory?",
+      "options": [
+        "Cells have been observed arising spontaneously in laboratories",
+        "All known evidence shows that cells only arise from pre-existing cells",
+        "Spontaneous generation only applies to plants",
+        "Cells can be created artificially"
+      ],
+      "answer": 1,
+      "explanation": "Cell theory's third principle (biogenesis) states that cells come only from pre-existing cells, rejecting the idea of spontaneous generation."
+    },
+    {
+      "question": "Which two scientists are credited with formally proposing the cell theory in 1838-1839?",
+      "options": [
+        "Hooke and Leeuwenhoek",
+        "Schleiden and Schwann",
+        "Virchow and Hooke",
+        "Darwin and Mendel"
+      ],
+      "answer": 1,
+      "explanation": "Matthias Schleiden (plants, 1838) and Theodor Schwann (animals, 1839) together proposed that all living things are composed of cells."
+    },
+    {
+      "question": "What is the term for the idea that life arises from non-living matter?",
+      "options": [
+        "Biogenesis",
+        "Spontaneous generation",
+        "Cell theory",
+        "Photosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "Spontaneous generation (abiogenesis) is the disproven idea that living organisms can arise from non-living matter."
+    },
+    {
+      "question": "Which statement correctly describes the relationship between cell theory and modern biology?",
+      "options": [
+        "Cell theory is outdated and no longer used",
+        "Cell theory remains a fundamental unifying concept in biology",
+        "Cell theory only applies to plants",
+        "Cell theory has been replaced by molecular biology"
+      ],
+      "answer": 1,
+      "explanation": "Cell theory is one of the fundamental unifying concepts in biology, providing the foundation for understanding life processes."
+    },
+    {
+      "question": "Which of the following is true about the 'cell' as named by Robert Hooke?",
+      "options": [
+        "He was observing living cells with nuclei",
+        "He was observing the empty cell walls of dead cork cells",
+        "He was observing bacteria",
+        "He was observing animal cells"
+      ],
+      "answer": 1,
+      "explanation": "Hooke observed dead cork cells and saw only the cell walls remaining, which he named 'cells' because they resembled small rooms."
+    },
+    {
+      "question": "Why are mitochondria and chloroplasts sometimes considered exceptions to cell theory?",
+      "options": [
+        "They are not found in eukaryotic cells",
+        "They contain their own DNA and reproduce independently within the cell, similar to bacteria",
+        "They are not made of cells",
+        "They cannot reproduce"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondria and chloroplasts have their own DNA and ribosomes and reproduce by binary fission, supporting the endosymbiotic theory."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "title": "4.1 Asexual Reproduction",
+  "description": "Types and examples of asexual reproduction including fission, fragmentation, budding, and vegetative propagation",
+  "folder": "School/Grade 9/Biology/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit4"],
+  "questions": [
+    {
+      "question": "Which of the following best distinguishes living things from non-living matter?",
+      "options": ["Growth", "Movement", "The ability to reproduce", "Respiration"],
+      "correctAnswer": "The ability to reproduce",
+      "explanation": "Reproduction is one of the unique characteristics of life that best distinguishes living things from non-living matter.",
+      "anki": true
+    },
+    {
+      "question": "How many parents are involved in asexual reproduction?",
+      "options": ["One", "Two", "Three", "None"],
+      "correctAnswer": "One",
+      "explanation": "Asexual reproduction involves only one parent and produces genetically identical offspring.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is true about asexual reproduction?",
+      "options": ["It involves gametes", "It requires two parents", "It produces identical copies of the parent", "It always increases genetic variation"],
+      "correctAnswer": "It produces identical copies of the parent",
+      "explanation": "In asexual reproduction, each organism is capable of producing identical copies of itself without gametes.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an advantage of asexual reproduction?",
+      "options": ["High genetic variation", "No mate is needed", "Greater ability to adapt to changing environments", "Offspring are genetically different from the parent"],
+      "correctAnswer": "No mate is needed",
+      "explanation": "Advantages include no mate needed, no gametes needed, and all good characteristics are passed on to offspring.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a disadvantage of asexual reproduction?",
+      "options": ["Requires a mate", "Produces little genetic variation", "Involves complex gamete formation", "Offspring take too long to develop"],
+      "correctAnswer": "Produces little genetic variation",
+      "explanation": "Little variation is created, making adaptation to changing environments unlikely.",
+      "anki": true
+    },
+    {
+      "question": "In binary fission, the parent organism divides into how many equal parts?",
+      "options": ["Two", "Three", "Four", "Multiple"],
+      "correctAnswer": "Two",
+      "explanation": "In binary fission, the organism divides into two approximately equal parts, each growing into an individual similar to the parent.",
+      "anki": true
+    },
+    {
+      "question": "Binary fission is common among which of the following groups?",
+      "options": ["Vertebrates", "Bacteria and protozoa", "Mammals", "Birds"],
+      "correctAnswer": "Bacteria and protozoa",
+      "explanation": "Binary fission is common among bacteria, algae, and protozoa.",
+      "anki": true
+    },
+    {
+      "question": "Before a bacterium divides in binary fission, what must happen to its nucleus?",
+      "options": ["It disintegrates", "It is replicated to produce two identical copies", "It doubles in size", "It fuses with another nucleus"],
+      "correctAnswer": "It is replicated to produce two identical copies",
+      "explanation": "The bacterial nucleus is replicated to produce two identical copies so each daughter cell receives one copy.",
+      "anki": true
+    },
+    {
+      "question": "Multiple fission is common in which of the following organisms?",
+      "options": ["Bacteria", "Yeast", "Malarial parasites", "Spirogyra"],
+      "correctAnswer": "Malarial parasites",
+      "explanation": "In multiple fission, the nucleus divides repeatedly, producing many daughter cells, which is common in malarial parasites.",
+      "anki": true
+    },
+    {
+      "question": "In fragmentation, what happens to the parent organism?",
+      "options": ["It produces buds", "It divides into two equal parts", "It breaks into parts that develop into whole organisms", "It produces spores"],
+      "correctAnswer": "It breaks into parts that develop into whole organisms",
+      "explanation": "Fragmentation involves the breakdown of a parent organism into parts that each develop into a whole organism.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following organisms reproduces by fragmentation?",
+      "options": ["Yeast", "Hydra", "Spirogyra", "Amoeba"],
+      "correctAnswer": "Spirogyra",
+      "explanation": "Spirogyra, a filamentous green alga, undergoes fragmentation resulting in many filaments.",
+      "anki": true
+    },
+    {
+      "question": "In budding, the two daughter cells produced are typically:",
+      "options": ["Equal in size", "Unequal in size", "Identical in shape", "Produced by multiple fission"],
+      "correctAnswer": "Unequal in size",
+      "explanation": "In budding, the organism divides into two unequal parts; a bulge forms on the side of the cell.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following organisms reproduces by budding?",
+      "options": ["Amoeba", "Spirogyra", "Yeast", "Planaria"],
+      "correctAnswer": "Yeast",
+      "explanation": "In yeast, a bud develops on the surface of the cell; the nucleus divides and one daughter nucleus migrates into the bud.",
+      "anki": true
+    },
+    {
+      "question": "Which invertebrate animal is known to reproduce by budding?",
+      "options": ["Earthworm", "Hydra", "Planaria", "Amoeba"],
+      "correctAnswer": "Hydra",
+      "explanation": "Budding occurs commonly in some invertebrate animals such as hydra.",
+      "anki": true
+    },
+    {
+      "question": "Vegetative propagation is a method of asexual reproduction in:",
+      "options": ["Animals", "Fungi only", "Plants", "Bacteria"],
+      "correctAnswer": "Plants",
+      "explanation": "Vegetative propagation is a method of asexual reproduction in plants where structures like roots, stems, and buds give rise to new individuals.",
+      "anki": true
+    },
+    {
+      "question": "Runners in plants such as strawberry are also known as:",
+      "options": ["Tubers", "Stolons", "Bulbs", "Corms"],
+      "correctAnswer": "Stolons",
+      "explanation": "Runners (stolons) originate from an auxiliary bud and grow along the soil surface, producing new plants at nodes.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of a modified stem that stores starch?",
+      "options": ["Bulb", "Tuber", "Corm", "Rhizome"],
+      "correctAnswer": "Tuber",
+      "explanation": "Tubers are modified stems that store starch, as seen in potatoes.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following underground structures functions as a storage unit and has enlarged fleshy leaves?",
+      "options": ["Tuber", "Rhizome", "Bulb", "Stolon"],
+      "correctAnswer": "Bulb",
+      "explanation": "A bulb is a modified stem with enlarged fleshy leaves emerging from the stem, functioning as an underground storage unit.",
+      "anki": true
+    },
+    {
+      "question": "Corms are similar to rhizomes but differ because they are:",
+      "options": ["Thinner and longer", "More rounded and fleshy", "Above-ground structures", "Leaves instead of stems"],
+      "correctAnswer": "More rounded and fleshy",
+      "explanation": "Corms are similar to rhizomes but are more rounded and fleshy, like in gladiolus.",
+      "anki": true
+    },
+    {
+      "question": "In artificial grafting, the stem portion of the plant that is grafted is called the:",
+      "options": ["Stock", "Scion", "Root", "Stolon"],
+      "correctAnswer": "Scion",
+      "explanation": "The stem of the plant to be grafted is known as the scion, while the root portion is called the stock.",
+      "anki": true
+    },
+    {
+      "question": "In artificial vegetative propagation, which method involves bending a stem and covering it with soil while still attached to the parent?",
+      "options": ["Cutting", "Grafting", "Layering", "Micropropagation"],
+      "correctAnswer": "Layering",
+      "explanation": "Layering involves bending a stem attached to the plant and covering it with soil to produce roots.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of artificial vegetative propagation?",
+      "options": ["Runners", "Tubers", "Cutting", "Bulbs"],
+      "correctAnswer": "Cutting",
+      "explanation": "Cutting is an artificial method where a stem portion with nodes is placed in moist soil to root, as in hibiscus.",
+      "anki": true
+    },
+    {
+      "question": "Parthenogenesis is a form of asexual reproduction in which:",
+      "options": ["A fertilized egg develops into an adult", "An unfertilized egg develops into an adult", "A bud detaches from the parent", "The parent breaks into fragments"],
+      "correctAnswer": "An unfertilized egg develops into an adult",
+      "explanation": "Parthenogenesis is a form of asexual reproduction in which an unfertilized egg develops into an adult organism.",
+      "anki": true
+    },
+    {
+      "question": "In honeybees, bees produced through parthenogenesis are always:",
+      "options": ["Female workers", "Male drones", "Queen bees", "Both male and female"],
+      "correctAnswer": "Male drones",
+      "explanation": "Among honeybees, all bees derived through parthenogenesis are males — the drones of the colony.",
+      "anki": true
+    },
+    {
+      "question": "Asexual reproduction is absent in which group of animals?",
+      "options": ["Invertebrates", "Fungi", "Vertebrates", "Plants"],
+      "correctAnswer": "Vertebrates",
+      "explanation": "Asexual reproduction is absent among vertebrates.",
+      "anki": true
+    }
+  ]
+}

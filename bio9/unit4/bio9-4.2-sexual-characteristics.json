@@ -1,0 +1,178 @@
+{
+  "title": "4.2 Primary and Secondary Sexual Characteristics",
+  "description": "Sexual reproduction in humans, primary vs secondary sexual characteristics, and the role of hormones during puberty",
+  "folder": "School/Grade 9/Biology/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit4"],
+  "questions": [
+    {
+      "question": "What is the main difference between asexual and sexual reproduction?",
+      "options": ["Asexual reproduction involves two parents", "Sexual reproduction involves the production of sex cells", "Asexual reproduction always produces more offspring", "Sexual reproduction does not involve fertilization"],
+      "correctAnswer": "Sexual reproduction involves the production of sex cells",
+      "explanation": "Sexual reproduction involves the production of sex cells called gametes, which are made in reproductive organs through meiosis.",
+      "anki": true
+    },
+    {
+      "question": "The female gamete is called the:",
+      "options": ["Sperm", "Zygote", "Egg", "Follicle"],
+      "correctAnswer": "Egg",
+      "explanation": "The female gamete is called the egg or ovum, which is larger than the male gamete and is not mobile.",
+      "anki": true
+    },
+    {
+      "question": "The male gamete is called the:",
+      "options": ["Egg", "Zygote", "Sperm", "Testosterone"],
+      "correctAnswer": "Sperm",
+      "explanation": "The male gamete is the sperm, which is small and mobile.",
+      "anki": true
+    },
+    {
+      "question": "The fusion of sperm and egg is called:",
+      "options": ["Implantation", "Ovulation", "Fertilization", "Gestation"],
+      "correctAnswer": "Fertilization",
+      "explanation": "Sexual reproduction starts with the union of sperm and egg in a process called fertilization, resulting in a zygote.",
+      "anki": true
+    },
+    {
+      "question": "The fertilized egg is called a:",
+      "options": ["Gamete", "Zygote", "Embryo", "Fetus"],
+      "correctAnswer": "Zygote",
+      "explanation": "Fertilization results in the formation of a single cell called a zygote, which then grows into a new individual.",
+      "anki": true
+    },
+    {
+      "question": "Male gametes are produced through which type of cell division?",
+      "options": ["Mitosis", "Meiosis", "Binary fission", "Budding"],
+      "correctAnswer": "Meiosis",
+      "explanation": "Gametes are produced through meiosis, a type of cell division that produces cells with half the chromosome number.",
+      "anki": true
+    },
+    {
+      "question": "Primary sexual characteristics are:",
+      "options": ["Features that develop only at puberty", "Reproductive organs present at birth", "Non-reproductive traits that distinguish males and females", "Hormones produced by the pituitary gland"],
+      "correctAnswer": "Reproductive organs present at birth",
+      "explanation": "Primary sexual characteristics are the reproductive organs present at birth — males are born with penis, scrotum, and testicles; females with vagina, uterus, and ovaries.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a primary sexual characteristic in males?",
+      "options": ["Deep voice", "Facial hair", "Testicles", "Broad shoulders"],
+      "correctAnswer": "Testicles",
+      "explanation": "Males are born with the penis, scrotum, and testicles — these are primary sexual characteristics.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a primary sexual characteristic in females?",
+      "options": ["Breast development", "Wider hips", "Ovaries", "Menstruation"],
+      "correctAnswer": "Ovaries",
+      "explanation": "Females are born with the vagina, uterus, and ovaries as their primary sexual characteristics.",
+      "anki": true
+    },
+    {
+      "question": "Secondary sexual characteristics begin to develop during:",
+      "options": ["Infancy", "Puberty", "Middle age", "Old age"],
+      "correctAnswer": "Puberty",
+      "explanation": "Puberty or adolescence is the time when secondary sex characteristics begin to develop and sexual maturity is reached.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a secondary sexual characteristic in males?",
+      "options": ["Penis", "Scrotum", "Deepening of the voice", "Testes"],
+      "correctAnswer": "Deepening of the voice",
+      "explanation": "Secondary sexual characteristics in males include deepening of the voice, increased body hair, increased muscle mass, and growth of long bones.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a secondary sexual characteristic in females?",
+      "options": ["Uterus", "Ovaries", "Broadening of the hips", "Vagina"],
+      "correctAnswer": "Broadening of the hips",
+      "explanation": "Secondary sexual characteristics in females include broadening of the hips, breast development, increased body hair, and onset of menstruation.",
+      "anki": true
+    },
+    {
+      "question": "The changes that occur during puberty are controlled by:",
+      "options": ["Digestive enzymes", "Sex hormones", "Vitamins", "Nerve impulses"],
+      "correctAnswer": "Sex hormones",
+      "explanation": "The changes during puberty are controlled by sex hormones secreted by the endocrine system.",
+      "anki": true
+    },
+    {
+      "question": "In males, testosterone is produced in the:",
+      "options": ["Pituitary gland", "Testes", "Adrenal gland", "Prostate gland"],
+      "correctAnswer": "Testes",
+      "explanation": "Testosterone is produced by the testes and is responsible for the growth and development of secondary sex characteristics in males.",
+      "anki": true
+    },
+    {
+      "question": "FSH in males causes the production of:",
+      "options": ["Testosterone", "Sperm cells", "Estrogen", "LH"],
+      "correctAnswer": "Sperm cells",
+      "explanation": "FSH causes the production of sperm cells in the testes.",
+      "anki": true
+    },
+    {
+      "question": "In females, LH (luteinizing hormone) causes:",
+      "options": ["Eggs to be released into the oviduct", "Growth of long bones", "Voice deepening", "Facial hair growth"],
+      "correctAnswer": "Eggs to be released into the oviduct",
+      "explanation": "In females, LH causes eggs to be released into the oviduct (ovulation).",
+      "anki": true
+    },
+    {
+      "question": "Which hormone is responsible for the secondary sex characteristics in females?",
+      "options": ["Testosterone", "FSH", "Estrogen", "LH"],
+      "correctAnswer": "Estrogen",
+      "explanation": "FSH causes estrogen to be released from the ovary, and estrogen is responsible for the secondary sex characteristics of females.",
+      "anki": true
+    },
+    {
+      "question": "Puberty in males is initiated when the hypothalamus interacts with which gland?",
+      "options": ["Thyroid gland", "Pituitary gland", "Adrenal gland", "Pineal gland"],
+      "correctAnswer": "Pituitary gland",
+      "explanation": "The hypothalamus produces hormones that interact with the pituitary gland, which releases FSH and LH.",
+      "anki": true
+    },
+    {
+      "question": "Adolescence is the period between:",
+      "options": ["Infancy and childhood", "Puberty and adulthood", "Adulthood and old age", "Birth and puberty"],
+      "correctAnswer": "Puberty and adulthood",
+      "explanation": "Adolescence is the period between puberty and adulthood when a good deal of social learning takes place.",
+      "anki": true
+    },
+    {
+      "question": "Biologically, teenagers are considered adult when:",
+      "options": ["They reach the age of 18", "They can support themselves", "They have reached puberty and are capable of having children", "They complete high school"],
+      "correctAnswer": "They have reached puberty and are capable of having children",
+      "explanation": "Biologically, teenagers are adult after they have reached puberty and are capable of having children.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a psychological change during puberty?",
+      "options": ["Deepening of voice", "Changes in body image and self-esteem", "Growth of body hair", "Broadening of hips"],
+      "correctAnswer": "Changes in body image and self-esteem",
+      "explanation": "During puberty, bodies change rapidly, leading to changes in body image and self-esteem.",
+      "anki": true
+    },
+    {
+      "question": "The male hormone that influences the production of sperm cells is:",
+      "options": ["Estrogen", "Progesterone", "Testosterone", "FSH"],
+      "correctAnswer": "Testosterone",
+      "explanation": "Testosterone influences the production of sperm cells and is responsible for male secondary sex characteristics.",
+      "anki": true
+    },
+    {
+      "question": "The pituitary gland releases which two hormones that affect the reproductive system?",
+      "options": ["Testosterone and estrogen", "FSH and LH", "Progesterone and estrogen", "Adrenaline and cortisol"],
+      "correctAnswer": "FSH and LH",
+      "explanation": "The pituitary gland releases follicle-stimulating hormone (FSH) and luteinizing hormone (LH).",
+      "anki": true
+    },
+    {
+      "question": "In males, what does FSH cause in the testes?",
+      "options": ["Production of testosterone", "Production of sperm cells", "Release of semen", "Development of the penis"],
+      "correctAnswer": "Production of sperm cells",
+      "explanation": "In the testes, FSH causes the production of sperm cells.",
+      "anki": true
+    }
+  ]
+}

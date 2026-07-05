@@ -1,0 +1,171 @@
+{
+  "title": "4.5 Fertilization and Pregnancy",
+  "description": "Fertilization, implantation, embryo development, placenta function, gestation, and labor",
+  "folder": "School/Grade 9/Biology/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit4"],
+  "questions": [
+    {
+      "question": "The act of sexual intercourse is called:",
+      "options": ["Fertilization", "Copulation", "Ovulation", "Implantation"],
+      "correctAnswer": "Copulation",
+      "explanation": "In the act of copulation, the male inserts the penis into the female's vagina and ejaculates semen.",
+      "anki": true
+    },
+    {
+      "question": "Fertilization typically occurs in which part of the female reproductive system?",
+      "options": ["Ovary", "Uterus", "Fallopian tube (oviduct)", "Vagina"],
+      "correctAnswer": "Fallopian tube (oviduct)",
+      "explanation": "Fertilization occurs in the oviduct (fallopian tube), where the sperm meets the egg.",
+      "anki": true
+    },
+    {
+      "question": "At the moment of fertilization, what happens?",
+      "options": ["The sperm enters the uterus", "The male nucleus of the sperm fuses with the female nucleus of the egg", "The egg splits into two", "The zygote implants in the uterus"],
+      "correctAnswer": "The male nucleus of the sperm fuses with the female nucleus of the egg",
+      "explanation": "The sperm enters the cytoplasm of the egg and the male nucleus fuses with the female nucleus — this is the moment of fertilization.",
+      "anki": true
+    },
+    {
+      "question": "After ovulation, the released egg is thought to survive for approximately:",
+      "options": ["6 hours", "24 hours", "48 hours", "72 hours"],
+      "correctAnswer": "24 hours",
+      "explanation": "The released egg is thought to survive for about 24 hours after ovulation.",
+      "anki": true
+    },
+    {
+      "question": "Sperm can fertilize an egg for approximately how long after ejaculation?",
+      "options": ["A few hours", "2 to 3 days", "5 to 7 days", "One week"],
+      "correctAnswer": "2 to 3 days",
+      "explanation": "Sperm might be able to fertilize an ovum for about 2 or 3 days.",
+      "anki": true
+    },
+    {
+      "question": "The process by which the early embryo sinks into the lining of the uterus is called:",
+      "options": ["Fertilization", "Ovulation", "Implantation", "Gestation"],
+      "correctAnswer": "Implantation",
+      "explanation": "The early embryo travels down the oviduct to the uterus, where it sinks into the lining in a process called implantation.",
+      "anki": true
+    },
+    {
+      "question": "The embryo is called a fetus after approximately how many weeks of development?",
+      "options": ["4 weeks", "6 weeks", "8 weeks", "12 weeks"],
+      "correctAnswer": "8 weeks",
+      "explanation": "After 8 weeks, when all the organs are formed, the embryo is called a fetus.",
+      "anki": true
+    },
+    {
+      "question": "One of the first organs to form in the developing embryo is the:",
+      "options": ["Brain", "Heart", "Lungs", "Liver"],
+      "correctAnswer": "Heart",
+      "explanation": "One of the first organs to form is the heart, which pumps blood around the body of the embryo.",
+      "anki": true
+    },
+    {
+      "question": "The fluid-filled sac that encloses and protects the embryo is called the:",
+      "options": ["Placenta", "Amnion", "Umbilical cord", "Endometrium"],
+      "correctAnswer": "Amnion",
+      "explanation": "Inside the uterus, the embryo becomes enclosed in a fluid-filled sac called the amnion, which protects it from damage.",
+      "anki": true
+    },
+    {
+      "question": "The fluid inside the amnion is called:",
+      "options": ["Synovial fluid", "Amniotic fluid", "Cerebrospinal fluid", "Follicular fluid"],
+      "correctAnswer": "Amniotic fluid",
+      "explanation": "The fluid inside the amnion is called amniotic fluid, which protects the embryo from damage and unequal pressures.",
+      "anki": true
+    },
+    {
+      "question": "The placenta is attached to the embryo by the:",
+      "options": ["Umbilical cord", "Amnion", "Cervix", "Oviduct"],
+      "correctAnswer": "Umbilical cord",
+      "explanation": "The placenta is attached to the embryo by a tube called the umbilical cord.",
+      "anki": true
+    },
+    {
+      "question": "The main function of the placenta is to:",
+      "options": ["Produce eggs", "Provide oxygen and nutrients to the embryo", "Store waste products", "Produce amniotic fluid"],
+      "correctAnswer": "Provide oxygen and nutrients to the embryo",
+      "explanation": "Oxygen and nutrients such as glucose and amino acids pass across the placenta from the mother's blood to the embryo's bloodstream.",
+      "anki": true
+    },
+    {
+      "question": "In the placenta, the blood of the mother and the embryo:",
+      "options": ["Mix together completely", "Do not mix; exchange occurs across membranes", "Are separated by a thick wall with no exchange", "Mix only during labor"],
+      "correctAnswer": "Do not mix; exchange occurs across membranes",
+      "explanation": "Blood entering the placenta from the mother does not mix with the embryo's blood; substances diffuse across the placental membrane.",
+      "anki": true
+    },
+    {
+      "question": "Which substance passes from the embryo's blood to the mother's blood through the placenta?",
+      "options": ["Oxygen", "Glucose", "Carbon dioxide", "Amino acids"],
+      "correctAnswer": "Carbon dioxide",
+      "explanation": "Carbon dioxide passes from the embryo's blood to that of the mother through the placenta.",
+      "anki": true
+    },
+    {
+      "question": "Identical (monozygotic) twins are formed from:",
+      "options": ["Two separate eggs fertilized by two sperm", "One zygote that splits into two", "Two eggs fertilized by one sperm", "One egg fertilized by two sperm"],
+      "correctAnswer": "One zygote that splits into two",
+      "explanation": "Identical twins come from one zygote (monozygotic) that splits into two, while fraternal twins come from two separate zygotes.",
+      "anki": true
+    },
+    {
+      "question": "Fraternal (dizygotic) twins:",
+      "options": ["Are always the same sex", "Resemble each other exactly", "Do not resemble each other more than other siblings", "Always share one placenta"],
+      "correctAnswer": "Do not resemble each other more than other siblings",
+      "explanation": "Fraternal twins do not resemble each other any more than other children born separately in the same family.",
+      "anki": true
+    },
+    {
+      "question": "Identical twins are always:",
+      "options": ["Of opposite sexes", "Of the same sex", "Fraternal", "Born with separate placentas"],
+      "correctAnswer": "Of the same sex",
+      "explanation": "Identical twins are strikingly alike and always of the same sex.",
+      "anki": true
+    },
+    {
+      "question": "The period of development of the embryo and fetus inside the uterus is called:",
+      "options": ["Gestation", "Ovulation", "Fertilization", "Lactation"],
+      "correctAnswer": "Gestation",
+      "explanation": "Gestation is the period of development of the embryo and fetus inside the uterus from fertilization to birth.",
+      "anki": true
+    },
+    {
+      "question": "Neural tube defects (NTDs) are birth defects of the brain and spine that can be prevented by:",
+      "options": ["Calcium supplementation", "Folic acid supplementation before and during pregnancy", "Iron supplementation", "Vitamin C supplementation"],
+      "correctAnswer": "Folic acid supplementation before and during pregnancy",
+      "explanation": "Women should take folic acid-rich foods before and during pregnancy to prevent neural tube defects.",
+      "anki": true
+    },
+    {
+      "question": "For fertilization to be possible, intercourse should occur:",
+      "options": ["Only on the day of ovulation", "Within the 4-day fertile window around ovulation", "Any time during the menstrual cycle", "Only after ovulation is confirmed"],
+      "correctAnswer": "Within the 4-day fertile window around ovulation",
+      "explanation": "There is only a short period of about 4 days each month when fertilization might occur, based on egg and sperm survival.",
+      "anki": true
+    },
+    {
+      "question": "The zygote first divides into two cells, then four, and eventually forms a:",
+      "options": ["Solid ball of cells", "Hollow ball of cells", "Flat disc of cells", "Single large cell"],
+      "correctAnswer": "Solid ball of cells",
+      "explanation": "The cells continue to divide to produce a solid ball of cells, an early stage in the development of the embryo.",
+      "anki": true
+    },
+    {
+      "question": "The first cells that form the placenta instead of the organs of the embryo grow into a disc-like structure called the:",
+      "options": ["Amnion", "Placenta", "Endometrium", "Corpus luteum"],
+      "correctAnswer": "Placenta",
+      "explanation": "Some cells grow into a disc-like structure called the placenta, which attaches to the lining of the uterus.",
+      "anki": true
+    },
+    {
+      "question": "The process of giving birth is called:",
+      "options": ["Gestation", "Labor", "Ovulation", "Implantation"],
+      "correctAnswer": "Labor",
+      "explanation": "Labor is the process of giving birth, during which the uterus contracts to push the baby through the cervix and vagina.",
+      "anki": true
+    }
+  ]
+}

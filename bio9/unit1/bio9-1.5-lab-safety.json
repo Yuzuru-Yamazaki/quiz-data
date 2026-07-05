@@ -1,0 +1,370 @@
+{
+  "title": "1.5 Laboratory Safety",
+  "description": "General laboratory safety rules and procedures",
+  "folder": "School/Grade 9/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What should be worn in the laboratory to protect your clothing from chemicals and spills?",
+      "options": [
+        "School uniform",
+        "Lab coat or apron",
+        "Sports jersey",
+        "Street clothes only"
+      ],
+      "correctAnswer": "Lab coat or apron"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What should be worn to protect your eyes from chemicals, glass shards, or other hazards?",
+      "options": [
+        "Sunglasses",
+        "Safety goggles",
+        "Reading glasses",
+        "Contact lenses"
+      ],
+      "correctAnswer": "Safety goggles"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Why should eating and drinking be prohibited in the laboratory?",
+      "options": [
+        "It is messy",
+        "Food and drink can become contaminated with hazardous chemicals",
+        "It distracts other students",
+        "It takes too much time"
+      ],
+      "correctAnswer": "Food and drink can become contaminated with hazardous chemicals"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "How should chemical wastes be disposed of in the laboratory?",
+      "options": [
+        "Poured down the sink with water",
+        "Thrown in the regular trash bin",
+        "Follow proper waste disposal guidelines provided by the teacher",
+        "Left in the containers open to evaporate"
+      ],
+      "correctAnswer": "Follow proper waste disposal guidelines provided by the teacher"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What should you do if a chemical spills on your skin?",
+      "options": [
+        "Wipe it off with a paper towel",
+        "Rinse the affected area with plenty of water immediately",
+        "Wait for the teacher to arrive",
+        "Cover it with a bandage"
+      ],
+      "correctAnswer": "Rinse the affected area with plenty of water immediately"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What is the correct way to smell a chemical in the laboratory?",
+      "options": [
+        "Directly inhale the fumes",
+        "Waft the fumes toward your nose with your hand",
+        "Place the container under your nose",
+        "Smell it only if it is labeled safe"
+      ],
+      "correctAnswer": "Waft the fumes toward your nose with your hand"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What should you do if a fire starts in the laboratory?",
+      "options": [
+        "Pour water on it immediately",
+        "Notify the teacher and use a fire extinguisher if trained",
+        "Run out of the room",
+        "Cover it with a book"
+      ],
+      "correctAnswer": "Notify the teacher and use a fire extinguisher if trained"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Where should flammable materials be kept in relation to a Bunsen burner flame?",
+      "options": [
+        "Close to the flame for easy access",
+        "Away from the flame",
+        "Above the flame",
+        "Next to the flame"
+      ],
+      "correctAnswer": "Away from the flame"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What is the first step to take if someone gets injured in the laboratory?",
+      "options": [
+        "Call a parent",
+        "Administer first aid immediately",
+        "Notify the teacher and seek medical attention",
+        "Clean up the injury yourself"
+      ],
+      "correctAnswer": "Notify the teacher and seek medical attention"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What is the purpose of a first aid kit in the laboratory?",
+      "options": [
+        "To store chemicals",
+        "To treat minor injuries such as cuts and burns",
+        "To clean glassware",
+        "To hold specimens"
+      ],
+      "correctAnswer": "To treat minor injuries such as cuts and burns"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Why should long hair be tied back in the laboratory?",
+      "options": [
+        "For a neat appearance",
+        "To prevent it from catching fire or getting caught in equipment",
+        "To keep it clean",
+        "To avoid distractions"
+      ],
+      "correctAnswer": "To prevent it from catching fire or getting caught in equipment"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Why should loose clothing be avoided in the laboratory?",
+      "options": [
+        "It is uncomfortable",
+        "It can catch fire or get caught in equipment",
+        "It is against dress code",
+        "It restricts movement"
+      ],
+      "correctAnswer": "It can catch fire or get caught in equipment"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What should you do before leaving the laboratory at the end of a session?",
+      "options": [
+        "Leave equipment on the bench",
+        "Wash your hands thoroughly",
+        "Take home leftover chemicals",
+        "Turn off only the lights"
+      ],
+      "correctAnswer": "Wash your hands thoroughly"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "How should broken glass be disposed of in the laboratory?",
+      "options": [
+        "Thrown in the regular trash bin",
+        "Placed in a designated sharps or broken glass container",
+        "Left on the floor for later cleanup",
+        "Buried in the sink"
+      ],
+      "correctAnswer": "Placed in a designated sharps or broken glass container"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What should you do if you are unsure about a laboratory procedure?",
+      "options": [
+        "Proceed carefully on your own",
+        "Ask the teacher for instructions before starting",
+        "Watch a classmate and copy them",
+        "Skip that part of the experiment"
+      ],
+      "correctAnswer": "Ask the teacher for instructions before starting"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Where should backpacks and personal belongings be kept in the laboratory?",
+      "options": [
+        "On the lab bench",
+        "On the floor near your feet",
+        "In designated storage areas away from the work area",
+        "Under the sink"
+      ],
+      "correctAnswer": "In designated storage areas away from the work area"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What should you do if you cut yourself with a scalpel or broken glass?",
+      "options": [
+        "Wash the wound and apply a bandage from the first aid kit",
+        "Ignore it and continue working",
+        "Pour chemicals on the wound",
+        "Blow on it to clean it"
+      ],
+      "correctAnswer": "Wash the wound and apply a bandage from the first aid kit"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Why is it important to keep the laboratory bench clean and organized?",
+      "options": [
+        "To look professional",
+        "To prevent accidents and contamination",
+        "To save space",
+        "To make cleaning easier at the end"
+      ],
+      "correctAnswer": "To prevent accidents and contamination"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "What should you do if you accidentally break a thermometer containing mercury?",
+      "options": [
+        "Clean it up with a paper towel",
+        "Notify the teacher immediately as mercury is toxic",
+        "Leave it on the floor",
+        "Throw it in the trash"
+      ],
+      "correctAnswer": "Notify the teacher immediately as mercury is toxic"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "How should chemicals be transported in the laboratory?",
+      "options": [
+        "Carry them with both hands and walk carefully",
+        "Run quickly to avoid spills",
+        "Roll containers across the bench",
+        "Carry multiple containers at once"
+      ],
+      "correctAnswer": "Carry them with both hands and walk carefully"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "What is the correct way to heat a test tube?",
+      "options": [
+        "Point the open end toward yourself",
+        "Point the open end away from yourself and others",
+        "Fill the test tube completely",
+        "Heat only the bottom"
+      ],
+      "correctAnswer": "Point the open end away from yourself and others"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Why should you never use chipped or cracked glassware?",
+      "options": [
+        "It looks bad",
+        "It may break during use and cause injury",
+        "It is difficult to clean",
+        "It does not hold liquids well"
+      ],
+      "correctAnswer": "It may break during use and cause injury"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What should you do if an electrical cord is frayed or damaged?",
+      "options": [
+        "Cover it with tape",
+        "Notify the teacher and do not use the equipment",
+        "Continue using it carefully",
+        "Wrap it in paper"
+      ],
+      "correctAnswer": "Notify the teacher and do not use the equipment"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Why is it important to know the location of the fire extinguisher, eyewash station, and first aid kit?",
+      "options": [
+        "To pass the safety quiz",
+        "To respond quickly in case of an emergency",
+        "To use them for regular experiments",
+        "To show visitors"
+      ],
+      "correctAnswer": "To respond quickly in case of an emergency"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "What should you do if a chemical splashes into your eyes?",
+      "options": [
+        "Rub your eyes vigorously",
+        "Flush your eyes at the eyewash station for at least 15 minutes",
+        "Close your eyes and wait",
+        "Put on goggles"
+      ],
+      "correctAnswer": "Flush your eyes at the eyewash station for at least 15 minutes"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Why should you not use laboratory glassware for eating or drinking?",
+      "options": [
+        "It is expensive",
+        "It may be contaminated with chemical residues",
+        "It is too small",
+        "It breaks easily"
+      ],
+      "correctAnswer": "It may be contaminated with chemical residues"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "What is the correct way to dilute a concentrated acid?",
+      "options": [
+        "Add water to the acid",
+        "Add acid to water slowly while stirring",
+        "Mix them in equal amounts quickly",
+        "Heat the acid before adding water"
+      ],
+      "correctAnswer": "Add acid to water slowly while stirring"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Why should you never return unused chemicals to their original containers?",
+      "options": [
+        "It saves time",
+        "It could contaminate the entire supply",
+        "The container will overflow",
+        "The teacher will get confused"
+      ],
+      "correctAnswer": "It could contaminate the entire supply"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "What should you do with used matches and lit materials after using a Bunsen burner?",
+      "options": [
+        "Throw them in the trash bin",
+        "Place them in a designated heat-resistant container",
+        "Leave them on the bench",
+        "Put them in water"
+      ],
+      "correctAnswer": "Place them in a designated heat-resistant container"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "What is the purpose of a fire blanket in the laboratory?",
+      "options": [
+        "To cover windows",
+        "To smother small fires or wrap around a person whose clothing is on fire",
+        "To clean spills",
+        "To insulate equipment"
+      ],
+      "correctAnswer": "To smother small fires or wrap around a person whose clothing is on fire"
+    }
+  ]
+}

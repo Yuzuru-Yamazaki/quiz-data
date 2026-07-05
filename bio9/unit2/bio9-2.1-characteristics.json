@@ -1,0 +1,185 @@
+{
+  "title": "2.1 Characteristics of Living Things",
+  "description": "Characteristics that distinguish living from non-living things",
+  "folder": "School/Grade 9/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit2"],
+  "questions": [
+    {
+      "question": "Which mnemonic is commonly used to remember the seven characteristics of living things?",
+      "options": ["MRSGREN", "MRSNERG", "MRSGERN", "MSRGREN"],
+      "correctAnswer": "MRSGREN",
+      "explanation": "MRSGREN stands for Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, and Nutrition.",
+      "anki": true
+    },
+    {
+      "question": "What characteristic of living things is demonstrated when an animal moves from one place to another?",
+      "options": ["Nutrition", "Movement", "Growth", "Excretion"],
+      "correctAnswer": "Movement",
+      "explanation": "Movement is a change in position or location of the whole organism or its parts.",
+      "anki": true
+    },
+    {
+      "question": "Which characteristic refers to the process by which organisms release energy from food?",
+      "options": ["Sensitivity", "Reproduction", "Respiration", "Excretion"],
+      "correctAnswer": "Respiration",
+      "explanation": "Respiration is the breakdown of food molecules to release energy, which may be aerobic or anaerobic.",
+      "anki": true
+    },
+    {
+      "question": "The ability of organisms to detect and respond to changes in their environment is called:",
+      "options": ["Movement", "Growth", "Sensitivity", "Nutrition"],
+      "correctAnswer": "Sensitivity",
+      "explanation": "Sensitivity (also called irritability) allows organisms to respond to stimuli such as light, temperature, and sound.",
+      "anki": true
+    },
+    {
+      "question": "Which characteristic of living things is defined as an irreversible increase in size and mass?",
+      "options": ["Reproduction", "Growth", "Nutrition", "Excretion"],
+      "correctAnswer": "Growth",
+      "explanation": "Growth is a permanent increase in size and mass due to the addition of new cells or cell enlargement.",
+      "anki": true
+    },
+    {
+      "question": "The process by which living organisms produce offspring of the same kind is called:",
+      "options": ["Excretion", "Respiration", "Reproduction", "Nutrition"],
+      "correctAnswer": "Reproduction",
+      "explanation": "Reproduction ensures the continuation of species and can be sexual or asexual.",
+      "anki": true
+    },
+    {
+      "question": "What is the removal of metabolic waste products from the body of an organism called?",
+      "options": ["Egestion", "Excretion", "Secretion", "Digestion"],
+      "correctAnswer": "Excretion",
+      "explanation": "Excretion is the removal of waste products produced by metabolic reactions, such as urea and carbon dioxide.",
+      "anki": true
+    },
+    {
+      "question": "Which characteristic involves the acquisition and utilization of food by organisms?",
+      "options": ["Respiration", "Growth", "Nutrition", "Sensitivity"],
+      "correctAnswer": "Nutrition",
+      "explanation": "Nutrition is the process by which organisms obtain and use food for energy, growth, and repair.",
+      "anki": true
+    },
+    {
+      "question": "What distinguishes living things from non-living things?",
+      "options": ["They occupy space", "They possess all seven characteristics of life", "They have mass", "They are made of atoms"],
+      "correctAnswer": "They possess all seven characteristics of life",
+      "explanation": "Living things exhibit all seven life processes (MRSGREN), while non-living things may show some but not all.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of living things?",
+      "options": ["Movement", "Evaporation", "Respiration", "Reproduction"],
+      "correctAnswer": "Evaporation",
+      "explanation": "Evaporation is a physical process, not a life characteristic. Movement, respiration, and reproduction are all life processes.",
+      "anki": true
+    },
+    {
+      "question": "What type of respiration requires oxygen?",
+      "options": ["Anaerobic respiration", "Aerobic respiration", "Fermentation", "Photosynthesis"],
+      "correctAnswer": "Aerobic respiration",
+      "explanation": "Aerobic respiration uses oxygen to break down glucose and release a large amount of energy.",
+      "anki": true
+    },
+    {
+      "question": "Plants show movement primarily through:",
+      "options": ["Running away from danger", "Growth movements such as tropisms", "Swimming in water", "Flying in air"],
+      "correctAnswer": "Growth movements such as tropisms",
+      "explanation": "Plants are generally sessile but show movement through growth responses called tropisms, such as phototropism and geotropism.",
+      "anki": true
+    },
+    {
+      "question": "The process by which plants make their own food using sunlight is called:",
+      "options": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+      "correctAnswer": "Photosynthesis",
+      "explanation": "Photosynthesis is the process by which green plants use sunlight, carbon dioxide, and water to produce glucose and oxygen.",
+      "anki": true
+    },
+    {
+      "question": "Which life process is responsible for the removal of carbon dioxide from the body?",
+      "options": ["Nutrition", "Excretion", "Digestion", "Egestion"],
+      "correctAnswer": "Excretion",
+      "explanation": "Excretion removes metabolic wastes including carbon dioxide, which is a waste product of respiration.",
+      "anki": true
+    },
+    {
+      "question": "What is the difference between egestion and excretion?",
+      "options": ["They are the same process", "Egestion removes undigested food, excretion removes metabolic wastes", "Excretion removes undigested food, egestion removes metabolic wastes", "Both remove only solid wastes"],
+      "correctAnswer": "Egestion removes undigested food, excretion removes metabolic wastes",
+      "explanation": "Egestion is the removal of undigested food (faeces), while excretion removes metabolic wastes like urea and carbon dioxide.",
+      "anki": true
+    },
+    {
+      "question": "Which characteristic is essential for the continuation of a species over generations?",
+      "options": ["Growth", "Reproduction", "Nutrition", "Movement"],
+      "correctAnswer": "Reproduction",
+      "explanation": "Without reproduction, species would become extinct because individuals eventually die.",
+      "anki": true
+    },
+    {
+      "question": "An organism that cannot carry out respiration would:",
+      "options": ["Continue to grow normally", "Not be able to release energy from food", "Still reproduce successfully", "Become more sensitive to stimuli"],
+      "correctAnswer": "Not be able to release energy from food",
+      "explanation": "Respiration is essential for releasing energy from food; without it, the organism cannot power its life processes.",
+      "anki": true
+    },
+    {
+      "question": "Which statement about non-living things is correct?",
+      "options": ["They show all characteristics of life", "They show none of the characteristics of life", "They may show some life characteristics but not all", "They grow and reproduce like living things"],
+      "correctAnswer": "They may show some life characteristics but not all",
+      "explanation": "Non-living things may show one or two life processes (e.g., crystals grow) but do not exhibit all seven characteristics.",
+      "anki": true
+    },
+    {
+      "question": "The removal of undigested food materials from the body is known as:",
+      "options": ["Excretion", "Egestion", "Elimination", "Secretion"],
+      "correctAnswer": "Egestion",
+      "explanation": "Egestion is the expulsion of undigested food (faeces) from the digestive tract, different from excretion of metabolic wastes.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of sensitivity in plants?",
+      "options": ["A tree growing taller", "A sunflower turning toward sunlight", "A plant producing seeds", "Leaves falling in autumn"],
+      "correctAnswer": "A sunflower turning toward sunlight",
+      "explanation": "Turning toward sunlight (phototropism) is a response to a stimulus, demonstrating sensitivity.",
+      "anki": true
+    },
+    {
+      "question": "Organisms that feed on other organisms for nutrition are called:",
+      "options": ["Autotrophs", "Heterotrophs", "Producers", "Photosynthetic organisms"],
+      "correctAnswer": "Heterotrophs",
+      "explanation": "Heterotrophs cannot make their own food and must consume other organisms for nutrition.",
+      "anki": true
+    },
+    {
+      "question": "Organisms that can make their own food are called:",
+      "options": ["Heterotrophs", "Consumers", "Autotrophs", "Decomposers"],
+      "correctAnswer": "Autotrophs",
+      "explanation": "Autotrophs produce their own food through photosynthesis or chemosynthesis, making them self-feeding.",
+      "anki": true
+    },
+    {
+      "question": "Which process in living things is the opposite of respiration?",
+      "options": ["Photosynthesis", "Digestion", "Excretion", "Movement"],
+      "correctAnswer": "Photosynthesis",
+      "explanation": "Photosynthesis consumes carbon dioxide and water to produce glucose and oxygen, while respiration consumes oxygen and glucose to produce carbon dioxide, water, and energy.",
+      "anki": true
+    },
+    {
+      "question": "Why is a car not considered a living thing even though it moves?",
+      "options": ["It can carry passengers", "It does not show all characteristics of life", "It uses fuel", "It has an engine"],
+      "correctAnswer": "It does not show all characteristics of life",
+      "explanation": "A car may show movement but it does not respire, grow, reproduce, excrete, or show sensitivity, so it lacks most life characteristics.",
+      "anki": true
+    },
+    {
+      "question": "What happens to the growth of a living organism when it reaches maturity?",
+      "options": ["It continues growing at the same rate forever", "Growth stops completely at maturity", "Growth slows down but cell replacement continues", "It starts shrinking"],
+      "correctAnswer": "Growth slows down but cell replacement continues",
+      "explanation": "Growth slows or stops at maturity, but cells are still replaced through processes like mitosis throughout the organism's life.",
+      "anki": true
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "title": "1.2 The Scientific Method",
+  "description": "Steps of the scientific method and experimental design",
+  "folder": "School/Grade 9/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the first step of the scientific method?",
+      "options": [
+        "Forming a hypothesis",
+        "Conducting an experiment",
+        "Making an observation",
+        "Drawing a conclusion"
+      ],
+      "correctAnswer": "Making an observation"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "After making an observation, what is the next step in the scientific method?",
+      "options": [
+        "Conducting an experiment",
+        "Asking a question",
+        "Drawing a conclusion",
+        "Communicating results"
+      ],
+      "correctAnswer": "Asking a question"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "What is a hypothesis?",
+      "options": [
+        "A proven fact",
+        "A testable explanation or prediction for an observation",
+        "A final conclusion",
+        "A random guess"
+      ],
+      "correctAnswer": "A testable explanation or prediction for an observation"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "After forming a hypothesis, what is the next step in the scientific method?",
+      "options": [
+        "Drawing a conclusion",
+        "Communicating results",
+        "Conducting an experiment to test the hypothesis",
+        "Making another observation"
+      ],
+      "correctAnswer": "Conducting an experiment to test the hypothesis"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What is a controlled experiment?",
+      "options": [
+        "An experiment where all variables are changed",
+        "An experiment where only one variable is changed at a time while others are kept constant",
+        "An experiment conducted without any measurements",
+        "An experiment that does not require a hypothesis"
+      ],
+      "correctAnswer": "An experiment where only one variable is changed at a time while others are kept constant"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "In a controlled experiment, what is the variable that is changed by the scientist called?",
+      "options": [
+        "Controlled variable",
+        "Dependent variable",
+        "Independent variable",
+        "Constant variable"
+      ],
+      "correctAnswer": "Independent variable"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In a controlled experiment, what is the variable that is measured or observed called?",
+      "options": [
+        "Independent variable",
+        "Controlled variable",
+        "Dependent variable",
+        "Constant variable"
+      ],
+      "correctAnswer": "Dependent variable"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What are variables that are kept the same in both the experimental and control groups called?",
+      "options": [
+        "Independent variables",
+        "Dependent variables",
+        "Controlled variables or constants",
+        "Changing variables"
+      ],
+      "correctAnswer": "Controlled variables or constants"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What is the purpose of a control group in an experiment?",
+      "options": [
+        "To receive the experimental treatment",
+        "To provide a baseline for comparison",
+        "To change the independent variable",
+        "To measure the dependent variable"
+      ],
+      "correctAnswer": "To provide a baseline for comparison"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "After conducting an experiment and analyzing the data, what is the next step in the scientific method?",
+      "options": [
+        "Forming a new hypothesis",
+        "Communicating the results",
+        "Drawing a conclusion",
+        "Making an observation"
+      ],
+      "correctAnswer": "Drawing a conclusion"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "What does a conclusion in the scientific method do?",
+      "options": [
+        "Proposes a new question",
+        "States whether the hypothesis is supported or rejected based on the evidence",
+        "Describes the observation in detail",
+        "Lists the materials used"
+      ],
+      "correctAnswer": "States whether the hypothesis is supported or rejected based on the evidence"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "What is the final step of the scientific method?",
+      "options": [
+        "Conducting the experiment",
+        "Forming a hypothesis",
+        "Communicating the results to others",
+        "Drawing a conclusion"
+      ],
+      "correctAnswer": "Communicating the results to others"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "How can scientific results be communicated?",
+      "options": [
+        "Only through books",
+        "Through scientific journals, conferences, and presentations",
+        "Only through oral discussions",
+        "Only through television"
+      ],
+      "correctAnswer": "Through scientific journals, conferences, and presentations"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Why is it important for a hypothesis to be testable?",
+      "options": [
+        "So it can be proven true without evidence",
+        "So it can be supported or rejected through experimentation",
+        "So it can be published immediately",
+        "So it cannot be changed"
+      ],
+      "correctAnswer": "So it can be supported or rejected through experimentation"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What happens to a hypothesis that is repeatedly supported by experiments?",
+      "options": [
+        "It becomes a scientific theory",
+        "It is discarded",
+        "It becomes a law immediately",
+        "It cannot be tested again"
+      ],
+      "correctAnswer": "It becomes a scientific theory"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "What is the difference between a hypothesis and a theory?",
+      "options": [
+        "A hypothesis is a proven fact, while a theory is a guess",
+        "A hypothesis is a testable prediction, while a theory is a well-supported explanation supported by extensive evidence",
+        "They are the same thing",
+        "A theory is a prediction, while a hypothesis is an explanation"
+      ],
+      "correctAnswer": "A hypothesis is a testable prediction, while a theory is a well-supported explanation supported by extensive evidence"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What is a scientific law?",
+      "options": [
+        "A well-supported explanation of natural phenomena",
+        "A statement that describes a consistent and universal natural phenomenon",
+        "An untested idea",
+        "A prediction made by a scientist"
+      ],
+      "correctAnswer": "A statement that describes a consistent and universal natural phenomenon"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "If a hypothesis is rejected after an experiment, what should the scientist do?",
+      "options": [
+        "Ignore the results",
+        "Modify the hypothesis and test again",
+        "Publish the results as a theory",
+        "Stop the investigation"
+      ],
+      "correctAnswer": "Modify the hypothesis and test again"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Why is replication important in scientific experiments?",
+      "options": [
+        "To make the experiment more expensive",
+        "To ensure the results are reliable and consistent",
+        "To make the experiment take longer",
+        "To confuse other scientists"
+      ],
+      "correctAnswer": "To ensure the results are reliable and consistent"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "What is the role of a control group in a plant growth experiment testing a new fertilizer?",
+      "options": [
+        "Plants that receive the new fertilizer",
+        "Plants that receive no fertilizer",
+        "Plants that receive twice the normal amount of fertilizer",
+        "Plants grown in the dark"
+      ],
+      "correctAnswer": "Plants that receive no fertilizer"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "In an experiment testing the effect of light on plant growth, what is the independent variable?",
+      "options": [
+        "The amount of water given to the plants",
+        "The height of the plants",
+        "The amount of light the plants receive",
+        "The type of soil used"
+      ],
+      "correctAnswer": "The amount of light the plants receive"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "In an experiment testing the effect of light on plant growth, what is the dependent variable?",
+      "options": [
+        "The amount of light",
+        "The type of plant",
+        "The growth or height of the plant",
+        "The temperature of the room"
+      ],
+      "correctAnswer": "The growth or height of the plant"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What is data collected during an experiment?",
+      "options": [
+        "The hypothesis",
+        "The conclusion",
+        "The information and measurements gathered from observations",
+        "The question asked at the beginning"
+      ],
+      "correctAnswer": "The information and measurements gathered from observations"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "What is the purpose of analyzing data after an experiment?",
+      "options": [
+        "To form a new hypothesis",
+        "To identify patterns and determine whether the data supports the hypothesis",
+        "To make new observations",
+        "To communicate results"
+      ],
+      "correctAnswer": "To identify patterns and determine whether the data supports the hypothesis"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "What is an experimental group in a controlled experiment?",
+      "options": [
+        "The group that does not receive the treatment",
+        "The group that receives the treatment or has the independent variable applied",
+        "The group where no measurements are taken",
+        "The group that forms the hypothesis"
+      ],
+      "correctAnswer": "The group that receives the treatment or has the independent variable applied"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Why is it important to change only one variable at a time in an experiment?",
+      "options": [
+        "To make the experiment simpler",
+        "To be certain that the observed effect is caused by the independent variable",
+        "To reduce the cost of the experiment",
+        "To save time"
+      ],
+      "correctAnswer": "To be certain that the observed effect is caused by the independent variable"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "What is the role of peer review in the scientific method?",
+      "options": [
+        "To reject all new ideas",
+        "To evaluate the quality and validity of research before publication",
+        "To keep results secret",
+        "To fund the research"
+      ],
+      "correctAnswer": "To evaluate the quality and validity of research before publication"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Observations made using the five senses or with instruments are referred to as what?",
+      "options": [
+        "Inferences",
+        "Qualitative and quantitative data",
+        "Hypotheses",
+        "Conclusions"
+      ],
+      "correctAnswer": "Qualitative and quantitative data"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "What type of data involves numerical measurements such as height, mass, and temperature?",
+      "options": [
+        "Qualitative data",
+        "Descriptive data",
+        "Quantitative data",
+        "Observational data"
+      ],
+      "correctAnswer": "Quantitative data"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "What type of data involves descriptions using words such as color, texture, and smell?",
+      "options": [
+        "Quantitative data",
+        "Numerical data",
+        "Measured data",
+        "Qualitative data"
+      ],
+      "correctAnswer": "Qualitative data"
+    }
+  ]
+}

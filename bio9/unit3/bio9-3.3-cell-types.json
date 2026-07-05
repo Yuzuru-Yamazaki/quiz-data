@@ -1,0 +1,340 @@
+{
+  "title": "3.3 Cell Types",
+  "description": "Prokaryotic vs eukaryotic cells and plant vs animal cells",
+  "folder": "School/Grade 9/Biology/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit3"],
+  "questions": [
+    {
+      "question": "What is the main difference between prokaryotic and eukaryotic cells?",
+      "options": [
+        "Prokaryotic cells are larger than eukaryotic cells",
+        "Prokaryotic cells lack a membrane-bound nucleus, while eukaryotic cells have a true nucleus",
+        "Prokaryotic cells have mitochondria, eukaryotic cells do not",
+        "Only eukaryotic cells have ribosomes"
+      ],
+      "answer": 1,
+      "explanation": "The key difference is that prokaryotic cells have no membrane-bound nucleus (their DNA is in a nucleoid region), while eukaryotic cells have a true nucleus enclosed by a nuclear membrane."
+    },
+    {
+      "question": "Which of the following is an example of a prokaryotic organism?",
+      "options": [
+        "Amoeba",
+        "Escherichia coli (E. coli)",
+        "Yeast",
+        "Human skin cell"
+      ],
+      "answer": 1,
+      "explanation": "E. coli is a bacterium and therefore a prokaryote. Amoeba, yeast, and human cells are eukaryotes."
+    },
+    {
+      "question": "Which of the following is an example of a eukaryotic organism?",
+      "options": [
+        "Salmonella bacterium",
+        "Human liver cell",
+        "Archaea",
+        "E. coli"
+      ],
+      "answer": 1,
+      "explanation": "Human liver cells are eukaryotic (having a true nucleus and membrane-bound organelles). Bacteria and archaea are prokaryotes."
+    },
+    {
+      "question": "Which structure is found in plant cells but NOT in animal cells?",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Cell wall",
+        "Cell membrane"
+      ],
+      "answer": 2,
+      "explanation": "Plant cells have a rigid cell wall made of cellulose outside the cell membrane, which animal cells lack."
+    },
+    {
+      "question": "Which structure is found in plant cells but NOT in animal cells?",
+      "options": [
+        "Golgi apparatus",
+        "Chloroplasts",
+        "Ribosomes",
+        "Endoplasmic reticulum"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplasts (for photosynthesis) are found in plant cells but not in animal cells."
+    },
+    {
+      "question": "Which structure is found in plant cells but NOT in animal cells?",
+      "options": [
+        "Nucleolus",
+        "Large central vacuole",
+        "Lysosomes",
+        "Cytoplasm"
+      ],
+      "answer": 1,
+      "explanation": "Plant cells contain a large central vacuole that stores water and maintains turgor pressure; animal cells have smaller vacuoles if any."
+    },
+    {
+      "question": "What shape do most plant cells have?",
+      "options": [
+        "Irregular and round",
+        "Rectangular or fixed shape",
+        "Spiral-shaped",
+        "Star-shaped"
+      ],
+      "answer": 1,
+      "explanation": "Plant cells are typically rectangular or have a fixed, regular shape due to the rigid cell wall, while animal cells are more irregular or round."
+    },
+    {
+      "question": "What shape do most animal cells have?",
+      "options": [
+        "Rectangular",
+        "Irregular, round, or variable shape",
+        "Square",
+        "Hexagonal"
+      ],
+      "answer": 1,
+      "explanation": "Animal cells typically have irregular, round, or variable shapes because they lack a rigid cell wall."
+    },
+    {
+      "question": "Do prokaryotic cells have ribosomes?",
+      "options": [
+        "No, they use host ribosomes",
+        "Yes, but they are smaller (70S) than eukaryotic ribosomes (80S)",
+        "Only some prokaryotes have ribosomes",
+        "Yes, they are identical to eukaryotic ribosomes"
+      ],
+      "answer": 1,
+      "explanation": "Prokaryotic cells have 70S ribosomes (smaller), while eukaryotic cells have 80S ribosomes (larger)."
+    },
+    {
+      "question": "Where is the DNA located in a prokaryotic cell?",
+      "options": [
+        "Inside a membrane-bound nucleus",
+        "In the nucleoid region (a region of the cytoplasm without a membrane)",
+        "Inside the mitochondria",
+        "Scattered throughout the cell wall"
+      ],
+      "answer": 1,
+      "explanation": "Prokaryotic DNA is found in the nucleoid region — a concentrated area in the cytoplasm that is not enclosed by a membrane."
+    },
+    {
+      "question": "Which of the following organelles is found in eukaryotic cells but NOT in prokaryotic cells?",
+      "options": [
+        "Ribosomes",
+        "Cell membrane",
+        "Mitochondria",
+        "Cytoplasm"
+      ],
+      "answer": 2,
+      "explanation": "Mitochondria are membrane-bound organelles found only in eukaryotic cells. Prokaryotes lack all membrane-bound organelles."
+    },
+    {
+      "question": "Do prokaryotic cells have a cell wall?",
+      "options": [
+        "No, they only have a cell membrane",
+        "Yes, most have a cell wall (peptidoglycan in bacteria)",
+        "Only some prokaryotes have a cell wall",
+        "They have a cell wall made of cellulose"
+      ],
+      "answer": 1,
+      "explanation": "Most prokaryotic cells (bacteria) have a cell wall made of peptidoglycan, which provides structural support."
+    },
+    {
+      "question": "What is the typical size range of prokaryotic cells compared to eukaryotic cells?",
+      "options": [
+        "Prokaryotes are much larger (100-1000 $\\mu$m)",
+        "Prokaryotes are smaller (0.1-5 $\\mu$m), eukaryotes are larger (10-100 $\\mu$m)",
+        "They are approximately the same size",
+        "Prokaryotes are 1-10 mm in size"
+      ],
+      "answer": 1,
+      "explanation": "Prokaryotic cells are generally much smaller (0.1-5 $\\mu$m), while eukaryotic cells are larger (10-100 $\\mu$m)."
+    },
+    {
+      "question": "Which of the following is found in animal cells but NOT in plant cells?",
+      "options": [
+        "Centrioles",
+        "Nucleus",
+        "Mitochondria",
+        "Cell membrane"
+      ],
+      "answer": 0,
+      "explanation": "Centrioles (involved in cell division) are found in animal cells but not in most plant cells."
+    },
+    {
+      "question": "What is the storage form of carbohydrates in plant cells?",
+      "options": [
+        "Glycogen",
+        "Starch",
+        "Glucose",
+        "Cellulose"
+      ],
+      "answer": 1,
+      "explanation": "Plants store carbohydrates as starch, while animal cells store carbohydrates as glycogen."
+    },
+    {
+      "question": "What is the storage form of carbohydrates in animal cells?",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Chitin"
+      ],
+      "answer": 1,
+      "explanation": "Animal cells store excess glucose as glycogen (mainly in liver and muscle cells), while plants store it as starch."
+    },
+    {
+      "question": "Which type of cell division occurs in prokaryotic cells?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "answer": 2,
+      "explanation": "Prokaryotic cells reproduce by binary fission — a simple division process where the DNA replicates and the cell divides into two identical cells."
+    },
+    {
+      "question": "Which of the following is true about the genetic material of prokaryotic cells?",
+      "options": [
+        "It is linear and contained within a nucleus",
+        "It is typically a single circular chromosome located in the nucleoid region",
+        "It is found in multiple linear chromosomes inside a nucleus",
+        "Prokaryotes have no DNA"
+      ],
+      "answer": 1,
+      "explanation": "Prokaryotic DNA consists of a single circular chromosome located in the nucleoid region, unlike the linear chromosomes in eukaryotic nuclei."
+    },
+    {
+      "question": "What is the main reason plant cells are able to maintain a fixed rectangular shape?",
+      "options": [
+        "They have a large central vacuole",
+        "They have a rigid cell wall made of cellulose",
+        "They have chloroplasts",
+        "They contain starch granules"
+      ],
+      "answer": 1,
+      "explanation": "The rigid cell wall of cellulose provides structural support and maintains the fixed rectangular shape of plant cells."
+    },
+    {
+      "question": "Which of the following is an example of a prokaryotic organism?",
+      "options": [
+        "Paramecium",
+        "Lactobacillus (a bacterium used in yogurt production)",
+        "Mushroom",
+        "Euglena"
+      ],
+      "answer": 1,
+      "explanation": "Lactobacillus is a bacterium and therefore prokaryotic. Paramecium, mushrooms (fungi), and Euglena are eukaryotes."
+    },
+    {
+      "question": "Which group of organisms is classified as having eukaryotic cells?",
+      "options": [
+        "Bacteria only",
+        "Archaea only",
+        "Animals, plants, fungi, and protists",
+        "Only plants and animals"
+      ],
+      "answer": 2,
+      "explanation": "Eukaryotes include all members of the kingdoms Animalia, Plantae, Fungi, and Protista — organisms with true nuclei and membrane-bound organelles."
+    },
+    {
+      "question": "What is the main difference in the cell wall composition between bacteria and plant cells?",
+      "options": [
+        "Bacterial cell walls are made of cellulose; plant cell walls are made of peptidoglycan",
+        "Bacterial cell walls contain peptidoglycan; plant cell walls contain cellulose",
+        "Both have cell walls made of the same material",
+        "Bacteria do not have cell walls"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial cell walls are made of peptidoglycan (a polymer of sugars and amino acids), while plant cell walls are made of cellulose."
+    },
+    {
+      "question": "Do plant cells contain lysosomes?",
+      "options": [
+        "Yes, plant cells contain many lysosomes for digestion",
+        "No, plant cells do not have lysosomes; the vacuole performs some digestive functions",
+        "Only in the roots",
+        "Only in the leaves"
+      ],
+      "answer": 1,
+      "explanation": "Most plant cells lack lysosomes. The central vacuole in plant cells can perform some digestive and waste-removal functions."
+    },
+    {
+      "question": "What is the primary function of the large central vacuole in plant cells?",
+      "options": [
+        "Protein synthesis",
+        "Photosynthesis",
+        "Water storage and maintenance of turgor pressure",
+        "Cell division"
+      ],
+      "answer": 2,
+      "explanation": "The large central vacuole stores water, maintains turgor pressure that keeps the plant rigid, and also stores nutrients and waste products."
+    },
+    {
+      "question": "Which kingdom consists entirely of prokaryotic organisms?",
+      "options": [
+        "Animalia",
+        "Plantae",
+        "Monera",
+        "Fungi"
+      ],
+      "answer": 2,
+      "explanation": "Kingdom Monera (Eubacteria and Archaebacteria) consists entirely of prokaryotic organisms."
+    },
+    {
+      "question": "What is the size of eukaryotic ribosomes?",
+      "options": [
+        "30S",
+        "50S",
+        "70S",
+        "80S"
+      ],
+      "answer": 3,
+      "explanation": "Eukaryotic ribosomes are 80S (larger), while prokaryotic ribosomes are 70S (smaller)."
+    },
+    {
+      "question": "What is the size of prokaryotic ribosomes?",
+      "options": [
+        "30S",
+        "70S",
+        "80S",
+        "100S"
+      ],
+      "answer": 1,
+      "explanation": "Prokaryotic ribosomes are 70S, composed of a 50S large subunit and a 30S small subunit."
+    },
+    {
+      "question": "Which of the following is NOT a difference between plant and animal cells?",
+      "options": [
+        "Presence of cell wall",
+        "Presence of mitochondria",
+        "Presence of chloroplasts",
+        "Shape of the cell"
+      ],
+      "answer": 1,
+      "explanation": "Both plant and animal cells contain mitochondria. The differences include cell wall, chloroplasts, vacuoles, and shape."
+    },
+    {
+      "question": "What is the function of plasmids in prokaryotic cells?",
+      "options": [
+        "They are the main chromosome",
+        "They are small circular DNA molecules that carry extra genes (e.g., antibiotic resistance)",
+        "They are involved in photosynthesis",
+        "They synthesize proteins"
+      ],
+      "answer": 1,
+      "explanation": "Plasmids are small, circular DNA molecules separate from the main chromosome, often carrying genes for antibiotic resistance or other advantages."
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "options": [
+        "All prokaryotes are multicellular",
+        "All eukaryotes are multicellular",
+        "Prokaryotes can be unicellular, and all eukaryotes are multicellular",
+        "Prokaryotes are always unicellular; eukaryotes can be unicellular or multicellular"
+      ],
+      "answer": 3,
+      "explanation": "Prokaryotes are always unicellular. Eukaryotes can be unicellular (e.g., amoeba, yeast) or multicellular (e.g., humans, trees)."
+    }
+  ]
+}

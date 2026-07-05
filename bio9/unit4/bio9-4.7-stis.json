@@ -1,0 +1,178 @@
+{
+  "title": "4.7 Sexually Transmitted Infections (STIs)",
+  "description": "Types, transmission, symptoms, prevention, and treatment of STIs including HIV/AIDS, gonorrhea, syphilis, chlamydia, HPV, herpes, and trichomoniasis",
+  "folder": "School/Grade 9/Biology/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit4"],
+  "questions": [
+    {
+      "question": "Sexually transmitted infections (STIs) spread primarily through:",
+      "options": ["Airborne droplets", "Contaminated food", "Sexual contact", "Insect bites"],
+      "correctAnswer": "Sexual contact",
+      "explanation": "Sexually transmitted infections are infections which spread through sexual contact.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is among the most common STIs in Ethiopia?",
+      "options": ["Hepatitis B", "Trichomoniasis", "Rubella", "Tuberculosis"],
+      "correctAnswer": "Trichomoniasis",
+      "explanation": "Trichomoniasis, syphilis, gonorrhea, chancroid, and HIV/AIDS are the common STIs in Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "Trichomoniasis is caused by which type of organism?",
+      "options": ["Bacterium", "Virus", "Flagellated protozoan", "Fungus"],
+      "correctAnswer": "Flagellated protozoan",
+      "explanation": "Trichomoniasis is caused by the flagellated protozoan Trichomonas vaginalis.",
+      "anki": true
+    },
+    {
+      "question": "A common symptom of trichomoniasis in infected women is:",
+      "options": ["Painful urination only", "Yellowish discharge and sore itchy vagina", "Skin rash", "Fever and chills"],
+      "correctAnswer": "Yellowish discharge and sore itchy vagina",
+      "explanation": "Some infected women have a yellowish discharge and a sore, itchy vagina.",
+      "anki": true
+    },
+    {
+      "question": "Chlamydia is caused by:",
+      "options": ["A virus", "A fungus", "Small bacteria called Chlamydia trachomatis", "A protozoan"],
+      "correctAnswer": "Small bacteria called Chlamydia trachomatis",
+      "explanation": "Chlamydia is caused by Chlamydia trachomatis, which are small bacteria.",
+      "anki": true
+    },
+    {
+      "question": "What symptom do most infected men with chlamydia experience?",
+      "options": ["No symptoms at all", "Clear or yellow discharge from the penis", "Swollen testicles", "Fever and headache"],
+      "correctAnswer": "Clear or yellow discharge from the penis",
+      "explanation": "Most infected men have a clear or yellow discharge from the penis.",
+      "anki": true
+    },
+    {
+      "question": "Left untreated, chlamydia can lead to:",
+      "options": ["Blindness", "Infertility in both sexes", "Kidney failure", "Liver damage"],
+      "correctAnswer": "Infertility in both sexes",
+      "explanation": "Left untreated, a chlamydia infection can scar the reproductive tract and lead to infertility in both sexes.",
+      "anki": true
+    },
+    {
+      "question": "Chlamydia can be passed from mother to child during birth, causing:",
+      "options": ["Deafness and blindness", "Pneumonia and conjunctivitis in the newborn", "Heart defects", "Skin rashes"],
+      "correctAnswer": "Pneumonia and conjunctivitis in the newborn",
+      "explanation": "Chlamydia can be passed from a mother to child during birth, causing pneumonia and conjunctivitis in the newborn.",
+      "anki": true
+    },
+    {
+      "question": "Gonorrhea is caused by the bacterium:",
+      "options": ["Treponema pallidum", "Neisseria gonorrhoeae", "Chlamydia trachomatis", "Trichomonas vaginalis"],
+      "correctAnswer": "Neisseria gonorrhoeae",
+      "explanation": "Gonorrhea is caused by Neisseria gonorrhoeae.",
+      "anki": true
+    },
+    {
+      "question": "In men, symptoms of gonorrhea usually develop within:",
+      "options": ["One day", "One week", "One month", "Three months"],
+      "correctAnswer": "One week",
+      "explanation": "Men usually develop symptoms within one week of becoming infected with gonorrhea.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a symptom of gonorrhea in men?",
+      "options": ["Yellow pus oozing from the penis", "Clear discharge only", "Skin chancres", "Swollen lymph nodes"],
+      "correctAnswer": "Yellow pus oozing from the penis",
+      "explanation": "In men, yellow pus oozes from the penis and urination becomes frequent and painful.",
+      "anki": true
+    },
+    {
+      "question": "Syphilis is caused by which type of organism?",
+      "options": ["A virus", "A spiral-shaped bacterium (Treponema pallidum)", "A protozoan", "A fungus"],
+      "correctAnswer": "A spiral-shaped bacterium (Treponema pallidum)",
+      "explanation": "Syphilis is caused by Treponema pallidum, a spiral-shaped bacterium.",
+      "anki": true
+    },
+    {
+      "question": "If syphilis is left untreated, it can eventually damage the:",
+      "options": ["Only the skin", "Liver, bones, and brain", "Only the reproductive organs", "Only the heart"],
+      "correctAnswer": "Liver, bones, and brain",
+      "explanation": "If untreated, syphilis can become systemic, damaging the liver, bones, and eventually the brain.",
+      "anki": true
+    },
+    {
+      "question": "HIV stands for:",
+      "options": ["Human Infectious Virus", "Human Immunodeficiency Virus", "Hereditary Immune Deficiency Virus", "Human Induced Viral Infection"],
+      "correctAnswer": "Human Immunodeficiency Virus",
+      "explanation": "HIV stands for Human Immunodeficiency Virus, which kills immune cells in the body.",
+      "anki": true
+    },
+    {
+      "question": "HIV can be transmitted through all of the following EXCEPT:",
+      "options": ["Blood transfusion", "Sharing contaminated needles", "Casual hugging", "Breast milk"],
+      "correctAnswer": "Casual hugging",
+      "explanation": "HIV spreads through blood or body fluids via sexual contact, contaminated needles, blood transfusion, and from mother to child, but not through casual contact.",
+      "anki": true
+    },
+    {
+      "question": "Early symptoms of AIDS may include all of the following EXCEPT:",
+      "options": ["Swollen lymph nodes", "Weight loss and fever", "Increased appetite", "Night sweats and fatigue"],
+      "correctAnswer": "Increased appetite",
+      "explanation": "Early symptoms include swollen lymph nodes, loss of appetite, weight loss, fever, rashes, night sweats, and fatigue.",
+      "anki": true
+    },
+    {
+      "question": "The first symptoms of AIDS may not appear for as many as:",
+      "options": ["One year", "Five years", "Ten years", "Twenty years"],
+      "correctAnswer": "Ten years",
+      "explanation": "The first symptoms of AIDS may not appear for as many as ten years after a person is infected.",
+      "anki": true
+    },
+    {
+      "question": "A person who has HIV antibodies in their blood is said to be:",
+      "options": ["HIV immune", "HIV positive", "HIV resistant", "HIV cured"],
+      "correctAnswer": "HIV positive",
+      "explanation": "If HIV antibodies are present, the person is said to be HIV positive.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a viral STI for which there is currently no cure?",
+      "options": ["Chlamydia", "Syphilis", "HIV/AIDS", "Gonorrhea"],
+      "correctAnswer": "HIV/AIDS",
+      "explanation": "HIV is viral, and there are no drugs to cure viral STIs. Antibiotics are not effective against viruses.",
+      "anki": true
+    },
+    {
+      "question": "Bacterial STIs such as syphilis and gonorrhea can be treated with:",
+      "options": ["Antiviral drugs", "Antibiotics", "Vaccines", "Pain relievers"],
+      "correctAnswer": "Antibiotics",
+      "explanation": "STIs caused by bacteria, such as syphilis and gonorrhea, can be treated with antibiotics if recognized early.",
+      "anki": true
+    },
+    {
+      "question": "The best way to avoid sexually transmitted infections is:",
+      "options": ["Taking regular antibiotics", "Avoiding sexual intercourse with an infected person", "Using only natural family planning", "Getting vaccinated against all STIs"],
+      "correctAnswer": "Avoiding sexual intercourse with an infected person",
+      "explanation": "The best way to avoid STIs is to avoid having sexual intercourse with an infected person.",
+      "anki": true
+    },
+    {
+      "question": "Which barrier method can greatly reduce the risk of catching STIs?",
+      "options": ["Diaphragm", "Contraceptive pill", "Condom (male or female)", "IUD"],
+      "correctAnswer": "Condom (male or female)",
+      "explanation": "The risk of catching an STI can be greatly reduced if a condom (male or female) is used, as it acts as a barrier.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is NOT an effective way to control the spread of STIs?",
+      "options": ["Using condoms during intercourse", "Being faithful to one partner", "Douching after intercourse", "Seeking immediate treatment if infection is suspected"],
+      "correctAnswer": "Douching after intercourse",
+      "explanation": "Effective control includes condom use, faithfulness to one partner, seeking treatment, and ensuring partners are also treated.",
+      "anki": true
+    },
+    {
+      "question": "Antibiotics are not effective against which type of STI?",
+      "options": ["Gonorrhea", "Chlamydia", "Syphilis", "HIV"],
+      "correctAnswer": "HIV",
+      "explanation": "HIV is viral, so antibiotics are not effective. Only bacterial and protozoan STIs can be treated with antibiotics.",
+      "anki": true
+    }
+  ]
+}

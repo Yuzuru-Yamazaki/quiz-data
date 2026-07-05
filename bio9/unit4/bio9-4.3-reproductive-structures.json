@@ -1,0 +1,178 @@
+{
+  "title": "4.3 Male and Female Reproductive Structures",
+  "description": "Structure and function of male and female reproductive organs",
+  "folder": "School/Grade 9/Biology/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit4"],
+  "questions": [
+    {
+      "question": "The male gonads that produce sperm and testosterone are the:",
+      "options": ["Seminal vesicles", "Testes", "Prostate gland", "Epididymis"],
+      "correctAnswer": "Testes",
+      "explanation": "Paired testes are the sites of sperm production and also produce the male sex hormone testosterone.",
+      "anki": true
+    },
+    {
+      "question": "The testes are housed in the scrotum because:",
+      "options": ["It provides protection from injury", "A lower temperature is needed for viable sperm formation", "It allows easier blood flow", "It is closer to the penis"],
+      "correctAnswer": "A lower temperature is needed for viable sperm formation",
+      "explanation": "The scrotum suspends the testes outside the abdominal cavity, providing a slightly lower temperature required for viable sperm formation.",
+      "anki": true
+    },
+    {
+      "question": "Sperm are produced in which part of the testis?",
+      "options": ["Epididymis", "Seminiferous tubules", "Vas deferens", "Seminal vesicles"],
+      "correctAnswer": "Seminiferous tubules",
+      "explanation": "Each testis is composed of numerous seminiferous tubules in which the sperm develop.",
+      "anki": true
+    },
+    {
+      "question": "Sperm maturation occurs in the:",
+      "options": ["Vas deferens", "Seminiferous tubules", "Epididymis", "Prostate gland"],
+      "correctAnswer": "Epididymis",
+      "explanation": "Sperm travel from the seminiferous tubules to the epididymis, where sperm maturation occurs.",
+      "anki": true
+    },
+    {
+      "question": "The duct that carries mature sperm from the epididymis to the urethra is the:",
+      "options": ["Vas deferens", "Seminiferous tubule", "Fallopian tube", "Prostate duct"],
+      "correctAnswer": "Vas deferens",
+      "explanation": "The vas deferens is one of a pair of long ducts that convey mature sperm from the epididymis toward the urethra.",
+      "anki": true
+    },
+    {
+      "question": "The urethra in males carries:",
+      "options": ["Only sperm", "Only urine", "Both sperm and urine", "Only semen"],
+      "correctAnswer": "Both sperm and urine",
+      "explanation": "The vas deferens joins the urethra, a duct that carries both sperm and urinary products through the penis.",
+      "anki": true
+    },
+    {
+      "question": "Which gland secretes a fructose-rich fluid that provides energy for sperm?",
+      "options": ["Prostate gland", "Seminal vesicle", "Bulbourethral gland", "Pituitary gland"],
+      "correctAnswer": "Seminal vesicle",
+      "explanation": "Seminal vesicles are exocrine glands that secrete fructose-rich fluid into the vasa deferentia to nourish sperm.",
+      "anki": true
+    },
+    {
+      "question": "The prostate gland produces secretions that:",
+      "options": ["Kill bacteria in the urethra", "Raise the pH of the female reproductive tract", "Provide energy for sperm", "Lubricate the penis"],
+      "correctAnswer": "Raise the pH of the female reproductive tract",
+      "explanation": "The prostate gland produces alkaline secretions that help raise the pH of the female reproductive tract, making it more hospitable to sperm.",
+      "anki": true
+    },
+    {
+      "question": "The bulbourethral glands secrete a fluid that:",
+      "options": ["Provides energy to sperm", "Lubricates the urethra and clears residual urine", "Helps sperm penetrate the egg", "Thickens the uterine lining"],
+      "correctAnswer": "Lubricates the urethra and clears residual urine",
+      "explanation": "Bulbourethral glands secrete a lubricating mucus into the urethra that helps clear residual urine.",
+      "anki": true
+    },
+    {
+      "question": "Semen is composed of:",
+      "options": ["Only sperm", "Sperm mixed with secretions from the seminal vesicles and prostate gland", "Only fluids from the prostate", "Sperm and urine"],
+      "correctAnswer": "Sperm mixed with secretions from the seminal vesicles and prostate gland",
+      "explanation": "Semen is a mix of sperm, proteins, nutrients, ions, and signalling molecules from accessory glands.",
+      "anki": true
+    },
+    {
+      "question": "Sperm constitute what percentage of semen volume?",
+      "options": ["Less than 5 percent", "About 25 percent", "About 50 percent", "More than 75 percent"],
+      "correctAnswer": "Less than 5 percent",
+      "explanation": "Sperm constitute less than 5 percent of semen volume.",
+      "anki": true
+    },
+    {
+      "question": "The head of a sperm cell contains:",
+      "options": ["Mitochondria", "Genetic material and enzymes", "Flagellum", "Nourishing fluid"],
+      "correctAnswer": "Genetic material and enzymes",
+      "explanation": "The sperm head is packed with genetic material and covered by enzymes that help it penetrate an egg.",
+      "anki": true
+    },
+    {
+      "question": "The midpiece of a sperm cell contains many:",
+      "options": ["Enzymes", "Mitochondria", "Flagella", "Nuclei"],
+      "correctAnswer": "Mitochondria",
+      "explanation": "The midsection contains many mitochondria that supply the energy required for flagellar movement.",
+      "anki": true
+    },
+    {
+      "question": "The female gonads that produce eggs and sex hormones are the:",
+      "options": ["Fallopian tubes", "Ovaries", "Uterus", "Vagina"],
+      "correctAnswer": "Ovaries",
+      "explanation": "Ovaries are the female gonads that produce and release eggs and secrete estrogens and progesterone.",
+      "anki": true
+    },
+    {
+      "question": "The main sex hormones produced by the ovaries are:",
+      "options": ["FSH and LH", "Estrogens and progesterone", "Testosterone and estrogen", "Progesterone and FSH"],
+      "correctAnswer": "Estrogens and progesterone",
+      "explanation": "Ovaries secrete estrogens and progesterone, the main sex hormones in females.",
+      "anki": true
+    },
+    {
+      "question": "The hollow tube that connects the ovary to the uterus is the:",
+      "options": ["Vagina", "Cervix", "Oviduct (fallopian tube)", "Urethra"],
+      "correctAnswer": "Oviduct (fallopian tube)",
+      "explanation": "Adjacent to each ovary is an oviduct, a hollow tube that connects the ovary to the uterus.",
+      "anki": true
+    },
+    {
+      "question": "The uterus is a hollow, pear-shaped organ that is specialized for:",
+      "options": ["Producing eggs", "Housing the developing embryo", "Producing hormones", "Fertilization"],
+      "correctAnswer": "Housing the developing embryo",
+      "explanation": "The uterus is specialized for housing the embryo during its intrauterine existence.",
+      "anki": true
+    },
+    {
+      "question": "The narrowed lower region of the uterus that opens into the vagina is the:",
+      "options": ["Cervix", "Endometrium", "Oviduct", "Labia"],
+      "correctAnswer": "Cervix",
+      "explanation": "The bottom of the uterus, a narrowed region called the cervix, opens into the vagina.",
+      "anki": true
+    },
+    {
+      "question": "The vagina serves as:",
+      "options": ["The site of egg production", "The organ of intercourse and the birth canal", "The site of fertilization", "The storage site for eggs"],
+      "correctAnswer": "The organ of intercourse and the birth canal",
+      "explanation": "The vagina extends from the cervix to the body's surface and is the organ of intercourse and the birth canal.",
+      "anki": true
+    },
+    {
+      "question": "The external female genitals include the:",
+      "options": ["Ovaries and fallopian tubes", "Labia majora and labia minora", "Cervix and uterus", "Endometrium and myometrium"],
+      "correctAnswer": "Labia majora and labia minora",
+      "explanation": "Female genitals include two pairs of liplike skin folds: the labia majora (thick outer folds) and labia minora (thin inner folds).",
+      "anki": true
+    },
+    {
+      "question": "The lining of the uterus is called the:",
+      "options": ["Endometrium", "Cervix", "Myometrium", "Perimetrium"],
+      "correctAnswer": "Endometrium",
+      "explanation": "The uterus consists of thick muscular walls, many blood vessels, and a specialized lining called the endometrium.",
+      "anki": true
+    },
+    {
+      "question": "The oviducts are lined with cilia that function to:",
+      "options": ["Produce eggs", "Propel the egg away from the ovary", "Secrete hormones", "Prevent sperm entry"],
+      "correctAnswer": "Propel the egg away from the ovary",
+      "explanation": "The uterine tubes are lined with cilia for propelling the egg away from the ovary from which it was released.",
+      "anki": true
+    },
+    {
+      "question": "The structure in females that contains erectile tissue and is highly sensitive to tactile stimulation is the:",
+      "options": ["Labia majora", "Labia minora", "Clitoris", "Hymen"],
+      "correctAnswer": "Clitoris",
+      "explanation": "The clitoris lies near the anterior junction of the labia minora and contains erectile tissue that is highly sensitive to tactile stimulation.",
+      "anki": true
+    },
+    {
+      "question": "The membrane that partly covers the vaginal opening in virgins is called the:",
+      "options": ["Labia", "Clitoris", "Hymen", "Cervix"],
+      "correctAnswer": "Hymen",
+      "explanation": "The opening into the vagina is often reduced in size in the virgin state by a membrane called the hymen.",
+      "anki": true
+    }
+  ]
+}

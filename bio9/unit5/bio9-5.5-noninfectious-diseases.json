@@ -1,0 +1,110 @@
+{
+  "title": "5.5 Non-Infectious Diseases",
+  "description": "Non-infectious diseases, their causes, and prevention",
+  "folder": "School/Grade 9/Biology/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit5"],
+  "questions": [
+    {
+      "question": "What is a non-infectious disease?",
+      "options": ["A disease that is not caused by pathogens; it may be caused by malnutrition, chemical effects, or genetic factors", "A disease caused by bacteria or viruses", "A disease that can spread from person to person", "A disease caused by parasites"],
+      "answer": "A disease that is not caused by pathogens; it may be caused by malnutrition, chemical effects, or genetic factors"
+    },
+    {
+      "question": "Which of the following is an example of a non-infectious disease?",
+      "options": ["Cancer", "Tuberculosis", "Malaria", "HIV/AIDS"],
+      "answer": "Cancer"
+    },
+    {
+      "question": "Diabetes is classified as which type of disease?",
+      "options": ["Non-infectious disease", "Infectious disease", "Viral disease", "Bacterial disease"],
+      "answer": "Non-infectious disease"
+    },
+    {
+      "question": "Hypertension is another term for:",
+      "options": ["High blood pressure", "Low blood sugar", "High cholesterol", "Heart failure"],
+      "answer": "High blood pressure"
+    },
+    {
+      "question": "Asthma is a non-infectious disease that affects which part of the body?",
+      "options": ["The respiratory system", "The digestive system", "The circulatory system", "The nervous system"],
+      "answer": "The respiratory system"
+    },
+    {
+      "question": "Which of the following factors increases the risk of developing non-infectious diseases?",
+      "options": ["Tobacco use, physical inactivity, harmful use of alcohol, and unhealthy diets", "Vaccination", "Regular exercise", "Eating a balanced diet"],
+      "answer": "Tobacco use, physical inactivity, harmful use of alcohol, and unhealthy diets"
+    },
+    {
+      "question": "Which non-infectious disease is the leading cause of premature death worldwide?",
+      "options": ["Cardiovascular disease", "Diabetes", "Cancer", "Asthma"],
+      "answer": "Cardiovascular disease"
+    },
+    {
+      "question": "What are the main causes of non-infectious diseases?",
+      "options": ["Malnutrition, chemical effects, inherited or genetic factors, and lifestyle choices", "Bacteria and viruses", "Insect bites", "Contaminated water and food"],
+      "answer": "Malnutrition, chemical effects, inherited or genetic factors, and lifestyle choices"
+    },
+    {
+      "question": "Sickle cell anemia is an example of which type of disease?",
+      "options": ["A genetic (inherited) non-infectious disease", "A bacterial infectious disease", "A viral infectious disease", "A deficiency disease"],
+      "answer": "A genetic (inherited) non-infectious disease"
+    },
+    {
+      "question": "Which of the following is a non-infectious disease caused by cigarette smoking?",
+      "options": ["Lung cancer", "Tuberculosis", "Malaria", "Cholera"],
+      "answer": "Lung cancer"
+    },
+    {
+      "question": "How can the risk of non-infectious diseases be reduced?",
+      "options": ["Through detection, screening, treatment, and palliative care, as well as healthy lifestyle choices", "By taking antibiotics regularly", "By avoiding all contact with other people", "By drinking only bottled water"],
+      "answer": "Through detection, screening, treatment, and palliative care, as well as healthy lifestyle choices"
+    },
+    {
+      "question": "Which of the following is NOT a non-infectious disease?",
+      "options": ["Tuberculosis", "Diabetes", "Cancer", "Hypertension"],
+      "answer": "Tuberculosis"
+    },
+    {
+      "question": "Unhealthy diets and lack of physical activity can lead to:",
+      "options": ["Raised blood pressure, increased blood glucose, elevated blood lipids, and obesity", "Improved immune function", "Stronger bones", "Better eyesight"],
+      "answer": "Raised blood pressure, increased blood glucose, elevated blood lipids, and obesity"
+    },
+    {
+      "question": "Podoconiosis is an example of which type of disease?",
+      "options": ["Non-infectious disease", "Infectious disease", "Bacterial disease", "Viral disease"],
+      "answer": "Non-infectious disease"
+    },
+    {
+      "question": "Which of the following is NOT a risk factor for non-infectious diseases?",
+      "options": ["Vaccination", "Tobacco use", "Physical inactivity", "Harmful use of alcohol"],
+      "answer": "Vaccination"
+    },
+    {
+      "question": "Which of the following diseases is caused by malnutrition and classified as non-infectious?",
+      "options": ["Kwashiorkor", "Tuberculosis", "Malaria", "HIV/AIDS"],
+      "answer": "Kwashiorkor"
+    },
+    {
+      "question": "Cancer is characterized by:",
+      "options": ["Uncontrolled growth of abnormal cells", "Infection by a virus", "Blockage of blood vessels by fat", "Narrowing of the airways"],
+      "answer": "Uncontrolled growth of abnormal cells"
+    },
+    {
+      "question": "Type 2 diabetes is mainly associated with:",
+      "options": ["Obesity and unhealthy lifestyle", "Viral infection", "Bacterial infection", "Genetic mutation only"],
+      "answer": "Obesity and unhealthy lifestyle"
+    },
+    {
+      "question": "Which of the following lifestyle changes can help prevent non-infectious diseases?",
+      "options": ["Regular physical activity, balanced diet, and avoiding tobacco and excessive alcohol", "Taking antibiotics daily", "Avoiding all social contact", "Eating only one type of food"],
+      "answer": "Regular physical activity, balanced diet, and avoiding tobacco and excessive alcohol"
+    },
+    {
+      "question": "Allergies are classified as which type of disease?",
+      "options": ["Non-infectious disease", "Infectious disease", "Bacterial disease", "Viral disease"],
+      "answer": "Non-infectious disease"
+    }
+  ]
+}

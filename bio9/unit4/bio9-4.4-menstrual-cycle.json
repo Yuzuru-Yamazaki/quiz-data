@@ -1,0 +1,178 @@
+{
+  "title": "4.4 The Menstrual Cycle",
+  "description": "Phases of the menstrual cycle, hormones involved, and the 28-day cycle",
+  "folder": "School/Grade 9/Biology/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit4"],
+  "questions": [
+    {
+      "question": "The menstrual cycle refers to approximately monthly changes in the:",
+      "options": ["Ovaries only", "Uterus", "Fallopian tubes", "Vagina"],
+      "correctAnswer": "Uterus",
+      "explanation": "The approximately monthly changes in the uterus are referred to as the menstrual cycle.",
+      "anki": true
+    },
+    {
+      "question": "The first day of the menstrual cycle is marked by the onset of:",
+      "options": ["Ovulation", "Menstruation", "The luteal phase", "Implantation"],
+      "correctAnswer": "Menstruation",
+      "explanation": "The first day of the menstrual cycle is marked by the onset of menstruation, which is the flow of bits of uterine lining and blood.",
+      "anki": true
+    },
+    {
+      "question": "During menstruation, what is shed from the body?",
+      "options": ["The entire uterine lining", "Bits of uterine lining and some blood", "The ovum", "Follicle cells"],
+      "correctAnswer": "Bits of uterine lining and some blood",
+      "explanation": "Menstruation is the flow of bits of uterine lining and some blood from the uterus, through the cervix, and out of the vagina.",
+      "anki": true
+    },
+    {
+      "question": "The first phase of the menstrual cycle, during which bleeding occurs, is called the:",
+      "options": ["Follicular phase", "Luteal phase", "Flow phase", "Ovulatory phase"],
+      "correctAnswer": "Flow phase",
+      "explanation": "The flow phase is the first phase of the menstrual cycle, marked by menstruation.",
+      "anki": true
+    },
+    {
+      "question": "The interval of follicle maturation before ovulation is the:",
+      "options": ["Luteal phase", "Flow phase", "Follicular phase", "Menstrual phase"],
+      "correctAnswer": "Follicular phase",
+      "explanation": "The interval of follicle maturation before ovulation is the follicular phase of the cycle.",
+      "anki": true
+    },
+    {
+      "question": "During the follicular phase, cells around the egg secrete which hormone that stimulates the endometrium to thicken?",
+      "options": ["Progesterone", "Estrogens", "FSH", "LH"],
+      "correctAnswer": "Estrogens",
+      "explanation": "During the follicular phase, cells around the egg secrete estrogens that stimulate the endometrium to thicken.",
+      "anki": true
+    },
+    {
+      "question": "Which hormone triggers ovulation?",
+      "options": ["FSH", "Estrogen", "LH", "Progesterone"],
+      "correctAnswer": "LH",
+      "explanation": "The rise in estrogens encourages the pituitary to release more LH, which causes the follicle to swell and burst — triggering ovulation.",
+      "anki": true
+    },
+    {
+      "question": "The phase that begins after ovulation is the:",
+      "options": ["Follicular phase", "Flow phase", "Luteal phase", "Menstrual phase"],
+      "correctAnswer": "Luteal phase",
+      "explanation": "The luteal phase of the cycle begins after ovulation.",
+      "anki": true
+    },
+    {
+      "question": "After ovulation, the ruptured follicle develops into a structure called the:",
+      "options": ["Endometrium", "Corpus luteum", "Follicle", "Cervix"],
+      "correctAnswer": "Corpus luteum",
+      "explanation": "After ovulation, cells of the ruptured follicle develop into a hormone-secreting corpus luteum.",
+      "anki": true
+    },
+    {
+      "question": "The corpus luteum secretes which hormones?",
+      "options": ["FSH and LH", "Estrogens and progesterone", "Testosterone and estrogen", "LH and progesterone"],
+      "correctAnswer": "Estrogens and progesterone",
+      "explanation": "The corpus luteum secretes some estrogens and a lot of progesterone.",
+      "anki": true
+    },
+    {
+      "question": "Progesterone causes the uterine lining to:",
+      "options": ["Break down and shed", "Thicken and encourage blood vessel growth", "Stop producing mucus", "Release eggs"],
+      "correctAnswer": "Thicken and encourage blood vessel growth",
+      "explanation": "Progesterone causes the uterine lining to thicken and encourages blood vessels to grow through it, preparing the uterus for pregnancy.",
+      "anki": true
+    },
+    {
+      "question": "If pregnancy does not occur, what happens to the corpus luteum?",
+      "options": ["It continues to grow", "It breaks down", "It releases another egg", "It becomes the placenta"],
+      "correctAnswer": "It breaks down",
+      "explanation": "If pregnancy does not occur, the corpus luteum breaks down, and a new follicle will begin to mature.",
+      "anki": true
+    },
+    {
+      "question": "What happens when the corpus luteum breaks down?",
+      "options": ["Ovulation occurs", "A new follicle begins to mature", "Menstruation occurs", "Pregnancy begins"],
+      "correctAnswer": "Menstruation occurs",
+      "explanation": "When the corpus luteum breaks down, menstruation occurs.",
+      "anki": true
+    },
+    {
+      "question": "The menstrual cycle typically lasts approximately how many days?",
+      "options": ["14 days", "21 days", "28 days", "35 days"],
+      "correctAnswer": "28 days",
+      "explanation": "At puberty, hormonal changes prompt eggs to mature one at a time in an approximately twenty-eight-day ovarian cycle.",
+      "anki": true
+    },
+    {
+      "question": "FSH stands for:",
+      "options": ["Follicle-stimulating hormone", "Female sexual hormone", "Follicular secretion hormone", "Fertilization-stimulating hormone"],
+      "correctAnswer": "Follicle-stimulating hormone",
+      "explanation": "FSH stands for follicle-stimulating hormone, which stimulates the development of follicles in the ovary.",
+      "anki": true
+    },
+    {
+      "question": "FSH stimulates which process in the ovarian cycle?",
+      "options": ["Ovulation", "Maturation of an ovarian follicle", "Breakdown of the corpus luteum", "Menstruation"],
+      "correctAnswer": "Maturation of an ovarian follicle",
+      "explanation": "FSH stimulates maturation of an ovarian follicle.",
+      "anki": true
+    },
+    {
+      "question": "The hormone that stimulates the release of an egg from the ovary is:",
+      "options": ["FSH", "Estrogen", "LH", "Progesterone"],
+      "correctAnswer": "LH",
+      "explanation": "LH (luteinizing hormone) triggers the release of the egg during ovulation.",
+      "anki": true
+    },
+    {
+      "question": "Estrogen is primarily responsible for:",
+      "options": ["Triggering ovulation", "Thickening the uterine lining after ovulation", "Development of female secondary sexual characteristics", "Stimulating FSH release"],
+      "correctAnswer": "Development of female secondary sexual characteristics",
+      "explanation": "Estrogen triggers development of female secondary sexual characteristics and maintains the lining of the reproductive tract.",
+      "anki": true
+    },
+    {
+      "question": "Menopause occurs when:",
+      "options": ["Ovulation stops temporarily", "All follicles in the ovaries have been released or disintegrated", "The menstrual cycle becomes irregular", "Pregnancy is achieved"],
+      "correctAnswer": "All follicles in the ovaries have been released or disintegrated",
+      "explanation": "Menopause occurs when all the follicles in the ovaries have either been released during menstrual cycles or have disintegrated as a result of aging.",
+      "anki": true
+    },
+    {
+      "question": "During menopause, production of estrogen and progesterone is:",
+      "options": ["Increased", "Diminished", "Unchanged", "Only produced at night"],
+      "correctAnswer": "Diminished",
+      "explanation": "With no follicles left to mature, production of estrogen and progesterone is diminished and menstrual cycles cease.",
+      "anki": true
+    },
+    {
+      "question": "A follicle is best described as:",
+      "options": ["A hormone released by the pituitary", "A group of epithelial cells surrounding a developing egg cell", "The lining of the uterus", "The duct that carries eggs to the uterus"],
+      "correctAnswer": "A group of epithelial cells surrounding a developing egg cell",
+      "explanation": "A follicle is a group of epithelial cells that surround a developing egg cell.",
+      "anki": true
+    },
+    {
+      "question": "Menstrual hygiene practices include:",
+      "options": ["Wearing tight fabrics to absorb moisture", "Changing menstrual products regularly", "Using scented products for better hygiene", "Avoiding any physical activity"],
+      "correctAnswer": "Changing menstrual products regularly",
+      "explanation": "Changing menstrual products regularly is important because trapped moisture can provide a breeding ground for bacteria and fungi.",
+      "anki": true
+    },
+    {
+      "question": "The vagina is best described as:",
+      "options": ["An organ that requires regular internal cleaning", "A self-cleaning organ that should only be rinsed externally with water", "An organ that produces menstrual blood", "A sterile environment"],
+      "correctAnswer": "A self-cleaning organ that should only be rinsed externally with water",
+      "explanation": "The vagina is a self-cleaning organ. Only water should be used to rinse the vulva externally.",
+      "anki": true
+    },
+    {
+      "question": "A woman entering menopause is known only in humans and which other species?",
+      "options": ["Dogs and cats", "Two species of whales", "Elephants", "Chimpanzees"],
+      "correctAnswer": "Two species of whales",
+      "explanation": "Menopause is known only in humans and two species of whales.",
+      "anki": true
+    }
+  ]
+}

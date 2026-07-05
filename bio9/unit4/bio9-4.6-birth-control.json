@@ -1,0 +1,178 @@
+{
+  "title": "4.6 Methods of Birth Control",
+  "description": "Natural and artificial methods of family planning including barrier, hormonal, surgical, and natural methods",
+  "folder": "School/Grade 9/Biology/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit4"],
+  "questions": [
+    {
+      "question": "The deliberate prevention of pregnancy is called:",
+      "options": ["Sterilization", "Contraception", "Abstinence", "Fertilization"],
+      "correctAnswer": "Contraception",
+      "explanation": "Contraception is the deliberate prevention of pregnancy, which can be achieved in a number of ways.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is the most obvious natural method of preventing pregnancy?",
+      "options": ["Withdrawal", "Abstinence", "Calendar method", "Condom use"],
+      "correctAnswer": "Abstinence",
+      "explanation": "Abstinence involves a couple avoiding sexual intercourse and is the most obvious way of preventing pregnancy.",
+      "anki": true
+    },
+    {
+      "question": "The withdrawal method (coitus interruptus) involves:",
+      "options": ["Using a condom during intercourse", "Pulling the penis out before ejaculation", "Tracking ovulation on a calendar", "Taking a daily pill"],
+      "correctAnswer": "Pulling the penis out before ejaculation",
+      "explanation": "Withdrawal involves a man pulling his penis out of the vagina before ejaculation to prevent sperm from entering.",
+      "anki": true
+    },
+    {
+      "question": "What is the effectiveness of the withdrawal method with perfect use?",
+      "options": ["82 percent", "90 percent", "96 percent", "99 percent"],
+      "correctAnswer": "96 percent",
+      "explanation": "Withdrawal effectiveness is 96% with perfect use and 82% with typical use.",
+      "anki": true
+    },
+    {
+      "question": "Fertility awareness methods rely on:",
+      "options": ["Taking hormones daily", "Understanding when ovulation is most likely", "Surgical procedures", "Using barrier devices"],
+      "correctAnswer": "Understanding when ovulation is most likely",
+      "explanation": "Fertility awareness methods rely on understanding the most likely time that ovulation will take place during the monthly cycle.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a type of barrier method of contraception?",
+      "options": ["Contraceptive pill", "Male condom", "Contraceptive implant", "Vasectomy"],
+      "correctAnswer": "Male condom",
+      "explanation": "Male condoms are a barrier method available in latex, lambskin, and polyurethane that prevent pregnancy by stopping sperm from entering the vagina.",
+      "anki": true
+    },
+    {
+      "question": "Male condoms made of lambskin are not recommended for infection prevention because:",
+      "options": ["They break easily", "They contain small pores that may permit passage of bacteria and viruses", "They are too thick", "They cause allergic reactions"],
+      "correctAnswer": "They contain small pores that may permit passage of bacteria and viruses",
+      "explanation": "Lambskin condoms contain small pores that may permit the passage of bacteria and viruses, so they are not recommended for infection prevention.",
+      "anki": true
+    },
+    {
+      "question": "The effectiveness of male condoms with perfect use is:",
+      "options": ["85 percent", "90 percent", "95 percent", "98 percent"],
+      "correctAnswer": "98 percent",
+      "explanation": "Male condom effectiveness is 98% with perfect use and 85% with typical use.",
+      "anki": true
+    },
+    {
+      "question": "A diaphragm is a thin rubber disc that is placed in the vagina to:",
+      "options": ["Kill sperm", "Cover the cervix and stop sperm entering the uterus", "Release hormones", "Prevent ovulation"],
+      "correctAnswer": "Cover the cervix and stop sperm entering the uterus",
+      "explanation": "A diaphragm covers the cervix and stops sperm from entering the uterus.",
+      "anki": true
+    },
+    {
+      "question": "Spermicides are chemicals that:",
+      "options": ["Prevent ovulation", "Kill or immobilize sperm", "Thicken cervical mucus", "Inhibit implantation"],
+      "correctAnswer": "Kill or immobilize sperm",
+      "explanation": "Spermicides are chemicals that kill or immobilize sperm, though on their own they are not very reliable.",
+      "anki": true
+    },
+    {
+      "question": "The IUD (intra-uterine device) prevents pregnancy mainly by:",
+      "options": ["Killing sperm", "Blocking the cervix", "Preventing implantation of a fertilized ovum", "Preventing ovulation"],
+      "correctAnswer": "Preventing implantation of a fertilized ovum",
+      "explanation": "The IUD is inserted into the wall of the uterus where it probably prevents implantation of a fertilized ovum.",
+      "anki": true
+    },
+    {
+      "question": "The effectiveness rate of the IUD is approximately:",
+      "options": ["85 percent", "90 percent", "95 percent", "98 percent"],
+      "correctAnswer": "98 percent",
+      "explanation": "The IUD is about 98% effective.",
+      "anki": true
+    },
+    {
+      "question": "The contraceptive pill works by:",
+      "options": ["Blocking sperm entry", "Suppressing ovulation", "Killing sperm", "Thickening cervical mucus only"],
+      "correctAnswer": "Suppressing ovulation",
+      "explanation": "The pill contains hormones that suppress ovulation and so prevent conception.",
+      "anki": true
+    },
+    {
+      "question": "The contraceptive pill needs to be taken for how many days between menstrual periods?",
+      "options": ["14 days", "21 days", "28 days", "30 days"],
+      "correctAnswer": "21 days",
+      "explanation": "The pills need to be taken each day for the 21 days between menstrual periods.",
+      "anki": true
+    },
+    {
+      "question": "The contraceptive implant is inserted under the skin of the upper arm and releases which hormone?",
+      "options": ["Estrogen", "FSH", "Progesterone", "LH"],
+      "correctAnswer": "Progesterone",
+      "explanation": "The implant slowly releases the hormone progesterone, preventing pregnancy, and lasts for about 3 years.",
+      "anki": true
+    },
+    {
+      "question": "A contraceptive injection containing progesterone stays effective for between:",
+      "options": ["2 to 4 weeks", "8 to 12 weeks", "6 months", "1 year"],
+      "correctAnswer": "8 to 12 weeks",
+      "explanation": "The contraceptive injection contains progesterone and stays effective for between 8 and 12 weeks.",
+      "anki": true
+    },
+    {
+      "question": "Male sterilization is called:",
+      "options": ["Laparotomy", "Tubal ligation", "Vasectomy", "Circumcision"],
+      "correctAnswer": "Vasectomy",
+      "explanation": "Vasectomy is a surgical operation in which the man's sperm ducts are cut and the ends sealed.",
+      "anki": true
+    },
+    {
+      "question": "After vasectomy, what happens to the sperm produced by the testes?",
+      "options": ["They are stored indefinitely", "They are removed by white blood cells", "They are released with urine", "They accumulate in the scrotum"],
+      "correctAnswer": "They are removed by white blood cells",
+      "explanation": "The sperm are removed by white cells as fast as they form.",
+      "anki": true
+    },
+    {
+      "question": "Female sterilization involves tying, blocking, or cutting the:",
+      "options": ["Ovaries", "Oviducts (fallopian tubes)", "Uterus", "Vagina"],
+      "correctAnswer": "Oviducts (fallopian tubes)",
+      "explanation": "A woman may be sterilized by an operation in which her oviducts are tied, blocked, or cut — this is called tubal ligation or laparotomy.",
+      "anki": true
+    },
+    {
+      "question": "Both vasectomy and tubal ligation are considered:",
+      "options": ["Temporary with guaranteed reversal", "Permanent, though sometimes reversible by microsurgery", "Reversible without surgery", "Effective only for a few years"],
+      "correctAnswer": "Permanent, though sometimes reversible by microsurgery",
+      "explanation": "Although tubal ligation and vasectomy are considered permanent, both procedures can in many cases be reversed by microsurgery.",
+      "anki": true
+    },
+    {
+      "question": "The IUS (intra-uterine system) differs from the IUD because it:",
+      "options": ["Is made of copper only", "Releases progesterone to prevent ovulation", "Is inserted into the cervix", "Cannot prevent pregnancy"],
+      "correctAnswer": "Releases progesterone to prevent ovulation",
+      "explanation": "The IUS is T-shaped and releases the hormone progesterone slowly over time, which prevents ovulation.",
+      "anki": true
+    },
+    {
+      "question": "Which hormone-based contraceptive method can provide protection for up to 5 years?",
+      "options": ["Contraceptive pill", "Contraceptive injection", "IUS (intra-uterine system)", "Contraceptive patch"],
+      "correctAnswer": "IUS (intra-uterine system)",
+      "explanation": "The IUS releases progesterone slowly over a long period of time — up to 5 years.",
+      "anki": true
+    },
+    {
+      "question": "Monitoring body temperature helps in natural family planning because:",
+      "options": ["It predicts the exact day of menstruation", "A woman's temperature rises by about 0.5 degrees Celsius during or soon after ovulation", "It prevents ovulation", "It kills sperm"],
+      "correctAnswer": "A woman's temperature rises by about 0.5 degrees Celsius during or soon after ovulation",
+      "explanation": "During or soon after ovulation, a woman's temperature rises by about 0.5 degrees Celsius, helping identify the fertile period.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an advantage of natural family planning methods?",
+      "options": ["They are 100 percent effective", "They have no side effects", "They protect against STIs", "They require no cooperation from partners"],
+      "correctAnswer": "They have no side effects",
+      "explanation": "Natural methods have no side effects and are permitted by most religions.",
+      "anki": true
+    }
+  ]
+}

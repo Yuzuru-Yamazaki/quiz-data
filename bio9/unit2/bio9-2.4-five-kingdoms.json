@@ -1,0 +1,185 @@
+{
+  "title": "2.4 Five Kingdom Classification",
+  "description": "The five-kingdom classification system and key features of each kingdom",
+  "folder": "School/Grade 9/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit2"],
+  "questions": [
+    {
+      "question": "Who proposed the five-kingdom classification system?",
+      "options": ["Carl Linnaeus", "Robert Whittaker", "Charles Darwin", "Louis Pasteur"],
+      "correctAnswer": "Robert Whittaker",
+      "explanation": "Robert Whittaker proposed the five-kingdom classification system in 1969.",
+      "anki": true
+    },
+    {
+      "question": "Which kingdoms are included in the five-kingdom classification system?",
+      "options": ["Monera, Protista, Fungi, Plantae, Animalia", "Monera, Protista, Fungi, Plantae, Archaea", "Bacteria, Protista, Fungi, Plantae, Animalia", "Monera, Protozoa, Fungi, Plantae, Animalia"],
+      "correctAnswer": "Monera, Protista, Fungi, Plantae, Animalia",
+      "explanation": "The five kingdoms are Monera, Protista, Fungi, Plantae, and Animalia as proposed by Whittaker.",
+      "anki": true
+    },
+    {
+      "question": "Which kingdom consists of prokaryotic organisms?",
+      "options": ["Protista", "Fungi", "Monera", "Plantae"],
+      "correctAnswer": "Monera",
+      "explanation": "Kingdom Monera contains prokaryotic organisms (bacteria) that lack a true nucleus and membrane-bound organelles.",
+      "anki": true
+    },
+    {
+      "question": "What type of cell wall do bacteria in Kingdom Monera have?",
+      "options": ["Cellulose cell wall", "Chitin cell wall", "Peptidoglycan cell wall", "No cell wall"],
+      "correctAnswer": "Peptidoglycan cell wall",
+      "explanation": "Bacteria have cell walls made of peptidoglycan, a polymer of sugars and amino acids, unlike plants (cellulose) or fungi (chitin).",
+      "anki": true
+    },
+    {
+      "question": "Which kingdom includes unicellular eukaryotic organisms such as amoeba and paramecium?",
+      "options": ["Monera", "Protista", "Fungi", "Animalia"],
+      "correctAnswer": "Protista",
+      "explanation": "Kingdom Protista consists mostly of unicellular eukaryotic organisms like amoeba, paramecium, and euglena.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following organisms belongs to Kingdom Protista?",
+      "options": ["E. coli", "Amoeba", "Mushroom", "Oak tree"],
+      "correctAnswer": "Amoeba",
+      "explanation": "Amoeba is a unicellular eukaryotic protist. E. coli is a bacterium (Monera), mushroom is a fungus (Fungi), and oak tree is a plant (Plantae).",
+      "anki": true
+    },
+    {
+      "question": "Algae are classified under which kingdom?",
+      "options": ["Plantae", "Monera", "Protista", "Fungi"],
+      "correctAnswer": "Protista",
+      "explanation": "Although algae can photosynthesize, they are placed in Kingdom Protista because they are simple, mostly unicellular or colonial organisms without true roots, stems, or leaves.",
+      "anki": true
+    },
+    {
+      "question": "Which kingdom includes organisms that are heterotrophic and absorb nutrients through external digestion?",
+      "options": ["Plantae", "Animalia", "Monera", "Fungi"],
+      "correctAnswer": "Fungi",
+      "explanation": "Fungi are heterotrophic organisms that secrete enzymes externally onto organic matter and absorb the digested nutrients.",
+      "anki": true
+    },
+    {
+      "question": "What is the cell wall of fungi made of?",
+      "options": ["Cellulose", "Peptidoglycan", "Chitin", "Lignin"],
+      "correctAnswer": "Chitin",
+      "explanation": "Fungal cell walls are composed of chitin, the same tough substance found in the exoskeleton of insects.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of a fungus?",
+      "options": ["Spirulina", "Yeast", "Euglena", "Paramecium"],
+      "correctAnswer": "Yeast",
+      "explanation": "Yeast is a unicellular fungus used in baking and brewing. Spirulina is a cyanobacterium (Monera), Euglena and Paramecium are protists.",
+      "anki": true
+    },
+    {
+      "question": "Members of Kingdom Plantae are characterized by being:",
+      "options": ["Heterotrophic and unicellular", "Autotrophic, multicellular, and having cell walls of cellulose", "Prokaryotic and unicellular", "Heterotrophic and mobile"],
+      "correctAnswer": "Autotrophic, multicellular, and having cell walls of cellulose",
+      "explanation": "Plants are multicellular autotrophs with cellulose cell walls that photosynthesize to produce their own food.",
+      "anki": true
+    },
+    {
+      "question": "Which kingdom includes organisms that are multicellular, heterotrophic, and capable of movement?",
+      "options": ["Plantae", "Fungi", "Animalia", "Protista"],
+      "correctAnswer": "Animalia",
+      "explanation": "Animals are multicellular, heterotrophic organisms that can move at some stage of their life cycle.",
+      "anki": true
+    },
+    {
+      "question": "Bacteria in Kingdom Monera reproduce mainly by:",
+      "options": ["Sexual reproduction", "Binary fission", "Budding", "Spore formation"],
+      "correctAnswer": "Binary fission",
+      "explanation": "Bacteria reproduce asexually by binary fission, where one cell divides into two identical daughter cells.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of Kingdom Fungi?",
+      "options": ["Heterotrophic nutrition", "Cell wall of chitin", "Photosynthetic ability", "Saprophytic or parasitic lifestyle"],
+      "correctAnswer": "Photosynthetic ability",
+      "explanation": "Fungi cannot photosynthesize because they lack chlorophyll; they obtain nutrients by absorbing organic matter.",
+      "anki": true
+    },
+    {
+      "question": "Paramecium moves using which structure?",
+      "options": ["Flagella", "Pseudopodia", "Cilia", "Fins"],
+      "correctAnswer": "Cilia",
+      "explanation": "Paramecium is a protist that moves by beating tiny hair-like structures called cilia.",
+      "anki": true
+    },
+    {
+      "question": "Amoeba moves and feeds using:",
+      "options": ["Cilia", "Flagella", "Pseudopodia", "Contractile vacuole"],
+      "correctAnswer": "Pseudopodia",
+      "explanation": "Amoeba uses pseudopodia (false feet) for both movement and engulfing food through phagocytosis.",
+      "anki": true
+    },
+    {
+      "question": "Mushrooms and molds are classified under which kingdom?",
+      "options": ["Plantae", "Protista", "Fungi", "Monera"],
+      "correctAnswer": "Fungi",
+      "explanation": "Mushrooms and molds are both members of Kingdom Fungi, characterized by heterotrophic absorption nutrition and chitin cell walls.",
+      "anki": true
+    },
+    {
+      "question": "Which kingdom contains organisms that can be both autotrophic (photosynthetic) and heterotrophic?",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correctAnswer": "Protista",
+      "explanation": "Some protists like Euglena can photosynthesize (autotrophic) when light is available and become heterotrophic in darkness.",
+      "anki": true
+    },
+    {
+      "question": "What is the main characteristic that distinguishes Kingdom Animalia from Kingdom Plantae?",
+      "options": ["All animals are unicellular", "Animals are autotrophic", "Animals are heterotrophic and capable of movement", "Animals have cell walls"],
+      "correctAnswer": "Animals are heterotrophic and capable of movement",
+      "explanation": "Animals are heterotrophic (cannot make their own food) and most can move, while plants are autotrophic and generally sessile.",
+      "anki": true
+    },
+    {
+      "question": "Which kingdom includes organisms that are all unicellular prokaryotes?",
+      "options": ["Protista", "Fungi", "Monera", "Animalia"],
+      "correctAnswer": "Monera",
+      "explanation": "All members of Kingdom Monera are unicellular prokaryotes, lacking a true nucleus and membrane-bound organelles.",
+      "anki": true
+    },
+    {
+      "question": "Euglena is classified under Kingdom Protista because it:",
+      "options": ["Is multicellular", "Has both plant-like and animal-like characteristics", "Is prokaryotic", "Has chitin in its cell wall"],
+      "correctAnswer": "Has both plant-like and animal-like characteristics",
+      "explanation": "Euglena has chloroplasts (plant-like) but also moves and feeds heterotrophically (animal-like), placing it in Protista.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following kingdoms contains organisms that are primarily decomposers?",
+      "options": ["Plantae", "Animalia", "Fungi", "Monera"],
+      "correctAnswer": "Fungi",
+      "explanation": "Fungi are the primary decomposers in ecosystems, breaking down dead organic matter and recycling nutrients.",
+      "anki": true
+    },
+    {
+      "question": "Cyanobacteria (blue-green algae) were formerly classified as algae but are now placed in:",
+      "options": ["Protista", "Plantae", "Monera", "Fungi"],
+      "correctAnswer": "Monera",
+      "explanation": "Cyanobacteria are prokaryotic bacteria that perform photosynthesis, so they belong to Kingdom Monera, not Protista.",
+      "anki": true
+    },
+    {
+      "question": "Which kingdom has no cell wall at all?",
+      "options": ["Plantae", "Fungi", "Animalia", "Monera"],
+      "correctAnswer": "Animalia",
+      "explanation": "Animal cells lack cell walls, unlike plants (cellulose), fungi (chitin), and bacteria (peptidoglycan).",
+      "anki": true
+    },
+    {
+      "question": "The mode of nutrition in Kingdom Plantae is:",
+      "options": ["Heterotrophic absorption", "Autotrophic via photosynthesis", "Ingestive heterotrophic", "Chemosynthetic"],
+      "correctAnswer": "Autotrophic via photosynthesis",
+      "explanation": "Plants are autotrophs that use chlorophyll to convert light energy into chemical energy through photosynthesis.",
+      "anki": true
+    }
+  ]
+}

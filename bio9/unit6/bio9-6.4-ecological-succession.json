@@ -1,0 +1,154 @@
+{
+  "title": "6.4 Ecological Succession",
+  "description": "Primary and secondary succession, pioneer species, climax community, and changes in ecosystems over time",
+  "folder": "School/Grade 9/Biology/Unit 6",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit6"],
+  "questions": [
+    {
+      "question": "What is the gradual and predictable change in the species composition of an ecosystem over time called?",
+      "options": ["Ecological succession", "Evolution", "Natural selection", "Adaptation"],
+      "answer": 0,
+      "anki": true
+    },
+    {
+      "question": "Which type of succession begins in an area where no soil exists, such as on bare rock?",
+      "options": ["Secondary succession", "Primary succession", "Climax succession", "Tertiary succession"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which type of succession occurs in an area where a disturbance has removed an existing community but left soil intact?",
+      "options": ["Primary succession", "Secondary succession", "Pioneer succession", "Climax succession"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What are the first organisms to colonize a bare rock or lifeless area during primary succession called?",
+      "options": ["Climax species", "Pioneer species", "Keystone species", "Dominant species"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of a pioneer species on bare rock?",
+      "options": ["Oak tree", "Lichen", "Grass", "Pine tree"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "How do pioneer species like lichens contribute to soil formation?",
+      "options": ["They produce large amounts of leaves", "They secrete acids that break down rock into soil particles", "They bring soil from other areas", "They absorb nutrients from the air only"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which group of organisms typically follows lichens and mosses in primary succession?",
+      "options": ["Large trees", "Shrubs", "Small grasses and herbs", "Climax community"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is the correct sequence of seres in primary succession on bare rock?",
+      "options": ["Trees → shrubs → grasses → lichens → mosses", "Lichens and mosses → grasses → shrubs → trees", "Grasses → lichens → trees → shrubs", "Shrubs → grasses → mosses → lichens → trees"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which type of succession is faster: primary or secondary?",
+      "options": ["Primary succession", "Secondary succession", "Both are equally fast", "Neither involves change over time"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Why is secondary succession faster than primary succession?",
+      "options": ["Because it starts on bare rock", "Because soil is already present", "Because pioneer species are not needed", "Because animals bring seeds from other areas"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which of the following events can trigger secondary succession?",
+      "options": ["Volcanic eruption on bare rock", "Glacier retreat exposing bare rock", "Fire in a grassland", "Formation of a new island"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of primary succession?",
+      "options": ["Regrowth after a forest fire", "Growth of plants on a newly formed volcanic island", "Regrowth after an abandoned farm field", "Plant regrowth after a flood"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of secondary succession?",
+      "options": ["Colonization of bare rock by lichens", "Growth on newly cooled lava", "Regrowth of a forest after deforestation", "Mosses growing on a newly exposed rock surface"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "A stable, self-sustaining community at the end of ecological succession is called the:",
+      "options": ["Pioneer community", "Seral community", "Climax community", "Transitional community"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a characteristic of a climax community?",
+      "options": ["It has low biodiversity", "It is stable and changes very little over time", "It consists only of pioneer species", "It is the first stage of succession"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "In a tropical region, what type of climax community is most likely to develop?",
+      "options": ["Desert", "Tundra", "Tropical rainforest", "Grassland"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What role do mosses play in primary succession?",
+      "options": ["They are the final climax species", "They help trap moisture and build soil", "They prevent other plants from growing", "They fix nitrogen from the atmosphere"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "After a wildfire destroys a forest, the process of regrowth is an example of:",
+      "options": ["Primary succession", "Secondary succession", "Climax disruption", "Ecological regression"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which term describes each intermediate stage of succession?",
+      "options": ["Climax", "Sere", "Pioneer", "Biome"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What happens to biodiversity during the process of ecological succession?",
+      "options": ["It decreases steadily", "It increases and then decreases", "It generally increases until the climax community", "It remains constant throughout"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of a human activity that can initiate secondary succession?",
+      "options": ["Building a dam", "Planting a garden", "Abandoning farmland", "Painting a house"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "In primary succession on a newly formed volcanic island, which group of organisms would appear first?",
+      "options": ["Tall trees", "Grasses and shrubs", "Lichens and mosses", "Small mammals"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What happens to soil depth and quality as succession progresses from pioneer to climax community?",
+      "options": ["Soil depth decreases", "Soil depth and quality increase", "Soil quality remains the same", "Soil disappears entirely"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which of the following best describes the difference between primary and secondary succession?",
+      "options": ["Primary occurs in forests; secondary occurs in deserts", "Primary starts without soil; secondary starts with soil", "Primary is faster than secondary", "Secondary occurs only in aquatic ecosystems"],
+      "answer": 1,
+      "anki": true
+    }
+  ]
+}

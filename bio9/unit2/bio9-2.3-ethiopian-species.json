@@ -1,0 +1,185 @@
+{
+  "title": "2.3 Common Ethiopian Animals and Plants",
+  "description": "Endemic and common species found in Ethiopia including their habitats and characteristics",
+  "folder": "School/Grade 9/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit2"],
+  "questions": [
+    {
+      "question": "Which of the following is an endemic mammal found only in Ethiopia?",
+      "options": ["Lion", "Walia ibex", "African elephant", "Giraffe"],
+      "correctAnswer": "Walia ibex",
+      "explanation": "The Walia ibex (Capra walie) is an endangered wild goat found only in the Simien Mountains of Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "The Ethiopian wolf is also known as:",
+      "options": ["Simien fox", "Red fox", "Golden jackal", "Spotted hyena"],
+      "correctAnswer": "Simien fox",
+      "explanation": "The Ethiopian wolf (Canis simensis) is also called the Simien fox or Abyssinian wolf and is endemic to Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "Which primate is endemic to Ethiopia and lives in large social groups on grassy plateaus?",
+      "options": ["Chimpanzee", "Gelada baboon", "Colobus monkey", "Vervet monkey"],
+      "correctAnswer": "Gelada baboon",
+      "explanation": "The Gelada baboon (Theropithecus gelada) is an Old World monkey found only in the Ethiopian Highlands.",
+      "anki": true
+    },
+    {
+      "question": "Which endemic antelope species is found in the Bale Mountains of Ethiopia?",
+      "options": ["Impala", "Mountain nyala", "Springbok", "Kudu"],
+      "correctAnswer": "Mountain nyala",
+      "explanation": "The Mountain nyala (Tragelaphus buxtoni) is an endemic antelope species restricted to the Bale Mountains and nearby highlands.",
+      "anki": true
+    },
+    {
+      "question": "What is the scientific name of the Ethiopian wolf?",
+      "options": ["Canis lupus", "Canis simensis", "Canis aureus", "Canis latrans"],
+      "correctAnswer": "Canis simensis",
+      "explanation": "Canis simensis is the scientific name of the Ethiopian wolf, one of Africa's most endangered carnivores.",
+      "anki": true
+    },
+    {
+      "question": "The Walia ibex is primarily found in which Ethiopian mountain range?",
+      "options": ["Bale Mountains", "Simien Mountains", "Arsi Mountains", "Choke Mountains"],
+      "correctAnswer": "Simien Mountains",
+      "explanation": "The Walia ibex is restricted to the Simien Mountains National Park in northern Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "Which Ethiopian endemic bird is known for its striking blue and red plumage?",
+      "options": ["African fish eagle", "Yellow-fronted parrot", "Ethiopian bush-crow", "Abyssinian roller"],
+      "correctAnswer": "Ethiopian bush-crow",
+      "explanation": "The Ethiopian bush-crow (Zavattariornis stresemanni) is an endemic bird species found in southern Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "The Gelada baboon is unique among primates because it:",
+      "options": ["Lives in trees", "Is primarily grass-eating", "Hunts small animals", "Is nocturnal"],
+      "correctAnswer": "Is primarily grass-eating",
+      "explanation": "The Gelada baboon is the only primate that is primarily graminivorous (grass-eating), feeding mostly on grass blades and seeds.",
+      "anki": true
+    },
+    {
+      "question": "Which Ethiopian plant is the original source of coffee?",
+      "options": ["Ensete", "Coffea arabica", "Sorghum", "Teff"],
+      "correctAnswer": "Coffea arabica",
+      "explanation": "Coffea arabica originates from the highlands of Ethiopia and is the most widely consumed coffee species worldwide.",
+      "anki": true
+    },
+    {
+      "question": "Ensete, also known as false banana, is a staple food crop in which region of Ethiopia?",
+      "options": ["Afar", "Somali", "Southern Nations, Nationalities, and Peoples' Region", "Tigray"],
+      "correctAnswer": "Southern Nations, Nationalities, and Peoples' Region",
+      "explanation": "Ensete (Ensete ventricosum) is a staple food crop mainly cultivated in southern Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "Which endemic Ethiopian plant produces the grain teff?",
+      "options": ["Eragrostis tef", "Zea mays", "Oryza sativa", "Triticum aestivum"],
+      "correctAnswer": "Eragrostis tef",
+      "explanation": "Teff (Eragrostis tef) is an endemic Ethiopian cereal grain used to make injera, the national flatbread.",
+      "anki": true
+    },
+    {
+      "question": "What is the largest rodent found in Ethiopia and endemic to the region?",
+      "options": ["African giant rat", "Ethiopian porcupine", "Giant mole rat", "Cape hare"],
+      "correctAnswer": "Giant mole rat",
+      "explanation": "The giant mole rat (Tachyoryctes macrocephalus) is an endemic rodent found in the Bale Mountains of Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "Which Ethiopian endemic bird is known for its unusual hopping behavior?",
+      "options": ["Abyssinian catbird", "Blue-winged goose", "Ethiopian siskin", "Ruppell's chat"],
+      "correctAnswer": "Blue-winged goose",
+      "explanation": "The blue-winged goose (Cyanochen cyanoptera) is an endemic Ethiopian bird that walks with a distinctive hopping gait.",
+      "anki": true
+    },
+    {
+      "question": "The Ethiopian wolf primarily feeds on:",
+      "options": ["Large antelopes", "Rodents such as giant mole rats", "Fish", "Fruits and berries"],
+      "correctAnswer": "Rodents such as giant mole rats",
+      "explanation": "The Ethiopian wolf's diet consists mainly of rodents, particularly the giant mole rat, which makes up over 90% of its diet.",
+      "anki": true
+    },
+    {
+      "question": "Lake Tana in Ethiopia is known for which group of endemic fish species?",
+      "options": ["Nile tilapia", "Lake Tana barbs (Labeobarbus species)", "Catfish", "Nile perch"],
+      "correctAnswer": "Lake Tana barbs (Labeobarbus species)",
+      "explanation": "Lake Tana is home to a unique species flock of Labeobarbus barbs, with at least 15 endemic species found nowhere else.",
+      "anki": true
+    },
+    {
+      "question": "The Abyssinian longclaw is an endemic bird found mainly in:",
+      "options": ["Ethiopian highlands", "Danakil Depression", "Rift Valley lakes", "Ogaden Desert"],
+      "correctAnswer": "Ethiopian highlands",
+      "explanation": "The Abyssinian longclaw (Macronyx flavicollis) is an endemic bird species found in the Ethiopian highlands.",
+      "anki": true
+    },
+    {
+      "question": "Which of these animals is NOT endemic to Ethiopia?",
+      "options": ["Walia ibex", "Mountain nyala", "African leopard", "Gelada baboon"],
+      "correctAnswer": "African leopard",
+      "explanation": "The African leopard is found across sub-Saharan Africa, not just Ethiopia, whereas the others are Ethiopian endemics.",
+      "anki": true
+    },
+    {
+      "question": "What is the scientific name of the Walia ibex?",
+      "options": ["Capra aegagrus", "Capra walie", "Capra hircus", "Capra ibex"],
+      "correctAnswer": "Capra walie",
+      "explanation": "Capra walie is the scientific name of the Walia ibex, an endangered goat species endemic to Ethiopia's Simien Mountains.",
+      "anki": true
+    },
+    {
+      "question": "The Bale monkey is endemic to which part of Ethiopia?",
+      "options": ["Simien Mountains", "Bale Mountains", "Danakil Depression", "Lake Tana area"],
+      "correctAnswer": "Bale Mountains",
+      "explanation": "The Bale monkey (Chlorocebus djamdjamensis) is a primate species endemic to the Bale Mountains region.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an endemic Ethiopian plant used as a stimulant?",
+      "options": ["Khat", "Coffee", "Teff", "Ensete"],
+      "correctAnswer": "Khat",
+      "explanation": "Khat (Catha edulis) is an endemic plant whose leaves are chewed for their stimulant effect, though coffee is also indigenous.",
+      "anki": true
+    },
+    {
+      "question": "The Ethiopian Highlands are home to which unique vegetation zone?",
+      "options": ["Tropical rainforest", "Afroalpine zone", "Mangrove forest", "Savanna woodland"],
+      "correctAnswer": "Afroalpine zone",
+      "explanation": "The Ethiopian Highlands feature an Afroalpine zone above 3,200 meters with unique plants like giant lobelia and everlasting flowers.",
+      "anki": true
+    },
+    {
+      "question": "Nechisar National Park in Ethiopia is famous for which endemic animal?",
+      "options": ["Walia ibex", "Nechisar nightjar", "Gelada baboon", "Bale monkey"],
+      "correctAnswer": "Nechisar nightjar",
+      "explanation": "Nechisar National Park is the only known location of the Nechisar nightjar (Caprimulgus solala), an endemic bird species.",
+      "anki": true
+    },
+    {
+      "question": "Ethiopia is considered the origin of which important crop plant?",
+      "options": ["Wheat", "Rice", "Coffee (Coffea arabica)", "Maize"],
+      "correctAnswer": "Coffee (Coffea arabica)",
+      "explanation": "Ethiopia is the birthplace of Coffea arabica, with wild coffee forests still found in the southwestern highlands.",
+      "anki": true
+    },
+    {
+      "question": "The Ethiopian wolf is classified as which conservation status?",
+      "options": ["Least concern", "Endangered", "Extinct in the wild", "Vulnerable"],
+      "correctAnswer": "Endangered",
+      "explanation": "The Ethiopian wolf is listed as Endangered by the IUCN, with fewer than 500 adults remaining in the wild.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an endemic Ethiopian bird with the scientific name Zavattariornis stresemanni?",
+      "options": ["Blue-winged goose", "Ethiopian bush-crow", "Abyssinian longclaw", "Yellow-fronted parrot"],
+      "correctAnswer": "Ethiopian bush-crow",
+      "explanation": "Zavattariornis stresemanni is the Ethiopian bush-crow, an endemic bird found only in southern Ethiopia.",
+      "anki": true
+    }
+  ]
+}

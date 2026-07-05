@@ -1,0 +1,160 @@
+{
+  "title": "6.1 Ecology Basics",
+  "description": "Definition of ecology, key ecological terms, biotic and abiotic components of the environment",
+  "folder": "School/Grade 9/Biology/Unit 6",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit6"],
+  "questions": [
+    {
+      "question": "What is the scientific study of the interactions between living organisms and their environment called?",
+      "options": ["Ecology", "Biology", "Zoology", "Botany"],
+      "answer": 0,
+      "anki": true
+    },
+    {
+      "question": "Which term refers to the specific place where an organism lives?",
+      "options": ["Niche", "Habitat", "Ecosystem", "Biome"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What term describes the functional role or position of an organism in its environment, including how it gets food and interacts with others?",
+      "options": ["Habitat", "Ecosystem", "Niche", "Biosphere"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is a group of individuals of the same species living in a particular area called?",
+      "options": ["Community", "Ecosystem", "Population", "Biome"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What term describes all the different populations of various species living and interacting in a given area?",
+      "options": ["Population", "Community", "Ecosystem", "Biosphere"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What is a biological community of interacting organisms and their physical environment called?",
+      "options": ["Population", "Community", "Biome", "Ecosystem"],
+      "answer": 3,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a large community of plants and animals occupying a major habitat, such as a tropical rainforest?",
+      "options": ["Ecosystem", "Biosphere", "Biome", "Population"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is the highest level of ecological organization, encompassing all of Earth's ecosystems?",
+      "options": ["Biome", "Biosphere", "Ecosystem", "Community"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of a biotic component of an ecosystem?",
+      "options": ["Sunlight", "Temperature", "Plants", "Soil pH"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of an abiotic component of an ecosystem?",
+      "options": ["Bacteria", "Trees", "Water", "Fungi"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Organisms that can produce their own food using sunlight or chemical energy are called:",
+      "options": ["Consumers", "Heterotrophs", "Autotrophs", "Decomposers"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is another name for autotrophs in an ecosystem?",
+      "options": ["Consumers", "Producers", "Decomposers", "Herbivores"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which type of organism cannot make its own food and must obtain energy by consuming other organisms?",
+      "options": ["Autotroph", "Producer", "Heterotroph", "Saprotroph"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What do you call an animal that feeds exclusively on plants?",
+      "options": ["Carnivore", "Omnivore", "Herbivore", "Decomposer"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of a carnivore?",
+      "options": ["Cow", "Rabbit", "Lion", "Deer"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "An organism that feeds on both plants and animals is called a(n):",
+      "options": ["Herbivore", "Carnivore", "Omnivore", "Saprotroph"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of an omnivore?",
+      "options": ["Tiger", "Bear", "Zebra", "Vulture"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Organisms that break down dead organic matter into simpler substances are called:",
+      "options": ["Producers", "Consumers", "Decomposers", "Herbivores"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which term refers to decomposers like bacteria and fungi that feed on dead organic matter?",
+      "options": ["Herbivores", "Carnivores", "Saprotrophs", "Omnivores"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which abiotic factor is the primary energy source for nearly all ecosystems on Earth?",
+      "options": ["Water", "Wind", "Sunlight", "Soil"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "The measure of acidity or alkalinity in soil or water that affects organism distribution is called:",
+      "options": ["Salinity", "pH", "Temperature", "Humidity"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What term describes the salt concentration in water, which determines whether an aquatic environment is freshwater or marine?",
+      "options": ["Salinity", "pH", "Temperature", "Turbidity"],
+      "answer": 0,
+      "anki": true
+    },
+    {
+      "question": "Which two processes carried out by living organisms help maintain the balance of oxygen and carbon dioxide in the atmosphere?",
+      "options": ["Photosynthesis and respiration", "Evaporation and condensation", "Nitrogen fixation and denitrification", "Feeding and excretion"],
+      "answer": 0,
+      "anki": true
+    },
+    {
+      "question": "Which of the following best describes the relationship between a habitat and a niche?",
+      "options": ["A habitat is where an organism lives; a niche is what it does", "A niche is where an organism lives; a habitat is what it does", "They mean the same thing", "A habitat is the role of a species in a community"],
+      "answer": 0,
+      "anki": true
+    },
+    {
+      "question": "Which statement about decomposers is correct?",
+      "options": ["They produce food through photosynthesis", "They feed only on living organisms", "They recycle nutrients by breaking down dead matter", "They are always at the top of the food chain"],
+      "answer": 2,
+      "anki": true
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "title": "6.5 Ecological Relationships",
+  "description": "Predation, competition, symbiosis (mutualism, commensalism, parasitism), food chains, food webs, trophic levels, and energy flow",
+  "folder": "School/Grade 9/Biology/Unit 6",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit6"],
+  "questions": [
+    {
+      "question": "What type of ecological relationship involves one organism (predator) killing and eating another organism (prey)?",
+      "options": ["Competition", "Mutualism", "Predation", "Commensalism"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "When two or more organisms compete for the same limited resource, such as food or space, this is called:",
+      "options": ["Predation", "Competition", "Parasitism", "Mutualism"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Competition between individuals of the same species is called:",
+      "options": ["Interspecific competition", "Intraspecific competition", "Predation", "Symbiosis"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Competition between individuals of different species is called:",
+      "options": ["Intraspecific competition", "Interspecific competition", "Predation", "Commensalism"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which type of symbiotic relationship benefits both organisms involved?",
+      "options": ["Commensalism", "Parasitism", "Mutualism", "Predation"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "The relationship between bees and flowering plants, where bees get nectar and plants get pollinated, is an example of:",
+      "options": ["Commensalism", "Parasitism", "Mutualism", "Competition"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "In which type of symbiotic relationship does one organism benefit while the other is neither helped nor harmed?",
+      "options": ["Mutualism", "Commensalism", "Parasitism", "Predation"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Barnacles attaching to a whale, where the barnacles get transport and the whale is unaffected, is an example of:",
+      "options": ["Mutualism", "Parasitism", "Commensalism", "Predation"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "In which symbiotic relationship does one organism benefit while the other is harmed?",
+      "options": ["Mutualism", "Commensalism", "Parasitism", "Competition"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "A tapeworm living in the intestine of a human, absorbing nutrients at the host's expense, is an example of:",
+      "options": ["Mutualism", "Commensalism", "Parasitism", "Predation"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is the correct order of a food chain starting from the energy source?",
+      "options": ["consumer → producer → decomposer", "producer → primary consumer → secondary consumer → tertiary consumer", "decomposer → producer → consumer", "secondary consumer → primary consumer → producer"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "In a food chain, which organism always occupies the first trophic level?",
+      "options": ["Herbivore", "Carnivore", "Producer", "Decomposer"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is an interconnected network of multiple food chains in an ecosystem called?",
+      "options": ["Trophic level", "Energy pyramid", "Food web", "Biomass pyramid"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Each step or position in a food chain or food web is called a:",
+      "options": ["Feeding level", "Trophic level", "Energy level", "Biomass level"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What percentage of energy is typically transferred from one trophic level to the next?",
+      "options": ["90%", "50%", "10%", "1%"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What happens to approximately 90% of the energy at each trophic level?",
+      "options": ["It is stored as fat", "It is lost as heat, used for metabolism, or remains undigested", "It is passed to the next trophic level", "It is converted to light energy"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "A graphical representation showing the amount of energy at each trophic level in an ecosystem is called a(n):",
+      "options": ["Food chain", "Food web", "Energy pyramid", "Biomass pyramid"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which type of ecological pyramid is always upright and never inverted?",
+      "options": ["Pyramid of number", "Pyramid of biomass", "Pyramid of energy", "Pyramid of organisms"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "In the food chain grass → grasshopper → frog → snake, the frog is a:",
+      "options": ["Primary consumer", "Secondary consumer", "Tertiary consumer", "Producer"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Why are food chains usually limited to 3 to 5 trophic levels?",
+      "options": ["Because top predators live longer", "Because energy decreases at each level, leaving insufficient energy beyond level 5", "Because there are not enough species", "Because decomposers consume all remaining energy"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "A lion hunting and eating a zebra is an example of which ecological relationship?",
+      "options": ["Competition", "Mutualism", "Predation", "Parasitism"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Lions and hyenas fighting over the same prey is an example of:",
+      "options": ["Predation", "Mutualism", "Competition", "Commensalism"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "In the energy pyramid, which trophic level has the most energy?",
+      "options": ["Tertiary consumers", "Secondary consumers", "Primary consumers", "Producers"],
+      "answer": 3,
+      "anki": true
+    },
+    {
+      "question": "Herbivores are also known as:",
+      "options": ["Primary consumers", "Secondary consumers", "Tertiary consumers", "Producers"],
+      "answer": 0,
+      "anki": true
+    },
+    {
+      "question": "The relationship between nitrogen-fixing bacteria in root nodules of leguminous plants is an example of:",
+      "options": ["Parasitism", "Commensalism", "Mutualism", "Competition"],
+      "answer": 2,
+      "anki": true
+    }
+  ]
+}

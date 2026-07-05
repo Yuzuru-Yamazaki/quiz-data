@@ -1,0 +1,115 @@
+{
+  "title": "5.4 Infectious Diseases",
+  "description": "Infectious diseases, pathogens, transmission, and prevention",
+  "folder": "School/Grade 9/Biology/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit5"],
+  "questions": [
+    {
+      "question": "What is an infectious disease?",
+      "options": ["A disease caused by disease-causing organisms that can be transmitted from person to person", "A disease caused by genetic factors", "A disease caused by nutritional deficiency", "A disease caused by chemical poisoning"],
+      "answer": "A disease caused by disease-causing organisms that can be transmitted from person to person"
+    },
+    {
+      "question": "Which of the following are examples of pathogens that cause infectious diseases?",
+      "options": ["Bacteria, viruses, protozoa, and fungi", "Only bacteria and viruses", "Only protozoa and fungi", "Only parasites and worms"],
+      "answer": "Bacteria, viruses, protozoa, and fungi"
+    },
+    {
+      "question": "Which of the following is a method of transmission for infectious diseases?",
+      "options": ["Direct contact with a patient, contaminated water or food, insect bites, and sexual intercourse", "Only through the air", "Only through blood transfusion", "Only through genetic inheritance"],
+      "answer": "Direct contact with a patient, contaminated water or food, insect bites, and sexual intercourse"
+    },
+    {
+      "question": "What is a vector in the context of infectious diseases?",
+      "options": ["An organism that carries a disease-causing organism and transmits it from one person to another", "A medication used to treat infections", "A type of vaccine", "A protein that fights infection"],
+      "answer": "An organism that carries a disease-causing organism and transmits it from one person to another"
+    },
+    {
+      "question": "Tuberculosis (TB) is caused by which pathogen?",
+      "options": ["Bacterium called Mycobacterium tuberculosis", "Virus called HIV", "Protozoan called Plasmodium", "Fungus called Candida"],
+      "answer": "Bacterium called Mycobacterium tuberculosis"
+    },
+    {
+      "question": "How is tuberculosis (TB) primarily transmitted?",
+      "options": ["Through airborne droplets when an infected person coughs or sneezes", "Through contaminated water", "Through mosquito bites", "Through sexual contact"],
+      "answer": "Through airborne droplets when an infected person coughs or sneezes"
+    },
+    {
+      "question": "What is the name of the vaccine used to prevent tuberculosis?",
+      "options": ["BCG vaccine", "MMR vaccine", "Polio vaccine", "Hepatitis B vaccine"],
+      "answer": "BCG vaccine"
+    },
+    {
+      "question": "Malaria is caused by which type of pathogen?",
+      "options": ["Protozoan called Plasmodium", "Bacterium called Vibrio cholerae", "Virus called SARS-CoV-2", "Fungus called Aspergillus"],
+      "answer": "Protozoan called Plasmodium"
+    },
+    {
+      "question": "Which mosquito species acts as a vector for malaria?",
+      "options": ["Female Anopheles mosquito", "Female Aedes mosquito", "Male Anopheles mosquito", "Culex mosquito"],
+      "answer": "Female Anopheles mosquito"
+    },
+    {
+      "question": "Which of the following is a method to control malaria?",
+      "options": ["Reducing mosquito populations, avoiding mosquito bites, and using anti-malarial drugs", "Vaccination with BCG", "Taking iron supplements", "Drinking boiled water only"],
+      "answer": "Reducing mosquito populations, avoiding mosquito bites, and using anti-malarial drugs"
+    },
+    {
+      "question": "What does HIV stand for?",
+      "options": ["Human Immunodeficiency Virus", "Human Infection Virus", "Hereditary Immune Virus", "Human Influenza Vaccine"],
+      "answer": "Human Immunodeficiency Virus"
+    },
+    {
+      "question": "Which type of cells does HIV primarily infect and destroy?",
+      "options": ["T-lymphocytes (helper T cells)", "Red blood cells", "Platelets", "B-lymphocytes"],
+      "answer": "T-lymphocytes (helper T cells)"
+    },
+    {
+      "question": "How is HIV transmitted?",
+      "options": ["Through direct exchange of body fluids such as blood, semen, and breast milk", "Through casual contact like shaking hands", "Through sharing food utensils", "Through mosquito bites"],
+      "answer": "Through direct exchange of body fluids such as blood, semen, and breast milk"
+    },
+    {
+      "question": "Cholera is transmitted primarily through:",
+      "options": ["Contaminated drinking water and food", "Mosquito bites", "Airborne droplets", "Direct physical contact"],
+      "answer": "Contaminated drinking water and food"
+    },
+    {
+      "question": "What disease is caused by the bacterium Salmonella typhi?",
+      "options": ["Typhoid fever", "Cholera", "Tuberculosis", "Malaria"],
+      "answer": "Typhoid fever"
+    },
+    {
+      "question": "COVID-19 is caused by which virus?",
+      "options": ["SARS-CoV-2", "HIV", "Influenza virus", "Ebola virus"],
+      "answer": "SARS-CoV-2"
+    },
+    {
+      "question": "How does COVID-19 primarily spread?",
+      "options": ["Through respiratory droplets released when an infected person breathes, talks, coughs, or sneezes", "Through contaminated drinking water", "Through mosquito bites", "Through blood transfusion"],
+      "answer": "Through respiratory droplets released when an infected person breathes, talks, coughs, or sneezes"
+    },
+    {
+      "question": "Which of the following is a common symptom of COVID-19?",
+      "options": ["Fever, cough, tiredness, and loss of taste or smell", "Bleeding gums", "Swollen abdomen", "Deformed bones"],
+      "answer": "Fever, cough, tiredness, and loss of taste or smell"
+    },
+    {
+      "question": "What is the difference between an epidemic and a pandemic?",
+      "options": ["A pandemic is an epidemic that spreads across multiple countries or worldwide", "An epidemic is more severe than a pandemic", "A pandemic is limited to one region", "There is no difference between them"],
+      "answer": "A pandemic is an epidemic that spreads across multiple countries or worldwide"
+    },
+    {
+      "question": "Vaccination works by:",
+      "options": ["Making the body defend against disease-causing organisms", "Killing all bacteria in the body", "Providing immediate energy", "Replacing damaged cells"],
+      "answer": "Making the body defend against disease-causing organisms"
+    },
+    {
+      "question": "Proper waste disposal helps prevent infectious diseases by:",
+      "options": ["Reducing the breeding sites for pathogens and vectors", "Providing nutrients to the soil", "Increasing oxygen levels in the air", "Improving the taste of food"],
+      "answer": "Reducing the breeding sites for pathogens and vectors"
+    }
+  ]
+}

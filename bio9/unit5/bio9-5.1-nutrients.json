@@ -1,0 +1,135 @@
+{
+  "title": "5.1 Nutrients",
+  "description": "Types of nutrients, their sources and functions",
+  "folder": "School/Grade 9/Biology/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit5"],
+  "questions": [
+    {
+      "question": "What is food?",
+      "options": ["Any substance that is eaten, drunk, or taken into the body to sustain life, provide energy, promote growth, and repair tissues", "Only substances that come from animals", "Any liquid that contains vitamins", "Only plant-based materials consumed for energy"],
+      "answer": "Any substance that is eaten, drunk, or taken into the body to sustain life, provide energy, promote growth, and repair tissues"
+    },
+    {
+      "question": "Which of the following is NOT a reason why food is important for living things?",
+      "options": ["Growth of new cells and tissues", "Providing energy for biological activities", "Increasing the speed of nerve impulses", "Replacement of damaged tissues"],
+      "answer": "Increasing the speed of nerve impulses"
+    },
+    {
+      "question": "What is nutrition?",
+      "options": ["The process of taking in food and converting it into energy and other vital nutrients required for life", "The process of eating only vegetables", "The study of minerals in the body", "The process of digesting proteins only"],
+      "answer": "The process of taking in food and converting it into energy and other vital nutrients required for life"
+    },
+    {
+      "question": "Which mode of nutrition involves organisms making their own food?",
+      "options": ["Autotrophic nutrition", "Heterotrophic nutrition", "Parasitic nutrition", "Saprophytic nutrition"],
+      "answer": "Autotrophic nutrition"
+    },
+    {
+      "question": "Organisms that cannot make their own food and depend on other organisms are said to have which type of nutrition?",
+      "options": ["Heterotrophic nutrition", "Autotrophic nutrition", "Photosynthetic nutrition", "Chemosynthetic nutrition"],
+      "answer": "Heterotrophic nutrition"
+    },
+    {
+      "question": "What are nutrients?",
+      "options": ["Chemical substances found in food that the body uses for growth, energy, and staying healthy", "Only the vitamins found in fruits", "Substances that give food colour and flavour", "Waste products eliminated from the body"],
+      "answer": "Chemical substances found in food that the body uses for growth, energy, and staying healthy"
+    },
+    {
+      "question": "How many kilojoules of energy does one gram of carbohydrate provide on average?",
+      "options": ["16 kJ", "37 kJ", "17 kJ", "4 kJ"],
+      "answer": "16 kJ"
+    },
+    {
+      "question": "Which element is NOT part of the composition of carbohydrates?",
+      "options": ["Nitrogen", "Carbon", "Oxygen", "Hydrogen"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "The best sources of carbohydrates include:",
+      "options": ["Potatoes, bread, maize, rice, and cereals", "Meat, fish, and eggs", "Butter, cheese, and animal fat", "Oranges, lemons, and grapefruit"],
+      "answer": "Potatoes, bread, maize, rice, and cereals"
+    },
+    {
+      "question": "Which nutrient is primarily responsible for growth and building new cells in the body?",
+      "options": ["Proteins", "Carbohydrates", "Fats", "Vitamins"],
+      "answer": "Proteins"
+    },
+    {
+      "question": "What elements make up proteins?",
+      "options": ["Carbon, hydrogen, oxygen, and nitrogen", "Carbon, hydrogen, and oxygen only", "Carbon, oxygen, and nitrogen only", "Hydrogen, oxygen, and nitrogen only"],
+      "answer": "Carbon, hydrogen, oxygen, and nitrogen"
+    },
+    {
+      "question": "Which of the following is a good source of proteins from plants?",
+      "options": ["Beans, chickpeas, soy beans, and nuts", "Potatoes and rice", "Butter and cheese", "Oranges and lemons"],
+      "answer": "Beans, chickpeas, soy beans, and nuts"
+    },
+    {
+      "question": "How many kilojoules of energy does one gram of protein provide?",
+      "options": ["17 kJ", "16 kJ", "37 kJ", "25 kJ"],
+      "answer": "17 kJ"
+    },
+    {
+      "question": "What is the main difference between fats and oils based on their physical state at room temperature?",
+      "options": ["Fats are solid and oils are liquid at room temperature", "Fats are liquid and oils are solid at room temperature", "Both are solid at room temperature", "Both are liquid at room temperature"],
+      "answer": "Fats are solid and oils are liquid at room temperature"
+    },
+    {
+      "question": "Fats are mainly obtained from which type of source?",
+      "options": ["Animal sources such as meat, milk, cheese, butter, and egg yolk", "Plant sources such as fruits", "Mineral sources such as rocks", "Synthetic sources produced in laboratories"],
+      "answer": "Animal sources such as meat, milk, cheese, butter, and egg yolk"
+    },
+    {
+      "question": "How many kilojoules of energy does one gram of lipid provide?",
+      "options": ["37 kJ", "16 kJ", "17 kJ", "50 kJ"],
+      "answer": "37 kJ"
+    },
+    {
+      "question": "Which vitamins are fat-soluble and require dietary fat for absorption?",
+      "options": ["Vitamins A, D, E, and K", "Vitamins B and C", "Vitamins A, B, C, and D", "Vitamins E, K, B, and C"],
+      "answer": "Vitamins A, D, E, and K"
+    },
+    {
+      "question": "What is the primary function of calcium in the human body?",
+      "options": ["Building teeth and bones, muscle contraction, and nerve impulse transmission", "Carrying oxygen in the blood", "Regulating thyroid gland function", "Providing energy for cells"],
+      "answer": "Building teeth and bones, muscle contraction, and nerve impulse transmission"
+    },
+    {
+      "question": "Which mineral is essential for the synthesis of hemoglobin in red blood cells?",
+      "options": ["Iron", "Calcium", "Iodine", "Phosphorus"],
+      "answer": "Iron"
+    },
+    {
+      "question": "Iodine is important because it helps which gland to function properly?",
+      "options": ["Thyroid gland", "Pituitary gland", "Adrenal gland", "Pancreas"],
+      "answer": "Thyroid gland"
+    },
+    {
+      "question": "What are the best sources of iodine?",
+      "options": ["Iodized salt and seafood", "Red meat and liver", "Milk and cheese", "Oranges and lemons"],
+      "answer": "Iodized salt and seafood"
+    },
+    {
+      "question": "What is the role of water in the human body?",
+      "options": ["It acts as a solvent and transport medium for substances throughout the body", "It provides energy for metabolism", "It builds muscle tissue", "It stores genetic information"],
+      "answer": "It acts as a solvent and transport medium for substances throughout the body"
+    },
+    {
+      "question": "What is dietary fibre and why is it important?",
+      "options": ["The indigestible part of plants that helps prevent constipation and keeps the colon healthy", "A type of protein that builds muscles", "A vitamin that boosts the immune system", "A mineral that strengthens bones"],
+      "answer": "The indigestible part of plants that helps prevent constipation and keeps the colon healthy"
+    },
+    {
+      "question": "A balanced diet is defined as:",
+      "options": ["A diet that contains all nutrients in the correct amount and proportion", "A diet that contains only carbohydrates", "A diet that excludes all fats", "A diet that includes only one type of food group"],
+      "answer": "A diet that contains all nutrients in the correct amount and proportion"
+    },
+    {
+      "question": "Which group of people requires a higher protein diet for muscle development?",
+      "options": ["Athletes", "Elderly people", "Office workers", "Infants"],
+      "answer": "Athletes"
+    }
+  ]
+}

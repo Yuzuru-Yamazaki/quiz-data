@@ -1,0 +1,185 @@
+{
+  "title": "2.2 Taxonomy and Classification",
+  "description": "Principles of biological classification, taxonomic hierarchy, and binomial nomenclature",
+  "folder": "School/Grade 9/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit2"],
+  "questions": [
+    {
+      "question": "What is the scientific study of naming, describing, and classifying organisms called?",
+      "options": ["Ecology", "Taxonomy", "Genetics", "Physiology"],
+      "correctAnswer": "Taxonomy",
+      "explanation": "Taxonomy is the branch of biology concerned with naming, describing, and classifying organisms into groups.",
+      "anki": true
+    },
+    {
+      "question": "Why is classification of living organisms important?",
+      "options": ["To make organisms more complex", "To organize organisms into groups for easier study and identification", "To change the names of organisms", "To increase the number of species"],
+      "correctAnswer": "To organize organisms into groups for easier study and identification",
+      "explanation": "Classification helps biologists organize, study, and identify the millions of species on Earth systematically.",
+      "anki": true
+    },
+    {
+      "question": "Which is the correct order of the taxonomic hierarchy from most broad to most specific?",
+      "options": ["Kingdom, Phylum, Class, Order, Family, Genus, Species", "Species, Genus, Family, Order, Class, Phylum, Kingdom", "Kingdom, Class, Phylum, Order, Family, Genus, Species", "Phylum, Kingdom, Class, Order, Family, Genus, Species"],
+      "correctAnswer": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+      "explanation": "The taxonomic hierarchy from broadest to most specific is: Kingdom, Phylum, Class, Order, Family, Genus, Species.",
+      "anki": true
+    },
+    {
+      "question": "Who is known as the father of modern taxonomy?",
+      "options": ["Charles Darwin", "Gregor Mendel", "Carl Linnaeus", "Aristotle"],
+      "correctAnswer": "Carl Linnaeus",
+      "explanation": "Carl Linnaeus developed the system of binomial nomenclature and hierarchical classification still used today.",
+      "anki": true
+    },
+    {
+      "question": "What is binomial nomenclature?",
+      "options": ["A naming system using three names", "A two-part naming system consisting of genus and species", "A naming system based on common names", "A naming system using only the species name"],
+      "correctAnswer": "A two-part naming system consisting of genus and species",
+      "explanation": "Binomial nomenclature gives every species a two-part scientific name: the genus name (capitalized) and the species name (lowercase).",
+      "anki": true
+    },
+    {
+      "question": "In binomial nomenclature, how should the scientific name of an organism be written?",
+      "options": ["Genus in lowercase, species capitalized", "Both genus and species in lowercase", "Genus capitalized, species in lowercase, both italicized or underlined", "Both in uppercase"],
+      "correctAnswer": "Genus capitalized, species in lowercase, both italicized or underlined",
+      "explanation": "The genus name is capitalized, the species name is lowercase, and both are italicized or underlined in print.",
+      "anki": true
+    },
+    {
+      "question": "What is the correct way to write the scientific name of humans?",
+      "options": ["Homo sapiens", "homo sapiens", "Homo Sapiens", "HOMO SAPIENS"],
+      "correctAnswer": "Homo sapiens",
+      "explanation": "Homo is capitalized, sapiens is lowercase, and both should be italicized: Homo sapiens.",
+      "anki": true
+    },
+    {
+      "question": "Which taxonomic rank is the most specific and includes only one type of organism?",
+      "options": ["Genus", "Family", "Species", "Order"],
+      "correctAnswer": "Species",
+      "explanation": "Species is the most specific and narrowest taxonomic rank, referring to a group of organisms that can interbreed.",
+      "anki": true
+    },
+    {
+      "question": "Which taxonomic rank is broader than family but narrower than class?",
+      "options": ["Genus", "Species", "Order", "Phylum"],
+      "correctAnswer": "Order",
+      "explanation": "The hierarchy places Order between Class and Family: Kingdom > Phylum > Class > Order > Family > Genus > Species.",
+      "anki": true
+    },
+    {
+      "question": "Organisms that can interbreed and produce fertile offspring belong to the same:",
+      "options": ["Genus", "Family", "Species", "Order"],
+      "correctAnswer": "Species",
+      "explanation": "A species is defined as a group of organisms capable of interbreeding to produce fertile offspring.",
+      "anki": true
+    },
+    {
+      "question": "What is the main purpose of giving organisms scientific names?",
+      "options": ["To make names longer", "To provide a universal name recognized worldwide regardless of language", "To honor scientists", "To confuse students"],
+      "correctAnswer": "To provide a universal name recognized worldwide regardless of language",
+      "explanation": "Scientific names are universal, avoiding confusion that arises from different common names in different languages and regions.",
+      "anki": true
+    },
+    {
+      "question": "In the scientific name Panthera leo, what does Panthera represent?",
+      "options": ["The species", "The genus", "The family", "The order"],
+      "correctAnswer": "The genus",
+      "explanation": "In binomial nomenclature, the first word (capitalized) is the genus; the second word (lowercase) is the species.",
+      "anki": true
+    },
+    {
+      "question": "How many kingdoms are there in the five-kingdom classification system?",
+      "options": ["Three", "Four", "Five", "Six"],
+      "correctAnswer": "Five",
+      "explanation": "The five-kingdom classification system by Whittaker includes Monera, Protista, Fungi, Plantae, and Animalia.",
+      "anki": true
+    },
+    {
+      "question": "Which kingdom contains prokaryotic organisms?",
+      "options": ["Plantae", "Animalia", "Monera", "Fungi"],
+      "correctAnswer": "Monera",
+      "explanation": "Kingdom Monera consists of prokaryotic organisms (bacteria) that lack a true nucleus and membrane-bound organelles.",
+      "anki": true
+    },
+    {
+      "question": "What is the basic unit of classification?",
+      "options": ["Kingdom", "Genus", "Species", "Phylum"],
+      "correctAnswer": "Species",
+      "explanation": "Species is the fundamental and smallest unit of biological classification.",
+      "anki": true
+    },
+    {
+      "question": "Which taxonomic rank comes directly above Genus?",
+      "options": ["Species", "Order", "Family", "Class"],
+      "correctAnswer": "Family",
+      "explanation": "The hierarchy above Genus is Family. Several genera (plural of genus) make up a Family.",
+      "anki": true
+    },
+    {
+      "question": "Which kingdom do humans belong to?",
+      "options": ["Plantae", "Animalia", "Fungi", "Protista"],
+      "correctAnswer": "Animalia",
+      "explanation": "Humans belong to Kingdom Animalia because we are multicellular, heterotrophic, and mobile organisms.",
+      "anki": true
+    },
+    {
+      "question": "A mnemonic to remember the taxonomic hierarchy 'Kingdom, Phylum, Class, Order, Family, Genus, Species' is:",
+      "options": ["Kangaroos Play Chess On Fine Grass Sand", "Kings Play Chess On Fine Green Sand", "Keep Plates Clean Or Family Gets Sick", "Kids Play Computer Games On Friday Nights"],
+      "correctAnswer": "Kings Play Chess On Fine Green Sand",
+      "explanation": "A common mnemonic is 'Kings Play Chess On Fine Green Sand' where each word starts with the same letter as a taxonomic rank.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following classification levels contains the greatest number of species?",
+      "options": ["Species", "Genus", "Kingdom", "Family"],
+      "correctAnswer": "Kingdom",
+      "explanation": "Kingdom is the broadest and highest taxonomic rank and therefore contains the greatest diversity of organisms.",
+      "anki": true
+    },
+    {
+      "question": "The scientific name of the domestic dog is Canis familiaris. What is the genus name?",
+      "options": ["familiaris", "Canis", "Canis familiaris", "Dog"],
+      "correctAnswer": "Canis",
+      "explanation": "In Canis familiaris, Canis is the genus name (capitalized) and familiaris is the species name (lowercase).",
+      "anki": true
+    },
+    {
+      "question": "Which of the following best describes the relationship between organisms in the same genus?",
+      "options": ["They are not related", "They are closely related and share a recent common ancestor", "They belong to different kingdoms", "They cannot interbreed at all"],
+      "correctAnswer": "They are closely related and share a recent common ancestor",
+      "explanation": "Organisms in the same genus are closely related and share many characteristics from a common ancestor.",
+      "anki": true
+    },
+    {
+      "question": "In early classification systems, Aristotle classified organisms into:",
+      "options": ["Five kingdoms", "Plants and animals only", "Three domains", "Prokaryotes and eukaryotes"],
+      "correctAnswer": "Plants and animals only",
+      "explanation": "Aristotle's early classification divided organisms into only two groups: plants and animals.",
+      "anki": true
+    },
+    {
+      "question": "What is the main limitation of using common names for organisms?",
+      "options": ["They are too short", "The same common name can refer to different species in different regions", "They are always scientific", "They are written in Latin"],
+      "correctAnswer": "The same common name can refer to different species in different regions",
+      "explanation": "Common names vary by language and region, causing confusion, which is why scientific names are preferred.",
+      "anki": true
+    },
+    {
+      "question": "Which taxonomic rank would contain organisms that are more diverse: Class or Order?",
+      "options": ["Class", "Order", "They are equally diverse", "It depends on the species"],
+      "correctAnswer": "Class",
+      "explanation": "Class is a broader rank than Order, so it contains more diverse groups of organisms.",
+      "anki": true
+    },
+    {
+      "question": "What feature do all members of Kingdom Plantae share?",
+      "options": ["They are heterotrophic", "They can photosynthesize and are autotrophic", "They are unicellular", "They are prokaryotic"],
+      "correctAnswer": "They can photosynthesize and are autotrophic",
+      "explanation": "Plants are multicellular autotrophs that photosynthesize using chlorophyll to produce their own food.",
+      "anki": true
+    }
+  ]
+}

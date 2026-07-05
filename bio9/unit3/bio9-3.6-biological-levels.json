@@ -1,0 +1,340 @@
+{
+  "title": "3.6 Levels of Biological Organization",
+  "description": "The hierarchical organization of life from cells to the biosphere",
+  "folder": "School/Grade 9/Biology/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit3"],
+  "questions": [
+    {
+      "question": "What is the simplest (lowest) level of biological organization?",
+      "options": [
+        "Tissue",
+        "Cell",
+        "Organ",
+        "Organism"
+      ],
+      "answer": 1,
+      "explanation": "The cell is the basic structural and functional unit of life and is considered the simplest level of biological organization."
+    },
+    {
+      "question": "What is a group of similar cells that work together to perform a specific function called?",
+      "options": [
+        "Organ",
+        "Organ system",
+        "Tissue",
+        "Organism"
+      ],
+      "answer": 2,
+      "explanation": "A tissue is a group of similar cells that work together to perform a specific function (e.g., muscle tissue, nervous tissue)."
+    },
+    {
+      "question": "What is a group of different tissues working together to perform a specific function called?",
+      "options": [
+        "Cell",
+        "Tissue",
+        "Organ system",
+        "Organ"
+      ],
+      "answer": 3,
+      "explanation": "An organ is a structure composed of two or more tissue types working together to perform a specific function (e.g., heart, liver)."
+    },
+    {
+      "question": "What is a group of organs that work together to carry out a major life function called?",
+      "options": [
+        "Organism",
+        "Tissue",
+        "Organ system",
+        "Population"
+      ],
+      "answer": 2,
+      "explanation": "An organ system is a group of organs that work together to perform a major life function (e.g., digestive system, respiratory system)."
+    },
+    {
+      "question": "What is a complete, living individual organism called at the organism level?",
+      "options": [
+        "Cell",
+        "Organ system",
+        "Organism",
+        "Population"
+      ],
+      "answer": 2,
+      "explanation": "An organism is an individual living thing that can carry out all life processes independently."
+    },
+    {
+      "question": "What is a group of individuals of the same species living in the same area called?",
+      "options": [
+        "Community",
+        "Ecosystem",
+        "Population",
+        "Biome"
+      ],
+      "answer": 2,
+      "explanation": "A population is a group of individuals of the same species that live in the same geographic area and can interbreed."
+    },
+    {
+      "question": "What is a group of different populations of different species living and interacting in the same area called?",
+      "options": [
+        "Population",
+        "Ecosystem",
+        "Community",
+        "Biosphere"
+      ],
+      "answer": 2,
+      "explanation": "A community (or biological community) consists of all the populations of different species living and interacting in the same area."
+    },
+    {
+      "question": "What is the combination of a community and its non-living (abiotic) environment called?",
+      "options": [
+        "Biome",
+        "Population",
+        "Community",
+        "Ecosystem"
+      ],
+      "answer": 3,
+      "explanation": "An ecosystem includes both the living (biotic) community and the non-living (abiotic) factors such as water, soil, air, and sunlight."
+    },
+    {
+      "question": "What is a large geographic area characterized by a specific climate and dominant plant types called?",
+      "options": [
+        "Ecosystem",
+        "Biome",
+        "Biosphere",
+        "Community"
+      ],
+      "answer": 1,
+      "explanation": "A biome is a large geographic region with a specific climate, plant life, and animal life (e.g., tropical rainforest, desert, tundra)."
+    },
+    {
+      "question": "What is the highest (most comprehensive) level of biological organization?",
+      "options": [
+        "Ecosystem",
+        "Biome",
+        "Biosphere",
+        "Community"
+      ],
+      "answer": 2,
+      "explanation": "The biosphere is the highest level — it includes all ecosystems and biomes on Earth where life exists (land, water, and atmosphere)."
+    },
+    {
+      "question": "Which of the following is the correct sequence of biological organization from simplest to most complex?",
+      "options": [
+        "Organism → Cell → Tissue → Organ → Organ System → Population → Community → Ecosystem → Biome → Biosphere",
+        "Cell → Tissue → Organ → Organ System → Organism → Population → Community → Ecosystem → Biome → Biosphere",
+        "Cell → Organ → Tissue → Organ System → Organism → Community → Population → Ecosystem → Biosphere → Biome",
+        "Tissue → Cell → Organ → Organ System → Organism → Population → Community → Biome → Ecosystem → Biosphere"
+      ],
+      "answer": 1,
+      "explanation": "The correct order: Cell → Tissue → Organ → Organ System → Organism → Population → Community → Ecosystem → Biome → Biosphere."
+    },
+    {
+      "question": "At which level of organization do heart muscle cells belong?",
+      "options": [
+        "Organ",
+        "Tissue",
+        "Cell",
+        "Organ system"
+      ],
+      "answer": 2,
+      "explanation": "Individual heart muscle cells belong to the cell level of biological organization."
+    },
+    {
+      "question": "At which level of organization does cardiac muscle tissue belong?",
+      "options": [
+        "Cell",
+        "Tissue",
+        "Organ",
+        "Organ system"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle (a group of similar heart muscle cells working together) is at the tissue level."
+    },
+    {
+      "question": "At which level of organization does the human heart belong?",
+      "options": [
+        "Tissue",
+        "Organ",
+        "Organ system",
+        "Organism"
+      ],
+      "answer": 1,
+      "explanation": "The heart is an organ — it is made of different tissues (cardiac muscle, nervous tissue, connective tissue) working together to pump blood."
+    },
+    {
+      "question": "At which level of organization does the circulatory system belong?",
+      "options": [
+        "Organ",
+        "Tissue",
+        "Organ system",
+        "Organism"
+      ],
+      "answer": 2,
+      "explanation": "The circulatory system is an organ system — it consists of the heart (organ), blood vessels (organs), and blood (tissue) working together."
+    },
+    {
+      "question": "A single lion living in the savanna is at which level of biological organization?",
+      "options": [
+        "Population",
+        "Community",
+        "Organism",
+        "Ecosystem"
+      ],
+      "answer": 2,
+      "explanation": "A single individual lion is at the organism level."
+    },
+    {
+      "question": "A pride of lions living in the same savanna region represents which level?",
+      "options": [
+        "Population",
+        "Community",
+        "Ecosystem",
+        "Biome"
+      ],
+      "answer": 0,
+      "explanation": "A pride of lions (same species, same area) represents a population."
+    },
+    {
+      "question": "Lions, zebras, giraffes, and grasses all living together in a savanna represent which level?",
+      "options": [
+        "Population",
+        "Community",
+        "Ecosystem",
+        "Biosphere"
+      ],
+      "answer": 1,
+      "explanation": "Multiple different species (lions, zebras, giraffes, grasses) living together form a community."
+    },
+    {
+      "question": "The savanna including its soil, water, sunlight, and all living organisms represents which level?",
+      "options": [
+        "Community",
+        "Biome",
+        "Ecosystem",
+        "Biosphere"
+      ],
+      "answer": 2,
+      "explanation": "An ecosystem includes both the living community and the abiotic (non-living) factors like soil, water, and sunlight."
+    },
+    {
+      "question": "The tropical savanna as a large geographic region with distinct climate and vegetation is called a:",
+      "options": [
+        "Ecosystem",
+        "Biome",
+        "Community",
+        "Population"
+      ],
+      "answer": 1,
+      "explanation": "The tropical savanna is a biome — a large geographic region characterized by a specific climate (warm with wet/dry seasons) and plant life (grasses with scattered trees)."
+    },
+    {
+      "question": "All the water on Earth, including oceans, lakes, and rivers, is part of which level?",
+      "options": [
+        "Biome",
+        "Ecosystem",
+        "Biosphere",
+        "Community"
+      ],
+      "answer": 2,
+      "explanation": "All water bodies are part of the hydrosphere, which is a component of the biosphere — the global sum of all ecosystems."
+    },
+    {
+      "question": "Which level of organization consists of all ecosystems on Earth?",
+      "options": [
+        "Biome",
+        "Biosphere",
+        "Community",
+        "Population"
+      ],
+      "answer": 1,
+      "explanation": "The biosphere is the global sum of all ecosystems, encompassing all living organisms and their environments on Earth."
+    },
+    {
+      "question": "What defines a population versus a community?",
+      "options": [
+        "A population includes abiotic factors; a community does not",
+        "A population is one species; a community includes multiple species",
+        "A population is larger than a community",
+        "There is no difference"
+      ],
+      "answer": 1,
+      "explanation": "A population consists of individuals of a single species. A community consists of multiple populations of different species interacting."
+    },
+    {
+      "question": "Which level of organization is a school of fish (same species) in a lake?",
+      "options": [
+        "Community",
+        "Ecosystem",
+        "Population",
+        "Organism"
+      ],
+      "answer": 2,
+      "explanation": "A school of fish of the same species in a lake represents a population."
+    },
+    {
+      "question": "A leaf is at which level of biological organization?",
+      "options": [
+        "Cell",
+        "Tissue",
+        "Organ",
+        "Organ system"
+      ],
+      "answer": 2,
+      "explanation": "A leaf is an organ — it is composed of different tissues (epidermis, mesophyll, vascular tissue) working together for photosynthesis."
+    },
+    {
+      "question": "Which level includes both living and non-living components?",
+      "options": [
+        "Population",
+        "Community",
+        "Ecosystem",
+        "Organism"
+      ],
+      "answer": 2,
+      "explanation": "An ecosystem includes both biotic (living) and abiotic (non-living) components such as water, sunlight, soil, and temperature."
+    },
+    {
+      "question": "Which level is made up of only one species?",
+      "options": [
+        "Community",
+        "Ecosystem",
+        "Population",
+        "Biome"
+      ],
+      "answer": 2,
+      "explanation": "A population consists of individuals of only one species living in the same area."
+    },
+    {
+      "question": "The nervous system is an example of which level of organization?",
+      "options": [
+        "Tissue",
+        "Organ",
+        "Organ system",
+        "Organism"
+      ],
+      "answer": 2,
+      "explanation": "The nervous system is an organ system — it includes the brain, spinal cord, and nerves working together."
+    },
+    {
+      "question": "Blood is classified at which level of biological organization?",
+      "options": [
+        "Cell",
+        "Tissue",
+        "Organ",
+        "Organ system"
+      ],
+      "answer": 1,
+      "explanation": "Blood is classified as connective tissue — a group of similar cells (red blood cells, white blood cells, platelets) in a fluid matrix."
+    },
+    {
+      "question": "The human body as a whole represents which level of biological organization?",
+      "options": [
+        "Cell",
+        "Tissue",
+        "Organ system",
+        "Organism"
+      ],
+      "answer": 3,
+      "explanation": "A complete individual human being is at the organism level — the highest level of individual organization."
+    }
+  ]
+}

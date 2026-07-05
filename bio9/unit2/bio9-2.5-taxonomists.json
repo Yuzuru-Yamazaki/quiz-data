@@ -1,0 +1,185 @@
+{
+  "title": "2.5 Renowned Taxonomists",
+  "description": "Carl Linnaeus, Ethiopian taxonomists, and their contributions to biological classification",
+  "folder": "School/Grade 9/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit2"],
+  "questions": [
+    {
+      "question": "Carl Linnaeus is best known for developing which system?",
+      "options": ["Theory of evolution", "Binomial nomenclature and hierarchical classification", "Five-kingdom classification", "Cell theory"],
+      "correctAnswer": "Binomial nomenclature and hierarchical classification",
+      "explanation": "Linnaeus created the system of binomial nomenclature (two-part scientific names) and the hierarchical classification system.",
+      "anki": true
+    },
+    {
+      "question": "What is the title often given to Carl Linnaeus?",
+      "options": ["Father of Genetics", "Father of Taxonomy", "Father of Evolution", "Father of Microbiology"],
+      "correctAnswer": "Father of Taxonomy",
+      "explanation": "Carl Linnaeus is known as the Father of Taxonomy for his foundational work in classifying and naming organisms.",
+      "anki": true
+    },
+    {
+      "question": "In which century did Carl Linnaeus live?",
+      "options": ["16th century", "17th century", "18th century", "19th century"],
+      "correctAnswer": "18th century",
+      "explanation": "Carl Linnaeus lived from 1707 to 1778, which was the 18th century.",
+      "anki": true
+    },
+    {
+      "question": "What was the title of Carl Linnaeus's major work on plant classification?",
+      "options": ["Origin of Species", "Species Plantarum", "Systema Naturae", "The Plant Kingdom"],
+      "correctAnswer": "Species Plantarum",
+      "explanation": "Linnaeus's Species Plantarum (1753) is considered the starting point of botanical nomenclature, listing all known plant species.",
+      "anki": true
+    },
+    {
+      "question": "What was the title of Linnaeus's comprehensive work that classified animals, plants, and minerals?",
+      "options": ["Species Plantarum", "Systema Naturae", "Genera Plantarum", "Critica Botanica"],
+      "correctAnswer": "Systema Naturae",
+      "explanation": "Systema Naturae (1735) was Linnaeus's influential work that classified the three kingdoms of nature: animals, plants, and minerals.",
+      "anki": true
+    },
+    {
+      "question": "Before Linnaeus, what method was commonly used to name organisms?",
+      "options": ["Binomial nomenclature", "Polynomial names with many descriptive words", "Number codes", "DNA barcoding"],
+      "correctAnswer": "Polynomial names with many descriptive words",
+      "explanation": "Before Linnaeus, organisms were given long polynomial names (many words describing features), which were inconsistent and cumbersome.",
+      "anki": true
+    },
+    {
+      "question": "Linnaeus classified organisms primarily based on:",
+      "options": ["DNA sequences", "Genetic analysis", "Physical similarities and structures", "Geographic distribution"],
+      "correctAnswer": "Physical similarities and structures",
+      "explanation": "Linnaeus used visible physical characteristics (morphology) such as flower parts, body structures, and reproductive organs to classify organisms.",
+      "anki": true
+    },
+    {
+      "question": "Which Ethiopian taxonomist contributed significantly to the study of Ethiopian plant species?",
+      "options": ["Abebe Getahun", "Tesfaye Awas", "Sebsebe Demissew", "All of the above"],
+      "correctAnswer": "All of the above",
+      "explanation": "Abebe Getahun, Tesfaye Awas, and Sebsebe Demissew are prominent Ethiopian botanists who have contributed to plant taxonomy.",
+      "anki": true
+    },
+    {
+      "question": "Professor Sebsebe Demissew is known for his work on:",
+      "options": ["Ethiopian mammals", "Ethiopian flora and plant taxonomy", "Marine biology", "Fungal classification"],
+      "correctAnswer": "Ethiopian flora and plant taxonomy",
+      "explanation": "Sebsebe Demissew is a renowned Ethiopian botanist who has extensively studied and classified Ethiopian plants.",
+      "anki": true
+    },
+    {
+      "question": "Which international award did Professor Sebsebe Demissew receive for his botanical work?",
+      "options": ["Nobel Prize", "Linnean Medal", "Darwin Medal", "Royal Botanic Gardens Award"],
+      "correctAnswer": "Linnean Medal",
+      "explanation": "Professor Sebsebe Demissew was awarded the prestigious Linnean Medal in 2019 for his contributions to botany.",
+      "anki": true
+    },
+    {
+      "question": "Linnaeus's classification system was based on which feature for plants?",
+      "options": ["Leaf shape", "Flower parts and reproductive structures (stamens and pistils)", "Root structure", "Stem type"],
+      "correctAnswer": "Flower parts and reproductive structures (stamens and pistils)",
+      "explanation": "Linnaeus classified plants based on the number and arrangement of their reproductive parts, particularly stamens and pistils.",
+      "anki": true
+    },
+    {
+      "question": "What language did Linnaeus use for his scientific naming system?",
+      "options": ["Greek", "Latin", "English", "French"],
+      "correctAnswer": "Latin",
+      "explanation": "Linnaeus used Latin for scientific names because it was the universal language of scholars in Europe at the time.",
+      "anki": true
+    },
+    {
+      "question": "How did Linnaeus group animals in his classification system?",
+      "options": ["By habitat only", "By diet only", "By features such as body structure, number of limbs, and method of reproduction", "By color"],
+      "correctAnswer": "By features such as body structure, number of limbs, and method of reproduction",
+      "explanation": "Linnaeus classified animals based on observable physical characteristics and reproductive methods.",
+      "anki": true
+    },
+    {
+      "question": "The Linnaean system is considered a:",
+      "options": ["Evolutionary classification system", "Artificial classification system based on observable features", "Molecular classification system", "Ecological classification system"],
+      "correctAnswer": "Artificial classification system based on observable features",
+      "explanation": "Linnaeus's system is called artificial because it groups organisms based on a few selected physical features rather than evolutionary relationships.",
+      "anki": true
+    },
+    {
+      "question": "Which Ethiopian taxonomist has studied the flora of the Simien Mountains extensively?",
+      "options": ["Tesfaye Awas", "Abebe Getahun", "Melesse Maryo", "Ensermu Kelbessa"],
+      "correctAnswer": "Ensermu Kelbessa",
+      "explanation": "Ensermu Kelbessa is an Ethiopian botanist known for his work on the flora of the Simien Mountains and other regions.",
+      "anki": true
+    },
+    {
+      "question": "Linnaeus divided the natural world into three kingdoms. Which one was NOT one of them?",
+      "options": ["Animalia", "Plantae", "Mineralia (Minerals)", "Fungi"],
+      "correctAnswer": "Fungi",
+      "explanation": "Linnaeus originally classified the natural world into three kingdoms: Animalia, Plantae, and Mineralia. Fungi were placed within Plantae.",
+      "anki": true
+    },
+    {
+      "question": "What is the standard abbreviation for Carl Linnaeus in botanical citations?",
+      "options": ["L.", "C. Lin.", "Li.", "Lin."],
+      "correctAnswer": "L.",
+      "explanation": "In botanical nomenclature, Linnaeus is abbreviated as 'L.' after the scientific names of plants he first described.",
+      "anki": true
+    },
+    {
+      "question": "Linnaeus developed his classification system during which period of scientific history?",
+      "options": ["The Renaissance", "The Age of Enlightenment", "The Industrial Revolution", "The Scientific Revolution"],
+      "correctAnswer": "The Age of Enlightenment",
+      "explanation": "Linnaeus worked during the 18th-century Age of Enlightenment, a period of systematic scientific exploration and classification.",
+      "anki": true
+    },
+    {
+      "question": "Which Ethiopian taxonomist contributed to the Flora of Ethiopia and Eritrea project?",
+      "options": ["Sebsebe Demissew", "Tesfaye Awas", "Ensermu Kelbessa", "All of the above"],
+      "correctAnswer": "All of the above",
+      "explanation": "Many Ethiopian taxonomists including Sebsebe Demissew, Tesfaye Awas, and Ensermu Kelbessa contributed to the Flora of Ethiopia and Eritrea project.",
+      "anki": true
+    },
+    {
+      "question": "The Flora of Ethiopia and Eritrea project documented how many plant species?",
+      "options": ["About 2,000", "About 6,000", "About 10,000", "About 500"],
+      "correctAnswer": "About 6,000",
+      "explanation": "The Flora of Ethiopia and Eritrea project documented approximately 6,000 species of vascular plants found in Ethiopia and Eritrea.",
+      "anki": true
+    },
+    {
+      "question": "Linnaeus believed that species were:",
+      "options": ["Evolving over time", "Fixed and unchanging since creation", "Resulting from natural selection", "Hybrids of other species"],
+      "correctAnswer": "Fixed and unchanging since creation",
+      "explanation": "Linnaeus held a creationist view that species were divinely created and fixed, a view later challenged by evolutionary theory.",
+      "anki": true
+    },
+    {
+      "question": "What is the main limitation of the Linnaean classification system?",
+      "options": ["It is too complex", "It does not reflect evolutionary relationships", "It uses Latin names", "It has too many categories"],
+      "correctAnswer": "It does not reflect evolutionary relationships",
+      "explanation": "Linnaeus's system groups organisms by physical similarity rather than evolutionary ancestry, which modern cladistics improves upon.",
+      "anki": true
+    },
+    {
+      "question": "Linnaeus's original classification of humans placed them in which group?",
+      "options": ["Primates", "Quadrupeds", "Anthropomorpha", "Mammalia"],
+      "correctAnswer": "Anthropomorpha",
+      "explanation": "Linnaeus originally placed humans in the order Anthropomorpha (meaning man-like), alongside monkeys and apes, later renamed Primates.",
+      "anki": true
+    },
+    {
+      "question": "Which Ethiopian scientist has contributed to the taxonomy of Ethiopian coffee varieties?",
+      "options": ["Tesfaye Awas", "Abebe Getahun", "Taye Kufa", "Alemayehu Wodajo"],
+      "correctAnswer": "Taye Kufa",
+      "explanation": "Taye Kufa is an Ethiopian scientist who has researched and classified the diverse coffee varieties found in Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "Linnaeus described approximately how many species during his lifetime?",
+      "options": ["1,000", "7,700", "20,000", "50,000"],
+      "correctAnswer": "7,700",
+      "explanation": "Linnaeus described and named about 7,700 plant species and 4,400 animal species during his career.",
+      "anki": true
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "title": "1.1 Definition of Biology",
+  "description": "Definition of biology and its relation to other sciences",
+  "folder": "School/Grade 9/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the meaning of the word 'biology'?",
+      "options": [
+        "The study of life and living organisms",
+        "The study of the earth",
+        "The study of chemicals",
+        "The study of the universe"
+      ],
+      "correctAnswer": "The study of life and living organisms"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The word biology is derived from which two Greek words?",
+      "options": [
+        "Bios and logos",
+        "Bio and logy",
+        "Bios and graphy",
+        "Physis and logos"
+      ],
+      "correctAnswer": "Bios and logos"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "What does the Greek word 'bios' mean?",
+      "options": [
+        "Study",
+        "Life",
+        "Nature",
+        "Science"
+      ],
+      "correctAnswer": "Life"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What does the Greek word 'logos' mean?",
+      "options": [
+        "Life",
+        "Nature",
+        "Study",
+        "Knowledge"
+      ],
+      "correctAnswer": "Study"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which of the following is a similarity between biology and chemistry?",
+      "options": [
+        "Both study living organisms",
+        "Both involve the study of matter and its transformations",
+        "Both study celestial bodies",
+        "Both focus only on the environment"
+      ],
+      "correctAnswer": "Both involve the study of matter and its transformations"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The formation of oxyhaemoglobin during transport of oxygen is explained by which science?",
+      "options": [
+        "Physics",
+        "Chemistry",
+        "Geology",
+        "Astronomy"
+      ],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The absorption of water from root to leaves involves cohesion and adhesion, which are concepts explained by which science?",
+      "options": [
+        "Chemistry",
+        "Biology",
+        "Physics",
+        "Mathematics"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "All metabolic pathways in living organisms involve chemical change, showing that biology is closely related to which science?",
+      "options": [
+        "Physics",
+        "Chemistry",
+        "Geology",
+        "Astronomy"
+      ],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Diffusion and osmosis are processes in living organisms that are explained by which science?",
+      "options": [
+        "Chemistry",
+        "Physics",
+        "Biology alone",
+        "Astronomy"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Why is the study of biology important in medicine?",
+      "options": [
+        "It helps understand the causes and treatments of diseases",
+        "It helps build better roads",
+        "It helps design computer software",
+        "It helps explore outer space"
+      ],
+      "correctAnswer": "It helps understand the causes and treatments of diseases"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "How is biology applied in the field of agriculture?",
+      "options": [
+        "By designing farm equipment",
+        "By improving crop yields and developing disease-resistant plants",
+        "By building irrigation canals",
+        "By mapping farmland"
+      ],
+      "correctAnswer": "By improving crop yields and developing disease-resistant plants"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Biology is applied in forensics for what purpose?",
+      "options": [
+        "Predicting weather patterns",
+        "Identifying suspects through DNA analysis",
+        "Building courtrooms",
+        "Writing legal documents"
+      ],
+      "correctAnswer": "Identifying suspects through DNA analysis"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "How does biology contribute to environmental conservation?",
+      "options": [
+        "By designing buildings",
+        "By understanding ecosystems and protecting biodiversity",
+        "By manufacturing plastic",
+        "By mining minerals"
+      ],
+      "correctAnswer": "By understanding ecosystems and protecting biodiversity"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What is the electron transport chain involved in?",
+      "options": [
+        "Photosynthesis only",
+        "Release of energy during respiration",
+        "Transportation of water in plants",
+        "Absorption of minerals from soil"
+      ],
+      "correctAnswer": "Release of energy during respiration"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The structure of the cell membrane involves lipids and proteins and is explained by which science?",
+      "options": [
+        "Physics",
+        "Chemistry",
+        "Geology",
+        "Astronomy"
+      ],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Capillary action and surface tension help explain water movement in plants. These are concepts from which science?",
+      "options": [
+        "Chemistry",
+        "Biology",
+        "Physics",
+        "Geology"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What is the relationship between biology and physics called when studying biophysical processes?",
+      "options": [
+        "Biochemistry",
+        "Biophysics",
+        "Bioinformatics",
+        "Biogeography"
+      ],
+      "correctAnswer": "Biophysics"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "What do we call the application of biological knowledge to solve crimes?",
+      "options": [
+        "Criminology",
+        "Forensic science",
+        "Pathology",
+        "Toxicology"
+      ],
+      "correctAnswer": "Forensic science"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Which field uses biology to develop new drugs and vaccines?",
+      "options": [
+        "Pharmacology",
+        "Astronomy",
+        "Geology",
+        "Meteorology"
+      ],
+      "correctAnswer": "Pharmacology"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "How does biology help in the production of food?",
+      "options": [
+        "By developing better crop varieties and improving livestock breeding",
+        "By building larger kitchens",
+        "By designing packaging materials",
+        "By constructing supermarkets"
+      ],
+      "correctAnswer": "By developing better crop varieties and improving livestock breeding"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "The absorption and elimination of salts in the excretory system involves acid-base equilibrium to maintain $pH$. This is a concept from which science?",
+      "options": [
+        "Physics",
+        "Chemistry",
+        "Geology",
+        "Mathematics"
+      ],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Biology contributes to conservation biology by helping to do what?",
+      "options": [
+        "Build more roads",
+        "Protect endangered species and their habitats",
+        "Increase pollution",
+        "Drain wetlands"
+      ],
+      "correctAnswer": "Protect endangered species and their habitats"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What is the study of tissues called when discussing biology's relationship with other sciences?",
+      "options": [
+        "Cytology",
+        "Histology",
+        "Anatomy",
+        "Morphology"
+      ],
+      "correctAnswer": "Histology"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Which branch of science involves the study of the chemical reactions that take place in living organisms?",
+      "options": [
+        "Biophysics",
+        "Biochemistry",
+        "Geochemistry",
+        "Astrochemistry"
+      ],
+      "correctAnswer": "Biochemistry"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Biology is related to physics through concepts such as?",
+      "options": [
+        "DNA replication",
+        "Light refraction in the eye, leverage in bones, and fluid dynamics in blood flow",
+        "Protein synthesis",
+        "Cell division"
+      ],
+      "correctAnswer": "Light refraction in the eye, leverage in bones, and fluid dynamics in blood flow"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Why is biology important in the field of biotechnology?",
+      "options": [
+        "It helps produce antibiotics, enzymes, and genetically modified organisms",
+        "It helps design computers",
+        "It helps build cars",
+        "It helps mine coal"
+      ],
+      "correctAnswer": "It helps produce antibiotics, enzymes, and genetically modified organisms"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "DNA analysis, a biological tool, is used in paternity testing to do what?",
+      "options": [
+        "Determine eye color",
+        "Establish biological relationships between individuals",
+        "Predict height",
+        "Measure blood pressure"
+      ],
+      "correctAnswer": "Establish biological relationships between individuals"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "What does the study of biology help us understand about the human body?",
+      "options": [
+        "How to build machines",
+        "How organs function, how diseases develop, and how to maintain health",
+        "How to calculate taxes",
+        "How to drive cars"
+      ],
+      "correctAnswer": "How organs function, how diseases develop, and how to maintain health"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "The study of ecology, a branch of biology, helps us understand what?",
+      "options": [
+        "The structure of atoms",
+        "How organisms interact with each other and with their environment",
+        "The movement of tectonic plates",
+        "The formation of stars"
+      ],
+      "correctAnswer": "How organisms interact with each other and with their environment"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "Which application of biology is used to clean up environmental pollutants using living organisms?",
+      "options": [
+        "Bioremediation",
+        "Bioaccumulation",
+        "Biomagnification",
+        "Biodegradation"
+      ],
+      "correctAnswer": "Bioremediation"
+    }
+  ]
+}

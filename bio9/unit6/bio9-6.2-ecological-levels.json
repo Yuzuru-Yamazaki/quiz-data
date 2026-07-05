@@ -1,0 +1,160 @@
+{
+  "title": "6.2 Levels of Ecological Organization",
+  "description": "Levels of ecological organization from organism to biosphere, types of ecosystems (terrestrial and aquatic)",
+  "folder": "School/Grade 9/Biology/Unit 6",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit6"],
+  "questions": [
+    {
+      "question": "What is the simplest level of ecological organization?",
+      "options": ["Population", "Community", "Organism", "Ecosystem"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is the correct order of ecological organization from simplest to most complex?",
+      "options": ["organism → community → population → ecosystem → biome → biosphere", "organism → population → community → ecosystem → biome → biosphere", "population → organism → community → ecosystem → biome → biosphere", "organism → population → ecosystem → community → biome → biosphere"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "At which level of ecological organization do individuals of the same species interact with each other?",
+      "options": ["Organism", "Population", "Community", "Ecosystem"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "At which level do different populations of various species interact in a given area?",
+      "options": ["Organism", "Population", "Community", "Biosphere"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which level of organization includes both the living community and the nonliving factors in an area?",
+      "options": ["Community", "Biome", "Ecosystem", "Biosphere"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is the broadest and most inclusive level of ecological organization?",
+      "options": ["Biome", "Ecosystem", "Biosphere", "Community"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which type of ecosystem is found on land and includes forests, grasslands, and deserts?",
+      "options": ["Aquatic ecosystem", "Terrestrial ecosystem", "Marine ecosystem", "Freshwater ecosystem"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of a terrestrial ecosystem?",
+      "options": ["Coral reef", "Pond", "Rainforest", "River"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What are the two main categories of aquatic ecosystems?",
+      "options": ["Saltwater and freshwater", "Ponds and oceans", "Lakes and rivers", "Marine and terrestrial"],
+      "answer": 0,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of a freshwater ecosystem?",
+      "options": ["Ocean", "Coral reef", "Pond", "Estuary"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which freshwater ecosystem is characterized by standing or slow-moving water?",
+      "options": ["River", "Stream", "Pond", "Coral reef"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a characteristic of a lake ecosystem?",
+      "options": ["Flowing water", "Small and shallow", "Large body of standing freshwater", "High salt content"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "A river ecosystem is best described as:",
+      "options": ["Standing water with aquatic plants", "Flowing freshwater that moves in one direction", "A saltwater environment", "A transition zone between land and water"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What type of aquatic ecosystem covers about 71% of Earth's surface and has high salt content?",
+      "options": ["Freshwater ecosystem", "Marine ecosystem", "Estuary", "Pond ecosystem"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which marine ecosystem is known for its high biodiversity and is often called the 'rainforest of the sea'?",
+      "options": ["Open ocean", "Coral reef", "Kelp forest", "Estuary"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What is the main abiotic factor that distinguishes a marine ecosystem from a freshwater ecosystem?",
+      "options": ["Temperature", "Depth", "Salinity", "Light availability"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "Which of the following correctly lists the levels of organization from smallest to largest?",
+      "options": ["Biosphere, biome, ecosystem, community, population, organism", "Organism, ecosystem, population, community, biome, biosphere", "Organism, population, community, ecosystem, biome, biosphere", "Population, organism, community, biome, ecosystem, biosphere"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "What is the difference between a pond and a lake?",
+      "options": ["Ponds are saltwater and lakes are freshwater", "Ponds are smaller and shallower than lakes", "Lakes have flowing water while ponds are stagnant", "There is no difference"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which level of ecological organization includes all the biomes on Earth combined?",
+      "options": ["Ecosystem", "Biosphere", "Biome", "Community"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "What is the main source of energy in most terrestrial ecosystems?",
+      "options": ["Wind", "Sunlight", "Geothermal heat", "Water flow"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a key characteristic used to classify terrestrial ecosystems?",
+      "options": ["Salinity", "Climate and vegetation", "Depth", "Water flow rate"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "The transition zone where a freshwater river meets the ocean is called:",
+      "options": ["Coral reef", "Estuary", "Wetland", "Lake"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which of the following aquatic ecosystems has the highest salt concentration?",
+      "options": ["Freshwater pond", "River", "Marine ocean", "Lake"],
+      "answer": 2,
+      "anki": true
+    },
+    {
+      "question": "A group of organisms of the same species living in the same area at the same time is best described as a:",
+      "options": ["Community", "Population", "Ecosystem", "Biome"],
+      "answer": 1,
+      "anki": true
+    },
+    {
+      "question": "Which ecological level includes both biotic and abiotic components interacting together?",
+      "options": ["Population", "Community", "Ecosystem", "Biome"],
+      "answer": 2,
+      "anki": true
+    }
+  ]
+}
