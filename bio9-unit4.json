@@ -1,0 +1,1006 @@
+{
+  "title": "Unit 4: Reproduction",
+  "description": "Comprehensive questions covering Grade 9 Biology Unit 4",
+  "folder": "School/Grade 9/Biology/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit4"],
+  "questions": [
+    {
+      "question": "What is reproduction?",
+      "options": [
+        "The ability of organisms to produce offspring of their own kind",
+        "The process of obtaining energy from food",
+        "The movement of organisms from one place to another",
+        "The response of organisms to stimuli"
+      ],
+      "correctAnswer": "The ability of organisms to produce offspring of their own kind",
+      "explanation": "Reproduction is the biological process by which organisms produce offspring of their own kind, ensuring continuation of life from generation to generation.",
+      "anki": true
+    },
+    {
+      "question": "Which characteristic best distinguishes living things from non-living matter?",
+      "options": [
+        "Growth",
+        "Reproduction",
+        "Movement",
+        "Respiration"
+      ],
+      "correctAnswer": "Reproduction",
+      "explanation": "The ability of organisms to reproduce to form their own kind is the one characteristic that best distinguishes living things from non-living matter.",
+      "anki": true
+    },
+    {
+      "question": "How many parents are involved in asexual reproduction?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "None"
+      ],
+      "correctAnswer": "One",
+      "explanation": "In asexual reproduction, there is only one parent and no special reproductive organs or cells are involved.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a type of asexual reproduction?",
+      "options": [
+        "Fission",
+        "Fertilization",
+        "Pollination",
+        "Gestation"
+      ],
+      "correctAnswer": "Fission",
+      "explanation": "The basic forms of asexual reproduction are fission (binary and multiple), budding, and fragmentation.",
+      "anki": true
+    },
+    {
+      "question": "In which type of organism is binary fission commonly observed?",
+      "options": [
+        "Bacteria",
+        "Hydra",
+        "Spirogyra",
+        "Planaria"
+      ],
+      "correctAnswer": "Bacteria",
+      "explanation": "Binary fission is common among bacteria, algae, and protozoa. In bacteria, the cell simply divides into two and each new cell becomes an independent organism.",
+      "anki": true
+    },
+    {
+      "question": "What happens to the bacterial nucleus before binary fission?",
+      "options": [
+        "It is replicated to produce two identical copies",
+        "It dissolves completely",
+        "It merges with the cytoplasm",
+        "It is discarded"
+      ],
+      "correctAnswer": "It is replicated to produce two identical copies",
+      "explanation": "Before a bacterium divides, the bacterial nucleus is replicated to produce two identical copies so that each daughter cell receives one copy.",
+      "anki": true
+    },
+    {
+      "question": "What is multiple fission?",
+      "options": [
+        "The organism divides into more than two equal parts",
+        "The organism divides into two equal parts",
+        "The organism divides into two unequal parts",
+        "The organism does not divide at all"
+      ],
+      "correctAnswer": "The organism divides into more than two equal parts",
+      "explanation": "In multiple fission, the organism divides into more than two equal parts, common among some parasitic protozoa such as malarial parasites.",
+      "anki": true
+    },
+    {
+      "question": "What is fragmentation in asexual reproduction?",
+      "options": [
+        "Breakdown of a parent organism into parts that develop into whole organisms",
+        "Division of a cell into two equal halves",
+        "Formation of a bud on the parent body",
+        "Growth of a new plant from a seed"
+      ],
+      "correctAnswer": "Breakdown of a parent organism into parts that develop into whole organisms",
+      "explanation": "Fragmentation is a mode of asexual reproduction involving the breakdown of a parent organism into parts that develop into whole organisms, observed in fungi, plants, animals, and algae.",
+      "anki": true
+    },
+    {
+      "question": "Which organism is given as an example of fragmentation?",
+      "options": [
+        "Spirogyra",
+        "Hydra",
+        "Yeast",
+        "Bacteria"
+      ],
+      "correctAnswer": "Spirogyra",
+      "explanation": "Spirogyra, the filamentous green-algae, undergoes fragmentation which results in many filaments, each growing into a matured filament.",
+      "anki": true
+    },
+    {
+      "question": "In budding, the two daughter cells are:",
+      "options": [
+        "Unequal",
+        "Equal",
+        "Identical in size",
+        "Fused together"
+      ],
+      "correctAnswer": "Unequal",
+      "explanation": "In budding, the two daughter cells are unequal. A bulge forms on the side of the cell, the nucleus divides mitotically, and the bud detaches from the mother cell.",
+      "anki": true
+    },
+    {
+      "question": "Which organism reproduces by budding?",
+      "options": [
+        "Yeast",
+        "Bacteria",
+        "Spirogyra",
+        "Planaria"
+      ],
+      "correctAnswer": "Yeast",
+      "explanation": "Yeast is a fungus that reproduces by budding. A bud develops on the surface of the yeast cell, and the nucleus divides; one daughter nucleus migrates into the bud.",
+      "anki": true
+    },
+    {
+      "question": "Which invertebrate animal reproduces by budding?",
+      "options": [
+        "Hydra",
+        "Earthworm",
+        "Amoeba",
+        "Paramecium"
+      ],
+      "correctAnswer": "Hydra",
+      "explanation": "Budding occurs commonly in some invertebrate animals such as hydra, where a bud forms on the parent body and eventually detaches to become a new individual.",
+      "anki": true
+    },
+    {
+      "question": "What is the main form of asexual reproduction in the majority of fungi?",
+      "options": [
+        "Sporulation",
+        "Binary fission",
+        "Budding",
+        "Fragmentation"
+      ],
+      "correctAnswer": "Sporulation",
+      "explanation": "The majority of fungi reproduce asexually by the formation of spores, a process called sporulation. Spores are dispersed by air currents and grow new hyphae.",
+      "anki": true
+    },
+    {
+      "question": "What is a stolon (runner) in plants?",
+      "options": [
+        "A horizontal stem that grows along the surface of the soil",
+        "An underground horizontal stem",
+        "A modified stem that stores starch",
+        "A modified leaf that stores food"
+      ],
+      "correctAnswer": "A horizontal stem that grows along the surface of the soil",
+      "explanation": "Runners (stolons) originate from auxiliary buds in the lower portion of a plant and grow along the surface of the soil. The strawberry plant is an example.",
+      "anki": true
+    },
+    {
+      "question": "What is a rhizome?",
+      "options": [
+        "An underground horizontal stem",
+        "A stem that grows above the ground",
+        "A modified root that stores food",
+        "A fleshy leaf that stores nutrients"
+      ],
+      "correctAnswer": "An underground horizontal stem",
+      "explanation": "Rhizomes are horizontal shoots that arise from lateral buds near the stem base and grow under the ground. Couch grass is a good example.",
+      "anki": true
+    },
+    {
+      "question": "Tubers are modified stems that store which substance?",
+      "options": [
+        "Starch",
+        "Protein",
+        "Fat",
+        "Water"
+      ],
+      "correctAnswer": "Starch",
+      "explanation": "Tubers are modified stems that may store starch, as seen in the potato. They arise as swollen ends of stolons and contain many buds.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a natural method of vegetative propagation?",
+      "options": [
+        "Bulb",
+        "Grafting",
+        "Cutting",
+        "Layering"
+      ],
+      "correctAnswer": "Bulb",
+      "explanation": "Bulbs are natural vegetative propagation structures. A bulb is a modified stem with enlarged fleshy leaves that functions as an underground storage unit.",
+      "anki": true
+    },
+    {
+      "question": "In grafting, what is the stem of the plant to be grafted called?",
+      "options": [
+        "Scion",
+        "Stock",
+        "Root",
+        "Bud"
+      ],
+      "correctAnswer": "Scion",
+      "explanation": "In grafting, the stem of the plant to be grafted is known as the scion, while the root is called the stock.",
+      "anki": true
+    },
+    {
+      "question": "In grafting, what is the root portion called?",
+      "options": [
+        "Stock",
+        "Scion",
+        "Bud",
+        "Stem"
+      ],
+      "correctAnswer": "Stock",
+      "explanation": "In grafting, the root is called the stock, while the stem of the plant to be grafted is known as the scion.",
+      "anki": true
+    },
+    {
+      "question": "What is parthenogenesis?",
+      "options": [
+        "Development of an unfertilized egg into an adult organism",
+        "Division of an organism into two equal parts",
+        "Formation of spores for reproduction",
+        "Growth of a new plant from a cutting"
+      ],
+      "correctAnswer": "Development of an unfertilized egg into an adult organism",
+      "explanation": "Parthenogenesis is a form of asexual reproduction in which an unfertilized egg develops into an adult organism. In honeybees, all males (drones) are derived through parthenogenesis.",
+      "anki": true
+    },
+    {
+      "question": "In honeybees, bees derived through parthenogenesis are:",
+      "options": [
+        "Males (drones)",
+        "Females (workers)",
+        "Queens",
+        "Both males and females"
+      ],
+      "correctAnswer": "Males (drones)",
+      "explanation": "Among honeybees, all the bees derived through parthenogenesis are males (drones). The queen bee can lay unfertilized eggs that develop into male bees.",
+      "anki": true
+    },
+    {
+      "question": "What is the main advantage of asexual reproduction?",
+      "options": [
+        "No mate is needed",
+        "There is great genetic variation",
+        "Offspring can adapt to changing environments",
+        "It produces more resistant offspring"
+      ],
+      "correctAnswer": "No mate is needed",
+      "explanation": "Advantages of asexual reproduction include: no mate is needed, no gametes are needed, and all good characteristics of the parent are passed on to the offspring.",
+      "anki": true
+    },
+    {
+      "question": "What is a disadvantage of asexual reproduction?",
+      "options": [
+        "Little variation is created",
+        "A mate is always needed",
+        "It is a slow process",
+        "It requires specialized organs"
+      ],
+      "correctAnswer": "Little variation is created",
+      "explanation": "A disadvantage of asexual reproduction is that little variation is created, so adaptation to a changing environment (evolution) is unlikely.",
+      "anki": true
+    },
+    {
+      "question": "What are the sex cells called in sexual reproduction?",
+      "options": [
+        "Gametes",
+        "Somatic cells",
+        "Epithelial cells",
+        "Germ cells"
+      ],
+      "correctAnswer": "Gametes",
+      "explanation": "Sex cells are called gametes. They are made in reproductive organs and are produced through meiosis. The male gamete is sperm and the female gamete is egg.",
+      "anki": true
+    },
+    {
+      "question": "Through which type of cell division are gametes produced?",
+      "options": [
+        "Meiosis",
+        "Mitosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "correctAnswer": "Meiosis",
+      "explanation": "Gametes are produced through meiosis, a type of cell division that reduces the chromosome number by half, producing four genetically distinct cells.",
+      "anki": true
+    },
+    {
+      "question": "What is formed when a sperm and an egg unite during fertilization?",
+      "options": [
+        "Zygote",
+        "Embryo",
+        "Fetus",
+        "Blastocyst"
+      ],
+      "correctAnswer": "Zygote",
+      "explanation": "Fertilization results in the formation of a single cell called a zygote. The zygote then grows into a new individual.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a primary sexual characteristic in males?",
+      "options": [
+        "Penis",
+        "Deepening of voice",
+        "Facial hair",
+        "Broad shoulders"
+      ],
+      "correctAnswer": "Penis",
+      "explanation": "Primary sexual characteristics are present at birth. Males are born with the penis, scrotum, and testicles. Deepening of voice and facial hair are secondary sexual characteristics.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a primary sexual characteristic in females?",
+      "options": [
+        "Vagina",
+        "Breast development",
+        "Broadening of hips",
+        "Menstruation"
+      ],
+      "correctAnswer": "Vagina",
+      "explanation": "Females are born with the vagina, uterus, and ovaries. These are primary sexual characteristics. Breast development, broadening of hips, and menstruation are secondary sexual characteristics.",
+      "anki": true
+    },
+    {
+      "question": "What hormone is responsible for male secondary sexual characteristics?",
+      "options": [
+        "Testosterone",
+        "Estrogen",
+        "Progesterone",
+        "FSH"
+      ],
+      "correctAnswer": "Testosterone",
+      "explanation": "Testosterone, produced by the testes, is responsible for the growth and development of secondary sex characteristics in males, such as deepening of voice and facial hair.",
+      "anki": true
+    },
+    {
+      "question": "Which hormone is responsible for female secondary sexual characteristics?",
+      "options": [
+        "Estrogen",
+        "Testosterone",
+        "Progesterone",
+        "LH"
+      ],
+      "correctAnswer": "Estrogen",
+      "explanation": "Estrogen, released from the ovary, is responsible for the secondary sex characteristics of females, such as breast development, broadening of hips, and fat distribution.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a secondary sexual characteristic in males?",
+      "options": [
+        "Deepening of the voice",
+        "Presence of a penis",
+        "Presence of testes",
+        "Presence of a scrotum"
+      ],
+      "correctAnswer": "Deepening of the voice",
+      "explanation": "Secondary sexual characteristics in males include deepening of the voice, increase in body hair, increase in muscle mass, and increased growth of long bones.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a secondary sexual characteristic in females?",
+      "options": [
+        "Broadening of the hips",
+        "Presence of ovaries",
+        "Presence of a uterus",
+        "Presence of a vagina"
+      ],
+      "correctAnswer": "Broadening of the hips",
+      "explanation": "Secondary sexual characteristics in females include broadening of the hips, fat deposited in breasts, increased growth of long bones, and the beginning of the menstrual cycle.",
+      "anki": true
+    },
+    {
+      "question": "What is the site of sperm production in males?",
+      "options": [
+        "Testes",
+        "Epididymis",
+        "Vas deferens",
+        "Prostate gland"
+      ],
+      "correctAnswer": "Testes",
+      "explanation": "Paired testes are the sites of sperm production. Each testis is composed of numerous seminiferous tubules in which sperm develop.",
+      "anki": true
+    },
+    {
+      "question": "Where does sperm maturation occur?",
+      "options": [
+        "Epididymis",
+        "Seminiferous tubules",
+        "Vas deferens",
+        "Seminal vesicle"
+      ],
+      "correctAnswer": "Epididymis",
+      "explanation": "Sperm travel from the seminiferous tubules to the epididymis, where sperm maturation occurs. The mature sperm then move to the vas deferens.",
+      "anki": true
+    },
+    {
+      "question": "What is the function of the vas deferens?",
+      "options": [
+        "To convey mature sperm toward the body surface",
+        "To produce sperm",
+        "To secrete fructose-rich fluid",
+        "To produce testosterone"
+      ],
+      "correctAnswer": "To convey mature sperm toward the body surface",
+      "explanation": "The vas deferens is one of a pair of long ducts that convey mature sperm toward the body surface. It joins the urethra.",
+      "anki": true
+    },
+    {
+      "question": "What do the seminal vesicles secrete?",
+      "options": [
+        "Fructose-rich fluid",
+        "Alkaline secretions",
+        "Lubricating mucus",
+        "Testosterone"
+      ],
+      "correctAnswer": "Fructose-rich fluid",
+      "explanation": "Seminal vesicles are exocrine glands that secrete fructose-rich fluid into the vasa deferentia, providing nutrients for sperm.",
+      "anki": true
+    },
+    {
+      "question": "What is the function of the prostate gland?",
+      "options": [
+        "To produce alkaline secretions that raise pH of the female reproductive tract",
+        "To produce sperm",
+        "To store sperm",
+        "To secrete testosterone"
+      ],
+      "correctAnswer": "To produce alkaline secretions that raise pH of the female reproductive tract",
+      "explanation": "The prostate gland produces alkaline secretions that help raise the pH of the female reproductive tract, making it more hospitable to sperm.",
+      "anki": true
+    },
+    {
+      "question": "Why are the testes housed in the scrotum?",
+      "options": [
+        "To provide a slightly lower temperature for viable sperm formation",
+        "To protect them from physical injury",
+        "To increase blood flow to the testes",
+        "To allow easier sperm transport"
+      ],
+      "correctAnswer": "To provide a slightly lower temperature for viable sperm formation",
+      "explanation": "The scrotum houses the testes outside the abdominal cavity to provide an environment of slightly lower temperature, since viable sperm do not form at body temperature.",
+      "anki": true
+    },
+    {
+      "question": "What is semen composed of?",
+      "options": [
+        "Sperm mixed with secretions from seminal vesicles and prostate gland",
+        "Only sperm cells",
+        "Only seminal fluid",
+        "Sperm mixed with urine"
+      ],
+      "correctAnswer": "Sperm mixed with secretions from seminal vesicles and prostate gland",
+      "explanation": "Semen is a mix of sperm, proteins, nutrients, ions, and signalling molecules. Sperm constitute less than 5 percent of semen volume.",
+      "anki": true
+    },
+    {
+      "question": "What is the female gonad called?",
+      "options": [
+        "Ovary",
+        "Uterus",
+        "Oviduct",
+        "Vagina"
+      ],
+      "correctAnswer": "Ovary",
+      "explanation": "The female gonads are the ovaries. They lie deep inside the pelvic cavity and produce and release eggs. They also secrete estrogens and progesterone.",
+      "anki": true
+    },
+    {
+      "question": "Which structure connects the ovary to the uterus?",
+      "options": [
+        "Oviduct (fallopian tube)",
+        "Cervix",
+        "Vagina",
+        "Urethra"
+      ],
+      "correctAnswer": "Oviduct (fallopian tube)",
+      "explanation": "Adjacent to each ovary is an oviduct, a hollow tube that connects the ovary to the uterus. Both oviducts open onto the uterus.",
+      "anki": true
+    },
+    {
+      "question": "What is the function of the uterus?",
+      "options": [
+        "To house the developing embryo",
+        "To produce eggs",
+        "To secrete estrogen",
+        "To serve as the birth canal"
+      ],
+      "correctAnswer": "To house the developing embryo",
+      "explanation": "The uterus (womb) is specialized for housing the embryo during its intrauterine existence. It has thick muscular walls and a specialized lining called the endometrium.",
+      "anki": true
+    },
+    {
+      "question": "What is the narrowed region at the bottom of the uterus called?",
+      "options": [
+        "Cervix",
+        "Vagina",
+        "Oviduct",
+        "Endometrium"
+      ],
+      "correctAnswer": "Cervix",
+      "explanation": "The bottom of the uterus is a narrowed region called the cervix, which opens into the vagina.",
+      "anki": true
+    },
+    {
+      "question": "What happens during ovulation?",
+      "options": [
+        "An egg is released from the ovary into the oviduct",
+        "The uterine lining thickens",
+        "The corpus luteum breaks down",
+        "Sperm fertilizes the egg"
+      ],
+      "correctAnswer": "An egg is released from the ovary into the oviduct",
+      "explanation": "During ovulation, the follicle wall ruptures and the egg along with surrounding follicle cells is ejected into the adjacent oviduct.",
+      "anki": true
+    },
+    {
+      "question": "What structure develops from the ruptured follicle after ovulation?",
+      "options": [
+        "Corpus luteum",
+        "Endometrium",
+        "Cervix",
+        "Oviduct"
+      ],
+      "correctAnswer": "Corpus luteum",
+      "explanation": "After ovulation, cells of the ruptured follicle develop into a hormone-secreting structure called the corpus luteum.",
+      "anki": true
+    },
+    {
+      "question": "What is the first day of the menstrual cycle marked by?",
+      "options": [
+        "Onset of menstruation (flow phase)",
+        "Ovulation",
+        "Follicle maturation",
+        "Formation of the corpus luteum"
+      ],
+      "correctAnswer": "Onset of menstruation (flow phase)",
+      "explanation": "The first day of the menstrual cycle is marked by the onset of menstruation (flow phase), which is the flow of bits of uterine lining and some blood.",
+      "anki": true
+    },
+    {
+      "question": "Which hormone stimulates the maturation of an ovarian follicle?",
+      "options": [
+        "FSH (follicle-stimulating hormone)",
+        "LH (luteinizing hormone)",
+        "Estrogen",
+        "Progesterone"
+      ],
+      "correctAnswer": "FSH (follicle-stimulating hormone)",
+      "explanation": "FSH stimulates the development of follicles in the ovary, which in turn causes estrogen to be released.",
+      "anki": true
+    },
+    {
+      "question": "Which hormone triggers ovulation?",
+      "options": [
+        "LH (luteinizing hormone)",
+        "FSH (follicle-stimulating hormone)",
+        "Estrogen",
+        "Progesterone"
+      ],
+      "correctAnswer": "LH (luteinizing hormone)",
+      "explanation": "The flow of LH (luteinizing hormone) causes the follicle to swell and burst. LH is the trigger for ovulation.",
+      "anki": true
+    },
+    {
+      "question": "What hormones are secreted by the corpus luteum?",
+      "options": [
+        "Estrogen and progesterone",
+        "FSH and LH",
+        "Testosterone and estrogen",
+        "LH and progesterone"
+      ],
+      "correctAnswer": "Estrogen and progesterone",
+      "explanation": "The corpus luteum secretes some estrogens and a lot of progesterone. These hormones cause the uterine lining to thicken in preparation for pregnancy.",
+      "anki": true
+    },
+    {
+      "question": "What is the process called when the fertilized egg sinks into the lining of the uterus?",
+      "options": [
+        "Implantation",
+        "Ovulation",
+        "Fertilization",
+        "Menstruation"
+      ],
+      "correctAnswer": "Implantation",
+      "explanation": "Implantation is the process by which the early embryo sinks into the lining of the uterus to continue its development.",
+      "anki": true
+    },
+    {
+      "question": "After how many weeks is the embryo called a fetus?",
+      "options": [
+        "8 weeks",
+        "4 weeks",
+        "12 weeks",
+        "16 weeks"
+      ],
+      "correctAnswer": "8 weeks",
+      "explanation": "After 8 weeks, when all the organs are formed, the embryo is called a fetus.",
+      "anki": true
+    },
+    {
+      "question": "What is the function of the placenta?",
+      "options": [
+        "To provide oxygen and nutrients from the mother's blood to the embryo",
+        "To produce eggs",
+        "To store sperm",
+        "To secrete testosterone"
+      ],
+      "correctAnswer": "To provide oxygen and nutrients from the mother's blood to the embryo",
+      "explanation": "The placenta provides oxygen and nutrients such as glucose and amino acids from the mother's blood to the embryo's bloodstream via the umbilical cord.",
+      "anki": true
+    },
+    {
+      "question": "The fluid-filled sac that protects the embryo is called:",
+      "options": [
+        "Amnion (water sac)",
+        "Placenta",
+        "Umbilical cord",
+        "Endometrium"
+      ],
+      "correctAnswer": "Amnion (water sac)",
+      "explanation": "Inside the uterus, the embryo becomes enclosed in a fluid-filled sac called the amnion or water sac, which protects it from damage.",
+      "anki": true
+    },
+    {
+      "question": "What is the fluid inside the amnion called?",
+      "options": [
+        "Amniotic fluid",
+        "Cervical mucus",
+        "Semen",
+        "Follicular fluid"
+      ],
+      "correctAnswer": "Amniotic fluid",
+      "explanation": "The fluid inside the amnion is called amniotic fluid, which protects the embryo from damage and prevents unequal pressures from acting on it.",
+      "anki": true
+    },
+    {
+      "question": "Identical (monozygotic) twins come from:",
+      "options": [
+        "One zygote that splits",
+        "Two separate zygotes",
+        "Two eggs fertilized by two sperm",
+        "One egg fertilized by two sperm"
+      ],
+      "correctAnswer": "One zygote that splits",
+      "explanation": "Identical (monozygotic) twins come from one zygote that splits into two. They are strikingly alike and always of the same sex.",
+      "anki": true
+    },
+    {
+      "question": "What is a barrier method of birth control?",
+      "options": [
+        "Condom",
+        "Contraceptive pill",
+        "Vasectomy",
+        "IUD"
+      ],
+      "correctAnswer": "Condom",
+      "explanation": "Condoms are barrier methods that physically prevent sperm from reaching the egg. They also provide protection against STIs.",
+      "anki": true
+    },
+    {
+      "question": "Which method of birth control permanently prevents gamete production or release?",
+      "options": [
+        "Sterilization",
+        "Contraceptive pill",
+        "Condom",
+        "Rhythm method"
+      ],
+      "correctAnswer": "Sterilization",
+      "explanation": "Sterilization is the permanent prevention of gamete production or release, achieved through tubal ligation in women or vasectomy in men.",
+      "anki": true
+    },
+    {
+      "question": "What is a vasectomy?",
+      "options": [
+        "Cutting and sealing the vas deferens to prevent sperm from entering the urethra",
+        "Removal of the testes",
+        "Blocking the oviducts",
+        "Insertion of a device into the uterus"
+      ],
+      "correctAnswer": "Cutting and sealing the vas deferens to prevent sperm from entering the urethra",
+      "explanation": "Vasectomy is a surgical operation in which the man's sperm ducts (vas deferens) are cut and the ends sealed, so semen contains no sperm.",
+      "anki": true
+    },
+    {
+      "question": "What is tubal ligation?",
+      "options": [
+        "Sealing shut or tying off a section of each oviduct",
+        "Removal of the ovaries",
+        "Cutting the vas deferens",
+        "Inserting a coil into the uterus"
+      ],
+      "correctAnswer": "Sealing shut or tying off a section of each oviduct",
+      "explanation": "Tubal ligation is the sealing shut or tying off of a section of each oviduct to prevent eggs from traveling into the uterus.",
+      "anki": true
+    },
+    {
+      "question": "What does the contraceptive pill contain?",
+      "options": [
+        "Chemicals similar to estrogen and progesterone",
+        "FSH and LH",
+        "Testosterone",
+        "Oxytocin"
+      ],
+      "correctAnswer": "Chemicals similar to estrogen and progesterone",
+      "explanation": "The pill contains chemicals that have the same effect on the body as the hormones estrogen and progesterone, which suppress ovulation.",
+      "anki": true
+    },
+    {
+      "question": "How does an IUD (intra-uterine device) prevent pregnancy?",
+      "options": [
+        "It prevents implantation of a fertilized ovum",
+        "It kills sperm",
+        "It prevents ovulation",
+        "It blocks the oviducts"
+      ],
+      "correctAnswer": "It prevents implantation of a fertilized ovum",
+      "explanation": "An IUD is inserted into the wall of the uterus where it probably prevents implantation of a fertilized ovum. It is about 98% effective.",
+      "anki": true
+    },
+    {
+      "question": "What is the most effective natural method of preventing pregnancy?",
+      "options": [
+        "Abstinence",
+        "Rhythm method",
+        "Withdrawal",
+        "Temperature monitoring"
+      ],
+      "correctAnswer": "Abstinence",
+      "explanation": "Abstinence involves a couple avoiding sexual intercourse. It is the most effective method with the added advantage of preventing exposure to sexually transmitted pathogens.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following STIs is caused by the flagellated protozoan Trichomonas vaginalis?",
+      "options": [
+        "Trichomoniasis",
+        "Chlamydia",
+        "Gonorrhea",
+        "Syphilis"
+      ],
+      "correctAnswer": "Trichomoniasis",
+      "explanation": "Trichomoniasis is caused by the flagellated protozoan Trichomonas vaginalis. Symptoms include yellowish discharge and sore, itchy vagina in some infected women.",
+      "anki": true
+    },
+    {
+      "question": "Which STI is caused by Chlamydia trachomatis?",
+      "options": [
+        "Chlamydia",
+        "Gonorrhea",
+        "Syphilis",
+        "Trichomoniasis"
+      ],
+      "correctAnswer": "Chlamydia",
+      "explanation": "Chlamydia is caused by Chlamydia trachomatis, which are small bacteria. Left untreated, it can scar the reproductive tract and lead to infertility.",
+      "anki": true
+    },
+    {
+      "question": "Which bacterium causes gonorrhea?",
+      "options": [
+        "Neisseria gonorrhoeae",
+        "Treponema pallidum",
+        "Chlamydia trachomatis",
+        "Trichomonas vaginalis"
+      ],
+      "correctAnswer": "Neisseria gonorrhoeae",
+      "explanation": "Gonorrhea is caused by the bacterium Neisseria gonorrhoeae. Symptoms in men include yellow pus from the penis and painful urination.",
+      "anki": true
+    },
+    {
+      "question": "Which STI is caused by Treponema pallidum?",
+      "options": [
+        "Syphilis",
+        "Gonorrhea",
+        "Chlamydia",
+        "Trichomoniasis"
+      ],
+      "correctAnswer": "Syphilis",
+      "explanation": "Syphilis is caused by Treponema pallidum, a spiral-shaped bacterium. If untreated, it can damage the liver, bones, and eventually the brain.",
+      "anki": true
+    },
+    {
+      "question": "What does HIV stand for?",
+      "options": [
+        "Human Immunodeficiency Virus",
+        "Human Infection Virus",
+        "Human Immune Deficiency Virus",
+        "Highly Infectious Virus"
+      ],
+      "correctAnswer": "Human Immunodeficiency Virus",
+      "explanation": "HIV stands for Human Immunodeficiency Virus. It kills immune cells in the body and leads to Acquired Immune Deficiency Syndrome (AIDS).",
+      "anki": true
+    },
+    {
+      "question": "How is HIV primarily transmitted?",
+      "options": [
+        "Through blood or body fluids of an infected person",
+        "Through air droplets",
+        "Through contaminated food and water",
+        "Through insect bites"
+      ],
+      "correctAnswer": "Through blood or body fluids of an infected person",
+      "explanation": "HIV is spread from an infected person through blood or body fluids, including intimate sexual contact, contaminated needles, blood transfusion, and from mother to fetus.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following STIs is bacterial and can be treated with antibiotics?",
+      "options": [
+        "Syphilis",
+        "HIV/AIDS",
+        "Trichomoniasis",
+        "Chlamydia"
+      ],
+      "correctAnswer": "Syphilis",
+      "explanation": "Syphilis is caused by a bacterium (Treponema pallidum) and can be treated with antibiotics if recognized early. Viral STIs like HIV cannot be cured with antibiotics.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is caused by a virus?",
+      "options": [
+        "HIV/AIDS",
+        "Gonorrhea",
+        "Syphilis",
+        "Chlamydia"
+      ],
+      "correctAnswer": "HIV/AIDS",
+      "explanation": "HIV/AIDS is caused by a virus. Unlike bacterial STIs, antibiotics are not effective against viral STIs.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following STIs can be passed from mother to child during birth, causing pneumonia and conjunctivitis in the newborn?",
+      "options": [
+        "Chlamydia",
+        "HIV/AIDS",
+        "Syphilis",
+        "Gonorrhea"
+      ],
+      "correctAnswer": "Chlamydia",
+      "explanation": "Chlamydia infection can be passed from mother to child during birth, causing pneumonia and conjunctivitis in the newborn. It can be cured with antibiotics.",
+      "anki": true
+    },
+    {
+      "question": "What does AIDS stand for?",
+      "options": [
+        "Acquired Immune Deficiency Syndrome",
+        "Autoimmune Disease Syndrome",
+        "Acquired Infection Deficiency Syndrome",
+        "Active Immune Deficiency Syndrome"
+      ],
+      "correctAnswer": "Acquired Immune Deficiency Syndrome",
+      "explanation": "AIDS stands for Acquired Immune Deficiency Syndrome and is caused by the Human Immunodeficiency Virus (HIV).",
+      "anki": true
+    },
+    {
+      "question": "Early symptoms of AIDS may include:",
+      "options": [
+        "Swollen lymph nodes, weight loss, fever, and fatigue",
+        "Yellow pus from the penis",
+        "Yellowish vaginal discharge",
+        "Skin chancres"
+      ],
+      "correctAnswer": "Swollen lymph nodes, weight loss, fever, and fatigue",
+      "explanation": "Early symptoms of AIDS include swollen lymph nodes, loss of appetite, weight loss, fever, rashes, night sweats, and fatigue.",
+      "anki": true
+    },
+    {
+      "question": "Spermicides work by:",
+      "options": [
+        "Killing or immobilizing sperm",
+        "Preventing ovulation",
+        "Blocking the oviducts",
+        "Preventing implantation"
+      ],
+      "correctAnswer": "Killing or immobilizing sperm",
+      "explanation": "Spermicides are chemicals that kill or immobilize sperm. They are placed in the vagina and are more effective when used with condoms or diaphragms.",
+      "anki": true
+    },
+    {
+      "question": "Which naturally occurring method of vegetative propagation involves horizontal stems that grow under the ground?",
+      "options": [
+        "Rhizome",
+        "Stolon",
+        "Tuber",
+        "Bulb"
+      ],
+      "correctAnswer": "Rhizome",
+      "explanation": "Rhizomes are horizontal shoots that arise from lateral buds and grow under the ground. Couch grass is a good example.",
+      "anki": true
+    },
+    {
+      "question": "Corms are similar to rhizomes but are more:",
+      "options": [
+        "Rounded and fleshy",
+        "Thin and elongated",
+        "Flat and broad",
+        "Hollow and dry"
+      ],
+      "correctAnswer": "Rounded and fleshy",
+      "explanation": "Corms are similar to rhizomes but are more rounded and fleshy (such as in gladiolus). They contain stored food that enables some plants to survive winter.",
+      "anki": true
+    },
+    {
+      "question": "What is the function of the bulbourethral glands?",
+      "options": [
+        "To secrete lubricating mucus into the urethra",
+        "To produce sperm",
+        "To secrete testosterone",
+        "To store mature sperm"
+      ],
+      "correctAnswer": "To secrete lubricating mucus into the urethra",
+      "explanation": "Bulbourethral glands secrete a lubricating mucus into the urethra, which helps clear the urethra of residual urine before ejaculation.",
+      "anki": true
+    },
+    {
+      "question": "What type of cell division produces two identical daughter cells in asexual reproduction?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "correctAnswer": "Mitosis",
+      "explanation": "In binary fission, the body of the unicellular parent divides by mitosis into two approximately equal parts, each growing into an individual similar to the parent.",
+      "anki": true
+    },
+    {
+      "question": "What is the ribbed lining of the uterus called?",
+      "options": [
+        "Endometrium",
+        "Cervix",
+        "Myometrium",
+        "Perimetrium"
+      ],
+      "correctAnswer": "Endometrium",
+      "explanation": "The uterus has a specialized lining called the endometrium, which consists of glandular epithelium, connective tissues, and blood vessels.",
+      "anki": true
+    },
+    {
+      "question": "What is the withdrawal method of contraception?",
+      "options": [
+        "The man pulls his penis out of the vagina before ejaculation",
+        "The woman takes a pill after intercourse",
+        "A condom is used during intercourse",
+        "An IUD is inserted into the uterus"
+      ],
+      "correctAnswer": "The man pulls his penis out of the vagina before ejaculation",
+      "explanation": "The withdrawal method involves a man pulling his penis out of his partner's vagina before ejaculation to prevent sperm from entering the vagina.",
+      "anki": true
+    },
+    {
+      "question": "During the luteal phase of the menstrual cycle, what does LH stimulate?",
+      "options": [
+        "Formation of the corpus luteum",
+        "Ovulation",
+        "Menstruation",
+        "Follicle development"
+      ],
+      "correctAnswer": "Formation of the corpus luteum",
+      "explanation": "During the luteal phase, LH stimulates formation of the corpus luteum, which secretes estrogens and progesterone to thicken the uterine lining.",
+      "anki": true
+    },
+    {
+      "question": "The sperm contains many mitochondria in its midpiece for:",
+      "options": [
+        "Providing energy for flagellar movement",
+        "Producing enzymes to penetrate the egg",
+        "Storing genetic material",
+        "Synthesizing proteins"
+      ],
+      "correctAnswer": "Providing energy for flagellar movement",
+      "explanation": "The midsection of a sperm contains many mitochondria that supply the energy required for flagellar movement to swim toward the egg.",
+      "anki": true
+    },
+    {
+      "question": "The head of a sperm contains enzymes that help:",
+      "options": [
+        "Penetrate the egg",
+        "Swim through the female tract",
+        "Produce energy for movement",
+        "Fuse with other sperm"
+      ],
+      "correctAnswer": "Penetrate the egg",
+      "explanation": "The sperm head is covered by enzymes that help the sperm penetrate an egg during fertilization.",
+      "anki": true
+    }
+  ]
+}

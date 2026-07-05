@@ -1,0 +1,437 @@
+{
+  "title": "Unit 3: Cells",
+  "description": "Comprehensive questions covering Grade 9 Biology Unit 3: Cells, including cell theory, cell structure, types of cells, animal vs plant cells, microscopy, cell environment (diffusion, osmosis, active transport), and levels of biological organization.",
+  "folder": "School/Grade 9/Biology/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit3"],
+  "questions": [
+    {
+      "question": "Who was the first scientist to observe cells and use the word 'cell'?",
+      "options": ["Anton van Leeuwenhoek", "Robert Hooke", "Matthias Schleiden", "Theodor Schwann"],
+      "correctAnswer": "Robert Hooke",
+      "explanation": "Robert Hooke observed thin slices of cork in 1665 and called the pore-like structures 'cells'.",
+      "anki": true
+    },
+    {
+      "question": "In which year did Robert Hooke first observe cells?",
+      "options": ["1665", "1674", "1838", "1856"],
+      "correctAnswer": "1665",
+      "explanation": "Robert Hooke observed cells in 1665 after examining thin slices of plant material (cork).",
+      "anki": true
+    },
+    {
+      "question": "Who is universally acknowledged as the father of microbiology?",
+      "options": ["Robert Hooke", "Matthias Schleiden", "Anton van Leeuwenhoek", "Rudolf Virchow"],
+      "correctAnswer": "Anton van Leeuwenhoek",
+      "explanation": "Leeuwenhoek discovered micro-organisms like protists and bacteria using his hand-built microscopes.",
+      "anki": true
+    },
+    {
+      "question": "Which German botanist stated that all plants are made up of cells?",
+      "options": ["Theodor Schwann", "Rudolf Virchow", "Matthias Schleiden", "Anton van Leeuwenhoek"],
+      "correctAnswer": "Matthias Schleiden",
+      "explanation": "In 1838, Matthias Schleiden, a German botanist, concluded that all plants are made up of cells.",
+      "anki": true
+    },
+    {
+      "question": "Which German zoologist reported that all animals are made up of cells?",
+      "options": ["Matthias Schleiden", "Theodor Schwann", "Rudolf Virchow", "Robert Hooke"],
+      "correctAnswer": "Theodor Schwann",
+      "explanation": "In 1839, Theodor Schwann reported that all animals are made up of cells, extending cell theory to animals.",
+      "anki": true
+    },
+    {
+      "question": "Who established the idea that cells arise only by the division of existing cells?",
+      "options": ["Robert Hooke", "Matthias Schleiden", "Theodor Schwann", "Rudolf Virchow"],
+      "correctAnswer": "Rudolf Virchow",
+      "explanation": "In 1856, Rudolf Virchow, a German pathologist, established that cells arise only from pre-existing cells.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is NOT a principle of cell theory?",
+      "options": ["Living organisms are composed of one or more cells", "Cells are the smallest unit of life", "Cells can arise spontaneously from non-living matter", "Cells arise only by the division of a pre-existing cell"],
+      "correctAnswer": "Cells can arise spontaneously from non-living matter",
+      "explanation": "Cell theory states that cells arise only from pre-existing cells, not spontaneously.",
+      "anki": true
+    },
+    {
+      "question": "According to cell theory, cells arise only by the division of a:",
+      "options": ["non-living matter", "pre-existing cell", "organelle", "nucleus"],
+      "correctAnswer": "pre-existing cell",
+      "explanation": "Rudolf Virchow established that all cells arise from pre-existing cells by division.",
+      "anki": true
+    },
+    {
+      "question": "What is the smallest unit of life according to cell theory?",
+      "options": ["Atom", "Molecule", "Cell", "Tissue"],
+      "correctAnswer": "Cell",
+      "explanation": "Cell theory states that cells are the smallest unit of life that can carry out all life processes.",
+      "anki": true
+    },
+    {
+      "question": "Every living cell is surrounded by a membrane that separates the cell contents from the outside. This membrane is called the:",
+      "options": ["cell wall", "plasma membrane", "nuclear membrane", "cytoplasm"],
+      "correctAnswer": "plasma membrane",
+      "explanation": "The plasma membrane (cell membrane) surrounds every living cell and separates its contents from the external environment.",
+      "anki": true
+    },
+    {
+      "question": "Which organelle is described as the 'powerhouse' of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondrion", "Golgi apparatus"],
+      "correctAnswer": "Mitochondrion",
+      "explanation": "Mitochondria are the sites of respiration where energy is produced, hence called the powerhouse of the cell.",
+      "anki": true
+    },
+    {
+      "question": "The largest organelle in most eukaryotic cells is the:",
+      "options": ["Mitochondrion", "Nucleus", "Golgi apparatus", "Endoplasmic reticulum"],
+      "correctAnswer": "Nucleus",
+      "explanation": "The nucleus is usually the largest organelle and contains the cell's genetic material (DNA).",
+      "anki": true
+    },
+    {
+      "question": "Which organelle is responsible for protein synthesis?",
+      "options": ["Lysosome", "Ribosome", "Golgi apparatus", "Vacuole"],
+      "correctAnswer": "Ribosome",
+      "explanation": "Ribosomes are small structures found in all cells that synthesize proteins.",
+      "anki": true
+    },
+    {
+      "question": "Ribosomes are found either freely in the cytoplasm or attached to the:",
+      "options": ["Golgi apparatus", "rough endoplasmic reticulum", "smooth endoplasmic reticulum", "nucleus"],
+      "correctAnswer": "rough endoplasmic reticulum",
+      "explanation": "Ribosomes attach to the rough endoplasmic reticulum, giving it a dotted appearance.",
+      "anki": true
+    },
+    {
+      "question": "Rough endoplasmic reticulum gets its name from:",
+      "options": ["its rough texture when touched", "the ribosomes attached to its surface", "its protein content", "its lipid content"],
+      "correctAnswer": "the ribosomes attached to its surface",
+      "explanation": "The rough ER appears dotted because of ribosomes attached to its surface, giving it a 'rough' appearance.",
+      "anki": true
+    },
+    {
+      "question": "The smooth endoplasmic reticulum is primarily involved in the manufacturing of:",
+      "options": ["proteins", "lipids", "DNA", "carbohydrates"],
+      "correctAnswer": "lipids",
+      "explanation": "Smooth ER lacks ribosomes and is important for lipid manufacturing.",
+      "anki": true
+    },
+    {
+      "question": "Which organelle functions in the collection, packaging, and distribution of molecules within the cell?",
+      "options": ["Endoplasmic reticulum", "Lysosome", "Golgi apparatus", "Mitochondrion"],
+      "correctAnswer": "Golgi apparatus",
+      "explanation": "The Golgi apparatus modifies, packages, and distributes proteins and lipids within or outside the cell.",
+      "anki": true
+    },
+    {
+      "question": "Small sacs that store and transport materials in the cell are called:",
+      "options": ["Lysosomes", "Vesicles", "Vacuoles", "Ribosomes"],
+      "correctAnswer": "Vesicles",
+      "explanation": "Vesicles are small membranous sacs that store, transport, and ship materials within the cell.",
+      "anki": true
+    },
+    {
+      "question": "Which organelle contains digestive enzymes to break down bacteria and damaged organelles?",
+      "options": ["Ribosome", "Lysosome", "Golgi apparatus", "Vacuole"],
+      "correctAnswer": "Lysosome",
+      "explanation": "Lysosomes are membrane-bound packages of digestive enzymes that break down foreign matter and damaged organelles.",
+      "anki": true
+    },
+    {
+      "question": "Large vacuoles that occupy more than half of the cell volume are characteristic of:",
+      "options": ["animal cells", "plant cells", "bacterial cells", "fungal cells"],
+      "correctAnswer": "plant cells",
+      "explanation": "Many plant cells have large central vacuoles that occupy more than half of the cell volume.",
+      "anki": true
+    },
+    {
+      "question": "Chloroplasts are the site for:",
+      "options": ["respiration", "photosynthesis", "protein synthesis", "lipid synthesis"],
+      "correctAnswer": "photosynthesis",
+      "explanation": "Chloroplasts contain chlorophyll and are the site where photosynthesis occurs in green plants.",
+      "anki": true
+    },
+    {
+      "question": "The green pigment found in chloroplasts that traps sunlight energy is called:",
+      "options": ["carotene", "chlorophyll", "xanthophyll", "hemoglobin"],
+      "correctAnswer": "chlorophyll",
+      "explanation": "Chlorophyll is the green pigment in chloroplasts that captures sunlight energy for photosynthesis.",
+      "anki": true
+    },
+    {
+      "question": "Which structure provides rigid support and gives shape to plant cells?",
+      "options": ["Cell membrane", "Cell wall", "Cytoplasm", "Vacuole"],
+      "correctAnswer": "Cell wall",
+      "explanation": "The cell wall is a rigid structure external to the cell membrane that provides structural support and shape.",
+      "anki": true
+    },
+    {
+      "question": "The cell wall of plant cells is primarily made of:",
+      "options": ["peptidoglycan", "cellulose", "chitin", "protein"],
+      "correctAnswer": "cellulose",
+      "explanation": "Plant cell walls are composed of cellulose, while bacterial cell walls are made of peptidoglycan.",
+      "anki": true
+    },
+    {
+      "question": "Animal cells do NOT have which of the following structures?",
+      "options": ["Cell membrane", "Nucleus", "Cell wall", "Mitochondria"],
+      "correctAnswer": "Cell wall",
+      "explanation": "Animal cells have no cell wall; cell walls are found in plant, fungal, and some bacterial cells.",
+      "anki": true
+    },
+    {
+      "question": "Prokaryotic cells differ from eukaryotic cells mainly because they lack:",
+      "options": ["ribosomes", "a cell membrane", "a nucleus and membrane-bound organelles", "cytoplasm"],
+      "correctAnswer": "a nucleus and membrane-bound organelles",
+      "explanation": "Prokaryotic cells have no nucleus or membrane-bound organelles, unlike eukaryotic cells.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of a prokaryotic cell?",
+      "options": ["Plant cell", "Animal cell", "Bacterial cell", "Fungal cell"],
+      "correctAnswer": "Bacterial cell",
+      "explanation": "Bacteria are prokaryotes; they lack a nucleus and membrane-bound organelles.",
+      "anki": true
+    },
+    {
+      "question": "Eukaryotic cells typically have a size range of:",
+      "options": ["1–10 micrometers", "10–100 micrometers", "100–1000 micrometers", "0.1–1 micrometer"],
+      "correctAnswer": "10–100 micrometers",
+      "explanation": "Eukaryotic cells are usually between 10 and 100 micrometers wide, while prokaryotes are 1–10 micrometers.",
+      "anki": true
+    },
+    {
+      "question": "The term 'eukaryotic' is derived from Greek words meaning:",
+      "options": ["before nucleus", "true nucleus", "small nucleus", "without nucleus"],
+      "correctAnswer": "true nucleus",
+      "explanation": "'Eu' means true and 'karyon' means kernel (nucleus), so eukaryotic means 'true nucleus'.",
+      "anki": true
+    },
+    {
+      "question": "The term 'prokaryotic' is derived from Greek words meaning:",
+      "options": ["true nucleus", "before nucleus", "after nucleus", "without nucleus"],
+      "correctAnswer": "before nucleus",
+      "explanation": "'Pro' means before and 'karyon' means nucleus, reflecting the earlier evolution of prokaryotic cells.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is found in plant cells but NOT in animal cells?",
+      "options": ["Mitochondrion", "Nucleus", "Chloroplast", "Golgi apparatus"],
+      "correctAnswer": "Chloroplast",
+      "explanation": "Chloroplasts are found in plant cells for photosynthesis but are absent in animal cells.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is found in animal cells but NOT in plant cells?",
+      "options": ["Cell wall", "Centriole", "Large permanent vacuole", "Chloroplast"],
+      "correctAnswer": "Centriole",
+      "explanation": "Centrioles are found in animal cells and anchor microtubules during cell division; plant cells lack centrioles.",
+      "anki": true
+    },
+    {
+      "question": "Lysosomes are found in animal cells but are generally absent in:",
+      "options": ["bacterial cells", "plant cells", "fungal cells", "protist cells"],
+      "correctAnswer": "plant cells",
+      "explanation": "Lysosomes are typically found in animal cells but are absent in plant cells.",
+      "anki": true
+    },
+    {
+      "question": "A microscope that uses lenses to bend light and magnify objects is called a:",
+      "options": ["electron microscope", "light microscope", "scanning microscope", "digital microscope"],
+      "correctAnswer": "light microscope",
+      "explanation": "A light microscope uses lenses to bend light toward the eye, making objects appear larger.",
+      "anki": true
+    },
+    {
+      "question": "Why is iodine solution used when observing onion cells under a microscope?",
+      "options": ["To kill the cells", "To stain the cell structures for better visibility", "To preserve the cells", "To magnify the cells"],
+      "correctAnswer": "To stain the cell structures for better visibility",
+      "explanation": "Iodine stains cell components (like the nucleus), making them more visible under the microscope.",
+      "anki": true
+    },
+    {
+      "question": "When preparing a wet mount, the coverslip should be lowered at an angle of about 45 degrees to:",
+      "options": ["increase magnification", "avoid trapping air bubbles", "stain the cells", "focus the lens"],
+      "correctAnswer": "avoid trapping air bubbles",
+      "explanation": "Lowering the coverslip at an angle helps prevent air bubbles that would obscure features under the microscope.",
+      "anki": true
+    },
+    {
+      "question": "What stain is commonly used to observe cheek (animal) cells under a microscope?",
+      "options": ["Iodine solution", "Methylene blue", "Crystal violet", "Safranin"],
+      "correctAnswer": "Methylene blue",
+      "explanation": "Methylene blue dye is used to stain cheek cells, making the nucleus and other structures more visible.",
+      "anki": true
+    },
+    {
+      "question": "Diffusion is the net movement of molecules from a region of:",
+      "options": ["low concentration to high concentration", "high concentration to low concentration", "high temperature to low temperature", "low pressure to high pressure"],
+      "correctAnswer": "high concentration to low concentration",
+      "explanation": "Diffusion is the passive movement of molecules down a concentration gradient, from high to low concentration.",
+      "anki": true
+    },
+    {
+      "question": "Passive transport differs from active transport because passive transport:",
+      "options": ["requires energy", "does not require energy", "moves against the concentration gradient", "requires carrier proteins"],
+      "correctAnswer": "does not require energy",
+      "explanation": "Passive transport moves substances down a concentration gradient without using energy.",
+      "anki": true
+    },
+    {
+      "question": "Osmosis is a special case of diffusion involving the movement of:",
+      "options": ["oxygen molecules", "water molecules", "salt ions", "glucose molecules"],
+      "correctAnswer": "water molecules",
+      "explanation": "Osmosis is the diffusion of water molecules across a selectively permeable membrane.",
+      "anki": true
+    },
+    {
+      "question": "In osmosis, water moves from a region of:",
+      "options": ["high solute concentration to low solute concentration", "high water concentration to low water concentration", "low water concentration to high water concentration", "high temperature to low temperature"],
+      "correctAnswer": "high water concentration to low water concentration",
+      "explanation": "Water moves from an area of higher water concentration (dilute solution) to lower water concentration (concentrated solution).",
+      "anki": true
+    },
+    {
+      "question": "A solution with a high concentration of solute and low concentration of water is called:",
+      "options": ["hypotonic", "hypertonic", "isotonic", "osmotic"],
+      "correctAnswer": "hypertonic",
+      "explanation": "A hypertonic solution has more solute and less water compared to the cell's interior.",
+      "anki": true
+    },
+    {
+      "question": "A solution with a low concentration of solute and high concentration of water is called:",
+      "options": ["hypertonic", "isotonic", "hypotonic", "saturated"],
+      "correctAnswer": "hypotonic",
+      "explanation": "A hypotonic solution has less solute and more water compared to the cell's interior.",
+      "anki": true
+    },
+    {
+      "question": "When a cell and its surroundings have equal solute and water concentrations, the solution is called:",
+      "options": ["hypertonic", "hypotonic", "isotonic", "saturated"],
+      "correctAnswer": "isotonic",
+      "explanation": "In an isotonic solution, water diffuses into and out of the cell at the same rate.",
+      "anki": true
+    },
+    {
+      "question": "When a plant cell is placed in a hypertonic solution, the cell:",
+      "options": ["swells and becomes turgid", "shrinks and becomes plasmolysed", "remains unchanged", "bursts"],
+      "correctAnswer": "shrinks and becomes plasmolysed",
+      "explanation": "In a hypertonic solution, water leaves the plant cell, causing the plasma membrane to shrink away from the cell wall (plasmolysis).",
+      "anki": true
+    },
+    {
+      "question": "When an animal cell is placed in a hypotonic solution, the cell:",
+      "options": ["shrinks", "swells and may burst (hemolysis)", "remains unchanged", "undergoes plasmolysis"],
+      "correctAnswer": "swells and may burst (hemolysis)",
+      "explanation": "Animal cells lack a cell wall, so in a hypotonic solution, water enters and the cell may burst, a process called hemolysis.",
+      "anki": true
+    },
+    {
+      "question": "The process where red blood cells burst due to excessive water intake is called:",
+      "options": ["plasmolysis", "hemolysis", "osmosis", "lysis"],
+      "correctAnswer": "hemolysis",
+      "explanation": "Hemolysis occurs when red blood cells take in too much water in a hypotonic solution and burst.",
+      "anki": true
+    },
+    {
+      "question": "Which factor does NOT affect the rate of diffusion?",
+      "options": ["Concentration gradient", "Temperature", "Mass of the molecule", "Color of the molecule"],
+      "correctAnswer": "Color of the molecule",
+      "explanation": "Diffusion rate is affected by concentration gradient, temperature, mass of molecule, distance, and surface area, not color.",
+      "anki": true
+    },
+    {
+      "question": "Active transport is the movement of molecules from:",
+      "options": ["high to low concentration (no energy needed)", "low to high concentration (using energy)", "high to low concentration (using energy)", "low to high concentration (no energy needed)"],
+      "correctAnswer": "low to high concentration (using energy)",
+      "explanation": "Active transport moves substances against a concentration gradient, requiring energy from respiration.",
+      "anki": true
+    },
+    {
+      "question": "An example of active transport in plants is:",
+      "options": ["movement of oxygen into leaves", "ion uptake by root hairs", "movement of water through xylem", "diffusion of carbon dioxide"],
+      "correctAnswer": "ion uptake by root hairs",
+      "explanation": "Root hairs use active transport to absorb mineral ions from the soil against a concentration gradient.",
+      "anki": true
+    },
+    {
+      "question": "Tiny projections on the surface of some cells that increase surface area for absorption are called:",
+      "options": ["cilia", "flagella", "microvilli", "pili"],
+      "correctAnswer": "microvilli",
+      "explanation": "Microvilli are tiny projections that increase the absorbing surface area, found in kidney and intestinal cells.",
+      "anki": true
+    },
+    {
+      "question": "A group of similar cells that work together to perform a specific function is called a:",
+      "options": ["organ", "tissue", "organ system", "organism"],
+      "correctAnswer": "tissue",
+      "explanation": "Tissues are groups of similar cells that act as a functional unit.",
+      "anki": true
+    },
+    {
+      "question": "An organ is composed of:",
+      "options": ["a single cell", "similar cells only", "different tissues working together", "organ systems"],
+      "correctAnswer": "different tissues working together",
+      "explanation": "Organs are made of several different tissues grouped to perform a special function.",
+      "anki": true
+    },
+    {
+      "question": "The correct order of biological organization from simplest to most complex is:",
+      "options": ["cell → organ → tissue → organ system → organism", "cell → tissue → organ → organ system → organism", "tissue → cell → organ → organ system → organism", "cell → tissue → organ system → organ → organism"],
+      "correctAnswer": "cell → tissue → organ → organ system → organism",
+      "explanation": "Cells form tissues, tissues form organs, organs form organ systems, and organ systems form an organism.",
+      "anki": true
+    },
+    {
+      "question": "Beyond the individual organism, biological organization extends to:",
+      "options": ["cells → tissues → organs", "population → community → ecosystem → biosphere", "atoms → molecules → organelles", "organs → systems → organism"],
+      "correctAnswer": "population → community → ecosystem → biosphere",
+      "explanation": "Populations of the same species form communities, which interact in ecosystems, all part of the biosphere.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an example of an organ in flowering plants?",
+      "options": ["Epidermis", "Xylem", "Leaf", "Palisade tissue"],
+      "correctAnswer": "Leaf",
+      "explanation": "In flowering plants, roots, stems, and leaves are organs; epidermis and xylem are tissues.",
+      "anki": true
+    },
+    {
+      "question": "Unicellular protozoans like amoeba prevent bursting in freshwater using:",
+      "options": ["cell walls", "contractile vacuoles", "lysosomes", "flagella"],
+      "correctAnswer": "contractile vacuoles",
+      "explanation": "Contractile vacuoles expel excess water from the cell, preventing bursting in hypotonic freshwater environments.",
+      "anki": true
+    },
+    {
+      "question": "Which two structures are used for locomotion in unicellular organisms?",
+      "options": ["Cilia and microvilli", "Cilia and flagella", "Flagella and pili", "Microvilli and pili"],
+      "correctAnswer": "Cilia and flagella",
+      "explanation": "Cilia (short, hair-like) and flagella (long, thread-like) are organelles for locomotion in unicellular organisms.",
+      "anki": true
+    },
+    {
+      "question": "What happens when a cell containing 1% sodium chloride is placed in seawater containing 10% sodium chloride?",
+      "options": ["Water moves from seawater into the cell", "Water moves from the cell into seawater", "No net movement of water", "Sodium moves into the cell"],
+      "correctAnswer": "Water moves from the cell into seawater",
+      "explanation": "The seawater is hypertonic (higher solute concentration), so water leaves the cell by osmosis.",
+      "anki": true
+    },
+    {
+      "question": "The site where new ribosomes are made is the:",
+      "options": ["nucleus", "nucleolus", "Golgi apparatus", "rough ER"],
+      "correctAnswer": "nucleolus",
+      "explanation": "The nucleolus is a darker area within the nucleus where new ribosomes are produced.",
+      "anki": true
+    },
+    {
+      "question": "Turgor pressure in plants is important for:",
+      "options": ["photosynthesis", "retaining upright posture and extended leaves", "reproduction", "transport of minerals"],
+      "correctAnswer": "retaining upright posture and extended leaves",
+      "explanation": "Turgor pressure from water pressing outwards on the cell wall keeps plants upright and leaves extended.",
+      "anki": true
+    }
+  ]
+}

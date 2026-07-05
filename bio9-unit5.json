@@ -1,0 +1,922 @@
+{
+  "title": "Unit 5: Human Health, Nutrition, and Disease",
+  "description": "Comprehensive questions covering Grade 9 Biology Unit 5",
+  "folder": "School/Grade 9/Biology/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "tags": ["biology", "grade9", "unit5"],
+  "questions": [
+    {
+      "question": "What is food?",
+      "options": [
+        "Any substance that is harmful to the body",
+        "Any beneficial substance eaten, drunk, or taken into the body to sustain life, provide energy, promote growth, etc.",
+        "Only substances that come from animals",
+        "Any liquid consumed by an organism"
+      ],
+      "correctAnswer": "Any beneficial substance eaten, drunk, or taken into the body to sustain life, provide energy, promote growth, etc.",
+      "explanation": "Food is any beneficial substance that is eaten, drunk, or otherwise taken into the body to sustain life, provide energy, promote growth, etc. Food is usually of plant, animal, or fungal origin and contains essential nutrients.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is NOT an importance of food in living things?",
+      "options": [
+        "Growth",
+        "Providing energy",
+        "Replacement of damaged tissues",
+        "Increasing body temperature beyond normal"
+      ],
+      "correctAnswer": "Increasing body temperature beyond normal",
+      "explanation": "The importance of food includes growth, providing energy, replacement of damaged tissues, and protection from diseases. Increasing body temperature beyond normal is not a function of food.",
+      "anki": true
+    },
+    {
+      "question": "What is nutrition?",
+      "options": [
+        "The process of taking in food and converting it into energy and other vital nutrients required for life",
+        "The process of eliminating waste from the body",
+        "The study of diseases",
+        "The process of breathing"
+      ],
+      "correctAnswer": "The process of taking in food and converting it into energy and other vital nutrients required for life",
+      "explanation": "Nutrition is the process of taking in food and converting it into energy and other vital nutrients required for life. Energy obtained from food is important for different activities of the body.",
+      "anki": true
+    },
+    {
+      "question": "What are nutrients?",
+      "options": [
+        "Harmful chemicals found in food",
+        "Important chemical substances that are found in foods",
+        "Substances that give food colour",
+        "Only vitamins and minerals"
+      ],
+      "correctAnswer": "Important chemical substances that are found in foods",
+      "explanation": "Nutrients are important chemical substances that are found in foods. The five important classes of nutrients are carbohydrates, proteins, lipids (fats and oil), vitamins, minerals and water.",
+      "anki": true
+    },
+    {
+      "question": "Which nutrients are called macronutrients?",
+      "options": [
+        "Carbohydrate, protein and fats",
+        "Vitamins and minerals",
+        "Water and fiber",
+        "Only vitamins"
+      ],
+      "correctAnswer": "Carbohydrate, protein and fats",
+      "explanation": "Carbohydrate, protein and fats are required in large quantities and are called macronutrients. Minerals and vitamins are needed in very small quantities and are called micronutrients.",
+      "anki": true
+    },
+    {
+      "question": "Which nutrients are called micronutrients?",
+      "options": [
+        "Carbohydrates and fats",
+        "Proteins and water",
+        "Minerals and vitamins",
+        "Fats and oils"
+      ],
+      "correctAnswer": "Minerals and vitamins",
+      "explanation": "Minerals and vitamins are needed in very small quantities and are called micronutrients. They do not supply energy but play an important role in the regulation of metabolic activity.",
+      "anki": true
+    },
+    {
+      "question": "What are the three elements that carbohydrates are composed of?",
+      "options": [
+        "Carbon, hydrogen and nitrogen",
+        "Carbon, oxygen and nitrogen",
+        "Carbon, oxygen and hydrogen",
+        "Oxygen, hydrogen and nitrogen"
+      ],
+      "correctAnswer": "Carbon, oxygen and hydrogen",
+      "explanation": "Carbohydrates are composed of three elements: carbon, oxygen and hydrogen. The human body gets carbohydrates from green plants.",
+      "anki": true
+    },
+    {
+      "question": "How much energy does one gram of carbohydrate provide on average?",
+      "options": [
+        "37 kJ",
+        "16 kJ",
+        "17 kJ",
+        "4 kJ"
+      ],
+      "correctAnswer": "16 kJ",
+      "explanation": "One gram of carbohydrate can provide, on average, 16 kilojoules (kJ) of energy.",
+      "anki": true
+    },
+    {
+      "question": "What is the molecular formula of glucose?",
+      "options": [
+        "$C_{12}H_{22}O_{11}$",
+        "$C_6H_{12}O_6$",
+        "$(C_6H_{10}O_5)_n$",
+        "$CH_4$"
+      ],
+      "correctAnswer": "$C_6H_{12}O_6$",
+      "explanation": "Glucose is a monosaccharide with the molecular formula $C_6H_{12}O_6$. It is also known as a hexose sugar because it has six carbon atoms.",
+      "anki": true
+    },
+    {
+      "question": "What is the general chemical formula of disaccharides?",
+      "options": [
+        "$C_6H_{12}O_6$",
+        "$C_{12}H_{22}O_{11}$",
+        "$(C_6H_{10}O_5)_n$",
+        "$C_6H_6O$"
+      ],
+      "correctAnswer": "$C_{12}H_{22}O_{11}$",
+      "explanation": "The general chemical formula of disaccharides is $C_{12}H_{22}O_{11}$. Examples include maltose (glucose + glucose), sucrose (glucose + fructose), and lactose (glucose + galactose).",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is NOT a monosaccharide?",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Galactose",
+        "Sucrose"
+      ],
+      "correctAnswer": "Sucrose",
+      "explanation": "Glucose, fructose, and galactose are monosaccharides (simple sugars). Sucrose is a disaccharide composed of glucose and fructose.",
+      "anki": true
+    },
+    {
+      "question": "What is the main function of carbohydrates in the human body?",
+      "options": [
+        "Building new cells",
+        "Providing energy",
+        "Insulation against heat loss",
+        "Forming hemoglobin"
+      ],
+      "correctAnswer": "Providing energy",
+      "explanation": "Carbohydrates are types of nutrients that provide energy for the human body. They are the major sources of energy in our diet.",
+      "anki": true
+    },
+    {
+      "question": "Which nutrient provides dietary fiber?",
+      "options": [
+        "Proteins",
+        "Fats",
+        "Indigestible carbohydrate",
+        "Vitamins"
+      ],
+      "correctAnswer": "Indigestible carbohydrate",
+      "explanation": "An unavailable or indigestible carbohydrate provides dietary fiber. Fiber does not serve as a source of energy but helps prevent constipation and keeps the colon healthy.",
+      "anki": true
+    },
+    {
+      "question": "What is the function of dietary fiber in the body?",
+      "options": [
+        "Provides energy",
+        "Helps prevent constipation and keeps the colon healthy",
+        "Builds muscle tissue",
+        "Transports oxygen in the blood"
+      ],
+      "correctAnswer": "Helps prevent constipation and keeps the colon healthy",
+      "explanation": "Fiber adds bulk to the contents of the colon, softens feces, and reduces the time needed for undigested residues to pass out of the body. This helps prevent constipation and keeps the colon healthy.",
+      "anki": true
+    },
+    {
+      "question": "How much energy does one gram of lipid provide?",
+      "options": [
+        "16 kJ",
+        "17 kJ",
+        "37 kJ",
+        "4 kJ"
+      ],
+      "correctAnswer": "37 kJ",
+      "explanation": "One gram of lipid gives 37 kJ of energy. Fats and oils are high-energy nutrients that provide 35 to 45% of caloric intake.",
+      "anki": true
+    },
+    {
+      "question": "What is the difference between fats and oils?",
+      "options": [
+        "Fats are from plants, oils are from animals",
+        "Fats are solid at room temperature while oils are liquid at room temperature",
+        "Fats provide more energy than oils",
+        "There is no difference"
+      ],
+      "correctAnswer": "Fats are solid at room temperature while oils are liquid at room temperature",
+      "explanation": "Fats are obtained from animal sources and are solid at room temperature, while oils are from plant sources and are liquid at room temperature.",
+      "anki": true
+    },
+    {
+      "question": "Which fat-soluble vitamins require dietary fat for absorption?",
+      "options": [
+        "Vitamin B and C",
+        "Vitamin A, D, E and K",
+        "Vitamin B1, B2 and B6",
+        "Vitamin C and D"
+      ],
+      "correctAnswer": "Vitamin A, D, E and K",
+      "explanation": "Dietary fat serves as a vehicle for the absorption of the fat-soluble vitamins A, D, E, and K.",
+      "anki": true
+    },
+    {
+      "question": "What elements make up proteins?",
+      "options": [
+        "Carbon, hydrogen and oxygen",
+        "Carbon, hydrogen, oxygen and nitrogen",
+        "Carbon, nitrogen and sulfur",
+        "Oxygen, hydrogen and nitrogen"
+      ],
+      "correctAnswer": "Carbon, hydrogen, oxygen and nitrogen",
+      "explanation": "Proteins are made up of amino acids composed of carbon, hydrogen, oxygen and nitrogen.",
+      "anki": true
+    },
+    {
+      "question": "How much energy does one gram of protein provide?",
+      "options": [
+        "16 kJ",
+        "37 kJ",
+        "17 kJ",
+        "4 kJ"
+      ],
+      "correctAnswer": "17 kJ",
+      "explanation": "One gram of protein can provide 17 kJ of energy. Proteins are primarily used for growth of the body and building new cells.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a major function of proteins in the body?",
+      "options": [
+        "Providing energy only",
+        "Growth and tissue repair",
+        "Insulation against heat loss",
+        "Absorption of vitamins"
+      ],
+      "correctAnswer": "Growth and tissue repair",
+      "explanation": "Proteins are nutrients which provide growth of the body, build new cells, and repair damaged tissues. They also form enzymes, some hormones, and cell membranes.",
+      "anki": true
+    },
+    {
+      "question": "Which mineral is used to synthesize hemoglobin in red blood cells?",
+      "options": [
+        "Calcium",
+        "Iodine",
+        "Iron",
+        "Phosphorus"
+      ],
+      "correctAnswer": "Iron",
+      "explanation": "Iron is a mineral which synthesizes the hemoglobin of red blood cells. Hemoglobin is a molecule which carries oxygen in blood.",
+      "anki": true
+    },
+    {
+      "question": "Which mineral is needed for proper functioning of the thyroid gland?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Iodine",
+        "Phosphorus"
+      ],
+      "correctAnswer": "Iodine",
+      "explanation": "Iodine is a mineral which makes the thyroid gland work properly. The source of iodine is iodized salt and seafood.",
+      "anki": true
+    },
+    {
+      "question": "Which mineral is used to build teeth and bones and helps muscles to contract?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Iodine",
+        "Phosphorus"
+      ],
+      "correctAnswer": "Calcium",
+      "explanation": "Calcium is used to build teeth and bones, makes muscles contract, and helps in the transmission of nerve impulses. Important sources of calcium are milk and cheese.",
+      "anki": true
+    },
+    {
+      "question": "Which vitamin deficiency causes scurvy?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B1",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctAnswer": "Vitamin C",
+      "explanation": "Scurvy is a deficiency disease caused by a lack of vitamin C (ascorbic acid). It causes bleeding under the skin, bleeding gums, and poor healing of wounds.",
+      "anki": true
+    },
+    {
+      "question": "Which vitamin deficiency causes rickets?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B1"
+      ],
+      "correctAnswer": "Vitamin D",
+      "explanation": "Rickets is a deficiency disease caused by the shortage of vitamin D. It results in deformed bones in the legs of children.",
+      "anki": true
+    },
+    {
+      "question": "Which disease is caused by vitamin B1 (thiamine) deficiency?",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Beriberi",
+        "Night blindness"
+      ],
+      "correctAnswer": "Beriberi",
+      "explanation": "Beriberi is caused by deficiency of thiamine (vitamin B1). It affects the nervous system and cardiovascular system.",
+      "anki": true
+    },
+    {
+      "question": "Which vitamin deficiency causes night blindness?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B1"
+      ],
+      "correctAnswer": "Vitamin A",
+      "explanation": "Night blindness is caused by deficiency of vitamin A. Vitamin A is important for vision, especially in low light conditions.",
+      "anki": true
+    },
+    {
+      "question": "What is the deficiency disease caused by lack of iron?",
+      "options": [
+        "Goiter",
+        "Anemia",
+        "Rickets",
+        "Kwashiorkor"
+      ],
+      "correctAnswer": "Anemia",
+      "explanation": "Anemia is a deficiency disease caused by the lack of iron. Insufficient iron leads to less haemoglobin production, resulting in less oxygen transportation, causing weakness and tiredness.",
+      "anki": true
+    },
+    {
+      "question": "What is the deficiency disease caused by lack of iodine?",
+      "options": [
+        "Anemia",
+        "Goiter",
+        "Rickets",
+        "Scurvy"
+      ],
+      "correctAnswer": "Goiter",
+      "explanation": "Goiter is caused by iodine deficiency. Iodine is needed for proper thyroid gland function; without enough iodine, the thyroid gland enlarges.",
+      "anki": true
+    },
+    {
+      "question": "What is kwashiorkor caused by?",
+      "options": [
+        "Inadequate carbohydrate intake",
+        "Inadequate protein intake",
+        "Lack of vitamin C",
+        "Lack of iron"
+      ],
+      "correctAnswer": "Inadequate protein intake",
+      "explanation": "Kwashiorkor is a deficiency disease caused by inadequate protein content in the human body, especially in children. Symptoms include dry or flaky skin, swelling of leg and abdomen, and hair color changes.",
+      "anki": true
+    },
+    {
+      "question": "What is marasmus caused by?",
+      "options": [
+        "Inadequate protein intake",
+        "Inadequate carbohydrate intake",
+        "Lack of vitamin D",
+        "Lack of calcium"
+      ],
+      "correctAnswer": "Inadequate carbohydrate intake",
+      "explanation": "Marasmus is a deficiency disease caused by inadequate carbohydrate content in the human body. Symptoms include thin arms and legs, little muscle, and an old-looking face.",
+      "anki": true
+    },
+    {
+      "question": "What is a balanced diet?",
+      "options": [
+        "A diet that contains only proteins and vitamins",
+        "A diet that contains all nutrients in the correct amount and proportion",
+        "A diet that contains only carbohydrates and fats",
+        "A diet that avoids all fats"
+      ],
+      "correctAnswer": "A diet that contains all nutrients in the correct amount and proportion",
+      "explanation": "A balanced diet is the diet that contains all of the nutrients in the correct amount and proportion. It must contain enough carbohydrates, fats, proteins, vitamins, mineral salts, plant fiber, and water.",
+      "anki": true
+    },
+    {
+      "question": "Which group of people needs relatively more energy food than women?",
+      "options": [
+        "Children",
+        "Elderly people",
+        "Men",
+        "Infants"
+      ],
+      "correctAnswer": "Men",
+      "explanation": "Men should eat relatively more energy food than women because women have a higher fat content with lower metabolic rate, while men have more muscular tissue with higher metabolic rate.",
+      "anki": true
+    },
+    {
+      "question": "What is malnutrition?",
+      "options": [
+        "Eating only one type of food",
+        "Insufficient, excessive or imbalanced consumption of nutrients leading to health problems",
+        "Eating food from only plant sources",
+        "Eating too many vitamins"
+      ],
+      "correctAnswer": "Insufficient, excessive or imbalanced consumption of nutrients leading to health problems",
+      "explanation": "Malnutrition is defined as the insufficient, excessive or imbalanced consumption of nutrients, which leads to health problems.",
+      "anki": true
+    },
+    {
+      "question": "What is stunting?",
+      "options": [
+        "Low weight for height",
+        "Low height for age",
+        "Low weight for age",
+        "Excessive weight gain"
+      ],
+      "correctAnswer": "Low height for age",
+      "explanation": "Stunting is defined as low height for age. It is the result of chronic or recurrent undernutrition, usually associated with poverty, poor maternal health, and frequent illness.",
+      "anki": true
+    },
+    {
+      "question": "What is wasting?",
+      "options": [
+        "Low weight for height",
+        "Low height for age",
+        "Low weight for age",
+        "Excessive weight gain"
+      ],
+      "correctAnswer": "Low weight for height",
+      "explanation": "Wasting is defined as low weight for height. It often indicates recent and severe weight loss and usually occurs when a person has not had adequate food quality and quantity.",
+      "anki": true
+    },
+    {
+      "question": "What is obesity?",
+      "options": [
+        "Lack of nutrients in the body",
+        "Excessive weight gain caused by imbalance between energy intake and energy released",
+        "Loss of muscle tissue",
+        "Deficiency of vitamins"
+      ],
+      "correctAnswer": "Excessive weight gain caused by imbalance between energy intake and energy released",
+      "explanation": "Obesity is caused by an imbalance between the energy stored in the human body and the energy released. It occurs when consumption of high-energy foods increases without an equal increase in physical activity.",
+      "anki": true
+    },
+    {
+      "question": "What BMI value indicates obesity?",
+      "options": [
+        "Below 18.5",
+        "18.5 to 24.9",
+        "25.0 to 29.9",
+        "30.0 and above"
+      ],
+      "correctAnswer": "30.0 and above",
+      "explanation": "A person with a BMI of 30.0 and above is classified as obese. BMI between 18.5 and 24.9 is normal weight, 25.0 to 29.9 is overweight, and below 18.5 is underweight.",
+      "anki": true
+    },
+    {
+      "question": "What is the BMI formula?",
+      "options": [
+        "Body mass (kg) / height (m)",
+        "Body mass (kg) / height$^2$ (m$^2$)",
+        "Height (m) / body mass (kg)",
+        "Body mass (kg) $\\times$ height (m)"
+      ],
+      "correctAnswer": "Body mass (kg) / height$^2$ (m$^2$)",
+      "explanation": "Body mass index (BMI) = body mass (kg) / height$^2$ (metres$^2$). It was developed by Adolphe Quetelet, a Belgian statistician.",
+      "anki": true
+    },
+    {
+      "question": "What is substance abuse?",
+      "options": [
+        "Using legal drugs only for medical purposes",
+        "Using legal or illegal drugs (substances) in the wrong way or in excess amount",
+        "Using only prescribed medications",
+        "Avoiding all drugs"
+      ],
+      "correctAnswer": "Using legal or illegal drugs (substances) in the wrong way or in excess amount",
+      "explanation": "Substance abuse is using legal or illegal drugs (substances) in the wrong way or in the excess amount. Some substances like tea, coffee, and tobacco are legal but can cause serious effects when taken excessively.",
+      "anki": true
+    },
+    {
+      "question": "What are the three main chemical components found in cigarette smoke?",
+      "options": [
+        "Tar, nicotine and oxygen",
+        "Tar, carbon monoxide and nicotine",
+        "Carbon monoxide, oxygen and tar",
+        "Nicotine, water and carbon dioxide"
+      ],
+      "correctAnswer": "Tar, carbon monoxide and nicotine",
+      "explanation": "The main components of cigarette or tobacco are tar (a black sticky substance), carbon monoxide (a poisonous gas), and nicotine (a stimulating and addictive compound).",
+      "anki": true
+    },
+    {
+      "question": "What health problem does tar in cigarette smoke cause?",
+      "options": [
+        "Increased heart rate",
+        "Chronic bronchitis and lung cancer",
+        "Reduced blood pressure",
+        "Improved breathing"
+      ],
+      "correctAnswer": "Chronic bronchitis and lung cancer",
+      "explanation": "Tar is a black sticky substance found in cigarette that collects in the lungs. It can cause chronic bronchitis and lung cancer due to carcinogenic compounds in tar.",
+      "anki": true
+    },
+    {
+      "question": "How does carbon monoxide affect the body?",
+      "options": [
+        "It increases oxygen levels in the blood",
+        "It combines permanently with hemoglobin, reducing oxygen transport",
+        "It improves lung function",
+        "It stimulates dopamine release"
+      ],
+      "correctAnswer": "It combines permanently with hemoglobin, reducing oxygen transport",
+      "explanation": "Carbon monoxide combines permanently with hemoglobin to form carboxyhemoglobin. This reduces the volume of oxygen carried in the blood, leading to less oxygen supplied to the heart.",
+      "anki": true
+    },
+    {
+      "question": "What effect does nicotine have on the body?",
+      "options": [
+        "It decreases heart rate",
+        "It is a stimulating and addictive compound that increases heart rate and blood pressure",
+        "It improves memory",
+        "It reduces blood clotting"
+      ],
+      "correctAnswer": "It is a stimulating and addictive compound that increases heart rate and blood pressure",
+      "explanation": "Nicotine is a stimulating compound that increases heart rate and blood pressure. It activates the release of dopamine in the brain and produces addiction.",
+      "anki": true
+    },
+    {
+      "question": "What type of drug is alcohol classified as?",
+      "options": [
+        "Stimulant",
+        "Depressant",
+        "Narcotic",
+        "Hallucinogen"
+      ],
+      "correctAnswer": "Depressant",
+      "explanation": "Alcohol is a depressant. It affects the brain by slowing down the transmission of nerve impulses, leading to loss of coordination, self-control, and slower reaction times.",
+      "anki": true
+    },
+    {
+      "question": "What is cirrhosis of the liver?",
+      "options": [
+        "Growth of new liver tissue",
+        "Damage to liver tissue replaced by scar tissue due to large alcohol consumption",
+        "Inflammation of the liver due to infection",
+        "Enlargement of the liver"
+      ],
+      "correctAnswer": "Damage to liver tissue replaced by scar tissue due to large alcohol consumption",
+      "explanation": "Large amounts of alcohol damage the liver tissue, which is replaced by scar tissue, a condition known as cirrhosis. This condition may lead to death unless the person stops drinking.",
+      "anki": true
+    },
+    {
+      "question": "What type of drug is heroin?",
+      "options": [
+        "Stimulant",
+        "Depressant",
+        "Hallucinogen",
+        "Antibiotic"
+      ],
+      "correctAnswer": "Depressant",
+      "explanation": "Heroin is a powerful depressant that slows down the nervous system. It has a chemical structure similar to endorphins and binds to endorphin receptor sites, blocking nerve transmission.",
+      "anki": true
+    },
+    {
+      "question": "What is the psychoactive component found in cannabis?",
+      "options": [
+        "Cathinone",
+        "Nicotine",
+        "Tetrahydrocannabinol (THC)",
+        "Caffeine"
+      ],
+      "correctAnswer": "Tetrahydrocannabinol (THC)",
+      "explanation": "Cannabis contains a stimulant or psychoactive component called Tetrahydrocannabinol (THC). It causes enjoyment, altered states of mind, difficulty concentrating, and reduced short-term memory.",
+      "anki": true
+    },
+    {
+      "question": "What is the chemical compound found in khat that affects the central nervous system?",
+      "options": [
+        "Tetrahydrocannabinol (THC)",
+        "Cathinone",
+        "Nicotine",
+        "Caffeine"
+      ],
+      "correctAnswer": "Cathinone",
+      "explanation": "Khat contains a chemical compound known as cathinone, which affects the central nervous system (CNS). Cathinone can be found only in fresh khat leaves.",
+      "anki": true
+    },
+    {
+      "question": "What is the scientific name of the khat plant?",
+      "options": [
+        "Nicotiana tobacum",
+        "Catha edulis",
+        "Cannabis sativa",
+        "Thea sinensis"
+      ],
+      "correctAnswer": "Catha edulis",
+      "explanation": "Khat (Catha edulis) is a bushy plant whose leaves are chewed for their stimulant effect. It is grown in southern Arabia and Eastern Africa including Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "What is doping?",
+      "options": [
+        "Eating a balanced diet before competition",
+        "Use of prohibited medications, drugs, or treatments in competitive sports to improve performance",
+        "Drinking water during exercise",
+        "Taking vitamins regularly"
+      ],
+      "correctAnswer": "Use of prohibited medications, drugs, or treatments in competitive sports to improve performance",
+      "explanation": "Doping refers to the use of prohibited medications, drugs, or treatments in competitive sports with the intention of improving athletic performance.",
+      "anki": true
+    },
+    {
+      "question": "Which organization tests athletes for doping?",
+      "options": [
+        "World Health Organization (WHO)",
+        "World Anti-Doping Agency (WADA)",
+        "International Olympic Committee (IOC)",
+        "United Nations (UN)"
+      ],
+      "correctAnswer": "World Anti-Doping Agency (WADA)",
+      "explanation": "The World Anti-Doping Agency (WADA) uses a battery of blood and urine tests to determine if athletes are cheating. A key tool is the biological passport program.",
+      "anki": true
+    },
+    {
+      "question": "What are infectious diseases?",
+      "options": [
+        "Diseases caused by inherited genetic factors",
+        "Diseases caused by disease-causing organisms that can be transmitted from person to person",
+        "Diseases caused by chemical effects only",
+        "Diseases caused by poor diet only"
+      ],
+      "correctAnswer": "Diseases caused by disease-causing organisms that can be transmitted from person to person",
+      "explanation": "Infectious diseases are diseases that are caused by disease-causing organisms. These types of diseases can be transmitted from person to person, such as HIV-AIDS, tuberculosis, and malaria.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is NOT a disease-causing organism?",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Protozoa",
+        "Vitamin"
+      ],
+      "correctAnswer": "Vitamin",
+      "explanation": "Disease-causing organisms include bacteria, viruses, protozoa, and fungi. Vitamins are nutrients, not disease-causing organisms.",
+      "anki": true
+    },
+    {
+      "question": "What is the causative agent of tuberculosis?",
+      "options": [
+        "Virus",
+        "Mycobacterium tuberculosis",
+        "Plasmodium protozoa",
+        "Fungus"
+      ],
+      "correctAnswer": "Mycobacterium tuberculosis",
+      "explanation": "Tuberculosis is caused by the bacterium called Mycobacterium tuberculosis. These bacteria live inside human cells, mainly in the lungs.",
+      "anki": true
+    },
+    {
+      "question": "How is tuberculosis transmitted?",
+      "options": [
+        "Through contaminated water",
+        "Through airborne droplets when infected people cough or sneeze",
+        "Through insect bites",
+        "Through sexual contact"
+      ],
+      "correctAnswer": "Through airborne droplets when infected people cough or sneeze",
+      "explanation": "TB bacteria enter the lungs in airborne droplets. It spreads when infected people with the active form of the illness cough or sneeze, and uninfected people inhale the droplets.",
+      "anki": true
+    },
+    {
+      "question": "What is the causative agent of malaria?",
+      "options": [
+        "Bacterium",
+        "Virus",
+        "Plasmodium protozoa",
+        "Fungus"
+      ],
+      "correctAnswer": "Plasmodium protozoa",
+      "explanation": "Malaria is caused by protozoa known as Plasmodium. It is transmitted by the bite of female Anopheles mosquitoes.",
+      "anki": true
+    },
+    {
+      "question": "What is the vector for malaria transmission?",
+      "options": [
+        "Housefly",
+        "Female Anopheles mosquito",
+        "Tsetse fly",
+        "Rat flea"
+      ],
+      "correctAnswer": "Female Anopheles mosquito",
+      "explanation": "Female Anopheles mosquitoes are vectors that transmit malaria. They feed on human blood and inject Plasmodium with their saliva when feeding on a healthy person.",
+      "anki": true
+    },
+    {
+      "question": "What is the causative agent of HIV/AIDS?",
+      "options": [
+        "Bacterium",
+        "Human immunodeficiency virus (HIV)",
+        "Plasmodium protozoa",
+        "Fungus"
+      ],
+      "correctAnswer": "Human immunodeficiency virus (HIV)",
+      "explanation": "Acquired immunodeficiency syndrome (AIDS) is caused by the human immunodeficiency virus (HIV). HIV infects and destroys T-lymphocytes, weakening the immune system.",
+      "anki": true
+    },
+    {
+      "question": "Which type of cells does HIV infect and destroy?",
+      "options": [
+        "Red blood cells",
+        "T-lymphocytes (T-helper cells)",
+        "Nerve cells",
+        "Muscle cells"
+      ],
+      "correctAnswer": "T-lymphocytes (T-helper cells)",
+      "explanation": "HIV infects and enters T-lymphocytes (also called T-helper cells), which are cells that defend our body from diseases. HIV replicates inside and destroys these cells.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a mode of HIV transmission?",
+      "options": [
+        "Shaking hands with an infected person",
+        "Sharing needles in intravenous drug users",
+        "Breathing the same air as an infected person",
+        "Sharing meals with an infected person"
+      ],
+      "correctAnswer": "Sharing needles in intravenous drug users",
+      "explanation": "HIV can be transmitted through sharing needles, sexual intercourse, blood transfusion, mother to fetus across placenta, and mother to infant in breast milk. It is not transmitted by casual contact.",
+      "anki": true
+    },
+    {
+      "question": "What is the BCG vaccine used for?",
+      "options": [
+        "Malaria",
+        "Tuberculosis (TB)",
+        "HIV/AIDS",
+        "COVID-19"
+      ],
+      "correctAnswer": "Tuberculosis (TB)",
+      "explanation": "The BCG vaccine is the only vaccine available for TB. It is derived from animal TB bacteria and protects up to 70-80% of people who receive it. It is given during early childhood.",
+      "anki": true
+    },
+    {
+      "question": "What type of disease is COVID-19 caused by?",
+      "options": [
+        "Bacterium",
+        "Coronavirus (SARS-CoV-2)",
+        "Protozoa",
+        "Fungus"
+      ],
+      "correctAnswer": "Coronavirus (SARS-CoV-2)",
+      "explanation": "COVID-19 is caused by SARS-CoV-2, a novel strain of coronavirus that first emerged in Wuhan, China in December 2019. The WHO declared it a pandemic in March 2020.",
+      "anki": true
+    },
+    {
+      "question": "How does the COVID-19 virus primarily spread?",
+      "options": [
+        "Through contaminated water",
+        "Through droplets and virus particles released into the air when an infected person breathes, talks, coughs or sneezes",
+        "Through insect bites",
+        "Through food contamination"
+      ],
+      "correctAnswer": "Through droplets and virus particles released into the air when an infected person breathes, talks, coughs or sneezes",
+      "explanation": "The COVID-19 virus spreads primarily through droplets and virus particles released into the air when an infected person breathes, talks, laughs, sings, coughs, or sneezes.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is a non-infectious disease?",
+      "options": [
+        "Malaria",
+        "Tuberculosis",
+        "Diabetes",
+        "HIV/AIDS"
+      ],
+      "correctAnswer": "Diabetes",
+      "explanation": "Non-infectious diseases are not caused by pathogens. They include diabetes, cancer, hypertension, asthma, sickle cell anemia, and deficiency diseases. Malaria, TB, and HIV/AIDS are infectious.",
+      "anki": true
+    },
+    {
+      "question": "What are non-infectious diseases caused by?",
+      "options": [
+        "Disease-causing organisms",
+        "Malnutrition, chemical effects, inherited or genetic factors",
+        "Vector bites only",
+        "Contaminated water only"
+      ],
+      "correctAnswer": "Malnutrition, chemical effects, inherited or genetic factors",
+      "explanation": "Non-infectious diseases are caused by malnutrition, chemical effects, inherited or genetic factors, etc. They are not caused by disease-causing organisms.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following is NOT a risk factor for non-infectious diseases?",
+      "options": [
+        "Tobacco use",
+        "Physical inactivity",
+        "Harmful use of alcohol",
+        "Vaccination"
+      ],
+      "correctAnswer": "Vaccination",
+      "explanation": "Tobacco use, physical inactivity, harmful use of alcohol, and unhealthy diets increase the risk of non-infectious diseases. Vaccination prevents infectious diseases.",
+      "anki": true
+    },
+    {
+      "question": "Who are nutritionists?",
+      "options": [
+        "Doctors who perform surgery",
+        "Researchers or scientists who study nutrition",
+        "People who prepare food",
+        "Athletes who train professionally"
+      ],
+      "correctAnswer": "Researchers or scientists who study nutrition",
+      "explanation": "Nutritionists are researchers or scientists who study nutrition. They study how food affects the body and provide dietary guidance for health and disease prevention.",
+      "anki": true
+    },
+    {
+      "question": "What is a vector in the context of infectious diseases?",
+      "options": [
+        "A type of medicine",
+        "An organism that carries a disease-causing organism and transmits it from one person to another or from an animal to a human",
+        "A type of vaccine",
+        "A symptom of disease"
+      ],
+      "correctAnswer": "An organism that carries a disease-causing organism and transmits it from one person to another or from an animal to a human",
+      "explanation": "A vector is an organism that carries a disease-causing organism and transmits it from one person to another or from an animal to a human. For example, Anopheles mosquito transmits malaria.",
+      "anki": true
+    },
+    {
+      "question": "Which disease is caused by lack of vitamin D and results in deformed bones in children?",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Beriberi",
+        "Marasmus"
+      ],
+      "correctAnswer": "Rickets",
+      "explanation": "Rickets is a deficiency disease caused by shortage of vitamin D. It results in deformed bones in the legs of children. Vitamin D can be obtained from sunlight and foods like oily fish and eggs.",
+      "anki": true
+    },
+    {
+      "question": "What is an endemic disease?",
+      "options": [
+        "A disease that spreads worldwide",
+        "A disease occurring when a disease-causing agent exists permanently in a specific place or population",
+        "A disease that occurs suddenly in a specific area",
+        "A disease that is always fatal"
+      ],
+      "correctAnswer": "A disease occurring when a disease-causing agent exists permanently in a specific place or population",
+      "explanation": "An endemic disease occurs when a disease-causing agent exists permanently in a specific place or population. For example, malaria is endemic in the Afar region of Ethiopia.",
+      "anki": true
+    },
+    {
+      "question": "What is a pandemic?",
+      "options": [
+        "A disease limited to a small area",
+        "An epidemic that spreads far more widely throughout the whole world",
+        "A disease that only affects animals",
+        "A disease with no cure"
+      ],
+      "correctAnswer": "An epidemic that spreads far more widely throughout the whole world",
+      "explanation": "A pandemic is an epidemic that spreads far more widely throughout the whole world and affects a huge number of people. An example is COVID-19.",
+      "anki": true
+    },
+    {
+      "question": "Which foods are good sources of vitamin C?",
+      "options": [
+        "Meat and fish",
+        "Oranges, lemons, and fresh green vegetables",
+        "Butter and cheese",
+        "Bread and rice"
+      ],
+      "correctAnswer": "Oranges, lemons, and fresh green vegetables",
+      "explanation": "Good sources of vitamin C are oranges, lemons, grapefruit, tomatoes, and fresh green vegetables. Vitamin C cannot be stored in the body, so it must be taken daily.",
+      "anki": true
+    },
+    {
+      "question": "Which of the following foods is a good source of calcium?",
+      "options": [
+        "Oranges",
+        "Milk and cheese",
+        "Bread",
+        "Rice"
+      ],
+      "correctAnswer": "Milk and cheese",
+      "explanation": "Calcium is found in milk, cheese, and other dairy products. Calcium is used to build teeth and bones, make muscles contract, and help in nerve impulse transmission.",
+      "anki": true
+    },
+    {
+      "question": "What is the role of water in the human body?",
+      "options": [
+        "Provides energy",
+        "Acts as a solvent and transport medium for substances throughout the body",
+        "Builds muscle tissue",
+        "Insulates against heat loss"
+      ],
+      "correctAnswer": "Acts as a solvent and transport medium for substances throughout the body",
+      "explanation": "Body fluids such as blood, lymph and tissue fluid are mainly composed of water. Water acts as a solvent and as a transport medium for substances throughout the body.",
+      "anki": true
+    },
+    {
+      "question": "What is the main function of vitamin D in the human body?",
+      "options": [
+        "Helps in the absorption of calcium and phosphorus to build bone and teeth",
+        "Provides energy",
+        "Transports oxygen",
+        "Builds muscle"
+      ],
+      "correctAnswer": "Helps in the absorption of calcium and phosphorus to build bone and teeth",
+      "explanation": "Vitamin D helps in the absorption of calcium and phosphorus through the gut wall, which is important to build bone and teeth. It is the only vitamin the body can make from sunlight.",
+      "anki": true
+    }
+  ]
+}
