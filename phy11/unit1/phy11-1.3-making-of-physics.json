@@ -1,0 +1,346 @@
+{
+  "title": "1.3 Making of Physics Knowledge",
+  "description": "Experiential and non-experiential knowledge, and the scientific method",
+  "folder": "School/Grade 11/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["physics", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which source of experiential knowledge is described as the dominant source?",
+      "options": [
+        "Sensory perception",
+        "Introspection",
+        "Memory",
+        "Testimony"
+      ],
+      "correctAnswer": "Sensory perception"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which source of experiential knowledge is described as a \"sixth sense\" that looks into the most intimate parts of our minds?",
+      "options": [
+        "Memory",
+        "Introspection",
+        "Testimony",
+        "Sensory perception"
+      ],
+      "correctAnswer": "Introspection"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which source of experiential knowledge acts like a recording device that captures events in the order they occur?",
+      "options": [
+        "Testimony",
+        "Sensory perception",
+        "Introspection",
+        "Memory"
+      ],
+      "correctAnswer": "Memory"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Accepting knowledge from what other people report is the source of experiential knowledge called:",
+      "options": [
+        "Introspection",
+        "Memory",
+        "Testimony",
+        "Sensory perception"
+      ],
+      "correctAnswer": "Testimony"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which of the following is a source of experiential knowledge?",
+      "options": [
+        "Sensory perception",
+        "Guessing",
+        "Memorizing",
+        "Imagination"
+      ],
+      "correctAnswer": "Sensory perception"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "How is scientific (physics) knowledge constructed?",
+      "options": [
+        "Through experience, observation, and the scientific method",
+        "By guessing the answer",
+        "By memorizing facts from books",
+        "By using intuition alone"
+      ],
+      "correctAnswer": "Through experience, observation, and the scientific method"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Introspection allows us to:",
+      "options": [
+        "Inspect how we are feeling and how our thoughts are operating",
+        "Record events in the order they occur",
+        "Accept knowledge from what others report",
+        "Gather information by seeing and touching"
+      ],
+      "correctAnswer": "Inspect how we are feeling and how our thoughts are operating"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Describing your own pain to a doctor is an example of which source of experiential knowledge?",
+      "options": [
+        "Sensory perception",
+        "Testimony",
+        "Memory",
+        "Introspection"
+      ],
+      "correctAnswer": "Introspection"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "According to the textbook, memory captures events:",
+      "options": [
+        "More or less in the order they occur",
+        "Only after many years have passed",
+        "In a completely random order",
+        "Only when they are repeated twice"
+      ],
+      "correctAnswer": "More or less in the order they occur"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "When judging testimony, which type of source is usually more reliable?",
+      "options": [
+        "Written sources",
+        "Oral sources",
+        "Rumors from friends",
+        "Stories passed down by word of mouth"
+      ],
+      "correctAnswer": "Written sources"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The reliability of testimony depends much on the integrity of the author, the publisher, and the:",
+      "options": [
+        "Methods of fact-gathering",
+        "Number of pages in the book",
+        "Language in which it is written",
+        "Price of the publication"
+      ],
+      "correctAnswer": "Methods of fact-gathering"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Experiential knowledge comes from:",
+      "options": [
+        "Direct experience",
+        "Pure imagination",
+        "Untested assumptions",
+        "Copying the work of others"
+      ],
+      "correctAnswer": "Direct experience"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Non-experiential knowledge is best described as:",
+      "options": [
+        "Knowledge not gained through the senses",
+        "Knowledge gained by touch and taste",
+        "Knowledge gained by hearing others speak",
+        "Knowledge gained from watching events"
+      ],
+      "correctAnswer": "Knowledge not gained through the senses"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which of the following is an example of non-experiential knowledge?",
+      "options": [
+        "Logical and mathematical reasoning",
+        "Seeing the color of a flower",
+        "Hearing a bird sing",
+        "Feeling the texture of a stone"
+      ],
+      "correctAnswer": "Logical and mathematical reasoning"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Axioms that are assumed without sensory evidence are a form of:",
+      "options": [
+        "Non-experiential knowledge",
+        "Sensory perception",
+        "Introspection",
+        "Testimony"
+      ],
+      "correctAnswer": "Non-experiential knowledge"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The scientific method is best described as:",
+      "options": [
+        "An ordered series of steps to acquire knowledge based on experimental evidence",
+        "A single step of guessing an answer",
+        "A way of memorizing facts quickly",
+        "A method of recording events from memory"
+      ],
+      "correctAnswer": "An ordered series of steps to acquire knowledge based on experimental evidence"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What is the first step of the scientific method?",
+      "options": [
+        "Make observations",
+        "Form a hypothesis",
+        "Communicate results",
+        "Analyze data"
+      ],
+      "correctAnswer": "Make observations"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "After making observations, what is the second step of the scientific method?",
+      "options": [
+        "Ask a question and identify a problem",
+        "Draw a conclusion",
+        "Design a controlled experiment",
+        "Analyze the data"
+      ],
+      "correctAnswer": "Ask a question and identify a problem"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The third step of the scientific method is to form a hypothesis, which is:",
+      "options": [
+        "A proposed explanation and a testable prediction",
+        "The final answer to the problem",
+        "A list of observations from nature",
+        "The data collected from an experiment"
+      ],
+      "correctAnswer": "A proposed explanation and a testable prediction"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "What is the fourth step of the scientific method?",
+      "options": [
+        "Design and conduct a controlled experiment",
+        "Make observations",
+        "Communicate the results",
+        "Ask a question"
+      ],
+      "correctAnswer": "Design and conduct a controlled experiment"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "What is the fifth step of the scientific method?",
+      "options": [
+        "Analyze data",
+        "Form a hypothesis",
+        "Draw a conclusion",
+        "Make observations"
+      ],
+      "correctAnswer": "Analyze data"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "What is the sixth step of the scientific method?",
+      "options": [
+        "Draw a conclusion that confirms or refutes the hypothesis",
+        "Design a controlled experiment",
+        "Communicate and share the results",
+        "Identify a problem"
+      ],
+      "correctAnswer": "Draw a conclusion that confirms or refutes the hypothesis"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What is the final step of the scientific method?",
+      "options": [
+        "Communicate or share the results",
+        "Analyze the data",
+        "Make more observations",
+        "Form a new hypothesis"
+      ],
+      "correctAnswer": "Communicate or share the results"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "In the textbook example, what does the scientist decide to do when studying altitude and boiling water?",
+      "options": [
+        "Heat water at different altitudes and record the boiling temperature",
+        "Cool water at different altitudes and record the freezing point",
+        "Measure the amount of water evaporated at one altitude",
+        "Test the taste of boiled water at sea level"
+      ],
+      "correctAnswer": "Heat water at different altitudes and record the boiling temperature"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "According to the textbook data table, at what altitude does water boil at 98 °C?",
+      "options": [
+        "610 m",
+        "150 m",
+        "305 m",
+        "1524 m"
+      ],
+      "correctAnswer": "610 m"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "In the textbook experiment, what is the boiling temperature of water at 0 m altitude?",
+      "options": [
+        "100 °C",
+        "99.5 °C",
+        "99 °C",
+        "95 °C"
+      ],
+      "correctAnswer": "100 °C"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "What conclusion follows from the boiling-point-at-altitude data table?",
+      "options": [
+        "As altitude increases, the boiling point of water decreases",
+        "As altitude increases, the boiling point of water increases",
+        "Altitude has no effect on the boiling point of water",
+        "The boiling point of water is constant at every altitude"
+      ],
+      "correctAnswer": "As altitude increases, the boiling point of water decreases"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Why does the boiling point of water decrease at higher altitudes?",
+      "options": [
+        "Lower atmospheric pressure at higher altitude lowers the boiling point",
+        "Higher atmospheric pressure at higher altitude lowers the boiling point",
+        "The water is heated faster at higher altitudes",
+        "The water contains more impurities at higher altitudes"
+      ],
+      "correctAnswer": "Lower atmospheric pressure at higher altitude lowers the boiling point"
+    }
+  ]
+}

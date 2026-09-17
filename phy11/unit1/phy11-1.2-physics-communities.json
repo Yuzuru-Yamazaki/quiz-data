@@ -1,0 +1,310 @@
+{
+  "title": "1.2 Physics Communities and Their Roles",
+  "description": "Physics communities, their establishment levels, and the Ethiopian Physics Society (EPS)",
+  "folder": "School/Grade 11/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["physics", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is a physics community?",
+      "options": [
+        "An organized group of persons associated together for scientific purposes",
+        "A laboratory where physics experiments are performed",
+        "A collection of physics textbooks and journals",
+        "A government body that funds scientific research"
+      ],
+      "correctAnswer": "An organized group of persons associated together for scientific purposes"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "For what purpose are persons associated together in a physics community?",
+      "options": [
+        "For scientific purposes",
+        "For commercial purposes",
+        "For political purposes",
+        "For entertainment purposes"
+      ],
+      "correctAnswer": "For scientific purposes"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "How is a physics community best described?",
+      "options": [
+        "As an organized group of persons associated together for scientific purposes",
+        "As a random gathering of individuals interested in nature",
+        "As a collection of scientific instruments",
+        "As a building used for physics lectures"
+      ],
+      "correctAnswer": "As an organized group of persons associated together for scientific purposes"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "At which levels can physics communities be established?",
+      "options": [
+        "National, continental (regional), and worldwide (global)",
+        "Local, municipal, and provincial",
+        "School, college, and university",
+        "Individual, family, and community"
+      ],
+      "correctAnswer": "National, continental (regional), and worldwide (global)"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What determines the level at which a physics organization is established?",
+      "options": [
+        "Its aims",
+        "Its budget",
+        "Its number of members",
+        "Its age"
+      ],
+      "correctAnswer": "Its aims"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "A national physics society is an example of a physics community established at which level?",
+      "options": [
+        "National level",
+        "Continental level",
+        "Worldwide level",
+        "Local level"
+      ],
+      "correctAnswer": "National level"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A continental physics association, such as an African one, represents which level of organization?",
+      "options": [
+        "Continental (regional) level",
+        "National level",
+        "Worldwide level",
+        "Municipal level"
+      ],
+      "correctAnswer": "Continental (regional) level"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which of the following is a worldwide (global) physics organization?",
+      "options": [
+        "IUPAP - International Union of Pure and Applied Physics",
+        "A national physics society",
+        "An African physics association",
+        "A regional physics club"
+      ],
+      "correctAnswer": "IUPAP - International Union of Pure and Applied Physics"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What does IUPAP stand for?",
+      "options": [
+        "International Union of Pure and Applied Physics",
+        "International Union of Physics and Astronomy Programs",
+        "Institute of Universal Physics and Applied Principles",
+        "International Understanding of Pure and Applied Physics"
+      ],
+      "correctAnswer": "International Union of Pure and Applied Physics"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which type of physics community is established at the worldwide (global) level?",
+      "options": [
+        "An international union such as IUPAP",
+        "A national physics society",
+        "A continental physics association",
+        "A regional physics group"
+      ],
+      "correctAnswer": "An international union such as IUPAP"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which of the following is a role of physics communities?",
+      "options": [
+        "Promoting physics education and research",
+        "Selling physics textbooks for profit",
+        "Building physics classrooms",
+        "Recruiting students to universities"
+      ],
+      "correctAnswer": "Promoting physics education and research"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "How do physics communities share information with scientists?",
+      "options": [
+        "By sharing scientific information",
+        "By publishing newspapers",
+        "By broadcasting radio programs",
+        "By selling library memberships"
+      ],
+      "correctAnswer": "By sharing scientific information"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which of the following is an activity carried out by physics communities?",
+      "options": [
+        "Organizing conferences",
+        "Manufacturing laboratory equipment",
+        "Administering school examinations",
+        "Licensing physics teachers"
+      ],
+      "correctAnswer": "Organizing conferences"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "How do physics communities help students develop an interest in physics?",
+      "options": [
+        "By popularizing physics",
+        "By setting examination questions",
+        "By building laboratories",
+        "By funding school uniforms"
+      ],
+      "correctAnswer": "By popularizing physics"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which of the following is a benefit provided by physics communities?",
+      "options": [
+        "Giving scholarships",
+        "Paying teacher salaries",
+        "Supplying school furniture",
+        "Constructing school buildings"
+      ],
+      "correctAnswer": "Giving scholarships"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "What equipment support do physics communities provide?",
+      "options": [
+        "Providing equipment and computing facilities",
+        "Providing stationery for schools",
+        "Providing sports equipment",
+        "Providing music instruments"
+      ],
+      "correctAnswer": "Providing equipment and computing facilities"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What does EPS stand for?",
+      "options": [
+        "Ethiopian Physics Society",
+        "European Physics Society",
+        "Ethiopian Physical Sciences",
+        "Educational Physics System"
+      ],
+      "correctAnswer": "Ethiopian Physics Society"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which of the following is an objective of the Ethiopian Physics Society (EPS)?",
+      "options": [
+        "To promote physics education and research in the country",
+        "To import physics textbooks",
+        "To build physics museums",
+        "To employ physics teachers"
+      ],
+      "correctAnswer": "To promote physics education and research in the country"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "According to the objectives of the Ethiopian Physics Society (EPS), what does it organize and coordinate?",
+      "options": [
+        "Conferences on physics education and exchange of scientific information",
+        "National sports competitions",
+        "School graduation ceremonies",
+        "Agricultural exhibitions"
+      ],
+      "correctAnswer": "Conferences on physics education and exchange of scientific information"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Why does the Ethiopian Physics Society (EPS) popularize physics?",
+      "options": [
+        "To make students develop interest in physics",
+        "To increase the number of physics teachers",
+        "To promote physics as a career option",
+        "To attract foreign funding"
+      ],
+      "correctAnswer": "To make students develop interest in physics"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "In the design and implementation of the physics curriculum, whose active participation does the Ethiopian Physics Society (EPS) promote?",
+      "options": [
+        "Ethiopian physicists and the general public",
+        "Only university professors",
+        "Only school principals",
+        "Government politicians"
+      ],
+      "correctAnswer": "Ethiopian physicists and the general public"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Which of the following is an objective of the Ethiopian Physics Society (EPS) regarding scientific information?",
+      "options": [
+        "To create a means for disseminating scientific information",
+        "To restrict access to scientific information",
+        "To patent scientific information",
+        "To store scientific information for sale"
+      ],
+      "correctAnswer": "To create a means for disseminating scientific information"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Which of the following is an objective of the Ethiopian Physics Society (EPS) regarding the physics curriculum?",
+      "options": [
+        "To promote active participation in the design and implementation of the physics curriculum",
+        "To design an entirely new national curriculum",
+        "To approve textbooks for all subjects",
+        "To examine students on the physics curriculum"
+      ],
+      "correctAnswer": "To promote active participation in the design and implementation of the physics curriculum"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Which of the following people are encouraged by the Ethiopian Physics Society (EPS) to take part in bringing about an effective physics curriculum?",
+      "options": [
+        "Ethiopian physicists and the general public",
+        "Foreign researchers only",
+        "Physics students only",
+        "School directors only"
+      ],
+      "correctAnswer": "Ethiopian physicists and the general public"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "At which level of organization is the Ethiopian Physics Society (EPS) established?",
+      "options": [
+        "National level",
+        "Continental (regional) level",
+        "Worldwide (global) level",
+        "Municipal level"
+      ],
+      "correctAnswer": "National level"
+    }
+  ]
+}

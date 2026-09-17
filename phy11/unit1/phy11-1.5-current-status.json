@@ -1,0 +1,346 @@
+{
+  "title": "1.5 Current Status of Physics",
+  "description": "Recent discoveries in physics: exoplanets, black holes, gravitational waves, Higgs boson, JWST, and more",
+  "folder": "School/Grade 11/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["physics", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is an exoplanet?",
+      "options": [
+        "A planet in our solar system discovered after 2000",
+        "A planet orbiting a star outside our solar system",
+        "A moon orbiting a planet in the solar system",
+        "A star too faint to be seen without a telescope"
+      ],
+      "correctAnswer": "A planet orbiting a star outside our solar system"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Where was the first exoplanet detected?",
+      "options": [
+        "Orbiting a pulsar",
+        "Orbiting the Sun",
+        "In the Andromeda galaxy",
+        "In the Carina Nebula"
+      ],
+      "correctAnswer": "Orbiting a pulsar"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The 2019 Nobel Prize in Physics was awarded for the discovery of exoplanets to:",
+      "options": [
+        "Michel Mayor and Didier Queloz",
+        "Roger Penrose and Andrea Ghez",
+        "Higgs and Englert",
+        "Weiss, Barish and Thorne"
+      ],
+      "correctAnswer": "Michel Mayor and Didier Queloz"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Why is the discovery of exoplanets significant?",
+      "options": [
+        "It confirmed that planets exist around other stars",
+        "It proved that stars emit light",
+        "It explained the greenhouse effect",
+        "It detected ripples in spacetime"
+      ],
+      "correctAnswer": "It confirmed that planets exist around other stars"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which project produced the first-ever image of a black hole in 2019?",
+      "options": [
+        "Event Horizon Telescope",
+        "Large Hadron Collider",
+        "James Webb Space Telescope",
+        "LIGO"
+      ],
+      "correctAnswer": "Event Horizon Telescope"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "In which galaxy was the first image of a black hole captured?",
+      "options": [
+        "M87",
+        "Andromeda",
+        "The Milky Way",
+        "Carina Nebula"
+      ],
+      "correctAnswer": "M87"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The 2020 Nobel Prize in Physics for black hole research was awarded to:",
+      "options": [
+        "Roger Penrose, Reinhard Genzel and Andrea Ghez",
+        "Michel Mayor and Didier Queloz",
+        "Higgs and Englert",
+        "Weiss, Barish and Thorne"
+      ],
+      "correctAnswer": "Roger Penrose, Reinhard Genzel and Andrea Ghez"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Genzel and Ghez observationally discovered a supermassive black hole at:",
+      "options": [
+        "The center of our galaxy",
+        "The center of the Sun",
+        "The edge of the solar system",
+        "The center of the Andromeda galaxy"
+      ],
+      "correctAnswer": "The center of our galaxy"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Quantum cryptography makes communication secure using:",
+      "options": [
+        "Quantum entanglement and the no-cloning property of quantum states",
+        "The greenhouse effect and atmospheric radiation",
+        "High-energy particle collisions",
+        "Gravitational lensing of light"
+      ],
+      "correctAnswer": "Quantum entanglement and the no-cloning property of quantum states"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "In quantum cryptography, how can eavesdropping be detected?",
+      "options": [
+        "Observing a quantum state disturbs it",
+        "Intercepted messages become permanently louder",
+        "Eavesdroppers must warn the sender first",
+        "The communication speed doubles"
+      ],
+      "correctAnswer": "Observing a quantum state disturbs it"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "What does the no-cloning property of quantum states mean?",
+      "options": [
+        "A quantum state cannot be copied exactly",
+        "Quantum particles cannot be destroyed",
+        "Quantum states can only exist inside accelerators",
+        "A quantum key can be duplicated freely"
+      ],
+      "correctAnswer": "A quantum state cannot be copied exactly"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The Large Hadron Collider (LHC) is located at:",
+      "options": [
+        "CERN",
+        "NASA",
+        "The Event Horizon Telescope site",
+        "LIGO"
+      ],
+      "correctAnswer": "CERN"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What is the nickname of the Higgs boson?",
+      "options": [
+        "The God particle",
+        "The force particle",
+        "The wave particle",
+        "The dark particle"
+      ],
+      "correctAnswer": "The God particle"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "In which year was the Higgs boson discovered at the LHC?",
+      "options": [
+        "2012",
+        "2019",
+        "2021",
+        "2015"
+      ],
+      "correctAnswer": "2012"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Who won the 2013 Nobel Prize in Physics for the theory of the Higgs mechanism?",
+      "options": [
+        "Higgs and Englert",
+        "Penrose and Ghez",
+        "Mayor and Queloz",
+        "Weiss and Thorne"
+      ],
+      "correctAnswer": "Higgs and Englert"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Gravitational waves are ripples in spacetime predicted by:",
+      "options": [
+        "Einstein's general relativity",
+        "Newton's law of gravity alone",
+        "The greenhouse effect",
+        "The quantum no-cloning theorem"
+      ],
+      "correctAnswer": "Einstein's general relativity"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Gravitational waves were first directly detected in 2015 by which experiment?",
+      "options": [
+        "LIGO",
+        "Event Horizon Telescope",
+        "Large Hadron Collider",
+        "James Webb Space Telescope"
+      ],
+      "correctAnswer": "LIGO"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The 2015 direct detection of gravitational waves came from:",
+      "options": [
+        "Merging black holes",
+        "A supernova explosion",
+        "A newly formed pulsar",
+        "An exoplanet transit"
+      ],
+      "correctAnswer": "Merging black holes"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The 2017 Nobel Prize in Physics for gravitational wave detection was awarded to:",
+      "options": [
+        "Weiss, Barish and Thorne",
+        "Higgs and Englert",
+        "Michel Mayor and Didier Queloz",
+        "Penrose, Genzel and Ghez"
+      ],
+      "correctAnswer": "Weiss, Barish and Thorne"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "The greenhouse effect and climate change are explained using physics from fields such as:",
+      "options": [
+        "Radiation, thermodynamics and atmospheric science",
+        "Quantum cryptography and entanglement",
+        "Particle acceleration and hadron collisions",
+        "Exoplanet imaging and spectroscopy"
+      ],
+      "correctAnswer": "Radiation, thermodynamics and atmospheric science"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Which gases trap heat and drive the greenhouse effect?",
+      "options": [
+        "Carbon dioxide and other greenhouse gases",
+        "Hydrogen and helium",
+        "Oxygen and nitrogen only",
+        "Noble gases such as argon"
+      ],
+      "correctAnswer": "Carbon dioxide and other greenhouse gases"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "How does physics monitor global warming and climate change?",
+      "options": [
+        "Using satellites and physics models",
+        "By listening for gravitational waves only",
+        "By colliding particles at the LHC",
+        "By photographing the nearest pulsar"
+      ],
+      "correctAnswer": "Using satellites and physics models"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "The James Webb Space Telescope is best described as:",
+      "options": [
+        "The most powerful space telescope, launched as the successor to Hubble",
+        "A ground-based radio telescope",
+        "A particle accelerator in orbit",
+        "A gravitational wave detector"
+      ],
+      "correctAnswer": "The most powerful space telescope, launched as the successor to Hubble"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "In which year was the James Webb Space Telescope launched?",
+      "options": [
+        "2021",
+        "2012",
+        "2015",
+        "2019"
+      ],
+      "correctAnswer": "2021"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "The JWST observes the universe in the infrared part of the spectrum and is cooled to about:",
+      "options": [
+        "$-223\\,^\\circ C$",
+        "$-73\\,^\\circ C$",
+        "$0\\,^\\circ C$",
+        "$100\\,^\\circ C$"
+      ],
+      "correctAnswer": "$-223\\,^\\circ C$"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Which star formation region has been imaged by the JWST?",
+      "options": [
+        "The Carina Nebula",
+        "The interior of the Sun",
+        "The rings of Saturn",
+        "The surface of the Moon"
+      ],
+      "correctAnswer": "The Carina Nebula"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "The newly inaugurated Ethiopian Science and Art Museum in Addis Ababa is notable for its:",
+      "options": [
+        "Dome-shaped building with exhibits on science, technology and arts",
+        "Octagonal building that houses particle accelerators",
+        "Underground laboratory used for gravitational wave detection",
+        "Pyramid-shaped structure orbiting the Earth"
+      ],
+      "correctAnswer": "Dome-shaped building with exhibits on science, technology and arts"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "What is a main purpose of the Ethiopian Science and Art Museum?",
+      "options": [
+        "To popularize science and physics in Ethiopia",
+        "To launch satellites into orbit",
+        "To store the world's largest telescopes",
+        "To host the LHC experiments"
+      ],
+      "correctAnswer": "To popularize science and physics in Ethiopia"
+    }
+  ]
+}

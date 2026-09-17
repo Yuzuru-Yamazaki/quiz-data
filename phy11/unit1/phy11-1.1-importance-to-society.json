@@ -1,0 +1,346 @@
+{
+  "title": "1.1 Importance of Physics to Society",
+  "description": "The influence of physics on society: transport, health, electronics, military, and quality of life",
+  "folder": "School/Grade 11/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["physics", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "According to the textbook, how does physics improve the quality of life?",
+      "options": [
+        "By providing the basic understanding necessary for developing new instrumentation and techniques for medical applications",
+        "By removing the need for doctors in hospitals",
+        "By replacing all other sciences in schools",
+        "By making transportation vehicles unnecessary"
+      ],
+      "correctAnswer": "By providing the basic understanding necessary for developing new instrumentation and techniques for medical applications"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which of the following is a medical application made possible by physics?",
+      "options": [
+        "Computer tomography (CT)",
+        "Television",
+        "Space shuttle",
+        "Mobile phone"
+      ],
+      "correctAnswer": "Computer tomography (CT)"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Computer tomography (CT) is a physics-based technique used in which field?",
+      "options": [
+        "Medicine",
+        "Transport",
+        "Sports",
+        "Agriculture"
+      ],
+      "correctAnswer": "Medicine"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Magnetic resonance imaging (MRI) is a technique that was developed thanks to physics understanding used for what purpose?",
+      "options": [
+        "Medical applications",
+        "Agricultural production",
+        "Clothing industry",
+        "Food storage"
+      ],
+      "correctAnswer": "Medical applications"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which of the following techniques is associated with medical imaging?",
+      "options": [
+        "Positron emission tomography (PET)",
+        "Vehicle design",
+        "Airport construction",
+        "Bridge building"
+      ],
+      "correctAnswer": "Positron emission tomography (PET)"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Ultrasonic imaging is an example of physics-based instrumentation used for what purpose?",
+      "options": [
+        "Medical applications",
+        "Weapon design",
+        "Transport planning",
+        "Building construction"
+      ],
+      "correctAnswer": "Medical applications"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Laser surgery became possible because physics provided what?",
+      "options": [
+        "The basic understanding necessary for new medical techniques",
+        "Better farming methods",
+        "Faster postal services",
+        "Cheaper raw materials"
+      ],
+      "correctAnswer": "The basic understanding necessary for new medical techniques"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "According to the textbook, which vehicles require the help of physics experts to be constructed?",
+      "options": [
+        "Automobiles, airplanes, and space shuttles",
+        "Wagons, carts, and sleds",
+        "Boats made from logs",
+        "Bicycles and skateboards"
+      ],
+      "correctAnswer": "Automobiles, airplanes, and space shuttles"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Space shuttles are constructed with the help of experts in which field?",
+      "options": [
+        "Physics",
+        "Botany",
+        "Literature",
+        "Accounting"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which science underpins the entire electronics industry?",
+      "options": [
+        "Physics",
+        "Poetry",
+        "Geography",
+        "Music"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Computers, smartphones, TVs, and radios all operate on principles of physics such as which of the following?",
+      "options": [
+        "Electricity, magnetism, semiconductors, and electromagnetism",
+        "Grammar, spelling, and punctuation",
+        "Painting, drawing, and sculpting",
+        "Farming, fishing, and herding"
+      ],
+      "correctAnswer": "Electricity, magnetism, semiconductors, and electromagnetism"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The working of everyday electronic devices relies most directly on which of the following?",
+      "options": [
+        "The principles of physics",
+        "The laws of literature",
+        "The rules of grammar",
+        "The customs of society"
+      ],
+      "correctAnswer": "The principles of physics"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Physics is useful for military purposes mainly in what way?",
+      "options": [
+        "Informing the design of weapons",
+        "Training soldiers in sports",
+        "Organizing army parades",
+        "Distributing food supplies"
+      ],
+      "correctAnswer": "Informing the design of weapons"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Many of the scientists responsible for inventing the atomic bomb were which of the following?",
+      "options": [
+        "Physicists",
+        "Poets",
+        "Historians",
+        "Musicians"
+      ],
+      "correctAnswer": "Physicists"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Today, physicists are involved in the creation of which of the following?",
+      "options": [
+        "Nuclear weapons",
+        "Farming tools",
+        "Kitchen utensils",
+        "Textile fabrics"
+      ],
+      "correctAnswer": "Nuclear weapons"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "How does physics contribute to economic development?",
+      "options": [
+        "By enabling new technologies that boost a country's economy and industry",
+        "By increasing the number of public holidays",
+        "By reducing the need for education",
+        "By encouraging people to live in rural areas"
+      ],
+      "correctAnswer": "By enabling new technologies that boost a country's economy and industry"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Understanding physics enables new technologies that benefit a country's what?",
+      "options": [
+        "Economy and industry",
+        "Poetry and music",
+        "Paintings and sculptures",
+        "Dances and festivals"
+      ],
+      "correctAnswer": "Economy and industry"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which of the following is a natural phenomenon that physics explains?",
+      "options": [
+        "Gravity",
+        "Bureaucracy",
+        "Etiquette",
+        "Mythology"
+      ],
+      "correctAnswer": "Gravity"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Physics explains natural phenomena such as which of the following?",
+      "options": [
+        "Light, sound, and heat",
+        "Taxes, laws, and courts",
+        "Customs, festivals, and rituals",
+        "Myths, legends, and fables"
+      ],
+      "correctAnswer": "Light, sound, and heat"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "The study of which science enables humans to understand and make use of nature?",
+      "options": [
+        "Physics",
+        "Astrology",
+        "Palmistry",
+        "Folklore"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Which of the following is included in the natural phenomena explained by physics?",
+      "options": [
+        "Electricity",
+        "Political elections",
+        "Currency exchange",
+        "Wedding ceremonies"
+      ],
+      "correctAnswer": "Electricity"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Physics is described in the textbook as the foundation of which other sciences?",
+      "options": [
+        "Chemistry, biology, geology, and astronomy",
+        "Painting, music, and dance",
+        "History, civics, and economics",
+        "Literature, languages, and philosophy"
+      ],
+      "correctAnswer": "Chemistry, biology, geology, and astronomy"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Which science depends on the laws of physics?",
+      "options": [
+        "Astronomy",
+        "Mythology",
+        "Linguistics",
+        "Anthropology"
+      ],
+      "correctAnswer": "Astronomy"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "A student finding it hard to understand chemistry or biology would benefit most from first studying which science?",
+      "options": [
+        "Physics",
+        "Painting",
+        "Cooking",
+        "Carpentry"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Electricity and magnetism, as explained by physics, are the basis of which industry?",
+      "options": [
+        "The electronics industry",
+        "The clothing industry",
+        "The food industry",
+        "The textile industry"
+      ],
+      "correctAnswer": "The electronics industry"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Motion and energy are phenomena that physics explains, and this knowledge helps engineers construct what?",
+      "options": [
+        "Transportation vehicles",
+        "Musical bands",
+        "Sports teams",
+        "Trading companies"
+      ],
+      "correctAnswer": "Transportation vehicles"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "When physicists use their knowledge of physics to support weapons production, this shows that physics is useful for what purpose?",
+      "options": [
+        "Military purposes",
+        "Musical purposes",
+        "Agricultural purposes",
+        "Artistic purposes"
+      ],
+      "correctAnswer": "Military purposes"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Which statement best summarizes the importance of physics to society?",
+      "options": [
+        "Physics improves quality of life and drives technology and economic development",
+        "Physics is only useful for building weapons",
+        "Physics has no effect on everyday life",
+        "Physics is only important inside laboratories"
+      ],
+      "correctAnswer": "Physics improves quality of life and drives technology and economic development"
+    }
+  ]
+}
