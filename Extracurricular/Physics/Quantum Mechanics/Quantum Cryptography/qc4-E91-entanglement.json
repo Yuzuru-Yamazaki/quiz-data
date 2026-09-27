@@ -1,0 +1,274 @@
+{
+  "title": "E91 and Entanglement-Based QKD",
+  "description": "Ekert's protocol, Bell's theorem and the CHSH inequality for security",
+  "folder": "Extracurricular/Physics/Quantum Mechanics/Quantum Cryptography",
+  "field": "neutral",
+  "anki": true,
+  "tags": ["physics", "quantum", "cryptography", "quantum-computing"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The E91 protocol was introduced in 1991 by",
+      "options": [
+        "Artur Ekert",
+        "Charles Bennett",
+        "Peter Shor",
+        "Charles Bennett and Artur Ekert"
+      ],
+      "correctAnswer": "Artur Ekert"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "In E91, the entangled photon pairs are produced by",
+      "options": [
+        "a source that sends one photon of each pair to Alice and the other to Bob",
+        "Alice, who prepares them and sends them to Bob over a quantum link",
+        "Bob, who measures one member and forwards the other to Alice",
+        "a satellite that stores the pairs until both parties are ready"
+      ],
+      "correctAnswer": "a source that sends one photon of each pair to Alice and the other to Bob"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The entangled pairs used in E91 are the physical realisation of",
+      "options": [
+        "Einstein-Podolsky-Rosen pairs, whose members have correlated but individually undefined properties",
+        "Bohm-Aaronson pairs, designed to violate Bell inequalities",
+        "Schrödinger cat states, superpositions of macroscopic objects",
+        "Cooper pairs, which bind electrons in a superconductor"
+      ],
+      "correctAnswer": "Einstein-Podolsky-Rosen pairs, whose members have correlated but individually undefined properties"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Bell's theorem shows that",
+      "options": [
+        "no theory of local hidden variables can reproduce all the predictions of quantum mechanics",
+        "quantum mechanics can never be verified experimentally to arbitrary precision",
+        "local hidden variable theories agree with quantum mechanics only for entangled states",
+        "every experiment that tests Bell's inequality must support local realism"
+      ],
+      "correctAnswer": "no theory of local hidden variables can reproduce all the predictions of quantum mechanics"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The CHSH inequality is a testable statement of the form",
+      "options": [
+        "$|S| \\le 2$ for any local hidden variable theory",
+        "$|S| \\le 1$ for any local hidden variable theory",
+        "$|S| \\le 4$ for any local hidden variable theory",
+        "$|S| \\ge 2$ for any local hidden variable theory"
+      ],
+      "correctAnswer": "$|S| \\le 2$ for any local hidden variable theory"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "For maximally entangled states, the CHSH parameter can reach",
+      "options": [
+        "$2\\sqrt{2} \\approx 2.83$, which exceeds the classical bound of $2$",
+        "$2$, exactly equal to the classical bound",
+        "$4$, the largest value the inequality allows",
+        "$\\sqrt{2} \\approx 1.41$, below the classical bound"
+      ],
+      "correctAnswer": "$2\\sqrt{2} \\approx 2.83$, which exceeds the classical bound of $2$"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In E91, Alice and Bob each measure using",
+      "options": [
+        "a random choice from three bases, two of which supply the key and one of which is used for the Bell test",
+        "a random choice from two bases, both of which supply the key",
+        "a single basis fixed by the protocol, so the key is deterministic",
+        "a random choice from four bases, all of which supply the key"
+      ],
+      "correctAnswer": "a random choice from three bases, two of which supply the key and one of which is used for the Bell test"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In E91, an eavesdropper is detected because she",
+      "options": [
+        "must interact with the entangled photons, which breaks the correlations tested by Bell's inequality",
+        "must switch off the entangled source, which is immediately noticed",
+        "must add photons to the channel, which raises the detection rate",
+        "must measure in one of the three bases, which changes the sifted key length"
+      ],
+      "correctAnswer": "must interact with the entangled photons, which breaks the correlations tested by Bell's inequality"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Why does a violation of the CHSH inequality signal eavesdropping in E91?",
+      "options": [
+        "with ideal devices the observed correlations are the entangled ones, so a departure from them can only come from outside interference",
+        "a CHSH violation always indicates that the detectors are misaligned",
+        "Eve's presence forces $S$ below the classical bound of $2$",
+        "Bell's inequality is violated by any quantum signal that is merely transmitted"
+      ],
+      "correctAnswer": "with ideal devices the observed correlations are the entangled ones, so a departure from them can only come from outside interference"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which measurements in E91 provide the shared key?",
+      "options": [
+        "those in the two bases not reserved for the Bell test, keeping the settings that satisfy the required correlation condition",
+        "only those in the third basis, which is used for the Bell test",
+        "all measurements, since every setting yields an identical bit",
+        "only those in which Alice and Bob chose the same basis"
+      ],
+      "correctAnswer": "those in the two bases not reserved for the Bell test, keeping the settings that satisfy the required correlation condition"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The essential difference between E91 and BB84 is that",
+      "options": [
+        "E91 uses entangled pairs shared by the two parties, while BB84 uses a single prepare-and-measure channel",
+        "E91 uses four bases, while BB84 uses two",
+        "E91 needs no authenticated classical channel, while BB84 does",
+        "E91 encodes two bits per photon, while BB84 encodes one"
+      ],
+      "correctAnswer": "E91 uses entangled pairs shared by the two parties, while BB84 uses a single prepare-and-measure channel"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "E91 is a candidate for device-independent QKD because",
+      "options": [
+        "its security can be established from observed correlations alone, without trusting the internal operation of the devices",
+        "it needs no entangled source and can therefore run in any laboratory",
+        "it operates entirely over classical channels",
+        "it guarantees that Eve cannot intercept the photons"
+      ],
+      "correctAnswer": "its security can be established from observed correlations alone, without trusting the internal operation of the devices"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The main experimental obstacle to device-independent QKD is",
+      "options": [
+        "the very high detection efficiency and low loss needed to close the detection loophole",
+        "the fact that Bell's inequality cannot be tested in a laboratory",
+        "the absence of any established theory of quantum entanglement",
+        "the impossibility of building entangled photon sources at all"
+      ],
+      "correctAnswer": "the very high detection efficiency and low loss needed to close the detection loophole"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A Bell test used to certify security must be designed to",
+      "options": [
+        "close the locality and detection loopholes, otherwise the violation can be explained classically",
+        "repeat each measurement only once, to avoid perturbing the state",
+        "avoid repeating the experiment, since repetition reduces the violation",
+        "measure all photons in a single basis, to maximise the count rate"
+      ],
+      "correctAnswer": "close the locality and detection loopholes, otherwise the violation can be explained classically"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "In E91, Alice and Bob can check that their photons really were entangled by",
+      "options": [
+        "testing whether the observed correlations violate a Bell inequality for more than one pair of settings",
+        "counting the photons that arrive at each detector",
+        "comparing the arrival times of the two photons",
+        "measuring the polarisation of the entangled source directly"
+      ],
+      "correctAnswer": "testing whether the observed correlations violate a Bell inequality for more than one pair of settings"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "For an entangled pair, each photon's individual polarisation is",
+      "options": [
+        "completely random, while the pair's joint results are strongly correlated",
+        "fixed at the moment of creation and merely unknown to the observers",
+        "random and completely uncorrelated with that of its partner",
+        "determined only after both detectors have been read out"
+      ],
+      "correctAnswer": "completely random, while the pair's joint results are strongly correlated"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Bell's theorem relies on the locality assumption that",
+      "options": [
+        "a measurement on one wing cannot instantaneously influence the outcome at the distant wing",
+        "all particles communicate only through a classical field",
+        "measurements are local, but the outcomes are fixed by a shared random table",
+        "quantum influences propagate only at the speed of light"
+      ],
+      "correctAnswer": "a measurement on one wing cannot instantaneously influence the outcome at the distant wing"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "A further assumption in Bell tests is that the measurement settings are chosen",
+      "options": [
+        "randomly and independently of the source, which closes the freedom-of-choice loophole",
+        "so that both parties always choose the same settings",
+        "as late as possible, after the photons have already been detected",
+        "according to a fixed schedule known to the source in advance"
+      ],
+      "correctAnswer": "randomly and independently of the source, which closes the freedom-of-choice loophole"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "In an E91 run, the parties abort when the measured",
+      "options": [
+        "CHSH parameter falls below the value required to certify a secure key",
+        "photon count falls below the bandwidth of the classical channel",
+        "polarisation drift exceeds the birefringence limit of the fibre",
+        "key length exceeds the memory of the random number generator"
+      ],
+      "correctAnswer": "CHSH parameter falls below the value required to certify a secure key"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "A further application of entangled-pair experiments is",
+      "options": [
+        "certified randomness, in which the observed Bell violation guarantees that the bits are unpredictable",
+        "local randomness generation, which needs no quantum hardware",
+        "deterministic computation of a random seed from a classical hash",
+        "secure storage of random numbers against quantum attacks"
+      ],
+      "correctAnswer": "certified randomness, in which the observed Bell violation guarantees that the bits are unpredictable"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "The DiVincenzo criteria list the conditions a physical device must satisfy to run a quantum cryptography protocol, including",
+      "options": [
+        "the ability to initialise, manipulate and read out qubits, together with isolation from the environment",
+        "a classical public key and an equally long private key",
+        "the ability to perform fast integer factoring on demand",
+        "a guarantee of noiseless transmission over any distance"
+      ],
+      "correctAnswer": "the ability to initialise, manipulate and read out qubits, together with isolation from the environment"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Compared with BB84, the security analysis of E91 is",
+      "options": [
+        "expressed directly in terms of observed Bell violations and entropic quantities",
+        "expressed in terms of the size of the RSA modulus used for authentication",
+        "based on the difficulty of finding preimages of a hash function",
+        "based on directly counting the number of photons an eavesdropper removed"
+      ],
+      "correctAnswer": "expressed directly in terms of observed Bell violations and entropic quantities"
+    }
+  ]
+}

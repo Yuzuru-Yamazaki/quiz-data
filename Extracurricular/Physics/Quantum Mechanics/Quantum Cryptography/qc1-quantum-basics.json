@@ -1,0 +1,310 @@
+{
+  "title": "Quantum Basics for Cryptography",
+  "description": "Qubits, superposition, entanglement, and the no-cloning theorem",
+  "folder": "Extracurricular/Physics/Quantum Mechanics/Quantum Cryptography",
+  "field": "neutral",
+  "anki": true,
+  "tags": ["physics", "quantum", "cryptography", "quantum-computing"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What distinguishes a qubit from a classical bit?",
+      "options": [
+        "A qubit can be a coherent superposition of $|0\\rangle$ and $|1\\rangle$, whereas a classical bit is always exactly $0$ or exactly $1$",
+        "A qubit can hold many classical bits at once, whereas a classical bit holds only one",
+        "A qubit is always in one definite state, but that state is chosen by hardware rather than by the user",
+        "A qubit uses four symbols instead of the two symbols available to a classical bit"
+      ],
+      "correctAnswer": "A qubit can be a coherent superposition of $|0\\rangle$ and $|1\\rangle$, whereas a classical bit is always exactly $0$ or exactly $1$"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is a superposition?",
+      "options": [
+        "A quantum state that is a linear combination of two or more basis states, such as $\\alpha|0\\rangle + \\beta|1\\rangle$",
+        "A state in which the system is classically in two states at once, each with its own definite property",
+        "A random mixture in which the system is in an unknown but already fixed classical state",
+        "The sum of the probabilities assigned to all the possible measurement outcomes"
+      ],
+      "correctAnswer": "A quantum state that is a linear combination of two or more basis states, such as $\\alpha|0\\rangle + \\beta|1\\rangle$"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "A qubit has the state $|\\psi\\rangle = \\alpha|0\\rangle + \\beta|1\\rangle$. What condition must its amplitudes satisfy?",
+      "options": [
+        "$|\\alpha|^2 + |\\beta|^2 = 1$",
+        "$|\\alpha| + |\\beta| = 1$",
+        "$\\alpha + \\beta = 1$",
+        "$|\\alpha| \\le 1$, with no constraint on $\\beta$"
+      ],
+      "correctAnswer": "$|\\alpha|^2 + |\\beta|^2 = 1$"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "By the Born rule, the probability of obtaining the outcome $|0\\rangle$ when measuring $\\alpha|0\\rangle + \\beta|1\\rangle$ is",
+      "options": [
+        "$|\\alpha|^2$",
+        "$\\alpha$",
+        "$|\\alpha|$",
+        "$\\beta$"
+      ],
+      "correctAnswer": "$|\\alpha|^2$"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A qubit is prepared in $|+\\rangle = (|0\\rangle + |1\\rangle)/\\sqrt{2}$ and is measured in the computational basis. What happens?",
+      "options": [
+        "The result is $|0\\rangle$ with probability $1/2$ and $|1\\rangle$ with probability $1/2$",
+        "The result is always $|0\\rangle$, because a superposition forces the zero outcome",
+        "The result is undefined, since a superposition has no definite measurement outcome",
+        "The qubit is left in an entangled state shared with the measuring apparatus"
+      ],
+      "correctAnswer": "The result is $|0\\rangle$ with probability $1/2$ and $|1\\rangle$ with probability $1/2$"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The Hadamard gate $H$ applied to $|0\\rangle$ produces the state",
+      "options": [
+        "$(|0\\rangle + |1\\rangle)/\\sqrt{2}$",
+        "$(|0\\rangle - |1\\rangle)/\\sqrt{2}$",
+        "$(|1\\rangle - |0\\rangle)/\\sqrt{2}$",
+        "$|1\\rangle$"
+      ],
+      "correctAnswer": "$(|0\\rangle + |1\\rangle)/\\sqrt{2}$"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The Pauli $X$ gate, also called the NOT gate, acts as",
+      "options": [
+        "$|0\\rangle \\to |1\\rangle$ and $|1\\rangle \\to |0\\rangle$",
+        "$|0\\rangle \\to |0\\rangle$ and $|1\\rangle \\to |1\\rangle$",
+        "$|0\\rangle \\to (|0\\rangle + |1\\rangle)/\\sqrt{2}$ and $|1\\rangle \\to (|0\\rangle - |1\\rangle)/\\sqrt{2}$",
+        "$|0\\rangle \\to -|1\\rangle$ and $|1\\rangle \\to -|0\\rangle$"
+      ],
+      "correctAnswer": "$|0\\rangle \\to |1\\rangle$ and $|1\\rangle \\to |0\\rangle$"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In a CNOT gate, the $X$ gate is applied to the target qubit when",
+      "options": [
+        "the control qubit is $|1\\rangle$",
+        "the control qubit is $|0\\rangle$",
+        "the target qubit is $|1\\rangle$",
+        "the two qubits are in a Bell state"
+      ],
+      "correctAnswer": "the control qubit is $|1\\rangle$"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "For the Bell state $|\\Phi^+\\rangle = (|00\\rangle + |11\\rangle)/\\sqrt{2}$, if qubit $A$ is measured in the computational basis, then measuring qubit $B$ will",
+      "options": [
+        "always give the same result as the measurement of $A$",
+        "always give the opposite result to the measurement of $A$",
+        "give a completely random result independent of $A$",
+        "give $|0\\rangle$ with probability $1/4$ and $|1\\rangle$ with probability $3/4$"
+      ],
+      "correctAnswer": "always give the same result as the measurement of $A$"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "If both qubits of $|\\Phi^+\\rangle = (|00\\rangle + |11\\rangle)/\\sqrt{2}$ are measured in the $X$ basis, the two outcomes will",
+      "options": [
+        "always be identical",
+        "always be opposite",
+        "be independent random results",
+        "agree with probability $1/2$ and disagree with probability $1/2$"
+      ],
+      "correctAnswer": "always be identical"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The no-cloning theorem states that",
+      "options": [
+        "it is impossible to create a perfect copy of an arbitrary unknown quantum state",
+        "a quantum state can always be copied provided enough energy and cooling are available",
+        "only entangled states can be copied, while separable states cannot",
+        "a quantum state can be copied only by a device that measures it first"
+      ],
+      "correctAnswer": "it is impossible to create a perfect copy of an arbitrary unknown quantum state"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The no-cloning theorem does not rule out a device that copies $|0\\rangle$ into a second qubit. Why is this consistent?",
+      "options": [
+        "The theorem applies to arbitrary unknown superpositions, not to states that are already known basis states",
+        "The theorem concerns only the spin of particles, not the polarisation of photons",
+        "A classical bit carries no phase information that a copying device would have to preserve",
+        "Copying a basis state simply amounts to applying a CNOT gate"
+      ],
+      "correctAnswer": "The theorem applies to arbitrary unknown superpositions, not to states that are already known basis states"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "An eavesdropper tries to store a perfect copy of every qubit sent over a quantum channel and to forward the originals. By the no-cloning theorem she will",
+      "options": [
+        "fail to produce a perfect copy, and her measurement will disturb the states and introduce detectable errors in the key",
+        "succeed perfectly, since measuring a photon does not change its state",
+        "succeed for single photons but fail for entangled pairs",
+        "be able to store exact copies and forward the originals completely unchanged"
+      ],
+      "correctAnswer": "fail to produce a perfect copy, and her measurement will disturb the states and introduce detectable errors in the key"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Two qubits are entangled when",
+      "options": [
+        "their joint state cannot be written as a product of a separate state for each qubit",
+        "each qubit is separately in a superposition of $|0\\rangle$ and $|1\\rangle$",
+        "the two qubits are located very close to one another in space",
+        "the two qubits differ in mass, charge or some other measurable property"
+      ],
+      "correctAnswer": "their joint state cannot be written as a product of a separate state for each qubit"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The 1935 paper of Einstein, Podolsky and Rosen matters for quantum cryptography because it",
+      "options": [
+        "introduced the idea of an entangled pair of particles whose properties are correlated regardless of their separation, which later became the resource for entanglement-based QKD",
+        "demonstrated that all quantum correlations can be reproduced by local hidden variables",
+        "introduced the notion of a macroscopic superposition such as Schrödinger's cat",
+        "proved that a quantum state can be copied with fidelity above the classical limit"
+      ],
+      "correctAnswer": "introduced the idea of an entangled pair of particles whose properties are correlated regardless of their separation, which later became the resource for entanglement-based QKD"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "How many maximally entangled two-qubit Bell states are there?",
+      "options": [
+        "Four: $|\\Phi^+\\rangle$, $|\\Phi^-\\rangle$, $|\\Psi^+\\rangle$ and $|\\Psi^-\\rangle$",
+        "Two: $|\\Phi^+\\rangle$ and $|\\Phi^-\\rangle$",
+        "Three, corresponding to the three Pauli operators $X$, $Y$ and $Z$",
+        "Sixteen, one for each two-qubit computational basis state"
+      ],
+      "correctAnswer": "Four: $|\\Phi^+\\rangle$, $|\\Phi^-\\rangle$, $|\\Psi^+\\rangle$ and $|\\Psi^-\\rangle$"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "The Bloch sphere represents the state of a single qubit using",
+      "options": [
+        "two real parameters, the polar angle $\\theta$ and the azimuthal angle $\\phi$",
+        "four real parameters, one for each possible computational basis outcome",
+        "three real parameters, since a qubit needs three independent complex amplitudes",
+        "one real parameter, since only $|0\\rangle$ and $|1\\rangle$ can occur in an experiment"
+      ],
+      "correctAnswer": "two real parameters, the polar angle $\\theta$ and the azimuthal angle $\\phi$"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which pair of states differs by a relative phase of $\\pi$?",
+      "options": [
+        "$|+\\rangle = (|0\\rangle + |1\\rangle)/\\sqrt{2}$ and $|-\\rangle = (|0\\rangle - |1\\rangle)/\\sqrt{2}$",
+        "$|+\\rangle$ and $i|+\\rangle$",
+        "$|0\\rangle$ and $|1\\rangle$",
+        "$|00\\rangle$ and $|01\\rangle$"
+      ],
+      "correctAnswer": "$|+\\rangle = (|0\\rangle + |1\\rangle)/\\sqrt{2}$ and $|-\\rangle = (|0\\rangle - |1\\rangle)/\\sqrt{2}$"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Two states $|\\psi\\rangle$ and $e^{i\\theta}|\\psi\\rangle$ differ only by a global phase. This means",
+      "options": [
+        "they are physically equivalent, since every measurement outcome probability is identical for both",
+        "they are different states that interfere differently inside an interferometer",
+        "only one of the two can be prepared by a physical apparatus",
+        "the two states are orthogonal to one another"
+      ],
+      "correctAnswer": "they are physically equivalent, since every measurement outcome probability is identical for both"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Quantum interference arises because",
+      "options": [
+        "probability amplitudes along alternative paths add before squaring, so they can reinforce or cancel",
+        "classical probabilities along alternative paths add before squaring",
+        "the particles collide with each other and scatter into new paths",
+        "the measuring apparatus introduces random noise into the observed result"
+      ],
+      "correctAnswer": "probability amplitudes along alternative paths add before squaring, so they can reinforce or cancel"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "A system of $n$ qubits has a Hilbert space of dimension",
+      "options": [
+        "$2^n$",
+        "$2n$",
+        "$n^2$",
+        "4 for any $n \\ge 2$"
+      ],
+      "correctAnswer": "$2^n$"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "In the Copenhagen description, a measurement of a qubit in a superposition state",
+      "options": [
+        "produces one definite outcome, and the state after the measurement is the corresponding basis state",
+        "leaves the state as the original superposition, but now with a known value",
+        "produces all possible outcomes at once, each carrying its probability amplitude",
+        "destroys the state so completely that no further measurement is possible"
+      ],
+      "correctAnswer": "produces one definite outcome, and the state after the measurement is the corresponding basis state"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "A qubit in the state $|-\\rangle = (|0\\rangle - |1\\rangle)/\\sqrt{2}$ is measured in the computational basis. The result is",
+      "options": [
+        "$|0\\rangle$ with probability $1/2$ and $|1\\rangle$ with probability $1/2$",
+        "$|0\\rangle$ with probability $1$",
+        "$|1\\rangle$ with probability $1$",
+        "always $|-\\rangle$, since the state is unchanged by the measurement"
+      ],
+      "correctAnswer": "$|0\\rangle$ with probability $1/2$ and $|1\\rangle$ with probability $1/2$"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Which statement correctly contrasts quantum gates with measurement?",
+      "options": [
+        "Quantum gates are unitary and reversible, while measurement is irreversible and destroys the phase information",
+        "Quantum gates are irreversible in the same way as measurement, because both create entropy",
+        "Both are reversible, so any measurement can be undone by applying a Hadamard gate",
+        "Quantum gates are deterministic only when the input state is an eigenstate of the gate"
+      ],
+      "correctAnswer": "Quantum gates are unitary and reversible, while measurement is irreversible and destroys the phase information"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "A qubit in an equal classical mixture of $|0\\rangle$ and $|1\\rangle$ differs from the superposition $|+\\rangle$ because the mixture",
+      "options": [
+        "shows no interference and no entanglement-like correlation, whereas a coherent superposition does",
+        "cannot be described by a wave function at all",
+        "must always be prepared by a classical random source and never by a quantum gate",
+        "has a larger Hilbert space than a coherent superposition of the same two states"
+      ],
+      "correctAnswer": "shows no interference and no entanglement-like correlation, whereas a coherent superposition does"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "title": "Quantum Cryptography: Applications and Future",
+  "description": "QKD networks, repeaters, satellites, post-quantum crypto, and quantum money",
+  "folder": "Extracurricular/Physics/Quantum Mechanics/Quantum Cryptography",
+  "field": "neutral",
+  "anki": true,
+  "tags": ["physics", "quantum", "cryptography", "quantum-computing"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The main commercial application of quantum cryptography today is",
+      "options": [
+        "quantum key distribution",
+        "quantum computing",
+        "quantum simulation of molecular spectra",
+        "quantum teleportation of data centres"
+      ],
+      "correctAnswer": "quantum key distribution"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A QKD link supplies its users with",
+      "options": [
+        "a shared secret key, which is then used with a conventional symmetric cipher",
+        "the encrypted message itself, secure without any classical cipher",
+        "a digital signature proving who signed the data",
+        "a random number generator with quantum-certified output"
+      ],
+      "correctAnswer": "a shared secret key, which is then used with a conventional symmetric cipher"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The Chinese satellite Micius, launched in 2016, is notable for",
+      "options": [
+        "demonstrating satellite-to-ground quantum key distribution over intercontinental distances",
+        "operating the first quantum computer accessible over the internet",
+        "storing quantum information in orbit for many years",
+        "transmitting data faster than light between ground stations"
+      ],
+      "correctAnswer": "demonstrating satellite-to-ground quantum key distribution over intercontinental distances"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Satellite-based QKD is attractive because",
+      "options": [
+        "the vacuum of space has very low loss, so one satellite can link ground stations thousands of kilometres apart",
+        "a satellite can amplify weak signals without adding noise",
+        "a satellite can copy unknown quantum states and forward them",
+        "atmospheric turbulence cancels the loss that occurs in optical fibre"
+      ],
+      "correctAnswer": "the vacuum of space has very low loss, so one satellite can link ground stations thousands of kilometres apart"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The main limitation on fibre-based QKD over long distances is",
+      "options": [
+        "the attenuation of light in the fibre, which reduces the photon arrival rate with distance",
+        "the Doppler shift of the photons during transmission",
+        "polarisation drift caused by ambient magnetic fields",
+        "the limited bandwidth of the electro-optic modulator"
+      ],
+      "correctAnswer": "the attenuation of light in the fibre, which reduces the photon arrival rate with distance"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "A quantum repeater is needed to extend a QKD link far beyond a short metropolitan distance because",
+      "options": [
+        "photons cannot be amplified without adding noise, so losses must be compensated by entanglement swapping",
+        "ordinary optical amplifiers can restore the photon count without adding noise",
+        "the sifted key must be regenerated at every few kilometres",
+        "the fibre has to be cooled in order to reduce thermal noise"
+      ],
+      "correctAnswer": "photons cannot be amplified without adding noise, so losses must be compensated by entanglement swapping"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In a quantum repeater network, entanglement swapping allows a",
+      "options": [
+        "chain of repeaters that each share entanglement with their neighbours to extend entanglement end to end",
+        "single repeater to create a long-distance pair in one step, with no intermediate nodes",
+        "user to verify the key by exchanging whole photon states",
+        "middle station to measure the photons and learn the key directly"
+      ],
+      "correctAnswer": "chain of repeaters that each share entanglement with their neighbours to extend entanglement end to end"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Building a full quantum-repeater network is difficult mainly because it requires",
+      "options": [
+        "long-lived quantum memories and high-fidelity entanglement purification at many intermediate nodes",
+        "a much larger classical computer at every node",
+        "optical amplifiers with unusually high gain",
+        "a synchronised atomic clock at each endpoint"
+      ],
+      "correctAnswer": "long-lived quantum memories and high-fidelity entanglement purification at many intermediate nodes"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Present-day QKD networks extend distance by using",
+      "options": [
+        "trusted relay nodes that handle key material and must be physically secured",
+        "untrusted quantum repeaters that need no special protection",
+        "geostationary satellites above every major city",
+        "amplifiers that regenerate the photons without adding noise"
+      ],
+      "correctAnswer": "trusted relay nodes that handle key material and must be physically secured"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A major practical limitation of current QKD systems is",
+      "options": [
+        "the low efficiency of single-photon detectors, so most transmitted photons are never detected",
+        "the short coherence time of the laser used to encode the bits",
+        "the inability of optical fibres to carry single photons at all",
+        "the limited number of polarisation angles available within a basis"
+      ],
+      "correctAnswer": "the low efficiency of single-photon detectors, so most transmitted photons are never detected"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which effect degrades a long fibre-based QKD link?",
+      "options": [
+        "polarisation drift caused by temperature fluctuations and by birefringence in the fibre",
+        "the gravitational redshift of the photons along the fibre",
+        "the magnetic field inside the fibre core",
+        "Doppler broadening of the laser linewidth"
+      ],
+      "correctAnswer": "polarisation drift caused by temperature fluctuations and by birefringence in the fibre"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Why must commercial QKD devices be carefully characterised and tested?",
+      "options": [
+        "an implementation can deviate from the ideal model and open side channels an eavesdropper can exploit",
+        "the laws of physics change at high key rates",
+        "photons cannot be counted accurately in any detector",
+        "classical key exchange always fails on optical links"
+      ],
+      "correctAnswer": "an implementation can deviate from the ideal model and open side channels an eavesdropper can exploit"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Post-quantum cryptography refers to",
+      "options": [
+        "classical algorithms such as lattice-, hash-, code- and multivariate-based schemes designed to resist quantum attacks",
+        "quantum algorithms that break current public-key systems faster",
+        "hardware that stores cryptographic keys on a quantum processor",
+        "protocols that transmit key material over quantum channels"
+      ],
+      "correctAnswer": "classical algorithms such as lattice-, hash-, code- and multivariate-based schemes designed to resist quantum attacks"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Lattice-based post-quantum schemes such as LWE and Module-LWE are believed secure because",
+      "options": [
+        "no efficient quantum algorithm is known for finding short vectors in high-dimensional lattices",
+        "they rest on the same hardness assumption as integer factoring",
+        "they require a quantum computer in order to be evaluated",
+        "their security follows directly from the no-cloning theorem"
+      ],
+      "correctAnswer": "no efficient quantum algorithm is known for finding short vectors in high-dimensional lattices"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Hash-based post-quantum signature schemes are built on",
+      "options": [
+        "the assumption that a cryptographic hash function has no practical preimage or collision",
+        "the difficulty of computing a discrete logarithm",
+        "the difficulty of solving a system of multivariate polynomial equations",
+        "the difficulty of decoding a random linear code"
+      ],
+      "correctAnswer": "the assumption that a cryptographic hash function has no practical preimage or collision"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Code-based post-quantum schemes are based on",
+      "options": [
+        "the presumed difficulty of decoding a random linear code",
+        "the presumed difficulty of factoring large integers",
+        "the presumed difficulty of inverting a hash function",
+        "the presumed difficulty of finding a shortest vector in a lattice"
+      ],
+      "correctAnswer": "the presumed difficulty of decoding a random linear code"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Multivariate post-quantum schemes are based on",
+      "options": [
+        "solving systems of multivariate polynomial equations over a finite field",
+        "factoring large composite integers",
+        "finding collisions in a cryptographic hash function",
+        "decoding a random linear code"
+      ],
+      "correctAnswer": "solving systems of multivariate polynomial equations over a finite field"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The NIST post-quantum standardisation process is significant because",
+      "options": [
+        "it has produced standardised algorithms for the post-quantum era, encouraging migration before quantum computers arrive",
+        "it has certified that RSA with a 2048-bit modulus can never be broken",
+        "it has banned all symmetric ciphers from government use",
+        "it has replaced every public-key algorithm with a quantum one"
+      ],
+      "correctAnswer": "it has produced standardised algorithms for the post-quantum era, encouraging migration before quantum computers arrive"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "A common migration strategy for organisations is",
+      "options": [
+        "deploying hybrid classical and post-quantum key exchange, so security holds if either scheme is unbroken",
+        "waiting until a cryptographically relevant quantum computer is announced",
+        "replacing all symmetric ciphers with one-time pads",
+        "moving all sensitive data into physically secured data centres"
+      ],
+      "correctAnswer": "deploying hybrid classical and post-quantum key exchange, so security holds if either scheme is unbroken"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "QKD technology is being deployed in practice mainly in settings where long-term secrecy matters, such as",
+      "options": [
+        "banks, government data centres and critical infrastructure networks",
+        "consumer messaging apps, where keys are rotated every second",
+        "home routers, which already encrypt with one-time pads",
+        "public websites, which serve identical content to all visitors"
+      ],
+      "correctAnswer": "banks, government data centres and critical infrastructure networks"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Wiesner's quantum money scheme is secure because",
+      "options": [
+        "the bank stores a token in a quantum state that a forger cannot copy",
+        "a classical banknote can be made unforgeable with a very long secret number",
+        "banknotes carry a quantum state that any bank can freely verify",
+        "the bank's private key is itself stored in a quantum register"
+      ],
+      "correctAnswer": "the bank stores a token in a quantum state that a forger cannot copy"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "A quantum digital signature provides",
+      "options": [
+        "proof that a message was sent by a particular sender and has not been altered",
+        "a shared secret key that both parties hold for encrypting future traffic",
+        "proof that a computation was performed by a quantum computer",
+        "a certificate that a public key has never been exposed to an eavesdropper"
+      ],
+      "correctAnswer": "proof that a message was sent by a particular sender and has not been altered"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What limits the immediate deployment of quantum cryptography networks?",
+      "options": [
+        "channel loss, decoherence and limited detector efficiency, together with the cost of specialised hardware",
+        "the absence of any agreed mathematical definition of entanglement",
+        "the fact that quantum states cannot survive transmission through optical fibre",
+        "the impossibility of generating random numbers quantum mechanically"
+      ],
+      "correctAnswer": "channel loss, decoherence and limited detector efficiency, together with the cost of specialised hardware"
+    }
+  ]
+}

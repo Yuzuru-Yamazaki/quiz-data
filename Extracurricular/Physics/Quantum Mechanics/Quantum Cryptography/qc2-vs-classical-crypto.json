@@ -1,0 +1,274 @@
+{
+  "title": "Quantum vs Classical Cryptography",
+  "description": "One-time pads, RSA, Shor and Grover, and information-theoretic security",
+  "folder": "Extracurricular/Physics/Quantum Mechanics/Quantum Cryptography",
+  "field": "neutral",
+  "anki": true,
+  "tags": ["physics", "quantum", "cryptography", "quantum-computing"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "In classical cryptography, the main task of an encryption algorithm is to",
+      "options": [
+        "convert a plaintext into a ciphertext that cannot be read without the key",
+        "make the ciphertext the same length as the plaintext",
+        "authenticate the sender of the message",
+        "compress the message to reduce its storage size"
+      ],
+      "correctAnswer": "convert a plaintext into a ciphertext that cannot be read without the key"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The Vernam one-time pad achieves perfect secrecy only if",
+      "options": [
+        "the key is truly random, at least as long as the message, and never reused",
+        "the key is a secret but short string that is easy to distribute",
+        "the key is derived from the plaintext with a secure hash function",
+        "the key is reused many times but is kept confidential forever"
+      ],
+      "correctAnswer": "the key is truly random, at least as long as the message, and never reused"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Why is the one-time pad perfectly secure?",
+      "options": [
+        "every plaintext of that length is consistent with the same ciphertext, so the ciphertext carries no information about the plaintext",
+        "the encryption algorithm is faster than any known classical attack",
+        "the key is stored inside a tamper-resistant hardware module",
+        "the key can only be computed from the ciphertext with great difficulty"
+      ],
+      "correctAnswer": "every plaintext of that length is consistent with the same ciphertext, so the ciphertext carries no information about the plaintext"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The main practical weakness of the one-time pad is",
+      "options": [
+        "the difficulty of distributing a key as long as the message",
+        "the slowness of the encryption operation",
+        "its vulnerability to frequency analysis",
+        "its reliance on a shared secret key"
+      ],
+      "correctAnswer": "the difficulty of distributing a key as long as the message"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Frequency analysis breaks classical substitution ciphers because",
+      "options": [
+        "the ciphertext preserves the statistical frequencies of the plaintext symbols",
+        "the cipher key is usually a word taken from a dictionary",
+        "the cipher is a linear map that Gaussian elimination inverts",
+        "the ciphertext is always shorter than the plaintext"
+      ],
+      "correctAnswer": "the ciphertext preserves the statistical frequencies of the plaintext symbols"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Public-key cryptography solves a problem that symmetric cryptography cannot solve by",
+      "options": [
+        "allowing two parties to establish a shared secret over a public channel, with no prior private key exchange",
+        "removing the need for randomness in key generation",
+        "making the encryption one-time and information-theoretically secure",
+        "eliminating the need for authentication certificates"
+      ],
+      "correctAnswer": "allowing two parties to establish a shared secret over a public channel, with no prior private key exchange"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The security of RSA rests on",
+      "options": [
+        "the practical difficulty of factoring a large product of two large primes",
+        "the difficulty of computing discrete logarithms",
+        "the one-wayness of a cryptographic hash function",
+        "the unpredictability of a randomly chosen prime"
+      ],
+      "correctAnswer": "the practical difficulty of factoring a large product of two large primes"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which statement about RSA key sizes is correct?",
+      "options": [
+        "larger moduli make factoring harder, which is why recommended RSA key sizes have grown over the decades",
+        "larger moduli make factoring easier because more candidate factors become available",
+        "RSA key size has no influence on the security of the scheme",
+        "RSA with a 2048-bit modulus is already known to be broken and cannot be deployed"
+      ],
+      "correctAnswer": "larger moduli make factoring harder, which is why recommended RSA key sizes have grown over the decades"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Shor's algorithm threatens public-key cryptography because it",
+      "options": [
+        "factors large integers and computes discrete logarithms in polynomial time on a quantum computer",
+        "searches an unsorted list of $N$ items in $\\sqrt{N}$ steps",
+        "simulates a large classical computer exactly, with no advantage of its own",
+        "brute-forces a symmetric key faster than Grover's search can"
+      ],
+      "correctAnswer": "factors large integers and computes discrete logarithms in polynomial time on a quantum computer"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Grover's algorithm improves unstructured search over $N$ candidates by",
+      "options": [
+        "reducing the number of queries from about $N$ to about $\\sqrt{N}$",
+        "reducing the number of queries to a polynomial in $N$",
+        "giving a constant-factor speedup of exactly $2$",
+        "increasing the number of required queries by a factor of $\\sqrt{N}$"
+      ],
+      "correctAnswer": "reducing the number of queries from about $N$ to about $\\sqrt{N}$"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "If Grover's algorithm is applied to a $k$-bit symmetric cipher key, the effective brute-force security becomes",
+      "options": [
+        "roughly $2^{k/2}$ candidate keys, i.e. about $k/2$ bits of security",
+        "roughly $2^{2k}$ candidate keys, i.e. $2k$ bits of security",
+        "unchanged at $2^k$ candidates, since Grover's algorithm needs the key to be public",
+        "negligible, because Grover's algorithm breaks any symmetric cipher in a few thousand operations"
+      ],
+      "correctAnswer": "roughly $2^{k/2}$ candidate keys, i.e. about $k/2$ bits of security"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The usual response to Grover's algorithm is to",
+      "options": [
+        "double the symmetric key length, for example moving from AES-128 to AES-256",
+        "switch to a one-time pad of the same key length",
+        "replace random keys with a fixed key agreed once and used forever",
+        "reduce the block size of the cipher"
+      ],
+      "correctAnswer": "double the symmetric key length, for example moving from AES-128 to AES-256"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "A cipher is said to be information-theoretically secure when",
+      "options": [
+        "the information an eavesdropper can obtain is bounded by a computable quantity no matter how much computing power is used",
+        "breaking it would require more computing power than is available today",
+        "the algorithm has been formally proven free of implementation errors",
+        "the key is long enough to make brute force impractical"
+      ],
+      "correctAnswer": "the information an eavesdropper can obtain is bounded by a computable quantity no matter how much computing power is used"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "In its ideal form, quantum cryptography differs from classical public-key cryptography because its security",
+      "options": [
+        "follows from the laws of physics rather than from the current difficulty of a computational problem",
+        "uses much longer keys than any classical scheme",
+        "allows information to be transmitted faster than light",
+        "requires no generation of random numbers at all"
+      ],
+      "correctAnswer": "follows from the laws of physics rather than from the current difficulty of a computational problem"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "A quantum channel allows something a classical channel cannot, namely",
+      "options": [
+        "transmitting a quantum state whose measurement statistics can reveal interception",
+        "faster-than-light transfer of information",
+        "unlimited bandwidth regardless of the distance involved",
+        "simultaneous transmission to an unlimited number of recipients"
+      ],
+      "correctAnswer": "transmitting a quantum state whose measurement statistics can reveal interception"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "A QKD system actually produces",
+      "options": [
+        "a shared secret key, which the users then use with a conventional cipher",
+        "the plaintext message itself, delivered without any classical cipher",
+        "a digital signature certifying the sender's identity",
+        "a quantum computer that performs the encryption"
+      ],
+      "correctAnswer": "a shared secret key, which the users then use with a conventional cipher"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "In QKD, the classical channel is required to be authenticated so that",
+      "options": [
+        "an eavesdropper cannot impersonate one of the two parties during the public exchange of bases and error data",
+        "the key material itself can be sent over the classical channel",
+        "the two parties can certify that their devices have not been tampered with",
+        "the measured error rate can be driven below the security threshold"
+      ],
+      "correctAnswer": "an eavesdropper cannot impersonate one of the two parties during the public exchange of bases and error data"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Why is QKD expected to resist attacks by future quantum computers while RSA does not?",
+      "options": [
+        "QKD security is based on physical principles rather than computational hardness, and can be proven secure even against unbounded computation",
+        "QKD keys are additionally encrypted with a quantum-resistant cipher",
+        "QKD networks are isolated from the public internet",
+        "QKD devices can detect and automatically reverse any quantum attack"
+      ],
+      "correctAnswer": "QKD security is based on physical principles rather than computational hardness, and can be proven secure even against unbounded computation"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Which statement about the difficulty of integer factoring is correct?",
+      "options": [
+        "no polynomial-time classical algorithm is known, but Shor's algorithm provides one on a quantum computer",
+        "factoring large integers is easy classically but slow on a quantum computer",
+        "factoring is already in polynomial time classically, so quantum computers add nothing",
+        "factoring is proven to require time exponential in the number of digits"
+      ],
+      "correctAnswer": "no polynomial-time classical algorithm is known, but Shor's algorithm provides one on a quantum computer"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Quantum computers threaten the Diffie-Hellman key exchange through",
+      "options": [
+        "Shor's algorithm applied to the discrete logarithm problem",
+        "Grover's search over the group elements",
+        "brute force over a small number of pre-shared values",
+        "measurement-induced collapse of the shared secret"
+      ],
+      "correctAnswer": "Shor's algorithm applied to the discrete logarithm problem"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Post-quantum cryptography differs from quantum cryptography because it",
+      "options": [
+        "runs on ordinary computers using classical algorithms designed to resist quantum attacks",
+        "uses the same qubit hardware as QKD systems",
+        "guarantees information-theoretic security against every future attack",
+        "transmits key material over quantum channels"
+      ],
+      "correctAnswer": "runs on ordinary computers using classical algorithms designed to resist quantum attacks"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "A source of true unpredictability is essential in quantum key generation because",
+      "options": [
+        "predictable basis choices would let an adversary know which measurements to make in order to avoid detection",
+        "a deterministic generator cannot be implemented in hardware",
+        "quantum measurement always consumes randomness as a resource",
+        "classical random number generators are far too slow to keep up with the qubit rate"
+      ],
+      "correctAnswer": "predictable basis choices would let an adversary know which measurements to make in order to avoid detection"
+    }
+  ]
+}
