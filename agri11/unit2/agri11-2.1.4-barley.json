@@ -1,0 +1,322 @@
+{
+  "title": "2.1.4 Barley Production and Management",
+  "description": "Barley: origin, malting, production practices, management and yield",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["agriculture", "grade11", "unit2"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the scientific name of barley?",
+      "options": [
+        "Hordeum vulgare L.",
+        "Triticum aestivum L.",
+        "Sorghum bicolor L.",
+        "Pisum sativum L."
+      ],
+      "correctAnswer": "Hordeum vulgare L."
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Where is barley believed to have originated?",
+      "options": [
+        "The Middle East",
+        "The Asian continent, mainly China and India",
+        "Central America",
+        "The Mediterranean region"
+      ],
+      "correctAnswer": "The Middle East"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "How do the growth requirements of barley compare with those of wheat?",
+      "options": [
+        "They are comparable",
+        "Barley needs much lower temperatures than wheat",
+        "Barley grows only in lowland areas while wheat grows in the highlands",
+        "Barley grows on saline soils while wheat grows on loam soils"
+      ],
+      "correctAnswer": "They are comparable"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "How is barley used as human food and as livestock feed?",
+      "options": [
+        "The grain is used as human food and the residue is used as livestock feed",
+        "The residue is used as human food and the grain is fed to animals",
+        "The grain is used as human food and the straw is used as fence material",
+        "Both the grain and the residue are used as human food"
+      ],
+      "correctAnswer": "The grain is used as human food and the residue is used as livestock feed"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "For what special purpose is barley used in industry?",
+      "options": [
+        "Malting during the production of alcoholic beverages",
+        "Starch and oil production",
+        "Production of cooking oil",
+        "Production of sugar and syrup"
+      ],
+      "correctAnswer": "Malting during the production of alcoholic beverages"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What is malting?",
+      "options": [
+        "A process of controlled germination that produces enzymes converting cereal starch to sugars",
+        "A process of drying harvested grain in the sun",
+        "A process of boiling grain in water to produce porridge",
+        "A process of grinding grain into flour"
+      ],
+      "correctAnswer": "A process of controlled germination that produces enzymes converting cereal starch to sugars"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What is done to the sugars produced during malting?",
+      "options": [
+        "They are fermented to produce alcohol",
+        "They are dried to produce flour",
+        "They are fed to livestock",
+        "They are stored to produce starch"
+      ],
+      "correctAnswer": "They are fermented to produce alcohol"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "At what altitude range does barley grow in Ethiopia?",
+      "options": [
+        "$2200$ to $3000$ m above sea level",
+        "$1800$ to $3000$ m above sea level",
+        "$1400$ to $2000$ m above sea level",
+        "$500$ to $1500$ m above sea level"
+      ],
+      "correctAnswer": "$2200$ to $3000$ m above sea level"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which soil is suitable for barley production?",
+      "options": [
+        "Well-drained loam soil",
+        "Heavy waterlogged clay soil",
+        "Sandy soil with very low fertility",
+        "Saline coastal soil"
+      ],
+      "correctAnswer": "Well-drained loam soil"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "How many times should the soil be cultivated before planting barley?",
+      "options": [
+        "2 to 3 times",
+        "4 or 5 times",
+        "Once only",
+        "6 or 7 times"
+      ],
+      "correctAnswer": "2 to 3 times"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "How is barley land preparation similar to wheat land preparation?",
+      "options": [
+        "Both require soil to be cultivated 2 to 3 times before planting",
+        "Both require the soil to be cultivated 4 or 5 times and levelled",
+        "Both require only a single ploughing before planting",
+        "Both require the plot to be smoothed by driving animals on it"
+      ],
+      "correctAnswer": "Both require soil to be cultivated 2 to 3 times before planting"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which planting methods are used for barley?",
+      "options": [
+        "Broadcast planting or row planting",
+        "Row planting and transplanting",
+        "Broadcast planting and seedling transplantation",
+        "Only dibbling"
+      ],
+      "correctAnswer": "Broadcast planting or row planting"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "When barley is planted in rows, what spacing is used between rows?",
+      "options": [
+        "$25$ cm",
+        "$30$ cm",
+        "$40$ cm",
+        "$75$ cm"
+      ],
+      "correctAnswer": "$25$ cm"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "At what depth are barley seeds planted?",
+      "options": [
+        "About $5$ cm",
+        "About $2.5$ cm",
+        "About $10$ cm",
+        "About $1$ cm"
+      ],
+      "correctAnswer": "About $5$ cm"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "How much nitrogen do farmers usually apply per hectare for food barley production?",
+      "options": [
+        "$60$ kg",
+        "$45$ kg",
+        "$32$ kg",
+        "$41$ kg"
+      ],
+      "correctAnswer": "$60$ kg"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "How much phosphorus do farmers usually apply per hectare for food barley production?",
+      "options": [
+        "$26$ kg",
+        "$25$ kg",
+        "$20$ kg",
+        "$10$ kg"
+      ],
+      "correctAnswer": "$26$ kg"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Why is the nitrogen application rate reduced for barley used for malting?",
+      "options": [
+        "High levels of nitrogen application reduce the malt quality",
+        "High levels of nitrogen application damage the seeds",
+        "Nitrogen application makes malting barley lodge easily",
+        "Nitrogen attracts more insect pests during malting"
+      ],
+      "correctAnswer": "High levels of nitrogen application reduce the malt quality"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "What is the relationship between the weeds and diseases of barley and those of wheat?",
+      "options": [
+        "Most weeds and diseases that affect wheat also affect barley",
+        "Barley is affected only by weeds and is free from wheat diseases",
+        "The weeds of barley are completely different from those of wheat",
+        "Barley diseases occur only in the lowlands while wheat diseases occur in the highlands"
+      ],
+      "correctAnswer": "Most weeds and diseases that affect wheat also affect barley"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Which control measures are used for the weeds and diseases of barley?",
+      "options": [
+        "Resistant varieties, crop rotation and changing planting times",
+        "Deep ploughing, earthing up and staking",
+        "Irrigation, mulching and shading",
+        "Grain drying, storage and marketing"
+      ],
+      "correctAnswer": "Resistant varieties, crop rotation and changing planting times"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Which are the major insect pests affecting barley production?",
+      "options": [
+        "Army worm, grasshopper and barley shoot fly",
+        "Maize stalk borer, aphids and weevil",
+        "African ball worm, aphids and bean fly",
+        "Striga, rust and smut"
+      ],
+      "correctAnswer": "Army worm, grasshopper and barley shoot fly"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "How long does barley usually take to mature?",
+      "options": [
+        "3 to 4 months",
+        "About 2 months",
+        "About 5 months",
+        "About 6 months"
+      ],
+      "correctAnswer": "3 to 4 months"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "What is the indicator that barley has reached maturity?",
+      "options": [
+        "Drying and yellowing of the plant",
+        "The grains developing a black layer",
+        "The pods drying and changing colour from green to black",
+        "The grain moisture dropping to about $30$%"
+      ],
+      "correctAnswer": "Drying and yellowing of the plant"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What is the national average yield of barley in Ethiopia?",
+      "options": [
+        "$19$ quintals ($1.9$ t) per hectare",
+        "$24.5$ quintals ($2.45$ t) per hectare",
+        "$23$ quintals ($2.3$ t) per hectare",
+        "$14.6$ quintals ($1.46$ t) per hectare"
+      ],
+      "correctAnswer": "$19$ quintals ($1.9$ t) per hectare"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Which nutrients is barley a source of?",
+      "options": [
+        "Carbohydrates, proteins, fats and fibre",
+        "Carbohydrates, proteins, fats, minerals and fibre",
+        "Only carbohydrates and fibre",
+        "Proteins, fats and minerals"
+      ],
+      "correctAnswer": "Carbohydrates, proteins, fats and fibre"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Barley is a cereal crop whose seeds have which feature?",
+      "options": [
+        "A single cotyledon",
+        "Two cotyledons",
+        "Three cotyledons",
+        "Root nodules"
+      ],
+      "correctAnswer": "A single cotyledon"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Which is the correct sequence of land preparation, planting and fertilization for food barley production?",
+      "options": [
+        "Cultivate soil $2$ to $3$ times, sow broadcast or in rows $25$ cm apart at $5$ cm depth, apply $60$ kg nitrogen and $26$ kg phosphorus per hectare",
+        "Cultivate soil $4$ or $5$ times, sow in rows $20$ cm apart at $1$ cm depth, apply $45$ kg nitrogen and $25$ kg phosphorus per hectare",
+        "Cultivate soil once, sow in rows $75$ cm apart at $7$ cm depth, apply $41$ kg nitrogen and $20$ kg phosphorus per hectare",
+        "Cultivate soil $6$ times, sow at $2.5$ cm depth in rows $40$ cm apart, apply $32$ kg nitrogen and $10$ kg phosphorus per hectare"
+      ],
+      "correctAnswer": "Cultivate soil $2$ to $3$ times, sow broadcast or in rows $25$ cm apart at $5$ cm depth, apply $60$ kg nitrogen and $26$ kg phosphorus per hectare"
+    }
+  ]
+}

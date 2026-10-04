@@ -1,0 +1,399 @@
+{
+  "title": "2.1.2 Maize Production and Management",
+  "description": "Maize: production practices, management and yield",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "maize"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Maize most likely originated in",
+      "options": [
+        "Central America",
+        "Ethiopia",
+        "India",
+        "China"
+      ],
+      "correctAnswer": "Central America"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Maize gives",
+      "options": [
+        "low yield per unit area",
+        "high yield per unit area",
+        "no yield",
+        "very low yield"
+      ],
+      "correctAnswer": "high yield per unit area"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Husk protects maize seeds from",
+      "options": [
+        "rain and birds",
+        "sun only",
+        "frost only",
+        "wind only"
+      ],
+      "correctAnswer": "rain and birds"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Maize does not shatter on drying so it can be harvested at",
+      "options": [
+        "late maturity",
+        "very early stage",
+        "flowering stage",
+        "tasseling stage"
+      ],
+      "correctAnswer": "late maturity"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Maize is mainly produced for its seeds to be used as",
+      "options": [
+        "a staple food",
+        "timber",
+        "fiber crop",
+        "medicinal crop"
+      ],
+      "correctAnswer": "a staple food"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Maize is used as animal feed when",
+      "options": [
+        "green or after drying",
+        "completely rotten",
+        "burnt",
+        "moldy"
+      ],
+      "correctAnswer": "green or after drying"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Maize residues are used as",
+      "options": [
+        "firewood in rural areas",
+        "building blocks",
+        "glass",
+        "plastic"
+      ],
+      "correctAnswer": "firewood in rural areas"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Maize is used industrially to produce",
+      "options": [
+        "starch and oil",
+        "paper only",
+        "rubber",
+        "textiles only"
+      ],
+      "correctAnswer": "starch and oil"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Suitable altitude range for maize is",
+      "options": [
+        "$500$ to $2400$ meters above sea level",
+        "$50$ to $200$ m",
+        "$3000$ to $3500$ m",
+        "$100$ to $400$ m"
+      ],
+      "correctAnswer": "$500$ to $2400$ meters above sea level"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "In Ethiopia maize yields per unit area are",
+      "options": [
+        "the highest compared to other cereals",
+        "the lowest",
+        "about average",
+        "the same as others"
+      ],
+      "correctAnswer": "the highest compared to other cereals"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Maize ranks in area of production as",
+      "options": [
+        "second to teff",
+        "first",
+        "third",
+        "fifth"
+      ],
+      "correctAnswer": "second to teff"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Better soils for maize are loam soils that",
+      "options": [
+        "do not accumulate excess moisture",
+        "are waterlogged",
+        "hold excess water",
+        "have poor drainage"
+      ],
+      "correctAnswer": "do not accumulate excess moisture"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Maize can be grown as mixed crop with",
+      "options": [
+        "haricot beans",
+        "only teff",
+        "only wheat",
+        "only barley"
+      ],
+      "correctAnswer": "haricot beans"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Land preparation for maize involves plowing",
+      "options": [
+        "$2$ or $3$ times",
+        "$1$ time only",
+        "$4$ or $5$ times",
+        "$6$ times"
+      ],
+      "correctAnswer": "$2$ or $3$ times"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "If chemicals control weeds, maize planting can follow plowing",
+      "options": [
+        "$1$ or $2$ times",
+        "$5$ times",
+        "$4$ times",
+        "$3$ times"
+      ],
+      "correctAnswer": "$1$ or $2$ times"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Row spacing for maize is $25$ cm between seeds and",
+      "options": [
+        "$75$ cm between rows",
+        "$20$ cm between rows",
+        "$50$ cm between rows",
+        "$40$ cm between rows"
+      ],
+      "correctAnswer": "$75$ cm between rows"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Maize sowing depth is",
+      "options": [
+        "$5$ to $7$ cm",
+        "$1$ to $2$ cm",
+        "$10$ to $12$ cm",
+        "$15$ cm"
+      ],
+      "correctAnswer": "$5$ to $7$ cm"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Common maize planting time is start of rainy season",
+      "options": [
+        "March to April",
+        "December to January",
+        "October to November",
+        "August to September"
+      ],
+      "correctAnswer": "March to April"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Recommended maize fertilizer is $41$ kg nitrogen and",
+      "options": [
+        "$20$ kg phosphorus per hectare",
+        "$26$ kg phosphorus",
+        "$60$ kg phosphorus",
+        "$30$ kg phosphorus"
+      ],
+      "correctAnswer": "$20$ kg phosphorus per hectare"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Maize fertilizer rate should be based on",
+      "options": [
+        "soil fertility level",
+        "seed price",
+        "labor cost",
+        "market demand"
+      ],
+      "correctAnswer": "soil fertility level"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Weed control in maize is done by manual weeding $2$-$3$ times or",
+      "options": [
+        "chemical herbicides",
+        "burning fields",
+        "deep plowing only",
+        "flooding"
+      ],
+      "correctAnswer": "chemical herbicides"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Atrazine is classified as",
+      "options": [
+        "pre-emergence herbicide",
+        "post-emergence herbicide",
+        "fungicide",
+        "insecticide"
+      ],
+      "correctAnswer": "pre-emergence herbicide"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "2,4-D is classified as",
+      "options": [
+        "post-emergence herbicide",
+        "pre-emergence herbicide",
+        "fertilizer",
+        "growth regulator only"
+      ],
+      "correctAnswer": "post-emergence herbicide"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Insect pests of maize include",
+      "options": [
+        "maize stalk borer, aphids, army worm and weevil",
+        "termites only",
+        "locusts only",
+        "beetles only"
+      ],
+      "correctAnswer": "maize stalk borer, aphids, army worm and weevil"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Maize fungal diseases include rust, gray leaf spot, blight; viral disease includes",
+      "options": [
+        "strike virus",
+        "mosaic virus",
+        "yellow virus",
+        "curl virus"
+      ],
+      "correctAnswer": "strike virus"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Earthing up around maize about a month after planting reduces",
+      "options": [
+        "lodging due to wind",
+        "weed growth",
+        "pest attack",
+        "drought effect"
+      ],
+      "correctAnswer": "lodging due to wind"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Early maturing maize varieties reach harvest in",
+      "options": [
+        "$3$ months",
+        "$5$ months",
+        "$6$ months",
+        "$4$ months"
+      ],
+      "correctAnswer": "$3$ months"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Late maturing maize varieties take up to",
+      "options": [
+        "$5$ months",
+        "$2$ months",
+        "$3$ months",
+        "$1$ month"
+      ],
+      "correctAnswer": "$5$ months"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "Maize is ready for harvest when seeds develop a",
+      "options": [
+        "black layer at the bottom tip",
+        "white layer",
+        "green spot",
+        "red ring"
+      ],
+      "correctAnswer": "black layer at the bottom tip"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "Maize grain moisture at harvest is about",
+      "options": [
+        "$25\\%$",
+        "$10\\%$",
+        "$15\\%$",
+        "$20\\%$"
+      ],
+      "correctAnswer": "$25\\%$"
+    },
+    {
+      "id": 31,
+      "anki": true,
+      "question": "For suitable storage, maize grain moisture must be reduced to",
+      "options": [
+        "$13\\%$ or lower",
+        "$25\\%$",
+        "$20\\%$",
+        "$18\\%$"
+      ],
+      "correctAnswer": "$13\\%$ or lower"
+    },
+    {
+      "id": 32,
+      "anki": true,
+      "question": "Average national yield of maize is",
+      "options": [
+        "$32.5$ quintals ($3.25$ t) per hectare",
+        "$14.6$ quintals",
+        "$20$ quintals",
+        "$10$ quintals"
+      ],
+      "correctAnswer": "$32.5$ quintals ($3.25$ t) per hectare"
+    }
+  ]
+}

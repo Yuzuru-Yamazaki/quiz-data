@@ -1,0 +1,346 @@
+{
+  "title": "2.1.3 Wheat Production and Management",
+  "description": "Wheat: origin, production practices, management and yield",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["agriculture", "grade11", "unit2"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the scientific name of wheat?",
+      "options": [
+        "Triticum aestivum L.",
+        "Hordeum vulgare L.",
+        "Sorghum bicolor L.",
+        "Zea mays L."
+      ],
+      "correctAnswer": "Triticum aestivum L."
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Where is wheat believed to have originated?",
+      "options": [
+        "The Asian continent, mainly in China, Pakistan and India",
+        "The Middle East",
+        "Central America",
+        "Africa"
+      ],
+      "correctAnswer": "The Asian continent, mainly in China, Pakistan and India"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "How is wheat ranked among cereal crops globally?",
+      "options": [
+        "It is the most important cereal, followed by rice and maize",
+        "It is the third most important cereal, after maize and rice",
+        "It is the most important cereal, followed by maize and teff",
+        "It ranks behind sorghum and millet in global importance"
+      ],
+      "correctAnswer": "It is the most important cereal, followed by rice and maize"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which food types are made from wheat?",
+      "options": [
+        "Bread, macaroni and spaghetti",
+        "Injera, tej and kisra",
+        "Porridge, couscous and polenta",
+        "Oats, barley and millet"
+      ],
+      "correctAnswer": "Bread, macaroni and spaghetti"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What kind of weather does wheat require in order to grow?",
+      "options": [
+        "Cool weather",
+        "Hot and humid weather",
+        "Warm and frosty weather",
+        "Cool and very wet weather"
+      ],
+      "correctAnswer": "Cool weather"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "At what altitude range does wheat grow widely in Ethiopia?",
+      "options": [
+        "$1800$ to $3000$ m above sea level",
+        "$500$ to $1500$ m above sea level",
+        "$2200$ to $3000$ m above sea level",
+        "$1800$ to $2400$ m above sea level"
+      ],
+      "correctAnswer": "$1800$ to $3000$ m above sea level"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which soil conditions are suitable for wheat production?",
+      "options": [
+        "Well drained, loamy and fertile soils",
+        "Heavy clay soils that hold excess moisture",
+        "Sandy soils with very low fertility",
+        "Waterlogged soils near river banks"
+      ],
+      "correctAnswer": "Well drained, loamy and fertile soils"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which soil colours are stated as suitable for wheat production?",
+      "options": [
+        "Black, red and brown soils",
+        "Grey and white sands",
+        "Black and volcanic ash soils",
+        "Red, grey and black soils"
+      ],
+      "correctAnswer": "Black, red and brown soils"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "With which crops is wheat usually rotated?",
+      "options": [
+        "Lentils, pea, teff and potato",
+        "Maize, sorghum and haricot bean",
+        "Faba bean, field pea and haricot bean",
+        "Sesame, cotton and soybean"
+      ],
+      "correctAnswer": "Lentils, pea, teff and potato"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "How many times is the soil cultivated before wheat is planted?",
+      "options": [
+        "2 or 3 times",
+        "4 or 5 times",
+        "Once only",
+        "6 or 7 times"
+      ],
+      "correctAnswer": "2 or 3 times"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which planting methods are used for wheat?",
+      "options": [
+        "Broadcast planting and row planting",
+        "Row planting and transplanting",
+        "Broadcast planting and dibbling only",
+        "Row planting and seedling transplantation"
+      ],
+      "correctAnswer": "Broadcast planting and row planting"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "What spacing is commonly used between planting rows for wheat?",
+      "options": [
+        "About $25$ cm",
+        "About $40$ cm",
+        "About $75$ cm",
+        "About $2.5$ cm"
+      ],
+      "correctAnswer": "About $25$ cm"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "At what depth are wheat seeds usually sown?",
+      "options": [
+        "About $5$ cm",
+        "About $2.5$ cm",
+        "About $10$ cm",
+        "About $1$ cm"
+      ],
+      "correctAnswer": "About $5$ cm"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "When is the most common planting time for wheat?",
+      "options": [
+        "Between June and July",
+        "Between March and May",
+        "Between July and August",
+        "Between November and December"
+      ],
+      "correctAnswer": "Between June and July"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "How much nitrogen do farmers usually apply per hectare for wheat?",
+      "options": [
+        "$45$ kg",
+        "$60$ kg",
+        "$32$ kg",
+        "$41$ kg"
+      ],
+      "correctAnswer": "$45$ kg"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "How much phosphorus do farmers usually apply per hectare for wheat?",
+      "options": [
+        "$25$ kg",
+        "$26$ kg",
+        "$20$ kg",
+        "$10$ kg"
+      ],
+      "correctAnswer": "$25$ kg"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What determines the fertilizer application rate for wheat?",
+      "options": [
+        "The level of soil fertility",
+        "The age of the farmer",
+        "The distance to the market",
+        "The type of harvester used"
+      ],
+      "correctAnswer": "The level of soil fertility"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "When does manual weeding of wheat usually begin?",
+      "options": [
+        "About a month after planting",
+        "About two weeks after planting",
+        "At the time of flowering",
+        "Immediately after harvesting"
+      ],
+      "correctAnswer": "About a month after planting"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Which chemical is used to control broad leaf weeds in wheat fields?",
+      "options": [
+        "$2,4-D$",
+        "Atrazine",
+        "Glyphosate",
+        "Urea"
+      ],
+      "correctAnswer": "$2,4-D$"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Which fungal diseases are common in wheat, particularly in warm areas with high humidity?",
+      "options": [
+        "Rust and smut",
+        "Blight and gray leaf spot",
+        "Wilt and damping off",
+        "Rust and blast"
+      ],
+      "correctAnswer": "Rust and smut"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Which approach helps to prevent rust and smut from matching the most susceptible stage of wheat?",
+      "options": [
+        "Modifying the planting time",
+        "Increasing the seeding rate",
+        "Applying lime to the soil",
+        "Irrigating the crop heavily"
+      ],
+      "correctAnswer": "Modifying the planting time"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Which set of measures is used to control fungal diseases of wheat?",
+      "options": [
+        "Crop rotation, resistant varieties and modifying planting time",
+        "Broadcast planting, irrigation and hand weeding",
+        "Deep ploughing, earthing up and staking",
+        "Grain drying, storage and marketing"
+      ],
+      "correctAnswer": "Crop rotation, resistant varieties and modifying planting time"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What indicates that wheat is ready for harvest?",
+      "options": [
+        "It dries to a golden yellow colour with no green parts left",
+        "The grains develop a black layer at the bottom tip",
+        "The stems and panicle turn yellow while still green",
+        "The leaves fall off and the pods turn black"
+      ],
+      "correctAnswer": "It dries to a golden yellow colour with no green parts left"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "What is the national average yield of wheat in Ethiopia?",
+      "options": [
+        "$24.5$ quintals ($2.45$ t) per hectare",
+        "$19$ quintals ($1.9$ t) per hectare",
+        "$23$ quintals ($2.3$ t) per hectare",
+        "$32.5$ quintals ($3.25$ t) per hectare"
+      ],
+      "correctAnswer": "$24.5$ quintals ($2.45$ t) per hectare"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Which nutrients does wheat supply as an important food source?",
+      "options": [
+        "Carbohydrates, proteins, fats, minerals and fibre",
+        "Only carbohydrates",
+        "Vitamins, minerals and water",
+        "Fibre, oils and organic acids"
+      ],
+      "correctAnswer": "Carbohydrates, proteins, fats, minerals and fibre"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Which of the following is a cereal crop that contains gluten?",
+      "options": [
+        "Wheat",
+        "Teff",
+        "Maize",
+        "Sorghum"
+      ],
+      "correctAnswer": "Wheat"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Wheat is a cereal crop, so its seeds are described as having what?",
+      "options": [
+        "A single cotyledon",
+        "Two cotyledons",
+        "No cotyledon",
+        "Four cotyledons"
+      ],
+      "correctAnswer": "A single cotyledon"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Which is the correct sequence of land preparation, planting and fertilization for wheat production?",
+      "options": [
+        "Cultivate soil $2$ or $3$ times, plant broadcast or in rows $25$ cm apart at $5$ cm depth, apply $45$ kg nitrogen and $25$ kg phosphorus per hectare",
+        "Cultivate soil $4$ or $5$ times, plant in rows $20$ cm apart at $1$ cm depth, apply $60$ kg nitrogen and $26$ kg phosphorus per hectare",
+        "Cultivate soil once, plant in rows $75$ cm apart at $7$ cm depth, apply $41$ kg nitrogen and $20$ kg phosphorus per hectare",
+        "Cultivate soil $6$ times, transplant seedlings at $30$ cm spacing, apply $32$ kg nitrogen and $10$ kg phosphorus per hectare"
+      ],
+      "correctAnswer": "Cultivate soil $2$ or $3$ times, plant broadcast or in rows $25$ cm apart at $5$ cm depth, apply $45$ kg nitrogen and $25$ kg phosphorus per hectare"
+    }
+  ]
+}

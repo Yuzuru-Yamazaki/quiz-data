@@ -1,0 +1,554 @@
+{
+  "title": "1.4 Classification of Crop Plants",
+  "description": "Food, oil, fibre and forage crops; monocots vs dicots; C3 vs C4 plants",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "How many major categories are crop plants classified into?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": "Four"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The four major categories of crop plants are:",
+      "options": [
+        "Cereals, legumes, vegetables, fruits",
+        "Food crops, oil crops, fibre crops and sugar crops",
+        "Grains, tubers, spices, oilseeds",
+        "Field crops, cash crops, forage, vegetables"
+      ],
+      "correctAnswer": "Food crops, oil crops, fibre crops and sugar crops"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Globally, the three most important food crops in terms of volume of production are:",
+      "options": [
+        "Teff, wheat, maize",
+        "Rice, sorghum, barley",
+        "Wheat, rice and maize",
+        "Maize, barley, oats"
+      ],
+      "correctAnswer": "Wheat, rice and maize"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Other important food crops globally include:",
+      "options": [
+        "Sorghum, barley and oats",
+        "Beans, peas, lentils",
+        "Cotton, flax, jute",
+        "Alfalfa, clover, sesbania"
+      ],
+      "correctAnswer": "Sorghum, barley and oats"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "In Ethiopia, in terms of area of cultivation, the top five major crops are:",
+      "options": [
+        "Maize, rice, sorghum, wheat, barley",
+        "Teff, wheat, maize, sorghum and barley",
+        "Wheat, teff, rice, bean, pea",
+        "Sorghum, maize, teff, oat, millet"
+      ],
+      "correctAnswer": "Teff, wheat, maize, sorghum and barley"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Monocots are flowering plants whose seeds contain:",
+      "options": [
+        "Two embryonic leaves (cotyledons)",
+        "No cotyledon",
+        "Only one embryonic leaf or cotyledon",
+        "Three cotyledons"
+      ],
+      "correctAnswer": "Only one embryonic leaf or cotyledon"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Dicots are flowering plants whose seeds contain:",
+      "options": [
+        "Only one embryonic leaf",
+        "Two embryonic leaves (cotyledons)",
+        "No endosperm",
+        "A single stamen"
+      ],
+      "correctAnswer": "Two embryonic leaves (cotyledons)"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The seed leaf within the embryo of the seed that serves as a food source for the plant embryo to germinate is called:",
+      "options": [
+        "Endosperm",
+        "Cotyledon",
+        "Radicle",
+        "Plumule"
+      ],
+      "correctAnswer": "Cotyledon"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Tissue produced inside the seeds of flowering plants that provides nutrition in the form of starch is called:",
+      "options": [
+        "Cotyledon",
+        "Endosperm",
+        "Hypocotyl",
+        "Epicotyl"
+      ],
+      "correctAnswer": "Endosperm"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "In monocot crops, food is primarily stored in the:",
+      "options": [
+        "Cotyledons",
+        "Endosperm",
+        "Testa",
+        "Embryo axis"
+      ],
+      "correctAnswer": "Endosperm"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "In dicot crops such as legumes and oil seeds, food is stored in the:",
+      "options": [
+        "Endosperm",
+        "Cotyledons",
+        "Pericarp",
+        "Bract"
+      ],
+      "correctAnswer": "Cotyledons"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The endosperm of monocots contains mainly:",
+      "options": [
+        "Oil and protein only",
+        "Starch and small quantities of protein and other nutrients",
+        "Cellulose and lignin",
+        "Sugars and fats only"
+      ],
+      "correctAnswer": "Starch and small quantities of protein and other nutrients"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The cotyledons of dicot grain crops such as legumes and oil seeds have high amounts of:",
+      "options": [
+        "Water and fiber",
+        "Protein, oil and some carbohydrates",
+        "Minerals only",
+        "Starch only"
+      ],
+      "correctAnswer": "Protein, oil and some carbohydrates"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Important food and feed legumes or oil seed grains include:",
+      "options": [
+        "Soybean, peanut, beans and peas",
+        "Cotton, jute, flax, hemp",
+        "Alfalfa, clover, timothy",
+        "Wheat, rice, maize, teff"
+      ],
+      "correctAnswer": "Soybean, peanut, beans and peas"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Protein in dicot plants is low in:",
+      "options": [
+        "Certain essential amino acids",
+        "All amino acids",
+        "Non-essential amino acids",
+        "Branched-chain amino acids"
+      ],
+      "correctAnswer": "Certain essential amino acids"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Oil crops or oil seed crops are grown in order to:",
+      "options": [
+        "Produce fiber",
+        "Extract the oil contained in their seeds",
+        "Provide forage for animals",
+        "Increase soil organic matter"
+      ],
+      "correctAnswer": "Extract the oil contained in their seeds"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Major oil seeds include:",
+      "options": [
+        "Olive, linseed, sesame, sunflower, soybean, coconut, palm, maize and peanut",
+        "Wheat, barley, teff, sorghum",
+        "Flax, jute, hemp, ramie",
+        "Alfalfa, desho, rhodes, panicum"
+      ],
+      "correctAnswer": "Olive, linseed, sesame, sunflower, soybean, coconut, palm, maize and peanut"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Plant-derived oils are used for:",
+      "options": [
+        "Food only",
+        "Industrial purposes only",
+        "Food as well as for industrial purposes",
+        "Animal bedding only"
+      ],
+      "correctAnswer": "Food as well as for industrial purposes"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Oils supply two essential fatty acids, which are:",
+      "options": [
+        "Oleic and stearic acids",
+        "Linoleic and alpha-linolenic acids",
+        "Palmitic and myristic acids",
+        "Arachidic and behenic acids"
+      ],
+      "correctAnswer": "Linoleic and alpha-linolenic acids"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Oils also supply vitamins:",
+      "options": [
+        "A, B, C and E",
+        "A, K, D and E",
+        "B1, B2, B6 and C",
+        "K, C, D and folate"
+      ],
+      "correctAnswer": "A, K, D and E"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Oils and fats are composed of:",
+      "options": [
+        "Monosaccharides",
+        "Triglycerides",
+        "Amino acids",
+        "Nucleotides"
+      ],
+      "correctAnswer": "Triglycerides"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Triglycerides are composed of:",
+      "options": [
+        "Glucose and fructose",
+        "Glycerine and three fatty acids",
+        "Glycerol and two fatty acids",
+        "Amino acids and water"
+      ],
+      "correctAnswer": "Glycerine and three fatty acids"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "A fatty acid is generally composed of long chains of:",
+      "options": [
+        "Nitrogen, phosphorus and sulfur",
+        "Carbon, hydrogen and oxygen atoms",
+        "Calcium, magnesium and iron",
+        "Sodium, potassium and chlorine"
+      ],
+      "correctAnswer": "Carbon, hydrogen and oxygen atoms"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Plant fibres are used mainly for:",
+      "options": [
+        "Animal feed",
+        "Making clothing and in textile industry",
+        "Fuel production",
+        "Soil amendment"
+      ],
+      "correctAnswer": "Making clothing and in textile industry"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "The most important fibre for cloth-making is:",
+      "options": [
+        "Jute",
+        "Flax",
+        "Cotton lint",
+        "Hemp"
+      ],
+      "correctAnswer": "Cotton lint"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Plant fibres can be obtained from:",
+      "options": [
+        "Cotton, inner barks of stems (flax, jute, hemp, ramie, kenaf, nettle, bamboo)",
+        "Leaves only",
+        "Roots only",
+        "Flowers only"
+      ],
+      "correctAnswer": "Cotton, inner barks of stems (flax, jute, hemp, ramie, kenaf, nettle, bamboo)"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Fibres obtained from cotton are used to manufacture:",
+      "options": [
+        "Ropes",
+        "Sewing threads and cloth",
+        "Packaging materials only",
+        "Paper only"
+      ],
+      "correctAnswer": "Sewing threads and cloth"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Fibres from barks of certain plants are often used to manufacture:",
+      "options": [
+        "Sewing threads",
+        "Packaging materials",
+        "Clothing directly",
+        "Medicines"
+      ],
+      "correctAnswer": "Packaging materials"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "Vegetable fibres such as jute are often hard and used in:",
+      "options": [
+        "Rope manufacturing",
+        "Fine cloth making",
+        "Knitting",
+        "Embroidery"
+      ],
+      "correctAnswer": "Rope manufacturing"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "Forage crops are plants used as food for:",
+      "options": [
+        "Humans only",
+        "Livestock or farm animals",
+        "Insects",
+        "Microorganisms"
+      ],
+      "correctAnswer": "Livestock or farm animals"
+    },
+    {
+      "id": 31,
+      "anki": true,
+      "question": "Major forage crops include:",
+      "options": [
+        "Alfalfa, Sesbania sesban, Leucaena leucocephala, clovers, Timothy, Elephant grass, Desho grass, Rhodes grass, Panicum grass, Sudan grass and Johnson grass",
+        "Wheat, teff, rice, maize",
+        "Soybean, groundnut, peanut, sesame",
+        "Cotton, flax, jute, kenaf"
+      ],
+      "correctAnswer": "Alfalfa, Sesbania sesban, Leucaena leucocephala, clovers, Timothy, Elephant grass, Desho grass, Rhodes grass, Panicum grass, Sudan grass and Johnson grass"
+    },
+    {
+      "id": 32,
+      "anki": true,
+      "question": "Cereal grain crops at their early growth stages might be used as:",
+      "options": [
+        "Human food only",
+        "Livestock feed",
+        "Fibre source",
+        "Oil source"
+      ],
+      "correctAnswer": "Livestock feed"
+    },
+    {
+      "id": 33,
+      "anki": true,
+      "question": "Plants used as livestock feed are often grown for their:",
+      "options": [
+        "Grains only",
+        "Flowers only",
+        "Vegetative parts such as roots, shoots, shoot buds and leaves",
+        "Fruits only"
+      ],
+      "correctAnswer": "Vegetative parts such as roots, shoots, shoot buds and leaves"
+    },
+    {
+      "id": 34,
+      "anki": true,
+      "question": "Forage crops may be selected for the:",
+      "options": [
+        "Protein, fibre and nutrients they provide",
+        "Oil content only",
+        "Starch content only",
+        "Colour only"
+      ],
+      "correctAnswer": "Protein, fibre and nutrients they provide"
+    },
+    {
+      "id": 35,
+      "anki": true,
+      "question": "Some forage crops can provide farm animals with vitamins A and E, and minerals such as:",
+      "options": [
+        "Iron, zinc, copper",
+        "Sodium, potassium, calcium, phosphorus and magnesium",
+        "Lead, mercury, cadmium",
+        "Boron, molybdenum, cobalt"
+      ],
+      "correctAnswer": "Sodium, potassium, calcium, phosphorus and magnesium"
+    },
+    {
+      "id": 36,
+      "anki": true,
+      "question": "Crop plants transform carbon dioxide ($CO_2$) in the atmosphere into carbohydrates by the process of:",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "correctAnswer": "Photosynthesis"
+    },
+    {
+      "id": 37,
+      "anki": true,
+      "question": "In the C$_3$ photosynthetic pathway, the first stable carbon compound formed contains:",
+      "options": [
+        "2 carbon atoms",
+        "3 carbon atoms",
+        "4 carbon atoms",
+        "5 carbon atoms"
+      ],
+      "correctAnswer": "3 carbon atoms"
+    },
+    {
+      "id": 38,
+      "anki": true,
+      "question": "In the C$_4$ photosynthetic pathway, the first stable carbon compound formed contains:",
+      "options": [
+        "3 carbon atoms",
+        "4 carbon atoms",
+        "6 carbon atoms",
+        "1 carbon atom"
+      ],
+      "correctAnswer": "4 carbon atoms"
+    },
+    {
+      "id": 39,
+      "anki": true,
+      "question": "For C$_3$ plants, rates of photosynthesis increase with:",
+      "options": [
+        "Decreased levels of $CO_2$",
+        "Increased levels of $CO_2$",
+        "Lower temperatures",
+        "Reduced light intensity"
+      ],
+      "correctAnswer": "Increased levels of $CO_2$"
+    },
+    {
+      "id": 40,
+      "anki": true,
+      "question": "C$_4$ plants have a mechanism to accumulate $CO_2$ inside the chloroplast, so their photosynthetic rates do not increase with:",
+      "options": [
+        "An increase in $CO_2$ levels",
+        "An increase in light",
+        "Higher temperature",
+        "Adequate water"
+      ],
+      "correctAnswer": "An increase in $CO_2$ levels"
+    },
+    {
+      "id": 41,
+      "anki": true,
+      "question": "C$_4$ plants can reach higher photosynthetic rates at low levels of $CO_2$ because:",
+      "options": [
+        "They have larger leaves",
+        "They do not possess a $CO_2$ accumulation mechanism",
+        "They possess a $CO_2$ accumulation mechanism inside the chloroplast",
+        "They lack stomata"
+      ],
+      "correctAnswer": "They possess a $CO_2$ accumulation mechanism inside the chloroplast"
+    },
+    {
+      "id": 42,
+      "anki": true,
+      "question": "Compared to C$_3$ plants, C$_4$ plants are generally:",
+      "options": [
+        "Less efficient in using water and require more nitrogen",
+        "More efficient in using water and require less nitrogen",
+        "Less efficient in photosynthesis at high temperature",
+        "Unable to grow in warm climates"
+      ],
+      "correctAnswer": "More efficient in using water and require less nitrogen"
+    },
+    {
+      "id": 43,
+      "anki": true,
+      "question": "Generally, C$_4$ plants have higher photosynthetic rates at a given temperature compared to:",
+      "options": [
+        "C$_4$ plants only",
+        "C$_3$ plants",
+        "CAM plants",
+        "All plants"
+      ],
+      "correctAnswer": "C$_3$ plants"
+    },
+    {
+      "id": 44,
+      "anki": true,
+      "question": "Examples of C$_3$ crops include:",
+      "options": [
+        "Sorghum, maize, sugar cane",
+        "Wheat, barley, teff, soybean, ground nut and sweet potato",
+        "Elephant grass, Rhodes grass",
+        "Most weed species"
+      ],
+      "correctAnswer": "Wheat, barley, teff, soybean, ground nut and sweet potato"
+    },
+    {
+      "id": 45,
+      "anki": true,
+      "question": "Examples of C$_4$ plants include:",
+      "options": [
+        "Wheat, barley, teff",
+        "Soybean, ground nut, sweet potato",
+        "Sorghum, maize, sugar cane and most weed species",
+        "Beans, peas, lentils"
+      ],
+      "correctAnswer": "Sorghum, maize, sugar cane and most weed species"
+    }
+  ]
+}

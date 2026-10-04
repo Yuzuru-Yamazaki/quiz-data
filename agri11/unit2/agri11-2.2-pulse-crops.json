@@ -1,0 +1,346 @@
+{
+  "title": "2.2 Pulse Crops Production and Management",
+  "description": "Pulses: nitrogen fixation, cultivation and management",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["agriculture", "grade11", "unit2"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What are pulses?",
+      "options": [
+        "Seeds of legume crops that are grown mainly for their edible seeds",
+        "Grains of grass crops that are grown mainly for their edible seeds",
+        "Stems of cereal crops that are used as livestock feed",
+        "Roots of tuber crops that are grown below the ground"
+      ],
+      "correctAnswer": "Seeds of legume crops that are grown mainly for their edible seeds"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "In what two forms are pulses consumed?",
+      "options": [
+        "As dry seeds rich in protein and as immature pods used as vegetables",
+        "As dry seeds rich in fat and as mature pods used as fuel",
+        "As fresh green leaves and as roasted seeds",
+        "As boiled seeds and as extracted oil"
+      ],
+      "correctAnswer": "As dry seeds rich in protein and as immature pods used as vegetables"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Besides being used as human food, pulses also serve as what?",
+      "options": [
+        "A source of animal feed",
+        "A source of cooking oil",
+        "A source of building timber",
+        "A source of industrial starch"
+      ],
+      "correctAnswer": "A source of animal feed"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Pulse crops are classified as which type of plants?",
+      "options": [
+        "Dicots",
+        "Monocots",
+        "Grasses",
+        "Tuberous plants"
+      ],
+      "correctAnswer": "Dicots"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Many pulse crops assist with which soil related process?",
+      "options": [
+        "Nitrogen fixation",
+        "Salinity reduction",
+        "Erosion control by terracing",
+        "Flood water harvesting"
+      ],
+      "correctAnswer": "Nitrogen fixation"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Through which structure do pulse plants fix atmospheric nitrogen into the soil?",
+      "options": [
+        "Root nodules",
+        "Leaf hairs",
+        "Seed coats",
+        "Flower petals"
+      ],
+      "correctAnswer": "Root nodules"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What happens to the nitrogen that pulse crops fix from the atmosphere?",
+      "options": [
+        "It becomes available in the soil for subsequent crops",
+        "It is lost from the soil through evaporation",
+        "It is stored only in the stems of the pulse plants",
+        "It is transferred to the irrigation water"
+      ],
+      "correctAnswer": "It becomes available in the soil for subsequent crops"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Why can pulses be used in crop rotations to improve soil fertility?",
+      "options": [
+        "They fix atmospheric nitrogen and leave it in the soil for later crops",
+        "They raise the soil temperature by several degrees",
+        "They prevent the soil from losing all of its moisture",
+        "They turn clay soils into sandy soils"
+      ],
+      "correctAnswer": "They fix atmospheric nitrogen and leave it in the soil for later crops"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "With which type of crop are pulses commonly grown in mixed cropping?",
+      "options": [
+        "Cereals",
+        "Root crops",
+        "Fibre crops",
+        "Tree crops"
+      ],
+      "correctAnswer": "Cereals"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What is the main purpose of growing pulses together with cereals?",
+      "options": [
+        "To improve the yield of the cereal crop",
+        "To reduce the taste of the cereal grain",
+        "To shorten the growing period of the cereal",
+        "To keep the field free of livestock"
+      ],
+      "correctAnswer": "To improve the yield of the cereal crop"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "In Ethiopia, pulses are mostly produced in which way regarding mineral fertilizer?",
+      "options": [
+        "Without mineral fertilizer application",
+        "With heavy mineral fertilizer application",
+        "With mineral fertilizer applied only at flowering",
+        "With mineral fertilizer applied by aerial spraying"
+      ],
+      "correctAnswer": "Without mineral fertilizer application"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which organic fertilizer is sometimes used in pulse production in Ethiopia?",
+      "options": [
+        "Animal manure",
+        "Green alga slurry",
+        "Wood ash from forest fires",
+        "Rock phosphate powder"
+      ],
+      "correctAnswer": "Animal manure"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "How does soil cultivation for pulses generally compare with soil cultivation for cereals?",
+      "options": [
+        "It is generally minimal",
+        "It is repeated about five times",
+        "It is always carried out by machines",
+        "It is carried out only after harvesting"
+      ],
+      "correctAnswer": "It is generally minimal"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What are the two forms of minimal soil cultivation described for pulses?",
+      "options": [
+        "The soil is cultivated once, or direct planting takes place with no soil cultivation",
+        "The soil is cultivated once, or it is cultivated ten times",
+        "The soil is cultivated twice, or it is irrigated twice",
+        "The soil is never cultivated and never planted"
+      ],
+      "correctAnswer": "The soil is cultivated once, or direct planting takes place with no soil cultivation"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What does direct planting mean in pulse production?",
+      "options": [
+        "Planting takes place with no soil cultivation",
+        "Planting takes place twice in one season",
+        "Planting takes place only after the first rain",
+        "Planting takes place using a planting machine"
+      ],
+      "correctAnswer": "Planting takes place with no soil cultivation"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Which problem, together with minimal cultivation, has resulted in low pulse yields in Ethiopia?",
+      "options": [
+        "Poor weed control in grain legumes",
+        "Excessive use of animal manure",
+        "Very deep ploughing of the soil",
+        "Use of improved crop varieties"
+      ],
+      "correctAnswer": "Poor weed control in grain legumes"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What is the likely result of poor weed control in grain legume fields?",
+      "options": [
+        "Low yields",
+        "High yields",
+        "Faster seed maturity",
+        "Better nitrogen fixation"
+      ],
+      "correctAnswer": "Low yields"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which are the three major pulse crops in Ethiopia?",
+      "options": [
+        "Faba bean, field pea and haricot bean",
+        "Teff, maize and sorghum",
+        "Wheat, barley and teff",
+        "Faba bean, lentil and soybean"
+      ],
+      "correctAnswer": "Faba bean, field pea and haricot bean"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "How many major pulse crops are listed for Ethiopia in this unit?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": "Three"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Which group of crops do faba bean, field pea and haricot bean belong to?",
+      "options": [
+        "Pulses (legumes)",
+        "Cereals",
+        "Root and tuber crops",
+        "Fibre crops"
+      ],
+      "correctAnswer": "Pulses (legumes)"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Into which two major groups are field crops classified?",
+      "options": [
+        "Cereals and pulses (legumes)",
+        "Cereals and root crops",
+        "Pulses and oil crops",
+        "Vegetables and fruits"
+      ],
+      "correctAnswer": "Cereals and pulses (legumes)"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Cereal crops are monocots, meaning their seeds have how many cotyledons?",
+      "options": [
+        "A single cotyledon",
+        "Two cotyledons",
+        "Three cotyledons",
+        "No cotyledon"
+      ],
+      "correctAnswer": "A single cotyledon"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What is meant by annual field crops?",
+      "options": [
+        "Crops that complete a life cycle in a single season",
+        "Crops that live for many years",
+        "Crops that are harvested every two years",
+        "Crops that grow only in the dry season"
+      ],
+      "correctAnswer": "Crops that complete a life cycle in a single season"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "A farmer rotates a cereal with faba bean. What benefit does the faba bean give to the cereal?",
+      "options": [
+        "It improves soil fertility through nitrogen fixation",
+        "It supplies the cereal with extra irrigation",
+        "It protects the cereal seed from storage weevils",
+        "It shortens the maturity period of the cereal"
+      ],
+      "correctAnswer": "It improves soil fertility through nitrogen fixation"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "A farmer grows haricot bean together with maize in the same field. What is the expected result?",
+      "options": [
+        "The yield of the maize crop is improved",
+        "The maize crop is completely destroyed",
+        "The haricot bean stops fixing nitrogen",
+        "Both crops mature within one week"
+      ],
+      "correctAnswer": "The yield of the maize crop is improved"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "How does the number of cultivations for teff compare with that for pulses?",
+      "options": [
+        "Teff soil is cultivated 4 or 5 times while pulse soil cultivation is minimal",
+        "Teff soil is cultivated once while pulse soil is cultivated 5 times",
+        "Both crops require exactly the same number of cultivations",
+        "Teff is direct planted while pulses are cultivated five times"
+      ],
+      "correctAnswer": "Teff soil is cultivated 4 or 5 times while pulse soil cultivation is minimal"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "What effect does growing pulses have on the nitrogen status of a field?",
+      "options": [
+        "It increases the nitrogen available in the soil for later crops",
+        "It removes all nitrogen from the soil",
+        "It prevents nitrogen from entering the soil",
+        "It changes nitrogen into a mineral nutrient unavailable to plants"
+      ],
+      "correctAnswer": "It increases the nitrogen available in the soil for later crops"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Which practice in pulse production would the handout identify as needing improvement to raise yields?",
+      "options": [
+        "Weed control in grain legumes",
+        "The number of seed colours",
+        "The taste of the seeds",
+        "The colour of the crop residues"
+      ],
+      "correctAnswer": "Weed control in grain legumes"
+    }
+  ]
+}

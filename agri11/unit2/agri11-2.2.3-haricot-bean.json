@@ -1,0 +1,322 @@
+{
+  "title": "2.2.3 Haricot Bean (Phaseolus vulgaris L.)",
+  "description": "Haricot bean: origin, cultivation, storage pests and harvesting",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["agriculture", "grade11", "unit2"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the botanical name of haricot bean?",
+      "options": [
+        "Phaseolus vulgaris L.",
+        "Vicia faba L.",
+        "Pisum sativum L.",
+        "Hordeum vulgare L."
+      ],
+      "correctAnswer": "Phaseolus vulgaris L."
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is the other name of haricot bean?",
+      "options": [
+        "Common bean",
+        "Broad bean",
+        "Garden pea",
+        "Kidney pea"
+      ],
+      "correctAnswer": "Common bean"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Where did haricot bean originate?",
+      "options": [
+        "Mexico",
+        "The Mediterranean region",
+        "Africa",
+        "South America"
+      ],
+      "correctAnswer": "Mexico"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "For what purpose is haricot bean produced?",
+      "options": [
+        "For its edible seeds",
+        "For its tubers",
+        "For its green forage only",
+        "For extracting sugar"
+      ],
+      "correctAnswer": "For its edible seeds"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "How are the immature pods of haricot bean used?",
+      "options": [
+        "They are consumed as a vegetable",
+        "They are fed to livestock only",
+        "They are used as firewood",
+        "They are used as green manure"
+      ],
+      "correctAnswer": "They are consumed as a vegetable"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What other use can haricot bean have besides human food?",
+      "options": [
+        "It can be used as animal feed",
+        "It can be used as fuel wood",
+        "It can be used for making fence posts",
+        "It can be used for producing starch in industry"
+      ],
+      "correctAnswer": "It can be used as animal feed"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In which soil types does haricot bean grow well?",
+      "options": [
+        "Most soil types",
+        "Only well drained clay soils",
+        "Only sandy soils with no clay",
+        "Only waterlogged soils"
+      ],
+      "correctAnswer": "Most soil types"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "At what altitude does haricot bean grow well?",
+      "options": [
+        "Between $1400$ and $2000$ m above sea level",
+        "Between $1800$ and $3000$ m above sea level",
+        "Between $500$ and $1000$ m above sea level",
+        "Between $2200$ and $3000$ m above sea level"
+      ],
+      "correctAnswer": "Between $1400$ and $2000$ m above sea level"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "How is haricot bean usually grown in Ethiopia?",
+      "options": [
+        "As a mono crop or mixed with cereals such as maize and sorghum",
+        "Only as a mono crop away from cereals",
+        "Only intercropped with teff",
+        "Only grown together with faba bean"
+      ],
+      "correctAnswer": "As a mono crop or mixed with cereals such as maize and sorghum"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "With which crops is haricot bean grown in rotation?",
+      "options": [
+        "Teff, maize and sorghum",
+        "Wheat, barley and field pea",
+        "Faba bean and lentil only",
+        "Potato and enset"
+      ],
+      "correctAnswer": "Teff, maize and sorghum"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which seed colours can haricot bean seeds have?",
+      "options": [
+        "Red, brown, white or gray",
+        "Only yellow and black",
+        "Only red and green",
+        "Only purple and white"
+      ],
+      "correctAnswer": "Red, brown, white or gray"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "What is the economic importance of haricot bean in Ethiopia?",
+      "options": [
+        "It is an important export crop",
+        "It is grown only for local consumption",
+        "It is used mainly as a cover crop",
+        "It is grown mainly for green manure"
+      ],
+      "correctAnswer": "It is an important export crop"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "How can haricot bean be sown?",
+      "options": [
+        "By broadcasting or in rows",
+        "By transplanting seedlings only",
+        "By grafting onto root stock",
+        "By scattering seed without any soil work at all times of year"
+      ],
+      "correctAnswer": "By broadcasting or in rows"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What row spacing is commonly used for haricot bean?",
+      "options": [
+        "$40$ cm between rows",
+        "$30$ cm between rows",
+        "$75$ cm between rows",
+        "$10$ cm between rows"
+      ],
+      "correctAnswer": "$40$ cm between rows"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What plant spacing is commonly used for haricot bean in rows?",
+      "options": [
+        "$10$ cm between plants",
+        "$5$ to $10$ cm between plants",
+        "$30$ cm between plants",
+        "$50$ cm between plants"
+      ],
+      "correctAnswer": "$10$ cm between plants"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "In intercropping, how are haricot bean rows arranged with maize or sorghum?",
+      "options": [
+        "Haricot bean rows come between the rows of maize or sorghum, keeping $10$ cm between plants",
+        "Haricot bean is planted in the same row as maize at $10$ cm spacing",
+        "Haricot bean rows are placed far away from the cereal rows",
+        "Haricot bean is planted between the plants of the cereal row at $40$ cm"
+      ],
+      "correctAnswer": "Haricot bean rows come between the rows of maize or sorghum, keeping $10$ cm between plants"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Which fertilizer is usually used for haricot bean production?",
+      "options": [
+        "Animal manure",
+        "Mineral fertilizer applied at high rates",
+        "Lime applied to reduce acidity",
+        "Fertilizer applied only at flowering"
+      ],
+      "correctAnswer": "Animal manure"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "What measures are recommended to control weed problems in haricot bean?",
+      "options": [
+        "Ensure a clean seedbed and carry out manual weeding within $4$ weeks of planting",
+        "Wait until after harvest and then weed the field",
+        "Rely entirely on livestock grazing to remove weeds",
+        "Apply fertilizer to kill the weeds"
+      ],
+      "correctAnswer": "Ensure a clean seedbed and carry out manual weeding within $4$ weeks of planting"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "To which storage pests is haricot bean susceptible?",
+      "options": [
+        "Weevils",
+        "Army worm and stalk borer",
+        "Aphids and African ball worm",
+        "Barley shoot fly and grasshopper"
+      ],
+      "correctAnswer": "Weevils"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "How are storage pests in haricot bean grain controlled?",
+      "options": [
+        "Drying the grains until the moisture content is below $12$% and applying chemical treatment",
+        "Storing the grains in open sacks under direct sunlight",
+        "Washing the grains and storing them wet",
+        "Storing the grains with the pods still green"
+      ],
+      "correctAnswer": "Drying the grains until the moisture content is below $12$% and applying chemical treatment"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "How long does haricot bean take to mature?",
+      "options": [
+        "$3$ to $4$ months",
+        "$1$ to $2$ months",
+        "$6$ to $7$ months",
+        "$9$ to $10$ months"
+      ],
+      "correctAnswer": "$3$ to $4$ months"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "What indicates that haricot bean is ready for harvest?",
+      "options": [
+        "The leaves fall off and the pods turn yellow and start to dry",
+        "The pods remain green and the leaves stay on the plant",
+        "The plant starts flowering again",
+        "The seeds germinate inside the pod"
+      ],
+      "correctAnswer": "The leaves fall off and the pods turn yellow and start to dry"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "At what stage should haricot bean pods be harvested when the crop is produced for use as a vegetable?",
+      "options": [
+        "When the pods are green and immature",
+        "After the pods have turned yellow and dried",
+        "After the leaves have all fallen off",
+        "After the seeds have become hard"
+      ],
+      "correctAnswer": "When the pods are green and immature"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "What is the national average yield of haricot bean in Ethiopia?",
+      "options": [
+        "$14$ quintals ($1.4$ t) per hectare",
+        "$19$ quintals ($1.9$ t) per hectare",
+        "$32.5$ quintals ($3.25$ t) per hectare",
+        "$23$ quintals ($2.3$ t) per hectare"
+      ],
+      "correctAnswer": "$14$ quintals ($1.4$ t) per hectare"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "The national average haricot bean yield of $14$ quintals per hectare equals how many tonnes per hectare?",
+      "options": [
+        "$1.4$ t per hectare",
+        "$0.14$ t per hectare",
+        "$14$ t per hectare",
+        "$2.4$ t per hectare"
+      ],
+      "correctAnswer": "$1.4$ t per hectare"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Why is haricot bean useful in a rotation with teff, maize or sorghum?",
+      "options": [
+        "It improves soil fertility and helps the yield of the cereal crop",
+        "It shortens the growing period of the cereal crop",
+        "It removes all weeds from the cereal field",
+        "It keeps the soil permanently wet"
+      ],
+      "correctAnswer": "It improves soil fertility and helps the yield of the cereal crop"
+    }
+  ]
+}

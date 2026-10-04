@@ -1,0 +1,495 @@
+{
+  "title": "1.3 Status of Crop Production",
+  "description": "Status of crop production in general and in Ethiopia",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "crop production"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What does agriculture provide for society?",
+      "options": [
+        "Food and other goods",
+        "Only electronic devices",
+        "Only vehicles",
+        "Only clothing materials made from synthetic sources"
+      ],
+      "correctAnswer": "Food and other goods"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What do crop plants provide?",
+      "options": [
+        "Food for humans and feed for livestock",
+        "Only fuel for machines",
+        "Only building materials",
+        "Only decorative items"
+      ],
+      "correctAnswer": "Food for humans and feed for livestock"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "What is crop production mainly determined by?",
+      "options": [
+        "The crop type, and the environment in which it is grown",
+        "The colour of farm buildings",
+        "The brand of farm equipment only",
+        "The language spoken by farmers"
+      ],
+      "correctAnswer": "The crop type, and the environment in which it is grown"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What does agriculture involve before planting?",
+      "options": [
+        "Selection of a crop species, selection of specific types of crop and land preparation",
+        "Only buying seeds from a store with no land preparation",
+        "Only clearing land with no crop selection",
+        "Only harvesting without any planning"
+      ],
+      "correctAnswer": "Selection of a crop species, selection of specific types of crop and land preparation"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What other activities does agriculture involve after planting?",
+      "options": [
+        "Planting at the right time, protecting the crop from diseases and pests and adopting techniques to increase productivity",
+        "Leaving crops unattended until harvest",
+        "Ignoring diseases and pests completely",
+        "Never using any productivity techniques"
+      ],
+      "correctAnswer": "Planting at the right time, protecting the crop from diseases and pests and adopting techniques to increase productivity"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What characterised primitive agriculture?",
+      "options": [
+        "Primitive tools that had a low efficiency and were not easy to operate",
+        "Highly automated robotic systems",
+        "Precision equipment guided by satellites",
+        "Advanced computer-controlled machinery"
+      ],
+      "correctAnswer": "Primitive tools that had a low efficiency and were not easy to operate"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "How has agriculture evolved over time?",
+      "options": [
+        "Into a more complex process with enormous technological advancement",
+        "Back to completely random gathering",
+        "It has remained exactly the same since ancient times",
+        "It has become simpler with no new technology"
+      ],
+      "correctAnswer": "Into a more complex process with enormous technological advancement"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What did the technological advancement in agriculture result in?",
+      "options": [
+        "Access to improved seeds, better production practices, and better harvesting and storage facilities",
+        "Only reduced access to seeds",
+        "Worse production practices and no storage facilities",
+        "Complete loss of all farming knowledge"
+      ],
+      "correctAnswer": "Access to improved seeds, better production practices, and better harvesting and storage facilities"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What is crop rotation in modern agriculture?",
+      "options": [
+        "Rotating or shifting between different crops in different growing seasons, as opposed to planting the same crop on the same plot every year",
+        "Planting the same crop on the same plot every year without change",
+        "Growing only one crop type forever",
+        "Never changing crops in any season"
+      ],
+      "correctAnswer": "Rotating or shifting between different crops in different growing seasons, as opposed to planting the same crop on the same plot every year"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What is fallowing in modern agriculture?",
+      "options": [
+        "Leaving a plot of land free of crop growth for 2 or three seasons for soils to recover",
+        "Growing crops continuously without any rest for the land",
+        "Planting crops every season without break",
+        "Keeping land under crops for many decades without fallow"
+      ],
+      "correctAnswer": "Leaving a plot of land free of crop growth for 2 or three seasons for soils to recover"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "What other practices characterise modern agriculture for soil protection?",
+      "options": [
+        "Use of various soil conservation practices to control soil erosion",
+        "Deliberately removing all soil cover",
+        "Allowing complete soil erosion with no control",
+        "Practices that increase soil loss"
+      ],
+      "correctAnswer": "Use of various soil conservation practices to control soil erosion"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which of the following are efficient technologies used in modern agriculture?",
+      "options": [
+        "Machinery, agrochemicals, irrigation, biotechnology and genetic improvement of plants",
+        "Only hand hoes and sticks",
+        "Only digging with bare hands",
+        "Only wooden ploughs with no modern inputs"
+      ],
+      "correctAnswer": "Machinery, agrochemicals, irrigation, biotechnology and genetic improvement of plants"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What was one of the first technological changes in agriculture?",
+      "options": [
+        "The transfer of some tedious manual work to draft animals",
+        "The use of drones for all farming operations",
+        "The introduction of self-driving tractors",
+        "The use of satellite-guided robots from the beginning"
+      ],
+      "correctAnswer": "The transfer of some tedious manual work to draft animals"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "For what purposes were draft animals used in early technological change?",
+      "options": [
+        "To prepare and plough land and transport materials",
+        "To operate computers in the field",
+        "To generate electricity for farm buildings",
+        "To control irrigation systems automatically"
+      ],
+      "correctAnswer": "To prepare and plough land and transport materials"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "How has the development and use of agricultural machineries affected labour?",
+      "options": [
+        "It has further reduced the labour requirement",
+        "It has increased the labour requirement tenfold",
+        "It has made farming require more manual labour than ever",
+        "It has eliminated all need for efficiency"
+      ],
+      "correctAnswer": "It has further reduced the labour requirement"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "What is an advantage of using machinery in agriculture?",
+      "options": [
+        "It enables an individual farmer to operate a large farm",
+        "It forces each farmer to work only very small plots",
+        "It makes large-scale farming impossible",
+        "It limits farm size to household garden level"
+      ],
+      "correctAnswer": "It enables an individual farmer to operate a large farm"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Into how many Eras is agriculture in industrialized regions often classified?",
+      "options": [
+        "Three Eras",
+        "Two Eras",
+        "Five Eras",
+        "Four Eras"
+      ],
+      "correctAnswer": "Three Eras"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which of the following are the three Eras of agriculture in industrialized regions?",
+      "options": [
+        "Mechanical Era (1930 - 1950), Chemical Era (1950 - 1970) and Biotechnology/Information Technology Era (1970 - present)",
+        "Stone Era, Bronze Era and Iron Era",
+        "Ancient Era, Medieval Era and Modern Era",
+        "Prehistoric Era, Colonial Era and Digital Era"
+      ],
+      "correctAnswer": "Mechanical Era (1930 - 1950), Chemical Era (1950 - 1970) and Biotechnology/Information Technology Era (1970 - present)"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "What has increased agricultural productivity in industrialized regions?",
+      "options": [
+        "The use of industrial technologies",
+        "The complete rejection of all technologies",
+        "A return to only primitive tools",
+        "Avoidance of any mechanisation"
+      ],
+      "correctAnswer": "The use of industrial technologies"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "With machinery, what can be completed at the best time in industrialized regions?",
+      "options": [
+        "Land preparation and planting",
+        "Only random planting without planning",
+        "Only weeding by hand",
+        "Only harvesting long after maturity"
+      ],
+      "correctAnswer": "Land preparation and planting"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "With agricultural chemicals, what can be easily controlled?",
+      "options": [
+        "Crop diseases, weeds and pests",
+        "Weather patterns completely",
+        "Soil texture permanently",
+        "Global climate cycles"
+      ],
+      "correctAnswer": "Crop diseases, weeds and pests"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "What characteristics do modern crops have that have contributed to improved agricultural productivity?",
+      "options": [
+        "Higher yields and improved resistance to diseases and pests",
+        "Lower yields and no resistance to diseases",
+        "Very low yields and high susceptibility to pests",
+        "No yield improvement and weak resistance"
+      ],
+      "correctAnswer": "Higher yields and improved resistance to diseases and pests"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "How is agriculture often characterised in less developed regions like sub-Saharan Africa?",
+      "options": [
+        "Traditional with draft animals still in use for cultivation, transport and other agricultural activities",
+        "Fully mechanised with latest industrial technologies",
+        "Completely reliant on drones and robotics",
+        "Using only advanced biotechnology for all operations"
+      ],
+      "correctAnswer": "Traditional with draft animals still in use for cultivation, transport and other agricultural activities"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "How does agricultural productivity in less developed regions compare to industrialized regions?",
+      "options": [
+        "It remains very low compared to industrialized regions",
+        "It is much higher than in industrialized regions",
+        "It is equal to industrialized regions in all cases",
+        "It exceeds the productivity of industrialized regions"
+      ],
+      "correctAnswer": "It remains very low compared to industrialized regions"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "How is Ethiopian crop agriculture described?",
+      "options": [
+        "Complex, with different agro ecologies in different regions and a wide range of crop types grown",
+        "Simple and uniform across the entire country",
+        "Only one crop type grown everywhere",
+        "No variation in agro ecology across regions"
+      ],
+      "correctAnswer": "Complex, with different agro ecologies in different regions and a wide range of crop types grown"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "How much arable land does Ethiopia have and how much is cultivated mainly by smallholders?",
+      "options": [
+        "About 51 million hectares of arable land, of which only about 20% is cultivated, mainly by smallholders",
+        "About 10 million hectares total, all cultivated",
+        "About 100 million hectares, all cultivated by large farms",
+        "About 5 million hectares, with 90% cultivated"
+      ],
+      "correctAnswer": "About 51 million hectares of arable land, of which only about 20% is cultivated, mainly by smallholders"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Which five major crops constitute approximately 75% of the country's cultivated area?",
+      "options": [
+        "Teff, wheat, maize, sorghum and barley",
+        "Rice, oats, millet, rye and quinoa",
+        "Potatoes, cassava, yams, cocoyams and sweet potatoes",
+        "Cotton, coffee, tea, sugarcane and tobacco"
+      ],
+      "correctAnswer": "Teff, wheat, maize, sorghum and barley"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "What percentage of calories consumed in Ethiopia do these grain crops supply?",
+      "options": [
+        "Approximately 64%",
+        "About 10%",
+        "About 95%",
+        "About 25%"
+      ],
+      "correctAnswer": "Approximately 64%"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "What are cereals?",
+      "options": [
+        "Grasses cultivated for their grains",
+        "Trees grown for timber",
+        "Shrubs grown for flowers",
+        "Vines grown for ornamental purposes"
+      ],
+      "correctAnswer": "Grasses cultivated for their grains"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "What was the increase in cereal production from 1961 to 2019 associated with?",
+      "options": [
+        "Mainly with the expansion of cultivated area and to some extent, increased use of agricultural inputs",
+        "Only with a decrease in cultivated area",
+        "Only with stopping the use of all inputs",
+        "Only with abandoning all farming practices"
+      ],
+      "correctAnswer": "Mainly with the expansion of cultivated area and to some extent, increased use of agricultural inputs"
+    },
+    {
+      "id": 31,
+      "anki": true,
+      "question": "What is said about the increase in productivity per unit area cultivated in Ethiopia?",
+      "options": [
+        "There is limited evidence to support a parallel increase in productivity per unit area cultivated",
+        "There is strong evidence of very rapid productivity increase per unit area",
+        "Productivity per unit area doubled every year",
+        "Productivity per unit area has increased more than area expansion"
+      ],
+      "correctAnswer": "There is limited evidence to support a parallel increase in productivity per unit area cultivated"
+    },
+    {
+      "id": 32,
+      "anki": true,
+      "question": "What mainly limits the yield level in Ethiopia?",
+      "options": [
+        "Recurrent droughts and climate changes",
+        "Excessive rainfall throughout the year",
+        "Perfect climatic conditions with no stress",
+        "Lack of any natural hazards"
+      ],
+      "correctAnswer": "Recurrent droughts and climate changes"
+    },
+    {
+      "id": 33,
+      "anki": true,
+      "question": "What is required to achieve food security in Ethiopia?",
+      "options": [
+        "An increase in yield and a decrease in yields variability",
+        "A decrease in yield and increase in variability",
+        "Only reducing the total cultivated area",
+        "Only depending on food imports with no yield increase"
+      ],
+      "correctAnswer": "An increase in yield and a decrease in yields variability"
+    },
+    {
+      "id": 34,
+      "anki": true,
+      "question": "How does the general yield level in Ethiopia compare to international standards?",
+      "options": [
+        "The general yield level is low compared to the international standards",
+        "It is much higher than international standards",
+        "It is equal to the highest international standards",
+        "It exceeds all international standards"
+      ],
+      "correctAnswer": "The general yield level is low compared to the international standards"
+    },
+    {
+      "id": 35,
+      "anki": true,
+      "question": "Which of the following is a principal factor responsible for low crop yields in Ethiopia?",
+      "options": [
+        "Soil degradation",
+        "Highly fertile soils everywhere",
+        "Perfect soil conservation across all farms",
+        "No soil erosion at all"
+      ],
+      "correctAnswer": "Soil degradation"
+    },
+    {
+      "id": 36,
+      "anki": true,
+      "question": "Which of the following is a principal factor responsible for low crop yields in Ethiopia?",
+      "options": [
+        "Traditional farming systems with little technology use",
+        "Advanced mechanised farming systems everywhere",
+        "Widespread use of latest agricultural technologies",
+        "Complete adoption of modern machinery by all farmers"
+      ],
+      "correctAnswer": "Traditional farming systems with little technology use"
+    },
+    {
+      "id": 37,
+      "anki": true,
+      "question": "Which of the following is a principal factor responsible for low crop yields in Ethiopia?",
+      "options": [
+        "Uncertain and variable rainfall",
+        "Very reliable and uniform rainfall every year",
+        "Predictable rainfall with no variation",
+        "Excessively stable rainfall patterns"
+      ],
+      "correctAnswer": "Uncertain and variable rainfall"
+    },
+    {
+      "id": 38,
+      "anki": true,
+      "question": "Which of the following is a principal factor responsible for low crop yields in Ethiopia?",
+      "options": [
+        "Very low level of irrigation",
+        "Extensive irrigation covering all arable land",
+        "Complete irrigation of every cultivated field",
+        "Unlimited access to irrigation water"
+      ],
+      "correctAnswer": "Very low level of irrigation"
+    },
+    {
+      "id": 39,
+      "anki": true,
+      "question": "Which of the following is a principal factor responsible for low crop yields in Ethiopia?",
+      "options": [
+        "Low use of inputs like improved seeds, fertilizers and pesticides",
+        "Very high use of all agricultural inputs everywhere",
+        "Universal adoption of improved seeds and fertilizers",
+        "Excessive use of pesticides on all crops"
+      ],
+      "correctAnswer": "Low use of inputs like improved seeds, fertilizers and pesticides"
+    },
+    {
+      "id": 40,
+      "anki": true,
+      "question": "What is the effect of using modern technologies like machinery and agrochemicals in industrialized regions?",
+      "options": [
+        "They have enhanced the productivity of modern agriculture",
+        "They have reduced productivity significantly",
+        "They have made farming completely unproductive",
+        "They have eliminated all crop production"
+      ],
+      "correctAnswer": "They have enhanced the productivity of modern agriculture"
+    }
+  ]
+}
