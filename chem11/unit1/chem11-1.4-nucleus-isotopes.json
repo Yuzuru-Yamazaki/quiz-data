@@ -1,0 +1,178 @@
+{
+  "title": "1.4 Make-up of the Nucleus: Subatomic Particles and Isotopes",
+  "description": "Subatomic particles, atomic mass units, atomic number, mass number, isotopes, and average atomic mass",
+  "folder": "School/Grade 11/Chemistry/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["chemistry", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which particle did Rutherford discover in 1919 when alpha particles struck lighter elements such as nitrogen?",
+      "options": ["the proton", "the neutron", "the electron", "the positron"],
+      "correctAnswer": "the proton"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A proton is a nuclear particle having:",
+      "options": ["a positive charge equal in magnitude to that of the electron", "a negative charge equal to that of the electron", "no electric charge", "twice the charge of the electron"],
+      "correctAnswer": "a positive charge equal in magnitude to that of the electron"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The mass of a proton is approximately:",
+      "options": ["$1.67262 \\times 10^{-27}$ kg", "$9.109 \\times 10^{-31}$ kg", "$1.67493 \\times 10^{-27}$ kg", "$1.602 \\times 10^{-19}$ kg"],
+      "correctAnswer": "$1.67262 \\times 10^{-27}$ kg"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "One atomic mass unit (amu) is defined as:",
+      "options": ["$1/12$ the mass of an atom of carbon-12", "$1/12$ the mass of a hydrogen atom", "the mass of a proton", "the mass of an electron"],
+      "correctAnswer": "$1/12$ the mass of an atom of carbon-12"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "According to Table 1.1, the relative mass of a proton in atomic mass units (amu) is:",
+      "options": ["1.007276", "1.008665", "$5.485799 \\times 10^{-4}$", "1.000000"],
+      "correctAnswer": "1.007276"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "According to Table 1.1, the relative mass of a neutron in atomic mass units (amu) is:",
+      "options": ["1.008665", "1.007276", "$5.485799 \\times 10^{-4}$", "0.000549"],
+      "correctAnswer": "1.008665"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which subatomic particle has an actual charge of $-1.602 \\times 10^{-19}$ C?",
+      "options": ["electron", "proton", "neutron", "photon"],
+      "correctAnswer": "electron"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which subatomic particle has no electric charge?",
+      "options": ["neutron", "proton", "electron", "alpha particle"],
+      "correctAnswer": "neutron"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The relative charge assigned to the proton is:",
+      "options": ["+1", "-1", "0", "+2"],
+      "correctAnswer": "+1"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The protons in a nucleus give the nucleus its:",
+      "options": ["positive charge", "negative charge", "neutrality", "mass without charge"],
+      "correctAnswer": "positive charge"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The atomic number (Z) of an element equals:",
+      "options": ["the number of protons in the nucleus", "the number of neutrons in the nucleus", "the total number of protons and neutrons", "the number of neutrons minus protons"],
+      "correctAnswer": "the number of protons in the nucleus"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The mass number (A) of an atom equals:",
+      "options": ["the total number of protons and neutrons in the nucleus", "the number of protons only", "the number of neutrons only", "the number of electrons in the atom"],
+      "correctAnswer": "the total number of protons and neutrons in the nucleus"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Isotopes of an element are atoms that have:",
+      "options": ["different numbers of neutrons and different mass numbers", "different numbers of protons", "different atomic numbers", "the same number of neutrons but different protons"],
+      "correctAnswer": "different numbers of neutrons and different mass numbers"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "All atoms of a particular element:",
+      "options": ["have the same atomic number", "have the same mass number", "have the same number of neutrons", "differ in atomic number"],
+      "correctAnswer": "have the same atomic number"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "All carbon atoms have how many protons in the nucleus?",
+      "options": ["six", "seven", "eight", "twelve"],
+      "correctAnswer": "six"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "What percentage of naturally occurring carbon atoms have six neutrons ($A = 12$)?",
+      "options": ["98.89%", "1.11%", "0.01%", "50.0%"],
+      "correctAnswer": "98.89%"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "The isotope $^{13}$C of carbon contains how many neutrons in its nucleus?",
+      "options": ["seven", "six", "eight", "thirteen"],
+      "correctAnswer": "seven"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "How many naturally occurring isotopes does carbon have?",
+      "options": ["three ($^{12}$C, $^{13}$C, $^{14}$C)", "two", "four", "one"],
+      "correctAnswer": "three ($^{12}$C, $^{13}$C, $^{14}$C)"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The average (relative) atomic mass of an element is obtained by:",
+      "options": ["averaging the isotopic masses weighted by their fractional abundances", "dividing the mass number by the atomic number", "adding all the isotopic masses together", "taking the mass of the lightest isotope"],
+      "correctAnswer": "averaging the isotopic masses weighted by their fractional abundances"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "For an element with $n$ isotopes of relative masses $A_1, A_2, \\dots, A_n$ and fractional abundances $f_1, f_2, \\dots, f_n$, the average atomic mass is given by:",
+      "options": ["$A = A_1 f_1 + A_2 f_2 + \\dots + A_n f_n$", "$A = (A_1 + A_2 + \\dots + A_n)/n$", "$A = A_1 + A_2 + \\dots + A_n$", "$A = A_1 f_n + A_2 f_{n-1}$"],
+      "correctAnswer": "$A = A_1 f_1 + A_2 f_2 + \\dots + A_n f_n$"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "In the symbol $^{27}_{13}$Al, the number 27 represents the:",
+      "options": ["mass number", "atomic number", "number of neutrons", "number of electrons"],
+      "correctAnswer": "mass number"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "In the symbol $^{37}_{17}$Cl, the number of protons in the nucleus is:",
+      "options": ["17", "37", "20", "54"],
+      "correctAnswer": "17"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "The atomic mass of silver, which has naturally occurring isotopes $^{107}$Ag (51.84%) and $^{109}$Ag (48.16%), is:",
+      "options": ["107.87 amu", "108.00 amu", "106.90 amu", "107.00 amu"],
+      "correctAnswer": "107.87 amu"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Natural chlorine consists of 75% $^{35}$Cl and 25% $^{37}$Cl. Its average atomic mass is:",
+      "options": ["35.5 amu", "35.0 amu", "36.0 amu", "37.5 amu"],
+      "correctAnswer": "35.5 amu"
+    }
+  ]
+}

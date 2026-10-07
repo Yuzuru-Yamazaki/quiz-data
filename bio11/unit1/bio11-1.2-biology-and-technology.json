@@ -1,0 +1,590 @@
+{
+  "title": "1.2 Biology and Technology",
+  "description": "Benefits of biology to technology and uses of technology in biology",
+  "folder": "School/Grade 11/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit1"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Biology is defined as the study of ____.",
+      "options": [
+        "the physical features of the earth and its atmosphere",
+        "the production of devices and tools for scientific investigations",
+        "life: the structures, functions, growth, origins, evolution and distribution of living organisms",
+        "the interaction of humans with the natural environment"
+      ],
+      "correctAnswer": "life: the structures, functions, growth, origins, evolution and distribution of living organisms"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Technology is defined as ____.",
+      "options": [
+        "the study of living organisms from the simplest to the most complex",
+        "the application of scientific knowledge, skills, methods and processes for the production of devices and tools for scientific investigations",
+        "the use of biological systems to develop useful products",
+        "the management of natural resources for human benefit"
+      ],
+      "correctAnswer": "the application of scientific knowledge, skills, methods and processes for the production of devices and tools for scientific investigations"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The blend of biology and technology forms ____.",
+      "options": [
+        "biochemistry",
+        "biogeography",
+        "bioinformatics",
+        "biotechnology"
+      ],
+      "correctAnswer": "biotechnology"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Biotechnology is a technology that utilizes ____ to develop useful products.",
+      "options": [
+        "biological systems",
+        "physical devices",
+        "chemical fertilizers",
+        "computer programs"
+      ],
+      "correctAnswer": "biological systems"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which of the following is an example of biotechnology given in the textbook?",
+      "options": [
+        "Using solar panels to generate electricity",
+        "Using yeasts to produce bread and beer",
+        "Using satellites to map landscapes",
+        "Using robots to assemble cars"
+      ],
+      "correctAnswer": "Using yeasts to produce bread and beer"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Biotechnology is the integration of ____ sciences.",
+      "options": [
+        "physical and mathematical",
+        "social and economic",
+        "geological and atmospheric",
+        "natural and engineering"
+      ],
+      "correctAnswer": "natural and engineering"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Many biochemical substances in plants have been used to develop ____.",
+      "options": [
+        "medicines",
+        "building materials",
+        "transport fuels",
+        "electronic circuits"
+      ],
+      "correctAnswer": "medicines"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Scientists have imitated the nature of human, animal and plant genes for ____.",
+      "options": [
+        "producing chemical fertilizers",
+        "designing transport systems",
+        "gene engineering and the creation of biosynthetic materials",
+        "building irrigation canals"
+      ],
+      "correctAnswer": "gene engineering and the creation of biosynthetic materials"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Gene engineering is used to ____.",
+      "options": [
+        "measure body temperature",
+        "cure genetic conditions",
+        "locate geographic positions",
+        "magnify tiny objects"
+      ],
+      "correctAnswer": "cure genetic conditions"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Biosynthetic materials are created to ____.",
+      "options": [
+        "detect pregnancy early",
+        "generate electrical power",
+        "monitor blood pressure",
+        "repair damaged body tissues"
+      ],
+      "correctAnswer": "repair damaged body tissues"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "In section 1.2.1, engineers imitated the mound architecture of ____ to design buildings with chimneys.",
+      "options": [
+        "termites",
+        "spiders",
+        "bees",
+        "ants"
+      ],
+      "correctAnswer": "termites"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The noses of bullet trains were designed by imitating the shape of ____ when they dive into water.",
+      "options": [
+        "the bills of ducks",
+        "the snouts of dolphins",
+        "the beaks of kingfishers",
+        "the heads of penguins"
+      ],
+      "correctAnswer": "the beaks of kingfishers"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The uses of technology in biology are ____.",
+      "options": [
+        "the study of the distribution of species through geological periods",
+        "the ways in which technological tools are applied to solve various human problems",
+        "the imitation of nature to design new products",
+        "the production of yeast for bread and beer"
+      ],
+      "correctAnswer": "the ways in which technological tools are applied to solve various human problems"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Biochemical studies are helpful to investigate information on ____.",
+      "options": [
+        "the chemical components of medicinal plants",
+        "the distribution of species in ecosystems",
+        "the movement of populations across landscapes",
+        "carbohydrates, proteins, lipids and nucleic acids"
+      ],
+      "correctAnswer": "carbohydrates, proteins, lipids and nucleic acids"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Biomedical studies deal with providing detailed information on ____.",
+      "options": [
+        "the chemical components of medicinal plants",
+        "carbohydrates, proteins, lipids and nucleic acids",
+        "DNA and amino acid sequences",
+        "the interactions of humans with the environment"
+      ],
+      "correctAnswer": "the chemical components of medicinal plants"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Biophysical studies gather biological information at ____ scales of biological organization.",
+      "options": [
+        "cellular, tissue and organ",
+        "local, regional and global",
+        "molecular, organismic and population",
+        "individual, community and ecosystem"
+      ],
+      "correctAnswer": "molecular, organismic and population"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Bioinformatics is a discipline involving ____ to collect, store, analyze and disseminate biological data.",
+      "options": [
+        "microscopes and lenses",
+        "computer technology",
+        "chemical reagents",
+        "GPS devices"
+      ],
+      "correctAnswer": "computer technology"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Biogeographical information is the study of ____.",
+      "options": [
+        "the chemical composition of medicinal plants",
+        "the metabolic processes of cancer cells",
+        "the structure of carbohydrates and lipids",
+        "the distribution of species along with geographic ecosystems through geological periods"
+      ],
+      "correctAnswer": "the distribution of species along with geographic ecosystems through geological periods"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "A digital thermometer is an instrument used for measuring ____.",
+      "options": [
+        "body temperature",
+        "blood sugar level",
+        "body fat",
+        "heart rate"
+      ],
+      "correctAnswer": "body temperature"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "A pregnancy urine test works by detecting the amount of ____.",
+      "options": [
+        "insulin",
+        "hemoglobin",
+        "Human Chorionic Gonadotropin (HCG)",
+        "glucose"
+      ],
+      "correctAnswer": "Human Chorionic Gonadotropin (HCG)"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "In a pregnancy test, HCG is produced in the ____ around six to ten days after fertilization.",
+      "options": [
+        "liver",
+        "placenta",
+        "ovary",
+        "uterus lining"
+      ],
+      "correctAnswer": "placenta"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "In a pregnancy urine test, a result showing two lines confirms ____.",
+      "options": [
+        "a negative result with no pregnancy",
+        "the presence of diabetes",
+        "an HIV infection",
+        "the existence of pregnancy"
+      ],
+      "correctAnswer": "the existence of pregnancy"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "The diabetic blood test is a tool used to measure the level of ____.",
+      "options": [
+        "blood sugar",
+        "blood pressure",
+        "body fat",
+        "body temperature"
+      ],
+      "correctAnswer": "blood sugar"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "An HIV test is a detector used to ____.",
+      "options": [
+        "measure blood sugar levels",
+        "detect early pregnancy",
+        "identify infections with the virus",
+        "measure body temperature"
+      ],
+      "correctAnswer": "identify infections with the virus"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Microscopes are technological tools used to ____.",
+      "options": [
+        "measure body temperature",
+        "magnify objects",
+        "locate geographic positions",
+        "scan for cancer"
+      ],
+      "correctAnswer": "magnify objects"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "A Computed Tomography (CT) scan is ____.",
+      "options": [
+        "a device used to measure body fat",
+        "a tool for collecting geographical data",
+        "a microscope for magnifying cells",
+        "a sophisticated x-ray technology used to take many x-ray pictures of the body"
+      ],
+      "correctAnswer": "a sophisticated x-ray technology used to take many x-ray pictures of the body"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "A Positron Emission Tomography (PET) scan uses ____.",
+      "options": [
+        "a special dye containing radioactive tracers",
+        "a needle to sample blood",
+        "sound waves to create images",
+        "a magnet to align body cells"
+      ],
+      "correctAnswer": "a special dye containing radioactive tracers"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "GPS is a device used to collect ____.",
+      "options": [
+        "blood sugar readings from the fingertip",
+        "the amount of HCG in urine",
+        "biogeographical information on landscape mapping, plants, animals and human movements",
+        "X-ray pictures of the body"
+      ],
+      "correctAnswer": "biogeographical information on landscape mapping, plants, animals and human movements"
+    },
+    {
+      "anki": true,
+      "question": "According to the unit summary, biology is dependent on technology in terms of using devices, likewise technology is dependent on biology in terms of ____.",
+      "options": [
+        "identifying scientific information and imitating biotechnological devices from nature",
+        "producing industrial machines and tools",
+        "designing buildings and bridges",
+        "manufacturing vehicles and roads"
+      ],
+      "correctAnswer": "identifying scientific information and imitating biotechnological devices from nature",
+      "id": 29
+    },
+    {
+      "anki": true,
+      "question": "Biotechnology achieves the application of organisms, cells, parts and ____ for products and services.",
+      "options": [
+        "molecular analogues",
+        "geological maps",
+        "mechanical gears",
+        "musical notes"
+      ],
+      "correctAnswer": "molecular analogues",
+      "id": 30
+    },
+    {
+      "anki": true,
+      "question": "Biology is a source of materials that enable us to imitate, design, adapt and develop modern technologies and ____.",
+      "options": [
+        "solve complex human problems",
+        "increase factory emissions",
+        "replace all living organisms",
+        "stop scientific research"
+      ],
+      "correctAnswer": "solve complex human problems",
+      "id": 31
+    },
+    {
+      "anki": true,
+      "question": "The diversity of nature stimulates the ____.",
+      "options": [
+        "development of new technologies",
+        "extinction of living species",
+        "closure of research centres",
+        "abandonment of biological studies"
+      ],
+      "correctAnswer": "development of new technologies",
+      "id": 32
+    },
+    {
+      "anki": true,
+      "question": "Scientists and engineers imitate nature to innovate, problem solve and ____.",
+      "options": [
+        "expand their scientific understanding",
+        "limit their laboratory experiments",
+        "reduce their contact with nature",
+        "avoid using technological tools"
+      ],
+      "correctAnswer": "expand their scientific understanding",
+      "id": 33
+    },
+    {
+      "anki": true,
+      "question": "The practical application of biotechnological instruments provides required human services and ____.",
+      "options": [
+        "investigations of new biological questions",
+        "entertainment for students only",
+        "destruction of biological samples",
+        "replacements for all teachers"
+      ],
+      "correctAnswer": "investigations of new biological questions",
+      "id": 34
+    },
+    {
+      "anki": true,
+      "question": "Environmental studies is a multidisciplinary system dealing with ____.",
+      "options": [
+        "the interactions of humans with the environment",
+        "the sum of techniques used in service delivery",
+        "the production of yeast for bread",
+        "the classification of animals into vertebrates"
+      ],
+      "correctAnswer": "the interactions of humans with the environment",
+      "id": 35
+    },
+    {
+      "anki": true,
+      "question": "Bioinformatics collects, stores, analyzes and disseminates biological data such as ____.",
+      "options": [
+        "DNA and amino acid sequences",
+        "weather records and forecasts",
+        "stock market prices",
+        "sports scores and statistics"
+      ],
+      "correctAnswer": "DNA and amino acid sequences",
+      "id": 36
+    },
+    {
+      "anki": true,
+      "question": "HCG is produced in the placenta around ____ after fertilization.",
+      "options": [
+        "six to ten days",
+        "one to two hours",
+        "six months",
+        "twenty-four weeks"
+      ],
+      "correctAnswer": "six to ten days",
+      "id": 37
+    },
+    {
+      "anki": true,
+      "question": "In a pregnancy urine test, a single line is a control line showing ____.",
+      "options": [
+        "negative (no pregnancy)",
+        "the existence of pregnancy",
+        "an HIV infection",
+        "high blood sugar"
+      ],
+      "correctAnswer": "negative (no pregnancy)",
+      "id": 38
+    },
+    {
+      "anki": true,
+      "question": "The diabetic blood test takes the blood sample from the ____.",
+      "options": [
+        "fingertip",
+        "ear lobe",
+        "heel",
+        "back of the neck"
+      ],
+      "correctAnswer": "fingertip",
+      "id": 39
+    },
+    {
+      "anki": true,
+      "question": "In a PET scan, the special dye containing radioactive tracers is swallowed, inhaled, or ____.",
+      "options": [
+        "injected into an arm vein",
+        "applied to the fingernails",
+        "dropped into the eyes",
+        "mixed with food only"
+      ],
+      "correctAnswer": "injected into an arm vein",
+      "id": 40
+    },
+    {
+      "anki": true,
+      "question": "A PET scan visualizes and measures changes in metabolic processes and physiological activities like ____.",
+      "options": [
+        "blood flow, chemical composition, and absorption",
+        "height, weight, and shoe size",
+        "hair color, eye color, and skin tone",
+        "reading speed, writing speed, and typing speed"
+      ],
+      "correctAnswer": "blood flow, chemical composition, and absorption",
+      "id": 41
+    },
+    {
+      "anki": true,
+      "question": "A CT scan is used to detect and screen for a variety of ____.",
+      "options": [
+        "diseases and conditions",
+        "mathematical equations",
+        "musical instruments",
+        "agricultural tools"
+      ],
+      "correctAnswer": "diseases and conditions",
+      "id": 42
+    },
+    {
+      "anki": true,
+      "question": "According to the unit summary, biotechnological devices are tools used to solve day-to-day biological tasks and ____.",
+      "options": [
+        "support the discovery of more information in the course of biological studies",
+        "replace all living organisms in nature",
+        "prevent students from doing laboratory work",
+        "reduce the need for biological knowledge"
+      ],
+      "correctAnswer": "support the discovery of more information in the course of biological studies",
+      "id": 43
+    },
+    {
+      "anki": true,
+      "question": "Biotechnology is the use of biology to develop new products, methods and organisms intended to ____.",
+      "options": [
+        "improve human health and society",
+        "increase industrial pollution",
+        "reduce the diversity of nature",
+        "limit the study of life"
+      ],
+      "correctAnswer": "improve human health and society",
+      "id": 44
+    },
+    {
+      "anki": true,
+      "question": "The system of manufacturing biological elements is ____.",
+      "options": [
+        "synthetic biology",
+        "environmental biology",
+        "plant biology",
+        "animal biology"
+      ],
+      "correctAnswer": "synthetic biology",
+      "id": 45
+    },
+    {
+      "anki": true,
+      "question": "The sum of techniques, skills and processes used in the production or delivery of services is ____.",
+      "options": [
+        "technology",
+        "biology",
+        "biochemistry",
+        "genetic engineering"
+      ],
+      "correctAnswer": "technology",
+      "id": 46
+    },
+    {
+      "anki": true,
+      "question": "Computer Information Technology Scanning (CITS) is a device used for investigating information on ____.",
+      "options": [
+        "diseases or cancerous areas of the human body",
+        "the distribution of species across ecosystems",
+        "the chemical composition of soils",
+        "the movement of tectonic plates"
+      ],
+      "correctAnswer": "diseases or cancerous areas of the human body",
+      "id": 47
+    },
+    {
+      "anki": true,
+      "question": "The handheld body fat calculator device is used to measure ____.",
+      "options": [
+        "body fat",
+        "body temperature",
+        "blood sugar",
+        "blood pressure"
+      ],
+      "correctAnswer": "body fat",
+      "id": 48
+    }
+  ]
+}

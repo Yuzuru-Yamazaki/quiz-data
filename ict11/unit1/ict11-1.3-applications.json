@@ -1,0 +1,346 @@
+{
+  "title": "1.3 Applications of Information Systems",
+  "description": "E-Government, E-banking, E-learning, E-commerce, Telemedicine and Teleconference",
+  "folder": "School/Grade 11/ICT/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["ict", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is e-Government?",
+      "options": [
+        "The use of information systems to provide electronic services to citizens with the purpose of increasing efficiency, transparency, and citizen participation",
+        "The buying and selling of goods over the Internet",
+        "A form of learning delivered through digital devices",
+        "The practice of caring for patients at a distance"
+      ],
+      "correctAnswer": "The use of information systems to provide electronic services to citizens with the purpose of increasing efficiency, transparency, and citizen participation"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is a portal?",
+      "options": [
+        "A web-based information system that collects information from different sources into a single user interface",
+        "A computer that stores employee salaries",
+        "A series of steps followed to achieve a goal",
+        "A set of instructions that commands the hardware"
+      ],
+      "correctAnswer": "A web-based information system that collects information from different sources into a single user interface"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which of the following municipal services can be automated and made accessible for citizens over a web portal?",
+      "options": [
+        "Business registrations, auto registry, payment of taxes, issuance of birth certificates, and issuance and renewal of identification cards",
+        "Baking bread and cooking meals",
+        "Farming and harvesting crops",
+        "Building roads and bridges"
+      ],
+      "correctAnswer": "Business registrations, auto registry, payment of taxes, issuance of birth certificates, and issuance and renewal of identification cards"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which of the following is a benefit of adopting e-government solutions?",
+      "options": [
+        "Establishing trust between governments and citizens",
+        "Requiring citizens to go to municipalities in person",
+        "Stopping the sharing of information between agencies",
+        "Increasing the cost of running government services"
+      ],
+      "correctAnswer": "Establishing trust between governments and citizens"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "With e-government services, customers can pay their monthly electric bill through which device?",
+      "options": [
+        "Their mobile phones",
+        "A paper coupon",
+        "A horse and cart",
+        "A landline telegram"
+      ],
+      "correctAnswer": "Their mobile phones"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What does the traditional banking service demand of customers?",
+      "options": [
+        "Going to the bank in person and waiting their turns to get a service",
+        "Using the Internet to make payments",
+        "Withdrawing cash from an ATM",
+        "Checking balances from home"
+      ],
+      "correctAnswer": "Going to the bank in person and waiting their turns to get a service"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What is electronic banking?",
+      "options": [
+        "A form of technology-based banking service that avoids exchange of cash, checks, or other types of paper documents",
+        "A form of banking that requires customers to visit branches every day",
+        "A form of banking that uses paper receipts only",
+        "A form of banking limited to government offices"
+      ],
+      "correctAnswer": "A form of technology-based banking service that avoids exchange of cash, checks, or other types of paper documents"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In the banking sector, IT is mainly associated with which services?",
+      "options": [
+        "Internet banking, Automated Teller Machine (ATM), and mobile banking",
+        "Postal money orders and telegrams",
+        "Checkbooks and passbooks only",
+        "Safe deposit boxes and cash registers"
+      ],
+      "correctAnswer": "Internet banking, Automated Teller Machine (ATM), and mobile banking"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which of the following are commonly known e-banking services?",
+      "options": [
+        "Automatic Teller Machine (ATM), Mobile Banking, Internet Banking, Credit cards, Debit Cards, Smart Cards, and Electronic Funds Transfer (EFT) System",
+        "Postal stamps, envelopes, and parcels",
+        "Telegrams, faxes, and telex machines",
+        "Paper checks, cashiers, and vaults only"
+      ],
+      "correctAnswer": "Automatic Teller Machine (ATM), Mobile Banking, Internet Banking, Credit cards, Debit Cards, Smart Cards, and Electronic Funds Transfer (EFT) System"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which of the following is a benefit of e-banking?",
+      "options": [
+        "The cost of operation per unit of services is lower for banks",
+        "Customers must always visit the bank branch",
+        "Customers have to wait for long queues",
+        "Banks must hire more cashiers at branches"
+      ],
+      "correctAnswer": "The cost of operation per unit of services is lower for banks"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "With e-banking, customers can withdraw cash at any time using which service?",
+      "options": [
+        "ATM service",
+        "A post office counter",
+        "A money lender",
+        "A street vendor"
+      ],
+      "correctAnswer": "ATM service"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which of the following is a challenge of e-banking?",
+      "options": [
+        "Digital theft",
+        "Immediate transaction messages",
+        "Lower cost of operation for banks",
+        "Easy account balance checking"
+      ],
+      "correctAnswer": "Digital theft"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What is e-learning?",
+      "options": [
+        "A form of learning delivered through the use of digital devices",
+        "A form of banking over the Internet",
+        "A form of government service delivery",
+        "A form of caring for patients remotely"
+      ],
+      "correctAnswer": "A form of learning delivered through the use of digital devices"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which of the following terms is also used to describe e-learning?",
+      "options": [
+        "Online learning, virtual learning, distributed learning, and computer-based learning",
+        "Postal learning and telegraph learning",
+        "Correspondence via pigeon mail",
+        "Classroom board learning only"
+      ],
+      "correctAnswer": "Online learning, virtual learning, distributed learning, and computer-based learning"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "If e-learning is provided over the Internet, what is it referred to as?",
+      "options": [
+        "Online learning",
+        "Paper learning",
+        "Street learning",
+        "Market learning"
+      ],
+      "correctAnswer": "Online learning"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Which of the following are the main components of e-learning?",
+      "options": [
+        "The Internet, computers or mobile phones, digital learning resources, content developers, and learners",
+        "Chalkboards, chalk, and erasers",
+        "Textbooks, exercise books, and pens",
+        "Exams, report cards, and principals"
+      ],
+      "correctAnswer": "The Internet, computers or mobile phones, digital learning resources, content developers, and learners"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Which of the following is a benefit that e-learning offers to learners?",
+      "options": [
+        "Flexibility in learning time",
+        "Fixed class schedules",
+        "High travel expenses",
+        "Physical isolation from resources"
+      ],
+      "correctAnswer": "Flexibility in learning time"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which of the following is a disadvantage of e-learning?",
+      "options": [
+        "Physical isolation of students from teachers and other students",
+        "Flexibility in learning time",
+        "Access to a variety of educational resources",
+        "Reduced educational costs"
+      ],
+      "correctAnswer": "Physical isolation of students from teachers and other students"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "What is e-commerce?",
+      "options": [
+        "The buying and selling of goods and services over the Internet",
+        "The use of computers in schools only",
+        "The practice of caring for patients remotely",
+        "The provision of banking services by mail"
+      ],
+      "correctAnswer": "The buying and selling of goods and services over the Internet"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "E-commerce is fundamentally which of the following?",
+      "options": [
+        "A website deployed over the Internet to handle online transactions",
+        "A physical market in the city center",
+        "A paper catalogue delivered by post",
+        "A series of radio advertisements"
+      ],
+      "correctAnswer": "A website deployed over the Internet to handle online transactions"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Which actors are involved in e-commerce transactions?",
+      "options": [
+        "Merchants, buyers or customers, banks, and transporters",
+        "Farmers, bakers, and barbers only",
+        "Teachers, students, and librarians",
+        "Doctors, nurses, and pharmacists"
+      ],
+      "correctAnswer": "Merchants, buyers or customers, banks, and transporters"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Avoiding intermediaries in e-commerce allows customers to do what?",
+      "options": [
+        "Buy products directly from manufacturers at a cheaper price avoiding wholesalers and retailers",
+        "Pay higher prices for products",
+        "Visit many physical stores",
+        "Wait for seasonal sales only"
+      ],
+      "correctAnswer": "Buy products directly from manufacturers at a cheaper price avoiding wholesalers and retailers"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Which of the following is an advantage of e-commerce?",
+      "options": [
+        "Increased bargaining power for the customer",
+        "Higher prices from local merchants",
+        "Limited access to global markets",
+        "Extra travel costs for buyers"
+      ],
+      "correctAnswer": "Increased bargaining power for the customer"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "What is telemedicine?",
+      "options": [
+        "The practice of caring for patients remotely without the caregiver and the patient being in the same physical location",
+        "The practice of teaching students online",
+        "The practice of selling goods over the Internet",
+        "The practice of paying bills through a bank"
+      ],
+      "correctAnswer": "The practice of caring for patients remotely without the caregiver and the patient being in the same physical location"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Telemedicine was originally introduced to treat which group of patients?",
+      "options": [
+        "Patients who were in remote places, far away from local health facilities, or in areas with shortages of medical professionals",
+        "Patients who live next to a hospital",
+        "Patients with very small medical bills",
+        "Patients who prefer paper prescriptions"
+      ],
+      "correctAnswer": "Patients who were in remote places, far away from local health facilities, or in areas with shortages of medical professionals"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Which of the following is an advantage of telemedicine for patients?",
+      "options": [
+        "Overcoming geographical barriers to access health care services",
+        "Paying more for travel and hotel services",
+        "Waiting months for a doctor appointment",
+        "Visiting clinics in person for every checkup"
+      ],
+      "correctAnswer": "Overcoming geographical barriers to access health care services"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "What is a teleconference?",
+      "options": [
+        "A meeting of two or more people who are separated by distance using electronic communication",
+        "A meeting where all participants sit in one room",
+        "A market where people sell goods online",
+        "A classroom where students use computers"
+      ],
+      "correctAnswer": "A meeting of two or more people who are separated by distance using electronic communication"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "What are the two popular forms of teleconferencing?",
+      "options": [
+        "Audio conferencing and video conferencing",
+        "Paper conferencing and mail conferencing",
+        "Street conferencing and market conferencing",
+        "Telephone conferencing and postal conferencing"
+      ],
+      "correctAnswer": "Audio conferencing and video conferencing"
+    }
+  ]
+}

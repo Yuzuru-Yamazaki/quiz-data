@@ -1,0 +1,192 @@
+{
+  "title": "1.3 Early Experiments to Characterize the Atom",
+  "description": "Discovery of the electron, cathode rays, radioactivity, the nucleus, and the neutron",
+  "folder": "School/Grade 11/Chemistry/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["chemistry", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The first experiment on subatomic particles was carried out in 1897 by:",
+      "options": ["J.J. Thomson", "R.A. Millikan", "Ernest Rutherford", "James Chadwick"],
+      "correctAnswer": "J.J. Thomson"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "In Thomson's cathode ray tube, the negative electrode is called the:",
+      "options": ["cathode", "anode", "polarizer", "collector plate"],
+      "correctAnswer": "cathode"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "In Thomson's cathode ray tube, the positive electrode is called the:",
+      "options": ["anode", "cathode", "photoelectrode", "emitter"],
+      "correctAnswer": "anode"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Cathode rays are rays that originate from the:",
+      "options": ["cathode (negative electrode)", "anode (positive electrode)", "glass wall of the tube", "charged metal plates"],
+      "correctAnswer": "cathode (negative electrode)"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "In Thomson's experiment, the cathode ray beam bends toward the:",
+      "options": ["positively charged plate", "negatively charged plate", "magnet poles evenly", "source of the current"],
+      "correctAnswer": "positively charged plate"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Thomson concluded from his cathode ray experiments that a cathode ray consists of a beam of:",
+      "options": ["negatively charged particles (electrons)", "positively charged particles", "neutral particles", "photons"],
+      "correctAnswer": "negatively charged particles (electrons)"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Thomson showed that the characteristics of cathode rays are independent of the:",
+      "options": ["material making up the cathode", "voltage of the source", "temperature of the tube", "length of the glass tube"],
+      "correctAnswer": "material making up the cathode"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "From his observations of cathode rays, Thomson concluded that electrons are:",
+      "options": ["constituents of all matter", "present only in metals", "identical to alpha particles", "produced only in vacuum tubes"],
+      "correctAnswer": "constituents of all matter"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The ratio of the mass of an electron to its charge ($m_e/e$) calculated by Thomson was:",
+      "options": ["$-5.686 \\times 10^{-12}$ kg C$^{-1}$", "$-1.602 \\times 10^{-19}$ kg C$^{-1}$", "$9.109 \\times 10^{-31}$ kg C$^{-1}$", "$1.008665$ kg C$^{-1}$"],
+      "correctAnswer": "$-5.686 \\times 10^{-12}$ kg C$^{-1}$"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "In 1909, the American physicist who measured the charge of the electron was:",
+      "options": ["Robert A. Millikan", "J.J. Thomson", "Ernest Rutherford", "James Chadwick"],
+      "correctAnswer": "Robert A. Millikan"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Millikan measured the charge of the electron by measuring the effect of an electrical field on the rate at which:",
+      "options": ["charged oil drops fell under the influence of gravity", "alpha particles passed through gold foil", "cathode rays bent in a magnetic field", "gas atoms emitted light"],
+      "correctAnswer": "charged oil drops fell under the influence of gravity"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The charge on the electron established by Millikan was:",
+      "options": ["$-1.602 \\times 10^{-19}$ C", "$+1.602 \\times 10^{-19}$ C", "$9.109 \\times 10^{-31}$ C", "$5.686 \\times 10^{-12}$ C"],
+      "correctAnswer": "$-1.602 \\times 10^{-19}$ C"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Using Millikan's charge and Thomson's mass-to-charge ratio, the mass of an electron ($m_e$) was calculated to be:",
+      "options": ["$9.109 \\times 10^{-31}$ kg", "$1.67262 \\times 10^{-27}$ kg", "$1.67493 \\times 10^{-27}$ kg", "$5.686 \\times 10^{-12}$ kg"],
+      "correctAnswer": "$9.109 \\times 10^{-31}$ kg"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "In Thomson's plum-pudding model, the electrons and protons of the atom were described as:",
+      "options": ["randomly distributed in a positively charged cloud", "orbiting the nucleus in circular paths", "clustered at the center of the atom", "arranged along the x, y, and z axes"],
+      "correctAnswer": "randomly distributed in a positively charged cloud"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "In 1911, Rutherford tested Thomson's model by aiming positively charged alpha particles at:",
+      "options": ["a thin sheet of gold foil", "a glass cathode ray tube", "a charged oil drop", "a beryllium target"],
+      "correctAnswer": "a thin sheet of gold foil"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Most of the alpha particles aimed at the gold foil in Rutherford's experiment:",
+      "options": ["passed through the foil undeflected", "were strongly deflected in every case", "bounced back in the opposite direction", "were absorbed by the foil"],
+      "correctAnswer": "passed through the foil undeflected"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A few of the alpha particles in Rutherford's experiment were deflected so much that they:",
+      "options": ["went back in the opposite direction", "stopped moving entirely", "were converted into gamma rays", "combined with the gold atoms"],
+      "correctAnswer": "went back in the opposite direction"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The strong deflections of alpha particles in the gold foil experiment led to the conclusion that an atom contains a:",
+      "options": ["small, positively charged nucleus", "large negatively charged cloud", "uniformly spread positive charge like a pudding", "hollow spherical shell of charge"],
+      "correctAnswer": "small, positively charged nucleus"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The observation that most alpha particles passed undeflected through the gold foil shows that the atom is mostly:",
+      "options": ["empty space", "positive charge", "negative charge", "a dense pudding"],
+      "correctAnswer": "empty space"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Alpha particles are identical to:",
+      "options": ["helium nuclei", "hydrogen nuclei", "electrons", "neutrons"],
+      "correctAnswer": "helium nuclei"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "How does the mass of an alpha particle compare with the mass of a hydrogen atom?",
+      "options": ["about four times the mass", "about half the mass", "exactly equal", "twice the mass"],
+      "correctAnswer": "about four times the mass"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Beta particles are best described as:",
+      "options": ["electrons coming from inside the nucleus", "alpha particles from the nucleus", "high-energy photons", "neutral particles"],
+      "correctAnswer": "electrons coming from inside the nucleus"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Gamma rays are best described as:",
+      "options": ["high-energy rays with no charge that are not affected by electric or magnetic fields", "positively charged particles identical to helium nuclei", "electrons emitted from the nucleus", "negatively charged particles deflected by electric fields"],
+      "correctAnswer": "high-energy rays with no charge that are not affected by electric or magnetic fields"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Radioactivity (radioactive decay) is best defined as:",
+      "options": ["the spontaneous emission of particles and/or radiation from unstable nuclei", "the deflection of cathode rays in a magnetic field", "the splitting of white light into a spectrum", "the emission of light by excited atoms"],
+      "correctAnswer": "the spontaneous emission of particles and/or radiation from unstable nuclei"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "In 1932, James Chadwick showed that when beryllium metal is irradiated with alpha rays, the strongly penetrating radiation produced consists of:",
+      "options": ["neutral particles called neutrons", "new alpha particles", "beta particles", "gamma rays"],
+      "correctAnswer": "neutral particles called neutrons"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Which statement best describes the neutron?",
+      "options": ["a nuclear particle with a mass almost identical to that of the proton but no electric charge", "a positively charged particle identical to the proton", "a particle with one negative charge", "a particle whose mass is 1840 times that of the proton"],
+      "correctAnswer": "a nuclear particle with a mass almost identical to that of the proton but no electric charge"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "title": "1.5 Electromagnetic Radiation and Atomic Spectra",
+  "description": "Electromagnetic spectrum, wave properties, photons and quantum theory, atomic spectra, the Bohr model, and wave-particle duality",
+  "folder": "School/Grade 11/Chemistry/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["chemistry", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "In 1873, which physicist proposed that light consists of electromagnetic waves?",
+      "options": ["James Clerk Maxwell", "Max Planck", "Albert Einstein", "Niels Bohr"],
+      "correctAnswer": "James Clerk Maxwell"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "An electromagnetic wave has two components that vibrate in mutually perpendicular planes. They are the:",
+      "options": ["electric field and magnetic field", "electric field and gravitational field", "magnetic field and sound wave", "wavelength and frequency"],
+      "correctAnswer": "electric field and magnetic field"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The wavelength ($\\lambda$) of an electromagnetic wave is:",
+      "options": ["the distance the wave travels during one cycle", "the number of cycles the wave undergoes per second", "the height of the wave", "the time for one cycle to pass a point"],
+      "correctAnswer": "the distance the wave travels during one cycle"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The frequency ($\\nu$) of an electromagnetic wave is the number of cycles the wave undergoes per second and is expressed in units of:",
+      "options": ["hertz (Hz) or $1/s$", "meters (m)", "joules (J)", "newtons (N)"],
+      "correctAnswer": "hertz (Hz) or $1/s$"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The speed ($c$) of a wave is related to its wavelength and frequency by:",
+      "options": ["$c = \\lambda\\nu$", "$c = \\lambda/\\nu$", "$c = \\nu/\\lambda$", "$c = \\lambda + \\nu$"],
+      "correctAnswer": "$c = \\lambda\\nu$"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "In a vacuum, electromagnetic waves travel at the speed of light, which is:",
+      "options": ["$3.0 \\times 10^8$ m/s", "$3.0 \\times 10^6$ m/s", "$6.63 \\times 10^{-34}$ m/s", "$6.02 \\times 10^{23}$ m/s"],
+      "correctAnswer": "$3.0 \\times 10^8$ m/s"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which of the following regions of the electromagnetic spectrum consists of radiation with the shortest wavelength?",
+      "options": ["gamma rays", "X-rays", "ultraviolet radiation", "visible light"],
+      "correctAnswer": "gamma rays"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In the visible spectrum, red light has a wavelength of about 750 nm and violet light a wavelength of about 380 nm. Which color has the longer wavelength?",
+      "options": ["red", "violet", "both are equal", "neither can be determined"],
+      "correctAnswer": "red"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The value of Planck's constant ($h$) used in the equation $E = h\\nu$ is:",
+      "options": ["$6.63 \\times 10^{-34}$ J·s", "$3.0 \\times 10^8$ J·s", "$2.18 \\times 10^{-18}$ J·s", "$6.02 \\times 10^{23}$ J·s"],
+      "correctAnswer": "$6.63 \\times 10^{-34}$ J·s"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "In 1900, Max Planck proposed the revolutionary idea that energy, like matter, is:",
+      "options": ["discontinuous and is emitted or absorbed only in discrete quantities called quanta", "continuous and infinitely divisible", "always in the form of mechanical work", "never absorbed, only radiated"],
+      "correctAnswer": "discontinuous and is emitted or absorbed only in discrete quantities called quanta"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "According to Planck, the energy of a single quantum is proportional to:",
+      "options": ["the frequency of the radiation", "the wavelength of the radiation", "the speed of the radiation", "the intensity of the radiation"],
+      "correctAnswer": "the frequency of the radiation"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Since $\\nu = c/\\lambda$, the energy equation $E = h\\nu$ can also be written as:",
+      "options": ["$E = hc/\\lambda$", "$E = h\\lambda/c$", "$E = c/\\lambda h$", "$E = h\\lambda c$"],
+      "correctAnswer": "$E = hc/\\lambda$"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "According to quantum theory, energy is always emitted or absorbed through a system in:",
+      "options": ["integral multiples of $h\\nu$, such as $h\\nu$, $2h\\nu$, $3h\\nu$", "any fractional multiple of $h\\nu$", "continuous amounts", "multiples of the wavelength"],
+      "correctAnswer": "integral multiples of $h\\nu$, such as $h\\nu$, $2h\\nu$, $3h\\nu$"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "In 1905, which scientist used the quantum theory to explain the photoelectric effect?",
+      "options": ["Albert Einstein", "Max Planck", "Niels Bohr", "Louis de Broglie"],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The threshold frequency ($\\nu_o$) in the photoelectric effect is the:",
+      "options": ["minimum frequency of light required to eject electrons from the metal surface", "maximum frequency of light absorbed by a metal", "frequency of the emitted light", "frequency of visible light only"],
+      "correctAnswer": "minimum frequency of light required to eject electrons from the metal surface"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "In the photoelectric effect, a photon with energy less than $E_o$ (so that $\\nu < \\nu_o$):",
+      "options": ["cannot remove an electron from the metal surface", "removes an electron with low kinetic energy", "converts into heat energy", "always ejects two electrons"],
+      "correctAnswer": "cannot remove an electron from the metal surface"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "When light with frequency greater than $\\nu_o$ strikes a metal, the energy in excess of that required to remove the electron ($h\\nu - h\\nu_o$) is given to the electron as:",
+      "options": ["kinetic energy", "potential energy", "rest mass", "magnetic energy"],
+      "correctAnswer": "kinetic energy"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "A photon is best described as:",
+      "options": ["a particle of light or an energy packet", "a continuous stream of waves", "a charged particle in the cathode ray", "a neutral subatomic particle"],
+      "correctAnswer": "a particle of light or an energy packet"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Einstein's equation $E = mc^2$ implies which of the following?",
+      "options": ["energy has mass", "mass has no relation to energy", "energy and mass are always equal in value", "energy moves at constant speed in all media"],
+      "correctAnswer": "energy has mass"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "When an electric discharge passes through hydrogen gas and the emitted light is passed through a prism, the pattern observed is:",
+      "options": ["a series of individual lines (an atomic or line spectrum)", "a continuous rainbow like sunlight", "a single broad band of white light", "no light at all"],
+      "correctAnswer": "a series of individual lines (an atomic or line spectrum)"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "The wavelengths of the lines in an element's emission spectrum are:",
+      "options": ["characteristic of the element producing them and used for its identification", "identical for every element", "the same as those of sunlight", "produced only by metals"],
+      "correctAnswer": "characteristic of the element producing them and used for its identification"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "According to Bohr's model, the electron in a hydrogen atom travels around the nucleus in a circular orbit, and the energy of the electron is proportional to:",
+      "options": ["its distance from the nucleus (the further, the more energy)", "its spin direction", "the number of protons", "the mass of the nucleus"],
+      "correctAnswer": "its distance from the nucleus (the further, the more energy)"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Bohr introduced the quantum condition that the angular momentum of the electron ($mvr$) can take only values that are:",
+      "options": ["integral multiples of $h/2\\pi$", "integral multiples of $h$", "arbitrary real numbers", "multiples of $2\\pi h$"],
+      "correctAnswer": "integral multiples of $h/2\\pi$"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "According to Bohr, the radius of the first (lowest) orbit ($n = 1$) of the hydrogen atom is:",
+      "options": ["$0.53$ Å", "$0.53$ nm", "$1.06$ Å", "$9.11 \\times 10^{-31}$ m"],
+      "correctAnswer": "$0.53$ Å"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Bohr showed that the energy of the electron in the hydrogen atom is $E_n = -R_H/n^2$, where $R_H = 2.18 \\times 10^{-18}$ J. The negative sign signifies that:",
+      "options": ["the energy of the electron in the atom is lower than that of a free electron", "the energy of the electron is always negative in value", "the atom emits negative energy", "the electron has no energy"],
+      "correctAnswer": "the energy of the electron in the atom is lower than that of a free electron"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "The ground state of the hydrogen atom, the most stable energy state, corresponds to:",
+      "options": ["$n = 1$", "$n = 2$", "$n = 3$", "$n$ approaching infinity"],
+      "correctAnswer": "$n = 1$"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Which series of lines in the hydrogen emission spectrum falls mainly in the visible region and was therefore easy to study?",
+      "options": ["the Balmer series", "the Lyman series", "the Paschen series", "the Brackett series"],
+      "correctAnswer": "the Balmer series"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Louis de Broglie (1924) proposed that if energy is particle-like, then matter is wavelike. The de Broglie wavelength of any particle of mass $m$ moving with speed $v$ is given by:",
+      "options": ["$\\lambda = h/mv$", "$\\lambda = mv/h$", "$\\lambda = hmv$", "$\\lambda = hc/mv$"],
+      "correctAnswer": "$\\lambda = h/mv$"
+    }
+  ]
+}

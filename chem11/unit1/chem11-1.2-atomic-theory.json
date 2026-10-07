@@ -1,0 +1,178 @@
+{
+  "title": "1.2 Dalton's Atomic Theory and the Modern Atomic Theory",
+  "description": "Postulates of Dalton's atomic theory and modern atomic theory",
+  "folder": "School/Grade 11/Chemistry/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["chemistry", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which ancient Greek philosopher proposed that dividing matter into smaller pieces eventually produces tiny, indestructible particles called atomos?",
+      "options": ["Democritus", "Plato", "Aristotle", "John Dalton"],
+      "correctAnswer": "Democritus"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The Greek word atomos, used by Democritus for the smallest particles of matter, means:",
+      "options": ["indivisible", "invisible", "continuous", "permanent"],
+      "correctAnswer": "indivisible"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which philosophers of ancient Greece believed that matter is continuous rather than composed of ultimate indivisible particles?",
+      "options": ["Plato and Aristotle", "Democritus only", "John Dalton", "J.J. Thomson"],
+      "correctAnswer": "Plato and Aristotle"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The ideas of Democritus about atoms were based on:",
+      "options": ["philosophical speculation rather than experimental evidence", "careful laboratory experiments", "observations of cathode rays", "the law of conservation of mass"],
+      "correctAnswer": "philosophical speculation rather than experimental evidence"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Democritus's ideas about atoms gained broad acceptance for the first time in the year:",
+      "options": ["1808", "1897", "1909", "1932"],
+      "correctAnswer": "1808"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The scientist who developed an atomic theory that gained broad acceptance in 1808 was:",
+      "options": ["John Dalton", "Democritus", "J.J. Thomson", "Niels Bohr"],
+      "correctAnswer": "John Dalton"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Dalton's atomic theory was based on which of the following pairs of scientific laws?",
+      "options": ["conservation of mass and definite proportions", "multiple proportions and radioactivity", "electromagnetism and thermodynamics", "periodic law and Avogadro's hypothesis"],
+      "correctAnswer": "conservation of mass and definite proportions"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The law stating that the total mass of the products equals the total mass of the reactants in a chemical reaction is the law of:",
+      "options": ["conservation of mass", "definite proportions", "multiple proportions", "constant temperature"],
+      "correctAnswer": "conservation of mass"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Water is 11.2% hydrogen and 88.8% oxygen by mass. The mass of hydrogen in 18.0 g of water is:",
+      "options": ["$2.02$ g", "$15.98$ g", "$0.112$ g", "$11.2$ g"],
+      "correctAnswer": "$2.02$ g"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Regardless of its source, water is always 11.2% hydrogen and 88.8% oxygen by mass. This illustrates the law of:",
+      "options": ["definite proportions", "conservation of mass", "multiple proportions", "periodic law"],
+      "correctAnswer": "definite proportions"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The law of multiple proportions states that when two elements form a series of compounds, the masses of one element that combine with a fixed mass of the other are in the ratio of:",
+      "options": ["small whole numbers", "large random numbers", "equal numbers", "atomic numbers of the elements"],
+      "correctAnswer": "small whole numbers"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The masses of nitrogen that combine with 1 g of oxygen in three compounds were 1.750 g, 0.8750 g, and 0.4375 g. These masses are in the ratio:",
+      "options": ["$4:2:1$", "$1:2:4$", "$2:3:5$", "$3:2:1$"],
+      "correctAnswer": "$4:2:1$"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Using the law of definite proportions, decomposing 1.00 g of water produces:",
+      "options": ["0.112 g of hydrogen and 0.888 g of oxygen", "0.888 g of hydrogen and 0.112 g of oxygen", "0.056 g of hydrogen and 0.944 g of oxygen", "0.500 g of hydrogen and 0.500 g of oxygen"],
+      "correctAnswer": "0.112 g of hydrogen and 0.888 g of oxygen"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "How many postulates does Dalton's atomic theory contain?",
+      "options": ["five", "three", "four", "seven"],
+      "correctAnswer": "five"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which of the following is one of the postulates of Dalton's atomic theory?",
+      "options": ["matter is composed of tiny, indivisible particles called atoms", "atoms contain electrons, protons, and neutrons", "atoms of the same element may have different masses", "energy is emitted in discrete quanta"],
+      "correctAnswer": "matter is composed of tiny, indivisible particles called atoms"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "In Dalton's atomic theory, atoms of the same element are:",
+      "options": ["identical in mass and properties", "different in mass", "electrically charged", "capable of being divided into smaller particles"],
+      "correctAnswer": "identical in mass and properties"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "According to Dalton's atomic theory, atoms of different elements combine to form compounds in:",
+      "options": ["simple whole-number ratios", "any random ratios", "fractional ratios", "a continuous range of ratios"],
+      "correctAnswer": "simple whole-number ratios"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Dalton's atomic theory explains the law of conservation of mass by stating that in a chemical reaction atoms are:",
+      "options": ["neither created nor destroyed", "created in equal numbers", "destroyed and recreated", "divided into smaller pieces"],
+      "correctAnswer": "neither created nor destroyed"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The modern atomic theory is generally said to begin with:",
+      "options": ["John Dalton", "Democritus", "J.J. Thomson", "Ernest Rutherford"],
+      "correctAnswer": "John Dalton"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Dalton's work was mainly focused on:",
+      "options": ["the chemistry of how atoms combine to form new compounds", "the internal structure of atoms", "the discovery of the electron", "the charge of the nucleus"],
+      "correctAnswer": "the chemistry of how atoms combine to form new compounds"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "The modern theory about the physical structure of atoms began when J.J. Thomson discovered which particle in 1897?",
+      "options": ["the electron", "the proton", "the neutron", "the nucleus"],
+      "correctAnswer": "the electron"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "The discovery of isotopes showed that atoms of the same element can differ in their:",
+      "options": ["mass number", "atomic number", "number of protons", "chemical behavior"],
+      "correctAnswer": "mass number"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Which postulate of Dalton's atomic theory is inconsistent with the existence of isotopes?",
+      "options": ["all atoms of the same element are identical in mass and properties", "atoms combine in simple whole-number ratios", "matter is composed of atoms", "chemical reactions rearrange atoms"],
+      "correctAnswer": "all atoms of the same element are identical in mass and properties"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Which idea from Dalton's atomic theory continues to have significance in the modern atomic theory?",
+      "options": ["matter is composed of atoms", "atoms are indivisible", "atoms of an element are identical in mass", "the atom has no internal structure"],
+      "correctAnswer": "matter is composed of atoms"
+    }
+  ]
+}

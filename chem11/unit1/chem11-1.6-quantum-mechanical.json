@@ -1,0 +1,178 @@
+{
+  "title": "1.6 The Quantum Mechanical Model of the Atom",
+  "description": "Heisenberg uncertainty principle, quantum numbers, and shapes of atomic orbitals",
+  "folder": "School/Grade 11/Chemistry/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["chemistry", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The quantum mechanical description of the atom depends on two central concepts:",
+      "options": ["the wave behavior of matter and the uncertainty principle", "the plum-pudding model and quantization", "gravity and electromagnetism", "radioactivity and isotopes"],
+      "correctAnswer": "the wave behavior of matter and the uncertainty principle"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The Heisenberg uncertainty principle states that knowing both the position and the momentum of an electron at the same time is:",
+      "options": ["impossible", "easy for large atoms", "guaranteed in excited states", "required for stable orbits"],
+      "correctAnswer": "impossible"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "In the uncertainty principle, the momentum of an electron is given by:",
+      "options": ["$p = mv$", "$p = m/v$", "$p = m + v$", "$p = h\\nu$"],
+      "correctAnswer": "$p = mv$"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Heisenberg showed that the uncertainty in position ($\\Delta x$) and the uncertainty in momentum ($\\Delta p$) of an electron satisfy the relation:",
+      "options": ["$(\\Delta x)(\\Delta p) \\geq h/4\\pi$", "$(\\Delta x)(\\Delta p) = h$", "$(\\Delta x)(\\Delta p) \\leq h/4\\pi$", "$(\\Delta x)(\\Delta p) \\geq 4\\pi h$"],
+      "correctAnswer": "$(\\Delta x)(\\Delta p) \\geq h/4\\pi$"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "According to the uncertainty principle, if the momentum of a particle is measured precisely (small $\\Delta p$), then the position of the particle:",
+      "options": ["becomes correspondingly less precise (larger $\\Delta x$)", "also becomes more precise", "becomes completely fixed", "can be measured separately with equal precision"],
+      "correctAnswer": "becomes correspondingly less precise (larger $\\Delta x$)"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The Heisenberg uncertainty principle has very significant consequences when it is applied to:",
+      "options": ["atomic and subatomic particles", "everyday objects in the macroscopic world", "the motion of planets", "the speed of light"],
+      "correctAnswer": "atomic and subatomic particles"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Erwin Schrodinger suggested that an electron exhibiting wavelike properties can be described by a mathematical equation called a wave function, represented by:",
+      "options": ["$\\psi$", "$\\lambda$", "$\\nu$", "$\\pi$"],
+      "correctAnswer": "$\\psi$"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In quantum mechanics, the square of the wave function ($\\psi^2$) gives:",
+      "options": ["the probability of finding an electron in a certain region of space", "the exact location of the electron", "the speed of the electron", "the charge of the electron"],
+      "correctAnswer": "the probability of finding an electron in a certain region of space"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The region in which an electron is most likely to be found in an atom is called:",
+      "options": ["an orbital", "a shell", "a nucleus", "a quantum"],
+      "correctAnswer": "an orbital"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "In quantum mechanics, each electron in an atom is described by how many quantum numbers?",
+      "options": ["four", "three", "two", "five"],
+      "correctAnswer": "four"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The principal quantum number ($n$) describes the main energy level or shell of the electron and:",
+      "options": ["may be any positive integer, $n = 1, 2, 3, 4, \\dots$", "may be any integer including zero", "may be any fraction", "is always equal to the charge"],
+      "correctAnswer": "may be any positive integer, $n = 1, 2, 3, 4, \\dots$"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which quantum number designates the shape of the atomic orbitals?",
+      "options": ["the angular momentum quantum number ($\\ell$)", "the principal quantum number ($n$)", "the magnetic quantum number ($m_\\ell$)", "the spin quantum number ($m_s$)"],
+      "correctAnswer": "the angular momentum quantum number ($\\ell$)"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "For a given principal quantum number $n$, the angular momentum quantum number $\\ell$ can take the values:",
+      "options": ["$0, 1, 2, \\dots, n-1$", "$1, 2, 3, \\dots, n$", "$-n, \\dots, 0, \\dots, +n$", "$0$ and $1$ only"],
+      "correctAnswer": "$0, 1, 2, \\dots, n-1$"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which value of the angular momentum quantum number ($\\ell$) corresponds to the p subshell?",
+      "options": ["1", "0", "2", "3"],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "In the designation 4d, the number 4 and the letter d indicate respectively that:",
+      "options": ["$n = 4$ and $\\ell = 2$", "$n = 2$ and $\\ell = 4$", "$n = 4$ and $\\ell = 3$", "$n = 4$ and $m_\\ell = 2$"],
+      "correctAnswer": "$n = 4$ and $\\ell = 2$"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "For a given energy level, $n$, the total number of orbitals is:",
+      "options": ["$n^2$", "$2n^2$", "$2\\ell + 1$", "$n$"],
+      "correctAnswer": "$n^2$"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "For the principal quantum number $n = 4$, the angular momentum quantum number $\\ell$ has the values:",
+      "options": ["0, 1, 2, and 3", "1, 2, 3, and 4", "0, 1, and 2", "only 0"],
+      "correctAnswer": "0, 1, 2, and 3"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The magnetic quantum number ($m_\\ell$) is related to which property of an orbital?",
+      "options": ["the orientation of the orbital in space", "the size of the orbital", "the shape of the orbital", "the spin of the electron"],
+      "correctAnswer": "the orientation of the orbital in space"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The magnetic quantum number ($m_\\ell$) takes integral values in the range:",
+      "options": ["from $-\\ell$ to $+\\ell$, including 0", "from 0 to $n-1$", "only 0", "from 1 to $\\ell$"],
+      "correctAnswer": "from $-\\ell$ to $+\\ell$, including 0"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "The number of possible $m_\\ell$ values (orbitals) for a given value of $\\ell$ is:",
+      "options": ["$2\\ell + 1$", "$2n^2$", "$\\ell^2$", "$2\\ell$"],
+      "correctAnswer": "$2\\ell + 1$"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "For every set of $n$, $\\ell$, and $m_\\ell$ values, the electron spin quantum number ($m_s$) can take the values:",
+      "options": ["$+1/2$ or $-1/2$", "$0$ or $1$", "$+1$ or $-1$", "any integer"],
+      "correctAnswer": "$+1/2$ or $-1/2$"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "According to the spin quantum number rule, how many electrons can a single atomic orbital accommodate?",
+      "options": ["two electrons, one with $m_s = +1/2$ and one with $m_s = -1/2$", "one electron only", "four electrons", "an unlimited number"],
+      "correctAnswer": "two electrons, one with $m_s = +1/2$ and one with $m_s = -1/2$"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "The shape of all s orbitals is:",
+      "options": ["spherical (spherically symmetrical about the nucleus)", "dumbbell-shaped", "complex with four lobes", "pointed along the x-axis"],
+      "correctAnswer": "spherical (spherically symmetrical about the nucleus)"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "The p orbitals are arranged along three mutually perpendicular axes and are shaped like:",
+      "options": ["dumbbells", "spheres", "rings", "pyramids"],
+      "correctAnswer": "dumbbells"
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "title": "1.1 Learning from Nature",
+  "description": "Technologies imitated from biological nature",
+  "folder": "School/Grade 11/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit1"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is nature?",
+      "options": [
+        "The collection of all human-made technological devices",
+        "Only the living organisms and their ecosystems",
+        "The application of scientific knowledge to produce tools",
+        "The physical, natural and material world of life that exists without human intervention"
+      ],
+      "correctAnswer": "The physical, natural and material world of life that exists without human intervention"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Scientists and engineers learn from nature mainly through ____.",
+      "options": [
+        "Photographing",
+        "Imitation",
+        "Sketching",
+        "Measuring"
+      ],
+      "correctAnswer": "Imitation"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Scientists and engineers imitate the ____ of natural facts.",
+      "options": [
+        "physical structures, shapes, materials and functional mechanisms",
+        "colors and scents only",
+        "habitats and feeding habits only",
+        "sizes and weights only"
+      ],
+      "correctAnswer": "physical structures, shapes, materials and functional mechanisms"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Through imitation of nature, technologies are tuned into more efficient systems at ____ scales.",
+      "options": [
+        "micro and milli",
+        "mega and giga",
+        "macro (large) and nano (very small)",
+        "atomic and galactic"
+      ],
+      "correctAnswer": "macro (large) and nano (very small)"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The design of house buildings was inspired by ____.",
+      "options": [
+        "spider webs",
+        "swallow nests",
+        "termite mounds",
+        "bee hives"
+      ],
+      "correctAnswer": "swallow nests"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Weaving technology was developed by studying the formation of ____.",
+      "options": [
+        "termite mounds",
+        "swallow nests",
+        "ant colonies",
+        "spider webs"
+      ],
+      "correctAnswer": "spider webs"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Buildings that imitate termite mound architecture have ____.",
+      "options": [
+        "chimneys with constant temperature and humidity",
+        "rotating doors and windows",
+        "glass roofs that absorb solar heat",
+        "underground water reservoirs"
+      ],
+      "correctAnswer": "chimneys with constant temperature and humidity"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The building in Harare designed by imitating termite mounds is ____.",
+      "options": [
+        "the Parliament House",
+        "the National Museum",
+        "the East Gate Center",
+        "the Millennium Building"
+      ],
+      "correctAnswer": "the East Gate Center"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Aircraft wings and flight techniques were designed by imitating the wings of ____.",
+      "options": [
+        "fish and turtles",
+        "birds and bats",
+        "insects and spiders",
+        "dogs and cats"
+      ],
+      "correctAnswer": "birds and bats"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The technology of the photograph camera was made by imitating ____.",
+      "options": [
+        "the frog eye",
+        "the bat's ear",
+        "the dog's nose",
+        "the human eye"
+      ],
+      "correctAnswer": "the human eye"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The movement of bio-robots was designed from the movement of ____.",
+      "options": [
+        "a kangaroo",
+        "a horse",
+        "a snake",
+        "a camel"
+      ],
+      "correctAnswer": "a kangaroo"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Injection needle technology was copied from the ____.",
+      "options": [
+        "scorpion's stinger",
+        "honey bee's stinger",
+        "mosquito's proboscis",
+        "snake's fang"
+      ],
+      "correctAnswer": "mosquito's proboscis"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The sensors of electrical devices are imitations of ____.",
+      "options": [
+        "plant roots",
+        "biological neurons",
+        "animal whiskers",
+        "human nails"
+      ],
+      "correctAnswer": "biological neurons"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A cutting saw was imitated from ____.",
+      "options": [
+        "the claws of birds",
+        "the antennae of insects",
+        "the beak of a kingfisher",
+        "the sharp teeth of animals"
+      ],
+      "correctAnswer": "the sharp teeth of animals"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Synthetic bulletproof vests are imitations of ____.",
+      "options": [
+        "the spin silks of spiders",
+        "the exoskeletons of shellfish",
+        "the scales of reptiles",
+        "the wool of sheep"
+      ],
+      "correctAnswer": "the spin silks of spiders"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Ceramics are an imitation of ____.",
+      "options": [
+        "the honeycomb structure of bee hives",
+        "the eggshell of birds",
+        "the crack-resistant exoskeleton of shellfish",
+        "the tusk of elephants"
+      ],
+      "correctAnswer": "the crack-resistant exoskeleton of shellfish"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A robotic arm was imitated from ____.",
+      "options": [
+        "an octopus's tentacle",
+        "an elephant's trunk",
+        "a monkey's arm",
+        "a giraffe's neck"
+      ],
+      "correctAnswer": "an elephant's trunk"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The noses of bullet trains were designed by imitating ____.",
+      "options": [
+        "the snout of a dolphin",
+        "the head of a shark",
+        "the beak of an eagle",
+        "the beak of a kingfisher"
+      ],
+      "correctAnswer": "the beak of a kingfisher"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Nature inspires scientists and engineers and serves as ____.",
+      "options": [
+        "a reliable source of knowledge, ideas and concepts",
+        "a source of raw materials only",
+        "the main supplier of energy",
+        "an obstacle to technological design"
+      ],
+      "correctAnswer": "a reliable source of knowledge, ideas and concepts"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Many technologies we use today have imitated ____.",
+      "options": [
+        "only large land mammals",
+        "only aquatic organisms",
+        "birds, bats, termites, spiders, bees, ants and parts of the human body",
+        "only plants and fungi"
+      ],
+      "correctAnswer": "birds, bats, termites, spiders, bees, ants and parts of the human body"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Termite mounds are characterized by ____.",
+      "options": [
+        "rapid changes in rainfall",
+        "constant temperature and humidity",
+        "extremely low humidity",
+        "ever-changing temperature"
+      ],
+      "correctAnswer": "constant temperature and humidity"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Which technology was copied from the proboscis of a mosquito?",
+      "options": [
+        "Blood pressure monitor",
+        "Ventilator",
+        "X-ray machine",
+        "Injection needle"
+      ],
+      "correctAnswer": "Injection needle"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Which technology imitates the elephant's trunk?",
+      "options": [
+        "Robotic arm",
+        "Cutting saw",
+        "Camera lens",
+        "Loudspeaker"
+      ],
+      "correctAnswer": "Robotic arm"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Which technology was imitated from the sharp teeth of animals?",
+      "options": [
+        "Injection needle",
+        "Robotic arm",
+        "Cutting saw",
+        "Bulletproof vest"
+      ],
+      "correctAnswer": "Cutting saw"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Which technology imitates the spin silks of spiders?",
+      "options": [
+        "Fiber optic cable",
+        "Synthetic bulletproof vest",
+        "Nylon rope",
+        "Stainless steel mesh"
+      ],
+      "correctAnswer": "Synthetic bulletproof vest"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Which technology was developed by imitating the human eye?",
+      "options": [
+        "Ultrasound machine",
+        "Stethoscope",
+        "Steam engine",
+        "Photograph camera"
+      ],
+      "correctAnswer": "Photograph camera"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Which technology was designed from the movement of a kangaroo?",
+      "options": [
+        "Movement of bio-robots",
+        "Automatic braking system",
+        "Parachute",
+        "Crane machine"
+      ],
+      "correctAnswer": "Movement of bio-robots"
+    },
+    {
+      "anki": true,
+      "question": "Imitation can be defined as learning from nature by copying ____.",
+      "options": [
+        "natural structures, shapes, materials and functional mechanisms",
+        "man-made tools and industrial machinery",
+        "mathematical formulas and computer codes",
+        "written laws and social customs"
+      ],
+      "correctAnswer": "natural structures, shapes, materials and functional mechanisms",
+      "id": 28
+    },
+    {
+      "anki": true,
+      "question": "Nature includes landscape sceneries, water and forest ecosystems, weather, organisms, geology, ____ and inanimate objects.",
+      "options": [
+        "celestial bodies",
+        "laboratory instruments",
+        "factory chimneys",
+        "computer networks"
+      ],
+      "correctAnswer": "celestial bodies",
+      "id": 29
+    },
+    {
+      "anki": true,
+      "question": "The better scientists understand the diverse nature of biological materials, the better their ability to ____.",
+      "options": [
+        "develop technologies",
+        "avoid scientific research",
+        "reduce biological diversity",
+        "replace all living organisms"
+      ],
+      "correctAnswer": "develop technologies",
+      "id": 30
+    },
+    {
+      "anki": true,
+      "question": "Nature provides doable structures and forms which can be developed as functional and applicable mechanisms for various ____.",
+      "options": [
+        "technological systems",
+        "school curricula",
+        "musical compositions",
+        "political institutions"
+      ],
+      "correctAnswer": "technological systems",
+      "id": 31
+    },
+    {
+      "anki": true,
+      "question": "The successful design of many technologies from robotics to ____ was achieved through imitating nature.",
+      "options": [
+        "material sciences",
+        "pure mathematics",
+        "spoken language",
+        "domestic cooking"
+      ],
+      "correctAnswer": "material sciences",
+      "id": 32
+    },
+    {
+      "anki": true,
+      "question": "The first heavy aircraft technology was designed by imitating ____.",
+      "options": [
+        "birds",
+        "fish",
+        "reptiles",
+        "worms"
+      ],
+      "correctAnswer": "birds",
+      "id": 33
+    },
+    {
+      "anki": true,
+      "question": "In Inquiry activity 1.2, for each technology students identify the ____ that was imitated.",
+      "options": [
+        "natural source(s)",
+        "market price",
+        "production date",
+        "patent holder"
+      ],
+      "correctAnswer": "natural source(s)",
+      "id": 34
+    },
+    {
+      "anki": true,
+      "question": "In Lab activity 1.1, students construct a model of a ____ to imitate nature.",
+      "options": [
+        "human hand",
+        "human eye",
+        "human ear",
+        "human foot"
+      ],
+      "correctAnswer": "human hand",
+      "id": 35
+    },
+    {
+      "anki": true,
+      "question": "The human hand model in Lab activity 1.1 is constructed with ____.",
+      "options": [
+        "jointed finger structures",
+        "solid wooden fingers",
+        "flexible rubber tubes",
+        "metal springs only"
+      ],
+      "correctAnswer": "jointed finger structures",
+      "id": 36
+    },
+    {
+      "anki": true,
+      "question": "In Lab activity 1.1, students paint the hand model with ____.",
+      "options": [
+        "pertinent color",
+        "golden paint only",
+        "black paint only",
+        "transparent glue"
+      ],
+      "correctAnswer": "pertinent color",
+      "id": 37
+    },
+    {
+      "anki": true,
+      "question": "Which assessment question in Lab activity 1.1 asks students to compare the model with a real hand?",
+      "options": [
+        "How closely does your model hand match a natural human hand?",
+        "What other technologies could be developed by imitating nature?",
+        "What is missing in imitating the model to full function of human hand?",
+        "How many different materials did the model use?"
+      ],
+      "correctAnswer": "How closely does your model hand match a natural human hand?",
+      "id": 38
+    },
+    {
+      "anki": true,
+      "question": "An assessment in Lab activity 1.1 asks what is missing in imitating the model to the full function of the ____.",
+      "options": [
+        "human hand",
+        "human eye",
+        "human heart",
+        "human lung"
+      ],
+      "correctAnswer": "human hand",
+      "id": 39
+    },
+    {
+      "anki": true,
+      "question": "Lab activity 1.1 asks students to suggest other technologies that could be developed by ____.",
+      "options": [
+        "imitating nature",
+        "copying human inventions",
+        "purchasing foreign machines",
+        "following fashion trends"
+      ],
+      "correctAnswer": "imitating nature",
+      "id": 40
+    },
+    {
+      "anki": true,
+      "question": "According to the unit summary, human beings learn powerful lessons from nature like the technologies of flight, submarine, bullet train, ____ and other engineering and architectures.",
+      "options": [
+        "flipper",
+        "telephone",
+        "telescope",
+        "typewriter"
+      ],
+      "correctAnswer": "flipper",
+      "id": 41
+    },
+    {
+      "anki": true,
+      "question": "Organisms have well-adapted structures that make them survive in their ____.",
+      "options": [
+        "immediate environment",
+        "urban markets",
+        "manufacturing plants",
+        "classroom desks"
+      ],
+      "correctAnswer": "immediate environment",
+      "id": 42
+    },
+    {
+      "anki": true,
+      "question": "The design and adaptation of many technologies we utilize today imitated ____.",
+      "options": [
+        "natural working systems",
+        "musical instruments",
+        "sporting rules",
+        "religious symbols"
+      ],
+      "correctAnswer": "natural working systems",
+      "id": 43
+    },
+    {
+      "anki": true,
+      "question": "In Inquiry activity 1.2, students research the natural sources using ____.",
+      "options": [
+        "the internet and/or available textbooks",
+        "television news only",
+        "personal guesses only",
+        "weather forecasts only"
+      ],
+      "correctAnswer": "the internet and/or available textbooks",
+      "id": 44
+    },
+    {
+      "anki": true,
+      "question": "Which of these technologies is included in Inquiry activity 1.2 for identifying its natural source?",
+      "options": [
+        "Techniques for preserving live vaccines",
+        "A household refrigerator",
+        "A solar water heater",
+        "A subway railway"
+      ],
+      "correctAnswer": "Techniques for preserving live vaccines",
+      "id": 45
+    },
+    {
+      "anki": true,
+      "question": "One of the learning outcomes of section 1.1 is the ability to ____.",
+      "options": [
+        "design devices from biological structural mechanisms",
+        "classify animals into vertebrates and invertebrates",
+        "measure the blood sugar of patients",
+        "forecast seasonal weather patterns"
+      ],
+      "correctAnswer": "design devices from biological structural mechanisms",
+      "id": 46
+    },
+    {
+      "anki": true,
+      "question": "In Lab activity 1.1, the materials needed to construct the model are ____.",
+      "options": [
+        "locally available resources",
+        "expensive imported machinery",
+        "laboratory chemicals only",
+        "computer software only"
+      ],
+      "correctAnswer": "locally available resources",
+      "id": 47
+    },
+    {
+      "anki": true,
+      "question": "Inquiry activity 1.2 is titled ____.",
+      "options": [
+        "Technologies imitating nature",
+        "Uses of technological tools",
+        "Construction of models imitating nature",
+        "Learning biology from professionals"
+      ],
+      "correctAnswer": "Technologies imitating nature",
+      "id": 48
+    }
+  ]
+}

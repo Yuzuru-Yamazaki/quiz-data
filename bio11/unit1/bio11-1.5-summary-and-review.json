@@ -1,0 +1,302 @@
+{
+  "title": "1.5 Unit Synopsis and Review Questions",
+  "description": "Unit 1 summary points and textbook review questions",
+  "folder": "School/Grade 11/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit1"
+  ],
+  "questions": [
+    {
+      "question": "According to the unit summary, biology is a ____ studying living organisms from the simplest to the most complex ones.",
+      "options": [
+        "natural science",
+        "social science",
+        "formal science",
+        "applied science"
+      ],
+      "correctAnswer": "natural science",
+      "id": 1,
+      "anki": true
+    },
+    {
+      "question": "Biology studies living organisms from ____.",
+      "options": [
+        "the simplest to the most complex ones",
+        "the largest to the smallest economies",
+        "the oldest to the newest inventions",
+        "the hottest to the coldest planets"
+      ],
+      "correctAnswer": "the simplest to the most complex ones",
+      "id": 2,
+      "anki": true
+    },
+    {
+      "question": "Biology is dependent on technology in terms of ____.",
+      "options": [
+        "using devices",
+        "producing food crops",
+        "creating weather patterns",
+        "forming rocks and minerals"
+      ],
+      "correctAnswer": "using devices",
+      "id": 3,
+      "anki": true
+    },
+    {
+      "question": "Biology and technology are tightly blended and form biotechnology, which is useful in designing various devices and engineering systems to ____.",
+      "options": [
+        "solve complex human problems",
+        "increase industrial waste",
+        "reduce the study of life",
+        "destroy natural habitats"
+      ],
+      "correctAnswer": "solve complex human problems",
+      "id": 4,
+      "anki": true
+    },
+    {
+      "question": "Biology and technology are tightly blended and form biotechnology, which is useful in designing various ____ and engineering systems.",
+      "options": [
+        "devices",
+        "storms",
+        "volcanoes",
+        "earthquakes"
+      ],
+      "correctAnswer": "devices",
+      "id": 5,
+      "anki": true
+    },
+    {
+      "question": "The benefits of biology to technology are ____.",
+      "options": [
+        "biological information on biological systems helpful to derive technological systems, working mechanisms and related products",
+        "industrial effluents that pollute clean air and drinking water",
+        "the depletion of natural resources caused by technology",
+        "biological weapons that destroy the natural world"
+      ],
+      "correctAnswer": "biological information on biological systems helpful to derive technological systems, working mechanisms and related products",
+      "id": 6,
+      "anki": true
+    },
+    {
+      "question": "The benefits of biology to technology are biological information on ____ helpful to derive technological systems, working mechanisms and related products.",
+      "options": [
+        "biological systems",
+        "industrial wastes",
+        "chemical fertilizers",
+        "metallic ores"
+      ],
+      "correctAnswer": "biological systems",
+      "id": 7,
+      "anki": true
+    },
+    {
+      "question": "Biological information on biological systems is helpful to derive technological systems, working mechanisms and ____.",
+      "options": [
+        "related products",
+        "industrial wastes",
+        "food shortages",
+        "health hazards"
+      ],
+      "correctAnswer": "related products",
+      "id": 8,
+      "anki": true
+    },
+    {
+      "question": "Uses of technology in biology deal with ____ in the biological study process.",
+      "options": [
+        "technical applications",
+        "industrial emissions",
+        "agricultural fertilizers",
+        "household appliances"
+      ],
+      "correctAnswer": "technical applications",
+      "id": 9,
+      "anki": true
+    },
+    {
+      "question": "Uses of technology in biology deal with technical applications in the biological study process to ____.",
+      "options": [
+        "investigate biological information",
+        "pollute clean drinking water",
+        "increase industrial wastes",
+        "deplete natural resources"
+      ],
+      "correctAnswer": "investigate biological information",
+      "id": 10,
+      "anki": true
+    },
+    {
+      "question": "According to the unit review, humans started house building by learning from ____.",
+      "options": [
+        "swallows",
+        "spiders",
+        "bees",
+        "ants"
+      ],
+      "correctAnswer": "swallows",
+      "id": 11,
+      "anki": true
+    },
+    {
+      "question": "According to the unit review, the blending of biology and technology ____.",
+      "options": [
+        "makes biotechnology",
+        "prevents biotechnology",
+        "replaces biology",
+        "ends all research"
+      ],
+      "correctAnswer": "makes biotechnology",
+      "id": 12,
+      "anki": true
+    },
+    {
+      "question": "According to the unit review, the East Gate Center building in Harare is designed by imitating ____.",
+      "options": [
+        "the mound architecture of termites",
+        "the formation of spider webs",
+        "the nests of swallows",
+        "the webs of social ants"
+      ],
+      "correctAnswer": "the mound architecture of termites",
+      "id": 13,
+      "anki": true
+    },
+    {
+      "question": "Animals are described as sentient creatures. This means they ____.",
+      "options": [
+        "have the capacity to feel pain",
+        "can produce their own food by photosynthesis",
+        "lack a nervous system entirely",
+        "are unaffected by emotional stress"
+      ],
+      "correctAnswer": "have the capacity to feel pain",
+      "id": 14,
+      "anki": true
+    },
+    {
+      "question": "Part I of the unit review consists of ____.",
+      "options": [
+        "true or false items",
+        "multiple-choice test items",
+        "essay questions",
+        "laboratory reports"
+      ],
+      "correctAnswer": "true or false items",
+      "id": 15,
+      "anki": true
+    },
+    {
+      "question": "Part II of the unit review consists of ____.",
+      "options": [
+        "multiple-choice test items",
+        "true or false items",
+        "essay questions",
+        "oral presentations"
+      ],
+      "correctAnswer": "multiple-choice test items",
+      "id": 16,
+      "anki": true
+    },
+    {
+      "question": "Part III of the unit review directs students to ____.",
+      "options": [
+        "write a short answer to each question",
+        "circle the correct alternative",
+        "mark each statement true or false",
+        "draw a labelled diagram"
+      ],
+      "correctAnswer": "write a short answer to each question",
+      "id": 17,
+      "anki": true
+    },
+    {
+      "question": "Which of the following is an essay question listed in Part III of the unit review?",
+      "options": [
+        "What are the ethical issues of biology?",
+        "What is the capital city of Ethiopia?",
+        "How do volcanoes form?",
+        "Why does the moon shine?"
+      ],
+      "correctAnswer": "What are the ethical issues of biology?",
+      "id": 18,
+      "anki": true
+    },
+    {
+      "question": "The unit review essay question 2 asks students to describe the importance of biological systems to ____.",
+      "options": [
+        "design technologies",
+        "build roads and bridges",
+        "forecast the weather",
+        "predict earthquakes"
+      ],
+      "correctAnswer": "design technologies",
+      "id": 19,
+      "anki": true
+    },
+    {
+      "question": "The device used to collect geographical data or information is ____.",
+      "options": [
+        "GPS",
+        "CIT scans",
+        "Microscope",
+        "X-ray"
+      ],
+      "correctAnswer": "GPS",
+      "id": 20,
+      "anki": true
+    },
+    {
+      "question": "The influences of biological and technological products on society and nature are ____.",
+      "options": [
+        "Benefits of biology and technology",
+        "The advantages of biology and technology",
+        "The development of biology and technology",
+        "Impacts of biology and technology"
+      ],
+      "correctAnswer": "Impacts of biology and technology",
+      "id": 21,
+      "anki": true
+    },
+    {
+      "question": "An instrument used to measure human body temperature is ____.",
+      "options": [
+        "Thermometer",
+        "Microscope",
+        "Barometer",
+        "CT scan"
+      ],
+      "correctAnswer": "Thermometer",
+      "id": 22,
+      "anki": true
+    },
+    {
+      "question": "Designing technologies from nature is through ____.",
+      "options": [
+        "Imitation",
+        "Sketching",
+        "Drawing",
+        "Photographing"
+      ],
+      "correctAnswer": "Imitation",
+      "id": 23,
+      "anki": true
+    },
+    {
+      "question": "Plants have ____.",
+      "options": [
+        "Centralized function systems",
+        "Brain led functional systems",
+        "Decentralized function systems",
+        "All system units are not functioning"
+      ],
+      "correctAnswer": "Decentralized function systems",
+      "id": 24,
+      "anki": true
+    }
+  ]
+}

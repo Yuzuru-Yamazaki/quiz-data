@@ -1,0 +1,150 @@
+{
+  "title": "1.6 Applications of Relations and Functions",
+  "description": "Real-life applications of relations and functions",
+  "folder": "School/Grade 11/Mathematics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["mathematics", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The formula for converting Celsius to Fahrenheit is $F = \\frac{9}{5}C + 32$. What is $20^\\circ$C in degrees Fahrenheit?",
+      "options": ["$68^\\circ$F", "$52^\\circ$F", "$100^\\circ$F", "$82^\\circ$F"],
+      "correctAnswer": "$68^\\circ$F"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The formula for converting Fahrenheit to Celsius is $C = \\frac{5}{9}(F - 32)$. What is $68^\\circ$F in degrees Celsius?",
+      "options": ["$20^\\circ$C", "$36^\\circ$C", "$98^\\circ$C", "$18^\\circ$C"],
+      "correctAnswer": "$20^\\circ$C"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The linear function that converts a temperature from Celsius to Fahrenheit is:",
+      "options": ["$F = \\frac{9}{5}C + 32$", "$F = \\frac{5}{9}C + 32$", "$F = \\frac{9}{5}C - 32$", "$F = C + 32$"],
+      "correctAnswer": "$F = \\frac{9}{5}C + 32$"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "A car travels at a constant speed of $60$ km/h, so the distance travelled after $t$ hours is $d(t) = 60t$ km. How far does the car travel in $3$ hours?",
+      "options": ["$180$ km", "$60$ km", "$20$ km", "$360$ km"],
+      "correctAnswer": "$180$ km"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A car travels at a constant speed of $60$ km/h, so the distance travelled after $t$ hours is $d(t) = 60t$ km. How many hours are needed to travel $300$ km?",
+      "options": ["$5$ hours", "$6$ hours", "$3$ hours", "$10$ hours"],
+      "correctAnswer": "$5$ hours"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "A company's total cost of producing $x$ items is $C(x) = 5x + 200$ birr. The fixed cost of the company is:",
+      "options": ["$200$ birr", "$5$ birr", "$5x$ birr", "$x$ birr"],
+      "correctAnswer": "$200$ birr"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A company's total cost of producing $x$ items is $C(x) = 5x + 200$ birr. The total cost of producing $50$ items is:",
+      "options": ["$450$ birr", "$250$ birr", "$205$ birr", "$500$ birr"],
+      "correctAnswer": "$450$ birr"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "A shop sells shirts for $25$ birr each, so the revenue from selling $x$ shirts is $R(x) = 25x$. The revenue from selling $40$ shirts is:",
+      "options": ["$1000$ birr", "$65$ birr", "$250$ birr", "$400$ birr"],
+      "correctAnswer": "$1000$ birr"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A producer has cost $C(x) = 5x + 200$ birr and sells each item for $10$ birr, so revenue is $R(x) = 10x$. The profit $P(x) = R(x) - C(x)$ from selling $60$ items is:",
+      "options": ["$100$ birr", "$400$ birr", "$600$ birr", "$50$ birr"],
+      "correctAnswer": "$100$ birr"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Using $P(x) = 5x - 200$ as the profit from selling $x$ items, the number of items that must be sold to break even ($P(x) = 0$) is:",
+      "options": ["$40$ items", "$200$ items", "$5$ items", "$50$ items"],
+      "correctAnswer": "$40$ items"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "If $1$ US dollar is worth $55$ Ethiopian birr, the linear function that converts $d$ dollars to birr is $B(d) = 55d$. How many birr do you get for $20$ dollars?",
+      "options": ["$1100$ birr", "$55$ birr", "$20$ birr", "$75$ birr"],
+      "correctAnswer": "$1100$ birr"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "If $B(d) = 55d$ converts dollars to birr, then the inverse gives $d = \\frac{B}{55}$, which converts birr back to dollars. How many dollars equal $1100$ birr?",
+      "options": ["$20$ dollars", "$55$ dollars", "$1100$ dollars", "$60$ dollars"],
+      "correctAnswer": "$20$ dollars"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "A town has $2000$ people and its population grows by $150$ people each year, so $P(t) = 2000 + 150t$. The population after $10$ years is:",
+      "options": ["$3500$", "$2150$", "$15000$", "$3650$"],
+      "correctAnswer": "$3500$"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "With $P(t) = 2000 + 150t$, after how many years will the population reach $2750$?",
+      "options": ["$5$ years", "$10$ years", "$15$ years", "$3$ years"],
+      "correctAnswer": "$5$ years"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The area of a square with side length $s$ cm is $A(s) = s^2$. The area of a square with side $6$ cm is:",
+      "options": ["$36$ square cm", "$12$ square cm", "$24$ square cm", "$64$ square cm"],
+      "correctAnswer": "$36$ square cm"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "A rectangle has width $x$ and length $x + 3$, so its area is $A(x) = x(x + 3)$. The area when $x = 5$ is:",
+      "options": ["$40$ square units", "$15$ square units", "$25$ square units", "$8$ square units"],
+      "correctAnswer": "$40$ square units"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A taxi charges a fixed $30$ birr plus $8$ birr per kilometre, so the fare for $x$ km is $C(x) = 30 + 8x$. The fare for a $10$ km trip is:",
+      "options": ["$110$ birr", "$38$ birr", "$80$ birr", "$300$ birr"],
+      "correctAnswer": "$110$ birr"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "A taxi charges a fare of $C(x) = 30 + 8x$ birr for $x$ km. How far can you travel for $150$ birr?",
+      "options": ["$15$ km", "$20$ km", "$120$ km", "$12$ km"],
+      "correctAnswer": "$15$ km"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "A vendor's daily profit from selling $x$ baskets is $P(x) = 100x - x^2$ birr. The profit from selling $30$ baskets is:",
+      "options": ["$2100$ birr", "$3000$ birr", "$900$ birr", "$2700$ birr"],
+      "correctAnswer": "$2100$ birr"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "The height of a ball thrown upward after $t$ seconds is $h(t) = 40t - 5t^2$ metres. The height of the ball after $3$ seconds is:",
+      "options": ["$75$ m", "$120$ m", "$45$ m", "$105$ m"],
+      "correctAnswer": "$75$ m"
+    }
+  ]
+}

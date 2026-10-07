@@ -1,0 +1,178 @@
+{
+  "title": "1.7 Electronic Configurations and Orbital Diagrams",
+  "description": "Aufbau principle, Pauli exclusion principle, Hund's rule, ground-state electron configurations, and orbital diagrams",
+  "folder": "School/Grade 11/Chemistry/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["chemistry", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The distribution of electrons among atomic orbitals in any atom is governed by which three principles?",
+      "options": ["Aufbau (building up) principle, Hund's rule, and Pauli's exclusion principle", "conservation of mass, definite proportions, and multiple proportions", "Bohr's model, the quantum condition, and the uncertainty principle", "Dalton's, Thomson's, and Rutherford's models"],
+      "correctAnswer": "Aufbau (building up) principle, Hund's rule, and Pauli's exclusion principle"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The Aufbau (building up) principle states that electrons occupy:",
+      "options": ["the lowest-energy orbital available before entering higher-energy orbitals", "all orbitals of equal energy simultaneously", "the highest-energy orbital first", "orbitals in any arbitrary order"],
+      "correctAnswer": "the lowest-energy orbital available before entering higher-energy orbitals"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "According to the Aufbau principle, the ground state subshells are filled in the order $1s, 2s, 2p, 3s, 3p, 4s, \\dots$. Which subshell is filled immediately after 3p?",
+      "options": ["4s", "3d", "4p", "3s"],
+      "correctAnswer": "4s"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "In the Aufbau filling order, which subshell comes right after 4s?",
+      "options": ["3d", "4p", "5s", "4f"],
+      "correctAnswer": "3d"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Hund's rule states that equal-energy (degenerate) orbitals are:",
+      "options": ["each occupied by a single electron before pairing of electrons of opposite spin occurs", "filled with two electrons at a time from the start", "left empty until all lower levels are full", "filled according to random chance"],
+      "correctAnswer": "each occupied by a single electron before pairing of electrons of opposite spin occurs"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Pauli's exclusion principle states that no two electrons in an atom can:",
+      "options": ["have the same four quantum numbers", "occupy the same energy level", "have the same charge", "be in the same atom"],
+      "correctAnswer": "have the same four quantum numbers"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Because of the Pauli exclusion principle, two electrons occupying the same orbital must:",
+      "options": ["have opposite spins", "have the same spin", "be in different shells", "have identical quantum numbers"],
+      "correctAnswer": "have opposite spins"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In the subshell designation $nl^e$ (for example, $1s^2$), the superscript number indicates:",
+      "options": ["the number of electrons in that subshell", "the number of protons", "the principal quantum number", "the angular momentum quantum number"],
+      "correctAnswer": "the number of electrons in that subshell"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The ground state electron configuration of hydrogen ($Z = 1$) is:",
+      "options": ["$1s^1$", "$1s^2$", "$2s^1$", "$1p^1$"],
+      "correctAnswer": "$1s^1$"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The ground state electron configuration of helium ($Z = 2$) is:",
+      "options": ["$1s^2$", "$1s^1$", "$2s^2$", "$1p^2$"],
+      "correctAnswer": "$1s^2$"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The ground state electron configuration of lithium ($Z = 3$) is:",
+      "options": ["$1s^2 2s^1$ or $[He]2s^1$", "$1s^2 2s^2$", "$1s^2 2p^1$", "$1s^3$"],
+      "correctAnswer": "$1s^2 2s^1$ or $[He]2s^1$"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The ground state electron configuration of nitrogen ($Z = 7$) is:",
+      "options": ["$1s^2 2s^2 2p^3$", "$1s^2 2s^2 2p^5$", "$1s^2 2s^2 2p^4$", "$1s^2 2s^2 2p^6$"],
+      "correctAnswer": "$1s^2 2s^2 2p^3$"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The ground state electron configuration of oxygen ($Z = 8$) is:",
+      "options": ["$1s^2 2s^2 2p^4$", "$1s^2 2s^2 2p^6$", "$1s^2 2s^2 2p^3$", "$1s^2 2s^2 2p^5$"],
+      "correctAnswer": "$1s^2 2s^2 2p^4$"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The ground state electron configuration of neon ($Z = 10$) is:",
+      "options": ["$1s^2 2s^2 2p^6$", "$1s^2 2s^2 2p^4$", "$1s^2 2s^2 2p^5$", "$1s^2 2s^2 2p^3$"],
+      "correctAnswer": "$1s^2 2s^2 2p^6$"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The ground state electron configuration of chlorine ($Z = 17$) is:",
+      "options": ["$1s^2 2s^2 2p^6 3s^2 3p^5$ or $[Ne]3s^2 3p^5$", "$1s^2 2s^2 2p^6 3s^2 3p^6$", "$1s^2 2s^2 2p^6 3s^1$", "$[Ne]3s^2 3p^4$"],
+      "correctAnswer": "$1s^2 2s^2 2p^6 3s^2 3p^5$ or $[Ne]3s^2 3p^5$"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The ground state electron configuration of calcium ($Z = 20$) is:",
+      "options": ["$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$ or $[Ar]4s^2$", "$[Ar]3d^2$", "$1s^2 2s^2 2p^6 3s^2 3p^6 3d^2$", "$[Ne]4s^2$"],
+      "correctAnswer": "$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$ or $[Ar]4s^2$"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "The ground state electron configuration of magnesium ($Z = 12$) is:",
+      "options": ["$1s^2 2s^2 2p^6 3s^2$ or $[Ne]3s^2$", "$1s^2 2s^2 2p^6 3p^2$", "$[Ne]3p^2$", "$1s^2 2s^2 2p^6 3s^1$"],
+      "correctAnswer": "$1s^2 2s^2 2p^6 3s^2$ or $[Ne]3s^2$"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Valence electrons are defined as the electrons:",
+      "options": ["in the outermost principal quantum level of an atom", "in the nucleus", "that are nearest the nucleus", "in the innermost filled shell"],
+      "correctAnswer": "in the outermost principal quantum level of an atom"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Core electrons are best described as:",
+      "options": ["the inner electrons of an atom that are not in the outermost shell", "the electrons in the outermost shell", "the same as valence electrons", "electrons shared in chemical bonds"],
+      "correctAnswer": "the inner electrons of an atom that are not in the outermost shell"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "In an orbital diagram, an upward arrow ($\\uparrow$) conventionally represents an electron with:",
+      "options": ["$m_s = +1/2$", "$m_s = -1/2$", "$m_\\ell = 0$", "$\\ell = 1$"],
+      "correctAnswer": "$m_s = +1/2$"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "The three orbitals in the 2p sublevel are described as:",
+      "options": ["degenerate (equal in energy), having the same $n$ and $\\ell$ values", "different in energy", "having different $\\ell$ values", "capable of holding six electrons each"],
+      "correctAnswer": "degenerate (equal in energy), having the same $n$ and $\\ell$ values"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Chromium ($Z = 24$) has an observed ground state electron configuration different from the one expected from the simple Aufbau rule. Its observed configuration is:",
+      "options": ["$[Ar]4s^1 3d^5$", "$[Ar]4s^2 3d^4$", "$[Ar]4s^2 3d^5$", "$[Ar]3d^6$"],
+      "correctAnswer": "$[Ar]4s^1 3d^5$"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Copper ($Z = 29$) has an observed ground state electron configuration of $[Ar]4s^1 3d^{10}$. This exception to the Aufbau principle is attributed to:",
+      "options": ["the special stability of a completely filled 3d subshell", "the special stability of an empty 4s subshell", "an error in the periodic table", "the special stability of a half-filled 4p subshell"],
+      "correctAnswer": "the special stability of a completely filled 3d subshell"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "The half-filled $3d^5$ subshell of chromium and the fully filled $3d^{10}$ subshell of copper are believed to:",
+      "options": ["lend special stability to those electron configurations", "make the atoms unstable", "increase the atomic number", "cause the atoms to lose electrons easily"],
+      "correctAnswer": "lend special stability to those electron configurations"
+    }
+  ]
+}

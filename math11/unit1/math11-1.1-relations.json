@@ -1,0 +1,206 @@
+{
+  "title": "1.1 Relations",
+  "description": "Relations as sets of ordered pairs: domain and range",
+  "folder": "School/Grade 11/Mathematics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["mathematics", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Any set of ordered pairs is called a __________.",
+      "options": ["relation", "function", "sequence", "matrix"],
+      "correctAnswer": "relation"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Given two sets A and B, a relation R from A to B is a set of ordered pairs $(x,y)$ where $x \\in A$ and $y \\in$ __________.",
+      "options": ["$B$", "$A$", "$A \\times B$", "$\\mathbb{R}$"],
+      "correctAnswer": "$B$"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "In the ordered pair $(x,y)$, x is called the __________ of the ordered pair.",
+      "options": ["first coordinate (first component)", "second coordinate (second component)", "range", "y-intercept"],
+      "correctAnswer": "first coordinate (first component)"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "In the ordered pair $(x,y)$, y is called the __________ of the ordered pair.",
+      "options": ["second coordinate (second component)", "first coordinate (first component)", "domain", "x-intercept"],
+      "correctAnswer": "second coordinate (second component)"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "For an ordered pair $(x,y)$, order is important; that is, $(x,y) = (y,x)$ only when __________.",
+      "options": ["$x = y$", "$x = -y$", "$xy = 1$", "$x + y = 0$"],
+      "correctAnswer": "$x = y$"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Two ordered pairs $(a,b)$ and $(c,d)$ are equal if and only if __________.",
+      "options": ["$a = c$ and $b = d$", "$a = d$ and $b = c$", "$a + b = c + d$", "$ab = cd$"],
+      "correctAnswer": "$a = c$ and $b = d$"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Let $R = \\{(45,65),(48,68),(41,62),(46,66),(50,70)\\}$. Find Dom$(R)$.",
+      "options": ["$\\{41,45,46,48,50\\}$", "$\\{62,65,66,68,70\\}$", "$\\{41,46,48,65,70\\}$", "$\\{45,50,62,68,70\\}$"],
+      "correctAnswer": "$\\{41,45,46,48,50\\}$"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Let $R = \\{(45,65),(48,68),(41,62),(46,66),(50,70)\\}$. Find Ran$(R)$.",
+      "options": ["$\\{62,65,66,68,70\\}$", "$\\{41,45,46,48,50\\}$", "$\\{45,48,62,66,70\\}$", "$\\{41,46,50,65,68\\}$"],
+      "correctAnswer": "$\\{62,65,66,68,70\\}$"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Let $R = \\{(1,2),(2,3),(3,4),(1,4)\\}$. Find Dom$(R)$.",
+      "options": ["$\\{1,2,3\\}$", "$\\{2,3,4\\}$", "$\\{1,2,3,4\\}$", "$\\{1,4\\}$"],
+      "correctAnswer": "$\\{1,2,3\\}$"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Let $R = \\{(1,2),(2,3),(3,4),(1,4)\\}$. Find Ran$(R)$.",
+      "options": ["$\\{2,3,4\\}$", "$\\{1,2,3\\}$", "$\\{1,2,3,4\\}$", "$\\{1,2\\}$"],
+      "correctAnswer": "$\\{2,3,4\\}$"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Let $R = \\{(-2,4),(-1,2),(1,2),(3,4)\\}$. Find Dom$(R)$.",
+      "options": ["$\\{-2,-1,1,3\\}$", "$\\{-1,1,2,3\\}$", "$\\{2,4\\}$", "$\\{-2,-1,2,4\\}$"],
+      "correctAnswer": "$\\{-2,-1,1,3\\}$"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Let $R = \\{(-2,4),(-1,2),(1,2),(3,4)\\}$. Find Ran$(R)$.",
+      "options": ["$\\{2,4\\}$", "$\\{-2,-1,1,3\\}$", "$\\{-2,-1,4\\}$", "$\\{-1,1,2,3\\}$"],
+      "correctAnswer": "$\\{2,4\\}$"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Let $R = \\{(-2,4),(-1,1),(0,0),(1,1),(2,4)\\}$. Find Dom$(R)$.",
+      "options": ["$\\{-2,-1,0,1,2\\}$", "$\\{0,1,4\\}$", "$\\{-2,-1,1,2\\}$", "$\\{-2,-1,0,1,4\\}$"],
+      "correctAnswer": "$\\{-2,-1,0,1,2\\}$"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Let $R = \\{(-2,4),(-1,1),(0,0),(1,1),(2,4)\\}$. Find Ran$(R)$.",
+      "options": ["$\\{0,1,4\\}$", "$\\{-2,-1,0,1,2\\}$", "$\\{1,4\\}$", "$\\{-2,0,4\\}$"],
+      "correctAnswer": "$\\{0,1,4\\}$"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "List all the elements of $R = \\{(x,y): y = x^2 \\text{ and } x \\in \\{-2,-1,0,1,2\\}\\}$.",
+      "options": ["$\\{(-2,4),(-1,1),(0,0),(1,1),(2,4)\\}$", "$\\{(-2,4),(-1,-1),(0,0),(1,1),(2,4)\\}$", "$\\{(-2,4),(-1,1),(0,0),(1,2),(2,4)\\}$", "$\\{(-2,-4),(-1,-1),(0,0),(1,1),(2,-4)\\}$"],
+      "correctAnswer": "$\\{(-2,4),(-1,1),(0,0),(1,1),(2,4)\\}$"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Let $R = \\{(1,1),(2,-2),(10,20),(5,25),(10,100)\\}$. Find Dom$(R)$.",
+      "options": ["$\\{1,2,5,10\\}$", "$\\{1,2,10,20,100\\}$", "$\\{1,2,10,5,25\\}$", "$\\{-2,5,20,25\\}$"],
+      "correctAnswer": "$\\{1,2,5,10\\}$"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Let $R = \\{(1,1),(2,-2),(10,20),(5,25),(10,100)\\}$. Find Ran$(R)$.",
+      "options": ["$\\{-2,1,20,25,100\\}$", "$\\{1,2,5,10\\}$", "$\\{1,20,25,100\\}$", "$\\{-2,1,2,5,10\\}$"],
+      "correctAnswer": "$\\{-2,1,20,25,100\\}$"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Let $R = \\{(1,2),(3,4),(4,4),(5,6)\\}$. Find Dom$(R)$.",
+      "options": ["$\\{1,3,4,5\\}$", "$\\{2,4,6\\}$", "$\\{1,4,5\\}$", "$\\{1,2,3,4,5,6\\}$"],
+      "correctAnswer": "$\\{1,3,4,5\\}$"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Let $R = \\{(1,2),(3,4),(4,4),(5,6)\\}$. Find Ran$(R)$.",
+      "options": ["$\\{2,4,6\\}$", "$\\{1,3,4,5\\}$", "$\\{1,4,6\\}$", "$\\{2,3,4,5\\}$"],
+      "correctAnswer": "$\\{2,4,6\\}$"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "List all the elements of $R = \\{(x,y): y = 2x - 1 \\text{ and } x \\in \\{1,2,3\\}\\}$.",
+      "options": ["$\\{(1,1),(2,3),(3,5)\\}$", "$\\{(1,1),(2,4),(3,9)\\}$", "$\\{(1,0),(2,1),(3,2)\\}$", "$\\{(1,1),(2,5),(3,7)\\}$"],
+      "correctAnswer": "$\\{(1,1),(2,3),(3,5)\\}$"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): y = 2x - 1 \\text{ and } x \\in \\{1,2,3\\}\\}$. Find Ran$(R)$.",
+      "options": ["$\\{1,3,5\\}$", "$\\{1,2,3\\}$", "$\\{1,4,9\\}$", "$\\{0,1,2\\}$"],
+      "correctAnswer": "$\\{1,3,5\\}$"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): y = x - 2 \\text{ and } x \\in \\{4,5,6\\}\\}$. Find Ran$(R)$.",
+      "options": ["$\\{2,3,4\\}$", "$\\{4,5,6\\}$", "$\\{1,2,3\\}$", "$\\{0,1,2\\}$"],
+      "correctAnswer": "$\\{2,3,4\\}$"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = 2x\\}$. Find Dom$(R)$.",
+      "options": ["$\\mathbb{R}$", "$\\mathbb{R} \\setminus \\{0\\}$", "$[0,\\infty)$", "$\\{0\\}$"],
+      "correctAnswer": "$\\mathbb{R}$"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = 2x\\}$. Find Ran$(R)$.",
+      "options": ["$\\mathbb{R}$", "$[0,\\infty)$", "$\\mathbb{R} \\setminus \\{0\\}$", "$\\{0\\}$"],
+      "correctAnswer": "$\\mathbb{R}$"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = x^2\\}$. Find Ran$(R)$.",
+      "options": ["$[0,\\infty)$", "$\\mathbb{R}$", "$\\mathbb{R} \\setminus \\{0\\}$", "$(0,\\infty)$"],
+      "correctAnswer": "$[0,\\infty)$"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "According to the textbook, a relation may be defined by __________.",
+      "options": ["a set of ordered pairs", "a graph", "an equation", "all of the above"],
+      "correctAnswer": "all of the above"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "If a relation is given by a graph in the coordinate plane, the domain of the relation is the set of all __________ of the points on the graph.",
+      "options": ["first (x) coordinates", "second (y) coordinates", "positive coordinates", "integer coordinates"],
+      "correctAnswer": "first (x) coordinates"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Dom$(R)$ is the set of all __________ of the elements of R.",
+      "options": ["first coordinates", "second coordinates", "ordered pairs", "real numbers"],
+      "correctAnswer": "first coordinates"
+    }
+  ]
+}
