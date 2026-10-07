@@ -1,0 +1,388 @@
+{
+  "title": "1.3.2 Modulus (Absolute Value) Function",
+  "description": "Absolute value properties, equations and the function f(x)=|x|",
+  "folder": "School/Grade 11/Mathematics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["mathematics", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The absolute value (modulus) $|a|$ of a real number $a$ is:",
+      "options": [
+        "the distance from the origin to the point represented by $a$ on the number line",
+        "the distance from the point $1$ to the point represented by $a$ on the number line",
+        "the opposite of the number $a$",
+        "the greatest integer less than or equal to $a$"
+      ],
+      "correctAnswer": "the distance from the origin to the point represented by $a$ on the number line"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The value of $|-3|$ is:",
+      "options": ["3", "$-3$", "0", "1"],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "By definition, $|a| =$",
+      "options": [
+        "$a$ if $a \\geq 0$, and $-a$ if $a < 0$",
+        "$a$ if $a \\leq 0$, and $-a$ if $a > 0$",
+        "$-a$ if $a \\geq 0$, and $a$ if $a < 0$",
+        "$a$ for every real number $a$"
+      ],
+      "correctAnswer": "$a$ if $a \\geq 0$, and $-a$ if $a < 0$"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Property I of absolute value states that for any real number $a$:",
+      "options": [
+        "$|a| = |-a|$",
+        "$|a+b| = |a|+|b|$",
+        "$|a| = a$ for every real $a$",
+        "$|ab| = |a|+|b|$"
+      ],
+      "correctAnswer": "$|a| = |-a|$"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which property of absolute value states that $|ab| = |a|\\,|b|$ for any two real numbers $a$ and $b$?",
+      "options": [
+        "Property I",
+        "Property II",
+        "Property III",
+        "the definition of absolute value"
+      ],
+      "correctAnswer": "Property II"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Property II of absolute value states that for any two real numbers $a$ and $b$, with $b \\neq 0$:",
+      "options": [
+        "$\\left|\\frac{a}{b}\\right| = \\frac{|a|}{|b|}$",
+        "$\\left|\\frac{a}{b}\\right| = \\frac{a}{b}$",
+        "$\\left|\\frac{a}{b}\\right| = \\frac{|a|}{b}$",
+        "$\\left|\\frac{a}{b}\\right| = \\frac{a}{|b|}$"
+      ],
+      "correctAnswer": "$\\left|\\frac{a}{b}\\right| = \\frac{|a|}{|b|}$"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The Triangle Inequality states that for any real numbers $a$ and $b$:",
+      "options": [
+        "$|a+b| \\leq |a|+|b|$",
+        "$|a+b| \\geq |a|+|b|$",
+        "$|a+b| = |a|+|b|$",
+        "$|a+b| \\leq |a|\\,|b|$"
+      ],
+      "correctAnswer": "$|a+b| \\leq |a|+|b|$"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Property III of absolute value states that for any real number $a$:",
+      "options": [
+        "$|a| \\geq a$ and $|a| \\geq -a$",
+        "$|a| \\leq a$ and $|a| \\leq -a$",
+        "$|a| = a$ and $|a| = -a$",
+        "$|a| > a$ and $|a| > -a$"
+      ],
+      "correctAnswer": "$|a| \\geq a$ and $|a| \\geq -a$"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "For any real number $x$, which of the following is always true?",
+      "options": [
+        "$|x| \\geq 0$",
+        "$|x| > 0$",
+        "$|x| \\leq 0$",
+        "$|x| = x$"
+      ],
+      "correctAnswer": "$|x| \\geq 0$"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "If $a > 0$, then $|x| = a$ if and only if:",
+      "options": [
+        "$x = a$ or $x = -a$",
+        "$x = a$ only",
+        "$x = -a$ only",
+        "$x = 0$"
+      ],
+      "correctAnswer": "$x = a$ or $x = -a$"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The solutions of the equation $|x| = 7$ are:",
+      "options": [
+        "$x = 7$ or $x = -7$",
+        "$x = 7$",
+        "$x = -7$",
+        "$x = 0$"
+      ],
+      "correctAnswer": "$x = 7$ or $x = -7$"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The solution of the equation $|x| = 0$ is:",
+      "options": [
+        "$x = 0$",
+        "every real number",
+        "$x = 1$ or $x = -1$",
+        "no solution"
+      ],
+      "correctAnswer": "$x = 0$"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The equation $|x| = -3$ has:",
+      "options": [
+        "no solution",
+        "one solution $x = 3$",
+        "one solution $x = -3$",
+        "two solutions $x = 3$ and $x = -3$"
+      ],
+      "correctAnswer": "no solution"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The solutions of the equation $|2x+6| = 10$ are:",
+      "options": [
+        "$x = 2$ or $x = -8$",
+        "$x = 2$ or $x = 8$",
+        "$x = -2$ or $x = -8$",
+        "$x = 1$ or $x = -9$"
+      ],
+      "correctAnswer": "$x = 2$ or $x = -8$"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The solutions of the equation $|x| = 5$ are:",
+      "options": [
+        "$x = 5$ or $x = -5$",
+        "$x = 5$",
+        "$x = -5$",
+        "$x = \\sqrt{5}$ or $x = -\\sqrt{5}$"
+      ],
+      "correctAnswer": "$x = 5$ or $x = -5$"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The solution of the equation $|3x-9| = 0$ is:",
+      "options": [
+        "$x = 3$",
+        "$x = 9$",
+        "$x = -3$",
+        "$x = 0$"
+      ],
+      "correctAnswer": "$x = 3$"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "The solutions of the equation $|x+4| = 2$ are:",
+      "options": [
+        "$x = -2$ or $x = -6$",
+        "$x = 2$ or $x = 6$",
+        "$x = 2$ or $x = -6$",
+        "$x = -2$ or $x = 6$"
+      ],
+      "correctAnswer": "$x = -2$ or $x = -6$"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The domain of the function $f(x) = |x|$ is:",
+      "options": [
+        "$\\mathbb{R}$",
+        "$[0,\\infty)$",
+        "$\\mathbb{R} \\setminus \\{0\\}$",
+        "$(0,\\infty)$"
+      ],
+      "correctAnswer": "$\\mathbb{R}$"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "For the modulus function $f(x) = |x|$, the range is:",
+      "options": [
+        "$[0,\\infty)$",
+        "$\\mathbb{R}$",
+        "$(-\\infty,0]$",
+        "$(0,\\infty)$"
+      ],
+      "correctAnswer": "$[0,\\infty)$"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "The function $f(x) = |x|$ can be written in piecewise form as:",
+      "options": [
+        "$f(x) = x$ if $x \\geq 0$, and $f(x) = -x$ if $x < 0$",
+        "$f(x) = -x$ if $x \\geq 0$, and $f(x) = x$ if $x < 0$",
+        "$f(x) = -x$ for every real number $x$",
+        "$f(x) = x$ for every real number $x$"
+      ],
+      "correctAnswer": "$f(x) = x$ if $x \\geq 0$, and $f(x) = -x$ if $x < 0$"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "For $f(x) = |x|$, the values $f(-1)$, $f(0)$ and $f(1)$ are, respectively:",
+      "options": ["1, 0, 1", "$-1$, 0, 1", "1, 0, $-1$", "1, 1, 1"],
+      "correctAnswer": "1, 0, 1"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "For $f(x) = |x|$, the value of $f(-4)$ is:",
+      "options": ["4", "$-4$", "16", "$-16$"],
+      "correctAnswer": "4"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Which of the following describes the graph of $f(x) = |x|$?",
+      "options": [
+        "a continuous V-shaped curve that passes through the origin and has a sharp corner at $(0,0)$",
+        "a smooth U-shaped curve that passes through the origin",
+        "a straight line through the origin with slope 1",
+        "a horizontal line through the origin"
+      ],
+      "correctAnswer": "a continuous V-shaped curve that passes through the origin and has a sharp corner at $(0,0)$"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "The graph of $f(x) = |x|$ is symmetric with respect to:",
+      "options": [
+        "the $y$-axis",
+        "the $x$-axis",
+        "the origin",
+        "the line $y = x$"
+      ],
+      "correctAnswer": "the $y$-axis"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "The domain and range of $f(x) = -|x|$ are:",
+      "options": [
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = (-\\infty,0]$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [0,\\infty)$",
+        "$\\operatorname{Dom}(f) = (-\\infty,0]$ and $\\operatorname{Ran}(f) = \\mathbb{R}$",
+        "$\\operatorname{Dom}(f) = [0,\\infty)$ and $\\operatorname{Ran}(f) = (-\\infty,0]$"
+      ],
+      "correctAnswer": "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = (-\\infty,0]$"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "The function $f(x) = -|x|$ can be written in piecewise form as:",
+      "options": [
+        "$f(x) = -x$ if $x \\geq 0$, and $f(x) = x$ if $x < 0$",
+        "$f(x) = x$ if $x \\geq 0$, and $f(x) = -x$ if $x < 0$",
+        "$f(x) = x$ for every real number $x$",
+        "$f(x) = -x$ for every real number $x$"
+      ],
+      "correctAnswer": "$f(x) = -x$ if $x \\geq 0$, and $f(x) = x$ if $x < 0$"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "For $f(x) = |x-1|$, the value of $f(-3)$ is:",
+      "options": ["4", "$-4$", "2", "$-2$"],
+      "correctAnswer": "4"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "The domain and range of $f(x) = |x-1|$ are:",
+      "options": [
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [0,\\infty)$",
+        "$\\operatorname{Dom}(f) = [1,\\infty)$ and $\\operatorname{Ran}(f) = \\mathbb{R}$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [1,\\infty)$",
+        "$\\operatorname{Dom}(f) = [0,\\infty)$ and $\\operatorname{Ran}(f) = [0,\\infty)$"
+      ],
+      "correctAnswer": "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [0,\\infty)$"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "The function $f(x) = |x-1|$ can be written in piecewise form as:",
+      "options": [
+        "$f(x) = x-1$ if $x \\geq 1$, and $f(x) = -x+1$ if $x < 1$",
+        "$f(x) = x-1$ if $x \\leq 1$, and $f(x) = -x+1$ if $x > 1$",
+        "$f(x) = x+1$ if $x \\geq 1$, and $f(x) = -x-1$ if $x < 1$",
+        "$f(x) = x-1$ for every real number $x$"
+      ],
+      "correctAnswer": "$f(x) = x-1$ if $x \\geq 1$, and $f(x) = -x+1$ if $x < 1$"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "The domain and range of $f(x) = |x|+1$ are:",
+      "options": [
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [1,\\infty)$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [0,\\infty)$",
+        "$\\operatorname{Dom}(f) = [0,\\infty)$ and $\\operatorname{Ran}(f) = [1,\\infty)$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = \\mathbb{R}$"
+      ],
+      "correctAnswer": "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [1,\\infty)$"
+    },
+    {
+      "id": 31,
+      "anki": true,
+      "question": "For $f(x) = |x|+1$, the values $f(0)$ and $f(-3)$ are, respectively:",
+      "options": ["1, 4", "4, 1", "1, 3", "0, 4"],
+      "correctAnswer": "1, 4"
+    },
+    {
+      "id": 32,
+      "anki": true,
+      "question": "For $f(x) = |2x|$, the values $f(-3)$ and $f(2)$ are, respectively:",
+      "options": ["6, 4", "6, $-4$", "$-6$, 4", "3, 2"],
+      "correctAnswer": "6, 4"
+    },
+    {
+      "id": 33,
+      "anki": true,
+      "question": "The domain and range of $f(x) = |2x|$ are:",
+      "options": [
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [0,\\infty)$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = \\mathbb{R}$",
+        "$\\operatorname{Dom}(f) = [0,\\infty)$ and $\\operatorname{Ran}(f) = [0,\\infty)$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R} \\setminus \\{0\\}$ and $\\operatorname{Ran}(f) = [0,\\infty)$"
+      ],
+      "correctAnswer": "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [0,\\infty)$"
+    },
+    {
+      "id": 34,
+      "anki": true,
+      "question": "The range of $f(x) = |x-1|+2$ is:",
+      "options": [
+        "$[2,\\infty)$",
+        "$[1,\\infty)$",
+        "$[0,\\infty)$",
+        "$\\mathbb{R}$"
+      ],
+      "correctAnswer": "$[2,\\infty)$"
+    }
+  ]
+}

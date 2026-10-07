@@ -187,6 +187,90 @@
       "question": "If $f(x) = 2x + 3$, then the value of $f^{-1}(7)$ is:",
       "options": ["$2$", "$7$", "$17$", "$4$"],
       "correctAnswer": "$2$"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Which statement about the inverse of a function $f$ is correct?",
+      "options": ["It may or may not be a function", "It is always a function", "It is always equal to $f$", "It is never a relation"],
+      "correctAnswer": "It may or may not be a function"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "In the procedure for finding the inverse of an invertible function, after interchanging $x$ and $y$ and solving for $y$, the final step is to:",
+      "options": ["write $f^{-1}$ as $y = f^{-1}(x)$", "set $y = 0$", "differentiate both sides", "restrict the domain to positive numbers"],
+      "correctAnswer": "write $f^{-1}$ as $y = f^{-1}(x)$"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "If $f(x) = 4x - 1$, then $f^{-1}(x)$ is:",
+      "options": ["$\\frac{x + 1}{4}$", "$\\frac{x - 1}{4}$", "$\\frac{x}{4} - 1$", "$4x + 1$"],
+      "correctAnswer": "$\\frac{x + 1}{4}$"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "If $f(x) = x^3$, then the value of $f^{-1}(8)$ is:",
+      "options": ["$2$", "$8$", "$4$", "$512$"],
+      "correctAnswer": "$2$"
+    },
+    {
+      "id": 31,
+      "anki": true,
+      "question": "If $f(x) = x + 5$, then $f^{-1}(x)$ is:",
+      "options": ["$x - 5$", "$x + 5$", "$-x + 5$", "$\\frac{1}{x + 5}$"],
+      "correctAnswer": "$x - 5$"
+    },
+    {
+      "id": 32,
+      "anki": true,
+      "question": "If $f(x) = 3x - 6$, then $f^{-1}(x)$ is:",
+      "options": ["$\\frac{x + 6}{3}$", "$\\frac{x - 6}{3}$", "$\\frac{6 - x}{3}$", "$3x + 6$"],
+      "correctAnswer": "$\\frac{x + 6}{3}$"
+    },
+    {
+      "id": 33,
+      "anki": true,
+      "question": "If $f(x) = \\frac{x + 1}{2}$, then $f^{-1}(x)$ is:",
+      "options": ["$2x - 1$", "$2x + 1$", "$\\frac{x - 1}{2}$", "$\\frac{x + 1}{2}$"],
+      "correctAnswer": "$2x - 1$"
+    },
+    {
+      "id": 34,
+      "anki": true,
+      "question": "If $I(x) = x$ is the identity function, then the composition $(f \\circ I)(x)$ equals:",
+      "options": ["$f(x)$", "$x$", "$f^{-1}(x)$", "$f(x) \\cdot x$"],
+      "correctAnswer": "$f(x)$"
+    },
+    {
+      "id": 35,
+      "anki": true,
+      "question": "For an invertible function $f$, the composition $f^{-1} \\circ f$ is equal to:",
+      "options": ["the identity function $I$", "the function $f$ itself", "the function $f^{-1}$", "the constant function zero"],
+      "correctAnswer": "the identity function $I$"
+    },
+    {
+      "id": 36,
+      "anki": true,
+      "question": "The identity function $I(x) = x$ is its own inverse, which means:",
+      "options": ["$I^{-1}(x) = x$", "$I^{-1}(x) = 0$", "$I^{-1}(x) = -x$", "$I^{-1}(x) = x^{2}$"],
+      "correctAnswer": "$I^{-1}(x) = x$"
+    },
+    {
+      "id": 37,
+      "anki": true,
+      "question": "The inverse relation of $f(x) = x^{2}$ contains two ordered pairs that share the same first component. Which pair is it?",
+      "options": ["$(1, 1)$ and $(1, -1)$", "$(1, 1)$ and $(2, 2)$", "$(0, 0)$ and $(1, 1)$", "$(-1, 1)$ and $(1, 1)$"],
+      "correctAnswer": "$(1, 1)$ and $(1, -1)$"
+    },
+    {
+      "id": 38,
+      "anki": true,
+      "question": "For any relation $R$, the range of $R^{-1}$ equals:",
+      "options": ["the domain of $R$", "the range of $R$", "the set of all real numbers", "the set of all ordered pairs of $R$"],
+      "correctAnswer": "the domain of $R$"
     }
   ]
 }

@@ -1,0 +1,222 @@
+{
+  "title": "1.3.3 Signum Function",
+  "description": "Definition, domain, range, graph and variations of the signum function",
+  "folder": "School/Grade 11/Mathematics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["mathematics", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The signum function is defined by:",
+      "options": [
+        "$\\operatorname{sgn} x = \\begin{cases} 1 & \\text{for } x > 0 \\\\ 0 & \\text{for } x = 0 \\\\ -1 & \\text{for } x < 0 \\end{cases}$",
+        "$\\operatorname{sgn} x = \\begin{cases} 1 & \\text{for } x > 0 \\\\ 0 & \\text{for } x = 0 \\\\ 1 & \\text{for } x < 0 \\end{cases}$",
+        "$\\operatorname{sgn} x = \\begin{cases} 0 & \\text{for } x > 0 \\\\ 1 & \\text{for } x = 0 \\\\ -1 & \\text{for } x < 0 \\end{cases}$",
+        "$\\operatorname{sgn} x = \\begin{cases} -1 & \\text{for } x > 0 \\\\ 0 & \\text{for } x = 0 \\\\ 1 & \\text{for } x < 0 \\end{cases}$"
+      ],
+      "correctAnswer": "$\\operatorname{sgn} x = \\begin{cases} 1 & \\text{for } x > 0 \\\\ 0 & \\text{for } x = 0 \\\\ -1 & \\text{for } x < 0 \\end{cases}$"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "For every $x > 0$, the value of $\\operatorname{sgn} x$ is:",
+      "options": ["1", "$-1$", "0", "$x$"],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The value of $\\operatorname{sgn}(-100)$ is:",
+      "options": ["$-1$", "1", "0", "$-100$"],
+      "correctAnswer": "$-1$"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The values of $\\operatorname{sgn}(5)$, $\\operatorname{sgn}(0)$ and $\\operatorname{sgn}(-5)$ are, respectively:",
+      "options": ["1, 0, $-1$", "$-1$, 0, 1", "1, 0, 1", "$-1$, 0, $-1$"],
+      "correctAnswer": "1, 0, $-1$"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The domain of the signum function is:",
+      "options": [
+        "$\\mathbb{R}$",
+        "the set $\\{ -1, 0, 1 \\}$",
+        "$\\mathbb{R} \\setminus \\{0\\}$",
+        "$[0,\\infty)$"
+      ],
+      "correctAnswer": "$\\mathbb{R}$"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The set of all values taken by the signum function $\\operatorname{sgn} x$ is:",
+      "options": [
+        "the set $\\{ -1, 0, 1 \\}$",
+        "$\\mathbb{R}$",
+        "the set $\\{ 0, 1 \\}$",
+        "$[0,\\infty)$"
+      ],
+      "correctAnswer": "the set $\\{ -1, 0, 1 \\}$"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The signum function is an example of a:",
+      "options": [
+        "piecewise function",
+        "polynomial function",
+        "exponential function",
+        "rational function"
+      ],
+      "correctAnswer": "piecewise function"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "For $x > 0$, the expression $\\frac{|x|}{x}$ equals:",
+      "options": ["1", "$-1$", "0", "$x$"],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "For $x < 0$, the expression $\\frac{|x|}{x}$ equals:",
+      "options": ["$-1$", "1", "0", "$x$"],
+      "correctAnswer": "$-1$"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The expression $\\frac{|x|}{x}$ is undefined when:",
+      "options": ["$x = 0$", "$x = 1$", "$x = -1$", "$x > 0$"],
+      "correctAnswer": "$x = 0$"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Using the absolute value, the signum function can be written as:",
+      "options": [
+        "$\\operatorname{sgn} x = \\frac{|x|}{x}$ for $x \\neq 0$, and $\\operatorname{sgn} x = 0$ for $x = 0$",
+        "$\\operatorname{sgn} x = \\frac{|x|}{x}$ for every real number $x$",
+        "$\\operatorname{sgn} x = \\frac{x}{|x|}$ only when $x = 0$",
+        "$\\operatorname{sgn} x = \\frac{|x|}{x} + 1$ for $x \\neq 0$"
+      ],
+      "correctAnswer": "$\\operatorname{sgn} x = \\frac{|x|}{x}$ for $x \\neq 0$, and $\\operatorname{sgn} x = 0$ for $x = 0$"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The graph of $y = \\operatorname{sgn} x$ consists of:",
+      "options": [
+        "the horizontal line $y = -1$ for $x < 0$, the horizontal line $y = 1$ for $x > 0$, and the point $(0,0)$",
+        "the horizontal line $y = 1$ for $x < 0$, the horizontal line $y = -1$ for $x > 0$, and the point $(0,0)$",
+        "the horizontal line $y = 0$ for all real $x$",
+        "a V-shaped graph with vertex at the origin"
+      ],
+      "correctAnswer": "the horizontal line $y = -1$ for $x < 0$, the horizontal line $y = 1$ for $x > 0$, and the point $(0,0)$"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "For $f(x) = \\operatorname{sgn} x + 2$, the domain and the range are:",
+      "options": [
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = \\{ 1, 2, 3 \\}$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = \\{ -1, 0, 1 \\}$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R} \\setminus \\{0\\}$ and $\\operatorname{Ran}(f) = \\{ 1, 2, 3 \\}$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [1,3]$"
+      ],
+      "correctAnswer": "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = \\{ 1, 2, 3 \\}$"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "For $f(x) = \\operatorname{sgn} x + 2$, the value of $f(5)$ is:",
+      "options": ["3", "2", "1", "7"],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "For $f(x) = 4\\operatorname{sgn} x$, the domain and the range are:",
+      "options": [
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = \\{ -4, 0, 4 \\}$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = \\{ 0, 4 \\}$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R} \\setminus \\{0\\}$ and $\\operatorname{Ran}(f) = \\{ -4, 0, 4 \\}$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = [-4,4]$"
+      ],
+      "correctAnswer": "$\\operatorname{Dom}(f) = \\mathbb{R}$ and $\\operatorname{Ran}(f) = \\{ -4, 0, 4 \\}$"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "For $f(x) = 4\\operatorname{sgn} x$, the value of $f(-3)$ is:",
+      "options": ["$-4$", "4", "0", "$-12$"],
+      "correctAnswer": "$-4$"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "The range of $f(x) = 2\\operatorname{sgn} x$ is:",
+      "options": [
+        "the set $\\{ -2, 0, 2 \\}$",
+        "the set $\\{ -1, 0, 1 \\}$",
+        "the set $\\{ 0, 2 \\}$",
+        "$\\mathbb{R}$"
+      ],
+      "correctAnswer": "the set $\\{ -2, 0, 2 \\}$"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The range of $f(x) = -3\\operatorname{sgn} x$ is:",
+      "options": [
+        "the set $\\{ -3, 0, 3 \\}$",
+        "the set $\\{ -1, 0, 1 \\}$",
+        "the set $\\{ 0, 3 \\}$",
+        "the set $\\{ -3, 3 \\}$"
+      ],
+      "correctAnswer": "the set $\\{ -3, 0, 3 \\}$"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The range of $f(x) = 1 + \\operatorname{sgn} x$ is:",
+      "options": [
+        "the set $\\{ 0, 1, 2 \\}$",
+        "the set $\\{ -1, 0, 1 \\}$",
+        "the set $\\{ 1, 2, 3 \\}$",
+        "the set $\\{ 0, 2 \\}$"
+      ],
+      "correctAnswer": "the set $\\{ 0, 1, 2 \\}$"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "The range of $f(x) = 3 - \\operatorname{sgn} x$ is:",
+      "options": [
+        "the set $\\{ 2, 3, 4 \\}$",
+        "the set $\\{ -3, 0, 3 \\}$",
+        "the set $\\{ 1, 2, 3 \\}$",
+        "the set $\\{ 2, 3, 4, 5 \\}$"
+      ],
+      "correctAnswer": "the set $\\{ 2, 3, 4 \\}$"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "For any real number $k$, the range of $f(x) = \\operatorname{sgn} x + k$ is:",
+      "options": [
+        "the set $\\{ k-1, k, k+1 \\}$",
+        "the set $\\{ -1, 0, 1 \\}$",
+        "the set $\\{ 1, k \\}$",
+        "$\\mathbb{R}$"
+      ],
+      "correctAnswer": "the set $\\{ k-1, k, k+1 \\}$"
+    }
+  ]
+}

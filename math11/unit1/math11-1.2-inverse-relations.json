@@ -1,0 +1,227 @@
+{
+  "title": "1.2 Inverses of Relations and Their Graphs",
+  "description": "Inverse relations, domain and range of inverses, and graphs of inverse relations",
+  "folder": "School/Grade 11/Mathematics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["mathematics", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The inverse of a relation is a relation formed by interchanging the order of the __________ of each of the ordered pairs in the given relation.",
+      "options": ["components", "sets", "domains", "graphs"],
+      "correctAnswer": "components"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The symbol $R^{-1}$ is read as __________.",
+      "options": ["$R$ inverse", "$R$ parallel", "$R$ conjugate", "$R$ symmetric"],
+      "correctAnswer": "$R$ inverse"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which of the following is one of the two equivalent ways to define the inverse $R^{-1}$ of a relation $R$?",
+      "options": ["$R^{-1} = \\{(y,x): (x,y) \\in R\\}$", "$R^{-1} = \\{(x,y): (x,y) \\in R\\}$", "$R^{-1} = \\{(x,-y): (x,y) \\in R\\}$", "$R^{-1} = \\{(-x,y): (x,y) \\in R\\}$"],
+      "correctAnswer": "$R^{-1} = \\{(y,x): (x,y) \\in R\\}$"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Another way to define the inverse of a relation $R$ is $R^{-1} = \\{(x,y):$ __________$\\}$.",
+      "options": ["$(y,x) \\in R$", "$(x,y) \\in R$", "$(x,-y) \\in R$", "$(-x,y) \\in R$"],
+      "correctAnswer": "$(y,x) \\in R$"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "If interchanging the order of the components of each ordered pair of a relation $R$ produces a relation $S$, then __________.",
+      "options": ["$S = R^{-1}$", "$S = R$", "$S$ is the domain of $R$", "$R$ and $S$ have the same domain"],
+      "correctAnswer": "$S = R^{-1}$"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Let $R = \\{(1,3),(2,5),(3,7),(4,11),(6,23)\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(3,1),(5,2),(7,3),(11,4),(23,6)\\}$", "$\\{(3,1),(5,2),(7,3),(11,4),(23,5)\\}$", "$\\{(3,1),(5,2),(7,3),(11,6),(23,4)\\}$", "$\\{(1,3),(2,5),(3,7),(4,11),(6,23)\\}$"],
+      "correctAnswer": "$\\{(3,1),(5,2),(7,3),(11,4),(23,6)\\}$"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A table relates a person's age to the person's maximum recommended heart rate: $(20,200),(30,190),(40,180),(50,170),(60,160)$. Find $R^{-1}$.",
+      "options": ["$\\{(200,20),(190,30),(180,40),(170,50),(160,60)\\}$", "$\\{(20,200),(30,190),(40,180),(50,170),(60,160)\\}$", "$\\{(200,60),(190,50),(180,40),(170,30),(160,20)\\}$", "$\\{(200,20),(190,30),(180,40),(170,50),(160,60),(150,70)\\}$"],
+      "correctAnswer": "$\\{(200,20),(190,30),(180,40),(170,50),(160,60)\\}$"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "For the relation $R = \\{(20,200),(30,190),(40,180),(50,170),(60,160)\\}$, as the first component (age) increases by 10, the second component (maximum heart rate) __________.",
+      "options": ["decreases by 10", "increases by 10", "decreases by 20", "stays the same"],
+      "correctAnswer": "decreases by 10"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = 3x - 5\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(x,y): y = \\frac{x+5}{3}\\}$", "$\\{(x,y): y = \\frac{x-5}{3}\\}$", "$\\{(x,y): y = 3x + 5\\}$", "$\\{(x,y): y = \\frac{1}{3}x - 5\\}$"],
+      "correctAnswer": "$\\{(x,y): y = \\frac{x+5}{3}\\}$"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Find the inverse of $R = \\{(1,1),(2,4),(3,9),(4,16),(5,25)\\}$.",
+      "options": ["$\\{(1,1),(4,2),(9,3),(16,4),(25,5)\\}$", "$\\{(1,1),(2,4),(3,9),(4,16),(5,25)\\}$", "$\\{(1,1),(4,2),(9,3),(16,4),(25,6)\\}$", "$\\{(1,5),(4,4),(9,3),(16,2),(25,1)\\}$"],
+      "correctAnswer": "$\\{(1,1),(4,2),(9,3),(16,4),(25,5)\\}$"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = 4x + 2\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(x,y): y = \\frac{x-2}{4}\\}$", "$\\{(x,y): y = \\frac{x+2}{4}\\}$", "$\\{(x,y): y = 4x - 2\\}$", "$\\{(x,y): y = \\frac{x}{4} + 2\\}$"],
+      "correctAnswer": "$\\{(x,y): y = \\frac{x-2}{4}\\}$"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Find $R^{-1}$ for $R = \\{(2,4),(3,9),(4,16)\\}$.",
+      "options": ["$\\{(4,2),(9,3),(16,4)\\}$", "$\\{(2,4),(3,9),(4,16)\\}$", "$\\{(4,2),(9,3),(16,4),(25,5)\\}$", "$\\{(2,4),(9,3),(4,16)\\}$"],
+      "correctAnswer": "$\\{(4,2),(9,3),(16,4)\\}$"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "For any relation $R$, Dom$(R^{-1}) =$ __________.",
+      "options": ["Ran$(R)$", "Dom$(R)$", "$\\mathbb{R}$", "$\\{(x,y): (x,y) \\in R\\}$"],
+      "correctAnswer": "Ran$(R)$"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "For any relation $R$, Ran$(R^{-1}) =$ __________.",
+      "options": ["Dom$(R)$", "Ran$(R)$", "$\\mathbb{R}$", "$\\{(x,y): (x,y) \\in R\\}$"],
+      "correctAnswer": "Dom$(R)$"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Let $R = \\{(-3,2),(-2,3),(-1,4),(0,5),(1,6),(2,7),(3,8)\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(2,-3),(3,-2),(4,-1),(5,0),(6,1),(7,2),(8,3)\\}$", "$\\{(-3,2),(-2,3),(-1,4),(0,5),(1,6),(2,7),(3,8)\\}$", "$\\{(2,-3),(3,-2),(4,-1),(5,0),(6,1),(7,2)\\}$", "$\\{(2,3),(3,4),(4,5),(5,6),(6,7),(7,8),(8,9)\\}$"],
+      "correctAnswer": "$\\{(2,-3),(3,-2),(4,-1),(5,0),(6,1),(7,2),(8,3)\\}$"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Let $R = \\{(-3,2),(-2,3),(-1,4),(0,5),(1,6),(2,7),(3,8)\\}$. Find Dom$(R^{-1})$.",
+      "options": ["$\\{2,3,4,5,6,7,8\\}$", "$\\{-3,-2,-1,0,1,2,3\\}$", "$\\{2,3,4,5,6,7\\}$", "$\\{0,1,2,3,4,5,6\\}$"],
+      "correctAnswer": "$\\{2,3,4,5,6,7,8\\}$"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Let $R = \\{(-3,2),(-2,3),(-1,4),(0,5),(1,6),(2,7),(3,8)\\}$. Find Ran$(R^{-1})$.",
+      "options": ["$\\{-3,-2,-1,0,1,2,3\\}$", "$\\{2,3,4,5,6,7,8\\}$", "$\\{-3,-2,-1,0,1,2\\}$", "$\\{0,1,2,3,4,5,6\\}$"],
+      "correctAnswer": "$\\{-3,-2,-1,0,1,2,3\\}$"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = 3x + 6\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(x,y): y = \\frac{1}{3}x - 2\\}$", "$\\{(x,y): y = \\frac{1}{3}x + 2\\}$", "$\\{(x,y): y = 3x - 6\\}$", "$\\{(x,y): y = \\frac{1}{3}x + 6\\}$"],
+      "correctAnswer": "$\\{(x,y): y = \\frac{1}{3}x - 2\\}$"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = 3x + 6\\}$. Which of the following gives Dom$(R^{-1})$ and Ran$(R^{-1})$?",
+      "options": ["Dom$(R^{-1}) = \\mathbb{R}$ and Ran$(R^{-1}) = \\mathbb{R}$", "Dom$(R^{-1}) = \\mathbb{R}$ and Ran$(R^{-1}) = [0,\\infty)$", "Dom$(R^{-1}) = [0,\\infty)$ and Ran$(R^{-1}) = \\mathbb{R}$", "Dom$(R^{-1}) = \\mathbb{R} \\setminus \\{0\\}$ and Ran$(R^{-1}) = \\mathbb{R} \\setminus \\{0\\}$"],
+      "correctAnswer": "Dom$(R^{-1}) = \\mathbb{R}$ and Ran$(R^{-1}) = \\mathbb{R}$"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = 2x - 4\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(x,y): y = \\frac{x+4}{2}\\}$", "$\\{(x,y): y = \\frac{x-4}{2}\\}$", "$\\{(x,y): y = 2x + 4\\}$", "$\\{(x,y): y = \\frac{x}{2} - 4\\}$"],
+      "correctAnswer": "$\\{(x,y): y = \\frac{x+4}{2}\\}$"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "The expression $y = \\frac{x+4}{2}$ can be written as __________.",
+      "options": ["$y = \\frac{1}{2}x + 2$", "$y = \\frac{1}{2}x + 4$", "$y = 2x + 2$", "$y = \\frac{1}{2}x - 2$"],
+      "correctAnswer": "$y = \\frac{1}{2}x + 2$"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "The image of the ordered pair $(a,b)$ under the reflection of the coordinate plane on the line $y = x$ is __________.",
+      "options": ["$(b,a)$", "$(a,-b)$", "$(-a,b)$", "$(b,-a)$"],
+      "correctAnswer": "$(b,a)$"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "The graph of the inverse of a given relation is the image of the graph of the relation with respect to the reflection of the coordinate plane on the line __________.",
+      "options": ["$y = x$", "$y = -x$", "the $x$-axis", "the $y$-axis"],
+      "correctAnswer": "$y = x$"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Let $R = \\{(0,0),(1,2),(2,4),(3,6)\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(0,0),(2,1),(4,2),(6,3)\\}$", "$\\{(0,0),(1,2),(2,4),(3,6)\\}$", "$\\{(0,0),(2,1),(4,2),(6,3),(8,4)\\}$", "$\\{(0,0),(1,2),(4,2),(6,3)\\}$"],
+      "correctAnswer": "$\\{(0,0),(2,1),(4,2),(6,3)\\}$"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = x - 4\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(x,y): y = x + 4\\}$", "$\\{(x,y): y = x - 4\\}$", "$\\{(x,y): y = -x + 4\\}$", "$\\{(x,y): y = -x - 4\\}$"],
+      "correctAnswer": "$\\{(x,y): y = x + 4\\}$"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = x + 5\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(x,y): y = x - 5\\}$", "$\\{(x,y): y = x + 5\\}$", "$\\{(x,y): y = -x + 5\\}$", "$\\{(x,y): y = x - 10\\}$"],
+      "correctAnswer": "$\\{(x,y): y = x - 5\\}$"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = 2x - 2\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(x,y): y = \\frac{1}{2}x + 1\\}$", "$\\{(x,y): y = \\frac{1}{2}x - 1\\}$", "$\\{(x,y): y = 2x + 2\\}$", "$\\{(x,y): y = \\frac{1}{2}x + 2\\}$"],
+      "correctAnswer": "$\\{(x,y): y = \\frac{1}{2}x + 1\\}$"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Let $R = \\{(a,1),(b,2),(c,3),(d,4)\\}$. Find $R^{-1}$.",
+      "options": ["$\\{(1,a),(2,b),(3,c),(4,d)\\}$", "$\\{(a,1),(b,2),(c,3),(d,4)\\}$", "$\\{(1,a),(2,b),(3,c),(4,e)\\}$", "$\\{(a,1),(c,2),(b,3),(d,4)\\}$"],
+      "correctAnswer": "$\\{(1,a),(2,b),(3,c),(4,d)\\}$"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "Let $R = \\{(2,20),(3,19),(4,18),(5,17),(6,16)\\}$. Find Dom$(R^{-1})$.",
+      "options": ["$\\{16,17,18,19,20\\}$", "$\\{2,3,4,5,6\\}$", "$\\{2,3,4,5,6,16\\}$", "$\\{17,18,19,20\\}$"],
+      "correctAnswer": "$\\{16,17,18,19,20\\}$"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "Let $R = \\{(2,20),(3,19),(4,18),(5,17),(6,16)\\}$. Find Ran$(R^{-1})$.",
+      "options": ["$\\{2,3,4,5,6\\}$", "$\\{16,17,18,19,20\\}$", "$\\{3,4,5,6,7\\}$", "$\\{2,3,4,5\\}$"],
+      "correctAnswer": "$\\{2,3,4,5,6\\}$"
+    },
+    {
+      "id": 31,
+      "anki": true,
+      "question": "To find the inverse of $R = \\{(x,y): y = 3x + 6\\}$ by using the defining expression, first interchange $x$ and $y$ to obtain __________, and then solve for $y$ in terms of $x$.",
+      "options": ["$x = 3y + 6$", "$x = 3y - 6$", "$y = 3x - 6$", "$x = \\frac{1}{3}y + 6$"],
+      "correctAnswer": "$x = 3y + 6$"
+    }
+  ]
+}

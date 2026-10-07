@@ -145,6 +145,76 @@
       "question": "The height of a ball thrown upward after $t$ seconds is $h(t) = 40t - 5t^2$ metres. The height of the ball after $3$ seconds is:",
       "options": ["$75$ m", "$120$ m", "$45$ m", "$105$ m"],
       "correctAnswer": "$75$ m"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "The maximum recommended heart rate for a person aged $a$ years is given by $H(a) = 220 - a$ beats per minute. The maximum recommended heart rate at age $50$ is:",
+      "options": ["$170$ beats per minute", "$180$ beats per minute", "$160$ beats per minute", "$200$ beats per minute"],
+      "correctAnswer": "$170$ beats per minute"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "The relation $R = \\{(20, 200), (30, 190), (40, 180), (50, 170), (60, 160)\\}$ between a person's age and maximum recommended heart rate is a function because:",
+      "options": ["each age is paired with exactly one heart rate", "the heart rate decreases as age increases", "the table contains five ordered pairs", "the domain equals the range"],
+      "correctAnswer": "each age is paired with exactly one heart rate"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "The perimeter of a square with side length $s$ is $P(s) = 4s$. The perimeter of a square with side length $7$ cm is:",
+      "options": ["$28$ cm", "$14$ cm", "$49$ cm", "$112$ cm"],
+      "correctAnswer": "$28$ cm"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "A rectangle has length $2x$ and width $x$, so its area is $A(x) = 2x^{2}$. The area of the rectangle when $x = 3$ is:",
+      "options": ["$18$ square units", "$12$ square units", "$36$ square units", "$6$ square units"],
+      "correctAnswer": "$18$ square units"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "A phone call costs a fixed connection fee of $1.50$ birr plus $0.50$ birr per minute, so the cost of a call lasting $t$ minutes is $C(t) = 1.5 + 0.50t$ birr. The cost of an $8$-minute call is:",
+      "options": ["$5.5$ birr", "$4$ birr", "$9.5$ birr", "$55$ birr"],
+      "correctAnswer": "$5.5$ birr"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "With $C(t) = 1.5 + 0.50t$ birr, a phone bill of $5.5$ birr corresponds to a call lasting:",
+      "options": ["$8$ minutes", "$5.5$ minutes", "$11$ minutes", "$4$ minutes"],
+      "correctAnswer": "$8$ minutes"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "A cell culture starts with $100$ cells and doubles every hour, so the number of cells after $t$ hours is $P(t) = 100 \\cdot 2^{t}$. The number of cells after $4$ hours is:",
+      "options": ["$1600$ cells", "$400$ cells", "$800$ cells", "$200$ cells"],
+      "correctAnswer": "$1600$ cells"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "The simple interest on a deposit is given by $I = Prt$, where $P$ is the principal, $r$ is the annual interest rate and $t$ is the time in years. The simple interest on $2000$ birr at $5\\%$ per year for $3$ years is:",
+      "options": ["$300$ birr", "$100$ birr", "$150$ birr", "$350$ birr"],
+      "correctAnswer": "$300$ birr"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "A pipe fills an empty tank at a constant rate of $12$ litres per minute, so the volume of water in the tank after $t$ minutes is $V(t) = 12t$ litres. The time needed to fill a tank of volume $180$ litres is:",
+      "options": ["$15$ minutes", "$12$ minutes", "$18$ minutes", "$20$ minutes"],
+      "correctAnswer": "$15$ minutes"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "Renting a hall costs a fixed $400$ birr plus $25$ birr per guest, so the total cost for $g$ guests is $C(g) = 400 + 25g$ birr. The cost of renting the hall for $40$ guests is:",
+      "options": ["$1400$ birr", "$1000$ birr", "$400$ birr", "$1800$ birr"],
+      "correctAnswer": "$1400$ birr"
     }
   ]
 }
