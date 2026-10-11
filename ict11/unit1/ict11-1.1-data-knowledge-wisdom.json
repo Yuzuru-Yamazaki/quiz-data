@@ -4,7 +4,11 @@
   "folder": "School/Grade 11/ICT/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["ict", "grade11", "unit1"],
+  "tags": [
+    "ict",
+    "grade11",
+    "unit1"
+  ],
   "questions": [
     {
       "id": 1,
@@ -23,10 +27,10 @@
       "anki": true,
       "question": "Which of the following is considered data?",
       "options": [
-        "100",
-        "A student's average mark",
         "A monthly sales report",
-        "A wise decision about a business"
+        "A student's average mark",
+        "A wise decision about a business",
+        "100"
       ],
       "correctAnswer": "100"
     },
@@ -35,10 +39,10 @@
       "anki": true,
       "question": "Data is recorded and stored using which forms?",
       "options": [
-        "Numbers, texts, and images",
         "Tables, graphs, and formulas",
+        "Software and hardware",
         "Sounds and smells",
-        "Software and hardware"
+        "Numbers, texts, and images"
       ],
       "correctAnswer": "Numbers, texts, and images"
     },
@@ -46,14 +50,24 @@
       "id": 4,
       "anki": true,
       "question": "Which of the following is better represented by numbers than by texts?",
-      "options": ["Age", "Name", "Country", "Occupation"],
+      "options": [
+        "Country",
+        "Age",
+        "Name",
+        "Occupation"
+      ],
       "correctAnswer": "Age"
     },
     {
       "id": 5,
       "anki": true,
       "question": "Words such as name are only represented by which form?",
-      "options": ["Text", "Numbers", "Images", "Formulas"],
+      "options": [
+        "Text",
+        "Images",
+        "Numbers",
+        "Formulas"
+      ],
       "correctAnswer": "Text"
     },
     {
@@ -61,10 +75,10 @@
       "anki": true,
       "question": "What is information?",
       "options": [
-        "Data processed in a meaningful way to the end users",
-        "Raw facts that give no meaning on their own",
         "A set of instructions for the computer",
-        "The highest level of human understanding"
+        "The highest level of human understanding",
+        "Data processed in a meaningful way to the end users",
+        "Raw facts that give no meaning on their own"
       ],
       "correctAnswer": "Data processed in a meaningful way to the end users"
     },
@@ -74,8 +88,8 @@
       "question": "Daily sales data must be aggregated by what period to turn it into information?",
       "options": [
         "Weeks of the month",
-        "Hours of the day",
         "Years of the decade",
+        "Hours of the day",
         "Seconds of a minute"
       ],
       "correctAnswer": "Weeks of the month"
@@ -85,10 +99,10 @@
       "anki": true,
       "question": "Asking relevant questions about which of the following helps derive valuable information from data?",
       "options": [
-        "Who, what, when, where",
+        "Up, down, left, right",
         "How, why, which, whose",
         "If, then, else, while",
-        "Up, down, left, right"
+        "Who, what, when, where"
       ],
       "correctAnswer": "Who, what, when, where"
     },
@@ -97,10 +111,10 @@
       "anki": true,
       "question": "In which forms can information be represented?",
       "options": [
+        "Codes and passwords only",
         "Table, line graph, bar graph, or formulas",
-        "Numbers, texts, and images only",
         "Sounds and smells only",
-        "Codes and passwords only"
+        "Numbers, texts, and images only"
       ],
       "correctAnswer": "Table, line graph, bar graph, or formulas"
     },
@@ -109,9 +123,9 @@
       "anki": true,
       "question": "What is knowledge?",
       "options": [
-        "An understanding acquired by further processing and integrating different sets of information",
         "Raw facts that give no meaning on their own",
         "A form of banking service",
+        "An understanding acquired by further processing and integrating different sets of information",
         "Data put into a table"
       ],
       "correctAnswer": "An understanding acquired by further processing and integrating different sets of information"
@@ -120,21 +134,36 @@
       "id": 11,
       "anki": true,
       "question": "Knowledge includes both understanding and what?",
-      "options": ["Skill", "Memory", "Speed", "Wealth"],
+      "options": [
+        "Wealth",
+        "Speed",
+        "Skill",
+        "Memory"
+      ],
       "correctAnswer": "Skill"
     },
     {
       "id": 12,
       "anki": true,
       "question": "When you tell a child how to ride a bicycle, what are you giving the child?",
-      "options": ["Information", "Wisdom", "Salary", "Hardware"],
+      "options": [
+        "Wisdom",
+        "Salary",
+        "Hardware",
+        "Information"
+      ],
       "correctAnswer": "Information"
     },
     {
       "id": 13,
       "anki": true,
       "question": "When a child applies information in riding a bicycle and acquires the necessary skills, the information becomes what?",
-      "options": ["Knowledge", "Data", "Evidence", "Traffic"],
+      "options": [
+        "Knowledge",
+        "Evidence",
+        "Data",
+        "Traffic"
+      ],
       "correctAnswer": "Knowledge"
     },
     {
@@ -144,8 +173,8 @@
       "options": [
         "Reading books, engaging in different activities, and discussing with other people",
         "Only from reading books",
-        "Only from observing",
-        "Only from tests"
+        "Only from tests",
+        "Only from observing"
       ],
       "correctAnswer": "Reading books, engaging in different activities, and discussing with other people"
     },
@@ -165,14 +194,24 @@
       "id": 16,
       "anki": true,
       "question": "The ability to read this textbook or maintain a computer is an example of what?",
-      "options": ["Knowledge", "Data", "Payroll", "Currency"],
+      "options": [
+        "Currency",
+        "Data",
+        "Payroll",
+        "Knowledge"
+      ],
       "correctAnswer": "Knowledge"
     },
     {
       "id": 17,
       "anki": true,
       "question": "Which of the following is more of a personal possession that you retrieve and apply when you need it?",
-      "options": ["Knowledge", "Data", "Signals", "Printouts"],
+      "options": [
+        "Data",
+        "Signals",
+        "Printouts",
+        "Knowledge"
+      ],
       "correctAnswer": "Knowledge"
     },
     {
@@ -181,9 +220,9 @@
       "question": "What is wisdom?",
       "options": [
         "The ability to make wise decisions and judgments using one's knowledge",
-        "Raw facts stored in a database",
         "A series of steps to achieve a goal",
-        "The physical parts of an information system"
+        "The physical parts of an information system",
+        "Raw facts stored in a database"
       ],
       "correctAnswer": "The ability to make wise decisions and judgments using one's knowledge"
     },
@@ -191,7 +230,12 @@
       "id": 19,
       "anki": true,
       "question": "Wisdom is the highest level of what?",
-      "options": ["Human understanding", "Computer memory", "Network speed", "Database design"],
+      "options": [
+        "Computer memory",
+        "Network speed",
+        "Human understanding",
+        "Database design"
+      ],
       "correctAnswer": "Human understanding"
     },
     {
@@ -199,10 +243,10 @@
       "anki": true,
       "question": "Wisdom is associated with good judgment and what?",
       "options": [
+        "Actions that delete files",
         "Actions that contribute to living well",
         "Actions that increase data",
-        "Actions that cancel signals",
-        "Actions that delete files"
+        "Actions that cancel signals"
       ],
       "correctAnswer": "Actions that contribute to living well"
     },
@@ -211,10 +255,10 @@
       "anki": true,
       "question": "According to the text, wisdom is like which of the following?",
       "options": [
+        "Keys, screens, and mouses",
         "Love, intelligence, and politeness",
-        "Hate, ignorance, and rudeness",
         "Data, text, and images",
-        "Keys, screens, and mouses"
+        "Hate, ignorance, and rudeness"
       ],
       "correctAnswer": "Love, intelligence, and politeness"
     },
@@ -223,10 +267,10 @@
       "anki": true,
       "question": "Which thinking types are included in wisdom?",
       "options": [
-        "Intuitive, logical, creative, and collective thinking",
-        "Only numerical and visual thinking",
         "Only fast and slow thinking",
-        "Only group and pair thinking"
+        "Only group and pair thinking",
+        "Intuitive, logical, creative, and collective thinking",
+        "Only numerical and visual thinking"
       ],
       "correctAnswer": "Intuitive, logical, creative, and collective thinking"
     },
@@ -235,10 +279,10 @@
       "anki": true,
       "question": "Data, information, knowledge, and wisdom can be arranged in which of the following ways?",
       "options": [
-        "In a hierarchy with data at the bottom and wisdom at the top",
-        "In a circle with no order",
+        "In a hierarchy with wisdom at the bottom",
         "Randomly with no order",
-        "In a hierarchy with wisdom at the bottom"
+        "In a hierarchy with data at the bottom and wisdom at the top",
+        "In a circle with no order"
       ],
       "correctAnswer": "In a hierarchy with data at the bottom and wisdom at the top"
     },
@@ -247,10 +291,10 @@
       "anki": true,
       "question": "As you move up in the data-to-wisdom pyramid, what happens to the value you get?",
       "options": [
-        "The value you get increases",
         "The value you get decreases",
+        "The wisdom disappears",
         "The data disappears",
-        "The wisdom disappears"
+        "The value you get increases"
       ],
       "correctAnswer": "The value you get increases"
     },
@@ -258,7 +302,12 @@
       "id": 25,
       "anki": true,
       "question": "The top of the pyramid is where we have turned knowledge and insights into what?",
-      "options": ["Wisdom", "Numbers", "Signals", "Codes"],
+      "options": [
+        "Codes",
+        "Signals",
+        "Numbers",
+        "Wisdom"
+      ],
       "correctAnswer": "Wisdom"
     },
     {
@@ -266,10 +315,10 @@
       "anki": true,
       "question": "In the difference section, data is described as anything represented as what?",
       "options": [
-        "Numbers, texts, and images",
-        "Tables and graphs only",
         "Sounds and movies only",
-        "Rules and patterns only"
+        "Rules and patterns only",
+        "Tables and graphs only",
+        "Numbers, texts, and images"
       ],
       "correctAnswer": "Numbers, texts, and images"
     },
@@ -277,14 +326,24 @@
       "id": 27,
       "anki": true,
       "question": "When we say that +251********* is a person's phone number, the data becomes what?",
-      "options": ["Information", "Wisdom", "Hardware", "Procedure"],
+      "options": [
+        "Information",
+        "Wisdom",
+        "Hardware",
+        "Procedure"
+      ],
       "correctAnswer": "Information"
     },
     {
       "id": 28,
       "anki": true,
       "question": "Which of the following refers to understanding patterns, rules, or other mechanisms that serve as a guide for our future actions?",
-      "options": ["Knowledge", "Data", "Printout", "Signal"],
+      "options": [
+        "Printout",
+        "Data",
+        "Signal",
+        "Knowledge"
+      ],
       "correctAnswer": "Knowledge"
     }
   ]

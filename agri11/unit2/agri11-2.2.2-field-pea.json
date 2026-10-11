@@ -4,17 +4,21 @@
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
-  "tags": ["agriculture", "grade11", "unit2"],
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2"
+  ],
   "questions": [
     {
       "id": 1,
       "anki": true,
       "question": "What is the botanical name of field pea?",
       "options": [
+        "Zea mays L.",
         "Pisum sativum L.",
-        "Vicia faba L.",
         "Phaseolus vulgaris L.",
-        "Zea mays L."
+        "Vicia faba L."
       ],
       "correctAnswer": "Pisum sativum L."
     },
@@ -24,8 +28,8 @@
       "question": "For what purpose is field pea produced?",
       "options": [
         "For its edible seeds",
-        "For its green leaves only",
         "For its tubers",
+        "For its green leaves only",
         "For its oil seeds"
       ],
       "correctAnswer": "For its edible seeds"
@@ -35,10 +39,10 @@
       "anki": true,
       "question": "Which nutrient is field pea seed notably rich in?",
       "options": [
-        "Protein",
-        "Starch",
+        "Vitamin C",
         "Cellulose fiber",
-        "Vitamin C"
+        "Protein",
+        "Starch"
       ],
       "correctAnswer": "Protein"
     },
@@ -59,9 +63,9 @@
       "anki": true,
       "question": "How is field pea commonly planted?",
       "options": [
-        "As a mono crop or mixed with faba bean",
-        "Only as a mono crop far from other crops",
         "Only intercropped with teff",
+        "Only as a mono crop far from other crops",
+        "As a mono crop or mixed with faba bean",
         "Only planted after seedling transplantation"
       ],
       "correctAnswer": "As a mono crop or mixed with faba bean"
@@ -71,9 +75,9 @@
       "anki": true,
       "question": "With which crops is field pea usually grown in rotation?",
       "options": [
-        "Cereals such as teff, wheat and barley",
-        "Cereals such as maize and sorghum only",
         "Root crops such as potato and enset",
+        "Cereals such as maize and sorghum only",
+        "Cereals such as teff, wheat and barley",
         "Fibre crops such as cotton and sesame"
       ],
       "correctAnswer": "Cereals such as teff, wheat and barley"
@@ -84,8 +88,8 @@
       "question": "At what altitude range does field pea grow well?",
       "options": [
         "$1800$ to $3000$ m above sea level",
-        "$1400$ to $2000$ m above sea level",
         "$500$ to $1500$ m above sea level",
+        "$1400$ to $2000$ m above sea level",
         "$2200$ to $2600$ m above sea level only"
       ],
       "correctAnswer": "$1800$ to $3000$ m above sea level"
@@ -95,8 +99,8 @@
       "anki": true,
       "question": "Which methods are used to plant field pea?",
       "options": [
-        "Broadcasting or row planting",
         "Transplanting only",
+        "Broadcasting or row planting",
         "Grafting only",
         "Mulching without seed"
       ],
@@ -108,9 +112,9 @@
       "question": "What spacing is used between rows when field pea is planted in rows?",
       "options": [
         "$30$ cm",
-        "$40$ cm",
         "$10$ cm",
-        "$75$ cm"
+        "$75$ cm",
+        "$40$ cm"
       ],
       "correctAnswer": "$30$ cm"
     },
@@ -119,10 +123,10 @@
       "anki": true,
       "question": "What spacing is used between plants of field pea?",
       "options": [
+        "$1$ to $2$ cm",
         "$5$ to $10$ cm",
         "$25$ to $30$ cm",
-        "$40$ to $50$ cm",
-        "$1$ to $2$ cm"
+        "$40$ to $50$ cm"
       ],
       "correctAnswer": "$5$ to $10$ cm"
     },
@@ -131,9 +135,9 @@
       "anki": true,
       "question": "Which insect pests reduce the productivity of field pea?",
       "options": [
-        "Aphids and African ball worm",
         "Maize stalk borer and army worm",
         "Barley shoot fly and grasshopper",
+        "Aphids and African ball worm",
         "Sorghum gall midge only"
       ],
       "correctAnswer": "Aphids and African ball worm"
@@ -144,8 +148,8 @@
       "question": "Besides insect pests, which other problems affect field pea productivity?",
       "options": [
         "Weeds and fungal diseases",
-        "Salinity and frost only",
         "Hail and wind only",
+        "Salinity and frost only",
         "Waterlogging and shade"
       ],
       "correctAnswer": "Weeds and fungal diseases"
@@ -155,10 +159,10 @@
       "anki": true,
       "question": "When should manual weeding of field pea start?",
       "options": [
-        "Around $4$ weeks after planting",
-        "Around $10$ weeks after planting",
+        "Before the first seeding",
         "At the time of harvesting",
-        "Before the first seeding"
+        "Around $4$ weeks after planting",
+        "Around $10$ weeks after planting"
       ],
       "correctAnswer": "Around $4$ weeks after planting"
     },
@@ -167,10 +171,10 @@
       "anki": true,
       "question": "Which methods are combined in the integrated control of field pea weeds, pests and diseases?",
       "options": [
-        "Manual weeding, crop rotation and chemical methods",
         "Fertilizer, irrigation and mulching",
-        "Deep ploughing, burning and grazing",
-        "Pruning, training and shading"
+        "Pruning, training and shading",
+        "Manual weeding, crop rotation and chemical methods",
+        "Deep ploughing, burning and grazing"
       ],
       "correctAnswer": "Manual weeding, crop rotation and chemical methods"
     },
@@ -179,10 +183,10 @@
       "anki": true,
       "question": "What is the indicator that field pea pods are ready for harvest?",
       "options": [
-        "The pod is mature and the seeds are sufficiently hard",
         "The pod is still green and the seeds are soft",
         "The plant is still flowering",
-        "The leaves are still bright green and wet"
+        "The leaves are still bright green and wet",
+        "The pod is mature and the seeds are sufficiently hard"
       ],
       "correctAnswer": "The pod is mature and the seeds are sufficiently hard"
     },
@@ -192,8 +196,8 @@
       "question": "What happens when field pea harvesting is delayed?",
       "options": [
         "Seeds are lost from the pods through shattering",
-        "The pods become heavier and do not break",
         "The seeds turn into animal feed on the plant",
+        "The pods become heavier and do not break",
         "The plants start to produce a second crop"
       ],
       "correctAnswer": "Seeds are lost from the pods through shattering"
@@ -215,10 +219,10 @@
       "anki": true,
       "question": "The national average field pea yield of $14$ quintals per hectare equals how many tonnes per hectare?",
       "options": [
-        "$1.4$ t per hectare",
         "$0.14$ t per hectare",
+        "$1.9$ t per hectare",
         "$14$ t per hectare",
-        "$1.9$ t per hectare"
+        "$1.4$ t per hectare"
       ],
       "correctAnswer": "$1.4$ t per hectare"
     },
@@ -228,9 +232,9 @@
       "question": "Which group of Ethiopian field crops includes field pea?",
       "options": [
         "Pulses (legumes)",
+        "Forage grasses",
         "Cereals",
-        "Root and tuber crops",
-        "Forage grasses"
+        "Root and tuber crops"
       ],
       "correctAnswer": "Pulses (legumes)"
     },
@@ -239,10 +243,10 @@
       "anki": true,
       "question": "How does soil cultivation for field pea generally compare with that for cereals?",
       "options": [
-        "It is generally minimal; the soil is cultivated once or direct planting is done",
+        "It is done only after harvesting the cereal",
         "It is always heavier than that of cereals",
-        "It requires ten repeated ploughings",
-        "It is done only after harvesting the cereal"
+        "It is generally minimal; the soil is cultivated once or direct planting is done",
+        "It requires ten repeated ploughings"
       ],
       "correctAnswer": "It is generally minimal; the soil is cultivated once or direct planting is done"
     },
@@ -251,10 +255,10 @@
       "anki": true,
       "question": "How does field pea contribute to soil nitrogen?",
       "options": [
-        "It fixes atmospheric nitrogen through root nodules, leaving nitrogen for later crops",
-        "It takes up nitrogen from the soil and stores it in the pods",
+        "It changes nitrogen into a form that plants cannot use",
         "It prevents nitrogen from entering the field",
-        "It changes nitrogen into a form that plants cannot use"
+        "It takes up nitrogen from the soil and stores it in the pods",
+        "It fixes atmospheric nitrogen through root nodules, leaving nitrogen for later crops"
       ],
       "correctAnswer": "It fixes atmospheric nitrogen through root nodules, leaving nitrogen for later crops"
     },

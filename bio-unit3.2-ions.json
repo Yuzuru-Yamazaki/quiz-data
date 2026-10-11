@@ -13,8 +13,8 @@
     {
       "question": "What are inorganic ions?",
       "options": [
-        "Molecules containing carbon and hydrogen",
         "Charged entities because they are atoms with unshared electrons in their outer shell",
+        "Molecules containing carbon and hydrogen",
         "Neutral atoms with full outer shells",
         "Large organic polymers"
       ],
@@ -25,9 +25,9 @@
     {
       "question": "What are the two forms in which inorganic ions are found in living bodies?",
       "options": [
-        "Liquid and plasma",
         "Free and dissolved in the cytoplasm and associated with complex organic substances",
         "Crystalline and amorphous",
+        "Liquid and plasma",
         "Solid and gaseous"
       ],
       "answerIndex": 1,
@@ -38,9 +38,9 @@
       "question": "What happens if there are variations in inorganic ion concentrations inside the human body?",
       "options": [
         "Only positive effects occur",
+        "They can have catastrophic implications",
         "No noticeable effects",
-        "The body adapts immediately",
-        "They can have catastrophic implications"
+        "The body adapts immediately"
       ],
       "answerIndex": 3,
       "correctAnswer": "They can have catastrophic implications",
@@ -51,8 +51,8 @@
       "options": [
         "Minerals",
         "Vitamins",
-        "Hormones",
-        "Enzymes"
+        "Enzymes",
+        "Hormones"
       ],
       "answerIndex": 0,
       "correctAnswer": "Minerals",
@@ -62,8 +62,8 @@
       "question": "How are inorganic ions classified based on daily dietary requirement?",
       "options": [
         "Organic and inorganic",
-        "Essential and non-essential",
         "Soluble and insoluble",
+        "Essential and non-essential",
         "Macro-nutrients and micro-nutrients"
       ],
       "answerIndex": 3,
@@ -73,10 +73,10 @@
     {
       "question": "Which ions are considered the most important for maintaining balance and equilibrium in living systems?",
       "options": [
-        "Potassium ions",
         "Hydrogen ions",
-        "Calcium ions",
-        "Sodium ions"
+        "Potassium ions",
+        "Sodium ions",
+        "Calcium ions"
       ],
       "answerIndex": 1,
       "correctAnswer": "Hydrogen ions",
@@ -85,9 +85,9 @@
     {
       "question": "Where are hydrogen ions released in the cells?",
       "options": [
+        "Only in the nucleus",
         "During various metabolic processes",
         "Only during cell division",
-        "Only in the nucleus",
         "Only in the mitochondria"
       ],
       "answerIndex": 0,
@@ -97,10 +97,10 @@
     {
       "question": "In which body fluids are hydrogen ions found?",
       "options": [
+        "Only in cerebrospinal fluid",
         "Only in the nucleus",
-        "Only in blood",
         "Cytoplasm, inter-cellular fluid, blood, cerebrospinal fluid, and other body fluids",
-        "Only in cerebrospinal fluid"
+        "Only in blood"
       ],
       "answerIndex": 2,
       "correctAnswer": "Cytoplasm, inter-cellular fluid, blood, cerebrospinal fluid, and other body fluids",
@@ -110,9 +110,9 @@
       "question": "How is the concentration of hydrogen ions expressed?",
       "options": [
         "As $pH$",
-        "As temperature",
+        "As molarity",
         "As osmolarity",
-        "As molarity"
+        "As temperature"
       ],
       "answerIndex": 0,
       "correctAnswer": "As $pH$",
@@ -121,8 +121,8 @@
     {
       "question": "What is the range of the $pH$ scale?",
       "options": [
-        "7 to 14",
         "1 to 14",
+        "7 to 14",
         "0 to 7",
         "0 to 10"
       ],
@@ -133,10 +133,10 @@
     {
       "question": "What is the relationship between $pH$ value and hydrogen ion concentration?",
       "options": [
+        "The higher the $pH$, the higher the hydrogen ion concentration",
         "The higher the $pH$, the lower the hydrogen ion concentration",
         "$pH$ and hydrogen ion concentration are identical",
-        "There is no relationship",
-        "The higher the $pH$, the higher the hydrogen ion concentration"
+        "There is no relationship"
       ],
       "answerIndex": 0,
       "correctAnswer": "The higher the $pH$, the lower the hydrogen ion concentration",
@@ -145,10 +145,10 @@
     {
       "question": "What is the ranking of sodium ions among positively charged ions in the body?",
       "options": [
-        "Most important",
-        "Least important",
+        "Second most important",
         "Third most important",
-        "Second most important"
+        "Most important",
+        "Least important"
       ],
       "answerIndex": 3,
       "correctAnswer": "Second most important",
@@ -157,10 +157,10 @@
     {
       "question": "Where is the concentration of sodium ions higher?",
       "options": [
-        "In cell cytoplasm",
-        "Equal in both",
+        "In extracellular fluids",
         "Only in the nucleus",
-        "In extracellular fluids"
+        "Equal in both",
+        "In cell cytoplasm"
       ],
       "answerIndex": 3,
       "correctAnswer": "In extracellular fluids",
@@ -169,10 +169,10 @@
     {
       "question": "What is the average daily salt need for a person?",
       "options": [
-        "20 grams per day",
         "1 to 2 grams per day",
         "10 to 15 grams per day",
-        "3 to 6 grams per day"
+        "3 to 6 grams per day",
+        "20 grams per day"
       ],
       "answerIndex": 3,
       "correctAnswer": "3 to 6 grams per day",
@@ -182,9 +182,9 @@
       "question": "How does the body eliminate excess salt?",
       "options": [
         "Through sweat",
-        "Through faeces",
         "Through urine",
-        "Through breath"
+        "Through breath",
+        "Through faeces"
       ],
       "answerIndex": 2,
       "correctAnswer": "Through urine",
@@ -193,8 +193,8 @@
     {
       "question": "What dietary recommendation applies to patients with high blood pressure regarding salt?",
       "options": [
-        "Higher salt intakes",
         "Lesser salt intakes",
+        "Higher salt intakes",
         "No salt at all",
         "Only sea salt"
       ],
@@ -205,9 +205,9 @@
     {
       "question": "Sodium is a cation that is common in body fluids but present in lower concentrations where?",
       "options": [
+        "In cerebrospinal fluid",
         "Within cells",
         "In blood plasma",
-        "In cerebrospinal fluid",
         "In extracellular fluid"
       ],
       "answerIndex": 0,
@@ -217,10 +217,10 @@
     {
       "question": "What type of ions are potassium ions?",
       "options": [
-        "Neutral",
+        "Negatively charged",
         "Uncharged",
         "Positively charged",
-        "Negatively charged"
+        "Neutral"
       ],
       "answerIndex": 2,
       "correctAnswer": "Positively charged",
@@ -229,10 +229,10 @@
     {
       "question": "How do potassium ions compare to sodium ions in terms of cellular location?",
       "options": [
-        "Potassium is only found in blood",
         "Potassium is primarily extracellular",
         "Potassium is only found in bones",
-        "Potassium is the major intracellular cation"
+        "Potassium is the major intracellular cation",
+        "Potassium is only found in blood"
       ],
       "answerIndex": 3,
       "correctAnswer": "Potassium is the major intracellular cation",
@@ -241,10 +241,10 @@
     {
       "question": "What is the daily potassium requirement for an average human being?",
       "options": [
+        "1 to 2 grams",
         "3 to 4 grams",
         "5 to 6 grams",
-        "10 grams",
-        "1 to 2 grams"
+        "10 grams"
       ],
       "answerIndex": 0,
       "correctAnswer": "3 to 4 grams",
@@ -253,10 +253,10 @@
     {
       "question": "Which foods are abundant sources of potassium?",
       "options": [
-        "Fish and seaweeds",
         "Butter and cheese",
-        "Rice and bread",
-        "Bananas, oranges, potatoes, chicken, and liver"
+        "Bananas, oranges, potatoes, chicken, and liver",
+        "Fish and seaweeds",
+        "Rice and bread"
       ],
       "answerIndex": 3,
       "correctAnswer": "Bananas, oranges, potatoes, chicken, and liver",
@@ -265,10 +265,10 @@
     {
       "question": "What happens to potassium concentration in plasma during hemolysis of red blood cells?",
       "options": [
-        "It is much raised",
         "It disappears",
-        "It decreases",
-        "It remains unchanged"
+        "It is much raised",
+        "It remains unchanged",
+        "It decreases"
       ],
       "answerIndex": 0,
       "correctAnswer": "It is much raised",
@@ -277,10 +277,10 @@
     {
       "question": "Which ion is the most abundant inorganic ion present in the human body?",
       "options": [
-        "Sodium",
         "Calcium",
-        "Iron",
-        "Potassium"
+        "Potassium",
+        "Sodium",
+        "Iron"
       ],
       "answerIndex": 1,
       "correctAnswer": "Calcium",
@@ -290,9 +290,9 @@
       "question": "Where is calcium mainly present in the body?",
       "options": [
         "In nerve cells",
-        "In blood plasma",
+        "In bones and teeth",
         "In muscle tissue",
-        "In bones and teeth"
+        "In blood plasma"
       ],
       "answerIndex": 3,
       "correctAnswer": "In bones and teeth",
@@ -302,9 +302,9 @@
       "question": "What is the daily calcium requirement for a healthy human?",
       "options": [
         "1500 mg/day",
+        "50 mg/day",
         "800 mg/day",
-        "200 mg/day",
-        "50 mg/day"
+        "200 mg/day"
       ],
       "answerIndex": 1,
       "correctAnswer": "800 mg/day",
@@ -313,9 +313,9 @@
     {
       "question": "Which foods are ideal sources of calcium?",
       "options": [
-        "Red meat and poultry",
-        "Bread and pasta",
         "Milk and milk products",
+        "Bread and pasta",
+        "Red meat and poultry",
         "Citrus fruits"
       ],
       "answerIndex": 2,
@@ -325,8 +325,8 @@
     {
       "question": "How much of our body weight does calcium make up?",
       "options": [
-        "5 kg",
         "1 to 1.5 kg",
+        "5 kg",
         "3 kg",
         "0.5 kg"
       ],
@@ -337,10 +337,10 @@
     {
       "question": "What percentage of calcium is present in bones and teeth?",
       "options": [
-        "50 percent",
         "90 percent",
         "75 percent",
-        "99 percent"
+        "99 percent",
+        "50 percent"
       ],
       "answerIndex": 3,
       "correctAnswer": "99 percent",
@@ -349,10 +349,10 @@
     {
       "question": "What is the calcium concentration in plasma?",
       "options": [
-        "9-11 mg/dl",
-        "3-4 mg/dl",
         "15-20 mg/dl",
-        "1-2 mg/dl"
+        "3-4 mg/dl",
+        "1-2 mg/dl",
+        "9-11 mg/dl"
       ],
       "answerIndex": 0,
       "correctAnswer": "9-11 mg/dl",
@@ -361,10 +361,10 @@
     {
       "question": "What type of charge do phosphate ions carry?",
       "options": [
-        "Neutral",
-        "Negatively charged",
+        "Positively charged",
         "Both positive and negative",
-        "Positively charged"
+        "Neutral",
+        "Negatively charged"
       ],
       "answerIndex": 1,
       "correctAnswer": "Negatively charged",
@@ -373,10 +373,10 @@
     {
       "question": "How much phosphate does the body of an average man contain?",
       "options": [
-        "500 grams",
         "2 Kg",
-        "100 grams",
-        "Around 1 Kg"
+        "500 grams",
+        "Around 1 Kg",
+        "100 grams"
       ],
       "answerIndex": 3,
       "correctAnswer": "Around 1 Kg",
@@ -385,10 +385,10 @@
     {
       "question": "Where are most phosphate ions found in the body?",
       "options": [
-        "In muscle tissue",
         "In the liver",
-        "Free in the blood",
-        "Combined with calcium in bones and teeth"
+        "Combined with calcium in bones and teeth",
+        "In muscle tissue",
+        "Free in the blood"
       ],
       "answerIndex": 3,
       "correctAnswer": "Combined with calcium in bones and teeth",
@@ -398,9 +398,9 @@
       "question": "What is the daily phosphate requirement for an adult male?",
       "options": [
         "800 mg",
-        "200 mg",
         "1500 mg",
-        "500 mg"
+        "500 mg",
+        "200 mg"
       ],
       "answerIndex": 0,
       "correctAnswer": "800 mg",
@@ -421,10 +421,10 @@
     {
       "question": "What type of charge do chloride ions carry?",
       "options": [
-        "Neutral",
         "Variable charge",
+        "Positively charged",
         "Negatively charged",
-        "Positively charged"
+        "Neutral"
       ],
       "answerIndex": 2,
       "correctAnswer": "Negatively charged",
@@ -433,9 +433,9 @@
     {
       "question": "Where are chloride ions primarily present?",
       "options": [
-        "In extracellular fluids",
         "In the nucleus",
         "In bones",
+        "In extracellular fluids",
         "Inside cells"
       ],
       "answerIndex": 0,
@@ -445,10 +445,10 @@
     {
       "question": "What is the average daily requirement of chloride ions?",
       "options": [
-        "5 to 10 grams",
         "15 to 20 grams",
-        "Less than 1 gram",
-        "1 to 3 grams"
+        "5 to 10 grams",
+        "1 to 3 grams",
+        "Less than 1 gram"
       ],
       "answerIndex": 0,
       "correctAnswer": "5 to 10 grams",
@@ -457,10 +457,10 @@
     {
       "question": "In what form are chloride ions usually taken in the diet?",
       "options": [
-        "As potassium chloride",
+        "As magnesium chloride",
         "As calcium chloride",
         "As NaCl present in cooked food",
-        "As magnesium chloride"
+        "As potassium chloride"
       ],
       "answerIndex": 2,
       "correctAnswer": "As NaCl present in cooked food",
@@ -469,10 +469,10 @@
     {
       "question": "What is the role of chloride ions in the stomach?",
       "options": [
-        "They absorb vitamins",
+        "They are required to make hydrochloric acid (HCl) present in gastric juice",
         "They digest carbohydrates",
-        "They produce bile",
-        "They are required to make hydrochloric acid (HCl) present in gastric juice"
+        "They absorb vitamins",
+        "They produce bile"
       ],
       "answerIndex": 3,
       "correctAnswer": "They are required to make hydrochloric acid (HCl) present in gastric juice",
@@ -481,10 +481,10 @@
     {
       "question": "What enzyme is activated by chloride ions?",
       "options": [
-        "Lipase",
-        "Pepsin",
         "Trypsin",
-        "Salivary amylase"
+        "Pepsin",
+        "Salivary amylase",
+        "Lipase"
       ],
       "answerIndex": 3,
       "correctAnswer": "Salivary amylase",
@@ -493,10 +493,10 @@
     {
       "question": "What type of charge do iron ions carry?",
       "options": [
-        "Negatively charged",
         "Neutral",
-        "Positively charged",
-        "Variable"
+        "Negatively charged",
+        "Variable",
+        "Positively charged"
       ],
       "answerIndex": 2,
       "correctAnswer": "Positively charged",
@@ -505,8 +505,8 @@
     {
       "question": "What percentage of iron ions in the body is present in haemoglobin within red blood cells?",
       "options": [
-        "30 percent",
         "90 percent",
+        "30 percent",
         "50 percent",
         "70 percent"
       ],
@@ -517,10 +517,10 @@
     {
       "question": "Which foods are sources of iron?",
       "options": [
-        "Oranges and lemons",
         "Rice and wheat",
-        "Milk and cheese",
-        "Legumes, red meat, liver, spinach, pumpkin seeds, fish"
+        "Legumes, red meat, liver, spinach, pumpkin seeds, fish",
+        "Oranges and lemons",
+        "Milk and cheese"
       ],
       "answerIndex": 3,
       "correctAnswer": "Legumes, red meat, liver, spinach, pumpkin seeds, fish",
@@ -530,9 +530,9 @@
       "question": "What is the role of iron as a component of haemoglobin and myoglobin?",
       "options": [
         "Production of hormones",
-        "Regulation of body temperature",
         "Digestion of fats",
-        "Transport of oxygen and carbon dioxide"
+        "Transport of oxygen and carbon dioxide",
+        "Regulation of body temperature"
       ],
       "answerIndex": 3,
       "correctAnswer": "Transport of oxygen and carbon dioxide",
@@ -541,10 +541,10 @@
     {
       "question": "What is the role of iron in the electron transport chain?",
       "options": [
-        "It is an essential component of cytochromes",
-        "It is a hormone",
         "It is a vitamin",
-        "It is a carbohydrate"
+        "It is an essential component of cytochromes",
+        "It is a carbohydrate",
+        "It is a hormone"
       ],
       "answerIndex": 0,
       "correctAnswer": "It is an essential component of cytochromes",
@@ -554,9 +554,9 @@
       "question": "What is iron-deficiency anemia?",
       "options": [
         "A common condition in individuals with an iron-deficient diet",
-        "Excess iron in the body",
+        "A genetic disorder",
         "Abnormal iron deposits in the liver",
-        "A genetic disorder"
+        "Excess iron in the body"
       ],
       "answerIndex": 0,
       "correctAnswer": "A common condition in individuals with an iron-deficient diet",
@@ -565,10 +565,10 @@
     {
       "question": "What is hemosiderosis?",
       "options": [
-        "Characterized by excess iron in the body",
-        "Excess copper in the body",
         "Abnormal calcium deposits",
-        "Iron deficiency"
+        "Iron deficiency",
+        "Excess copper in the body",
+        "Characterized by excess iron in the body"
       ],
       "answerIndex": 0,
       "correctAnswer": "Characterized by excess iron in the body",
@@ -579,8 +579,8 @@
       "options": [
         "Thyroid disorder",
         "Excess copper in the body",
-        "Iron deficiency anemia",
-        "A condition where abnormal iron deposits form in the liver, spleen, skin, and pancreas"
+        "A condition where abnormal iron deposits form in the liver, spleen, skin, and pancreas",
+        "Iron deficiency anemia"
       ],
       "answerIndex": 3,
       "correctAnswer": "A condition where abnormal iron deposits form in the liver, spleen, skin, and pancreas",
@@ -589,10 +589,10 @@
     {
       "question": "What type of charge do copper ions carry?",
       "options": [
-        "Neutral",
-        "Negatively charged",
         "Variable",
-        "Positively charged"
+        "Positively charged",
+        "Neutral",
+        "Negatively charged"
       ],
       "answerIndex": 3,
       "correctAnswer": "Positively charged",
@@ -601,10 +601,10 @@
     {
       "question": "Which foods are sources of copper?",
       "options": [
-        "Oranges and apples",
         "Shellfish, seeds and nuts, organ meats, wheat, whole-grain, chocolate",
-        "Rice and bread",
-        "Milk and yogurt"
+        "Oranges and apples",
+        "Milk and yogurt",
+        "Rice and bread"
       ],
       "answerIndex": 1,
       "correctAnswer": "Shellfish, seeds and nuts, organ meats, wheat, whole-grain, chocolate",
@@ -613,10 +613,10 @@
     {
       "question": "What is copper needed for in the body?",
       "options": [
-        "Absorption of vitamin C",
-        "Storage of fat",
+        "Digestion of proteins",
         "Synthesis of haemoglobin, collagen, and elastin",
-        "Digestion of proteins"
+        "Absorption of vitamin C",
+        "Storage of fat"
       ],
       "answerIndex": 2,
       "correctAnswer": "Synthesis of haemoglobin, collagen, and elastin",
@@ -625,10 +625,10 @@
     {
       "question": "What is Wilson disease?",
       "options": [
-        "A calcium deficiency disease",
         "A rare condition caused by abnormal copper metabolism",
-        "A condition caused by abnormal iron metabolism",
-        "A thyroid disorder"
+        "A calcium deficiency disease",
+        "A thyroid disorder",
+        "A condition caused by abnormal iron metabolism"
       ],
       "answerIndex": 1,
       "correctAnswer": "A rare condition caused by abnormal copper metabolism",
@@ -637,10 +637,10 @@
     {
       "question": "What are the effects of Wilson disease on the liver and brain?",
       "options": [
-        "Excess iron storage",
         "Calcium deposits",
         "Potassium deficiency",
-        "Abnormal copper deposition causing hepatic cirrhosis and brain damage"
+        "Abnormal copper deposition causing hepatic cirrhosis and brain damage",
+        "Excess iron storage"
       ],
       "answerIndex": 3,
       "correctAnswer": "Abnormal copper deposition causing hepatic cirrhosis and brain damage",
@@ -649,10 +649,10 @@
     {
       "question": "What can copper deposition in the kidneys cause?",
       "options": [
+        "Renal failure",
         "Kidney stones",
-        "Increased urine production",
         "Urinary tract infection",
-        "Renal failure"
+        "Increased urine production"
       ],
       "answerIndex": 3,
       "correctAnswer": "Renal failure",
@@ -661,10 +661,10 @@
     {
       "question": "Where is iodine naturally found?",
       "options": [
-        "Only in the atmosphere",
-        "Only in ocean water",
+        "Only in plants",
         "In the earth's soil and ocean waters",
-        "Only in plants"
+        "Only in ocean water",
+        "Only in the atmosphere"
       ],
       "answerIndex": 2,
       "correctAnswer": "In the earth's soil and ocean waters",
@@ -673,10 +673,10 @@
     {
       "question": "In what form is iodine most widely available in the diet?",
       "options": [
-        "Seaweed supplements",
-        "Fruit juices",
         "Iodized salt",
-        "Natural salt"
+        "Natural salt",
+        "Seaweed supplements",
+        "Fruit juices"
       ],
       "answerIndex": 2,
       "correctAnswer": "Iodized salt",
@@ -686,9 +686,9 @@
       "question": "Which gland takes up iodine to produce hormones?",
       "options": [
         "Thyroid gland",
-        "Pancreas",
+        "Pituitary gland",
         "Adrenal gland",
-        "Pituitary gland"
+        "Pancreas"
       ],
       "answerIndex": 0,
       "correctAnswer": "Thyroid gland",
@@ -709,10 +709,10 @@
     {
       "question": "What do thyroid hormones control?",
       "options": [
-        "Only bone growth",
+        "Only digestion",
         "Metabolism and heart health",
-        "Only vision",
-        "Only digestion"
+        "Only bone growth",
+        "Only vision"
       ],
       "answerIndex": 1,
       "correctAnswer": "Metabolism and heart health",
@@ -721,8 +721,8 @@
     {
       "question": "What happens when iodine is lacking in the diet?",
       "options": [
-        "The thyroid gland disappears",
         "Thyroid hormone production can decrease",
+        "The thyroid gland disappears",
         "Thyroid hormone production increases",
         "No effect on thyroid"
       ],
@@ -745,10 +745,10 @@
     {
       "question": "What is goiter?",
       "options": [
-        "An enlarged thyroid gland",
         "A type of cancer",
+        "A deficiency of iron",
         "An excess of calcium",
-        "A deficiency of iron"
+        "An enlarged thyroid gland"
       ],
       "answerIndex": 0,
       "correctAnswer": "An enlarged thyroid gland",
@@ -757,10 +757,10 @@
     {
       "question": "What is hyperthyroidism?",
       "options": [
+        "An over-active thyroid gland",
         "A condition of the liver",
-        "An under-active thyroid gland",
         "A bone disorder",
-        "An over-active thyroid gland"
+        "An under-active thyroid gland"
       ],
       "answerIndex": 3,
       "correctAnswer": "An over-active thyroid gland",
@@ -769,10 +769,10 @@
     {
       "question": "What is the daily iodine requirement for adolescents and adults?",
       "options": [
-        "150 µg/day",
-        "500 µg/day",
         "300 µg/day",
-        "50 µg/day"
+        "150 µg/day",
+        "50 µg/day",
+        "500 µg/day"
       ],
       "answerIndex": 0,
       "correctAnswer": "150 µg/day",
@@ -783,8 +783,8 @@
       "options": [
         "Cabbage",
         "Lettuce",
-        "Spinach",
-        "Cucumber"
+        "Cucumber",
+        "Spinach"
       ],
       "answerIndex": 2,
       "correctAnswer": "Spinach",
@@ -793,10 +793,10 @@
     {
       "question": "What is the role of hydrochloric acid (HCl) in the stomach besides digesting proteins?",
       "options": [
+        "It produces vitamins",
         "It digests carbohydrates",
-        "It kills bacteria and other pathogens in food",
         "It absorbs water",
-        "It produces vitamins"
+        "It kills bacteria and other pathogens in food"
       ],
       "answerIndex": 1,
       "correctAnswer": "It kills bacteria and other pathogens in food",
@@ -806,9 +806,9 @@
       "question": "Where is the 1% of calcium found outside bones and teeth located?",
       "options": [
         "In the cytoplasm of other cells and extracellular fluid",
+        "In the nerves only",
         "In the muscles only",
-        "In the blood only",
-        "In the nerves only"
+        "In the blood only"
       ],
       "answerIndex": 0,
       "correctAnswer": "In the cytoplasm of other cells and extracellular fluid",
@@ -817,10 +817,10 @@
     {
       "question": "What are chloride ions involved in maintaining?",
       "options": [
-        "Only nerve conduction",
-        "Osmotic pressure, fluid balance, and acid-base balance",
         "Only muscle contraction",
-        "Only blood pressure"
+        "Osmotic pressure, fluid balance, and acid-base balance",
+        "Only blood pressure",
+        "Only nerve conduction"
       ],
       "answerIndex": 1,
       "correctAnswer": "Osmotic pressure, fluid balance, and acid-base balance",
@@ -842,9 +842,9 @@
       "question": "Which fruits are rich sources of potassium?",
       "options": [
         "Melons and pineapples",
+        "Grapes and berries",
         "Bananas and oranges",
-        "Apples and pears",
-        "Grapes and berries"
+        "Apples and pears"
       ],
       "answerIndex": 1,
       "correctAnswer": "Bananas and oranges",
@@ -853,9 +853,9 @@
     {
       "question": "What are the major organs having a lot of calcium?",
       "options": [
+        "Liver and kidneys",
         "Heart and lungs",
         "Skin and muscles",
-        "Liver and kidneys",
         "Bones and teeth"
       ],
       "answerIndex": 3,
@@ -866,9 +866,9 @@
       "question": "Which food is a known source of calcium?",
       "options": [
         "Animal fat",
+        "Milk",
         "Sugar",
-        "White rice",
-        "Milk"
+        "White rice"
       ],
       "answerIndex": 3,
       "correctAnswer": "Milk",

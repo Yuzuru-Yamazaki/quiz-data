@@ -1,0 +1,250 @@
+{
+  "title": "2.6 Computer Ports and Cables",
+  "description": "Common ports, connectors and cable types",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the main purpose of computer ports and cables?",
+      "options": [
+        "To permanently store the operating system",
+        "To connect devices and peripherals and facilitate data transfer, power supply and communication",
+        "To increase the amount of RAM in a computer",
+        "To cool the internal components of a computer"
+      ],
+      "correctAnswer": "To connect devices and peripherals and facilitate data transfer, power supply and communication"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which port is widely used for connecting devices such as keyboards, mice, printers and external hard drives?",
+      "options": [
+        "USB port",
+        "Ethernet port",
+        "HDMI port",
+        "VGA port"
+      ],
+      "correctAnswer": "USB port"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which USB versions are mentioned as offering different data transfer speeds and power delivery capabilities?",
+      "options": [
+        "USB 1.0, USB 1.1, USB 1.2, and USB 1.3",
+        "USB 2.0, USB 3.0, USB 3.1, and USB-C",
+        "USB Mini, USB Micro, USB Nano, and USB Pico",
+        "USB-A, USB-B, USB-D, and USB-E"
+      ],
+      "correctAnswer": "USB 2.0, USB 3.0, USB 3.1, and USB-C"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What does HDMI stand for?",
+      "options": [
+        "Hard-Drive Management Interface",
+        "High-Definition Monitor Input",
+        "High-Definition Multimedia Interface",
+        "High-Density Memory Interface"
+      ],
+      "correctAnswer": "High-Definition Multimedia Interface"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "HDMI ports are primarily used to connect computers to which type of device?",
+      "options": [
+        "External displays such as monitors, TVs and projectors",
+        "Headphones and microphones",
+        "Power outlets and surge protectors",
+        "Wired networks and the internet"
+      ],
+      "correctAnswer": "External displays such as monitors, TVs and projectors"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which signals does an HDMI port transmit to allow seamless multimedia playback?",
+      "options": [
+        "Only digital data signals",
+        "Only analog audio signals",
+        "High-quality audio and video signals",
+        "Only power signals"
+      ],
+      "correctAnswer": "High-quality audio and video signals"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which video interface supports high-resolution video and audio and can also carry data signals?",
+      "options": [
+        "VGA",
+        "Ethernet",
+        "DisplayPort",
+        "DVI"
+      ],
+      "correctAnswer": "DisplayPort"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Ethernet ports are also known as which type of ports?",
+      "options": [
+        "USB-C ports",
+        "3.5mm ports",
+        "RJ-45 ports",
+        "Thunderbolt ports"
+      ],
+      "correctAnswer": "RJ-45 ports"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What is the main use of an Ethernet port?",
+      "options": [
+        "Connecting headphones and microphones",
+        "Wired network connections to LANs and the internet",
+        "Connecting the computer to a power source",
+        "Connecting external monitors and projectors"
+      ],
+      "correctAnswer": "Wired network connections to LANs and the internet"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Audio ports are commonly used to connect which devices?",
+      "options": [
+        "Headphones, speakers and microphones",
+        "Ethernet cables and network switches",
+        "Monitors, TVs and projectors",
+        "Printers and external hard drives"
+      ],
+      "correctAnswer": "Headphones, speakers and microphones"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Audio ports on computers are typically which type of jack?",
+      "options": [
+        "HDMI jacks",
+        "RJ-45 jacks",
+        "USB-C jacks",
+        "3.5mm audio jacks"
+      ],
+      "correctAnswer": "3.5mm audio jacks"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which older analog video port is less common now but is still found on some older monitors and projectors?",
+      "options": [
+        "HDMI",
+        "DisplayPort",
+        "VGA",
+        "Thunderbolt"
+      ],
+      "correctAnswer": "VGA"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What does VGA stand for?",
+      "options": [
+        "Video Graphics Array",
+        "Virtual Graphics Access",
+        "Video Gateway Array",
+        "Visual Graphics Adapter"
+      ],
+      "correctAnswer": "Video Graphics Array"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What does DVI stand for?",
+      "options": [
+        "Digital Video Input",
+        "Direct Visual Input",
+        "Digital Visual Interface",
+        "Display Video Interface"
+      ],
+      "correctAnswer": "Digital Visual Interface"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "DVI ports can support which signals?",
+      "options": [
+        "Only analog signals",
+        "Only audio signals",
+        "Both analog and digital signals",
+        "Only digital signals"
+      ],
+      "correctAnswer": "Both analog and digital signals"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Thunderbolt ports are high-speed ports that can transmit which signals?",
+      "options": [
+        "Only analog video signals",
+        "Only power signals",
+        "Only audio signals",
+        "Both data and video signals"
+      ],
+      "correctAnswer": "Both data and video signals"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Thunderbolt ports are often found on which type of computers?",
+      "options": [
+        "Only gaming consoles",
+        "Mainframe computers",
+        "Supercomputers",
+        "Apple computers"
+      ],
+      "correctAnswer": "Apple computers"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "A power port is used to do what?",
+      "options": [
+        "Connect the computer to a wired network",
+        "Transmit audio to speakers",
+        "Connect the computer to a power source",
+        "Transmit video to a projector"
+      ],
+      "correctAnswer": "Connect the computer to a power source"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "True or False: Ethernet cables such as Cat5e and Cat6 are examples of common cable types.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "True or False: The availability of specific ports and cables can vary depending on the computer model and its intended use.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    }
+  ]
+}

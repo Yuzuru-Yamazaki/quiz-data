@@ -13,10 +13,10 @@
     {
       "question": "What is the chemical formula of water?",
       "options": [
-        "$H_{2}O_{2}$",
         "HO2",
-        "HO",
-        "$H_2O$"
+        "$H_2O$",
+        "$H_{2}O_{2}$",
+        "HO"
       ],
       "answerIndex": 3,
       "correctAnswer": "$H_2O$",
@@ -25,10 +25,10 @@
     {
       "question": "How many hydrogen atoms are linked to a single oxygen atom in each water molecule?",
       "options": [
+        "One",
         "Four",
         "Two",
-        "Three",
-        "One"
+        "Three"
       ],
       "answerIndex": 1,
       "correctAnswer": "Two",
@@ -37,10 +37,10 @@
     {
       "question": "What percentage of a cell's mass does water typically account for?",
       "options": [
+        "10 to 30 percent",
         "70 to 95 percent",
         "30 to 50 percent",
-        "50 to 60 percent",
-        "10 to 30 percent"
+        "50 to 60 percent"
       ],
       "answerIndex": 0,
       "correctAnswer": "70 to 95 percent",
@@ -61,10 +61,10 @@
     {
       "question": "In a water molecule, which atom is more electronegative?",
       "options": [
-        "Oxygen",
-        "Both equally",
+        "Hydrogen",
         "Neither atom",
-        "Hydrogen"
+        "Oxygen",
+        "Both equally"
       ],
       "answerIndex": 0,
       "correctAnswer": "Oxygen",
@@ -73,10 +73,10 @@
     {
       "question": "What type of charge does the oxygen atom bear in a water molecule?",
       "options": [
-        "Full positive charge",
-        "Full negative charge",
         "Partial negative charge",
-        "Partial positive charge"
+        "Full positive charge",
+        "Partial positive charge",
+        "Full negative charge"
       ],
       "answerIndex": 2,
       "correctAnswer": "Partial negative charge",
@@ -85,10 +85,10 @@
     {
       "question": "What type of charge does each hydrogen atom bear in a water molecule?",
       "options": [
-        "Partial positive charge",
-        "Full negative charge",
+        "Full positive charge",
         "Partial negative charge",
-        "Full positive charge"
+        "Partial positive charge",
+        "Full negative charge"
       ],
       "answerIndex": 0,
       "correctAnswer": "Partial positive charge",
@@ -97,10 +97,10 @@
     {
       "question": "Water is described as which type of molecule due to its unequal electron sharing?",
       "options": [
-        "Ionic molecule",
-        "Metallic molecule",
         "Non-polar molecule",
-        "Polar molecule"
+        "Polar molecule",
+        "Metallic molecule",
+        "Ionic molecule"
       ],
       "answerIndex": 3,
       "correctAnswer": "Polar molecule",
@@ -110,8 +110,8 @@
       "question": "What is the name of the interaction between the partially positive hydrogen of one water molecule and the partially negative oxygen of another water molecule?",
       "options": [
         "Ionic bond",
-        "Hydrogen bond",
         "Covalent bond",
+        "Hydrogen bond",
         "Peptide bond"
       ],
       "answerIndex": 1,
@@ -123,8 +123,8 @@
       "options": [
         "All gases",
         "Only lipids",
-        "Non-polar molecules only",
-        "Ions and polar molecules"
+        "Ions and polar molecules",
+        "Non-polar molecules only"
       ],
       "answerIndex": 3,
       "correctAnswer": "Ions and polar molecules",
@@ -133,10 +133,10 @@
     {
       "question": "How does water behave towards non-polar molecules such as lipids?",
       "options": [
-        "They form hydrogen bonds with water",
-        "They are insoluble in water and pushed together",
+        "They dissolve readily in water",
         "They evaporate in water",
-        "They dissolve readily in water"
+        "They are insoluble in water and pushed together",
+        "They form hydrogen bonds with water"
       ],
       "answerIndex": 1,
       "correctAnswer": "They are insoluble in water and pushed together",
@@ -145,9 +145,9 @@
     {
       "question": "What is the specific heat capacity of water?",
       "options": [
-        "Amount of heat to melt one gram of ice",
-        "Amount of heat to vaporize one gram of water",
         "Amount of heat to freeze one gram of water",
+        "Amount of heat to vaporize one gram of water",
+        "Amount of heat to melt one gram of ice",
         "Amount of heat to raise temperature of one gram of water by one degree Celsius"
       ],
       "answerIndex": 3,
@@ -157,10 +157,10 @@
     {
       "question": "Why does water have a high specific heat capacity?",
       "options": [
-        "Water has a low molecular weight",
-        "Hydrogen bonds cause molecules to stick together requiring more energy to move",
         "Water molecules repel each other",
-        "Water is a non-polar molecule"
+        "Water is a non-polar molecule",
+        "Water has a low molecular weight",
+        "Hydrogen bonds cause molecules to stick together requiring more energy to move"
       ],
       "answerIndex": 1,
       "correctAnswer": "Hydrogen bonds cause molecules to stick together requiring more energy to move",
@@ -169,10 +169,10 @@
     {
       "question": "What biological advantage does water's high heat capacity provide?",
       "options": [
-        "It makes water boil at lower temperatures",
-        "It makes water less effective as a solvent",
         "It makes water freeze faster",
-        "It makes water more resistant to temperature changes"
+        "It makes water more resistant to temperature changes",
+        "It makes water less effective as a solvent",
+        "It makes water boil at lower temperatures"
       ],
       "answerIndex": 3,
       "correctAnswer": "It makes water more resistant to temperature changes",
@@ -181,10 +181,10 @@
     {
       "question": "What is latent heat of vaporization?",
       "options": [
-        "Energy required to freeze a liquid",
+        "Thermal energy required to vaporize a liquid from liquid to gas",
         "Energy required to melt a solid",
-        "Energy required to dissolve a substance",
-        "Thermal energy required to vaporize a liquid from liquid to gas"
+        "Energy required to freeze a liquid",
+        "Energy required to dissolve a substance"
       ],
       "answerIndex": 3,
       "correctAnswer": "Thermal energy required to vaporize a liquid from liquid to gas",
@@ -193,10 +193,10 @@
     {
       "question": "Why does water have a comparatively high latent heat of vaporization?",
       "options": [
-        "Water has a low specific heat capacity",
         "Water molecules have no intermolecular forces",
         "Water molecules are non-polar",
-        "Hydrogen bonds must be broken before molecules can escape as gas"
+        "Hydrogen bonds must be broken before molecules can escape as gas",
+        "Water has a low specific heat capacity"
       ],
       "answerIndex": 3,
       "correctAnswer": "Hydrogen bonds must be broken before molecules can escape as gas",
@@ -206,9 +206,9 @@
       "question": "How does the density of ice compare to liquid water?",
       "options": [
         "Ice is less dense than liquid water",
-        "Ice density varies randomly",
+        "Ice is denser than liquid water",
         "Ice and liquid water have the same density",
-        "Ice is denser than liquid water"
+        "Ice density varies randomly"
       ],
       "answerIndex": 0,
       "correctAnswer": "Ice is less dense than liquid water",
@@ -217,10 +217,10 @@
     {
       "question": "At what temperature does water density begin to fall?",
       "options": [
+        "100°C",
         "Below 4°C",
         "Below 10°C",
-        "0°C",
-        "100°C"
+        "0°C"
       ],
       "answerIndex": 0,
       "correctAnswer": "Below 4°C",
@@ -229,10 +229,10 @@
     {
       "question": "What is the ecological benefit of ice floating on liquid water?",
       "options": [
-        "It increases water density",
+        "It increases the rate of evaporation",
         "It allows fish to breathe better",
         "It insulates the water beneath and minimizes freezing of large water amounts",
-        "It increases the rate of evaporation"
+        "It increases water density"
       ],
       "answerIndex": 2,
       "correctAnswer": "It insulates the water beneath and minimizes freezing of large water amounts",
@@ -242,8 +242,8 @@
       "question": "What do changes in water density due to temperature generate in oceans?",
       "options": [
         "Tides",
-        "Currents that aid circulation of nutrients",
         "Waves",
+        "Currents that aid circulation of nutrients",
         "Evaporation"
       ],
       "answerIndex": 1,
@@ -253,9 +253,9 @@
     {
       "question": "What term describes the tendency of water molecules to stick to each other?",
       "options": [
-        "Adhesion",
-        "Surface tension",
         "Capillary action",
+        "Surface tension",
+        "Adhesion",
         "Cohesion"
       ],
       "answerIndex": 3,
@@ -265,10 +265,10 @@
     {
       "question": "What term describes the attraction of water molecules to other molecules?",
       "options": [
-        "Cohesion",
-        "Condensation",
         "Evaporation",
-        "Adhesion"
+        "Cohesion",
+        "Adhesion",
+        "Condensation"
       ],
       "answerIndex": 3,
       "correctAnswer": "Adhesion",
@@ -278,8 +278,8 @@
       "question": "What is capillary action?",
       "options": [
         "Water climbing up a narrow tube due to adhesion",
-        "Water dissolving non-polar substances",
         "Water freezing at high temperatures",
+        "Water dissolving non-polar substances",
         "Water molecules repelling each other"
       ],
       "answerIndex": 0,
@@ -289,9 +289,9 @@
     {
       "question": "Why are cohesive and adhesive forces crucial for plants?",
       "options": [
+        "They help in photosynthesis",
         "They help in seed germination",
         "They help in flower development",
-        "They help in photosynthesis",
         "They are crucial for transport of water from roots to leaves"
       ],
       "answerIndex": 3,
@@ -301,10 +301,10 @@
     {
       "question": "What property of water results from high cohesion at the water surface?",
       "options": [
-        "Low specific heat",
-        "Low boiling point",
+        "High density",
         "High surface tension",
-        "High density"
+        "Low specific heat",
+        "Low boiling point"
       ],
       "answerIndex": 2,
       "correctAnswer": "High surface tension",
@@ -313,10 +313,10 @@
     {
       "question": "Which organism can walk on the surface of water due to surface tension?",
       "options": [
+        "Dragonfly",
         "Raft spider",
-        "Water strider",
         "Water beetle",
-        "Dragonfly"
+        "Water strider"
       ],
       "answerIndex": 0,
       "correctAnswer": "Raft spider",
@@ -326,9 +326,9 @@
       "question": "What is the boiling point of water?",
       "options": [
         "-62°C",
-        "100°C",
+        "78.4°C",
         "117.9°C",
-        "78.4°C"
+        "100°C"
       ],
       "answerIndex": 1,
       "correctAnswer": "100°C",
@@ -349,10 +349,10 @@
     {
       "question": "Why does water have a very high boiling point despite its low molecular weight?",
       "options": [
-        "Water evaporates easily",
         "Water requires more energy to break its hydrogen bonds before boiling",
         "Water is non-polar",
-        "Water has a simple molecular structure"
+        "Water has a simple molecular structure",
+        "Water evaporates easily"
       ],
       "answerIndex": 1,
       "correctAnswer": "Water requires more energy to break its hydrogen bonds before boiling",
@@ -361,10 +361,10 @@
     {
       "question": "How does the ability of water to form hydrogen bonds affect its boiling point?",
       "options": [
-        "It lowers the boiling point",
-        "It raises the boiling point",
         "It has no effect on boiling point",
-        "It causes water to decompose before boiling"
+        "It raises the boiling point",
+        "It causes water to decompose before boiling",
+        "It lowers the boiling point"
       ],
       "answerIndex": 1,
       "correctAnswer": "It raises the boiling point",
@@ -373,10 +373,10 @@
     {
       "question": "Why are the boiling and freezing points of water important for aquatic ecosystems?",
       "options": [
-        "They increase the salt concentration in water",
-        "They prevent water from being easily frozen or boiled, protecting aquatic life",
         "They cause water to become acidic",
-        "They make water evaporate quickly"
+        "They make water evaporate quickly",
+        "They prevent water from being easily frozen or boiled, protecting aquatic life",
+        "They increase the salt concentration in water"
       ],
       "answerIndex": 1,
       "correctAnswer": "They prevent water from being easily frozen or boiled, protecting aquatic life",
@@ -385,10 +385,10 @@
     {
       "question": "Why can sweat keep our bodies cool?",
       "options": [
-        "Sweat has a low specific heat capacity",
         "Sweat is non-polar",
-        "Sweat freezes on the skin",
-        "Evaporation of sweat uses latent heat of vaporization"
+        "Sweat has a low specific heat capacity",
+        "Evaporation of sweat uses latent heat of vaporization",
+        "Sweat freezes on the skin"
       ],
       "answerIndex": 3,
       "correctAnswer": "Evaporation of sweat uses latent heat of vaporization",
@@ -397,10 +397,10 @@
     {
       "question": "What is the boiling point of ethanol compared to water?",
       "options": [
-        "Higher than water",
-        "Lower than water",
+        "Cannot be compared",
         "The same as water",
-        "Cannot be compared"
+        "Lower than water",
+        "Higher than water"
       ],
       "answerIndex": 1,
       "correctAnswer": "Lower than water",
@@ -409,10 +409,10 @@
     {
       "question": "What is the freezing point of hydrogen sulfide?",
       "options": [
-        "0°C",
-        "16.6°C",
         "-62°C",
-        "-84°C"
+        "-84°C",
+        "0°C",
+        "16.6°C"
       ],
       "answerIndex": 3,
       "correctAnswer": "-84°C",
@@ -423,8 +423,8 @@
       "options": [
         "The hydrogen (δ+) faces the ion",
         "Both ends face the ion equally",
-        "The oxygen (δ-) faces the ion",
-        "The molecule turns away from the ion"
+        "The molecule turns away from the ion",
+        "The oxygen (δ-) faces the ion"
       ],
       "answerIndex": 0,
       "correctAnswer": "The hydrogen (δ+) faces the ion",
@@ -433,10 +433,10 @@
     {
       "question": "How do water molecules distribute themselves around a negatively charged ion in solution?",
       "options": [
+        "The hydrogen (δ+) faces away from the ion",
         "The oxygen (δ-) faces the ion",
-        "The molecule dissolves the ion completely",
         "Both hydrogen atoms point toward the ion",
-        "The hydrogen (δ+) faces away from the ion"
+        "The molecule dissolves the ion completely"
       ],
       "answerIndex": 0,
       "correctAnswer": "The oxygen (δ-) faces the ion",
@@ -445,10 +445,10 @@
     {
       "question": "What role does hydrogen bonding play in water's solvent properties?",
       "options": [
-        "Water molecules are attracted to ions and polar molecules, causing them to separate",
-        "It prevents water from dissolving substances",
         "It makes water non-polar",
-        "It repels polar molecules"
+        "Water molecules are attracted to ions and polar molecules, causing them to separate",
+        "It repels polar molecules",
+        "It prevents water from dissolving substances"
       ],
       "answerIndex": 0,
       "correctAnswer": "Water molecules are attracted to ions and polar molecules, causing them to separate",
@@ -457,10 +457,10 @@
     {
       "question": "What happens to non-polar molecules when surrounded by water?",
       "options": [
-        "They dissolve completely",
-        "They form hydrogen bonds with water",
         "They are pushed together because water molecules attract each other",
-        "They evaporate immediately"
+        "They evaporate immediately",
+        "They form hydrogen bonds with water",
+        "They dissolve completely"
       ],
       "answerIndex": 2,
       "correctAnswer": "They are pushed together because water molecules attract each other",
@@ -469,9 +469,9 @@
     {
       "question": "What are the two elements that compose a water molecule?",
       "options": [
-        "Hydrogen and oxygen",
-        "Hydrogen and carbon",
         "Hydrogen and nitrogen",
+        "Hydrogen and carbon",
+        "Hydrogen and oxygen",
         "Oxygen and carbon"
       ],
       "answerIndex": 0,
@@ -481,10 +481,10 @@
     {
       "question": "How does the polarity of water affect its properties?",
       "options": [
-        "It makes water insoluble",
-        "It confers water's typical properties",
         "It makes water non-reactive",
-        "It has no significant effect"
+        "It makes water insoluble",
+        "It has no significant effect",
+        "It confers water's typical properties"
       ],
       "answerIndex": 1,
       "correctAnswer": "It confers water's typical properties",
@@ -493,10 +493,10 @@
     {
       "question": "What property allows water to store more energy for a given temperature increase?",
       "options": [
-        "Non-polarity",
         "Hydrogen bonding",
+        "Low specific heat capacity",
         "Low surface tension",
-        "Low specific heat capacity"
+        "Non-polarity"
       ],
       "answerIndex": 1,
       "correctAnswer": "Hydrogen bonding",

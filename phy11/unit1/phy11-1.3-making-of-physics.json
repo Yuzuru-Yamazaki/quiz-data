@@ -4,17 +4,21 @@
   "folder": "School/Grade 11/Physics/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["physics", "grade11", "unit1"],
+  "tags": [
+    "physics",
+    "grade11",
+    "unit1"
+  ],
   "questions": [
     {
       "id": 1,
       "anki": true,
       "question": "Which source of experiential knowledge is described as the dominant source?",
       "options": [
+        "Testimony",
         "Sensory perception",
-        "Introspection",
         "Memory",
-        "Testimony"
+        "Introspection"
       ],
       "correctAnswer": "Sensory perception"
     },
@@ -23,10 +27,10 @@
       "anki": true,
       "question": "Which source of experiential knowledge is described as a \"sixth sense\" that looks into the most intimate parts of our minds?",
       "options": [
-        "Memory",
+        "Sensory perception",
         "Introspection",
         "Testimony",
-        "Sensory perception"
+        "Memory"
       ],
       "correctAnswer": "Introspection"
     },
@@ -36,9 +40,9 @@
       "question": "Which source of experiential knowledge acts like a recording device that captures events in the order they occur?",
       "options": [
         "Testimony",
-        "Sensory perception",
         "Introspection",
-        "Memory"
+        "Memory",
+        "Sensory perception"
       ],
       "correctAnswer": "Memory"
     },
@@ -47,10 +51,10 @@
       "anki": true,
       "question": "Accepting knowledge from what other people report is the source of experiential knowledge called:",
       "options": [
-        "Introspection",
         "Memory",
-        "Testimony",
-        "Sensory perception"
+        "Sensory perception",
+        "Introspection",
+        "Testimony"
       ],
       "correctAnswer": "Testimony"
     },
@@ -59,10 +63,10 @@
       "anki": true,
       "question": "Which of the following is a source of experiential knowledge?",
       "options": [
+        "Imagination",
         "Sensory perception",
-        "Guessing",
         "Memorizing",
-        "Imagination"
+        "Guessing"
       ],
       "correctAnswer": "Sensory perception"
     },
@@ -71,10 +75,10 @@
       "anki": true,
       "question": "How is scientific (physics) knowledge constructed?",
       "options": [
-        "Through experience, observation, and the scientific method",
+        "By using intuition alone",
         "By guessing the answer",
         "By memorizing facts from books",
-        "By using intuition alone"
+        "Through experience, observation, and the scientific method"
       ],
       "correctAnswer": "Through experience, observation, and the scientific method"
     },
@@ -83,10 +87,10 @@
       "anki": true,
       "question": "Introspection allows us to:",
       "options": [
-        "Inspect how we are feeling and how our thoughts are operating",
         "Record events in the order they occur",
+        "Gather information by seeing and touching",
         "Accept knowledge from what others report",
-        "Gather information by seeing and touching"
+        "Inspect how we are feeling and how our thoughts are operating"
       ],
       "correctAnswer": "Inspect how we are feeling and how our thoughts are operating"
     },
@@ -96,9 +100,9 @@
       "question": "Describing your own pain to a doctor is an example of which source of experiential knowledge?",
       "options": [
         "Sensory perception",
-        "Testimony",
+        "Introspection",
         "Memory",
-        "Introspection"
+        "Testimony"
       ],
       "correctAnswer": "Introspection"
     },
@@ -107,9 +111,9 @@
       "anki": true,
       "question": "According to the textbook, memory captures events:",
       "options": [
-        "More or less in the order they occur",
         "Only after many years have passed",
         "In a completely random order",
+        "More or less in the order they occur",
         "Only when they are repeated twice"
       ],
       "correctAnswer": "More or less in the order they occur"
@@ -119,9 +123,9 @@
       "anki": true,
       "question": "When judging testimony, which type of source is usually more reliable?",
       "options": [
-        "Written sources",
-        "Oral sources",
         "Rumors from friends",
+        "Oral sources",
+        "Written sources",
         "Stories passed down by word of mouth"
       ],
       "correctAnswer": "Written sources"
@@ -131,10 +135,10 @@
       "anki": true,
       "question": "The reliability of testimony depends much on the integrity of the author, the publisher, and the:",
       "options": [
-        "Methods of fact-gathering",
-        "Number of pages in the book",
         "Language in which it is written",
-        "Price of the publication"
+        "Price of the publication",
+        "Methods of fact-gathering",
+        "Number of pages in the book"
       ],
       "correctAnswer": "Methods of fact-gathering"
     },
@@ -155,10 +159,10 @@
       "anki": true,
       "question": "Non-experiential knowledge is best described as:",
       "options": [
-        "Knowledge not gained through the senses",
-        "Knowledge gained by touch and taste",
+        "Knowledge gained from watching events",
         "Knowledge gained by hearing others speak",
-        "Knowledge gained from watching events"
+        "Knowledge not gained through the senses",
+        "Knowledge gained by touch and taste"
       ],
       "correctAnswer": "Knowledge not gained through the senses"
     },
@@ -168,9 +172,9 @@
       "question": "Which of the following is an example of non-experiential knowledge?",
       "options": [
         "Logical and mathematical reasoning",
-        "Seeing the color of a flower",
         "Hearing a bird sing",
-        "Feeling the texture of a stone"
+        "Feeling the texture of a stone",
+        "Seeing the color of a flower"
       ],
       "correctAnswer": "Logical and mathematical reasoning"
     },
@@ -180,9 +184,9 @@
       "question": "Axioms that are assumed without sensory evidence are a form of:",
       "options": [
         "Non-experiential knowledge",
+        "Testimony",
         "Sensory perception",
-        "Introspection",
-        "Testimony"
+        "Introspection"
       ],
       "correctAnswer": "Non-experiential knowledge"
     },
@@ -191,10 +195,10 @@
       "anki": true,
       "question": "The scientific method is best described as:",
       "options": [
-        "An ordered series of steps to acquire knowledge based on experimental evidence",
         "A single step of guessing an answer",
         "A way of memorizing facts quickly",
-        "A method of recording events from memory"
+        "A method of recording events from memory",
+        "An ordered series of steps to acquire knowledge based on experimental evidence"
       ],
       "correctAnswer": "An ordered series of steps to acquire knowledge based on experimental evidence"
     },
@@ -204,9 +208,9 @@
       "question": "What is the first step of the scientific method?",
       "options": [
         "Make observations",
-        "Form a hypothesis",
+        "Analyze data",
         "Communicate results",
-        "Analyze data"
+        "Form a hypothesis"
       ],
       "correctAnswer": "Make observations"
     },
@@ -215,9 +219,9 @@
       "anki": true,
       "question": "After making observations, what is the second step of the scientific method?",
       "options": [
+        "Design a controlled experiment",
         "Ask a question and identify a problem",
         "Draw a conclusion",
-        "Design a controlled experiment",
         "Analyze the data"
       ],
       "correctAnswer": "Ask a question and identify a problem"
@@ -229,8 +233,8 @@
       "options": [
         "A proposed explanation and a testable prediction",
         "The final answer to the problem",
-        "A list of observations from nature",
-        "The data collected from an experiment"
+        "The data collected from an experiment",
+        "A list of observations from nature"
       ],
       "correctAnswer": "A proposed explanation and a testable prediction"
     },
@@ -241,8 +245,8 @@
       "options": [
         "Design and conduct a controlled experiment",
         "Make observations",
-        "Communicate the results",
-        "Ask a question"
+        "Ask a question",
+        "Communicate the results"
       ],
       "correctAnswer": "Design and conduct a controlled experiment"
     },
@@ -251,10 +255,10 @@
       "anki": true,
       "question": "What is the fifth step of the scientific method?",
       "options": [
+        "Make observations",
         "Analyze data",
-        "Form a hypothesis",
         "Draw a conclusion",
-        "Make observations"
+        "Form a hypothesis"
       ],
       "correctAnswer": "Analyze data"
     },
@@ -264,9 +268,9 @@
       "question": "What is the sixth step of the scientific method?",
       "options": [
         "Draw a conclusion that confirms or refutes the hypothesis",
+        "Identify a problem",
         "Design a controlled experiment",
-        "Communicate and share the results",
-        "Identify a problem"
+        "Communicate and share the results"
       ],
       "correctAnswer": "Draw a conclusion that confirms or refutes the hypothesis"
     },
@@ -275,10 +279,10 @@
       "anki": true,
       "question": "What is the final step of the scientific method?",
       "options": [
-        "Communicate or share the results",
         "Analyze the data",
-        "Make more observations",
-        "Form a new hypothesis"
+        "Communicate or share the results",
+        "Form a new hypothesis",
+        "Make more observations"
       ],
       "correctAnswer": "Communicate or share the results"
     },
@@ -287,10 +291,10 @@
       "anki": true,
       "question": "In the textbook example, what does the scientist decide to do when studying altitude and boiling water?",
       "options": [
-        "Heat water at different altitudes and record the boiling temperature",
-        "Cool water at different altitudes and record the freezing point",
         "Measure the amount of water evaporated at one altitude",
-        "Test the taste of boiled water at sea level"
+        "Cool water at different altitudes and record the freezing point",
+        "Test the taste of boiled water at sea level",
+        "Heat water at different altitudes and record the boiling temperature"
       ],
       "correctAnswer": "Heat water at different altitudes and record the boiling temperature"
     },
@@ -311,9 +315,9 @@
       "anki": true,
       "question": "In the textbook experiment, what is the boiling temperature of water at 0 m altitude?",
       "options": [
-        "100 °C",
-        "99.5 °C",
         "99 °C",
+        "99.5 °C",
+        "100 °C",
         "95 °C"
       ],
       "correctAnswer": "100 °C"
@@ -325,8 +329,8 @@
       "options": [
         "As altitude increases, the boiling point of water decreases",
         "As altitude increases, the boiling point of water increases",
-        "Altitude has no effect on the boiling point of water",
-        "The boiling point of water is constant at every altitude"
+        "The boiling point of water is constant at every altitude",
+        "Altitude has no effect on the boiling point of water"
       ],
       "correctAnswer": "As altitude increases, the boiling point of water decreases"
     },
@@ -335,8 +339,8 @@
       "anki": true,
       "question": "Why does the boiling point of water decrease at higher altitudes?",
       "options": [
-        "Lower atmospheric pressure at higher altitude lowers the boiling point",
         "Higher atmospheric pressure at higher altitude lowers the boiling point",
+        "Lower atmospheric pressure at higher altitude lowers the boiling point",
         "The water is heated faster at higher altitudes",
         "The water contains more impurities at higher altitudes"
       ],

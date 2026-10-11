@@ -4,16 +4,20 @@
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
-  "tags": ["agriculture", "grade11", "unit2"],
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2"
+  ],
   "questions": [
     {
       "id": 1,
       "anki": true,
       "question": "What is the botanical name of faba bean?",
       "options": [
-        "Vicia faba L.",
-        "Pisum sativum L.",
         "Phaseolus vulgaris L.",
+        "Pisum sativum L.",
+        "Vicia faba L.",
         "Eragrostis abyssinica"
       ],
       "correctAnswer": "Vicia faba L."
@@ -23,10 +27,10 @@
       "anki": true,
       "question": "Where is faba bean believed to have originated?",
       "options": [
-        "The Mediterranean region",
         "Mexico",
-        "Central America",
-        "The Middle East"
+        "The Mediterranean region",
+        "The Middle East",
+        "Central America"
       ],
       "correctAnswer": "The Mediterranean region"
     },
@@ -35,10 +39,10 @@
       "anki": true,
       "question": "How did faba bean reach other parts of the world from its place of origin?",
       "options": [
-        "It spread from the Mediterranean region to other parts of the world",
-        "It originated in Ethiopia and was exported to Asia",
+        "It originated in India and spread to Europe",
         "It originated in Mexico and spread to Africa only",
-        "It originated in India and spread to Europe"
+        "It originated in Ethiopia and was exported to Asia",
+        "It spread from the Mediterranean region to other parts of the world"
       ],
       "correctAnswer": "It spread from the Mediterranean region to other parts of the world"
     },
@@ -47,10 +51,10 @@
       "anki": true,
       "question": "What is the main purpose of faba bean production?",
       "options": [
-        "Producing its edible seeds",
         "Producing green forage only",
-        "Producing cooking oil",
-        "Producing industrial starch"
+        "Producing industrial starch",
+        "Producing its edible seeds",
+        "Producing cooking oil"
       ],
       "correctAnswer": "Producing its edible seeds"
     },
@@ -59,10 +63,10 @@
       "anki": true,
       "question": "How is faba bean used at the green stage?",
       "options": [
-        "As a vegetable",
-        "As animal feed only",
         "As green manure",
-        "As a fence post"
+        "As animal feed only",
+        "As a fence post",
+        "As a vegetable"
       ],
       "correctAnswer": "As a vegetable"
     },
@@ -71,10 +75,10 @@
       "anki": true,
       "question": "At what altitude range does faba bean grow well?",
       "options": [
+        "Sea level to $1000$ m above sea level",
         "$1800$ to $3000$ m above sea level",
         "$500$ to $1200$ m above sea level",
-        "$1400$ to $2000$ m above sea level",
-        "Sea level to $1000$ m above sea level"
+        "$1400$ to $2000$ m above sea level"
       ],
       "correctAnswer": "$1800$ to $3000$ m above sea level"
     },
@@ -84,9 +88,9 @@
       "question": "Which soil type is suitable for faba bean production?",
       "options": [
         "Well drained clay soils",
+        "Salty coastal soils",
         "Waterlogged clay soils",
-        "Very sandy soils that hold no moisture",
-        "Salty coastal soils"
+        "Very sandy soils that hold no moisture"
       ],
       "correctAnswer": "Well drained clay soils"
     },
@@ -95,10 +99,10 @@
       "anki": true,
       "question": "How is faba bean planted?",
       "options": [
+        "Only by drilling into ridges",
         "Both by broadcasting and in rows",
         "Only by broadcasting",
-        "Only by transplanting seedlings",
-        "Only by drilling into ridges"
+        "Only by transplanting seedlings"
       ],
       "correctAnswer": "Both by broadcasting and in rows"
     },
@@ -107,10 +111,10 @@
       "anki": true,
       "question": "What spacing is used between rows when faba bean is planted in rows?",
       "options": [
-        "$40$ cm",
         "$30$ cm",
-        "$10$ cm",
-        "$25$ cm"
+        "$25$ cm",
+        "$40$ cm",
+        "$10$ cm"
       ],
       "correctAnswer": "$40$ cm"
     },
@@ -120,9 +124,9 @@
       "question": "What spacing is used between plants of faba bean?",
       "options": [
         "$5$ to $10$ cm",
+        "$1$ to $2$ cm",
         "$40$ to $50$ cm",
-        "$30$ to $40$ cm",
-        "$1$ to $2$ cm"
+        "$30$ to $40$ cm"
       ],
       "correctAnswer": "$5$ to $10$ cm"
     },
@@ -132,9 +136,9 @@
       "question": "Which insect pests attack faba bean?",
       "options": [
         "African ball worm and aphids",
-        "Maize stalk borer and army worm",
+        "Striga and grasshopper",
         "Barley shoot fly and weevil",
-        "Striga and grasshopper"
+        "Maize stalk borer and army worm"
       ],
       "correctAnswer": "African ball worm and aphids"
     },
@@ -143,9 +147,9 @@
       "anki": true,
       "question": "Besides insect pests, faba bean is also affected by which problems?",
       "options": [
+        "Hail and drought only",
         "Weeds and fungal diseases",
         "Flooding and frost only",
-        "Hail and drought only",
         "Salinity and erosion"
       ],
       "correctAnswer": "Weeds and fungal diseases"
@@ -155,8 +159,8 @@
       "anki": true,
       "question": "How often should hand weeding be carried out after planting faba bean?",
       "options": [
-        "Twice in the first $6$ weeks after planting",
         "Once in every $12$ weeks after planting",
+        "Twice in the first $6$ weeks after planting",
         "Five times in the first $6$ weeks after planting",
         "Only once, at harvest time"
       ],
@@ -167,9 +171,9 @@
       "anki": true,
       "question": "Which set of measures should be integrated to control faba bean weeds, pests and diseases?",
       "options": [
-        "Hand weeding, crop rotation, ensuring a clean seedbed and use of chemicals",
-        "Fertilizer application, irrigation, staking and shading",
         "Deep ploughing, seeding at night, drying and stacking",
+        "Fertilizer application, irrigation, staking and shading",
+        "Hand weeding, crop rotation, ensuring a clean seedbed and use of chemicals",
         "Pruning, mulching, grafting and pollination"
       ],
       "correctAnswer": "Hand weeding, crop rotation, ensuring a clean seedbed and use of chemicals"
@@ -179,10 +183,10 @@
       "anki": true,
       "question": "Why is crop rotation useful in faba bean production?",
       "options": [
-        "It helps break the life cycle of pests and diseases and improves soil fertility",
-        "It raises the soil temperature for faster drying",
         "It makes the clay soil sandy",
-        "It removes the need for hand weeding completely"
+        "It removes the need for hand weeding completely",
+        "It raises the soil temperature for faster drying",
+        "It helps break the life cycle of pests and diseases and improves soil fertility"
       ],
       "correctAnswer": "It helps break the life cycle of pests and diseases and improves soil fertility"
     },
@@ -191,10 +195,10 @@
       "anki": true,
       "question": "What is the first sign that faba bean is ready for harvest?",
       "options": [
-        "The leaves fall off",
-        "The pods turn bright green",
+        "The seeds begin to germinate in the pod",
         "The plants start to flower",
-        "The seeds begin to germinate in the pod"
+        "The leaves fall off",
+        "The pods turn bright green"
       ],
       "correctAnswer": "The leaves fall off"
     },
@@ -203,9 +207,9 @@
       "anki": true,
       "question": "What colour change occurs in faba bean pods at maturity?",
       "options": [
-        "The pods dry and change colour from green to black",
-        "The pods dry and change colour from black to green",
         "The pods stay green and become softer",
+        "The pods dry and change colour from black to green",
+        "The pods dry and change colour from green to black",
         "The pods turn white and drop off"
       ],
       "correctAnswer": "The pods dry and change colour from green to black"
@@ -215,10 +219,10 @@
       "anki": true,
       "question": "At what stage should faba bean be harvested when it is grown for use as a vegetable?",
       "options": [
+        "At the flowering stage",
         "At the green stage, when the pods are immature",
         "After the pods turn black and dry",
-        "After the seeds have shattered from the pods",
-        "At the flowering stage"
+        "After the seeds have shattered from the pods"
       ],
       "correctAnswer": "At the green stage, when the pods are immature"
     },
@@ -227,9 +231,9 @@
       "anki": true,
       "question": "What is the average national yield of faba bean in Ethiopia?",
       "options": [
+        "$24.5$ quintals ($2.45$ t) per hectare",
         "$19$ quintals ($1.9$ t) per hectare",
         "$14$ quintals ($1.4$ t) per hectare",
-        "$24.5$ quintals ($2.45$ t) per hectare",
         "$32.5$ quintals ($3.25$ t) per hectare"
       ],
       "correctAnswer": "$19$ quintals ($1.9$ t) per hectare"
@@ -240,9 +244,9 @@
       "question": "The national average faba bean yield of $19$ quintals per hectare equals how many tonnes per hectare?",
       "options": [
         "$1.9$ t per hectare",
-        "$0.19$ t per hectare",
+        "$2.9$ t per hectare",
         "$19$ t per hectare",
-        "$2.9$ t per hectare"
+        "$0.19$ t per hectare"
       ],
       "correctAnswer": "$1.9$ t per hectare"
     },
@@ -263,10 +267,10 @@
       "anki": true,
       "question": "How is faba bean classified with regard to its cotyledons?",
       "options": [
-        "It is a dicot",
+        "It is a grass",
         "It is a monocot",
-        "It is a perennial",
-        "It is a grass"
+        "It is a dicot",
+        "It is a perennial"
       ],
       "correctAnswer": "It is a dicot"
     },
@@ -275,10 +279,10 @@
       "anki": true,
       "question": "How does faba bean contribute to the nitrogen status of the soil?",
       "options": [
-        "It fixes atmospheric nitrogen into the soil through root nodules",
-        "It absorbs nitrogen from the soil and stores it in the pods",
         "It releases nitrogen into the air through the leaves",
-        "It has no effect on soil nitrogen"
+        "It absorbs nitrogen from the soil and stores it in the pods",
+        "It has no effect on soil nitrogen",
+        "It fixes atmospheric nitrogen into the soil through root nodules"
       ],
       "correctAnswer": "It fixes atmospheric nitrogen into the soil through root nodules"
     },
@@ -287,10 +291,10 @@
       "anki": true,
       "question": "Which pulse crop can be planted mixed with faba bean?",
       "options": [
-        "Field pea",
+        "Barley",
         "Maize",
         "Sorghum",
-        "Barley"
+        "Field pea"
       ],
       "correctAnswer": "Field pea"
     },
@@ -300,9 +304,9 @@
       "question": "In Ethiopia, pulses are mostly produced in which way?",
       "options": [
         "Without mineral fertilizer application",
-        "With heavy mineral fertilizer application",
         "With mineral fertilizer applied at every growth stage",
-        "With mineral fertilizer supplied only through irrigation water"
+        "With mineral fertilizer supplied only through irrigation water",
+        "With heavy mineral fertilizer application"
       ],
       "correctAnswer": "Without mineral fertilizer application"
     }

@@ -16,10 +16,10 @@
       "anki": true,
       "question": "Crop production is influenced by factors that are under the farmer's control and factors that are",
       "options": [
-        "fully under control",
         "impossible to influence",
-        "not fully controlled",
-        "only seasonal"
+        "only seasonal",
+        "fully under control",
+        "not fully controlled"
       ],
       "correctAnswer": "not fully controlled"
     },
@@ -28,10 +28,10 @@
       "anki": true,
       "question": "Which factor is the principal one that determines crop production?",
       "options": [
-        "fertilizer application",
-        "selection of crop site",
         "pest control",
-        "planting distance"
+        "planting distance",
+        "fertilizer application",
+        "selection of crop site"
       ],
       "correctAnswer": "selection of crop site"
     },
@@ -42,8 +42,8 @@
       "options": [
         "market price only",
         "the crop requirement",
-        "labor availability only",
-        "machinery type"
+        "machinery type",
+        "labor availability only"
       ],
       "correctAnswer": "the crop requirement"
     },
@@ -52,8 +52,8 @@
       "anki": true,
       "question": "Which of the following is important in crop site selection?",
       "options": [
-        "soil properties",
         "water",
+        "soil properties",
         "other growth factors",
         "all of the above"
       ],
@@ -64,10 +64,10 @@
       "anki": true,
       "question": "The soil type suitable for root or tuber crops is",
       "options": [
-        "same as for cereals and legumes",
-        "different from that of cereal or legume crops",
         "always clay",
-        "always sandy"
+        "always sandy",
+        "same as for cereals and legumes",
+        "different from that of cereal or legume crops"
       ],
       "correctAnswer": "different from that of cereal or legume crops"
     },
@@ -76,9 +76,9 @@
       "anki": true,
       "question": "It is important to select the best crop type that best fits",
       "options": [
-        "the weather forecast",
-        "the soil selected for the crop",
         "the seed price",
+        "the soil selected for the crop",
+        "the weather forecast",
         "the nearest market"
       ],
       "correctAnswer": "the soil selected for the crop"
@@ -89,9 +89,9 @@
       "question": "In addition to selecting crop and site, the farmer also needs to decide the",
       "options": [
         "amount of land to allocate for a specific crop",
+        "none of the above",
         "types of management needed for maximum yield",
-        "both of the above",
-        "none of the above"
+        "both of the above"
       ],
       "correctAnswer": "both of the above"
     },
@@ -100,10 +100,10 @@
       "anki": true,
       "question": "Which of the following is mentioned as a management practice for crop production?",
       "options": [
-        "Deciding planting distance",
-        "Building large irrigation dams",
         "Selecting sleeping sites for livestock",
-        "Constructing roads through the farm"
+        "Constructing roads through the farm",
+        "Building large irrigation dams",
+        "Deciding planting distance"
       ],
       "correctAnswer": "Deciding planting distance"
     },
@@ -112,9 +112,9 @@
       "anki": true,
       "question": "Which is a management practice for crop production?",
       "options": [
+        "appropriate planting time",
         "pest control strategies",
         "deciding when to harvest",
-        "appropriate planting time",
         "all of the above"
       ],
       "correctAnswer": "all of the above"
@@ -124,10 +124,10 @@
       "anki": true,
       "question": "Farmers can control the type and amount of agricultural inputs such as",
       "options": [
-        "fertilizer to improve soil nutrients",
         "irrigation to supplement rainfall",
+        "all of the above",
         "adding lime to modify soil acidity",
-        "all of the above"
+        "fertilizer to improve soil nutrients"
       ],
       "correctAnswer": "all of the above"
     },
@@ -136,10 +136,10 @@
       "anki": true,
       "question": "Adding lime to the soil is used to",
       "options": [
-        "increase rainfall",
-        "modify the acidity of the soil",
         "control weeds",
-        "reduce evaporation"
+        "increase rainfall",
+        "reduce evaporation",
+        "modify the acidity of the soil"
       ],
       "correctAnswer": "modify the acidity of the soil"
     },
@@ -149,8 +149,8 @@
       "question": "Which is an example of a crop production factor that cannot be fully controlled by the farmer?",
       "options": [
         "fertilizer type",
-        "unexpected end of favorable weather",
         "planting time",
+        "unexpected end of favorable weather",
         "row spacing"
       ],
       "correctAnswer": "unexpected end of favorable weather"
@@ -172,10 +172,10 @@
       "anki": true,
       "question": "Field crops are grown on a wide scale mainly for",
       "options": [
-        "ornamental purpose",
+        "biofuel only",
         "human consumption",
-        "fiber export only",
-        "biofuel only"
+        "ornamental purpose",
+        "fiber export only"
       ],
       "correctAnswer": "human consumption"
     },
@@ -184,10 +184,10 @@
       "anki": true,
       "question": "Field crops are annuals, meaning they",
       "options": [
-        "live for many years",
-        "complete a life cycle in a single season",
         "grow only in winter",
-        "require two seasons"
+        "require two seasons",
+        "live for many years",
+        "complete a life cycle in a single season"
       ],
       "correctAnswer": "complete a life cycle in a single season"
     },
@@ -197,9 +197,9 @@
       "question": "The major field crops are classified into",
       "options": [
         "cereals and pulses (legumes)",
+        "fibers and forages",
         "tubers and roots",
-        "oilseeds and spices",
-        "fibers and forages"
+        "oilseeds and spices"
       ],
       "correctAnswer": "cereals and pulses (legumes)"
     },
@@ -208,10 +208,10 @@
       "anki": true,
       "question": "Cereals are crops with grass characteristics grown mainly for their",
       "options": [
-        "leaves",
-        "edible seeds",
+        "flowers",
         "stems only",
-        "flowers"
+        "leaves",
+        "edible seeds"
       ],
       "correctAnswer": "edible seeds"
     },
@@ -220,10 +220,10 @@
       "anki": true,
       "question": "Cereals can grow in",
       "options": [
-        "a narrow range of conditions",
-        "wide range of environmental conditions",
+        "only lowlands",
         "only highlands",
-        "only lowlands"
+        "a narrow range of conditions",
+        "wide range of environmental conditions"
       ],
       "correctAnswer": "wide range of environmental conditions"
     },
@@ -232,10 +232,10 @@
       "anki": true,
       "question": "Cereal crops are monocots, meaning their seeds have",
       "options": [
-        "two cotyledons",
         "a single cotyledon (embryonic leaf)",
-        "no cotyledon",
-        "three cotyledons"
+        "three cotyledons",
+        "two cotyledons",
+        "no cotyledon"
       ],
       "correctAnswer": "a single cotyledon (embryonic leaf)"
     },
@@ -244,10 +244,10 @@
       "anki": true,
       "question": "Which of the following nutrients is contained in cereal crops?",
       "options": [
-        "Carbohydrates",
         "Silicon",
-        "Limestone",
-        "Carbon dioxide"
+        "Carbohydrates",
+        "Carbon dioxide",
+        "Limestone"
       ],
       "correctAnswer": "Carbohydrates"
     },
@@ -256,10 +256,10 @@
       "anki": true,
       "question": "Cereals contain which of the following components?",
       "options": [
-        "carbohydrates",
         "proteins",
+        "all of the above",
         "fats and fibers",
-        "all of the above"
+        "carbohydrates"
       ],
       "correctAnswer": "all of the above"
     },
@@ -268,10 +268,10 @@
       "anki": true,
       "question": "Which one of the following is among the five major cereal crops produced in Ethiopia?",
       "options": [
-        "Sorghum",
-        "Rice",
         "Oat",
-        "Rye"
+        "Rice",
+        "Rye",
+        "Sorghum"
       ],
       "correctAnswer": "Sorghum"
     },
@@ -280,10 +280,10 @@
       "anki": true,
       "question": "The five major cereal crops produced in Ethiopia are teff, maize, wheat, barley and",
       "options": [
-        "sorghum",
-        "millet",
+        "oats",
         "finger millet",
-        "oats"
+        "sorghum",
+        "millet"
       ],
       "correctAnswer": "sorghum"
     },
@@ -292,8 +292,8 @@
       "anki": true,
       "question": "Irrigation to supplement rainfall is an input that",
       "options": [
-        "farmer cannot control",
         "farmer can control",
+        "farmer cannot control",
         "depends only on weather",
         "none of the above"
       ],
@@ -305,9 +305,9 @@
       "question": "Fertilizer is used to improve",
       "options": [
         "soil structure only",
+        "soil temperature",
         "nutrients available in the soil",
-        "water infiltration",
-        "soil temperature"
+        "water infiltration"
       ],
       "correctAnswer": "nutrients available in the soil"
     },
@@ -316,10 +316,10 @@
       "anki": true,
       "question": "Post-harvest management is an example of",
       "options": [
-        "crop production factor outside control",
         "a management practice",
-        "soil property",
-        "climatic factor"
+        "crop production factor outside control",
+        "climatic factor",
+        "soil property"
       ],
       "correctAnswer": "a management practice"
     },
@@ -328,10 +328,10 @@
       "anki": true,
       "question": "Deciding planting distance is part of",
       "options": [
-        "management practices",
         "non-controllable factors",
-        "natural disasters",
-        "none"
+        "none",
+        "management practices",
+        "natural disasters"
       ],
       "correctAnswer": "management practices"
     },
@@ -340,10 +340,10 @@
       "anki": true,
       "question": "Appropriate planting time is classified as",
       "options": [
+        "pest invasion",
         "a management practice",
-        "uncontrollable factor",
         "weather anomaly",
-        "pest invasion"
+        "uncontrollable factor"
       ],
       "correctAnswer": "a management practice"
     },
@@ -352,9 +352,9 @@
       "anki": true,
       "question": "Selecting best crop type for a given soil helps ensure",
       "options": [
+        "less work",
         "maximum yield potential",
         "higher seed price only",
-        "less work",
         "no need for rain"
       ],
       "correctAnswer": "maximum yield potential"
@@ -364,8 +364,8 @@
       "anki": true,
       "question": "Cereal crops are classified as field crops that are mainly for",
       "options": [
-        "human consumption",
         "livestock only",
+        "human consumption",
         "industrial fiber",
         "timber"
       ],

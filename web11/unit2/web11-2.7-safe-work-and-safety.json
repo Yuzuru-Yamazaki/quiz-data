@@ -1,0 +1,284 @@
+{
+  "title": "2.7 Safe Work Conditions and Safety Guidelines",
+  "description": "Connecting a monitor, general safety and fire safety guidelines",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the first step in connecting a monitor to a workstation?",
+      "options": [
+        "Match the cable with a video port",
+        "Turn on the computer and the monitor",
+        "Find the monitor's connector cable",
+        "Connect the power cord to a power outlet"
+      ],
+      "correctAnswer": "Find the monitor's connector cable"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "After finding the monitor's connector cable, what should you do next?",
+      "options": [
+        "Match the cable with one of the video ports on the back of the monitor",
+        "Insert a USB device",
+        "Plug the power cord into a surge protector",
+        "Turn on the monitor power button"
+      ],
+      "correctAnswer": "Match the cable with one of the video ports on the back of the monitor"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "In the monitor connection procedure, where should the flat end of the monitor power cord be connected?",
+      "options": [
+        "To the Ethernet port",
+        "To the back of the monitor",
+        "To the front of the computer",
+        "To a USB port"
+      ],
+      "correctAnswer": "To the back of the monitor"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "According to the steps, the other end of the monitor power cord should be connected into a power outlet or preferably what?",
+      "options": [
+        "A surge protector",
+        "An Ethernet switch",
+        "A USB hub",
+        "A RAM slot"
+      ],
+      "correctAnswer": "A surge protector"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Safe work conditions and procedures for computer-related work are essential to ensure what?",
+      "options": [
+        "Faster internet speeds at the workplace",
+        "Higher screen resolution on all monitors",
+        "Lower electricity bills every month",
+        "The well-being and safety of employees who spend a significant amount of time working with computers"
+      ],
+      "correctAnswer": "The well-being and safety of employees who spend a significant amount of time working with computers"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Why should the workspace be kept clean and organized?",
+      "options": [
+        "To improve the monitor's color accuracy",
+        "To reduce the cost of software licenses",
+        "To increase the computer's processing speed",
+        "To prevent tripping hazards and allow easy access to equipment"
+      ],
+      "correctAnswer": "To prevent tripping hazards and allow easy access to equipment"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which guideline helps protect a computer from power surges and outages?",
+      "options": [
+        "Use surge protectors and uninterruptible power supplies (UPS)",
+        "Use wireless keyboard and mouse",
+        "Use a larger monitor",
+        "Increase the screen brightness"
+      ],
+      "correctAnswer": "Use surge protectors and uninterruptible power supplies (UPS)"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Why is it recommended to regularly back up important data?",
+      "options": [
+        "To make the computer boot faster",
+        "To protect against data loss in the event of hardware failure, malware attacks or other unforeseen circumstances",
+        "To reduce the number of cables needed",
+        "To increase the size of the hard drive"
+      ],
+      "correctAnswer": "To protect against data loss in the event of hardware failure, malware attacks or other unforeseen circumstances"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What should be done to protect a computer from malware and viruses?",
+      "options": [
+        "Install and regularly update reputable antivirus software",
+        "Disable all user accounts",
+        "Delete all email messages",
+        "Keep the computer turned off at all times"
+      ],
+      "correctAnswer": "Install and regularly update reputable antivirus software"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Why should you be cautious when opening email attachments or clicking on links?",
+      "options": [
+        "They can potentially contain malware or phishing attempts",
+        "They can damage the keyboard",
+        "They can increase the monitor's refresh rate",
+        "They can slow down the printer"
+      ],
+      "correctAnswer": "They can potentially contain malware or phishing attempts"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which tool is suggested to securely store and manage your passwords?",
+      "options": [
+        "A spreadsheet on the desktop",
+        "A note attached to the monitor",
+        "A password manager",
+        "A shared text document"
+      ],
+      "correctAnswer": "A password manager"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which posture is recommended for good ergonomics while working at a computer?",
+      "options": [
+        "Back slouched, knees raised and wrists bent downward",
+        "Sitting on the edge of the chair with feet crossed",
+        "Back straight, feet flat on the floor and wrists in a neutral position",
+        "Lying back with the monitor at eye level below the desk"
+      ],
+      "correctAnswer": "Back straight, feet flat on the floor and wrists in a neutral position"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What does the 20-20-20 rule recommend?",
+      "options": [
+        "Every 2 hours, rest for 20 minutes with 20 candles lit",
+        "Every 20 minutes, take 20 steps and drink 20 sips of water",
+        "Every 20 minutes, look away from the screen and focus on something 20 feet away for at least 20 seconds",
+        "Every 20 seconds, blink 20 times for 20 minutes"
+      ],
+      "correctAnswer": "Every 20 minutes, look away from the screen and focus on something 20 feet away for at least 20 seconds"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which display settings are recommended to adjust to reduce eye strain?",
+      "options": [
+        "Screen orientation and wallpaper",
+        "Mouse pointer speed and volume",
+        "Network IP address and DNS server",
+        "Brightness, contrast and font size"
+      ],
+      "correctAnswer": "Brightness, contrast and font size"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What is the purpose of using screensavers or power-saving settings?",
+      "options": [
+        "To increase the processor's clock speed",
+        "To prevent screen burn-in",
+        "To enlarge the keyboard characters",
+        "To speed up the internet connection"
+      ],
+      "correctAnswer": "To prevent screen burn-in"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Which of these is an example of a social engineering attack?",
+      "options": [
+        "Adjusting the monitor height",
+        "Installing a larger hard drive",
+        "Phishing attempts or phone scams",
+        "Using a surge protector"
+      ],
+      "correctAnswer": "Phishing attempts or phone scams"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What should you do if you notice unusual activity or a security breach on your computer or network?",
+      "options": [
+        "Report it to your IT department or system administrator immediately",
+        "Ignore it until the next maintenance window",
+        "Restart the computer and say nothing",
+        "Share the details on social media"
+      ],
+      "correctAnswer": "Report it to your IT department or system administrator immediately"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "What does the PASS method for using a fire extinguisher stand for?",
+      "options": [
+        "Push the lever, Aim at the top, Spray, Stop",
+        "Pull the hose, Aim high, Shake, Spray",
+        "Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep from side to side",
+        "Point, Alert, Spray, Secure"
+      ],
+      "correctAnswer": "Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep from side to side"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Why should cables and cords not be run under carpets or rugs?",
+      "options": [
+        "Doing so protects the cables from wear",
+        "Doing so increases network speed",
+        "Doing so improves audio quality",
+        "Doing so can cause overheating"
+      ],
+      "correctAnswer": "Doing so can cause overheating"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Why should computer equipment be placed in a well-ventilated area?",
+      "options": [
+        "To reduce the monitor's resolution",
+        "To increase the amount of dust collected",
+        "To make the equipment run louder",
+        "To prevent overheating caused by restricted airflow"
+      ],
+      "correctAnswer": "To prevent overheating caused by restricted airflow"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "True or False: A no-smoking policy helps prevent the risk of fire caused by discarded cigarette butts or ashes near computers.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "True or False: Important data backups should be stored off-site or in a secure location to protect against loss in the event of a fire.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "True or False: Extension cords should be used as much as possible for computer equipment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False"
+    }
+  ]
+}

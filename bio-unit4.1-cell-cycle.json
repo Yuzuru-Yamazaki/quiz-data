@@ -13,10 +13,10 @@
     {
       "question": "What is a cell cycle?",
       "options": [
-        "A process by which a cell loses its genetic material",
-        "A sequence of events in the parent cell distributing genetic materials to form daughter cells",
         "The movement of chromosomes during cell division only",
-        "The growth phase of a cell before it dies"
+        "The growth phase of a cell before it dies",
+        "A process by which a cell loses its genetic material",
+        "A sequence of events in the parent cell distributing genetic materials to form daughter cells"
       ],
       "correctAnswer": "A sequence of events in the parent cell distributing genetic materials to form daughter cells",
       "id": 1
@@ -24,9 +24,9 @@
     {
       "question": "What are the two main divisions of the cell cycle?",
       "options": [
+        "Prophase and metaphase",
         "Mitosis and cytokinesis",
         "Interphase and cell division",
-        "Prophase and metaphase",
         "G1 phase and G2 phase"
       ],
       "correctAnswer": "Interphase and cell division",
@@ -35,10 +35,10 @@
     {
       "question": "Into how many phases is interphase divided?",
       "options": [
-        "Three",
         "Two",
-        "Four",
-        "Five"
+        "Three",
+        "Five",
+        "Four"
       ],
       "correctAnswer": "Three",
       "id": 3
@@ -46,10 +46,10 @@
     {
       "question": "What are the three phases of interphase?",
       "options": [
-        "Prophase, metaphase, and anaphase",
-        "G1, S, and G2",
         "G1, G2, and M",
-        "S, G1, and prophase"
+        "G1, S, and G2",
+        "S, G1, and prophase",
+        "Prophase, metaphase, and anaphase"
       ],
       "correctAnswer": "G1, S, and G2",
       "id": 4
@@ -58,8 +58,8 @@
       "question": "What is the first stage of interphase called?",
       "options": [
         "S phase",
-        "G2 phase",
         "G1 phase",
+        "G2 phase",
         "M phase"
       ],
       "correctAnswer": "G1 phase",
@@ -68,10 +68,10 @@
     {
       "question": "Which phase of interphase is also known as the first gap?",
       "options": [
-        "S phase",
         "G1 phase",
+        "M phase",
         "G2 phase",
-        "M phase"
+        "S phase"
       ],
       "correctAnswer": "G1 phase",
       "id": 6
@@ -79,10 +79,10 @@
     {
       "question": "During the G1 phase, what do cells accumulate as building blocks?",
       "options": [
-        "Ribosomal RNA and lipids",
+        "Carbohydrates and water",
         "Chromosomal DNA and associated proteins",
         "ATP and glucose only",
-        "Carbohydrates and water"
+        "Ribosomal RNA and lipids"
       ],
       "correctAnswer": "Chromosomal DNA and associated proteins",
       "id": 7
@@ -90,9 +90,9 @@
     {
       "question": "How would you describe the metabolic activity of cells during G1 phase?",
       "options": [
+        "Cells are only active in DNA replication",
         "Cells are completely inactive",
         "Cells are quite active metabolically",
-        "Cells are only active in DNA replication",
         "Cells are undergoing division"
       ],
       "correctAnswer": "Cells are quite active metabolically",
@@ -101,10 +101,10 @@
     {
       "question": "During G1 phase, cells store sufficient energy reserves to complete the task of what?",
       "options": [
-        "Cytoplasmic division",
-        "Replicating each chromosome in the nucleus",
         "Cell membrane formation",
-        "Protein degradation"
+        "Replicating each chromosome in the nucleus",
+        "Protein degradation",
+        "Cytoplasmic division"
       ],
       "correctAnswer": "Replicating each chromosome in the nucleus",
       "id": 9
@@ -112,10 +112,10 @@
     {
       "question": "What is the main event of the S phase?",
       "options": [
-        "Cell growth",
         "DNA replication",
-        "Organelle duplication",
-        "Protein synthesis"
+        "Cell growth",
+        "Protein synthesis",
+        "Organelle duplication"
       ],
       "correctAnswer": "DNA replication",
       "id": 10
@@ -124,8 +124,8 @@
       "question": "What does the S in S phase stand for?",
       "options": [
         "Separation",
-        "Synthesis",
         "Second",
+        "Synthesis",
         "Splitting"
       ],
       "correctAnswer": "Synthesis",
@@ -134,9 +134,9 @@
     {
       "question": "What is the stage of DNA replication called?",
       "options": [
-        "G1 phase",
         "S phase",
         "G2 phase",
+        "G1 phase",
         "M phase"
       ],
       "correctAnswer": "S phase",
@@ -146,9 +146,9 @@
       "question": "Which phase of interphase is also known as the second gap?",
       "options": [
         "G1 phase",
-        "S phase",
+        "M phase",
         "G2 phase",
-        "M phase"
+        "S phase"
       ],
       "correctAnswer": "G2 phase",
       "id": 13
@@ -156,9 +156,9 @@
     {
       "question": "During the G2 phase, the cell replenishes its energy stores and synthesizes proteins necessary for what?",
       "options": [
+        "Cell membrane repair",
         "DNA replication",
         "Chromosome manipulation and movement",
-        "Cell membrane repair",
         "Ribosome production"
       ],
       "correctAnswer": "Chromosome manipulation and movement",
@@ -178,9 +178,9 @@
     {
       "question": "During which phase does the cell make final preparations before entering the mitotic phase?",
       "options": [
+        "G2 phase",
         "G1 phase",
         "S phase",
-        "G2 phase",
         "Cytokinesis"
       ],
       "correctAnswer": "G2 phase",
@@ -202,8 +202,8 @@
       "options": [
         "Cytokinesis",
         "Karyokinesis",
-        "Synthesis",
-        "Gametogenesis"
+        "Gametogenesis",
+        "Synthesis"
       ],
       "correctAnswer": "Karyokinesis",
       "id": 18
@@ -213,8 +213,8 @@
       "options": [
         "Meiosis",
         "Mitosis",
-        "Cytokinesis",
-        "Interphase"
+        "Interphase",
+        "Cytokinesis"
       ],
       "correctAnswer": "Mitosis",
       "id": 19
@@ -222,10 +222,10 @@
     {
       "question": "What is the term for cytoplasmic division?",
       "options": [
-        "Karyokinesis",
-        "Cytokinesis",
+        "Meiosis",
         "Mitosis",
-        "Meiosis"
+        "Cytokinesis",
+        "Karyokinesis"
       ],
       "correctAnswer": "Cytokinesis",
       "id": 20
@@ -233,10 +233,10 @@
     {
       "question": "Cell division ultimately results in how many daughter cells?",
       "options": [
-        "Four identical daughter cells",
-        "Two genetically different daughter cells",
         "Two identical daughter cells",
-        "One daughter cell and one parent cell"
+        "Four identical daughter cells",
+        "One daughter cell and one parent cell",
+        "Two genetically different daughter cells"
       ],
       "correctAnswer": "Two identical daughter cells",
       "id": 21
@@ -244,10 +244,10 @@
     {
       "question": "What happens to each daughter cell after the cell cycle completes?",
       "options": [
-        "It immediately undergoes meiosis",
-        "It grows and starts the cycle the mother cell underwent",
         "It fuses with another daughter cell",
-        "It stops all metabolic activities"
+        "It stops all metabolic activities",
+        "It immediately undergoes meiosis",
+        "It grows and starts the cycle the mother cell underwent"
       ],
       "correctAnswer": "It grows and starts the cycle the mother cell underwent",
       "id": 22
@@ -255,10 +255,10 @@
     {
       "question": "What enables the cell cycle to follow a regular pattern?",
       "options": [
-        "External environmental signals",
-        "An internal controlling system",
         "Random molecular collisions",
-        "The nuclear membrane"
+        "The nuclear membrane",
+        "External environmental signals",
+        "An internal controlling system"
       ],
       "correctAnswer": "An internal controlling system",
       "id": 23
@@ -266,10 +266,10 @@
     {
       "question": "What is the term used when cells excessively divide due to failure of the regulatory system?",
       "options": [
-        "Cancer",
         "Cell madness",
+        "Cell senescence",
         "Apoptosis",
-        "Cell senescence"
+        "Cancer"
       ],
       "correctAnswer": "Cell madness",
       "id": 24
@@ -277,10 +277,10 @@
     {
       "question": "Cancer occurs as a result of failure in what process?",
       "options": [
-        "DNA replication",
         "Controlling cell division",
-        "Protein synthesis",
-        "Cytoplasmic division"
+        "Cytoplasmic division",
+        "DNA replication",
+        "Protein synthesis"
       ],
       "correctAnswer": "Controlling cell division",
       "id": 25
@@ -288,8 +288,8 @@
     {
       "question": "When can cancer start according to the textbook?",
       "options": [
-        "When the cell undergoes meiosis",
         "When the controlling factors over cell division and cell growth fail",
+        "When the cell undergoes meiosis",
         "When DNA replication occurs too slowly",
         "When the cell membrane breaks down"
       ],
@@ -299,10 +299,10 @@
     {
       "question": "Cancer occurs in the absence of what factors?",
       "options": [
-        "Growth factors",
         "Oxygen",
-        "Chromosomes",
-        "Cell membranes"
+        "Growth factors",
+        "Cell membranes",
+        "Chromosomes"
       ],
       "correctAnswer": "Growth factors",
       "id": 27
@@ -310,10 +310,10 @@
     {
       "question": "What allows a cancer cell to divide continuously at very high density?",
       "options": [
+        "The absence of chromosomes",
         "The presence of excess oxygen",
-        "The absence of growth factors",
         "The presence of healthy cells",
-        "The absence of chromosomes"
+        "The absence of growth factors"
       ],
       "correctAnswer": "The absence of growth factors",
       "id": 28
@@ -321,10 +321,10 @@
     {
       "question": "Cancer cells divide at high density at the expense of what?",
       "options": [
+        "The nucleolus",
         "Their own energy reserves",
         "Other normal cells",
-        "The cell membrane",
-        "The nucleolus"
+        "The cell membrane"
       ],
       "correctAnswer": "Other normal cells",
       "id": 29
@@ -333,9 +333,9 @@
       "question": "Which of the following is a characteristic problem of cancer cells?",
       "options": [
         "They communicate better with healthy cells",
-        "They might not be able to communicate with healthy cells",
         "They produce more energy than normal cells",
-        "They divide more slowly than normal cells"
+        "They divide more slowly than normal cells",
+        "They might not be able to communicate with healthy cells"
       ],
       "correctAnswer": "They might not be able to communicate with healthy cells",
       "id": 30
@@ -343,9 +343,9 @@
     {
       "question": "What is one problem cancer cells may have regarding normal cell functions?",
       "options": [
+        "They always carry out normal cell functions",
         "They may perform normal functions better than healthy cells",
         "They may not be able to carry out normal cell functions",
-        "They always carry out normal cell functions",
         "They only carry out reproductive functions"
       ],
       "correctAnswer": "They may not be able to carry out normal cell functions",
@@ -354,10 +354,10 @@
     {
       "question": "Why are cancer cells more likely to travel and spread to other parts of the body?",
       "options": [
-        "They have a stronger cell membrane",
-        "They may not securely anchor themselves like other cells",
+        "They reproduce by meiosis",
         "They are much smaller than normal cells",
-        "They reproduce by meiosis"
+        "They have a stronger cell membrane",
+        "They may not securely anchor themselves like other cells"
       ],
       "correctAnswer": "They may not securely anchor themselves like other cells",
       "id": 32
@@ -365,8 +365,8 @@
     {
       "question": "What makes cancer cells different from normal cells in terms of cell cycle control?",
       "options": [
-        "They respond normally to the cell cycle controlling system",
         "They do not respond normally to the cell cycle controlling system",
+        "They respond normally to the cell cycle controlling system",
         "They have no cell cycle at all",
         "They only respond to external signals"
       ],
@@ -376,10 +376,10 @@
     {
       "question": "Cancer cells divide in what manner?",
       "options": [
-        "A controlled and regulated manner",
-        "An unregulated manner",
         "A predictable and slow manner",
-        "An orderly fashion like normal cells"
+        "A controlled and regulated manner",
+        "An orderly fashion like normal cells",
+        "An unregulated manner"
       ],
       "correctAnswer": "An unregulated manner",
       "id": 34
@@ -387,10 +387,10 @@
     {
       "question": "What may cancer cells do to other tissues of the body?",
       "options": [
-        "Repair them",
         "Invade them",
-        "Strengthen them",
-        "Ignore them"
+        "Ignore them",
+        "Repair them",
+        "Strengthen them"
       ],
       "correctAnswer": "Invade them",
       "id": 35

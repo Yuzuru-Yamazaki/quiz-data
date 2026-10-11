@@ -4,7 +4,11 @@
   "folder": "School/Grade 11/Biology/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade11", "unit1"],
+  "tags": [
+    "biology",
+    "grade11",
+    "unit1"
+  ],
   "questions": [
     {
       "id": 1,
@@ -12,9 +16,9 @@
       "question": "The fastening technology of Velcro was inspired by ____.",
       "options": [
         "the tiny hooks of burdock burrs that clung to a dog's fur",
+        "the wax coating of a lotus leaf",
         "the smooth scales of a fish",
-        "the sticky web of a spider",
-        "the wax coating of a lotus leaf"
+        "the sticky web of a spider"
       ],
       "correctAnswer": "the tiny hooks of burdock burrs that clung to a dog's fur"
     },
@@ -23,8 +27,8 @@
       "anki": true,
       "question": "Who invented Velcro by imitating nature?",
       "options": [
-        "George de Mestral",
         "Alexander Graham Bell",
+        "George de Mestral",
         "Thomas Edison",
         "Louis Pasteur"
       ],
@@ -35,10 +39,10 @@
       "anki": true,
       "question": "The name Velcro is formed from the words ____.",
       "options": [
-        "velvet and crochet",
-        "velocity and crown",
         "vector and color",
-        "vertical and chord"
+        "vertical and chord",
+        "velvet and crochet",
+        "velocity and crown"
       ],
       "correctAnswer": "velvet and crochet"
     },
@@ -47,10 +51,10 @@
       "anki": true,
       "question": "The buoyancy control of submarines is inspired by ____.",
       "options": [
-        "the air bladder (swim bladder) of fish",
         "the hollow bones of birds",
         "the air sacs of insects",
-        "the gills of sharks"
+        "the gills of sharks",
+        "the air bladder (swim bladder) of fish"
       ],
       "correctAnswer": "the air bladder (swim bladder) of fish"
     },
@@ -59,10 +63,10 @@
       "anki": true,
       "question": "Sonar technology was developed by imitating the ____.",
       "options": [
-        "echolocation of bats and dolphins",
+        "smell of sharks",
         "vision of hawks",
-        "hearing of dogs",
-        "smell of sharks"
+        "echolocation of bats and dolphins",
+        "hearing of dogs"
       ],
       "correctAnswer": "echolocation of bats and dolphins"
     },
@@ -71,10 +75,10 @@
       "anki": true,
       "question": "Dry adhesive tapes and climbing robots were inspired by the ability of geckos to ____.",
       "options": [
-        "climb smooth walls using microscopic bristles on their toes",
         "change color to match their surroundings",
         "release their tails to escape predators",
-        "regrow lost limbs"
+        "regrow lost limbs",
+        "climb smooth walls using microscopic bristles on their toes"
       ],
       "correctAnswer": "climb smooth walls using microscopic bristles on their toes"
     },
@@ -83,9 +87,9 @@
       "anki": true,
       "question": "Gecko toe adhesion is explained by a force produced when the microscopic setae contact a surface, known as ____.",
       "options": [
+        "static electricity",
         "van der Waals forces",
         "magnetic attraction",
-        "static electricity",
         "surface tension of water"
       ],
       "correctAnswer": "van der Waals forces"
@@ -95,9 +99,9 @@
       "anki": true,
       "question": "The self-cleaning property of the lotus leaf inspired ____.",
       "options": [
-        "self-cleaning paints, glass and textiles",
         "stronger building beams",
         "faster swimsuit fabrics",
+        "self-cleaning paints, glass and textiles",
         "quieter engine parts"
       ],
       "correctAnswer": "self-cleaning paints, glass and textiles"
@@ -107,10 +111,10 @@
       "anki": true,
       "question": "The self-cleaning behaviour in which water drops roll off a surface and carry away dirt is called the ____.",
       "options": [
+        "capillary effect",
         "lotus effect",
         "butterfly effect",
-        "greenhouse effect",
-        "capillary effect"
+        "greenhouse effect"
       ],
       "correctAnswer": "lotus effect"
     },
@@ -119,10 +123,10 @@
       "anki": true,
       "question": "More efficient wind turbine blades have been designed by imitating ____.",
       "options": [
-        "the tubercles (bumps) on humpback whale flippers",
+        "the tail of a peacock",
         "the smooth dorsal fin of a shark",
-        "the wing of a seagull",
-        "the tail of a peacock"
+        "the tubercles (bumps) on humpback whale flippers",
+        "the wing of a seagull"
       ],
       "correctAnswer": "the tubercles (bumps) on humpback whale flippers"
     },
@@ -132,9 +136,9 @@
       "question": "The hexagonal cells of beehives inspired ____.",
       "options": [
         "lightweight, strong hexagonal structural panels",
+        "cylindrical water pipes",
         "glued wooden floorboards",
-        "woven cotton cloth",
-        "cylindrical water pipes"
+        "woven cotton cloth"
       ],
       "correctAnswer": "lightweight, strong hexagonal structural panels"
     },
@@ -143,10 +147,10 @@
       "anki": true,
       "question": "The shape of beehive cells that saves material while giving strength is the ____.",
       "options": [
-        "hexagon",
         "triangle only",
-        "sphere",
-        "pentagon"
+        "hexagon",
+        "pentagon",
+        "sphere"
       ],
       "correctAnswer": "hexagon"
     },
@@ -155,10 +159,10 @@
       "anki": true,
       "question": "More efficient LED lighting designs have been inspired by the ____.",
       "options": [
-        "bioluminescence of fireflies",
-        "phosphorescence of the moon",
+        "glow of heated metal",
         "reflection of a mirror",
-        "glow of heated metal"
+        "bioluminescence of fireflies",
+        "phosphorescence of the moon"
       ],
       "correctAnswer": "bioluminescence of fireflies"
     },
@@ -167,10 +171,10 @@
       "anki": true,
       "question": "The production of light by living organisms such as fireflies is called ____.",
       "options": [
-        "bioluminescence",
-        "photosynthesis",
+        "fluorescence",
         "chemosynthesis",
-        "fluorescence"
+        "bioluminescence",
+        "photosynthesis"
       ],
       "correctAnswer": "bioluminescence"
     },
@@ -179,10 +183,10 @@
       "anki": true,
       "question": "Drag-reducing swimsuit fabrics were inspired by the ____.",
       "options": [
-        "microscopic riblet structure of shark skin",
+        "scales of crocodiles",
         "slimy coating of eels",
-        "webbed feet of ducks",
-        "scales of crocodiles"
+        "microscopic riblet structure of shark skin",
+        "webbed feet of ducks"
       ],
       "correctAnswer": "microscopic riblet structure of shark skin"
     },
@@ -191,10 +195,10 @@
       "anki": true,
       "question": "Shark skin is covered with tiny tooth-like structures called ____.",
       "options": [
-        "dermal denticles",
-        "setae",
+        "vibrissae",
         "tubercles",
-        "vibrissae"
+        "setae",
+        "dermal denticles"
       ],
       "correctAnswer": "dermal denticles"
     },
@@ -203,10 +207,10 @@
       "anki": true,
       "question": "Fog-harvesting nets and materials that collect water from air moisture were inspired by ____.",
       "options": [
-        "the Namib Desert beetle that collects water from fog on its back",
+        "the trunk of an elephant",
         "the hump of a camel",
-        "the spines of a cactus only",
-        "the trunk of an elephant"
+        "the Namib Desert beetle that collects water from fog on its back",
+        "the spines of a cactus only"
       ],
       "correctAnswer": "the Namib Desert beetle that collects water from fog on its back"
     },
@@ -215,10 +219,10 @@
       "anki": true,
       "question": "Quieter aircraft and wind turbine blade designs were inspired by ____.",
       "options": [
-        "the fringed wing feathers of owls",
-        "the chirping of crickets",
         "the buzzing of bees",
-        "the drumming of woodpeckers"
+        "the drumming of woodpeckers",
+        "the chirping of crickets",
+        "the fringed wing feathers of owls"
       ],
       "correctAnswer": "the fringed wing feathers of owls"
     },
@@ -227,10 +231,10 @@
       "anki": true,
       "question": "The ability of owls to fly almost silently comes from ____.",
       "options": [
-        "special fringes on their wing feathers",
-        "very large wings",
         "downy body feathers that warm them",
-        "a dense layer of body fat"
+        "special fringes on their wing feathers",
+        "a dense layer of body fat",
+        "very large wings"
       ],
       "correctAnswer": "special fringes on their wing feathers"
     },
@@ -239,10 +243,10 @@
       "anki": true,
       "question": "Military camouflage patterns were inspired by ____.",
       "options": [
-        "the colour-changing and camouflage abilities of animals",
         "the stripes of a zebra only",
+        "the fur of a polar bear only",
         "the spots of a leopard only",
-        "the fur of a polar bear only"
+        "the colour-changing and camouflage abilities of animals"
       ],
       "correctAnswer": "the colour-changing and camouflage abilities of animals"
     },
@@ -251,9 +255,9 @@
       "anki": true,
       "question": "Agile drones and flapping-wing aircraft have been inspired by the flight of the ____.",
       "options": [
-        "dragonfly",
         "penguin",
         "ostrich",
+        "dragonfly",
         "albatross only"
       ],
       "correctAnswer": "dragonfly"
@@ -263,9 +267,9 @@
       "anki": true,
       "question": "The bright colours of butterfly wings are produced by ____.",
       "options": [
-        "nanostructures that create structural colour rather than pigments",
         "coloured plant pigments they feed on",
         "weathering of the wing surface",
+        "nanostructures that create structural colour rather than pigments",
         "light absorbed from the sun only"
       ],
       "correctAnswer": "nanostructures that create structural colour rather than pigments"
@@ -275,10 +279,10 @@
       "anki": true,
       "question": "Structural colour produced by butterfly wing nanostructures has inspired ____.",
       "options": [
-        "colour-changing and anti-counterfeit materials",
-        "stronger concrete blocks",
         "heat-resistant engine metals",
-        "shock-absorbing helmets"
+        "shock-absorbing helmets",
+        "colour-changing and anti-counterfeit materials",
+        "stronger concrete blocks"
       ],
       "correctAnswer": "colour-changing and anti-counterfeit materials"
     },
@@ -288,8 +292,8 @@
       "question": "Improved techniques for preserving live vaccines without constant refrigeration are inspired by ____.",
       "options": [
         "freeze-tolerant organisms such as tardigrades",
-        "the humps of camels",
         "the burrowing of worms",
+        "the humps of camels",
         "the migration of birds"
       ],
       "correctAnswer": "freeze-tolerant organisms such as tardigrades"
@@ -299,10 +303,10 @@
       "anki": true,
       "question": "Swarm robotics and optimization algorithms are inspired by ____.",
       "options": [
-        "the swarm behaviour of ant colonies",
-        "the solitary hunting of tigers",
         "the herding of sheep only",
-        "the ebbing of tides"
+        "the swarm behaviour of ant colonies",
+        "the ebbing of tides",
+        "the solitary hunting of tigers"
       ],
       "correctAnswer": "the swarm behaviour of ant colonies"
     },
@@ -312,9 +316,9 @@
       "question": "Impact-resistant helmets and shock-absorbing devices have been inspired by ____.",
       "options": [
         "the ability of woodpeckers to absorb repeated impact without brain damage",
+        "the strong beak of a parrot",
         "the thick horn of a rhinoceros",
-        "the hard shell of a tortoise",
-        "the strong beak of a parrot"
+        "the hard shell of a tortoise"
       ],
       "correctAnswer": "the ability of woodpeckers to absorb repeated impact without brain damage"
     },
@@ -323,10 +327,10 @@
       "anki": true,
       "question": "Solar thermal collectors that trap heat were inspired by ____.",
       "options": [
-        "the hollow translucent hairs of the polar bear that transmit heat to its black skin",
-        "the dark feathers of a raven",
+        "the cooling system of elephants",
         "the heat-loving bacteria of hot springs",
-        "the cooling system of elephants"
+        "the hollow translucent hairs of the polar bear that transmit heat to its black skin",
+        "the dark feathers of a raven"
       ],
       "correctAnswer": "the hollow translucent hairs of the polar bear that transmit heat to its black skin"
     },
@@ -335,10 +339,10 @@
       "anki": true,
       "question": "Water-collection designs that pull moisture from the air were inspired by ____.",
       "options": [
-        "desert plants such as cacti",
+        "mangrove roots",
         "tropical orchid flowers",
         "aquatic water lilies",
-        "mangrove roots"
+        "desert plants such as cacti"
       ],
       "correctAnswer": "desert plants such as cacti"
     },
@@ -347,8 +351,8 @@
       "anki": true,
       "question": "Research into ultra-light, strong synthetic materials has been guided by studying ____.",
       "options": [
-        "the structure of spider webs",
         "the shell of snails",
+        "the structure of spider webs",
         "the fur of rabbits",
         "the teeth of beavers"
       ],
@@ -359,10 +363,10 @@
       "anki": true,
       "question": "Velcro and drone swarms both demonstrate the principle that ____.",
       "options": [
-        "engineers solve problems by imitating nature's structures and behaviours",
-        "technology can only imitate large machines",
         "nature copies human inventions",
-        "animals learn new tools from scientists"
+        "animals learn new tools from scientists",
+        "technology can only imitate large machines",
+        "engineers solve problems by imitating nature's structures and behaviours"
       ],
       "correctAnswer": "engineers solve problems by imitating nature's structures and behaviours"
     }

@@ -1,0 +1,154 @@
+{
+  "title": "2.9 Environment Protection",
+  "description": "Proper disposal procedures for computer equipment and e-waste",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What are proper disposal procedures in a computer perspective?",
+      "options": [
+        "Procedures for installing new software on old computers",
+        "Appropriate and environmentally responsible methods of getting rid of computer equipment and electronic waste",
+        "Methods for increasing the speed of a computer before selling it",
+        "Techniques for repairing damaged circuit boards at home"
+      ],
+      "correctAnswer": "Appropriate and environmentally responsible methods of getting rid of computer equipment and electronic waste"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Why is proper disposal of computer equipment important?",
+      "options": [
+        "To speed up the internet connection of new devices",
+        "To increase the resale price of every old device",
+        "To reduce the number of computer ports available",
+        "To minimize environmental impact, prevent pollution and promote sustainable practices"
+      ],
+      "correctAnswer": "To minimize environmental impact, prevent pollution and promote sustainable practices"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Why should you engage with authorized e-waste recyclers?",
+      "options": [
+        "They are equipped to handle and process electronic waste in an environmentally friendly manner",
+        "They remove all ports and cables from the device",
+        "They buy old equipment at the highest prices",
+        "They install new operating systems for free"
+      ],
+      "correctAnswer": "They are equipped to handle and process electronic waste in an environmentally friendly manner"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What should be done with data before disposing of any computer equipment?",
+      "options": [
+        "Rename all files with a single character",
+        "Copy the data to a visible folder on the desktop",
+        "Leave the data intact so it can be recovered by the next user",
+        "Securely erase all data using data wiping tools or software that comply with industry standards for data sanitization"
+      ],
+      "correctAnswer": "Securely erase all data using data wiping tools or software that comply with industry standards for data sanitization"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What is a recommended option for computer equipment that is still functional and in good condition?",
+      "options": [
+        "Donating or reselling it to extend its lifespan and reduce waste",
+        "Burying it in a landfill",
+        "Throwing it in the regular trash bin",
+        "Storing it outdoors behind the building"
+      ],
+      "correctAnswer": "Donating or reselling it to extend its lifespan and reduce waste"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What are manufacturer take-back programs?",
+      "options": [
+        "Programs that upgrade computers to a newer model for free",
+        "Programs through which manufacturers responsibly collect and recycle their products",
+        "Programs that share customer data with advertisers",
+        "Programs that sell computers back to the buyer at full price"
+      ],
+      "correctAnswer": "Programs through which manufacturers responsibly collect and recycle their products"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What is the benefit of disassembling computer equipment and separating components for recycling?",
+      "options": [
+        "It increases the total weight of the electronic waste",
+        "It allows for the proper recycling of individual components and materials like metals, plastics and circuit boards",
+        "It prevents any component from being reused",
+        "It removes the need to erase sensitive data"
+      ],
+      "correctAnswer": "It allows for the proper recycling of individual components and materials like metals, plastics and circuit boards"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which hazardous materials may be found in computers and other electronic devices?",
+      "options": [
+        "Lead, mercury and flame-retardant chemicals",
+        "Oxygen, nitrogen and hydrogen",
+        "Sand, clay and gravel",
+        "Table salt, sugar and baking soda"
+      ],
+      "correctAnswer": "Lead, mercury and flame-retardant chemicals"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "How should hazardous materials from computer equipment be handled?",
+      "options": [
+        "By burning them in an open area",
+        "According to local regulations to prevent environmental contamination",
+        "By mixing them with ordinary household garbage",
+        "By pouring them into rivers and streams"
+      ],
+      "correctAnswer": "According to local regulations to prevent environmental contamination"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Why should you familiarize yourself with local, regional and national regulations on electronic waste disposal?",
+      "options": [
+        "To speed up the recycling process automatically",
+        "To follow the guidelines and ensure compliance with environmental laws",
+        "To obtain a discount on new computer purchases",
+        "To increase the voltage supplied to your computer"
+      ],
+      "correctAnswer": "To follow the guidelines and ensure compliance with environmental laws"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "True or False: Improper disposal of computer equipment can have detrimental effects on the environment and human health.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "True or False: Recycling programs specifically designed for electronic waste (e-waste) exist in many countries and organizations.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "True"
+    }
+  ]
+}

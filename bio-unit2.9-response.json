@@ -14,10 +14,10 @@
       "id": 1,
       "question": "What is one of the important characteristics of plants mentioned in the response section?",
       "options": [
-        "Ability to fly",
-        "Ability to respond to stimuli (changes in the environment)",
+        "Ability to change colour at will",
         "Ability to produce sound",
-        "Ability to change colour at will"
+        "Ability to fly",
+        "Ability to respond to stimuli (changes in the environment)"
       ],
       "correctAnswer": "Ability to respond to stimuli (changes in the environment)"
     },
@@ -25,9 +25,9 @@
       "id": 2,
       "question": "What is tropism?",
       "options": [
-        "A type of seed",
-        "Bending towards or opposite to the direction of a stimulus",
         "A type of flower",
+        "Bending towards or opposite to the direction of a stimulus",
+        "A type of seed",
         "A growth hormone"
       ],
       "correctAnswer": "Bending towards or opposite to the direction of a stimulus"
@@ -37,9 +37,9 @@
       "question": "What is positive tropism?",
       "options": [
         "Bending opposite to the stimulus",
+        "Random growth",
         "Bending towards the stimulus",
-        "No response to stimulus",
-        "Random growth"
+        "No response to stimulus"
       ],
       "correctAnswer": "Bending towards the stimulus"
     },
@@ -47,9 +47,9 @@
       "id": 4,
       "question": "What is negative tropism?",
       "options": [
+        "Growing straight",
         "Bending towards the stimulus",
         "Bending opposite to the stimulus",
-        "Growing straight",
         "Growing in circles"
       ],
       "correctAnswer": "Bending opposite to the stimulus"
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "What causes tropism?",
       "options": [
-        "Equal distribution of water",
-        "Unilateral stimulus causing unequal production or distribution of growth hormone resulting in unequal growth",
+        "Light alone",
         "Gravity alone",
-        "Light alone"
+        "Unilateral stimulus causing unequal production or distribution of growth hormone resulting in unequal growth",
+        "Equal distribution of water"
       ],
       "correctAnswer": "Unilateral stimulus causing unequal production or distribution of growth hormone resulting in unequal growth"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "Which parts of a plant exhibit tropism?",
       "options": [
-        "Only the shoot",
-        "Only the root",
         "The shoot and root",
-        "Only the leaves"
+        "Only the shoot",
+        "Only the leaves",
+        "Only the root"
       ],
       "correctAnswer": "The shoot and root"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "What is the growth hormone commonly involved in tropism?",
       "options": [
-        "Gibberellin",
+        "Ethylene",
         "Cytokinin",
-        "Auxin",
-        "Ethylene"
+        "Gibberellin",
+        "Auxin"
       ],
       "correctAnswer": "Auxin"
     },
@@ -91,9 +91,9 @@
       "id": 8,
       "question": "What is the specific name of the auxin involved in plant growth?",
       "options": [
-        "Gibberellic acid",
         "Indole Acetic Acid (IAA)",
         "Abscisic acid",
+        "Gibberellic acid",
         "Zeatin"
       ],
       "correctAnswer": "Indole Acetic Acid (IAA)"
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "Where is auxin produced?",
       "options": [
-        "At the tips of shoot and root",
+        "In the stem only",
         "In the leaves only",
-        "In the flowers only",
-        "In the stem only"
+        "At the tips of shoot and root",
+        "In the flowers only"
       ],
       "correctAnswer": "At the tips of shoot and root"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "What does auxin affect?",
       "options": [
-        "Photosynthesis",
-        "Cell elongation",
         "Water absorption",
-        "Seed dispersal"
+        "Cell elongation",
+        "Seed dispersal",
+        "Photosynthesis"
       ],
       "correctAnswer": "Cell elongation"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What auxin concentration promotes shoot growth?",
       "options": [
-        "$10^{-4}$ ppm",
         "$10^{-8}$ to $10^{-1}$ ppm",
         "10 ppm",
-        "100 ppm"
+        "100 ppm",
+        "$10^{-4}$ ppm"
       ],
       "correctAnswer": "$10^{-8}$ to $10^{-1}$ ppm"
     },
@@ -135,9 +135,9 @@
       "id": 12,
       "question": "What effect does auxin concentration that promotes shoot growth have on roots?",
       "options": [
+        "No effect on roots",
         "Promotes root growth",
         "Inhibits root growth",
-        "No effect on roots",
         "Kills roots"
       ],
       "correctAnswer": "Inhibits root growth"
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "What auxin concentration is required for root growth?",
       "options": [
-        "About $10^{-8}$ ppm",
-        "About $10^{-4}$ ppm",
+        "About 1 ppm",
         "About 10 ppm",
-        "About 1 ppm"
+        "About $10^{-8}$ ppm",
+        "About $10^{-4}$ ppm"
       ],
       "correctAnswer": "About $10^{-4}$ ppm"
     },
@@ -158,8 +158,8 @@
       "question": "What effect does the auxin concentration required for root growth have on shoot growth?",
       "options": [
         "Promotes shoot growth",
-        "Inhibits shoot growth",
         "Has no effect on shoot growth",
+        "Inhibits shoot growth",
         "Kills the shoot"
       ],
       "correctAnswer": "Has no effect on shoot growth"
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "In response to unilateral light, where does auxin move in the shoot and root?",
       "options": [
+        "It moves downward only",
         "From shaded side to illuminated side",
         "From illuminated side to shaded side",
-        "It stays evenly distributed",
-        "It moves downward only"
+        "It stays evenly distributed"
       ],
       "correctAnswer": "From illuminated side to shaded side"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "Why does the shoot bend towards light in response to unilateral light?",
       "options": [
-        "Higher auxin on illuminated side inhibits growth",
-        "Higher auxin on the shaded side causes more growth by cell elongation than the illuminated side",
         "Auxin destroys cells on the illuminated side",
-        "Light pulls the shoot"
+        "Higher auxin on the shaded side causes more growth by cell elongation than the illuminated side",
+        "Light pulls the shoot",
+        "Higher auxin on illuminated side inhibits growth"
       ],
       "correctAnswer": "Higher auxin on the shaded side causes more growth by cell elongation than the illuminated side"
     },
@@ -190,10 +190,10 @@
       "id": 17,
       "question": "Why does the root bend away from light?",
       "options": [
-        "More auxin on the shaded part of the root inhibits cell elongation compared to the illuminated side",
         "The root is not affected by auxin",
-        "Light repels roots",
-        "The root grows towards gravity"
+        "The root grows towards gravity",
+        "More auxin on the shaded part of the root inhibits cell elongation compared to the illuminated side",
+        "Light repels roots"
       ],
       "correctAnswer": "More auxin on the shaded part of the root inhibits cell elongation compared to the illuminated side"
     },
@@ -201,10 +201,10 @@
       "id": 18,
       "question": "What is phototropism?",
       "options": [
-        "Plant response to gravity",
         "Plant response to water",
-        "Plant response to light, mainly exhibited by the shoot",
-        "Plant response to touch"
+        "Plant response to gravity",
+        "Plant response to touch",
+        "Plant response to light, mainly exhibited by the shoot"
       ],
       "correctAnswer": "Plant response to light, mainly exhibited by the shoot"
     },
@@ -212,10 +212,10 @@
       "id": 19,
       "question": "How does the shoot respond to light?",
       "options": [
-        "Negatively phototropic (bends away)",
-        "Positively phototropic (bends towards light)",
+        "Grows randomly",
         "No response to light",
-        "Grows randomly"
+        "Positively phototropic (bends towards light)",
+        "Negatively phototropic (bends away)"
       ],
       "correctAnswer": "Positively phototropic (bends towards light)"
     },
@@ -223,10 +223,10 @@
       "id": 20,
       "question": "Who conducted the earliest experiment on phototropism?",
       "options": [
-        "Gregor Mendel",
-        "Charles Darwin",
+        "Robert Hooke",
         "Louis Pasteur",
-        "Robert Hooke"
+        "Charles Darwin",
+        "Gregor Mendel"
       ],
       "correctAnswer": "Charles Darwin"
     },
@@ -234,10 +234,10 @@
       "id": 21,
       "question": "What is a coleoptile?",
       "options": [
-        "A type of root",
-        "The shoot tip of a young seedling",
+        "A flower bud",
         "A type of leaf",
-        "A flower bud"
+        "The shoot tip of a young seedling",
+        "A type of root"
       ],
       "correctAnswer": "The shoot tip of a young seedling"
     },
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "What did Darwin observe about the bending in response to light?",
       "options": [
-        "The bending occurred in the tip itself",
         "The bending did not occur in the tip but in the elongating part just below",
         "The tip did not respond to light",
-        "The entire shoot bent uniformly"
+        "The entire shoot bent uniformly",
+        "The bending occurred in the tip itself"
       ],
       "correctAnswer": "The bending did not occur in the tip but in the elongating part just below"
     },
@@ -256,10 +256,10 @@
       "id": 23,
       "question": "What happened when the shoot tip was removed or covered with opaque foil in Darwin's experiment?",
       "options": [
-        "The shoot bent more towards light",
         "The shoot could no longer bend toward the light",
-        "The shoot bent away from light",
-        "The shoot grew straight"
+        "The shoot bent more towards light",
+        "The shoot grew straight",
+        "The shoot bent away from light"
       ],
       "correctAnswer": "The shoot could no longer bend toward the light"
     },
@@ -268,8 +268,8 @@
       "question": "What did Darwin conclude from his phototropism experiment?",
       "options": [
         "Light causes the tip to grow faster",
-        "Some influence is transmitted from the tip to more basal regions, regulating growth and inducing curvature",
         "The tip directly bends toward light",
+        "Some influence is transmitted from the tip to more basal regions, regulating growth and inducing curvature",
         "Auxin is not involved"
       ],
       "correctAnswer": "Some influence is transmitted from the tip to more basal regions, regulating growth and inducing curvature"
@@ -278,9 +278,9 @@
       "id": 25,
       "question": "What is hydrotropism?",
       "options": [
-        "Response to light",
         "Response to gravity",
         "Response to water, exhibited by roots",
+        "Response to light",
         "Response to touch"
       ],
       "correctAnswer": "Response to water, exhibited by roots"
@@ -289,10 +289,10 @@
       "id": 26,
       "question": "Why do roots grow toward water?",
       "options": [
-        "To anchor the plant",
-        "Because water is needed for photosynthesis and to support cell structure",
+        "To attract pollinators",
         "To prevent soil erosion",
-        "To attract pollinators"
+        "Because water is needed for photosynthesis and to support cell structure",
+        "To anchor the plant"
       ],
       "correctAnswer": "Because water is needed for photosynthesis and to support cell structure"
     },
@@ -300,10 +300,10 @@
       "id": 27,
       "question": "What keeps cells turgid and strong?",
       "options": [
+        "Oxygen",
         "Sunlight",
-        "Water",
         "Carbon dioxide",
-        "Oxygen"
+        "Water"
       ],
       "correctAnswer": "Water"
     },
@@ -311,10 +311,10 @@
       "id": 28,
       "question": "What is geotropism?",
       "options": [
-        "Response to light",
-        "Response to water",
+        "Response to chemicals",
         "Response to gravity",
-        "Response to chemicals"
+        "Response to light",
+        "Response to water"
       ],
       "correctAnswer": "Response to gravity"
     },
@@ -322,10 +322,10 @@
       "id": 29,
       "question": "How does the root respond to gravity?",
       "options": [
-        "Negatively geotropic (grows upward)",
+        "Grows horizontally",
         "Positively geotropic (grows downward towards gravity)",
         "No response to gravity",
-        "Grows horizontally"
+        "Negatively geotropic (grows upward)"
       ],
       "correctAnswer": "Positively geotropic (grows downward towards gravity)"
     },
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "How does the shoot respond to gravity?",
       "options": [
-        "Positively geotropic (grows downward)",
         "Negatively geotropic (grows upward against gravity)",
-        "No response to gravity",
-        "Grows sideways"
+        "Positively geotropic (grows downward)",
+        "Grows sideways",
+        "No response to gravity"
       ],
       "correctAnswer": "Negatively geotropic (grows upward against gravity)"
     },
@@ -344,10 +344,10 @@
       "id": 31,
       "question": "What happens to a seedling placed horizontally?",
       "options": [
-        "It stays horizontal",
-        "The root bends downward while the shoot bends upward until the plant is upright",
+        "Both root and shoot grow downward",
         "Both root and shoot grow upward",
-        "Both root and shoot grow downward"
+        "The root bends downward while the shoot bends upward until the plant is upright",
+        "It stays horizontal"
       ],
       "correctAnswer": "The root bends downward while the shoot bends upward until the plant is upright"
     },
@@ -355,9 +355,9 @@
       "id": 32,
       "question": "What instrument can overcome the effect of gravity on a horizontally placed seedling?",
       "options": [
-        "Microscope",
         "Clinostat",
         "Thermometer",
+        "Microscope",
         "Barometer"
       ],
       "correctAnswer": "Clinostat"
@@ -366,10 +366,10 @@
       "id": 33,
       "question": "What is a clinostat?",
       "options": [
-        "A stationary platform",
-        "A rotating instrument that overcomes the effect of gravity",
+        "A tool for measuring water content",
         "A device for measuring light",
-        "A tool for measuring water content"
+        "A stationary platform",
+        "A rotating instrument that overcomes the effect of gravity"
       ],
       "correctAnswer": "A rotating instrument that overcomes the effect of gravity"
     },
@@ -377,10 +377,10 @@
       "id": 34,
       "question": "What happens to a seedling fixed horizontally in a rotating clinostat?",
       "options": [
+        "It stops growing",
         "It bends downward",
         "It grows straight because rotation overcomes gravity",
-        "It bends upward",
-        "It stops growing"
+        "It bends upward"
       ],
       "correctAnswer": "It grows straight because rotation overcomes gravity"
     }

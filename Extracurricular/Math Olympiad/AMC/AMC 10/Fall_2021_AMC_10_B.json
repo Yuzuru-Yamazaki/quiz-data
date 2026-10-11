@@ -14,10 +14,10 @@
       "question": "What is the value of $1234 + 2341 + 3412 + 4123$?",
       "options": [
         "10,000",
-        "10,010",
-        "10,110",
         "11,000",
-        "11,110"
+        "11,110",
+        "10,010",
+        "10,110"
       ],
       "correctAnswer": "11,110",
       "explanation": "",
@@ -29,8 +29,8 @@
     {
       "question": "Forty slips of paper numbered $1$ to $40$ are placed in a hat. Alice and Bob each draw one number from the hat without replacement, keeping their numbers hidden from each other. Alice says, “I can’t tell who has the larger number.” Then Bob says, “I know who has the larger number.” Alice says, “You do? Is your number prime?” Bob replies, “Yes.” Alice says, “In that case, if I multiply your number by $100$ and add my number, the result is a perfect square.” What is the sum of the two numbers drawn from the hat?",
       "options": [
-        "$27$",
         "$37$",
+        "$27$",
         "$47$",
         "$57$",
         "$67$"
@@ -47,11 +47,11 @@
     {
       "question": "A regular hexagon of side length $1$ is inscribed in a circle. Each minor arc of the circle determined by a side of the hexagon is reflected over that side. What is the area of the region bounded by these $6$ reflected arcs?",
       "options": [
+        "$\\pi - \\frac{\\sqrt{3}}{2}$",
         "$\\frac{5\\sqrt{3}}{2} - \\pi$",
         "$3\\sqrt{3} - \\pi$",
-        "$4\\sqrt{3} - \\frac{3\\pi}{2}$",
-        "$\\pi - \\frac{\\sqrt{3}}{2}$",
-        "$\\frac{\\pi + \\sqrt{3}}{2}$"
+        "$\\frac{\\pi + \\sqrt{3}}{2}$",
+        "$4\\sqrt{3} - \\frac{3\\pi}{2}$"
       ],
       "correctAnswer": "$3\\sqrt{3} - \\pi$",
       "explanation": "",
@@ -67,9 +67,9 @@
       "options": [
         "$x > y$ and $y = z$",
         "$x = y - 1$ and $y = z - 1$",
+        "$x + y + z = 1$",
         "$x = z + 1$ and $y = x + 1$",
-        "$x = z$ and $y - 1 = x$",
-        "$x + y + z = 1$"
+        "$x = z$ and $y - 1 = x$"
       ],
       "correctAnswer": "$x = z$ and $y - 1 = x$",
       "explanation": "",
@@ -82,8 +82,8 @@
     {
       "question": "A square with side length $3$ is inscribed in an isosceles triangle with one side of the square along the base of the triangle. A square with side length $2$ has two vertices on the other square and the other two on sides of the triangle, as shown. What is the area of the triangle?\n![](attached_image_1.png)",
       "options": [
-        "$19\\frac{1}{4}$",
         "$20\\frac{1}{4}$",
+        "$19\\frac{1}{4}$",
         "$21\\frac{3}{4}$",
         "$22\\frac{1}{2}$",
         "$23\\frac{3}{4}$"
@@ -99,11 +99,11 @@
     {
       "question": "In square $ABCD$, points $P$ and $Q$ lie on $\\overline{AD}$ and $\\overline{AB}$, respectively. Segments $\\overline{BP}$ and $\\overline{CQ}$ intersect at right angles at $R$, with $BR = 6$ and $PR = 7$. What is the area of the square?\n\n![](attached_image_1.png)",
       "options": [
-        "85",
-        "93",
-        "100",
         "117",
-        "125"
+        "125",
+        "85",
+        "100",
+        "93"
       ],
       "correctAnswer": "117",
       "explanation": "",
@@ -117,11 +117,11 @@
     {
       "question": "Distinct lines $\\ell$ and $m$ lie in the $xy$-plane. They intersect at the origin. Point $P(-1, 4)$ is reflected about line $\\ell$ to point $P'$, and then $P'$ is reflected about line $m$ to point $P''$. The equation of line $\\ell$ is $5x - y = 0$, and the coordinates of $P''$ are (4, 1). What is the equation of line $m$?",
       "options": [
-        "$5x + 2y = 0$",
-        "$3x + 2y = 0$",
-        "$x - 3y = 0$",
         "$2x - 3y = 0$",
-        "$5x - 3y = 0$"
+        "$x - 3y = 0$",
+        "$5x + 2y = 0$",
+        "$5x - 3y = 0$",
+        "$3x + 2y = 0$"
       ],
       "correctAnswer": "$2x - 3y = 0$",
       "explanation": "",
@@ -151,11 +151,11 @@
     {
       "question": "In a particular game, each of 4 players rolls a standard 6-sided die. The winner is the player who rolls the highest number. If there is a tie for the highest roll, those involved in the tie will roll again and this process will continue until one player wins. Hugo is one of the players in this game. What is the probability that Hugo's first roll was a 5, given that he won the game?",
       "options": [
-        "$\\frac{61}{216}$",
-        "$\\frac{367}{1296}$",
-        "$\\frac{41}{144}$",
         "$\\frac{185}{648}$",
-        "$\\frac{11}{36}$"
+        "$\\frac{61}{216}$",
+        "$\\frac{11}{36}$",
+        "$\\frac{41}{144}$",
+        "$\\frac{367}{1296}$"
       ],
       "correctAnswer": "$\\frac{41}{144}$",
       "explanation": "",
@@ -167,11 +167,11 @@
     {
       "question": "Regular polygons with $5$, $6$, $7$, and $8$ sides are inscribed in the same circle. No two of the polygons share a vertex, and no three of their sides intersect at a common point. At how many points inside the circle do two of their sides intersect?",
       "options": [
-        "$52$",
-        "$56$",
         "$60$",
-        "$64$",
-        "$68$"
+        "$56$",
+        "$68$",
+        "$52$",
+        "$64$"
       ],
       "correctAnswer": "$68$",
       "explanation": "",
@@ -184,11 +184,11 @@
     {
       "question": "For each integer $n \\ge 2$, let $S_n$ be the sum of all products $jk$, where $j$ and $k$ are integers and $1 \\le j < k \\le n$. What is the sum of the 10 least values of $n$ such that $S_n$ is divisible by 3?",
       "options": [
-        "196",
-        "197",
         "198",
+        "196",
         "199",
-        "200"
+        "200",
+        "197"
       ],
       "correctAnswer": "197",
       "explanation": "",
@@ -201,10 +201,10 @@
     {
       "question": "A cube is constructed from 4 white unit cubes and 4 blue unit cubes. How many different ways are there to construct the $2 \\times 2 \\times 2$ cube using these smaller cubes? (Two constructions are considered the same if one can be rotated to match the other.)",
       "options": [
-        "7",
-        "8",
-        "9",
         "10",
+        "7",
+        "9",
+        "8",
         "11"
       ],
       "correctAnswer": "7",
@@ -218,11 +218,11 @@
     {
       "question": "A rectangle with side lengths $1$ and $3$, a square with side length $1$, and a rectangle $R$ are inscribed inside a larger square as shown. The sum of all possible values for the area of $R$ can be written in the form $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m + n$?\n![](attached_image_1.png)",
       "options": [
-        "14",
-        "23",
         "46",
         "59",
-        "67"
+        "67",
+        "23",
+        "14"
       ],
       "correctAnswer": "67",
       "explanation": "",
@@ -235,11 +235,11 @@
     {
       "question": "The expression $\\frac{2021}{2020} - \\frac{2020}{2021}$ is equal to the fraction $\\frac{p}{q}$ in which $p$ and $q$ are positive integers whose greatest common divisor is 1. What is $p$?",
       "options": [
-        "1",
-        "9",
         "2020",
+        "9",
         "2021",
-        "4041"
+        "4041",
+        "1"
       ],
       "correctAnswer": "4041",
       "explanation": "",
@@ -253,11 +253,11 @@
     {
       "question": "Let $n = 8^{2022}$. Which of the following is equal to $\\frac{n}{4}$?",
       "options": [
-        "$4^{1010}$",
-        "$2^{2022}$",
         "$8^{2018}$",
-        "$4^{3031}$",
-        "$4^{3032}$"
+        "$4^{1010}$",
+        "$4^{3032}$",
+        "$2^{2022}$",
+        "$4^{3031}$"
       ],
       "correctAnswer": "$4^{3032}$",
       "explanation": "",
@@ -269,11 +269,11 @@
     {
       "question": "The least positive integer with exactly $2021$ distinct positive divisors can be written in the form $m \\cdot 6^k$, where $m$ and $k$ are integers and $6$ is not a divisor of $m$. What is $m + k$?",
       "options": [
-        "47",
-        "58",
-        "59",
         "88",
-        "90"
+        "90",
+        "58",
+        "47",
+        "59"
       ],
       "correctAnswer": "58",
       "explanation": "",

@@ -1,0 +1,306 @@
+{
+  "title": "1.1 Information Technology as a Career",
+  "description": "IT job roles, skills, demand and growth",
+  "folder": "School/Grade 11/Web Development/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit1"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What does ICT stand for?",
+      "options": [
+        "Internet and Computer Technology",
+        "Integrated Communication Tools",
+        "Information and Communication Technology",
+        "Information Control Technology"
+      ],
+      "correctAnswer": "Information and Communication Technology"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "ICT refers to the convergence of which three areas?",
+      "options": [
+        "Hardware, software, and the Internet",
+        "Design, development, and testing",
+        "Computing, telecommunications, and information systems",
+        "Email, browsers, and servers"
+      ],
+      "correctAnswer": "Computing, telecommunications, and information systems"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "What do IT professionals use their technical skills and knowledge to do?",
+      "options": [
+        "Manage agriculture and farming",
+        "Design, develop, implement, and manage technology solutions",
+        "Design buildings and bridges",
+        "Write news articles and reports"
+      ],
+      "correctAnswer": "Design, develop, implement, and manage technology solutions"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which IT job role provides technical assistance and support to users?",
+      "options": [
+        "Data Analyst",
+        "Network Administrator",
+        "Software Developer",
+        "IT Support Specialist"
+      ],
+      "correctAnswer": "IT Support Specialist"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which IT job role designs, implements, and maintains computer networks?",
+      "options": [
+        "IT Project Manager",
+        "System Administrator",
+        "Network Administrator",
+        "Data Analyst"
+      ],
+      "correctAnswer": "Network Administrator"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which IT job role manages and maintains computer systems and servers?",
+      "options": [
+        "IT Support Specialist",
+        "Cybersecurity Analyst",
+        "Data Analyst",
+        "System Administrator"
+      ],
+      "correctAnswer": "System Administrator"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which IT job role designs and develops software applications?",
+      "options": [
+        "Software Developer",
+        "IT Project Manager",
+        "System Administrator",
+        "Network Administrator"
+      ],
+      "correctAnswer": "Software Developer"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which IT job role analyzes and interprets data to derive insights?",
+      "options": [
+        "Data Analyst",
+        "Network Administrator",
+        "Cybersecurity Analyst",
+        "Software Developer"
+      ],
+      "correctAnswer": "Data Analyst"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which IT job role protects computer systems and networks from security threats?",
+      "options": [
+        "Data Analyst",
+        "Cybersecurity Analyst",
+        "System Administrator",
+        "IT Support Specialist"
+      ],
+      "correctAnswer": "Cybersecurity Analyst"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which IT job role plans, executes, and manages technology projects?",
+      "options": [
+        "Cybersecurity Analyst",
+        "IT Project Manager",
+        "Network Administrator",
+        "Software Developer"
+      ],
+      "correctAnswer": "IT Project Manager"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which of the following is listed as an essential IT skill?",
+      "options": [
+        "Practicing law in a courtroom",
+        "Cooking for large events",
+        "Proficiency in programming languages and software development",
+        "Operating heavy machinery"
+      ],
+      "correctAnswer": "Proficiency in programming languages and software development"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "An essential IT skill set includes knowledge of which of the following?",
+      "options": [
+        "Computer networks, hardware, and operating systems",
+        "Fashion, art, and music",
+        "Farming, fishing, and forestry",
+        "Sales, marketing, and accounting"
+      ],
+      "correctAnswer": "Computer networks, hardware, and operating systems"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which essential IT skill area covers understanding of databases and data management?",
+      "options": [
+        "Public speaking",
+        "Physical fitness",
+        "Data management",
+        "Graphic illustration"
+      ],
+      "correctAnswer": "Data management"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which essential IT skill helps professionals work effectively with others?",
+      "options": [
+        "Painting and sculpture",
+        "Carpentry and plumbing",
+        "Cooking and catering",
+        "Strong communication and teamwork skills"
+      ],
+      "correctAnswer": "Strong communication and teamwork skills"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Why is continuous learning essential for IT professionals?",
+      "options": [
+        "Because technology never changes",
+        "Because IT jobs require no prior skills",
+        "Because it is required only once after graduation",
+        "Because the field is constantly evolving with new technologies"
+      ],
+      "correctAnswer": "Because the field is constantly evolving with new technologies"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Which set of industries is named in the module as relying on IT?",
+      "options": [
+        "Only hospitals and clinics",
+        "Only schools and universities",
+        "Healthcare, finance, education, entertainment, and manufacturing",
+        "Only banking and insurance"
+      ],
+      "correctAnswer": "Healthcare, finance, education, entertainment, and manufacturing"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "How can IT professionals advance their careers according to the module?",
+      "options": [
+        "By working only with old hardware",
+        "By gaining experience, acquiring certifications, and continuously updating their skills",
+        "By avoiding new technologies",
+        "By never changing job roles"
+      ],
+      "correctAnswer": "By gaining experience, acquiring certifications, and continuously updating their skills"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Into which specialized areas can IT professionals move?",
+      "options": [
+        "Astronomy or geology",
+        "Farming or fishing",
+        "Cyber security or data science",
+        "Painting or sculpture"
+      ],
+      "correctAnswer": "Cyber security or data science"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "How can continuous learning be achieved in IT?",
+      "options": [
+        "By avoiding certifications entirely",
+        "Through self-study, workshops, certifications, or higher education",
+        "Only by reading one book once",
+        "Only by attending a single training day"
+      ],
+      "correctAnswer": "Through self-study, workshops, certifications, or higher education"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Which of the following describes the impact of IT on society?",
+      "options": [
+        "It reduced communication to local areas only",
+        "It removed all forms of electronic communication",
+        "It revolutionized communication, improved access to information, transformed business processes, and facilitated global connectivity",
+        "It limited access to information"
+      ],
+      "correctAnswer": "It revolutionized communication, improved access to information, transformed business processes, and facilitated global connectivity"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "IT professionals may start their own businesses as what?",
+      "options": [
+        "Technology consultants",
+        "Chefs",
+        "Farmers",
+        "Fashion designers"
+      ],
+      "correctAnswer": "Technology consultants"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "True or False: ICT refers to the convergence of computing, telecommunications, and information systems.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "True or False: The Cybersecurity Analyst analyzes and interprets data to derive insights.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "True or False: Almost every industry relies on IT to streamline operations and improve efficiency.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "True or False: An IT Support Specialist designs, implements, and maintains computer networks.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "False"
+    }
+  ]
+}

@@ -4,7 +4,11 @@
   "folder": "School/Grade 11/Mathematics/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["mathematics", "grade11", "unit1"],
+  "tags": [
+    "mathematics",
+    "grade11",
+    "unit1"
+  ],
   "questions": [
     {
       "id": 1,
@@ -12,9 +16,9 @@
       "question": "A power function is a function that can be written in the form:",
       "options": [
         "$f(x)=k\\,x^{n}$, where $k$ and $n$ are real constants",
+        "$f(x)=\\sin(x)+k$",
         "$f(x)=k^{x}$, where $k$ is a positive constant",
-        "$f(x)=\\log_{k}(x)$, where $k$ is a positive constant",
-        "$f(x)=\\sin(x)+k$"
+        "$f(x)=\\log_{k}(x)$, where $k$ is a positive constant"
       ],
       "correctAnswer": "$f(x)=k\\,x^{n}$, where $k$ and $n$ are real constants"
     },
@@ -23,10 +27,10 @@
       "anki": true,
       "question": "Which of the following functions is a power function?",
       "options": [
-        "$f(x)=4x^{-3}$",
-        "$f(x)=2^{x}$",
+        "$f(x)=e^{x}$",
         "$f(x)=\\log_{2}(x)$",
-        "$f(x)=e^{x}$"
+        "$f(x)=4x^{-3}$",
+        "$f(x)=2^{x}$"
       ],
       "correctAnswer": "$f(x)=4x^{-3}$"
     },
@@ -35,10 +39,10 @@
       "anki": true,
       "question": "Which of the following functions is an exponential function?",
       "options": [
-        "$h(x)=2^{x}$",
-        "$f(x)=3x^{2}$",
         "$g(x)=5x^{3}$",
-        "$n(x)=4x^{-3}$"
+        "$n(x)=4x^{-3}$",
+        "$h(x)=2^{x}$",
+        "$f(x)=3x^{2}$"
       ],
       "correctAnswer": "$h(x)=2^{x}$"
     },
@@ -47,10 +51,10 @@
       "anki": true,
       "question": "Which of the following functions is a logarithmic function?",
       "options": [
-        "$m(x)=\\log_{2}(x)$",
-        "$f(x)=3x^{2}$",
         "$h(x)=2^{x}$",
-        "$n(x)=4x^{-3}$"
+        "$n(x)=4x^{-3}$",
+        "$m(x)=\\log_{2}(x)$",
+        "$f(x)=3x^{2}$"
       ],
       "correctAnswer": "$m(x)=\\log_{2}(x)$"
     },
@@ -60,9 +64,9 @@
       "question": "In the power function $f(x)=k\\,x^{n}$, the exponent $n$ is:",
       "options": [
         "a real constant",
+        "necessarily greater than zero",
         "always a positive even integer",
-        "always a positive odd integer",
-        "necessarily greater than zero"
+        "always a positive odd integer"
       ],
       "correctAnswer": "a real constant"
     },
@@ -72,9 +76,9 @@
       "question": "The domain of the power function $f(x)=x^{4}$ is:",
       "options": [
         "$\\mathbb{R}$",
-        "$[0,\\infty)$",
         "$(0,\\infty)$",
-        "$\\mathbb{R}\\setminus\\{0\\}$"
+        "$\\mathbb{R}\\setminus\\{0\\}$",
+        "$[0,\\infty)$"
       ],
       "correctAnswer": "$\\mathbb{R}$"
     },
@@ -83,10 +87,10 @@
       "anki": true,
       "question": "The range of the power function $f(x)=x^{4}$ is:",
       "options": [
-        "$[0,\\infty)$",
-        "$\\mathbb{R}$",
+        "$(-\\infty,0]$",
         "$(0,\\infty)$",
-        "$(-\\infty,0]$"
+        "$[0,\\infty)$",
+        "$\\mathbb{R}$"
       ],
       "correctAnswer": "$[0,\\infty)$"
     },
@@ -95,10 +99,10 @@
       "anki": true,
       "question": "For the power function $f(x)=x^{6}$, the domain and the range are:",
       "options": [
-        "$\\mathbb{R}$ and $[0,\\infty)$",
         "$\\mathbb{R}$ and $\\mathbb{R}$",
-        "$[0,\\infty)$ and $[0,\\infty)$",
-        "$(0,\\infty)$ and $(0,\\infty)$"
+        "$(0,\\infty)$ and $(0,\\infty)$",
+        "$\\mathbb{R}$ and $[0,\\infty)$",
+        "$[0,\\infty)$ and $[0,\\infty)$"
       ],
       "correctAnswer": "$\\mathbb{R}$ and $[0,\\infty)$"
     },
@@ -107,10 +111,10 @@
       "anki": true,
       "question": "The graph of $f(x)=x^{n}$ for an even natural number $n$ is:",
       "options": [
-        "a U-shaped curve, symmetric about the $y$-axis, passing through the origin",
-        "a curve symmetric about the origin, passing through the origin",
+        "a curve lying entirely above the $x$-axis and never touching it",
         "a straight line passing through the origin",
-        "a curve lying entirely above the $x$-axis and never touching it"
+        "a U-shaped curve, symmetric about the $y$-axis, passing through the origin",
+        "a curve symmetric about the origin, passing through the origin"
       ],
       "correctAnswer": "a U-shaped curve, symmetric about the $y$-axis, passing through the origin"
     },
@@ -119,10 +123,10 @@
       "anki": true,
       "question": "The domain of the power function $f(x)=x^{3}$ is:",
       "options": [
-        "$\\mathbb{R}$",
-        "$[0,\\infty)$",
         "$(0,\\infty)$",
-        "$\\mathbb{R}\\setminus\\{0\\}$"
+        "$[0,\\infty)$",
+        "$\\mathbb{R}\\setminus\\{0\\}$",
+        "$\\mathbb{R}$"
       ],
       "correctAnswer": "$\\mathbb{R}$"
     },
@@ -131,9 +135,9 @@
       "anki": true,
       "question": "The range of the power function $f(x)=x^{5}$ is:",
       "options": [
-        "$\\mathbb{R}$",
         "$[0,\\infty)$",
         "$(-\\infty,0]$",
+        "$\\mathbb{R}$",
         "$\\mathbb{R}\\setminus\\{0\\}$"
       ],
       "correctAnswer": "$\\mathbb{R}$"
@@ -143,10 +147,10 @@
       "anki": true,
       "question": "For the power function $f(x)=x^{5}$, the domain and the range are:",
       "options": [
-        "$\\mathbb{R}$ and $\\mathbb{R}$",
-        "$\\mathbb{R}$ and $[0,\\infty)$",
         "$[0,\\infty)$ and $\\mathbb{R}$",
-        "$(0,\\infty)$ and $\\mathbb{R}$"
+        "$(0,\\infty)$ and $\\mathbb{R}$",
+        "$\\mathbb{R}$ and $\\mathbb{R}$",
+        "$\\mathbb{R}$ and $[0,\\infty)$"
       ],
       "correctAnswer": "$\\mathbb{R}$ and $\\mathbb{R}$"
     },
@@ -155,9 +159,9 @@
       "anki": true,
       "question": "The graph of $f(x)=x^{n}$ for an odd natural number $n$ is:",
       "options": [
+        "a U-shaped curve lying in the upper half-plane",
         "symmetric about the origin and passes through the origin",
         "symmetric about the $y$-axis and passes through the origin",
-        "a U-shaped curve lying in the upper half-plane",
         "a straight line parallel to the $x$-axis"
       ],
       "correctAnswer": "symmetric about the origin and passes through the origin"
@@ -167,10 +171,10 @@
       "anki": true,
       "question": "The domain of the power function $f(x)=x^{\\frac{1}{4}}=\\sqrt[4]{x}$ is:",
       "options": [
-        "$[0,\\infty)$",
-        "$\\mathbb{R}$",
+        "$\\mathbb{R}\\setminus\\{0\\}$",
         "$(0,\\infty)$",
-        "$\\mathbb{R}\\setminus\\{0\\}$"
+        "$\\mathbb{R}$",
+        "$[0,\\infty)$"
       ],
       "correctAnswer": "$[0,\\infty)$"
     },
@@ -179,9 +183,9 @@
       "anki": true,
       "question": "The range of the power function $f(x)=x^{\\frac{1}{4}}=\\sqrt[4]{x}$ is:",
       "options": [
-        "$[0,\\infty)$",
         "$\\mathbb{R}$",
         "$(-\\infty,0]$",
+        "$[0,\\infty)$",
         "$(0,\\infty)$"
       ],
       "correctAnswer": "$[0,\\infty)$"
@@ -191,10 +195,10 @@
       "anki": true,
       "question": "For a power function $f(x)=x^{\\frac{1}{n}}=\\sqrt[n]{x}$ with $n$ an even natural number, the domain is:",
       "options": [
-        "$[0,\\infty)$",
-        "$\\mathbb{R}$",
         "$(0,\\infty)$",
-        "$\\mathbb{R}\\setminus\\{0\\}$"
+        "$\\mathbb{R}\\setminus\\{0\\}$",
+        "$[0,\\infty)$",
+        "$\\mathbb{R}$"
       ],
       "correctAnswer": "$[0,\\infty)$"
     },
@@ -203,10 +207,10 @@
       "anki": true,
       "question": "The graph of $f(x)=\\sqrt{x}$ exists only for:",
       "options": [
-        "$x\\geq 0$",
         "$x>0$",
+        "$x\\leq 0$",
         "all real numbers",
-        "$x\\leq 0$"
+        "$x\\geq 0$"
       ],
       "correctAnswer": "$x\\geq 0$"
     },
@@ -215,10 +219,10 @@
       "anki": true,
       "question": "The domain of the power function $f(x)=x^{\\frac{1}{3}}=\\sqrt[3]{x}$ is:",
       "options": [
-        "$\\mathbb{R}$",
-        "$[0,\\infty)$",
         "$(0,\\infty)$",
-        "$\\mathbb{R}\\setminus\\{0\\}$"
+        "$\\mathbb{R}\\setminus\\{0\\}$",
+        "$\\mathbb{R}$",
+        "$[0,\\infty)$"
       ],
       "correctAnswer": "$\\mathbb{R}$"
     },
@@ -227,10 +231,10 @@
       "anki": true,
       "question": "The range of the power function $f(x)=x^{\\frac{1}{5}}=\\sqrt[5]{x}$ is:",
       "options": [
-        "$\\mathbb{R}$",
-        "$[0,\\infty)$",
         "$(-\\infty,0]$",
-        "$(0,\\infty)$"
+        "$(0,\\infty)$",
+        "$\\mathbb{R}$",
+        "$[0,\\infty)$"
       ],
       "correctAnswer": "$\\mathbb{R}$"
     },
@@ -239,10 +243,10 @@
       "anki": true,
       "question": "For the power function $f(x)=x^{\\frac{1}{3}}=\\sqrt[3]{x}$, the domain and the range are:",
       "options": [
-        "$\\mathbb{R}$ and $\\mathbb{R}$",
+        "$(0,\\infty)$ and $\\mathbb{R}$",
         "$[0,\\infty)$ and $[0,\\infty)$",
         "$\\mathbb{R}$ and $[0,\\infty)$",
-        "$(0,\\infty)$ and $\\mathbb{R}$"
+        "$\\mathbb{R}$ and $\\mathbb{R}$"
       ],
       "correctAnswer": "$\\mathbb{R}$ and $\\mathbb{R}$"
     },
@@ -263,10 +267,10 @@
       "anki": true,
       "question": "The range of the power function $f(x)=x^{\\frac{3}{2}}$ is:",
       "options": [
-        "$[0,\\infty)$",
-        "$\\mathbb{R}$",
         "$(-\\infty,0]$",
-        "$(0,\\infty)$"
+        "$(0,\\infty)$",
+        "$[0,\\infty)$",
+        "$\\mathbb{R}$"
       ],
       "correctAnswer": "$[0,\\infty)$"
     },
@@ -275,10 +279,10 @@
       "anki": true,
       "question": "For a power function $f(x)=x^{\\frac{m}{n}}$ with $m$ odd and $n$ even natural numbers, the domain and the range are:",
       "options": [
-        "$[0,\\infty)$ and $[0,\\infty)$",
         "$\\mathbb{R}$ and $[0,\\infty)$",
-        "$\\mathbb{R}$ and $\\mathbb{R}$",
-        "$(0,\\infty)$ and $(0,\\infty)$"
+        "$[0,\\infty)$ and $[0,\\infty)$",
+        "$(0,\\infty)$ and $(0,\\infty)$",
+        "$\\mathbb{R}$ and $\\mathbb{R}$"
       ],
       "correctAnswer": "$[0,\\infty)$ and $[0,\\infty)$"
     },
@@ -287,10 +291,10 @@
       "anki": true,
       "question": "The domain of the power function $f(x)=x^{\\frac{2}{3}}$ is:",
       "options": [
-        "$\\mathbb{R}$",
+        "$\\mathbb{R}\\setminus\\{0\\}$",
         "$[0,\\infty)$",
         "$(0,\\infty)$",
-        "$\\mathbb{R}\\setminus\\{0\\}$"
+        "$\\mathbb{R}$"
       ],
       "correctAnswer": "$\\mathbb{R}$"
     },
@@ -299,10 +303,10 @@
       "anki": true,
       "question": "The range of the power function $f(x)=x^{\\frac{2}{3}}$ is:",
       "options": [
-        "$[0,\\infty)$",
-        "$\\mathbb{R}$",
         "$(-\\infty,0]$",
-        "$(0,\\infty)$"
+        "$[0,\\infty)$",
+        "$(0,\\infty)$",
+        "$\\mathbb{R}$"
       ],
       "correctAnswer": "$[0,\\infty)$"
     },
@@ -311,10 +315,10 @@
       "anki": true,
       "question": "For the power function $f(x)=x^{\\frac{4}{3}}$, the domain and the range are:",
       "options": [
-        "$\\mathbb{R}$ and $[0,\\infty)$",
-        "$[0,\\infty)$ and $[0,\\infty)$",
         "$\\mathbb{R}$ and $\\mathbb{R}$",
-        "$(0,\\infty)$ and $(0,\\infty)$"
+        "$\\mathbb{R}$ and $[0,\\infty)$",
+        "$(0,\\infty)$ and $(0,\\infty)$",
+        "$[0,\\infty)$ and $[0,\\infty)$"
       ],
       "correctAnswer": "$\\mathbb{R}$ and $[0,\\infty)$"
     },
@@ -323,10 +327,10 @@
       "anki": true,
       "question": "The domain of the power function $f(x)=x^{-\\frac{1}{2}}=\\frac{1}{\\sqrt{x}}$ is:",
       "options": [
-        "$(0,\\infty)$",
         "$[0,\\infty)$",
         "$\\mathbb{R}$",
-        "$\\mathbb{R}\\setminus\\{0\\}$"
+        "$\\mathbb{R}\\setminus\\{0\\}$",
+        "$(0,\\infty)$"
       ],
       "correctAnswer": "$(0,\\infty)$"
     },
@@ -335,8 +339,8 @@
       "anki": true,
       "question": "The range of the power function $f(x)=x^{-\\frac{1}{4}}=\\frac{1}{\\sqrt[4]{x}}$ is:",
       "options": [
-        "$(0,\\infty)$",
         "$[0,\\infty)$",
+        "$(0,\\infty)$",
         "$\\mathbb{R}$",
         "$\\mathbb{R}\\setminus\\{0\\}$"
       ],
@@ -348,9 +352,9 @@
       "question": "For the power function $f(x)=x^{-\\frac{1}{3}}=\\frac{1}{\\sqrt[3]{x}}$, the domain and the range are:",
       "options": [
         "$\\mathbb{R}\\setminus\\{0\\}$ and $\\mathbb{R}\\setminus\\{0\\}$",
+        "$\\mathbb{R}\\setminus\\{0\\}$ and $(0,\\infty)$",
         "$(0,\\infty)$ and $(0,\\infty)$",
-        "$\\mathbb{R}$ and $\\mathbb{R}$",
-        "$\\mathbb{R}\\setminus\\{0\\}$ and $(0,\\infty)$"
+        "$\\mathbb{R}$ and $\\mathbb{R}$"
       ],
       "correctAnswer": "$\\mathbb{R}\\setminus\\{0\\}$ and $\\mathbb{R}\\setminus\\{0\\}$"
     },
@@ -359,10 +363,10 @@
       "anki": true,
       "question": "The domain of the power function $f(x)=x^{-\\frac{3}{2}}$ is:",
       "options": [
-        "$(0,\\infty)$",
+        "$\\mathbb{R}$",
         "$\\mathbb{R}\\setminus\\{0\\}$",
         "$[0,\\infty)$",
-        "$\\mathbb{R}$"
+        "$(0,\\infty)$"
       ],
       "correctAnswer": "$(0,\\infty)$"
     },
@@ -371,10 +375,10 @@
       "anki": true,
       "question": "The range of the power function $f(x)=x^{-\\frac{3}{2}}$ is:",
       "options": [
-        "$(0,\\infty)$",
-        "$\\mathbb{R}\\setminus\\{0\\}$",
         "$[0,\\infty)$",
-        "$(-\\infty,0)$"
+        "$\\mathbb{R}\\setminus\\{0\\}$",
+        "$(-\\infty,0)$",
+        "$(0,\\infty)$"
       ],
       "correctAnswer": "$(0,\\infty)$"
     },
@@ -383,9 +387,9 @@
       "anki": true,
       "question": "The domain of the power function $f(x)=x^{-\\frac{2}{3}}$ is:",
       "options": [
+        "$[0,\\infty)$",
         "$\\mathbb{R}\\setminus\\{0\\}$",
         "$(0,\\infty)$",
-        "$[0,\\infty)$",
         "$\\mathbb{R}$"
       ],
       "correctAnswer": "$\\mathbb{R}\\setminus\\{0\\}$"
@@ -395,9 +399,9 @@
       "anki": true,
       "question": "The range of the power function $f(x)=x^{-\\frac{2}{3}}$ is:",
       "options": [
-        "$(0,\\infty)$",
-        "$\\mathbb{R}\\setminus\\{0\\}$",
         "$[0,\\infty)$",
+        "$\\mathbb{R}\\setminus\\{0\\}$",
+        "$(0,\\infty)$",
         "$(-\\infty,0)$"
       ],
       "correctAnswer": "$(0,\\infty)$"
@@ -407,10 +411,10 @@
       "anki": true,
       "question": "For the power function $f(x)=x^{-\\frac{2}{5}}$, the domain and the range are:",
       "options": [
-        "$\\mathbb{R}\\setminus\\{0\\}$ and $(0,\\infty)$",
-        "$(0,\\infty)$ and $(0,\\infty)$",
         "$\\mathbb{R}\\setminus\\{0\\}$ and $\\mathbb{R}\\setminus\\{0\\}$",
-        "$\\mathbb{R}$ and $(0,\\infty)$"
+        "$\\mathbb{R}$ and $(0,\\infty)$",
+        "$\\mathbb{R}\\setminus\\{0\\}$ and $(0,\\infty)$",
+        "$(0,\\infty)$ and $(0,\\infty)$"
       ],
       "correctAnswer": "$\\mathbb{R}\\setminus\\{0\\}$ and $(0,\\infty)$"
     },
@@ -419,10 +423,10 @@
       "anki": true,
       "question": "Which power function has domain $\\mathbb{R}\\setminus\\{0\\}$ and range $(0,\\infty)$?",
       "options": [
-        "$f(x)=x^{-\\frac{2}{3}}$",
-        "$f(x)=x^{-\\frac{1}{3}}$",
+        "$f(x)=x^{\\frac{2}{3}}$",
         "$f(x)=x^{-\\frac{3}{2}}$",
-        "$f(x)=x^{\\frac{2}{3}}$"
+        "$f(x)=x^{-\\frac{2}{3}}$",
+        "$f(x)=x^{-\\frac{1}{3}}$"
       ],
       "correctAnswer": "$f(x)=x^{-\\frac{2}{3}}$"
     },
@@ -431,10 +435,10 @@
       "anki": true,
       "question": "Which power function has domain $[0,\\infty)$ and range $[0,\\infty)$?",
       "options": [
-        "$f(x)=x^{\\frac{3}{2}}$",
-        "$f(x)=x^{\\frac{2}{3}}$",
         "$f(x)=x^{3}$",
-        "$f(x)=x^{-\\frac{1}{2}}$"
+        "$f(x)=x^{\\frac{2}{3}}$",
+        "$f(x)=x^{-\\frac{1}{2}}$",
+        "$f(x)=x^{\\frac{3}{2}}$"
       ],
       "correctAnswer": "$f(x)=x^{\\frac{3}{2}}$"
     }

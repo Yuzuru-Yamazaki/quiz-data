@@ -15,9 +15,9 @@
     {
       "question": "Is water on earth stationary?",
       "options": [
-        "Yes, it stays in one place",
-        "No, it is always on the move",
         "Only ocean water moves",
+        "No, it is always on the move",
+        "Yes, it stays in one place",
         "Only river water moves"
       ],
       "correctAnswer": "No, it is always on the move",
@@ -26,10 +26,10 @@
     {
       "question": "Rain that falls at a particular place can be the result of evaporation that occurred where?",
       "options": [
-        "At the same location",
         "At a distant ocean days before",
+        "From underground sources",
         "Only from nearby lakes",
-        "From underground sources"
+        "At the same location"
       ],
       "correctAnswer": "At a distant ocean days before",
       "id": 2
@@ -38,9 +38,9 @@
       "question": "Water in a river may have come from which sources?",
       "options": [
         "Only from rainfall at the same location",
-        "Rainfall at a distance or melting ice or snow from high mountains",
+        "Only from the ocean",
         "Only from underground springs",
-        "Only from the ocean"
+        "Rainfall at a distance or melting ice or snow from high mountains"
       ],
       "correctAnswer": "Rainfall at a distance or melting ice or snow from high mountains",
       "id": 3
@@ -49,8 +49,8 @@
       "question": "What cycle is responsible for water movement in the ocean, on the land, and in the atmosphere?",
       "options": [
         "The carbon cycle",
-        "The nitrogen cycle",
         "The water cycle",
+        "The nitrogen cycle",
         "The phosphorus cycle"
       ],
       "correctAnswer": "The water cycle",
@@ -59,9 +59,9 @@
     {
       "question": "Does the earth have a limited or unlimited amount of water?",
       "options": [
-        "Unlimited",
-        "Limited",
         "Infinite",
+        "Limited",
+        "Unlimited",
         "Continuously increasing"
       ],
       "correctAnswer": "Limited",
@@ -72,8 +72,8 @@
       "options": [
         "50%",
         "75%",
-        "97.5%",
-        "99%"
+        "99%",
+        "97.5%"
       ],
       "correctAnswer": "97.5%",
       "id": 6
@@ -81,10 +81,10 @@
     {
       "question": "Of the remaining water after saltwater, what percentage is locked underground as groundwater or as icecap in polar areas?",
       "options": [
-        "50%",
-        "75%",
+        "99%",
         "97.5%",
-        "99%"
+        "50%",
+        "75%"
       ],
       "correctAnswer": "99%",
       "id": 7
@@ -92,10 +92,10 @@
     {
       "question": "What percentage of freshwater on Earth is easily accessible from lakes and rivers?",
       "options": [
-        "Less than 1%",
         "About 10%",
-        "About 25%",
-        "About 50%"
+        "Less than 1%",
+        "About 50%",
+        "About 25%"
       ],
       "correctAnswer": "Less than 1%",
       "id": 8
@@ -103,9 +103,9 @@
     {
       "question": "What is the water cycle also known as?",
       "options": [
+        "The nitrogen cycle",
         "The carbon cycle",
         "The hydrologic cycle",
-        "The nitrogen cycle",
         "The phosphorus cycle"
       ],
       "correctAnswer": "The hydrologic cycle",
@@ -115,9 +115,9 @@
       "question": "Between which components does water continuously cycle?",
       "options": [
         "Only between oceans and land",
+        "Only between rivers and lakes",
         "The oceans, atmosphere, land, and organisms",
-        "Only between atmosphere and land",
-        "Only between rivers and lakes"
+        "Only between atmosphere and land"
       ],
       "correctAnswer": "The oceans, atmosphere, land, and organisms",
       "id": 10
@@ -126,9 +126,9 @@
       "question": "What is the main driving force in the water cycle?",
       "options": [
         "Wind",
-        "A change in temperature, heating, and cooling",
         "Gravity",
-        "Earth's rotation"
+        "Earth's rotation",
+        "A change in temperature, heating, and cooling"
       ],
       "correctAnswer": "A change in temperature, heating, and cooling",
       "id": 11
@@ -136,10 +136,10 @@
     {
       "question": "What causes a change in the state of water in the water cycle?",
       "options": [
-        "Wind speed",
+        "Humidity",
         "Change in temperature",
-        "Air pressure",
-        "Humidity"
+        "Wind speed",
+        "Air pressure"
       ],
       "correctAnswer": "Change in temperature",
       "id": 12
@@ -148,8 +148,8 @@
       "question": "What are the three states of water involved in the water cycle?",
       "options": [
         "Plasma, liquid, gas",
-        "Water vapour (gas), ice or snow (solid), and liquid water",
         "Only liquid and gas",
+        "Water vapour (gas), ice or snow (solid), and liquid water",
         "Only solid and liquid"
       ],
       "correctAnswer": "Water vapour (gas), ice or snow (solid), and liquid water",
@@ -158,10 +158,10 @@
     {
       "question": "What are the most important processes in the water cycle?",
       "options": [
-        "Photosynthesis and respiration",
         "Evaporation, transpiration, condensation, precipitation, and runoff",
+        "Combustion and decomposition",
         "Nitrogen fixation and denitrification",
-        "Combustion and decomposition"
+        "Photosynthesis and respiration"
       ],
       "correctAnswer": "Evaporation, transpiration, condensation, precipitation, and runoff",
       "id": 14
@@ -169,10 +169,10 @@
     {
       "question": "The water cycle is driven by which energy source?",
       "options": [
-        "Geothermal energy",
         "The sun",
+        "Tidal energy",
         "Wind energy",
-        "Tidal energy"
+        "Geothermal energy"
       ],
       "correctAnswer": "The sun",
       "id": 15
@@ -182,8 +182,8 @@
       "options": [
         "Wind",
         "Solar heating",
-        "Gravity",
-        "Earth's rotation"
+        "Earth's rotation",
+        "Gravity"
       ],
       "correctAnswer": "Solar heating",
       "id": 16
@@ -193,8 +193,8 @@
       "options": [
         "Only from oceans",
         "From the earth and the surface of leaves (transpiration)",
-        "Only from rivers",
-        "Only from soil"
+        "Only from soil",
+        "Only from rivers"
       ],
       "correctAnswer": "From the earth and the surface of leaves (transpiration)",
       "id": 17
@@ -202,10 +202,10 @@
     {
       "question": "What form does water take when it rises into the atmosphere?",
       "options": [
-        "Ice crystals",
-        "Water vapor",
         "Liquid droplets only",
-        "Snow"
+        "Snow",
+        "Water vapor",
+        "Ice crystals"
       ],
       "correctAnswer": "Water vapor",
       "id": 18
@@ -213,10 +213,10 @@
     {
       "question": "What happens to water vapor as it rises and cools in the atmosphere?",
       "options": [
-        "It disappears",
-        "It condenses into rain or snow",
         "It turns directly into ice",
-        "It remains as vapor"
+        "It remains as vapor",
+        "It condenses into rain or snow",
+        "It disappears"
       ],
       "correctAnswer": "It condenses into rain or snow",
       "id": 19
@@ -224,10 +224,10 @@
     {
       "question": "When water vapor condenses and falls to the earth's surface, what is this process called?",
       "options": [
-        "Evaporation",
-        "Transpiration",
         "Precipitation",
-        "Condensation"
+        "Transpiration",
+        "Condensation",
+        "Evaporation"
       ],
       "correctAnswer": "Precipitation",
       "id": 20
@@ -236,9 +236,9 @@
       "question": "What forms of precipitation are mentioned in the water cycle description?",
       "options": [
         "Only rain",
+        "Only sleet",
         "Rainfall or snowfall",
-        "Only hail",
-        "Only sleet"
+        "Only hail"
       ],
       "correctAnswer": "Rainfall or snowfall",
       "id": 21
@@ -247,9 +247,9 @@
       "question": "After precipitation, where does surface runoff water collect?",
       "options": [
         "Only in oceans",
-        "In rivers, lakes, soil, and soft rocks",
+        "Only in the atmosphere",
         "Only in underground caves",
-        "Only in the atmosphere"
+        "In rivers, lakes, soil, and soft rocks"
       ],
       "correctAnswer": "In rivers, lakes, soil, and soft rocks",
       "id": 22
@@ -257,10 +257,10 @@
     {
       "question": "What happens to some of the water that falls on earth?",
       "options": [
-        "It is all evaporated immediately",
+        "It all becomes ice",
         "It is taken up by plant roots and much of it flows into oceans or infiltrates the soil as groundwater",
         "It all stays on the surface",
-        "It all becomes ice"
+        "It is all evaporated immediately"
       ],
       "correctAnswer": "It is taken up by plant roots and much of it flows into oceans or infiltrates the soil as groundwater",
       "id": 23
@@ -268,10 +268,10 @@
     {
       "question": "How can water accumulated in the ground return to the surface?",
       "options": [
+        "Only through rainfall",
         "Only through evaporation",
         "As a spring or stream, or by being pumped out",
-        "Only through plant roots",
-        "Only through rainfall"
+        "Only through plant roots"
       ],
       "correctAnswer": "As a spring or stream, or by being pumped out",
       "id": 24
@@ -279,10 +279,10 @@
     {
       "question": "For what purposes can groundwater be pumped out?",
       "options": [
+        "Only for industrial use",
         "Only for drinking",
-        "Only for irrigation",
         "Drinking and irrigation",
-        "Only for industrial use"
+        "Only for irrigation"
       ],
       "correctAnswer": "Drinking and irrigation",
       "id": 25
@@ -291,9 +291,9 @@
       "question": "How does pumped groundwater rejoin the water cycle?",
       "options": [
         "Through freezing",
-        "Through surface evaporation",
         "Through condensation",
-        "Through precipitation"
+        "Through precipitation",
+        "Through surface evaporation"
       ],
       "correctAnswer": "Through surface evaporation",
       "id": 26
@@ -301,10 +301,10 @@
     {
       "question": "What process involves water evaporating from the surface of leaves?",
       "options": [
+        "Runoff",
         "Condensation",
-        "Precipitation",
         "Transpiration",
-        "Runoff"
+        "Precipitation"
       ],
       "correctAnswer": "Transpiration",
       "id": 27
@@ -312,10 +312,10 @@
     {
       "question": "What is the term for the combined evaporation from the earth and transpiration from plants?",
       "options": [
-        "Condensation",
         "Evapotranspiration",
+        "Infiltration",
         "Precipitation",
-        "Infiltration"
+        "Condensation"
       ],
       "correctAnswer": "Evapotranspiration",
       "id": 28
@@ -323,10 +323,10 @@
     {
       "question": "In the water cycle experiment with beakers, what process causes water particles to move up towards the plastic cover?",
       "options": [
+        "Runoff",
         "Condensation",
         "Precipitation",
-        "Evaporation",
-        "Runoff"
+        "Evaporation"
       ],
       "correctAnswer": "Evaporation",
       "id": 29
@@ -335,9 +335,9 @@
       "question": "In the water cycle experiment, when water drops become too heavy and fall back to the small beaker, what process is demonstrated?",
       "options": [
         "Evaporation",
-        "Condensation",
         "Precipitation",
-        "Transpiration"
+        "Transpiration",
+        "Condensation"
       ],
       "correctAnswer": "Precipitation",
       "id": 30

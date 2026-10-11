@@ -14,10 +14,10 @@
       "id": 1,
       "question": "What is the primary function of the circulatory system?",
       "options": [
-        "To digest food",
-        "To move blood throughout the body",
         "To produce hormones",
-        "To filter waste"
+        "To filter waste",
+        "To digest food",
+        "To move blood throughout the body"
       ],
       "correctAnswer": "To move blood throughout the body"
     },
@@ -26,9 +26,9 @@
       "question": "What does the circulatory system carry to cells?",
       "options": [
         "Waste products",
+        "Urea",
         "Nutrients",
-        "Carbon dioxide",
-        "Urea"
+        "Carbon dioxide"
       ],
       "correctAnswer": "Nutrients"
     },
@@ -47,8 +47,8 @@
       "id": 4,
       "question": "What does the circulatory system carry from cells in one part of the body to distant target tissues?",
       "options": [
-        "Nutrients",
         "Chemical messages",
+        "Nutrients",
         "Waste products",
         "Blood cells"
       ],
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "What does the circulatory system distribute throughout the body along with the kidneys?",
       "options": [
-        "Oxygen",
-        "Heat",
         "Nutrients",
-        "Hormones"
+        "Hormones",
+        "Heat",
+        "Oxygen"
       ],
       "correctAnswer": "Heat"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "What does the circulatory system help maintain levels of?",
       "options": [
+        "$pH$",
         "Oxygen",
         "Body fluid",
-        "Carbon dioxide",
-        "$pH$"
+        "Carbon dioxide"
       ],
       "correctAnswer": "Body fluid"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "What does the circulatory system provide for cellular respiration?",
       "options": [
-        "Carbon dioxide",
-        "Oxygen",
         "Glucose",
-        "ATP"
+        "ATP",
+        "Carbon dioxide",
+        "Oxygen"
       ],
       "correctAnswer": "Oxygen"
     },
@@ -92,9 +92,9 @@
       "question": "What does the circulatory system transport throughout the body to defend against invading organisms?",
       "options": [
         "Hormones",
+        "Antibodies only",
         "Immune cells",
-        "Enzymes",
-        "Antibodies only"
+        "Enzymes"
       ],
       "correctAnswer": "Immune cells"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "How many kilometres of blood vessels does the circulatory system have?",
       "options": [
-        "48,000 km",
+        "120,000 km",
         "72,000 km",
         "96,000 km",
-        "120,000 km"
+        "48,000 km"
       ],
       "correctAnswer": "96,000 km"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "How many cells does the circulatory system sustain?",
       "options": [
-        "50 trillion",
+        "200 trillion",
         "100 trillion",
         "150 trillion",
-        "200 trillion"
+        "50 trillion"
       ],
       "correctAnswer": "100 trillion"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What is the approximate mass of the human heart?",
       "options": [
-        "200 g",
         "300 g",
-        "400 g",
-        "500 g"
+        "500 g",
+        "200 g",
+        "400 g"
       ],
       "correctAnswer": "300 g"
     },
@@ -135,9 +135,9 @@
       "id": 12,
       "question": "How many times per minute does the heart beat on average?",
       "options": [
-        "50",
-        "60",
         "70",
+        "60",
+        "50",
         "80"
       ],
       "correctAnswer": "70"
@@ -147,9 +147,9 @@
       "question": "How many litres of blood cycle through the heart every minute?",
       "options": [
         "3 L",
-        "5 L",
+        "10 L",
         "7 L",
-        "10 L"
+        "5 L"
       ],
       "correctAnswer": "5 L"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What are the two major vessels that blood is ejected into from the heart?",
       "options": [
-        "Vena cava and pulmonary vein",
+        "Hepatic artery and portal vein",
         "Aorta and pulmonary trunk",
         "Carotid artery and jugular vein",
-        "Hepatic artery and portal vein"
+        "Vena cava and pulmonary vein"
       ],
       "correctAnswer": "Aorta and pulmonary trunk"
     },
@@ -169,9 +169,9 @@
       "question": "What is the field of study about the heart called?",
       "options": [
         "Cardiology",
-        "Hematology",
+        "Angiology",
         "Pulmonology",
-        "Angiology"
+        "Hematology"
       ],
       "correctAnswer": "Cardiology"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "What are scientists who study the heart called?",
       "options": [
-        "Hematologists",
         "Cardiologists",
-        "Pulmonologists",
-        "Neurologists"
+        "Hematologists",
+        "Neurologists",
+        "Pulmonologists"
       ],
       "correctAnswer": "Cardiologists"
     },
@@ -190,10 +190,10 @@
       "id": 17,
       "question": "What are the three layers of the heart wall?",
       "options": [
-        "Epicardium, myocardium, endocardium",
-        "Pericardium, epicardium, endocardium",
+        "Endocardium, pericardium, myocardium",
         "Myocardium, pericardium, epicardium",
-        "Endocardium, pericardium, myocardium"
+        "Epicardium, myocardium, endocardium",
+        "Pericardium, epicardium, endocardium"
       ],
       "correctAnswer": "Epicardium, myocardium, endocardium"
     },
@@ -201,10 +201,10 @@
       "id": 18,
       "question": "Which layer of the heart lines the interior of the heart?",
       "options": [
-        "Epicardium",
         "Myocardium",
         "Endocardium",
-        "Pericardium"
+        "Pericardium",
+        "Epicardium"
       ],
       "correctAnswer": "Endocardium"
     },
@@ -212,10 +212,10 @@
       "id": 19,
       "question": "Which layer of the heart is the thickest?",
       "options": [
-        "Endocardium",
-        "Epicardium",
+        "Pericardium",
         "Myocardium",
-        "Pericardium"
+        "Endocardium",
+        "Epicardium"
       ],
       "correctAnswer": "Myocardium"
     },
@@ -224,9 +224,9 @@
       "question": "On which layer of the heart do the coronary arteries lie?",
       "options": [
         "Endocardium",
-        "Myocardium",
+        "Pericardium",
         "Epicardium",
-        "Pericardium"
+        "Myocardium"
       ],
       "correctAnswer": "Epicardium"
     },
@@ -234,10 +234,10 @@
       "id": 21,
       "question": "What is the thin sac that the heart sits in called?",
       "options": [
-        "Endocardium",
         "Myocardium",
+        "Pericardium",
         "Epicardium",
-        "Pericardium"
+        "Endocardium"
       ],
       "correctAnswer": "Pericardium"
     },
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "What separates the heart from other structures in the chest?",
       "options": [
-        "Myocardium",
+        "Epicardium",
         "Pericardium",
-        "Endocardium",
-        "Epicardium"
+        "Myocardium",
+        "Endocardium"
       ],
       "correctAnswer": "Pericardium"
     },
@@ -257,9 +257,9 @@
       "question": "How many chambers does the human heart have?",
       "options": [
         "Two",
-        "Three",
         "Four",
-        "Five"
+        "Five",
+        "Three"
       ],
       "correctAnswer": "Four"
     },
@@ -267,10 +267,10 @@
       "id": 24,
       "question": "What are the upper chambers of the heart called?",
       "options": [
-        "Ventricles",
-        "Atria",
         "Septum",
-        "Auricles"
+        "Ventricles",
+        "Auricles",
+        "Atria"
       ],
       "correctAnswer": "Atria"
     },
@@ -278,10 +278,10 @@
       "id": 25,
       "question": "What are the lower chambers of the heart called?",
       "options": [
-        "Atria",
-        "Ventricles",
         "Septum",
-        "Auricles"
+        "Auricles",
+        "Ventricles",
+        "Atria"
       ],
       "correctAnswer": "Ventricles"
     },
@@ -289,10 +289,10 @@
       "id": 26,
       "question": "How many valves prohibit backflow of blood in the heart?",
       "options": [
-        "Two",
+        "Five",
         "Three",
-        "Four",
-        "Five"
+        "Two",
+        "Four"
       ],
       "correctAnswer": "Four"
     },
@@ -301,8 +301,8 @@
       "question": "Which valve separates the right atrium from the right ventricle?",
       "options": [
         "Bicuspid valve",
-        "Tricuspid valve",
         "Semilunar valve",
+        "Tricuspid valve",
         "Mitral valve"
       ],
       "correctAnswer": "Tricuspid valve"
@@ -311,10 +311,10 @@
       "id": 28,
       "question": "Which valve separates the left atrium from the left ventricle?",
       "options": [
-        "Tricuspid valve",
-        "Bicuspid (Mitral) valve",
+        "Aortic valve",
         "Pulmonary valve",
-        "Aortic valve"
+        "Tricuspid valve",
+        "Bicuspid (Mitral) valve"
       ],
       "correctAnswer": "Bicuspid (Mitral) valve"
     },
@@ -334,9 +334,9 @@
       "question": "Which valve separates the left ventricle from the aorta?",
       "options": [
         "Tricuspid valve",
+        "Pulmonary valve",
         "Bicuspid valve",
-        "Semilunar valve (Aortic)",
-        "Pulmonary valve"
+        "Semilunar valve (Aortic)"
       ],
       "correctAnswer": "Semilunar valve (Aortic)"
     },
@@ -345,9 +345,9 @@
       "question": "Why are semilunar valves called semilunar?",
       "options": [
         "They are circular",
-        "They are half-moon-shaped",
+        "They are rectangular",
         "They are triangular",
-        "They are rectangular"
+        "They are half-moon-shaped"
       ],
       "correctAnswer": "They are half-moon-shaped"
     },
@@ -355,10 +355,10 @@
       "id": 32,
       "question": "What type of muscle is the wall of the heart made from?",
       "options": [
-        "Skeletal muscle",
         "Smooth muscle",
         "Cardiac muscle",
-        "Striated muscle"
+        "Striated muscle",
+        "Skeletal muscle"
       ],
       "correctAnswer": "Cardiac muscle"
     },
@@ -368,8 +368,8 @@
       "options": [
         "It gets fatigued easily",
         "It never gets fatigued",
-        "It is voluntary",
-        "It is found only in arteries"
+        "It is found only in arteries",
+        "It is voluntary"
       ],
       "correctAnswer": "It never gets fatigued"
     },
@@ -378,9 +378,9 @@
       "question": "How many times will cardiac muscle contract in a lifetime?",
       "options": [
         "Over one billion",
+        "Over four billion",
         "Over two billion",
-        "Over three billion",
-        "Over four billion"
+        "Over three billion"
       ],
       "correctAnswer": "Over two billion"
     },
@@ -388,10 +388,10 @@
       "id": 35,
       "question": "How many separate circuits does the human circulatory system have?",
       "options": [
+        "Four",
         "One",
-        "Two",
         "Three",
-        "Four"
+        "Two"
       ],
       "correctAnswer": "Two"
     },
@@ -399,10 +399,10 @@
       "id": 36,
       "question": "What are the two types of blood circulation?",
       "options": [
-        "Systemic and coronary",
-        "Pulmonary and systemic",
         "Pulmonary and coronary",
-        "Hepatic and pulmonary"
+        "Pulmonary and systemic",
+        "Hepatic and pulmonary",
+        "Systemic and coronary"
       ],
       "correctAnswer": "Pulmonary and systemic"
     },
@@ -410,10 +410,10 @@
       "id": 37,
       "question": "Pulmonary circulation is the movement of blood from the heart to where?",
       "options": [
-        "To the body tissues",
         "To the lungs for oxygenation",
+        "To the kidneys",
         "To the liver",
-        "To the kidneys"
+        "To the body tissues"
       ],
       "correctAnswer": "To the lungs for oxygenation"
     },
@@ -421,9 +421,9 @@
       "id": 38,
       "question": "Through which vessels does oxygen-depleted blood enter the right atrium?",
       "options": [
+        "Aorta",
         "Pulmonary veins",
         "Superior and inferior venae cavae",
-        "Aorta",
         "Pulmonary arteries"
       ],
       "correctAnswer": "Superior and inferior venae cavae"
@@ -432,10 +432,10 @@
       "id": 39,
       "question": "Through which valve does blood pass from the right atrium to the right ventricle?",
       "options": [
-        "Bicuspid valve",
         "Mitral valve",
-        "Tricuspid valve",
-        "Aortic valve"
+        "Aortic valve",
+        "Bicuspid valve",
+        "Tricuspid valve"
       ],
       "correctAnswer": "Tricuspid valve"
     },
@@ -443,9 +443,9 @@
       "id": 40,
       "question": "Where does the pulmonary artery split to travel to each lung?",
       "options": [
-        "Into right and left pulmonary arteries",
         "Into right and left pulmonary veins",
         "Into bronchial arteries",
+        "Into right and left pulmonary arteries",
         "Into alveolar capillaries"
       ],
       "correctAnswer": "Into right and left pulmonary arteries"
@@ -454,10 +454,10 @@
       "id": 41,
       "question": "Systemic circulation is the movement of blood from the heart where?",
       "options": [
+        "To the digestive system",
         "To the lungs",
         "Through the body to provide oxygen and nutrients",
-        "To the heart only",
-        "To the digestive system"
+        "To the heart only"
       ],
       "correctAnswer": "Through the body to provide oxygen and nutrients"
     },
@@ -465,10 +465,10 @@
       "id": 42,
       "question": "Where does oxygenated blood enter the left atrium from?",
       "options": [
+        "Aorta",
         "Pulmonary arteries",
-        "Pulmonary veins",
         "Vena cava",
-        "Aorta"
+        "Pulmonary veins"
       ],
       "correctAnswer": "Pulmonary veins"
     },
@@ -476,10 +476,10 @@
       "id": 43,
       "question": "Through which valve is blood pumped from the left atrium to the left ventricle?",
       "options": [
+        "Aortic valve",
         "Tricuspid valve",
         "Mitral valve",
-        "Pulmonary valve",
-        "Aortic valve"
+        "Pulmonary valve"
       ],
       "correctAnswer": "Mitral valve"
     },
@@ -487,9 +487,9 @@
       "id": 44,
       "question": "What is the body's largest artery?",
       "options": [
-        "Pulmonary artery",
-        "Carotid artery",
         "Aorta",
+        "Carotid artery",
+        "Pulmonary artery",
         "Brachial artery"
       ],
       "correctAnswer": "Aorta"
@@ -498,10 +498,10 @@
       "id": 45,
       "question": "Into which arteries does the aorta branch to supply the lower parts of the body?",
       "options": [
-        "Carotid and subclavian",
-        "Iliac, renal, and suprarenal",
         "Brachial and femoral",
-        "Mesenteric and hepatic"
+        "Mesenteric and hepatic",
+        "Carotid and subclavian",
+        "Iliac, renal, and suprarenal"
       ],
       "correctAnswer": "Iliac, renal, and suprarenal"
     },
@@ -509,10 +509,10 @@
       "id": 46,
       "question": "What are the smallest branches of arteries called?",
       "options": [
-        "Venules",
-        "Arterioles",
         "Capillaries",
-        "Sinusoids"
+        "Sinusoids",
+        "Arterioles",
+        "Venules"
       ],
       "correctAnswer": "Arterioles"
     },
@@ -520,10 +520,10 @@
       "id": 47,
       "question": "Where does gas and nutrient exchange with tissues occur?",
       "options": [
-        "Arteries",
-        "Veins",
         "Capillaries",
-        "Arterioles"
+        "Arterioles",
+        "Veins",
+        "Arteries"
       ],
       "correctAnswer": "Capillaries"
     },
@@ -531,10 +531,10 @@
       "id": 48,
       "question": "What diffuses out of the cell into the blood in the capillaries?",
       "options": [
-        "Oxygen and glucose",
         "Metabolic waste and carbon dioxide",
-        "Nutrients",
-        "Hormones"
+        "Oxygen and glucose",
+        "Hormones",
+        "Nutrients"
       ],
       "correctAnswer": "Metabolic waste and carbon dioxide"
     },
@@ -542,10 +542,10 @@
       "id": 49,
       "question": "What diffuses out of the blood and into the cell in the capillaries?",
       "options": [
-        "Carbon dioxide and waste",
-        "Oxygen and glucose",
         "Urea",
-        "Hormones"
+        "Hormones",
+        "Carbon dioxide and waste",
+        "Oxygen and glucose"
       ],
       "correctAnswer": "Oxygen and glucose"
     },
@@ -553,10 +553,10 @@
       "id": 50,
       "question": "Which tissue is supplied by pulmonary circulation instead of systemic circulation?",
       "options": [
-        "Heart muscle",
+        "Liver tissue",
         "Parenchyma of the lungs",
         "Brain tissue",
-        "Liver tissue"
+        "Heart muscle"
       ],
       "correctAnswer": "Parenchyma of the lungs"
     },
@@ -565,9 +565,9 @@
       "question": "Walking or mild exercise will increase heart rate by what percentage?",
       "options": [
         "10 to 20%",
-        "20 to 30%",
         "30 to 40%",
-        "40 to 50%"
+        "40 to 50%",
+        "20 to 30%"
       ],
       "correctAnswer": "20 to 30%"
     },
@@ -576,9 +576,9 @@
       "question": "What is the period of time that begins with contraction of the atria and ends with ventricular relaxation called?",
       "options": [
         "Systole",
+        "Heart rate",
         "Diastole",
-        "Cardiac cycle",
-        "Heart rate"
+        "Cardiac cycle"
       ],
       "correctAnswer": "Cardiac cycle"
     },
@@ -587,9 +587,9 @@
       "question": "What is the period of contraction of the heart called?",
       "options": [
         "Diastole",
+        "Auscultation",
         "Systole",
-        "Cardiac cycle",
-        "Auscultation"
+        "Cardiac cycle"
       ],
       "correctAnswer": "Systole"
     },
@@ -597,9 +597,9 @@
       "id": 54,
       "question": "What is the period of relaxation of the heart called?",
       "options": [
-        "Systole",
-        "Diastole",
         "Cardiac cycle",
+        "Diastole",
+        "Systole",
         "Murmur"
       ],
       "correctAnswer": "Diastole"
@@ -608,10 +608,10 @@
       "id": 55,
       "question": "What diagnostic technique involves listening to internal sounds using a stethoscope?",
       "options": [
-        "Palpation",
         "Auscultation",
+        "Inspection",
         "Percussion",
-        "Inspection"
+        "Palpation"
       ],
       "correctAnswer": "Auscultation"
     },
@@ -619,10 +619,10 @@
       "id": 56,
       "question": "What are the two audible heart sounds in a normal, healthy heart?",
       "options": [
-        "Lub and Dup",
-        "Tick and Tock",
         "Click and Clack",
-        "Thump and Thud"
+        "Tick and Tock",
+        "Thump and Thud",
+        "Lub and Dup"
       ],
       "correctAnswer": "Lub and Dup"
     },
@@ -631,9 +631,9 @@
       "question": "What causes the Lub heart sound?",
       "options": [
         "Closing of semilunar valves",
-        "Closing of atrioventricular valves",
         "Blood entering the aorta",
-        "Ventricular relaxation"
+        "Ventricular relaxation",
+        "Closing of atrioventricular valves"
       ],
       "correctAnswer": "Closing of atrioventricular valves"
     },
@@ -641,10 +641,10 @@
       "id": 58,
       "question": "What causes the Dup (Dub) heart sound?",
       "options": [
-        "Closing of atrioventricular valves",
-        "Closing of semilunar valves",
         "Atrial contraction",
-        "Blood entering the ventricles"
+        "Closing of atrioventricular valves",
+        "Blood entering the ventricles",
+        "Closing of semilunar valves"
       ],
       "correctAnswer": "Closing of semilunar valves"
     },
@@ -652,10 +652,10 @@
       "id": 59,
       "question": "What is an unusual heart sound caused by turbulent flow of blood called?",
       "options": [
+        "Palpitation",
         "Systole",
         "Murmur",
-        "Arrhythmia",
-        "Palpitation"
+        "Arrhythmia"
       ],
       "correctAnswer": "Murmur"
     },
@@ -663,10 +663,10 @@
       "id": 60,
       "question": "On what scale are heart murmurs graded?",
       "options": [
-        "1 to 3",
-        "1 to 5",
+        "1 to 10",
         "1 to 6",
-        "1 to 10"
+        "1 to 5",
+        "1 to 3"
       ],
       "correctAnswer": "1 to 6"
     },
@@ -674,10 +674,10 @@
       "id": 61,
       "question": "What effect does inhalation have on right-sided heart murmurs?",
       "options": [
-        "Decreases amplitude",
-        "Increases amplitude",
         "No effect",
-        "Eliminates the murmur"
+        "Increases amplitude",
+        "Eliminates the murmur",
+        "Decreases amplitude"
       ],
       "correctAnswer": "Increases amplitude"
     },
@@ -685,8 +685,8 @@
       "id": 62,
       "question": "What effect does expiration have on left-sided heart murmurs?",
       "options": [
-        "Decreases amplitude",
         "May amplify",
+        "Decreases amplitude",
         "Eliminates the murmur",
         "No effect"
       ],
@@ -697,9 +697,9 @@
       "question": "What is blood pressure?",
       "options": [
         "The speed of blood flow",
-        "The force of blood on the walls of the arteries",
+        "The number of heart beats per minute",
         "The volume of blood in the body",
-        "The number of heart beats per minute"
+        "The force of blood on the walls of the arteries"
       ],
       "correctAnswer": "The force of blood on the walls of the arteries"
     },
@@ -707,10 +707,10 @@
       "id": 64,
       "question": "What instrument is used to measure blood pressure?",
       "options": [
-        "Stethoscope",
-        "Sphygmomanometer",
         "Thermometer",
-        "Electrocardiograph"
+        "Electrocardiograph",
+        "Stethoscope",
+        "Sphygmomanometer"
       ],
       "correctAnswer": "Sphygmomanometer"
     },
@@ -718,10 +718,10 @@
       "id": 65,
       "question": "Which artery is used to measure blood pressure in the arm?",
       "options": [
-        "Carotid artery",
-        "Femoral artery",
         "Brachial artery",
-        "Radial artery"
+        "Carotid artery",
+        "Radial artery",
+        "Femoral artery"
       ],
       "correctAnswer": "Brachial artery"
     },
@@ -729,10 +729,10 @@
       "id": 66,
       "question": "What is normal systolic blood pressure less than?",
       "options": [
-        "100 mmHg",
-        "120 mmHg",
         "140 mmHg",
-        "160 mmHg"
+        "160 mmHg",
+        "120 mmHg",
+        "100 mmHg"
       ],
       "correctAnswer": "120 mmHg"
     },
@@ -740,10 +740,10 @@
       "id": 67,
       "question": "In what units is blood pressure measured?",
       "options": [
-        "Pascals",
-        "Millimeters of mercury (mmHg)",
         "Atmospheres",
-        "Bars"
+        "Pascals",
+        "Bars",
+        "Millimeters of mercury (mmHg)"
       ],
       "correctAnswer": "Millimeters of mercury (mmHg)"
     },
@@ -751,10 +751,10 @@
       "id": 68,
       "question": "What is normal diastolic blood pressure less than?",
       "options": [
-        "60 mmHg",
-        "70 mmHg",
         "80 mmHg",
-        "90 mmHg"
+        "70 mmHg",
+        "90 mmHg",
+        "60 mmHg"
       ],
       "correctAnswer": "80 mmHg"
     },
@@ -762,10 +762,10 @@
       "id": 69,
       "question": "What causes diastolic blood pressure to fall?",
       "options": [
-        "Exercise",
-        "Reduced filling such as from internal hemorrhage",
         "Stress",
-        "Eating"
+        "Eating",
+        "Reduced filling such as from internal hemorrhage",
+        "Exercise"
       ],
       "correctAnswer": "Reduced filling such as from internal hemorrhage"
     },
@@ -773,10 +773,10 @@
       "id": 70,
       "question": "Blood vessels are classified as which three types based on structure and function?",
       "options": [
+        "Pulmonary, systemic, coronary",
         "Arteries, veins, capillaries",
         "Aorta, vena cava, venules",
-        "Arterioles, venules, sinusoids",
-        "Pulmonary, systemic, coronary"
+        "Arterioles, venules, sinusoids"
       ],
       "correctAnswer": "Arteries, veins, capillaries"
     },
@@ -784,10 +784,10 @@
       "id": 71,
       "question": "What average volume of blood does a person have?",
       "options": [
-        "3 litres",
-        "4 litres",
         "5 litres",
-        "6 litres"
+        "6 litres",
+        "3 litres",
+        "4 litres"
       ],
       "correctAnswer": "5 litres"
     },
@@ -795,10 +795,10 @@
       "id": 72,
       "question": "What makes up about half of the content of the blood?",
       "options": [
+        "Platelets",
         "Red blood cells",
-        "White blood cells",
         "Plasma",
-        "Platelets"
+        "White blood cells"
       ],
       "correctAnswer": "Plasma"
     },
@@ -807,9 +807,9 @@
       "question": "What percentage of human body weight comes from blood?",
       "options": [
         "3 to 4%",
-        "5 to 6%",
         "7 to 8%",
-        "9 to 10%"
+        "9 to 10%",
+        "5 to 6%"
       ],
       "correctAnswer": "7 to 8%"
     },
@@ -819,8 +819,8 @@
       "options": [
         "More than 100",
         "More than 1000",
-        "More than 4000",
-        "More than 10000"
+        "More than 10000",
+        "More than 4000"
       ],
       "correctAnswer": "More than 4000"
     },
@@ -828,9 +828,9 @@
       "id": 75,
       "question": "What is the primary function of red blood cells?",
       "options": [
-        "Fight infections",
         "Carry oxygen to tissues",
         "Help blood clot",
+        "Fight infections",
         "Transport hormones"
       ],
       "correctAnswer": "Carry oxygen to tissues"
@@ -839,10 +839,10 @@
       "id": 76,
       "question": "What is the primary function of white blood cells?",
       "options": [
-        "Carry oxygen",
-        "Fight infections",
         "Clot blood",
-        "Transport nutrients"
+        "Fight infections",
+        "Transport nutrients",
+        "Carry oxygen"
       ],
       "correctAnswer": "Fight infections"
     },
@@ -850,10 +850,10 @@
       "id": 77,
       "question": "What is the primary function of platelets?",
       "options": [
-        "Carry oxygen",
         "Fight infections",
-        "Help blood clot",
-        "Transport waste"
+        "Carry oxygen",
+        "Transport waste",
+        "Help blood clot"
       ],
       "correctAnswer": "Help blood clot"
     },
@@ -861,10 +861,10 @@
       "id": 78,
       "question": "What is another name for red blood cells?",
       "options": [
-        "Leukocytes",
-        "Erythrocytes",
         "Thrombocytes",
-        "Lymphocytes"
+        "Lymphocytes",
+        "Erythrocytes",
+        "Leukocytes"
       ],
       "correctAnswer": "Erythrocytes"
     },
@@ -872,10 +872,10 @@
       "id": 79,
       "question": "Do red blood cells have nuclei?",
       "options": [
-        "Yes",
         "No",
         "Only when young",
-        "Only when old"
+        "Only when old",
+        "Yes"
       ],
       "correctAnswer": "No"
     },
@@ -883,9 +883,9 @@
       "id": 80,
       "question": "What percentage of total blood volume do red blood cells normally make up?",
       "options": [
-        "20 to 30%",
         "30 to 40%",
         "40 to 50%",
+        "20 to 30%",
         "50 to 60%"
       ],
       "correctAnswer": "40 to 50%"
@@ -895,9 +895,9 @@
       "question": "Where are red blood cells produced?",
       "options": [
         "Liver",
-        "Spleen",
         "Bone marrow",
-        "Lymph nodes"
+        "Lymph nodes",
+        "Spleen"
       ],
       "correctAnswer": "Bone marrow"
     },
@@ -905,8 +905,8 @@
       "id": 82,
       "question": "At what rate are red blood cells produced?",
       "options": [
-        "500,000 per second",
         "1 million per second",
+        "500,000 per second",
         "2 to 3 million per second",
         "5 million per second"
       ],
@@ -916,10 +916,10 @@
       "id": 83,
       "question": "What protein makes up 95% of a red blood cell?",
       "options": [
-        "Fibrinogen",
-        "Haemoglobin",
         "Myoglobin",
-        "Albumin"
+        "Albumin",
+        "Fibrinogen",
+        "Haemoglobin"
       ],
       "correctAnswer": "Haemoglobin"
     },
@@ -927,10 +927,10 @@
       "id": 84,
       "question": "What mineral is contained in haemoglobin?",
       "options": [
-        "Copper",
         "Zinc",
-        "Iron",
-        "Magnesium"
+        "Copper",
+        "Magnesium",
+        "Iron"
       ],
       "correctAnswer": "Iron"
     },
@@ -939,9 +939,9 @@
       "question": "People who are anemic generally have a deficiency in which cells?",
       "options": [
         "White blood cells",
-        "Platelets",
         "Red blood cells",
-        "Plasma cells"
+        "Plasma cells",
+        "Platelets"
       ],
       "correctAnswer": "Red blood cells"
     },
@@ -949,9 +949,9 @@
       "id": 86,
       "question": "Why do anemic people feel fatigued?",
       "options": [
+        "Due to low blood sugar",
         "Due to excess iron",
         "Due to a shortage of oxygen",
-        "Due to low blood sugar",
         "Due to high blood pressure"
       ],
       "correctAnswer": "Due to a shortage of oxygen"
@@ -960,10 +960,10 @@
       "id": 87,
       "question": "What is the colour of blood primarily due to?",
       "options": [
-        "White blood cells",
         "Plasma",
-        "Oxygenated red cells",
-        "Platelets"
+        "Platelets",
+        "White blood cells",
+        "Oxygenated red cells"
       ],
       "correctAnswer": "Oxygenated red cells"
     },
@@ -971,10 +971,10 @@
       "id": 88,
       "question": "How do fetal haemoglobin molecules differ from adult haemoglobin?",
       "options": [
-        "In size",
-        "In number of amino acid chains",
         "In colour",
-        "In iron content"
+        "In iron content",
+        "In number of amino acid chains",
+        "In size"
       ],
       "correctAnswer": "In number of amino acid chains"
     },
@@ -982,10 +982,10 @@
       "id": 89,
       "question": "How many amino acid chains does fetal haemoglobin have?",
       "options": [
-        "Two",
+        "Five",
         "Three",
-        "Four",
-        "Five"
+        "Two",
+        "Four"
       ],
       "correctAnswer": "Three"
     },
@@ -993,9 +993,9 @@
       "id": 90,
       "question": "How many amino acid chains does adult haemoglobin have?",
       "options": [
-        "Two",
-        "Three",
         "Four",
+        "Three",
+        "Two",
         "Five"
       ],
       "correctAnswer": "Two"
@@ -1005,8 +1005,8 @@
       "question": "Why does losing the nucleus give red blood cells more space?",
       "options": [
         "For water",
-        "For haemoglobin",
         "For oxygen",
+        "For haemoglobin",
         "For glucose"
       ],
       "correctAnswer": "For haemoglobin"
@@ -1015,10 +1015,10 @@
       "id": 92,
       "question": "What shape are red blood cells?",
       "options": [
+        "Irregular",
         "Spherical",
-        "Biconcave",
         "Cuboidal",
-        "Irregular"
+        "Biconcave"
       ],
       "correctAnswer": "Biconcave"
     },
@@ -1027,9 +1027,9 @@
       "question": "What advantage does the biconcave shape give red blood cells?",
       "options": [
         "More strength",
-        "Larger surface area for gaseous diffusion",
+        "Better attachment",
         "Faster movement",
-        "Better attachment"
+        "Larger surface area for gaseous diffusion"
       ],
       "correctAnswer": "Larger surface area for gaseous diffusion"
     },
@@ -1037,10 +1037,10 @@
       "id": 94,
       "question": "What enables oxygen and carbon dioxide to diffuse in and out of red blood cells rapidly?",
       "options": [
-        "Thick membrane",
-        "Very thin cell surface membrane",
         "Large nucleus",
-        "Many organelles"
+        "Thick membrane",
+        "Many organelles",
+        "Very thin cell surface membrane"
       ],
       "correctAnswer": "Very thin cell surface membrane"
     },
@@ -1048,9 +1048,9 @@
       "id": 95,
       "question": "What allows red blood cells to squeeze along the narrowest blood capillaries?",
       "options": [
+        "Round shape",
         "Small size",
         "Flexible cell surface membrane",
-        "Round shape",
         "Hard shell"
       ],
       "correctAnswer": "Flexible cell surface membrane"
@@ -1059,10 +1059,10 @@
       "id": 96,
       "question": "What is another name for white blood cells?",
       "options": [
+        "Phagocytes",
         "Erythrocytes",
-        "Leukocytes",
         "Thrombocytes",
-        "Phagocytes"
+        "Leukocytes"
       ],
       "correctAnswer": "Leukocytes"
     },
@@ -1070,10 +1070,10 @@
       "id": 97,
       "question": "What percentage of blood volume do white blood cells make up in healthy people?",
       "options": [
-        "About 1%",
         "About 5%",
-        "About 10%",
-        "About 15%"
+        "About 1%",
+        "About 15%",
+        "About 10%"
       ],
       "correctAnswer": "About 1%"
     },
@@ -1081,10 +1081,10 @@
       "id": 98,
       "question": "Where else besides blood are white blood cells found?",
       "options": [
-        "Only in lymph",
-        "Spleen, liver, and lymph glands",
+        "Only in the thymus",
         "Only in bone marrow",
-        "Only in the thymus"
+        "Spleen, liver, and lymph glands",
+        "Only in lymph"
       ],
       "correctAnswer": "Spleen, liver, and lymph glands"
     },
@@ -1092,10 +1092,10 @@
       "id": 99,
       "question": "Where are most white blood cells produced?",
       "options": [
-        "Thymus gland",
-        "Spleen",
+        "Lymph nodes",
         "Bone marrow",
-        "Lymph nodes"
+        "Spleen",
+        "Thymus gland"
       ],
       "correctAnswer": "Bone marrow"
     },
@@ -1103,9 +1103,9 @@
       "id": 100,
       "question": "Where are some white blood cells produced besides the bone marrow?",
       "options": [
-        "Liver",
         "Spleen",
         "Thymus gland",
+        "Liver",
         "Kidneys"
       ],
       "correctAnswer": "Thymus gland"
@@ -1114,10 +1114,10 @@
       "id": 101,
       "question": "Where is the thymus gland located?",
       "options": [
-        "In the chest",
-        "At the base of the neck",
         "Behind the stomach",
-        "In the head"
+        "In the head",
+        "At the base of the neck",
+        "In the chest"
       ],
       "correctAnswer": "At the base of the neck"
     },
@@ -1125,10 +1125,10 @@
       "id": 102,
       "question": "What type of white blood cells are the first responders to the immune system?",
       "options": [
-        "Granulocytes",
+        "Neutrophils",
         "Macrophages",
         "Lymphocytes",
-        "Neutrophils"
+        "Granulocytes"
       ],
       "correctAnswer": "Lymphocytes"
     },
@@ -1136,10 +1136,10 @@
       "id": 103,
       "question": "How long do individual white blood cells usually last?",
       "options": [
-        "6 to 12 hours",
+        "5 to 7 days",
         "18 to 36 hours",
-        "2 to 3 days",
-        "5 to 7 days"
+        "6 to 12 hours",
+        "2 to 3 days"
       ],
       "correctAnswer": "18 to 36 hours"
     },
@@ -1158,10 +1158,10 @@
       "id": 105,
       "question": "What type of white blood cells have a lobed nucleus?",
       "options": [
+        "Basophils",
         "Lymphocytes",
-        "Neutrophils",
         "Monocytes",
-        "Basophils"
+        "Neutrophils"
       ],
       "correctAnswer": "Neutrophils"
     },
@@ -1171,8 +1171,8 @@
       "options": [
         "Neutrophils",
         "Lymphocytes",
-        "Eosinophils",
-        "Basophils"
+        "Basophils",
+        "Eosinophils"
       ],
       "correctAnswer": "Lymphocytes"
     },
@@ -1180,10 +1180,10 @@
       "id": 107,
       "question": "What is another name for platelets?",
       "options": [
-        "Erythrocytes",
         "Leukocytes",
+        "Phagocytes",
         "Thrombocytes",
-        "Phagocytes"
+        "Erythrocytes"
       ],
       "correctAnswer": "Thrombocytes"
     },
@@ -1191,10 +1191,10 @@
       "id": 108,
       "question": "What do platelets collect at to form a temporary plug?",
       "options": [
-        "In lymph nodes",
         "Where a damaged blood vessel is leaking",
-        "In bone marrow",
-        "In the spleen"
+        "In the spleen",
+        "In lymph nodes",
+        "In bone marrow"
       ],
       "correctAnswer": "Where a damaged blood vessel is leaking"
     },
@@ -1202,10 +1202,10 @@
       "id": 109,
       "question": "What protein do platelets combine with to form a temporary plug?",
       "options": [
+        "Keratin",
         "Fibrin",
-        "Collagen",
         "Elastin",
-        "Keratin"
+        "Collagen"
       ],
       "correctAnswer": "Collagen"
     },
@@ -1213,10 +1213,10 @@
       "id": 110,
       "question": "What soluble plasma protein is changed into insoluble fibrin threads during clotting?",
       "options": [
-        "Albumin",
-        "Globulin",
         "Fibrinogen",
-        "Prothrombin"
+        "Albumin",
+        "Prothrombin",
+        "Globulin"
       ],
       "correctAnswer": "Fibrinogen"
     },
@@ -1224,10 +1224,10 @@
       "id": 111,
       "question": "What is the normal red blood cell count per microliter?",
       "options": [
-        "3 to 4 million",
-        "5 to 6 million",
         "7 to 8 million",
-        "9 to 10 million"
+        "9 to 10 million",
+        "5 to 6 million",
+        "3 to 4 million"
       ],
       "correctAnswer": "5 to 6 million"
     },
@@ -1235,10 +1235,10 @@
       "id": 112,
       "question": "What is the lifespan of red blood cells?",
       "options": [
-        "60 days",
-        "90 days",
         "120 days",
-        "150 days"
+        "60 days",
+        "150 days",
+        "90 days"
       ],
       "correctAnswer": "120 days"
     },
@@ -1246,10 +1246,10 @@
       "id": 113,
       "question": "What is the normal white blood cell count per microliter?",
       "options": [
-        "1000 to 3000",
+        "25000 to 30000",
         "5000 to 10000",
-        "15000 to 20000",
-        "25000 to 30000"
+        "1000 to 3000",
+        "15000 to 20000"
       ],
       "correctAnswer": "5000 to 10000"
     },
@@ -1258,9 +1258,9 @@
       "question": "What is the normal platelet count per microliter?",
       "options": [
         "100,000 to 200,000",
-        "250,000 to 400,000",
         "500,000 to 600,000",
-        "700,000 to 800,000"
+        "700,000 to 800,000",
+        "250,000 to 400,000"
       ],
       "correctAnswer": "250,000 to 400,000"
     },
@@ -1268,10 +1268,10 @@
       "id": 115,
       "question": "What is the lifespan of platelets?",
       "options": [
+        "12 to 14 days",
         "3 to 5 days",
         "6 to 8 days",
-        "9 to 10 days",
-        "12 to 14 days"
+        "9 to 10 days"
       ],
       "correctAnswer": "9 to 10 days"
     },
@@ -1279,8 +1279,8 @@
       "id": 116,
       "question": "What colour is plasma?",
       "options": [
-        "Red",
         "Yellow-tinted",
+        "Red",
         "Clear",
         "White"
       ],
@@ -1290,10 +1290,10 @@
       "id": 117,
       "question": "What percentage of blood volume does plasma make up?",
       "options": [
-        "35%",
-        "45%",
+        "65%",
         "55%",
-        "65%"
+        "45%",
+        "35%"
       ],
       "correctAnswer": "55%"
     },
@@ -1313,8 +1313,8 @@
       "question": "What does blood grouping depend on?",
       "options": [
         "The type of white blood cells",
-        "Which antigens are on the surface of red blood cells",
         "The number of platelets",
+        "Which antigens are on the surface of red blood cells",
         "The amount of plasma"
       ],
       "correctAnswer": "Which antigens are on the surface of red blood cells"
@@ -1323,9 +1323,9 @@
       "id": 120,
       "question": "Antigens can be either what type of molecules?",
       "options": [
+        "Carbohydrates or minerals",
         "Lipids or nucleic acids",
         "Proteins or sugars",
-        "Carbohydrates or minerals",
         "Vitamins or hormones"
       ],
       "correctAnswer": "Proteins or sugars"
@@ -1334,9 +1334,9 @@
       "id": 121,
       "question": "Scientists use which two types of antigens to classify blood types?",
       "options": [
+        "Rh and Kell antigens",
         "A and B antigens",
         "ABO antigens and Rh antigens",
-        "Rh and Kell antigens",
         "M and N antigens"
       ],
       "correctAnswer": "ABO antigens and Rh antigens"
@@ -1345,10 +1345,10 @@
       "id": 122,
       "question": "Which cells produce antibodies?",
       "options": [
-        "Red blood cells",
         "Platelets",
+        "Plasma cells",
         "White blood cells",
-        "Plasma cells"
+        "Red blood cells"
       ],
       "correctAnswer": "White blood cells"
     },
@@ -1356,10 +1356,10 @@
       "id": 123,
       "question": "Blood group A has which antigen on red blood cells?",
       "options": [
-        "B antigen",
+        "Both A and B antigens",
         "A antigen",
-        "No antigens",
-        "Both A and B antigens"
+        "B antigen",
+        "No antigens"
       ],
       "correctAnswer": "A antigen"
     },
@@ -1367,10 +1367,10 @@
       "id": 124,
       "question": "Blood group A has which antibody in the plasma?",
       "options": [
-        "Anti-A",
-        "Anti-B",
         "No antibodies",
-        "Both anti-A and anti-B"
+        "Anti-A",
+        "Both anti-A and anti-B",
+        "Anti-B"
       ],
       "correctAnswer": "Anti-B"
     },
@@ -1379,9 +1379,9 @@
       "question": "Blood group B has which antigen on red blood cells?",
       "options": [
         "A antigen",
+        "Both A and B antigens",
         "B antigen",
-        "No antigens",
-        "Both A and B antigens"
+        "No antigens"
       ],
       "correctAnswer": "B antigen"
     },
@@ -1389,10 +1389,10 @@
       "id": 126,
       "question": "Blood group B has which antibody in the plasma?",
       "options": [
-        "Anti-B",
+        "Both anti-A and anti-B",
         "Anti-A",
-        "No antibodies",
-        "Both anti-A and anti-B"
+        "Anti-B",
+        "No antibodies"
       ],
       "correctAnswer": "Anti-A"
     },
@@ -1400,10 +1400,10 @@
       "id": 127,
       "question": "Blood group AB has which antigens on red blood cells?",
       "options": [
-        "A antigen only",
-        "B antigen only",
         "Both A and B antigens",
-        "No antigens"
+        "B antigen only",
+        "No antigens",
+        "A antigen only"
       ],
       "correctAnswer": "Both A and B antigens"
     },
@@ -1411,10 +1411,10 @@
       "id": 128,
       "question": "Blood group AB has which antibodies in the plasma?",
       "options": [
+        "Both anti-A and anti-B",
         "Anti-A",
         "Anti-B",
-        "No anti-A or anti-B antibodies",
-        "Both anti-A and anti-B"
+        "No anti-A or anti-B antibodies"
       ],
       "correctAnswer": "No anti-A or anti-B antibodies"
     },
@@ -1423,9 +1423,9 @@
       "question": "Blood group O has which antigens on red blood cells?",
       "options": [
         "A antigen",
-        "B antigen",
         "Both A and B antigens",
-        "No A or B antigens"
+        "No A or B antigens",
+        "B antigen"
       ],
       "correctAnswer": "No A or B antigens"
     },
@@ -1433,10 +1433,10 @@
       "id": 130,
       "question": "Blood group O has which antibodies in the plasma?",
       "options": [
-        "No antibodies",
         "Only anti-A",
-        "Only anti-B",
-        "Both anti-A and anti-B"
+        "No antibodies",
+        "Both anti-A and anti-B",
+        "Only anti-B"
       ],
       "correctAnswer": "Both anti-A and anti-B"
     },
@@ -1445,9 +1445,9 @@
       "question": "Which blood group can receive any ABO blood type?",
       "options": [
         "Group O",
-        "Group A",
+        "Group AB",
         "Group B",
-        "Group AB"
+        "Group A"
       ],
       "correctAnswer": "Group AB"
     },
@@ -1455,9 +1455,9 @@
       "id": 132,
       "question": "Which blood group can be given to any ABO blood type?",
       "options": [
-        "Group AB",
         "Group A",
         "Group B",
+        "Group AB",
         "Group O"
       ],
       "correctAnswer": "Group O"
@@ -1468,8 +1468,8 @@
       "options": [
         "1920s",
         "1930s",
-        "1940s",
-        "1950s"
+        "1950s",
+        "1940s"
       ],
       "correctAnswer": "1940s"
     },
@@ -1478,8 +1478,8 @@
       "question": "What percentage of the population is Rhesus positive (Rh+)?",
       "options": [
         "65%",
-        "75%",
         "85%",
+        "75%",
         "95%"
       ],
       "correctAnswer": "85%"
@@ -1488,8 +1488,8 @@
       "id": 135,
       "question": "What percentage of the population is Rhesus negative (Rh-)?",
       "options": [
-        "5%",
         "10%",
+        "5%",
         "15%",
         "25%"
       ],
@@ -1499,10 +1499,10 @@
       "id": 136,
       "question": "Can Rh- individuals donate blood to Rh+ individuals?",
       "options": [
-        "Yes",
+        "Only with medication",
         "No",
-        "Only in emergencies",
-        "Only with medication"
+        "Yes",
+        "Only in emergencies"
       ],
       "correctAnswer": "Yes"
     },
@@ -1510,10 +1510,10 @@
       "id": 137,
       "question": "Should Rh- individuals receive Rh+ blood?",
       "options": [
-        "Yes",
-        "No",
         "Only once",
-        "Only if necessary"
+        "Yes",
+        "Only if necessary",
+        "No"
       ],
       "correctAnswer": "No"
     },
@@ -1521,10 +1521,10 @@
       "id": 138,
       "question": "What condition occurs when an Rh- mother's antibodies attack the red blood cells of an Rh+ fetus?",
       "options": [
-        "Anemia",
         "Erythroblastosis fetalis",
-        "Leukemia",
-        "Thalassemia"
+        "Thalassemia",
+        "Anemia",
+        "Leukemia"
       ],
       "correctAnswer": "Erythroblastosis fetalis"
     },
@@ -1532,10 +1532,10 @@
       "id": 139,
       "question": "What separates the blood of the mother and baby during pregnancy?",
       "options": [
-        "Amniotic sac",
-        "Placenta",
         "Umbilical cord",
-        "Uterus"
+        "Uterus",
+        "Placenta",
+        "Amniotic sac"
       ],
       "correctAnswer": "Placenta"
     },
@@ -1544,8 +1544,8 @@
       "question": "What happens to the mother's immune system when exposed to Rh+ antigens?",
       "options": [
         "It ignores them",
-        "It triggers the production of antibodies",
         "It destroys them immediately",
+        "It triggers the production of antibodies",
         "It becomes tolerant"
       ],
       "correctAnswer": "It triggers the production of antibodies"
@@ -1554,10 +1554,10 @@
       "id": 141,
       "question": "What are symptoms of erythroblastosis fetalis?",
       "options": [
-        "Fever and rash",
+        "Cough and difficulty breathing",
         "Anemia, jaundice, and enlarged liver",
-        "Headache and nausea",
-        "Cough and difficulty breathing"
+        "Fever and rash",
+        "Headache and nausea"
       ],
       "correctAnswer": "Anemia, jaundice, and enlarged liver"
     },
@@ -1565,10 +1565,10 @@
       "id": 142,
       "question": "What is the process of transferring blood from a healthy person to a person deficient in blood called?",
       "options": [
-        "Blood donation",
+        "Blood clotting",
         "Blood transfusion",
-        "Blood typing",
-        "Blood clotting"
+        "Blood donation",
+        "Blood typing"
       ],
       "correctAnswer": "Blood transfusion"
     },
@@ -1576,10 +1576,10 @@
       "id": 143,
       "question": "What is the phenomenon when red blood cells stick together due to incompatible blood types?",
       "options": [
-        "Agglutination",
+        "Phagocytosis",
         "Coagulation",
         "Hemolysis",
-        "Phagocytosis"
+        "Agglutination"
       ],
       "correctAnswer": "Agglutination"
     },
@@ -1589,8 +1589,8 @@
       "options": [
         "A",
         "B",
-        "AB",
-        "O"
+        "O",
+        "AB"
       ],
       "correctAnswer": "O"
     },
@@ -1598,9 +1598,9 @@
       "id": 145,
       "question": "Which blood group is termed the Universal Recipient?",
       "options": [
-        "A",
-        "B",
         "AB",
+        "B",
+        "A",
         "O"
       ],
       "correctAnswer": "AB"
@@ -1609,10 +1609,10 @@
       "id": 146,
       "question": "What is the fluid transported through lymphatic vessels called?",
       "options": [
-        "Plasma",
+        "Chyle",
         "Serum",
-        "Lymph",
-        "Chyle"
+        "Plasma",
+        "Lymph"
       ],
       "correctAnswer": "Lymph"
     },
@@ -1620,10 +1620,10 @@
       "id": 147,
       "question": "Lymph is similar to which fluid?",
       "options": [
-        "Cerebrospinal fluid",
-        "Blood plasma",
         "Intracellular fluid",
-        "Synovial fluid"
+        "Synovial fluid",
+        "Cerebrospinal fluid",
+        "Blood plasma"
       ],
       "correctAnswer": "Blood plasma"
     },
@@ -1631,10 +1631,10 @@
       "id": 148,
       "question": "What type of vessels are lymphatic vessels open-ended like?",
       "options": [
-        "Arteries",
-        "Capillaries",
         "Veins",
-        "Arterioles"
+        "Arterioles",
+        "Arteries",
+        "Capillaries"
       ],
       "correctAnswer": "Veins"
     },
@@ -1643,8 +1643,8 @@
       "question": "What prevents back flow of fluid in lymphatic vessels?",
       "options": [
         "Muscles",
-        "Flap-like valves",
         "Pumps",
+        "Flap-like valves",
         "Gravity"
       ],
       "correctAnswer": "Flap-like valves"
@@ -1653,10 +1653,10 @@
       "id": 150,
       "question": "Through which veins does the lymphatic system return lymph to the venous system?",
       "options": [
+        "Hepatic veins",
         "Jugular veins",
-        "Right and left subclavian veins",
         "Femoral veins",
-        "Hepatic veins"
+        "Right and left subclavian veins"
       ],
       "correctAnswer": "Right and left subclavian veins"
     },
@@ -1665,8 +1665,8 @@
       "question": "What are the enlargements that appear in the lymph channel at regular intervals?",
       "options": [
         "Lymph nodes",
-        "Lymph capillaries",
         "Lymph ducts",
+        "Lymph capillaries",
         "Lymph trunks"
       ],
       "correctAnswer": "Lymph nodes"
@@ -1675,9 +1675,9 @@
       "id": 152,
       "question": "What process do white blood cells in lymph nodes use to filter out bacteria?",
       "options": [
+        "Exocytosis",
         "Phagocytosis",
         "Pinocytosis",
-        "Exocytosis",
         "Osmosis"
       ],
       "correctAnswer": "Phagocytosis"
@@ -1686,10 +1686,10 @@
       "id": 153,
       "question": "What happens to lymph nodes in your neck when you have a sore throat?",
       "options": [
-        "They shrink",
         "They expand",
+        "They harden",
         "They disappear",
-        "They harden"
+        "They shrink"
       ],
       "correctAnswer": "They expand"
     },
@@ -1697,9 +1697,9 @@
       "id": 154,
       "question": "What is the milky-appearing lymph in the lacteals called?",
       "options": [
-        "Plasma",
         "Serum",
         "Chyle",
+        "Plasma",
         "Edema"
       ],
       "correctAnswer": "Chyle"
@@ -1719,8 +1719,8 @@
       "id": 156,
       "question": "Which lymphatic duct drains lymph from the upper right quadrant of the body?",
       "options": [
-        "Thoracic duct",
         "Right lymphatic duct",
+        "Thoracic duct",
         "Left lymphatic duct",
         "Subclavian duct"
       ],
@@ -1730,10 +1730,10 @@
       "id": 157,
       "question": "Which lymphatic duct drains the remainder of the body?",
       "options": [
-        "Right lymphatic duct",
-        "Thoracic duct",
+        "Jugular duct",
         "Subclavian duct",
-        "Jugular duct"
+        "Right lymphatic duct",
+        "Thoracic duct"
       ],
       "correctAnswer": "Thoracic duct"
     },
@@ -1741,10 +1741,10 @@
       "id": 158,
       "question": "What causes the pressure gradients that move lymph through vessels?",
       "options": [
-        "Heart beat",
-        "Skeletal muscle action, respiratory movement, and smooth muscle contraction",
         "Gravity",
-        "Blood pressure"
+        "Skeletal muscle action, respiratory movement, and smooth muscle contraction",
+        "Blood pressure",
+        "Heart beat"
       ],
       "correctAnswer": "Skeletal muscle action, respiratory movement, and smooth muscle contraction"
     },
@@ -1753,9 +1753,9 @@
       "question": "Where are lymphocytes formed alongside other types of blood cells?",
       "options": [
         "Lymph nodes",
+        "Thymus",
         "Spleen",
-        "Red bone marrow",
-        "Thymus"
+        "Red bone marrow"
       ],
       "correctAnswer": "Red bone marrow"
     },
@@ -1763,8 +1763,8 @@
       "id": 160,
       "question": "Which of the following is a lymphatic organ?",
       "options": [
-        "Liver",
         "Pancreas",
+        "Liver",
         "Spleen",
         "Kidney"
       ],
@@ -1774,10 +1774,10 @@
       "id": 161,
       "question": "Where is the spleen located?",
       "options": [
-        "Lower right abdominal cavity",
-        "Upper left abdominal cavity",
+        "Lower left abdominal cavity",
         "Upper right abdominal cavity",
-        "Lower left abdominal cavity"
+        "Lower right abdominal cavity",
+        "Upper left abdominal cavity"
       ],
       "correctAnswer": "Upper left abdominal cavity"
     },
@@ -1785,10 +1785,10 @@
       "id": 162,
       "question": "What is the function of the thymus?",
       "options": [
-        "Filters blood",
-        "Produces bile",
         "Processes and matures T-lymphocytes",
-        "Stores urine"
+        "Produces bile",
+        "Stores urine",
+        "Filters blood"
       ],
       "correctAnswer": "Processes and matures T-lymphocytes"
     },
@@ -1798,8 +1798,8 @@
       "options": [
         "Posterior to the sternum",
         "In the abdominal cavity",
-        "Behind the kidneys",
-        "In the pelvic cavity"
+        "In the pelvic cavity",
+        "Behind the kidneys"
       ],
       "correctAnswer": "Posterior to the sternum"
     },
@@ -1807,10 +1807,10 @@
       "id": 164,
       "question": "When does the thymus begin to shrink?",
       "options": [
-        "After childhood",
         "After puberty",
         "After age 30",
-        "After age 50"
+        "After age 50",
+        "After childhood"
       ],
       "correctAnswer": "After puberty"
     },
@@ -1819,9 +1819,9 @@
       "question": "What hormone produced by the thymus stimulates the maturation of lymphocytes?",
       "options": [
         "Thymosin",
-        "Thyroxine",
+        "Cortisol",
         "Insulin",
-        "Cortisol"
+        "Thyroxine"
       ],
       "correctAnswer": "Thymosin"
     },
@@ -1829,9 +1829,9 @@
       "id": 166,
       "question": "What is leukemia?",
       "options": [
+        "A heart condition",
         "A disease of the lymph nodes",
         "A type of cancer affecting blood-forming tissues",
-        "A heart condition",
         "A blood clotting disorder"
       ],
       "correctAnswer": "A type of cancer affecting blood-forming tissues"
@@ -1840,10 +1840,10 @@
       "id": 167,
       "question": "What are the symptoms of rapidly progressing leukemia?",
       "options": [
+        "Joint pain and swelling",
         "Fever and chills",
         "Fatigue, weight loss, frequent infections, easy bleeding or bruising",
-        "Cough and shortness of breath",
-        "Joint pain and swelling"
+        "Cough and shortness of breath"
       ],
       "correctAnswer": "Fatigue, weight loss, frequent infections, easy bleeding or bruising"
     },
@@ -1851,8 +1851,8 @@
       "id": 168,
       "question": "What is used to treat aggressive leukemia?",
       "options": [
-        "Only medication",
         "Chemotherapy, sometimes followed by radiation and stem-cell transplant",
+        "Only medication",
         "Surgery only",
         "Blood transfusion only"
       ],
@@ -1862,10 +1862,10 @@
       "id": 169,
       "question": "What are varicose veins?",
       "options": [
-        "Narrowed arteries",
+        "Hardened arteries",
         "Enlarged, swollen, and twisting veins",
         "Blocked lymphatic vessels",
-        "Hardened arteries"
+        "Narrowed arteries"
       ],
       "correctAnswer": "Enlarged, swollen, and twisting veins"
     },
@@ -1873,10 +1873,10 @@
       "id": 170,
       "question": "What colour do varicose veins often have?",
       "options": [
-        "Red",
-        "Blue or dark purple",
         "Green",
-        "Yellow"
+        "Yellow",
+        "Red",
+        "Blue or dark purple"
       ],
       "correctAnswer": "Blue or dark purple"
     },
@@ -1884,8 +1884,8 @@
       "id": 171,
       "question": "What percentage of adults are thought to be affected by varicose veins?",
       "options": [
-        "More than 10%",
         "More than 23%",
+        "More than 10%",
         "More than 35%",
         "More than 50%"
       ],
@@ -1895,9 +1895,9 @@
       "id": 172,
       "question": "Which group of people is more prone to varicose veins?",
       "options": [
-        "Athletes",
-        "Pregnant women and overweight people",
         "Children",
+        "Pregnant women and overweight people",
+        "Athletes",
         "Elderly men only"
       ],
       "correctAnswer": "Pregnant women and overweight people"
@@ -1907,9 +1907,9 @@
       "question": "What is elephantiasis caused by?",
       "options": [
         "Viral infection",
+        "High blood pressure",
         "Blockage in the lymphatic system",
-        "Heart disease",
-        "High blood pressure"
+        "Heart disease"
       ],
       "correctAnswer": "Blockage in the lymphatic system"
     },
@@ -1917,10 +1917,10 @@
       "id": 174,
       "question": "What causes elephantiasis?",
       "options": [
-        "Bacteria",
         "Parasitic worms transmitted by mosquitoes",
-        "Virus",
-        "Fungus"
+        "Fungus",
+        "Bacteria",
+        "Virus"
       ],
       "correctAnswer": "Parasitic worms transmitted by mosquitoes"
     },
@@ -1928,9 +1928,9 @@
       "id": 175,
       "question": "Which worms are involved in causing elephantiasis?",
       "options": [
-        "Ascaris, Trichinella, and Taenia",
         "Wuchereria bancrofti, Brugia malayi, and Brugia timori",
         "Schistosoma and Necator",
+        "Ascaris, Trichinella, and Taenia",
         "Enterobius and Ancylostoma"
       ],
       "correctAnswer": "Wuchereria bancrofti, Brugia malayi, and Brugia timori"
@@ -1939,10 +1939,10 @@
       "id": 176,
       "question": "What is atherosclerosis?",
       "options": [
-        "Hardening of the veins",
+        "Blockage of lymph vessels",
         "Accumulation of plaque in artery walls",
-        "Inflammation of the heart",
-        "Blockage of lymph vessels"
+        "Hardening of the veins",
+        "Inflammation of the heart"
       ],
       "correctAnswer": "Accumulation of plaque in artery walls"
     },
@@ -1950,9 +1950,9 @@
       "id": 177,
       "question": "What can result from a blood clot forming in narrowed arteries?",
       "options": [
-        "Varicose veins",
-        "Elephantiasis",
         "Heart attack or stroke",
+        "Elephantiasis",
+        "Varicose veins",
         "Leukemia"
       ],
       "correctAnswer": "Heart attack or stroke"
@@ -1961,10 +1961,10 @@
       "id": 178,
       "question": "What occurs when a blood clot blocks blood flow to a portion of the heart?",
       "options": [
-        "Stroke",
+        "Heart failure",
         "Heart attack",
         "Arrhythmia",
-        "Heart failure"
+        "Stroke"
       ],
       "correctAnswer": "Heart attack"
     },
@@ -1972,8 +1972,8 @@
       "id": 179,
       "question": "What is stroke?",
       "options": [
-        "A heart condition",
         "A cerebrovascular disease where blood supply to the brain is interrupted",
+        "A heart condition",
         "A lung disease",
         "A kidney disease"
       ],
@@ -1984,9 +1984,9 @@
       "question": "What is the most common type of stroke?",
       "options": [
         "Hemorrhagic stroke",
-        "Ischemic stroke",
+        "Brain aneurysm",
         "Transient ischemic attack",
-        "Brain aneurysm"
+        "Ischemic stroke"
       ],
       "correctAnswer": "Ischemic stroke"
     },
@@ -1994,10 +1994,10 @@
       "id": 181,
       "question": "What causes a hemorrhagic stroke?",
       "options": [
-        "A blood clot",
-        "A blood vessel in the brain bursts",
         "Narrowing of arteries",
-        "Heart failure"
+        "A blood vessel in the brain bursts",
+        "Heart failure",
+        "A blood clot"
       ],
       "correctAnswer": "A blood vessel in the brain bursts"
     },
@@ -2007,8 +2007,8 @@
       "options": [
         "Diabetes",
         "Uncontrolled hypertension (high blood pressure)",
-        "High cholesterol",
-        "Smoking"
+        "Smoking",
+        "High cholesterol"
       ],
       "correctAnswer": "Uncontrolled hypertension (high blood pressure)"
     },
@@ -2016,10 +2016,10 @@
       "id": 183,
       "question": "What is heart failure also known as?",
       "options": [
-        "Cardiac arrest",
-        "Congestive heart failure",
+        "Coronary artery disease",
         "Heart attack",
-        "Coronary artery disease"
+        "Cardiac arrest",
+        "Congestive heart failure"
       ],
       "correctAnswer": "Congestive heart failure"
     },
@@ -2028,9 +2028,9 @@
       "question": "Does heart failure mean the heart ceases to beat?",
       "options": [
         "Yes",
-        "No",
+        "Only in severe cases",
         "Sometimes",
-        "Only in severe cases"
+        "No"
       ],
       "correctAnswer": "No"
     },
@@ -2038,10 +2038,10 @@
       "id": 185,
       "question": "What is an abnormal heart rhythm called?",
       "options": [
-        "Murmur",
-        "Arrhythmia",
         "Systole",
-        "Diastole"
+        "Murmur",
+        "Diastole",
+        "Arrhythmia"
       ],
       "correctAnswer": "Arrhythmia"
     },
@@ -2049,10 +2049,10 @@
       "id": 186,
       "question": "What is bradycardia?",
       "options": [
+        "Skipped heartbeat",
         "Heart rate more than 100 beats per minute",
-        "Heart rate less than 60 beats per minute",
         "Irregular heartbeat",
-        "Skipped heartbeat"
+        "Heart rate less than 60 beats per minute"
       ],
       "correctAnswer": "Heart rate less than 60 beats per minute"
     },
@@ -2061,9 +2061,9 @@
       "question": "What is tachycardia?",
       "options": [
         "Heart rate less than 60 beats per minute",
+        "Heart murmur",
         "Heart rate more than 100 beats per minute",
-        "Irregular heartbeat",
-        "Heart murmur"
+        "Irregular heartbeat"
       ],
       "correctAnswer": "Heart rate more than 100 beats per minute"
     }

@@ -1,0 +1,246 @@
+{
+  "title": "2.3 Characteristics of a Computer System",
+  "description": "Speed, accuracy, storage, versatility and other characteristics",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "How fast can computers execute instructions depending on processor clock speed?",
+      "options": [
+        "C. Hundreds per second",
+        "B. Millions or billions of instructions per second",
+        "D. Only a few per second",
+        "A. Thousands per second"
+      ],
+      "correctAnswer": "B. Millions or billions of instructions per second"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "On what does the accuracy of a computer depend?",
+      "options": [
+        "C. Correctness of input and programming of instructions",
+        "A. The size of the screen",
+        "B. The color of the case",
+        "D. The number of users"
+      ],
+      "correctAnswer": "C. Correctness of input and programming of instructions"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Computers operate on which type of logic to ensure accuracy?",
+      "options": [
+        "D. Symbolic logic",
+        "A. Decimal logic",
+        "B. Analog logic",
+        "C. Precise binary logic"
+      ],
+      "correctAnswer": "C. Precise binary logic"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What is the function of RAM in a computer system?",
+      "options": [
+        "D. Displaying output",
+        "A. Permanent storage for all files",
+        "C. Cooling the CPU",
+        "B. Temporary storage for data and instructions currently being processed"
+      ],
+      "correctAnswer": "B. Temporary storage for data and instructions currently being processed"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which of the following is an example of secondary storage?",
+      "options": [
+        "B. Registers",
+        "C. Solid-state drive",
+        "A. CPU cache",
+        "D. ALU"
+      ],
+      "correctAnswer": "C. Solid-state drive"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What characteristic allows computers to be used for different tasks by changing software?",
+      "options": [
+        "D. Simplicity",
+        "C. Immobility",
+        "B. Rigidity",
+        "A. Versatility"
+      ],
+      "correctAnswer": "A. Versatility"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What types of data can computers process?",
+      "options": [
+        "B. Only text",
+        "D. Text, images, audio, video and other data",
+        "C. Only images",
+        "A. Only numbers"
+      ],
+      "correctAnswer": "D. Text, images, audio, video and other data"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What is automation in the context of computers?",
+      "options": [
+        "A. Manual task performance",
+        "D. Physical exercise",
+        "B. Repetitive tasks performed by programming",
+        "C. Random guessing"
+      ],
+      "correctAnswer": "B. Repetitive tasks performed by programming"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What is a benefit of computer automation?",
+      "options": [
+        "D. Slower processes",
+        "C. More errors",
+        "A. Decreased productivity",
+        "B. Increased efficiency and accuracy"
+      ],
+      "correctAnswer": "B. Increased efficiency and accuracy"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What does computer security primarily protect against?",
+      "options": [
+        "D. Power color",
+        "A. Dust",
+        "B. Unauthorized access, breaches, and malicious activities",
+        "C. Screen glare"
+      ],
+      "correctAnswer": "B. Unauthorized access, breaches, and malicious activities"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which of the following is a security mechanism used in computers?",
+      "options": [
+        "D. Evaporation",
+        "C. Distillation",
+        "B. Amplification",
+        "A. Encryption"
+      ],
+      "correctAnswer": "A. Encryption"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "What is meant by reliability of a computer system?",
+      "options": [
+        "A. Consistent and accurate performance of intended functions",
+        "B. Random crashes",
+        "C. Occasional errors",
+        "D. Unpredictable behavior"
+      ],
+      "correctAnswer": "A. Consistent and accurate performance of intended functions"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What does scalability refer to in a computer system?",
+      "options": [
+        "B. Inability to expand",
+        "C. Fixed capacity",
+        "D. Constant size",
+        "A. Ability to accommodate workload changes without significant performance degradation"
+      ],
+      "correctAnswer": "A. Ability to accommodate workload changes without significant performance degradation"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What does compatibility mean for computers?",
+      "options": [
+        "B. Only working alone",
+        "D. Being incompatible",
+        "C. Rejecting all files",
+        "A. Working efficiently with different hardware, software, or data formats"
+      ],
+      "correctAnswer": "A. Working efficiently with different hardware, software, or data formats"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What does upgradeability allow a computer system to do?",
+      "options": [
+        "B. Become obsolete",
+        "D. Lose functions",
+        "A. Enhance or expand capabilities by adding/replacing hardware or upgrading software",
+        "C. Shrink in size"
+      ],
+      "correctAnswer": "A. Enhance or expand capabilities by adding/replacing hardware or upgrading software"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Which of the following best describes storage capacity of computers?",
+      "options": [
+        "C. Cannot store any data",
+        "D. Only stores one file",
+        "A. Very limited space only",
+        "B. Can store massive amounts of data"
+      ],
+      "correctAnswer": "B. Can store massive amounts of data"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "True or False: A computer will always produce accurate results regardless of incorrect input.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "True or False: Automation allows humans to focus on more complex and creative tasks.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "True or False: RAM provides permanent storage for data.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "True or False: Security measures include authentication, firewalls, and antivirus software.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    }
+  ]
+}

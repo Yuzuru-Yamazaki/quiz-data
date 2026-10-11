@@ -4,17 +4,21 @@
   "folder": "School/Grade 11/Physics/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["physics", "grade11", "unit1"],
+  "tags": [
+    "physics",
+    "grade11",
+    "unit1"
+  ],
   "questions": [
     {
       "id": 1,
       "anki": true,
       "question": "What is the mission of physics?",
       "options": [
-        "To advance science, engineering, and innovation throughout the world for the benefit of all, and in doing so serve society",
+        "To study only the stars and planets in space",
         "To build machines and devices for private companies only",
         "To generate electricity for homes and industries",
-        "To study only the stars and planets in space"
+        "To advance science, engineering, and innovation throughout the world for the benefit of all, and in doing so serve society"
       ],
       "correctAnswer": "To advance science, engineering, and innovation throughout the world for the benefit of all, and in doing so serve society"
     },
@@ -23,8 +27,8 @@
       "anki": true,
       "question": "In serving society, physics aims to benefit all of humanity around the world. How does the mission of physics describe this goal?",
       "options": [
-        "Advancing science, engineering, and innovation for the benefit of all",
         "Designing stronger buildings and bridges",
+        "Advancing science, engineering, and innovation for the benefit of all",
         "Improving computer technology",
         "Teaching science in schools"
       ],
@@ -36,9 +40,9 @@
       "question": "A physicist works to develop new inventions and improve technology for the benefit of everyone in the world. Which statement best matches the mission of physics?",
       "options": [
         "To serve society by advancing science, engineering, and innovation",
-        "To focus only on understanding the universe",
+        "To replace all other fields of science",
         "To increase the profits of technology companies",
-        "To replace all other fields of science"
+        "To focus only on understanding the universe"
       ],
       "correctAnswer": "To serve society by advancing science, engineering, and innovation"
     },
@@ -47,9 +51,9 @@
       "anki": true,
       "question": "Which career studies the stars, galaxies, and planets?",
       "options": [
-        "Astronomy",
         "Meteorology",
         "Geophysics",
+        "Astronomy",
         "Finance"
       ],
       "correctAnswer": "Astronomy"
@@ -59,10 +63,10 @@
       "anki": true,
       "question": "Scientists who observe stars through telescopes work in which field?",
       "options": [
-        "Astronomy",
+        "Research science",
         "Engineering",
-        "Energy",
-        "Research science"
+        "Astronomy",
+        "Energy"
       ],
       "correctAnswer": "Astronomy"
     },
@@ -71,10 +75,10 @@
       "anki": true,
       "question": "A space scientist who studies stars, galaxies, and planets using telescopes and spacecraft works in which career field?",
       "options": [
-        "Space and astronomy",
         "Healthcare",
         "Technology",
-        "Meteorology"
+        "Meteorology",
+        "Space and astronomy"
       ],
       "correctAnswer": "Space and astronomy"
     },
@@ -83,10 +87,10 @@
       "anki": true,
       "question": "Which career field includes astrophysicists and astronomers?",
       "options": [
-        "Space and astronomy",
         "Energy",
-        "Teaching",
-        "Finance"
+        "Space and astronomy",
+        "Finance",
+        "Teaching"
       ],
       "correctAnswer": "Space and astronomy"
     },
@@ -95,10 +99,10 @@
       "anki": true,
       "question": "A scientist who designs radiation treatment for cancer patients is working in which career field?",
       "options": [
-        "Healthcare",
-        "Engineering",
         "Geophysics",
-        "Technology"
+        "Healthcare",
+        "Technology",
+        "Engineering"
       ],
       "correctAnswer": "Healthcare"
     },
@@ -107,9 +111,9 @@
       "anki": true,
       "question": "Which career studies weather forecasting?",
       "options": [
+        "Geophysics",
         "Meteorology",
         "Astronomy",
-        "Geophysics",
         "Research science"
       ],
       "correctAnswer": "Meteorology"
@@ -119,10 +123,10 @@
       "anki": true,
       "question": "Weather reports on the news come from scientists in which career field?",
       "options": [
+        "Data science",
         "Meteorology",
-        "Astronomy",
         "Physics teaching",
-        "Data science"
+        "Astronomy"
       ],
       "correctAnswer": "Meteorology"
     },
@@ -131,8 +135,8 @@
       "anki": true,
       "question": "Medical physicists, radiologists, and technicians who run imaging machines all work in which career field?",
       "options": [
-        "Healthcare",
         "Energy",
+        "Healthcare",
         "Space and astronomy",
         "Engineering"
       ],
@@ -143,10 +147,10 @@
       "anki": true,
       "question": "CT scans, MRI, ultrasound, and X-rays are applications of physics used in which career field?",
       "options": [
+        "Geophysics",
         "Healthcare",
-        "Finance",
         "Meteorology",
-        "Geophysics"
+        "Finance"
       ],
       "correctAnswer": "Healthcare"
     },
@@ -155,10 +159,10 @@
       "anki": true,
       "question": "The physics career that uses radiotherapy dosimetry to plan radiation treatment for cancer belongs to which field?",
       "options": [
-        "Healthcare (medical physics)",
-        "Energy",
+        "Teaching",
         "Space and astronomy",
-        "Teaching"
+        "Healthcare (medical physics)",
+        "Energy"
       ],
       "correctAnswer": "Healthcare (medical physics)"
     },
@@ -167,9 +171,9 @@
       "anki": true,
       "question": "Physicists and engineers who design machines, bridges, electrical systems, and buildings are working in which career field?",
       "options": [
-        "Engineering",
-        "Astronomy",
         "Meteorology",
+        "Astronomy",
+        "Engineering",
         "Research science"
       ],
       "correctAnswer": "Engineering"
@@ -179,10 +183,10 @@
       "anki": true,
       "question": "Engineering relies on which physics principles to design machines and structures?",
       "options": [
-        "Mechanics, materials, and electromagnetism",
-        "Astronomical observation and star charts",
         "Weather forecasting and climate models",
-        "Genetic analysis and cellular biology"
+        "Genetic analysis and cellular biology",
+        "Astronomical observation and star charts",
+        "Mechanics, materials, and electromagnetism"
       ],
       "correctAnswer": "Mechanics, materials, and electromagnetism"
     },
@@ -192,9 +196,9 @@
       "question": "A scientist designs wind turbines to produce clean electrical power. Which career field does this describe?",
       "options": [
         "Energy",
+        "Journalism",
         "Healthcare",
-        "Geophysics",
-        "Journalism"
+        "Geophysics"
       ],
       "correctAnswer": "Energy"
     },
@@ -203,9 +207,9 @@
       "anki": true,
       "question": "Designing and operating power plants and energy production sites is work done in which career field?",
       "options": [
-        "Energy",
         "Astronomy",
         "Technology",
+        "Energy",
         "Teaching"
       ],
       "correctAnswer": "Energy"
@@ -216,9 +220,9 @@
       "question": "Physics careers in renewable energy such as solar, wind, hydroelectric, and nuclear power belong to which field?",
       "options": [
         "Energy",
-        "Engineering",
+        "Space and astronomy",
         "Finance",
-        "Space and astronomy"
+        "Engineering"
       ],
       "correctAnswer": "Energy"
     },
@@ -227,9 +231,9 @@
       "anki": true,
       "question": "A career developing electronics, semiconductors, and computers belongs to which field?",
       "options": [
-        "Technology",
         "Meteorology",
         "Geophysics",
+        "Technology",
         "Healthcare"
       ],
       "correctAnswer": "Technology"
@@ -239,10 +243,10 @@
       "anki": true,
       "question": "Work on telecommunications, artificial intelligence, and robotics is found in which career field?",
       "options": [
-        "Technology",
         "Energy",
-        "Astronomy",
-        "Science writing"
+        "Science writing",
+        "Technology",
+        "Astronomy"
       ],
       "correctAnswer": "Technology"
     },
@@ -251,10 +255,10 @@
       "anki": true,
       "question": "Designing and improving machines and computing devices is the focus of which career field?",
       "options": [
-        "Technology",
-        "Meteorology",
         "Geophysics",
-        "Teaching"
+        "Teaching",
+        "Meteorology",
+        "Technology"
       ],
       "correctAnswer": "Technology"
     },
@@ -263,10 +267,10 @@
       "anki": true,
       "question": "Which career field studies the earth's structure, earthquakes, and the earth's magnetic field?",
       "options": [
-        "Geophysics",
-        "Astronomy",
+        "Finance",
         "Energy",
-        "Finance"
+        "Geophysics",
+        "Astronomy"
       ],
       "correctAnswer": "Geophysics"
     },
@@ -275,10 +279,10 @@
       "anki": true,
       "question": "A physicist who forecasts weather and studies climate works in which career field?",
       "options": [
-        "Meteorology",
+        "Technology",
         "Geophysics",
-        "Engineering",
-        "Technology"
+        "Meteorology",
+        "Engineering"
       ],
       "correctAnswer": "Meteorology"
     },
@@ -287,10 +291,10 @@
       "anki": true,
       "question": "Which career field includes physicists who study the earth's magnetic field and earthquakes?",
       "options": [
-        "Geophysics",
+        "Energy",
         "Astronomy",
-        "Healthcare",
-        "Energy"
+        "Geophysics",
+        "Healthcare"
       ],
       "correctAnswer": "Geophysics"
     },
@@ -299,10 +303,10 @@
       "anki": true,
       "question": "Physicists working as research scientists in universities, national laboratories, and research institutes belong to which career field?",
       "options": [
-        "Research science",
+        "Meteorology",
         "Energy",
         "Technology",
-        "Meteorology"
+        "Research science"
       ],
       "correctAnswer": "Research science"
     },
@@ -311,10 +315,10 @@
       "anki": true,
       "question": "A physicist who analyzes large amounts of data in her work is best described as a what?",
       "options": [
+        "Meteorologist",
         "Data scientist",
-        "Radiologist",
         "Astronomer",
-        "Meteorologist"
+        "Radiologist"
       ],
       "correctAnswer": "Data scientist"
     },
@@ -323,10 +327,10 @@
       "anki": true,
       "question": "Besides science and engineering, studying physics also prepares you for a career in which of the following areas?",
       "options": [
-        "Finance (quantitative analysis), teaching, and science writing",
         "Agriculture, forestry, and fishing",
         "Culinary arts and hotel management",
-        "Graphic design and advertising"
+        "Graphic design and advertising",
+        "Finance (quantitative analysis), teaching, and science writing"
       ],
       "correctAnswer": "Finance (quantitative analysis), teaching, and science writing"
     },
@@ -335,9 +339,9 @@
       "anki": true,
       "question": "A physics graduate chooses a career doing quantitative analysis of financial markets. Studying physics prepared this person for which career path?",
       "options": [
+        "Geophysics",
         "Finance",
         "Healthcare",
-        "Geophysics",
         "Energy"
       ],
       "correctAnswer": "Finance"

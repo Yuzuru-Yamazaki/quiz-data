@@ -4,17 +4,21 @@
   "folder": "School/Grade 11/Physics/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["physics", "grade11", "unit1"],
+  "tags": [
+    "physics",
+    "grade11",
+    "unit1"
+  ],
   "questions": [
     {
       "id": 1,
       "anki": true,
       "question": "According to the textbook, how does physics improve the quality of life?",
       "options": [
-        "By providing the basic understanding necessary for developing new instrumentation and techniques for medical applications",
+        "By making transportation vehicles unnecessary",
         "By removing the need for doctors in hospitals",
-        "By replacing all other sciences in schools",
-        "By making transportation vehicles unnecessary"
+        "By providing the basic understanding necessary for developing new instrumentation and techniques for medical applications",
+        "By replacing all other sciences in schools"
       ],
       "correctAnswer": "By providing the basic understanding necessary for developing new instrumentation and techniques for medical applications"
     },
@@ -23,8 +27,8 @@
       "anki": true,
       "question": "Which of the following is a medical application made possible by physics?",
       "options": [
-        "Computer tomography (CT)",
         "Television",
+        "Computer tomography (CT)",
         "Space shuttle",
         "Mobile phone"
       ],
@@ -36,8 +40,8 @@
       "question": "Computer tomography (CT) is a physics-based technique used in which field?",
       "options": [
         "Medicine",
-        "Transport",
         "Sports",
+        "Transport",
         "Agriculture"
       ],
       "correctAnswer": "Medicine"
@@ -47,9 +51,9 @@
       "anki": true,
       "question": "Magnetic resonance imaging (MRI) is a technique that was developed thanks to physics understanding used for what purpose?",
       "options": [
-        "Medical applications",
-        "Agricultural production",
         "Clothing industry",
+        "Agricultural production",
+        "Medical applications",
         "Food storage"
       ],
       "correctAnswer": "Medical applications"
@@ -60,9 +64,9 @@
       "question": "Which of the following techniques is associated with medical imaging?",
       "options": [
         "Positron emission tomography (PET)",
-        "Vehicle design",
+        "Bridge building",
         "Airport construction",
-        "Bridge building"
+        "Vehicle design"
       ],
       "correctAnswer": "Positron emission tomography (PET)"
     },
@@ -71,10 +75,10 @@
       "anki": true,
       "question": "Ultrasonic imaging is an example of physics-based instrumentation used for what purpose?",
       "options": [
-        "Medical applications",
-        "Weapon design",
         "Transport planning",
-        "Building construction"
+        "Building construction",
+        "Medical applications",
+        "Weapon design"
       ],
       "correctAnswer": "Medical applications"
     },
@@ -85,8 +89,8 @@
       "options": [
         "The basic understanding necessary for new medical techniques",
         "Better farming methods",
-        "Faster postal services",
-        "Cheaper raw materials"
+        "Cheaper raw materials",
+        "Faster postal services"
       ],
       "correctAnswer": "The basic understanding necessary for new medical techniques"
     },
@@ -95,10 +99,10 @@
       "anki": true,
       "question": "According to the textbook, which vehicles require the help of physics experts to be constructed?",
       "options": [
-        "Automobiles, airplanes, and space shuttles",
+        "Bicycles and skateboards",
         "Wagons, carts, and sleds",
         "Boats made from logs",
-        "Bicycles and skateboards"
+        "Automobiles, airplanes, and space shuttles"
       ],
       "correctAnswer": "Automobiles, airplanes, and space shuttles"
     },
@@ -107,10 +111,10 @@
       "anki": true,
       "question": "Space shuttles are constructed with the help of experts in which field?",
       "options": [
-        "Physics",
         "Botany",
-        "Literature",
-        "Accounting"
+        "Physics",
+        "Accounting",
+        "Literature"
       ],
       "correctAnswer": "Physics"
     },
@@ -119,10 +123,10 @@
       "anki": true,
       "question": "Which science underpins the entire electronics industry?",
       "options": [
+        "Music",
         "Physics",
-        "Poetry",
         "Geography",
-        "Music"
+        "Poetry"
       ],
       "correctAnswer": "Physics"
     },
@@ -131,10 +135,10 @@
       "anki": true,
       "question": "Computers, smartphones, TVs, and radios all operate on principles of physics such as which of the following?",
       "options": [
-        "Electricity, magnetism, semiconductors, and electromagnetism",
         "Grammar, spelling, and punctuation",
-        "Painting, drawing, and sculpting",
-        "Farming, fishing, and herding"
+        "Farming, fishing, and herding",
+        "Electricity, magnetism, semiconductors, and electromagnetism",
+        "Painting, drawing, and sculpting"
       ],
       "correctAnswer": "Electricity, magnetism, semiconductors, and electromagnetism"
     },
@@ -143,10 +147,10 @@
       "anki": true,
       "question": "The working of everyday electronic devices relies most directly on which of the following?",
       "options": [
-        "The principles of physics",
         "The laws of literature",
-        "The rules of grammar",
-        "The customs of society"
+        "The principles of physics",
+        "The customs of society",
+        "The rules of grammar"
       ],
       "correctAnswer": "The principles of physics"
     },
@@ -156,9 +160,9 @@
       "question": "Physics is useful for military purposes mainly in what way?",
       "options": [
         "Informing the design of weapons",
+        "Distributing food supplies",
         "Training soldiers in sports",
-        "Organizing army parades",
-        "Distributing food supplies"
+        "Organizing army parades"
       ],
       "correctAnswer": "Informing the design of weapons"
     },
@@ -167,10 +171,10 @@
       "anki": true,
       "question": "Many of the scientists responsible for inventing the atomic bomb were which of the following?",
       "options": [
+        "Musicians",
         "Physicists",
-        "Poets",
         "Historians",
-        "Musicians"
+        "Poets"
       ],
       "correctAnswer": "Physicists"
     },
@@ -179,10 +183,10 @@
       "anki": true,
       "question": "Today, physicists are involved in the creation of which of the following?",
       "options": [
-        "Nuclear weapons",
+        "Textile fabrics",
         "Farming tools",
         "Kitchen utensils",
-        "Textile fabrics"
+        "Nuclear weapons"
       ],
       "correctAnswer": "Nuclear weapons"
     },
@@ -191,10 +195,10 @@
       "anki": true,
       "question": "How does physics contribute to economic development?",
       "options": [
+        "By encouraging people to live in rural areas",
         "By enabling new technologies that boost a country's economy and industry",
         "By increasing the number of public holidays",
-        "By reducing the need for education",
-        "By encouraging people to live in rural areas"
+        "By reducing the need for education"
       ],
       "correctAnswer": "By enabling new technologies that boost a country's economy and industry"
     },
@@ -203,10 +207,10 @@
       "anki": true,
       "question": "Understanding physics enables new technologies that benefit a country's what?",
       "options": [
-        "Economy and industry",
-        "Poetry and music",
+        "Dances and festivals",
         "Paintings and sculptures",
-        "Dances and festivals"
+        "Economy and industry",
+        "Poetry and music"
       ],
       "correctAnswer": "Economy and industry"
     },
@@ -216,9 +220,9 @@
       "question": "Which of the following is a natural phenomenon that physics explains?",
       "options": [
         "Gravity",
-        "Bureaucracy",
         "Etiquette",
-        "Mythology"
+        "Mythology",
+        "Bureaucracy"
       ],
       "correctAnswer": "Gravity"
     },
@@ -240,9 +244,9 @@
       "question": "The study of which science enables humans to understand and make use of nature?",
       "options": [
         "Physics",
-        "Astrology",
+        "Folklore",
         "Palmistry",
-        "Folklore"
+        "Astrology"
       ],
       "correctAnswer": "Physics"
     },
@@ -252,9 +256,9 @@
       "question": "Which of the following is included in the natural phenomena explained by physics?",
       "options": [
         "Electricity",
+        "Wedding ceremonies",
         "Political elections",
-        "Currency exchange",
-        "Wedding ceremonies"
+        "Currency exchange"
       ],
       "correctAnswer": "Electricity"
     },
@@ -263,10 +267,10 @@
       "anki": true,
       "question": "Physics is described in the textbook as the foundation of which other sciences?",
       "options": [
-        "Chemistry, biology, geology, and astronomy",
-        "Painting, music, and dance",
+        "Literature, languages, and philosophy",
         "History, civics, and economics",
-        "Literature, languages, and philosophy"
+        "Chemistry, biology, geology, and astronomy",
+        "Painting, music, and dance"
       ],
       "correctAnswer": "Chemistry, biology, geology, and astronomy"
     },
@@ -275,10 +279,10 @@
       "anki": true,
       "question": "Which science depends on the laws of physics?",
       "options": [
-        "Astronomy",
+        "Anthropology",
         "Mythology",
-        "Linguistics",
-        "Anthropology"
+        "Astronomy",
+        "Linguistics"
       ],
       "correctAnswer": "Astronomy"
     },
@@ -287,10 +291,10 @@
       "anki": true,
       "question": "A student finding it hard to understand chemistry or biology would benefit most from first studying which science?",
       "options": [
-        "Physics",
-        "Painting",
+        "Carpentry",
         "Cooking",
-        "Carpentry"
+        "Physics",
+        "Painting"
       ],
       "correctAnswer": "Physics"
     },
@@ -300,9 +304,9 @@
       "question": "Electricity and magnetism, as explained by physics, are the basis of which industry?",
       "options": [
         "The electronics industry",
-        "The clothing industry",
+        "The textile industry",
         "The food industry",
-        "The textile industry"
+        "The clothing industry"
       ],
       "correctAnswer": "The electronics industry"
     },
@@ -311,10 +315,10 @@
       "anki": true,
       "question": "Motion and energy are phenomena that physics explains, and this knowledge helps engineers construct what?",
       "options": [
-        "Transportation vehicles",
+        "Trading companies",
         "Musical bands",
-        "Sports teams",
-        "Trading companies"
+        "Transportation vehicles",
+        "Sports teams"
       ],
       "correctAnswer": "Transportation vehicles"
     },
@@ -323,10 +327,10 @@
       "anki": true,
       "question": "When physicists use their knowledge of physics to support weapons production, this shows that physics is useful for what purpose?",
       "options": [
-        "Military purposes",
-        "Musical purposes",
         "Agricultural purposes",
-        "Artistic purposes"
+        "Artistic purposes",
+        "Musical purposes",
+        "Military purposes"
       ],
       "correctAnswer": "Military purposes"
     },
@@ -335,10 +339,10 @@
       "anki": true,
       "question": "Which statement best summarizes the importance of physics to society?",
       "options": [
-        "Physics improves quality of life and drives technology and economic development",
         "Physics is only useful for building weapons",
         "Physics has no effect on everyday life",
-        "Physics is only important inside laboratories"
+        "Physics is only important inside laboratories",
+        "Physics improves quality of life and drives technology and economic development"
       ],
       "correctAnswer": "Physics improves quality of life and drives technology and economic development"
     }

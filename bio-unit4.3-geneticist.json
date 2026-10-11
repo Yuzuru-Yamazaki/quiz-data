@@ -14,8 +14,8 @@
       "question": "Who is the renowned Ethiopian geneticist and agronomist discussed in this unit?",
       "options": [
         "Dr. Tewolde Berhan Gebre Egziabher",
-        "Dr. Melaku Worede",
         "Dr. Walther Flemming",
+        "Dr. Melaku Worede",
         "Dr. Rudolf Virchow"
       ],
       "correctAnswer": "Dr. Melaku Worede",
@@ -26,8 +26,8 @@
       "options": [
         "Large agricultural corporations",
         "Poor farmers",
-        "Medical researchers",
-        "Urban business owners"
+        "Urban business owners",
+        "Medical researchers"
       ],
       "correctAnswer": "Poor farmers",
       "id": 2
@@ -35,8 +35,8 @@
     {
       "question": "What was Dr. Melaku Worede's work focused on saving from extinction?",
       "options": [
-        "Ethiopian wildlife",
         "Africa's seeds",
+        "Ethiopian wildlife",
         "Ethiopian forests",
         "African livestock"
       ],
@@ -46,10 +46,10 @@
     {
       "question": "What award did Dr. Melaku Worede receive in 1989?",
       "options": [
-        "The Nobel Peace Prize",
+        "The Albert Einstein Award",
         "The Right Livelihood Award",
         "The World Food Prize",
-        "The Albert Einstein Award"
+        "The Nobel Peace Prize"
       ],
       "correctAnswer": "The Right Livelihood Award",
       "id": 4
@@ -57,10 +57,10 @@
     {
       "question": "Dr. Melaku Worede was awarded in 1989 for preserving what?",
       "options": [
-        "Ethiopian wildlife habitats",
-        "Ethiopia's genetic wealth by building one of the finest seed conservation centres in the world",
+        "African cultural traditions",
         "Ethiopian historical manuscripts",
-        "African cultural traditions"
+        "Ethiopian wildlife habitats",
+        "Ethiopia's genetic wealth by building one of the finest seed conservation centres in the world"
       ],
       "correctAnswer": "Ethiopia's genetic wealth by building one of the finest seed conservation centres in the world",
       "id": 5
@@ -69,9 +69,9 @@
       "question": "Dr. Melaku Worede played a key role in the establishment of what centre?",
       "options": [
         "The Ethiopian National Museum",
+        "The African Agricultural Research Centre",
         "The Plant Genetic Resource Centre in Addis Ababa",
-        "The Ethiopian Institute of Biodiversity",
-        "The African Agricultural Research Centre"
+        "The Ethiopian Institute of Biodiversity"
       ],
       "correctAnswer": "The Plant Genetic Resource Centre in Addis Ababa",
       "id": 6
@@ -79,10 +79,10 @@
     {
       "question": "In what year did Dr. Melaku Worede become the Director of the Plant Genetic Resource Centre?",
       "options": [
-        "1989",
         "1979",
-        "1969",
-        "1999"
+        "1989",
+        "1999",
+        "1969"
       ],
       "correctAnswer": "1979",
       "id": 7
@@ -90,10 +90,10 @@
     {
       "question": "For how many years did Dr. Melaku Worede serve as Director of the Plant Genetic Resource Centre until retirement?",
       "options": [
-        "More than 5 years",
+        "More than 10 years",
         "More than 14 years",
-        "More than 20 years",
-        "More than 10 years"
+        "More than 5 years",
+        "More than 20 years"
       ],
       "correctAnswer": "More than 14 years",
       "id": 8
@@ -102,9 +102,9 @@
       "question": "After retirement, Dr. Melaku Worede developed pioneer work on what type of conservation?",
       "options": [
         "Forest conservation",
-        "Farming based native seed (landrace) conservation, enhancement and utilization",
+        "Wildlife conservation",
         "Water conservation",
-        "Wildlife conservation"
+        "Farming based native seed (landrace) conservation, enhancement and utilization"
       ],
       "correctAnswer": "Farming based native seed (landrace) conservation, enhancement and utilization",
       "id": 9
@@ -113,9 +113,9 @@
       "question": "What type of seeds did Dr. Melaku Worede develop and grow, such as durum wheat?",
       "options": [
         "Genetically modified seeds",
+        "Imported foreign seeds",
         "Locally adapted native seeds",
-        "Hybrid commercial seeds",
-        "Imported foreign seeds"
+        "Hybrid commercial seeds"
       ],
       "correctAnswer": "Locally adapted native seeds",
       "id": 10
@@ -123,10 +123,10 @@
     {
       "question": "Dr. Melaku Worede grew native seeds like durum wheat without using what?",
       "options": [
+        "Farm tools",
         "Irrigation",
-        "Commercial fertilizers or other chemicals",
         "Manual labor",
-        "Farm tools"
+        "Commercial fertilizers or other chemicals"
       ],
       "correctAnswer": "Commercial fertilizers or other chemicals",
       "id": 11
@@ -134,10 +134,10 @@
     {
       "question": "By what percentage did Dr. Melaku Worede's native seeds exceed their high input counterparts in yield?",
       "options": [
-        "5 to 10 percent",
-        "10 to 15 percent",
+        "30 to 35 percent",
         "20 to 25 percent",
-        "30 to 35 percent"
+        "5 to 10 percent",
+        "10 to 15 percent"
       ],
       "correctAnswer": "10 to 15 percent",
       "id": 12
@@ -146,9 +146,9 @@
       "question": "By what percentage did Dr. Melaku Worede's native seeds exceed the original farmers' cultivars in yield?",
       "options": [
         "10 to 15 percent",
-        "15 to 20 percent",
+        "25 to 30 percent",
         "20 to 25 percent",
-        "25 to 30 percent"
+        "15 to 20 percent"
       ],
       "correctAnswer": "20 to 25 percent",
       "id": 13
@@ -157,9 +157,9 @@
       "question": "What is interphase defined as in the unit summary?",
       "options": [
         "The stage of cell division where chromosomes separate",
-        "The stage of preparation where a cell exhibits growth and DNA synthesis",
+        "The stage where the nuclear membrane breaks down",
         "The stage where cytokinesis occurs",
-        "The stage where the nuclear membrane breaks down"
+        "The stage of preparation where a cell exhibits growth and DNA synthesis"
       ],
       "correctAnswer": "The stage of preparation where a cell exhibits growth and DNA synthesis",
       "id": 14
@@ -167,10 +167,10 @@
     {
       "question": "Cell division is a basic process in all living things where a parent cell divides into cells called what?",
       "options": [
-        "Mother cells",
-        "Daughter cells",
         "Sister cells",
-        "Parent cells"
+        "Parent cells",
+        "Mother cells",
+        "Daughter cells"
       ],
       "correctAnswer": "Daughter cells",
       "id": 15
@@ -179,9 +179,9 @@
       "question": "In multicellular organisms, cell division is a means of growth and what else?",
       "options": [
         "Producing gametes",
-        "Replacing damaged or dead cells",
         "Producing energy",
-        "Storing waste"
+        "Storing waste",
+        "Replacing damaged or dead cells"
       ],
       "correctAnswer": "Replacing damaged or dead cells",
       "id": 16
@@ -189,10 +189,10 @@
     {
       "question": "In unicellular organisms, cell division is equivalent to what?",
       "options": [
-        "Growth",
         "Reproduction",
-        "Repair",
-        "Development"
+        "Development",
+        "Growth",
+        "Repair"
       ],
       "correctAnswer": "Reproduction",
       "id": 17
@@ -200,10 +200,10 @@
     {
       "question": "Mitosis is division of what type of cells to form identical daughter cells?",
       "options": [
-        "Reproductive cells",
         "Somatic (body) cells",
-        "Germ cells",
-        "Gametes"
+        "Gametes",
+        "Reproductive cells",
+        "Germ cells"
       ],
       "correctAnswer": "Somatic (body) cells",
       "id": 18
@@ -211,10 +211,10 @@
     {
       "question": "Mitosis has how many stages?",
       "options": [
-        "Two",
         "Four",
         "Six",
-        "Eight"
+        "Eight",
+        "Two"
       ],
       "correctAnswer": "Four",
       "id": 19
@@ -222,10 +222,10 @@
     {
       "question": "What are the four stages of mitosis?",
       "options": [
-        "G1, S, G2, and M",
-        "Prophase, metaphase, anaphase, and telophase",
+        "Interphase, prophase, metaphase, and anaphase",
         "Prophase I, metaphase I, anaphase I, and telophase I",
-        "Interphase, prophase, metaphase, and anaphase"
+        "G1, S, G2, and M",
+        "Prophase, metaphase, anaphase, and telophase"
       ],
       "correctAnswer": "Prophase, metaphase, anaphase, and telophase",
       "id": 20
@@ -234,9 +234,9 @@
       "question": "Meiosis is a division of reproductive cells resulting in daughter cells with what number of chromosomes compared to the mother cell?",
       "options": [
         "The same number",
-        "Half the number",
+        "Triple the number",
         "Double the number",
-        "Triple the number"
+        "Half the number"
       ],
       "correctAnswer": "Half the number",
       "id": 21
@@ -244,10 +244,10 @@
     {
       "question": "The daughter cells produced by meiosis are specifically called what?",
       "options": [
-        "Body cells",
-        "Sex cells or gametes",
         "Somatic cells",
-        "Diploid cells"
+        "Diploid cells",
+        "Sex cells or gametes",
+        "Body cells"
       ],
       "correctAnswer": "Sex cells or gametes",
       "id": 22
@@ -255,10 +255,10 @@
     {
       "question": "In meiosis, a cell divides how many times?",
       "options": [
-        "Once",
+        "Four times",
         "Twice",
         "Three times",
-        "Four times"
+        "Once"
       ],
       "correctAnswer": "Twice",
       "id": 23
@@ -266,10 +266,10 @@
     {
       "question": "Meiosis results in how many daughter cells?",
       "options": [
-        "Two",
+        "Eight",
         "Four",
-        "Six",
-        "Eight"
+        "Two",
+        "Six"
       ],
       "correctAnswer": "Four",
       "id": 24
@@ -278,9 +278,9 @@
       "question": "Which division of meiosis involves homologous chromosomes separating and moving to opposite cells?",
       "options": [
         "Meiosis II",
+        "Neither meiosis I nor II",
         "Meiosis I",
-        "Both meiosis I and II",
-        "Neither meiosis I nor II"
+        "Both meiosis I and II"
       ],
       "correctAnswer": "Meiosis I",
       "id": 25
@@ -289,9 +289,9 @@
       "question": "Which division of meiosis involves sister chromatids separating and moving to opposite poles?",
       "options": [
         "Meiosis I",
-        "Meiosis II",
         "Both meiosis I and II",
-        "Neither meiosis I nor II"
+        "Neither meiosis I nor II",
+        "Meiosis II"
       ],
       "correctAnswer": "Meiosis II",
       "id": 26
@@ -300,9 +300,9 @@
       "question": "What is the best analogy given in the textbook for homologous chromosomes?",
       "options": [
         "A pair of gloves",
-        "A pair of shoes with the same number",
+        "A pair of socks",
         "A set of keys",
-        "A pair of socks"
+        "A pair of shoes with the same number"
       ],
       "correctAnswer": "A pair of shoes with the same number",
       "id": 27
@@ -312,8 +312,8 @@
       "options": [
         "$2n$",
         "n",
-        "$4n$",
-        "$3n$"
+        "$3n$",
+        "$4n$"
       ],
       "correctAnswer": "n",
       "id": 28
@@ -321,9 +321,9 @@
     {
       "question": "What is the diploid abbreviation used in the textbook?",
       "options": [
-        "n",
         "$2n$",
         "$4n$",
+        "n",
         "$3n$"
       ],
       "correctAnswer": "$2n$",
@@ -332,10 +332,10 @@
     {
       "question": "If a cell has $2n$ = 40 and divides by meiosis, how many cells are formed at the end of meiosis I?",
       "options": [
-        "Four",
         "Two",
         "One",
-        "Eight"
+        "Eight",
+        "Four"
       ],
       "correctAnswer": "Two",
       "id": 30
@@ -343,8 +343,8 @@
     {
       "question": "If a cell has $2n$ = 40 and divides by meiosis, how many cells are formed at the end of meiosis II?",
       "options": [
-        "Two",
         "Four",
+        "Two",
         "One",
         "Eight"
       ],

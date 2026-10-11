@@ -16,9 +16,9 @@
       "question": "The impacts of biology and technology refer to ____.",
       "options": [
         "the number of new devices produced each year",
-        "factors that pose positive or negative effects on the society and the natural world",
         "the cost of developing scientific instruments",
-        "the study of the distribution of species"
+        "the study of the distribution of species",
+        "factors that pose positive or negative effects on the society and the natural world"
       ],
       "correctAnswer": "factors that pose positive or negative effects on the society and the natural world"
     },
@@ -28,9 +28,9 @@
       "question": "The advancements of biological information and technological devices can ____ the societal and natural world.",
       "options": [
         "completely replace",
+        "highly influence or control",
         "financially support",
-        "visually document",
-        "highly influence or control"
+        "visually document"
       ],
       "correctAnswer": "highly influence or control"
     },
@@ -39,9 +39,9 @@
       "anki": true,
       "question": "Ensuring food security is a positive impact of biology that results from ____.",
       "options": [
-        "an increase in productivity",
         "a decrease in population",
         "an increase in pollution",
+        "an increase in productivity",
         "a decrease in rainfall"
       ],
       "correctAnswer": "an increase in productivity"
@@ -52,9 +52,9 @@
       "question": "Medicine and disease treatments have resulted in ____.",
       "options": [
         "reduced energy supply",
-        "depleted natural resources",
         "improved health and longevity",
-        "increased deforestation"
+        "increased deforestation",
+        "depleted natural resources"
       ],
       "correctAnswer": "improved health and longevity"
     },
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "Biology has helped achieve a better supply of ____.",
       "options": [
-        "plastic and steel",
         "energy and clean water",
         "plastic and cement",
-        "oil and coal"
+        "oil and coal",
+        "plastic and steel"
       ],
       "correctAnswer": "energy and clean water"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "An increase in industrial production is due to ____.",
       "options": [
-        "deforestation",
         "global warming",
-        "overfishing",
-        "microbial action"
+        "deforestation",
+        "microbial action",
+        "overfishing"
       ],
       "correctAnswer": "microbial action"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Antibiotics are created to treat ____.",
       "options": [
-        "bacterial infections",
+        "migraine headaches",
         "bone fractures",
-        "skin wounds",
-        "migraine headaches"
+        "bacterial infections",
+        "skin wounds"
       ],
       "correctAnswer": "bacterial infections"
     },
@@ -100,9 +100,9 @@
       "question": "Which of the following is a negative impact of biology on the natural world?",
       "options": [
         "Creating antibiotics to treat bacterial infections",
-        "Ensuring food security through increased productivity",
+        "Improving health and longevity through medicine",
         "Biological weapon production and use that destroy the natural world",
-        "Improving health and longevity through medicine"
+        "Ensuring food security through increased productivity"
       ],
       "correctAnswer": "Biological weapon production and use that destroy the natural world"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "Practicing a predetermined limit to have only boys (XY males) and avoid females (XX females) would lead to ____.",
       "options": [
-        "an increase in biodiversity",
         "the loss of females",
+        "the growth of forest covers",
         "a healthier population",
-        "the growth of forest covers"
+        "an increase in biodiversity"
       ],
       "correctAnswer": "the loss of females"
     },
@@ -123,9 +123,9 @@
       "anki": true,
       "question": "In the textbook, XY and XX refer to the ____ of children.",
       "options": [
+        "immunity cells",
         "blood groups",
         "growth hormones",
-        "immunity cells",
         "sex chromosomes"
       ],
       "correctAnswer": "sex chromosomes"
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "Technology has damaged our world in two main ways: ____.",
       "options": [
-        "pollution and the depletion of natural resources",
-        "overpopulation and unemployment",
         "inflation and taxes",
-        "droughts and floods"
+        "droughts and floods",
+        "overpopulation and unemployment",
+        "pollution and the depletion of natural resources"
       ],
       "correctAnswer": "pollution and the depletion of natural resources"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "Industrial emissions and effluents pollute ____.",
       "options": [
+        "moonlight",
         "soil temperature",
         "wind speed",
-        "clean air and drinking water",
-        "moonlight"
+        "clean air and drinking water"
       ],
       "correctAnswer": "clean air and drinking water"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "Industrialization and subsequent technological advancements have resulted in ____.",
       "options": [
-        "the restoration of all forests",
         "the misuse and destruction of our natural environment",
-        "the protection of endangered species",
-        "the purification of all rivers"
+        "the purification of all rivers",
+        "the restoration of all forests",
+        "the protection of endangered species"
       ],
       "correctAnswer": "the misuse and destruction of our natural environment"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Biochemical agents, pesticides and fertilizers cause ____.",
       "options": [
-        "increased biodiversity",
-        "improved soil fertility",
         "cleaner groundwater",
-        "toxicity and biohazards"
+        "increased biodiversity",
+        "toxicity and biohazards",
+        "improved soil fertility"
       ],
       "correctAnswer": "toxicity and biohazards"
     },
@@ -184,9 +184,9 @@
       "question": "The impact of biology refers to ____.",
       "options": [
         "the effects arising from the advancement of biological knowledge and innovations",
+        "the size of research laboratories",
         "the cost of biological experiments",
-        "the number of biologists in a country",
-        "the size of research laboratories"
+        "the number of biologists in a country"
       ],
       "correctAnswer": "the effects arising from the advancement of biological knowledge and innovations"
     },
@@ -196,9 +196,9 @@
       "question": "Technological devices made from biological materials can provide services that ____.",
       "options": [
         "only increase the cost of living",
+        "only pollute drinking water",
         "only reduce agricultural output",
-        "influence, treat, and control the society and the natural world negatively or positively",
-        "only pollute drinking water"
+        "influence, treat, and control the society and the natural world negatively or positively"
       ],
       "correctAnswer": "influence, treat, and control the society and the natural world negatively or positively"
     },
@@ -208,9 +208,9 @@
       "question": "Creating antibiotics to treat bacterial infections is ____.",
       "options": [
         "a negative impact of technology",
+        "a drawback of industrial pollution",
         "a positive impact of biology",
-        "an unethical treatment of plants",
-        "a drawback of industrial pollution"
+        "an unethical treatment of plants"
       ],
       "correctAnswer": "a positive impact of biology"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "Producing and using biological weapons is ____.",
       "options": [
-        "a positive impact of biology on society",
-        "an ethical use of biotechnology",
         "a benefit of microbial action",
-        "a negative impact of biology on the natural world"
+        "an ethical use of biotechnology",
+        "a negative impact of biology on the natural world",
+        "a positive impact of biology on society"
       ],
       "correctAnswer": "a negative impact of biology on the natural world"
     },
@@ -231,9 +231,9 @@
       "anki": true,
       "question": "Improved health and increased longevity are the results of ____.",
       "options": [
-        "medicine and disease treatments",
         "industrial emissions",
         "depletion of natural resources",
+        "medicine and disease treatments",
         "misuse of biological weapons"
       ],
       "correctAnswer": "medicine and disease treatments"
@@ -255,10 +255,10 @@
       "anki": true,
       "question": "Pollution and the depletion of natural resources are ____.",
       "options": [
-        "the two main benefits of biology",
-        "the two main ways technology has damaged the world",
         "the main causes of improved health",
-        "the results of food security"
+        "the two main ways technology has damaged the world",
+        "the results of food security",
+        "the two main benefits of biology"
       ],
       "correctAnswer": "the two main ways technology has damaged the world"
     },
@@ -268,9 +268,9 @@
       "question": "An increase in productivity in agriculture helps in ____.",
       "options": [
         "reducing energy supply",
-        "polluting drinking water",
         "depleting natural resources",
-        "ensuring food security"
+        "ensuring food security",
+        "polluting drinking water"
       ],
       "correctAnswer": "ensuring food security"
     },
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "Technological products and their applications in various fields of study have ____.",
       "options": [
-        "solved societal problems and had significant societal and environmental impacts",
-        "destroyed all natural habitats",
         "eliminated the need for biology",
-        "ended all types of pollution"
+        "solved societal problems and had significant societal and environmental impacts",
+        "ended all types of pollution",
+        "destroyed all natural habitats"
       ],
       "correctAnswer": "solved societal problems and had significant societal and environmental impacts"
     },
@@ -291,9 +291,9 @@
       "anki": true,
       "question": "Which of the following is a negative impact of technology on the natural world?",
       "options": [
+        "Pollution of clean air by industrial emissions",
         "Increasing food production",
         "Treating bacterial infections",
-        "Pollution of clean air by industrial emissions",
         "Improving the supply of clean water"
       ],
       "correctAnswer": "Pollution of clean air by industrial emissions"
@@ -303,10 +303,10 @@
       "anki": true,
       "question": "The predetermined practice of selecting only male (XY) children in society is ____.",
       "options": [
-        "a positive impact of technology",
-        "a negative impact of biology on the society and the natural world",
+        "a benefit of biodiversity",
         "an ethical treatment of animals",
-        "a benefit of biodiversity"
+        "a negative impact of biology on the society and the natural world",
+        "a positive impact of technology"
       ],
       "correctAnswer": "a negative impact of biology on the society and the natural world"
     },
@@ -315,9 +315,9 @@
       "anki": true,
       "question": "Depletion of natural resources is one of the two main ways in which ____.",
       "options": [
-        "biology improves human health",
-        "microbial action increases production",
         "food security is ensured",
+        "microbial action increases production",
+        "biology improves human health",
         "technology has damaged the natural world"
       ],
       "correctAnswer": "technology has damaged the natural world"
@@ -325,10 +325,10 @@
     {
       "question": "According to the unit summary, the impacts of biology and technology on society and the natural world are ____.",
       "options": [
-        "positive and negative influences of using biologically derived technologies",
         "the total number of scientific journals published each year",
         "ways to increase the speed of industrial machines",
-        "methods of classifying living organisms into kingdoms"
+        "methods of classifying living organisms into kingdoms",
+        "positive and negative influences of using biologically derived technologies"
       ],
       "correctAnswer": "positive and negative influences of using biologically derived technologies",
       "anki": true,
@@ -337,10 +337,10 @@
     {
       "question": "Which of the following is a positive impact of biology on the natural world?",
       "options": [
-        "Improved supply of clean water and energy",
-        "Biological weapon production and use",
         "Industrial emissions that pollute the air",
-        "Depletion of natural resources"
+        "Depletion of natural resources",
+        "Improved supply of clean water and energy",
+        "Biological weapon production and use"
       ],
       "correctAnswer": "Improved supply of clean water and energy",
       "anki": true,
@@ -349,8 +349,8 @@
     {
       "question": "Which of the following is an example of a negative impact of technology?",
       "options": [
-        "Creating antibiotics to treat bacterial infections",
         "Ensuring food security through increased productivity",
+        "Creating antibiotics to treat bacterial infections",
         "Depletion of natural resources",
         "Improving health and longevity through medicine"
       ],
@@ -361,10 +361,10 @@
     {
       "question": "The misuse and destruction of the natural environment is a consequence of ____.",
       "options": [
-        "industrialization and subsequent technological advancements",
         "the discovery of antibiotics to treat infections",
-        "increased agricultural productivity",
-        "ethical treatment of research animals"
+        "ethical treatment of research animals",
+        "industrialization and subsequent technological advancements",
+        "increased agricultural productivity"
       ],
       "correctAnswer": "industrialization and subsequent technological advancements",
       "anki": true,
@@ -373,10 +373,10 @@
     {
       "question": "Industrial emissions and effluents that pollute clean air and drinking water are examples of ____.",
       "options": [
-        "pollution",
-        "food security",
+        "biological control",
         "energy conservation",
-        "biological control"
+        "pollution",
+        "food security"
       ],
       "correctAnswer": "pollution",
       "anki": true,
@@ -385,10 +385,10 @@
     {
       "question": "According to the textbook review questions, industrial wastes are referred to as ____.",
       "options": [
-        "Effluents",
-        "House wastes",
+        "Vehicle wastes",
         "Air pollution",
-        "Vehicle wastes"
+        "House wastes",
+        "Effluents"
       ],
       "correctAnswer": "Effluents",
       "anki": true,
@@ -397,10 +397,10 @@
     {
       "question": "Selecting only boys (XY males) and avoiding girls (XX females) through a predetermined limit is a negative impact of ____ on the society and the natural world.",
       "options": [
-        "biology",
-        "mathematics",
+        "history",
         "physics",
-        "history"
+        "biology",
+        "mathematics"
       ],
       "correctAnswer": "biology",
       "anki": true,
@@ -409,10 +409,10 @@
     {
       "question": "According to the review question, soil fertilizers can cause ____.",
       "options": [
-        "toxicity and biohazards",
         "increased biodiversity",
-        "cleaner drinking water",
-        "stronger root systems"
+        "toxicity and biohazards",
+        "stronger root systems",
+        "cleaner drinking water"
       ],
       "correctAnswer": "toxicity and biohazards",
       "anki": true,
@@ -421,10 +421,10 @@
     {
       "question": "According to the textbook, technology is part of ____.",
       "options": [
-        "everyone's life",
         "only the life of scientists",
+        "only the life of medical doctors",
         "only the life of engineers",
-        "only the life of medical doctors"
+        "everyone's life"
       ],
       "correctAnswer": "everyone's life",
       "anki": true,
@@ -433,9 +433,9 @@
     {
       "question": "In Inquiry activity 1.4, students invite professionals from the ____ to participate in the discussion.",
       "options": [
+        "mining and energy offices",
         "health and agricultural offices",
         "transport and tourism offices",
-        "mining and energy offices",
         "sports and culture offices"
       ],
       "correctAnswer": "health and agricultural offices",
@@ -446,8 +446,8 @@
       "question": "In Inquiry activity 1.4, students are expected to find ____ for the identified impacts.",
       "options": [
         "solutions",
-        "new problems",
         "more pollution",
+        "new problems",
         "additional costs"
       ],
       "correctAnswer": "solutions",
@@ -457,9 +457,9 @@
     {
       "question": "Industrial emissions and effluents are given as examples of ____.",
       "options": [
-        "impacts of technology on the society and the natural world",
         "benefits of biology to human health",
         "ways of ensuring food security",
+        "impacts of technology on the society and the natural world",
         "methods of producing medicines"
       ],
       "correctAnswer": "impacts of technology on the society and the natural world",

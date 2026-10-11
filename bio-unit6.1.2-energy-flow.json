@@ -16,8 +16,8 @@
       "question": "What is the ultimate source of energy in life?",
       "options": [
         "The moon",
-        "The sun",
         "The soil",
+        "The sun",
         "Water"
       ],
       "correctAnswer": "The sun",
@@ -26,10 +26,10 @@
     {
       "question": "What process do producers use to trap solar energy?",
       "options": [
-        "Respiration",
-        "Photosynthesis",
         "Decomposition",
-        "Transpiration"
+        "Transpiration",
+        "Photosynthesis",
+        "Respiration"
       ],
       "correctAnswer": "Photosynthesis",
       "id": 2
@@ -39,8 +39,8 @@
       "options": [
         "Yes, all energy is recycled",
         "No, energy cannot be recycled",
-        "Only solar energy can be recycled",
-        "Only chemical energy can be recycled"
+        "Only chemical energy can be recycled",
+        "Only solar energy can be recycled"
       ],
       "correctAnswer": "No, energy cannot be recycled",
       "id": 3
@@ -49,9 +49,9 @@
       "question": "Which of the following can be recycled within an ecosystem?",
       "options": [
         "Energy",
-        "Nutrients in food (organic matter)",
+        "Heat energy",
         "Solar radiation",
-        "Heat energy"
+        "Nutrients in food (organic matter)"
       ],
       "correctAnswer": "Nutrients in food (organic matter)",
       "id": 4
@@ -59,9 +59,9 @@
     {
       "question": "How do nutrients in food behave in an ecosystem?",
       "options": [
+        "They only flow in one direction",
         "They are used once and lost forever",
         "They recycle and are reused over and over again",
-        "They only flow in one direction",
         "They are destroyed after use"
       ],
       "correctAnswer": "They recycle and are reused over and over again",
@@ -71,8 +71,8 @@
       "question": "What two processes result in the recycling of nutrients in an ecosystem?",
       "options": [
         "Photosynthesis and respiration",
-        "Composition (synthesis) and decomposition (breakdown)",
         "Evaporation and condensation",
+        "Composition (synthesis) and decomposition (breakdown)",
         "Nitrogen fixation and denitrification"
       ],
       "correctAnswer": "Composition (synthesis) and decomposition (breakdown)",
@@ -92,10 +92,10 @@
     {
       "question": "Which organisms obtain energy by breaking down organic matter from dead producers and consumers?",
       "options": [
-        "Herbivores",
-        "Carnivores",
         "Fungi and other decomposers",
-        "Producers"
+        "Carnivores",
+        "Producers",
+        "Herbivores"
       ],
       "correctAnswer": "Fungi and other decomposers",
       "id": 8
@@ -103,10 +103,10 @@
     {
       "question": "What key nutrients do decomposers return to the soil?",
       "options": [
-        "Only carbon",
         "Only oxygen",
-        "Nutrients like nitrogen",
-        "Only phosphorus"
+        "Only carbon",
+        "Only phosphorus",
+        "Nutrients like nitrogen"
       ],
       "correctAnswer": "Nutrients like nitrogen",
       "id": 9
@@ -114,10 +114,10 @@
     {
       "question": "As energy flows from one trophic level to the next, what happens to the amount of energy?",
       "options": [
-        "It increases",
+        "It doubles",
         "It successively declines",
-        "It stays the same",
-        "It doubles"
+        "It increases",
+        "It stays the same"
       ],
       "correctAnswer": "It successively declines",
       "id": 10
@@ -125,9 +125,9 @@
     {
       "question": "Approximately what percentage of energy in grass is turned into biomass in the body of a cow that feeds on it?",
       "options": [
-        "50%",
-        "90%",
         "10%",
+        "90%",
+        "50%",
         "1%"
       ],
       "correctAnswer": "10%",
@@ -136,10 +136,10 @@
     {
       "question": "What happens to about 90% of the energy in grass that a cow eats?",
       "options": [
-        "It is stored as fat",
         "It is lost as heat, used for activities, or removed as undigested food",
         "It is passed to the next consumer",
-        "It is converted to muscle"
+        "It is converted to muscle",
+        "It is stored as fat"
       ],
       "correctAnswer": "It is lost as heat, used for activities, or removed as undigested food",
       "id": 12
@@ -147,9 +147,9 @@
     {
       "question": "According to the energy transfer diagram in Figure 6.4, what percentage of energy is assimilated as biomass in the cow?",
       "options": [
-        "30%",
-        "10%",
         "50%",
+        "10%",
+        "30%",
         "90%"
       ],
       "correctAnswer": "10%",
@@ -158,10 +158,10 @@
     {
       "question": "According to the energy transfer diagram in Figure 6.4, what percentage of energy is lost as energy for heat and to do work?",
       "options": [
-        "10%",
-        "90%",
         "30%",
-        "50%"
+        "90%",
+        "50%",
+        "10%"
       ],
       "correctAnswer": "30%",
       "id": 14
@@ -169,10 +169,10 @@
     {
       "question": "What is an ecological pyramid?",
       "options": [
-        "A graphical representation of feeding relationships in the form of a pyramid",
-        "A physical structure built in ecosystems",
+        "A method of farming",
         "A type of food chain",
-        "A method of farming"
+        "A physical structure built in ecosystems",
+        "A graphical representation of feeding relationships in the form of a pyramid"
       ],
       "correctAnswer": "A graphical representation of feeding relationships in the form of a pyramid",
       "id": 15
@@ -180,8 +180,8 @@
     {
       "question": "What is used to construct an ecological pyramid?",
       "options": [
-        "Circles",
         "Horizontal bars",
+        "Circles",
         "Vertical lines",
         "Triangles only"
       ],
@@ -191,10 +191,10 @@
     {
       "question": "What does each horizontal bar in an ecological pyramid represent?",
       "options": [
+        "The amount of sunlight",
         "A different ecosystem",
         "Organisms of a specific trophic level",
-        "A single organism",
-        "The amount of sunlight"
+        "A single organism"
       ],
       "correctAnswer": "Organisms of a specific trophic level",
       "id": 17
@@ -202,10 +202,10 @@
     {
       "question": "What is the order of bars in an ecological pyramid based on?",
       "options": [
-        "Size of organisms",
         "Who eats whom",
-        "Color of organisms",
-        "Speed of organisms"
+        "Speed of organisms",
+        "Size of organisms",
+        "Color of organisms"
       ],
       "correctAnswer": "Who eats whom",
       "id": 18
@@ -213,10 +213,10 @@
     {
       "question": "Which trophic level is at the bottom of an ecological pyramid?",
       "options": [
-        "Primary consumers",
-        "Secondary consumers",
+        "Tertiary consumers",
         "Producers",
-        "Tertiary consumers"
+        "Primary consumers",
+        "Secondary consumers"
       ],
       "correctAnswer": "Producers",
       "id": 19
@@ -224,10 +224,10 @@
     {
       "question": "Which trophic level is at the top of an ecological pyramid?",
       "options": [
-        "Producers",
-        "Primary consumers",
         "The highest trophic level",
-        "Decomposers"
+        "Producers",
+        "Decomposers",
+        "Primary consumers"
       ],
       "correctAnswer": "The highest trophic level",
       "id": 20
@@ -235,10 +235,10 @@
     {
       "question": "How many types of ecological pyramids are there?",
       "options": [
-        "Two",
+        "Five",
         "Four",
         "Three",
-        "Five"
+        "Two"
       ],
       "correctAnswer": "Three",
       "id": 21
@@ -246,10 +246,10 @@
     {
       "question": "What are the three types of ecological pyramids?",
       "options": [
-        "Pyramid of water, air, and soil",
-        "Pyramid of energy, number, and biomass",
         "Pyramid of plants, animals, and minerals",
-        "Pyramid of producers, consumers, and decomposers"
+        "Pyramid of producers, consumers, and decomposers",
+        "Pyramid of water, air, and soil",
+        "Pyramid of energy, number, and biomass"
       ],
       "correctAnswer": "Pyramid of energy, number, and biomass",
       "id": 22
@@ -257,10 +257,10 @@
     {
       "question": "The pyramid of energy is always which shape?",
       "options": [
+        "Irregular",
         "Inverted",
-        "Upright and narrowing sharply from base to top",
         "Spherical",
-        "Irregular"
+        "Upright and narrowing sharply from base to top"
       ],
       "correctAnswer": "Upright and narrowing sharply from base to top",
       "id": 23
@@ -268,8 +268,8 @@
     {
       "question": "Why is the pyramid of energy always upright?",
       "options": [
-        "Because energy increases at each level",
         "Because there is commonly 90% energy loss at each trophic level",
+        "Because energy increases at each level",
         "Because producers have less energy",
         "Because consumers produce energy"
       ],
@@ -279,8 +279,8 @@
     {
       "question": "What percentage of solar energy are producers capable of converting by photosynthesis?",
       "options": [
-        "10%",
         "50%",
+        "10%",
         "1%",
         "90%"
       ],
@@ -290,10 +290,10 @@
     {
       "question": "What is biomass?",
       "options": [
-        "The total energy of an organism",
         "The weight of living organic matter contained or assimilated to the body of an organism per unit time",
         "The total number of organisms",
-        "The amount of water in an organism"
+        "The amount of water in an organism",
+        "The total energy of an organism"
       ],
       "correctAnswer": "The weight of living organic matter contained or assimilated to the body of an organism per unit time",
       "id": 26
@@ -301,10 +301,10 @@
     {
       "question": "What does the length of the bar in an ecological pyramid show?",
       "options": [
-        "The age of organisms",
-        "The amount of energy, biomass, or number of organisms at each trophic level",
         "The speed of energy transfer",
-        "The size of individual organisms"
+        "The size of individual organisms",
+        "The amount of energy, biomass, or number of organisms at each trophic level",
+        "The age of organisms"
       ],
       "correctAnswer": "The amount of energy, biomass, or number of organisms at each trophic level",
       "id": 27
@@ -313,8 +313,8 @@
       "question": "Which type of ecological pyramid can be inverted?",
       "options": [
         "Pyramid of energy only",
-        "Pyramids of biomass or number",
         "Pyramid of energy and biomass",
+        "Pyramids of biomass or number",
         "All ecological pyramids"
       ],
       "correctAnswer": "Pyramids of biomass or number",
@@ -323,10 +323,10 @@
     {
       "question": "What determines whether a pyramid of biomass or number is upright or inverted?",
       "options": [
-        "The color of organisms",
-        "The type of ecosystem and the particular food chain",
         "The temperature",
-        "The season"
+        "The color of organisms",
+        "The season",
+        "The type of ecosystem and the particular food chain"
       ],
       "correctAnswer": "The type of ecosystem and the particular food chain",
       "id": 29
@@ -334,9 +334,9 @@
     {
       "question": "In Figure 6.6 showing an aquatic food chain pyramid of number, which organisms are at the base?",
       "options": [
+        "Chlorella (green algae)",
         "Tilapia (fish)",
         "Daphnia (zooplankton)",
-        "Chlorella (green algae)",
         "Water plants"
       ],
       "correctAnswer": "Chlorella (green algae)",
@@ -345,10 +345,10 @@
     {
       "question": "In Figure 6.6 showing an aquatic food chain pyramid of number, which organisms are in the middle?",
       "options": [
-        "Tilapia (fish)",
-        "Daphnia (zooplankton)",
+        "Bacteria",
         "Chlorella (green algae)",
-        "Bacteria"
+        "Daphnia (zooplankton)",
+        "Tilapia (fish)"
       ],
       "correctAnswer": "Daphnia (zooplankton)",
       "id": 31
@@ -356,8 +356,8 @@
     {
       "question": "In Figure 6.6 showing an aquatic food chain pyramid of number, which organisms are at the top?",
       "options": [
-        "Chlorella (green algae)",
         "Daphnia (zooplankton)",
+        "Chlorella (green algae)",
         "Tilapia (fish)",
         "Sharks"
       ],
@@ -368,8 +368,8 @@
       "question": "In the idealized pyramid of energy in Figure 6.5, how much sunlight energy is shown at the base?",
       "options": [
         "100,000 J",
-        "10,000 J",
         "1,000,000 J",
+        "10,000 J",
         "1,000 J"
       ],
       "correctAnswer": "1,000,000 J",
@@ -378,10 +378,10 @@
     {
       "question": "Why is the number of trophic levels usually limited to 3 or 4?",
       "options": [
-        "Because organisms cannot survive longer",
-        "Because energy decreases at each level and eventually insufficient energy remains",
+        "Because there is no more space in the ecosystem",
         "Because predators eat all prey",
-        "Because there is no more space in the ecosystem"
+        "Because energy decreases at each level and eventually insufficient energy remains",
+        "Because organisms cannot survive longer"
       ],
       "correctAnswer": "Because energy decreases at each level and eventually insufficient energy remains",
       "id": 34
@@ -389,10 +389,10 @@
     {
       "question": "What does the pyramid of energy primarily represent?",
       "options": [
-        "The number of organisms",
         "The flow of energy",
-        "The size of organisms",
-        "The weight of organisms"
+        "The number of organisms",
+        "The weight of organisms",
+        "The size of organisms"
       ],
       "correctAnswer": "The flow of energy",
       "id": 35
@@ -400,10 +400,10 @@
     {
       "question": "Ecological pyramids can also be constructed to represent which two other aspects at each trophic level?",
       "options": [
-        "Age and sex",
         "Biomass or number of organisms",
-        "Speed and strength",
-        "Color and size"
+        "Age and sex",
+        "Color and size",
+        "Speed and strength"
       ],
       "correctAnswer": "Biomass or number of organisms",
       "id": 36
@@ -411,10 +411,10 @@
     {
       "question": "The bars at the base of an ecological pyramid always represent which organisms?",
       "options": [
-        "Herbivores",
+        "Decomposers",
         "Plants (producers)",
-        "Carnivores",
-        "Decomposers"
+        "Herbivores",
+        "Carnivores"
       ],
       "correctAnswer": "Plants (producers)",
       "id": 37
@@ -422,10 +422,10 @@
     {
       "question": "What happens to energy that is not assimilated as biomass when a herbivore eats a producer?",
       "options": [
-        "It is stored indefinitely",
         "It is lost as heat and used for activities",
+        "It multiplies",
         "It returns to the producer",
-        "It multiplies"
+        "It is stored indefinitely"
       ],
       "correctAnswer": "It is lost as heat and used for activities",
       "id": 38

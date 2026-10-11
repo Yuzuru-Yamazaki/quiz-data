@@ -15,9 +15,9 @@
       "question": "With what features is the concept of a plant widely associated?",
       "options": [
         "Only roots and leaves",
-        "Flowers, root, stem and leaves having transporting vessels",
+        "Only leaves and fruits",
         "Only stems and flowers",
-        "Only leaves and fruits"
+        "Flowers, root, stem and leaves having transporting vessels"
       ],
       "correctAnswer": "Flowers, root, stem and leaves having transporting vessels"
     },
@@ -25,10 +25,10 @@
       "id": 2,
       "question": "What are mosses and liverworts classified as?",
       "options": [
-        "Vascular plants",
-        "Non-vascular plants",
         "Flowering plants",
-        "Gymnosperms"
+        "Non-vascular plants",
+        "Gymnosperms",
+        "Vascular plants"
       ],
       "correctAnswer": "Non-vascular plants"
     },
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "What do non-vascular plants lack?",
       "options": [
-        "Leaves",
-        "A transporting system or conducting vessels",
         "Roots",
-        "Chlorophyll"
+        "Chlorophyll",
+        "Leaves",
+        "A transporting system or conducting vessels"
       ],
       "correctAnswer": "A transporting system or conducting vessels"
     },
@@ -47,10 +47,10 @@
       "id": 4,
       "question": "What is a characteristic of non-vascular plants regarding their size?",
       "options": [
+        "They are medium-sized",
         "They are generally tall",
-        "They are generally small with limited height",
         "They can grow to any height",
-        "They are medium-sized"
+        "They are generally small with limited height"
       ],
       "correctAnswer": "They are generally small with limited height"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "Do lower plants produce seeds, flowers and fruits?",
       "options": [
-        "They produce all three",
-        "They are seedless and do not have flowers and fruits",
         "They produce only seeds",
-        "They produce only flowers"
+        "They produce only flowers",
+        "They produce all three",
+        "They are seedless and do not have flowers and fruits"
       ],
       "correctAnswer": "They are seedless and do not have flowers and fruits"
     },
@@ -81,9 +81,9 @@
       "question": "What structures do gymnosperms have?",
       "options": [
         "Well-developed root, stem and leaves",
-        "Only stems and leaves",
+        "Flowers and fruits",
         "Only roots",
-        "Flowers and fruits"
+        "Only stems and leaves"
       ],
       "correctAnswer": "Well-developed root, stem and leaves"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What structure serves as the reproductive organ in gymnosperms instead of flowers?",
       "options": [
-        "Fruit",
-        "Cone",
         "Spore",
-        "Bud"
+        "Bud",
+        "Fruit",
+        "Cone"
       ],
       "correctAnswer": "Cone"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "How are seeds in gymnosperm cones described?",
       "options": [
+        "Surrounded by flesh",
         "Covered by fruit",
-        "Without cover (naked seeds)",
         "Enclosed in a pod",
-        "Surrounded by flesh"
+        "Without cover (naked seeds)"
       ],
       "correctAnswer": "Without cover (naked seeds)"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "What are flowering plants commonly known as?",
       "options": [
-        "Gymnosperms",
-        "Angiosperms",
         "Bryophytes",
-        "Pteridophytes"
+        "Pteridophytes",
+        "Gymnosperms",
+        "Angiosperms"
       ],
       "correctAnswer": "Angiosperms"
     },
@@ -125,8 +125,8 @@
       "question": "What feature distinguishes angiosperms from gymnosperms?",
       "options": [
         "Angiosperms have cones",
-        "Angiosperms have flowers and produce seeds within a fruit",
         "Angiosperms have naked seeds",
+        "Angiosperms have flowers and produce seeds within a fruit",
         "Angiosperms lack vascular tissue"
       ],
       "correctAnswer": "Angiosperms have flowers and produce seeds within a fruit"
@@ -136,9 +136,9 @@
       "question": "What are gymnosperm seeds produced in their cone described as?",
       "options": [
         "Enclosed in a fruit",
-        "Naked seeds without cover",
         "Covered with flesh",
-        "Wrapped in a pod"
+        "Wrapped in a pod",
+        "Naked seeds without cover"
       ],
       "correctAnswer": "Naked seeds without cover"
     }

@@ -15,10 +15,10 @@
       "anki": true,
       "question": "Indigenous knowledge is also referred to as:",
       "options": [
-        "Modern science",
+        "Laboratory knowledge",
         "Traditional or local knowledge",
         "Imported knowledge",
-        "Laboratory knowledge"
+        "Modern science"
       ],
       "correctAnswer": "Traditional or local knowledge"
     },
@@ -27,10 +27,10 @@
       "anki": true,
       "question": "Indigenous knowledge is defined as the knowledge that local communities have accumulated over:",
       "options": [
-        "One year",
-        "A few months",
         "Generations of living in a particular geographic location",
-        "A single season"
+        "A single season",
+        "One year",
+        "A few months"
       ],
       "correctAnswer": "Generations of living in a particular geographic location"
     },
@@ -39,10 +39,10 @@
       "anki": true,
       "question": "Indigenous knowledge is often described as:",
       "options": [
-        "'Home grown' or 'local knowledge' unique to a particular culture",
         "Universal and identical everywhere",
+        "Borrowed from abroad",
         "Only found in textbooks",
-        "Borrowed from abroad"
+        "'Home grown' or 'local knowledge' unique to a particular culture"
       ],
       "correctAnswer": "'Home grown' or 'local knowledge' unique to a particular culture"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "Indigenous knowledge often develops:",
       "options": [
+        "From foreign institutions",
         "Independently of scientific knowledge",
-        "Only after scientific discovery",
         "From laboratory experiments",
-        "From foreign institutions"
+        "Only after scientific discovery"
       ],
       "correctAnswer": "Independently of scientific knowledge"
     },
@@ -63,9 +63,9 @@
       "anki": true,
       "question": "Indigenous knowledge often includes:",
       "options": [
-        "Beliefs and traditions intended to preserve, communicate, and contextualize indigenous relationships with culture and landscape over time",
         "Only mathematical formulas",
         "Only chemical equations",
+        "Beliefs and traditions intended to preserve, communicate, and contextualize indigenous relationships with culture and landscape over time",
         "Only statistical data"
       ],
       "correctAnswer": "Beliefs and traditions intended to preserve, communicate, and contextualize indigenous relationships with culture and landscape over time"
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "Indigenous knowledge often develops from agricultural production related problems such as:",
       "options": [
-        "Land degradation, soil erosion, changes to the climate, and topography",
         "Excess rainfall only",
+        "Good harvests only",
         "High market prices only",
-        "Good harvests only"
+        "Land degradation, soil erosion, changes to the climate, and topography"
       ],
       "correctAnswer": "Land degradation, soil erosion, changes to the climate, and topography"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Other issues that contribute to development of indigenous knowledge include:",
       "options": [
-        "Farmers having only small landholdings along with social and cultural settings",
-        "Large farms only",
         "Urbanization only",
-        "Industrialization only"
+        "Industrialization only",
+        "Large farms only",
+        "Farmers having only small landholdings along with social and cultural settings"
       ],
       "correctAnswer": "Farmers having only small landholdings along with social and cultural settings"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "Communities with indigenous knowledge possess knowledge about their natural resources and environment based on:",
       "options": [
-        "A long period of observation and experience",
         "A single lecture",
-        "Recent internet searches",
-        "Guesswork"
+        "A long period of observation and experience",
+        "Guesswork",
+        "Recent internet searches"
       ],
       "correctAnswer": "A long period of observation and experience"
     },
@@ -111,9 +111,9 @@
       "anki": true,
       "question": "Among the Gumuz society, indigenous knowledge is vital in:",
       "options": [
+        "Computer programming",
         "Natural resource management",
         "Space exploration",
-        "Computer programming",
         "Aircraft design"
       ],
       "correctAnswer": "Natural resource management"
@@ -124,9 +124,9 @@
       "question": "The Gumuz people believe that natural resources are:",
       "options": [
         "A gift, a blessing and creation of the Yamba (God)",
-        "Commodities to be exploited without care",
+        "Only for sale",
         "Worthless",
-        "Only for sale"
+        "Commodities to be exploited without care"
       ],
       "correctAnswer": "A gift, a blessing and creation of the Yamba (God)"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "According to the Gumuz belief, natural resources are sources of livelihood for:",
       "options": [
-        "The past only",
-        "The present generation only",
+        "Foreigners only",
         "The past, the present generation, and will continue for future generations",
-        "Foreigners only"
+        "The past only",
+        "The present generation only"
       ],
       "correctAnswer": "The past, the present generation, and will continue for future generations"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "A well-known example of indigenous knowledge is the traditional skills in terracing demonstrated by:",
       "options": [
-        "The Konso people",
         "The Inuit people",
         "The Maori people",
-        "The Navajo people"
+        "The Navajo people",
+        "The Konso people"
       ],
       "correctAnswer": "The Konso people"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "The Konso people extensively terrace their land to:",
       "options": [
-        "Protect against soil erosion",
         "Increase land area",
-        "Attract rain",
-        "Prevent flooding in cities"
+        "Protect against soil erosion",
+        "Prevent flooding in cities",
+        "Attract rain"
       ],
       "correctAnswer": "Protect against soil erosion"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "The Konso people also practice traditional irrigation to:",
       "options": [
-        "Supplement the unpredictable and variable rainfall",
-        "Drain all water",
+        "Increase wind speed",
         "Reduce humidity",
-        "Increase wind speed"
+        "Supplement the unpredictable and variable rainfall",
+        "Drain all water"
       ],
       "correctAnswer": "Supplement the unpredictable and variable rainfall"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "Farmers in Bale prepare a trench around potato plots to:",
       "options": [
-        "Protect the crop from porcupine attack",
         "Collect rainwater only",
-        "Prevent weed growth",
-        "Attract insects"
+        "Protect the crop from porcupine attack",
+        "Attract insects",
+        "Prevent weed growth"
       ],
       "correctAnswer": "Protect the crop from porcupine attack"
     },
@@ -208,9 +208,9 @@
       "question": "In Gondar, farmers shift their barns from one farmland to another in search of:",
       "options": [
         "Cow dung to fertilize the land",
-        "Straw for thatching",
         "Wood for fuel",
-        "Water for animals"
+        "Water for animals",
+        "Straw for thatching"
       ],
       "correctAnswer": "Cow dung to fertilize the land"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "Highland farmers use kitchen ash to:",
       "options": [
+        "Dry the soil",
         "Fertilize the soil and reduce soil acidity",
         "Attract pests",
-        "Increase soil alkalinity only",
-        "Dry the soil"
+        "Increase soil alkalinity only"
       ],
       "correctAnswer": "Fertilize the soil and reduce soil acidity"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "Highland farmers use smoke to:",
       "options": [
-        "Reduce frost damage",
-        "Increase frost damage",
+        "Attract birds",
         "Prevent rainfall",
-        "Attract birds"
+        "Reduce frost damage",
+        "Increase frost damage"
       ],
       "correctAnswer": "Reduce frost damage"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "Indigenous knowledge is unique to:",
       "options": [
-        "A particular culture",
+        "Only urban areas",
         "All cultures equally",
         "Only industrialized nations",
-        "Only urban areas"
+        "A particular culture"
       ],
       "correctAnswer": "A particular culture"
     },
@@ -255,9 +255,9 @@
       "anki": true,
       "question": "Which of the following is an example of indigenous knowledge practice for soil fertility?",
       "options": [
+        "Applying synthetic pesticides",
         "Using chemical fertilizers only",
         "Shifting barns to collect cow dung in Gondar",
-        "Applying synthetic pesticides",
         "Using plastic mulch"
       ],
       "correctAnswer": "Shifting barns to collect cow dung in Gondar"
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "Which group is known for extensive terracing to control soil erosion?",
       "options": [
-        "Konso people",
         "Gumuz people",
-        "Bale farmers",
-        "Gondar farmers"
+        "Gondar farmers",
+        "Konso people",
+        "Bale farmers"
       ],
       "correctAnswer": "Konso people"
     },
@@ -279,9 +279,9 @@
       "anki": true,
       "question": "The practice of using kitchen ash in highland areas helps to:",
       "options": [
-        "Reduce soil acidity",
-        "Increase soil pH drastically",
         "Remove organic matter",
+        "Increase soil pH drastically",
+        "Reduce soil acidity",
         "Compact soil"
       ],
       "correctAnswer": "Reduce soil acidity"

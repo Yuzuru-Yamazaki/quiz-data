@@ -14,10 +14,10 @@
       "id": 1,
       "question": "What is the normal $pH$ range of blood?",
       "options": [
+        "6.8 to 7.0",
         "7.0 to 7.2",
-        "7.35 to 7.45",
         "7.5 to 7.8",
-        "6.8 to 7.0"
+        "7.35 to 7.45"
       ],
       "correctAnswer": "7.35 to 7.45"
     },
@@ -26,9 +26,9 @@
       "question": "What blood $pH$ value can lead to death?",
       "options": [
         "Higher than 7.0 or lower than 6.5",
+        "Higher than 8.0 or lower than 7.0",
         "Higher than 7.8 or lower than 6.8",
-        "Higher than 7.5 or lower than 7.0",
-        "Higher than 8.0 or lower than 7.0"
+        "Higher than 7.5 or lower than 7.0"
       ],
       "correctAnswer": "Higher than 7.8 or lower than 6.8"
     },
@@ -36,9 +36,9 @@
       "id": 3,
       "question": "What percentage of erythropoietin (EPO) does the kidney produce?",
       "options": [
-        "50%",
         "65%",
         "75%",
+        "50%",
         "85%"
       ],
       "correctAnswer": "85%"
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "In the final synthesis step of which vitamin do the kidneys play a role?",
       "options": [
-        "Vitamin A",
-        "Vitamin $B_{12}$",
+        "Vitamin D",
         "Vitamin C",
-        "Vitamin D"
+        "Vitamin $B_{12}$",
+        "Vitamin A"
       ],
       "correctAnswer": "Vitamin D"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "What may occur when kidneys fail?",
       "options": [
-        "Increased energy",
-        "Weakness, fatigue, anemia, edema, metabolic acidosis, increased potassium, heart arrhythmias",
+        "Enhanced vision",
         "Improved digestion",
-        "Enhanced vision"
+        "Increased energy",
+        "Weakness, fatigue, anemia, edema, metabolic acidosis, increased potassium, heart arrhythmias"
       ],
       "correctAnswer": "Weakness, fatigue, anemia, edema, metabolic acidosis, increased potassium, heart arrhythmias"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "The kidney should be thought of as a regulator of what, rather than a urine maker?",
       "options": [
-        "Blood pressure",
-        "Plasma",
         "Body temperature",
-        "Heart rate"
+        "Heart rate",
+        "Plasma",
+        "Blood pressure"
       ],
       "correctAnswer": "Plasma"
     },
@@ -92,9 +92,9 @@
       "question": "What shape are the kidneys?",
       "options": [
         "Round",
-        "Bean-shaped",
         "Oval",
-        "Triangular"
+        "Triangular",
+        "Bean-shaped"
       ],
       "correctAnswer": "Bean-shaped"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "Where are the kidneys located?",
       "options": [
-        "In the pelvic cavity",
-        "In the abdominal cavity directly below the liver",
         "In the thoracic cavity",
-        "Behind the stomach"
+        "In the abdominal cavity directly below the liver",
+        "Behind the stomach",
+        "In the pelvic cavity"
       ],
       "correctAnswer": "In the abdominal cavity directly below the liver"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Which glands are located on top of each kidney?",
       "options": [
-        "Pituitary glands",
         "Adrenal glands",
-        "Thyroid glands",
-        "Salivary glands"
+        "Pituitary glands",
+        "Salivary glands",
+        "Thyroid glands"
       ],
       "correctAnswer": "Adrenal glands"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What percentage of oxygen taken by the lungs do the kidneys consume?",
       "options": [
-        "Over 10%",
         "Over 25%",
-        "Over 50%",
-        "Over 75%"
+        "Over 10%",
+        "Over 75%",
+        "Over 50%"
       ],
       "correctAnswer": "Over 25%"
     },
@@ -135,9 +135,9 @@
       "id": 12,
       "question": "Through which process do kidney cells produce ATP?",
       "options": [
-        "Anaerobic respiration",
         "Aerobic respiration",
         "Fermentation",
+        "Anaerobic respiration",
         "Photosynthesis"
       ],
       "correctAnswer": "Aerobic respiration"
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "What is the filtrate that comes out of the kidneys called?",
       "options": [
-        "Plasma",
         "Urine",
+        "Sweat",
         "Lymph",
-        "Sweat"
+        "Plasma"
       ],
       "correctAnswer": "Urine"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What are the tubes that transport urine from kidneys to the urinary bladder called?",
       "options": [
-        "Urethra",
-        "Ureters",
         "Renal tubules",
-        "Collecting ducts"
+        "Ureters",
+        "Collecting ducts",
+        "Urethra"
       ],
       "correctAnswer": "Ureters"
     },
@@ -180,9 +180,9 @@
       "question": "What drives urine through the ureters?",
       "options": [
         "Gravity",
+        "Enzymes",
         "Waves of peristalsis (smooth muscle contractions)",
-        "Blood pressure",
-        "Enzymes"
+        "Blood pressure"
       ],
       "correctAnswer": "Waves of peristalsis (smooth muscle contractions)"
     },
@@ -190,10 +190,10 @@
       "id": 17,
       "question": "Where is urine from both ureters collected?",
       "options": [
-        "Urethra",
-        "Bladder",
+        "Collecting duct",
         "Renal pelvis",
-        "Collecting duct"
+        "Bladder",
+        "Urethra"
       ],
       "correctAnswer": "Bladder"
     },
@@ -201,10 +201,10 @@
       "id": 18,
       "question": "Why does urination frequency increase during late pregnancy?",
       "options": [
-        "Increased blood volume",
+        "Kidney enlargement",
         "Bladder compression by the growing uterus",
-        "Hormonal changes",
-        "Kidney enlargement"
+        "Increased blood volume",
+        "Hormonal changes"
       ],
       "correctAnswer": "Bladder compression by the growing uterus"
     },
@@ -212,10 +212,10 @@
       "id": 19,
       "question": "What transports urine from the bladder to the exterior of the body?",
       "options": [
-        "Ureters",
+        "Collecting duct",
         "Urethra",
-        "Renal pelvis",
-        "Collecting duct"
+        "Ureters",
+        "Renal pelvis"
       ],
       "correctAnswer": "Urethra"
     },
@@ -223,10 +223,10 @@
       "id": 20,
       "question": "Which urologic organ differs significantly between males and females?",
       "options": [
-        "Ureters",
-        "Bladder",
+        "Kidneys",
         "Urethra",
-        "Kidneys"
+        "Bladder",
+        "Ureters"
       ],
       "correctAnswer": "Urethra"
     },
@@ -234,9 +234,9 @@
       "id": 21,
       "question": "What is the length of the female urethra?",
       "options": [
-        "About 4 cm",
         "About 8 cm",
         "About 12 cm",
+        "About 4 cm",
         "About 20 cm"
       ],
       "correctAnswer": "About 4 cm"
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "What is the length of the male urethra?",
       "options": [
+        "About 25 cm",
         "About 10 cm",
         "About 15 cm",
-        "About 20 cm",
-        "About 25 cm"
+        "About 20 cm"
       ],
       "correctAnswer": "About 20 cm"
     },
@@ -257,8 +257,8 @@
       "question": "Why do women have a higher frequency of urinary tract infections (UTIs)?",
       "options": [
         "Larger bladder",
-        "Shorter urethra providing less protection",
         "Hormonal factors",
+        "Shorter urethra providing less protection",
         "Kidney structure"
       ],
       "correctAnswer": "Shorter urethra providing less protection"
@@ -267,10 +267,10 @@
       "id": 24,
       "question": "In males, what additional function does the urethra serve?",
       "options": [
+        "Producing urine",
         "Digestion",
-        "Transporting sperm",
         "Filtering blood",
-        "Producing urine"
+        "Transporting sperm"
       ],
       "correctAnswer": "Transporting sperm"
     },
@@ -279,9 +279,9 @@
       "question": "What are the three internal sections of the kidney?",
       "options": [
         "Cortex, medulla, renal pelvis",
+        "Medulla, nephron, ureter",
         "Capsule, pyramid, calyx",
-        "Cortex, hilum, pelvis",
-        "Medulla, nephron, ureter"
+        "Cortex, hilum, pelvis"
       ],
       "correctAnswer": "Cortex, medulla, renal pelvis"
     },
@@ -300,10 +300,10 @@
       "id": 27,
       "question": "What enters and exits the kidney at the hilum?",
       "options": [
+        "Only ureters",
         "Only blood vessels",
         "Blood arteries, veins, and nerves",
-        "Only nerves",
-        "Only ureters"
+        "Only nerves"
       ],
       "correctAnswer": "Blood arteries, veins, and nerves"
     },
@@ -311,10 +311,10 @@
       "id": 28,
       "question": "What causes the renal cortex to appear granular?",
       "options": [
-        "Blood vessels",
-        "Renal corpuscles",
+        "Nephron tubules",
         "Renal pyramids",
-        "Nephron tubules"
+        "Blood vessels",
+        "Renal corpuscles"
       ],
       "correctAnswer": "Renal corpuscles"
     },
@@ -322,10 +322,10 @@
       "id": 29,
       "question": "What makes up the majority of the renal medulla?",
       "options": [
-        "Renal corpuscles",
         "Renal pyramids",
+        "Blood vessels",
         "Nephrons",
-        "Blood vessels"
+        "Renal corpuscles"
       ],
       "correctAnswer": "Renal pyramids"
     },
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "How many renal pyramids does each kidney have on average?",
       "options": [
+        "Ten",
         "Four",
         "Six",
-        "Eight",
-        "Ten"
+        "Eight"
       ],
       "correctAnswer": "Eight"
     },
@@ -344,9 +344,9 @@
       "id": 31,
       "question": "Where does urine produced by nephrons pass before entering the ureters?",
       "options": [
-        "Renal cortex",
         "Renal pelvis",
         "Renal hilum",
+        "Renal cortex",
         "Renal medulla"
       ],
       "correctAnswer": "Renal pelvis"
@@ -355,10 +355,10 @@
       "id": 32,
       "question": "Renal blood flow begins with which artery branching into renal arteries?",
       "options": [
-        "Pulmonary artery",
         "Aorta",
-        "Mesenteric artery",
-        "Carotid artery"
+        "Pulmonary artery",
+        "Carotid artery",
+        "Mesenteric artery"
       ],
       "correctAnswer": "Aorta"
     },
@@ -366,10 +366,10 @@
       "id": 33,
       "question": "Renal blood flow continues with renal veins exiting to join which vessel?",
       "options": [
-        "Superior vena cava",
-        "Inferior vena cava",
         "Aorta",
-        "Pulmonary vein"
+        "Inferior vena cava",
+        "Pulmonary vein",
+        "Superior vena cava"
       ],
       "correctAnswer": "Inferior vena cava"
     },
@@ -377,10 +377,10 @@
       "id": 34,
       "question": "What is the functional unit of the kidney?",
       "options": [
+        "Collecting duct",
         "Nephron",
-        "Glomerulus",
         "Renal pyramid",
-        "Collecting duct"
+        "Glomerulus"
       ],
       "correctAnswer": "Nephron"
     },
@@ -388,10 +388,10 @@
       "id": 35,
       "question": "How many nephrons are in each kidney?",
       "options": [
-        "About 100,000",
-        "About 500,000",
         "Over one million",
-        "About 10 million"
+        "About 100,000",
+        "About 10 million",
+        "About 500,000"
       ],
       "correctAnswer": "Over one million"
     },
@@ -399,10 +399,10 @@
       "id": 36,
       "question": "What are the three parts of a nephron?",
       "options": [
+        "Artery, vein, capillary",
         "Glomerulus, tubule, collecting duct",
-        "Renal corpuscle, renal tubule, associated capillary network",
         "Cortex, medulla, pelvis",
-        "Artery, vein, capillary"
+        "Renal corpuscle, renal tubule, associated capillary network"
       ],
       "correctAnswer": "Renal corpuscle, renal tubule, associated capillary network"
     },
@@ -410,9 +410,9 @@
       "id": 37,
       "question": "What makes up the renal corpuscle?",
       "options": [
-        "Proximal and distal tubules",
-        "Glomerulus and Bowman's capsule",
         "Loop of Henle and collecting duct",
+        "Glomerulus and Bowman's capsule",
+        "Proximal and distal tubules",
         "Afferent and efferent arterioles"
       ],
       "correctAnswer": "Glomerulus and Bowman's capsule"
@@ -421,10 +421,10 @@
       "id": 38,
       "question": "What is Bowman's capsule?",
       "options": [
-        "A network of capillaries",
-        "A cup-shaped chamber surrounding the glomerulus",
+        "A part of the collecting duct",
         "A tube that carries urine",
-        "A part of the collecting duct"
+        "A network of capillaries",
+        "A cup-shaped chamber surrounding the glomerulus"
       ],
       "correctAnswer": "A cup-shaped chamber surrounding the glomerulus"
     },
@@ -432,10 +432,10 @@
       "id": 39,
       "question": "What is the glomerulus?",
       "options": [
-        "A cup-shaped chamber",
         "A network of capillaries",
+        "A muscle",
         "A collecting tube",
-        "A muscle"
+        "A cup-shaped chamber"
       ],
       "correctAnswer": "A network of capillaries"
     },
@@ -443,10 +443,10 @@
       "id": 40,
       "question": "What are the three segments of the renal tubule based on function?",
       "options": [
-        "Proximal convoluted tubule, loop of Henle, distal convoluted tubule",
-        "Glomerulus, Bowman's capsule, collecting duct",
+        "Afferent arteriole, glomerulus, efferent arteriole",
         "Cortex, medulla, pelvis",
-        "Afferent arteriole, glomerulus, efferent arteriole"
+        "Glomerulus, Bowman's capsule, collecting duct",
+        "Proximal convoluted tubule, loop of Henle, distal convoluted tubule"
       ],
       "correctAnswer": "Proximal convoluted tubule, loop of Henle, distal convoluted tubule"
     },
@@ -454,9 +454,9 @@
       "id": 41,
       "question": "Where does the distal convoluted tubule discharge its contents?",
       "options": [
-        "Into the ureter",
-        "Into the bladder",
         "Into the collecting ducts",
+        "Into the bladder",
+        "Into the ureter",
         "Into the renal pelvis"
       ],
       "correctAnswer": "Into the collecting ducts"
@@ -465,10 +465,10 @@
       "id": 42,
       "question": "What branches enter the glomerulus?",
       "options": [
-        "Efferent arterioles",
         "Afferent arterioles",
+        "Interlobular arteries",
         "Renal arteries",
-        "Interlobular arteries"
+        "Efferent arterioles"
       ],
       "correctAnswer": "Afferent arterioles"
     },
@@ -476,9 +476,9 @@
       "id": 43,
       "question": "What branch leaves the glomerulus?",
       "options": [
-        "Afferent arteriole",
-        "Efferent arteriole",
         "Renal vein",
+        "Efferent arteriole",
+        "Afferent arteriole",
         "Interlobular vein"
       ],
       "correctAnswer": "Efferent arteriole"
@@ -487,10 +487,10 @@
       "id": 44,
       "question": "What is the capillary network that runs through the glomerulus called?",
       "options": [
-        "Peritubular capillary network",
-        "Glomerular capillary bed",
+        "Renal plexus",
         "Vasa recta",
-        "Renal plexus"
+        "Glomerular capillary bed",
+        "Peritubular capillary network"
       ],
       "correctAnswer": "Glomerular capillary bed"
     },
@@ -499,9 +499,9 @@
       "question": "What capillary network surrounds portions of the renal tubule after the efferent arteriole exits the glomerulus?",
       "options": [
         "Glomerular capillary bed",
+        "Arterial plexus",
         "Peritubular capillary network",
-        "Vasa recta",
-        "Arterial plexus"
+        "Vasa recta"
       ],
       "correctAnswer": "Peritubular capillary network"
     },
@@ -509,9 +509,9 @@
       "id": 46,
       "question": "What is the first step in the three-step process of urine formation?",
       "options": [
+        "Glomerular filtration",
         "Tubular reabsorption",
         "Tubular secretion",
-        "Glomerular filtration",
         "Diffusion"
       ],
       "correctAnswer": "Glomerular filtration"
@@ -520,10 +520,10 @@
       "id": 47,
       "question": "What is filtered out of the blood during glomerular filtration?",
       "options": [
-        "Proteins only",
-        "Almost all solutes except proteins",
         "Only water",
-        "Only urea"
+        "Only urea",
+        "Almost all solutes except proteins",
+        "Proteins only"
       ],
       "correctAnswer": "Almost all solutes except proteins"
     },
@@ -531,10 +531,10 @@
       "id": 48,
       "question": "What is the process by which most solutes are reabsorbed in the proximal convoluted tubule called?",
       "options": [
+        "Osmosis",
         "Glomerular filtration",
-        "Tubular secretion",
         "Tubular reabsorption",
-        "Osmosis"
+        "Tubular secretion"
       ],
       "correctAnswer": "Tubular reabsorption"
     },
@@ -542,10 +542,10 @@
       "id": 49,
       "question": "What is the process of secreting extra solutes and wastes into the renal tubules called?",
       "options": [
-        "Tubular reabsorption",
         "Glomerular filtration",
+        "Diffusion",
         "Tubular secretion",
-        "Diffusion"
+        "Tubular reabsorption"
       ],
       "correctAnswer": "Tubular secretion"
     },
@@ -553,10 +553,10 @@
       "id": 50,
       "question": "What does the proximal convoluted tubule actively transfer from the interstitial fluid into the filtrate?",
       "options": [
+        "Vitamins",
         "Water and ions",
         "Toxins and medications",
-        "Glucose and amino acids",
-        "Vitamins"
+        "Glucose and amino acids"
       ],
       "correctAnswer": "Toxins and medications"
     },
@@ -564,10 +564,10 @@
       "id": 51,
       "question": "What does the proximal convoluted tubule reabsorb from the filtrate?",
       "options": [
-        "Toxins only",
         "Ions, water, and nutrients",
-        "Urea only",
-        "Medications"
+        "Toxins only",
+        "Medications",
+        "Urea only"
       ],
       "correctAnswer": "Ions, water, and nutrients"
     },
@@ -575,10 +575,10 @@
       "id": 52,
       "question": "What substance does the proximal convoluted tubule secrete into the filtrate to regulate blood $pH$?",
       "options": [
-        "Bicarbonate",
-        "Ammonia ($NH_3$)",
         "Sodium",
-        "Potassium"
+        "Potassium",
+        "Bicarbonate",
+        "Ammonia ($NH_3$)"
       ],
       "correctAnswer": "Ammonia ($NH_3$)"
     },
@@ -586,9 +586,9 @@
       "id": 53,
       "question": "Ammonia secreted into the filtrate interacts with $H^+$ to form what?",
       "options": [
-        "$NH_4^+$",
-        "$NH_2$-",
         "$N_2$",
+        "$NH_2$-",
+        "$NH_4^+$",
         "HNO3"
       ],
       "correctAnswer": "$NH_4^+$"
@@ -597,9 +597,9 @@
       "id": 54,
       "question": "When is more ammonia secreted by the proximal convoluted tubule?",
       "options": [
-        "When the filtrate is alkaline",
-        "When the filtrate is acidic",
         "When blood pressure is high",
+        "When the filtrate is acidic",
+        "When the filtrate is alkaline",
         "When blood sugar is low"
       ],
       "correctAnswer": "When the filtrate is acidic"
@@ -608,10 +608,10 @@
       "id": 55,
       "question": "What type of cells border the descending loop of Henle?",
       "options": [
+        "Cuboidal cells",
         "Caved cells",
-        "Aquaporin-containing cells",
         "Squamous cells",
-        "Cuboidal cells"
+        "Aquaporin-containing cells"
       ],
       "correctAnswer": "Aquaporin-containing cells"
     },
@@ -619,10 +619,10 @@
       "id": 56,
       "question": "What moves from the filtrate into the interstitial fluid in the descending loop of Henle?",
       "options": [
-        "Sodium",
         "Chloride",
+        "Glucose",
         "Water",
-        "Glucose"
+        "Sodium"
       ],
       "correctAnswer": "Water"
     },
@@ -632,8 +632,8 @@
       "options": [
         "$K^+$ and $H^+$",
         "$Na^+$ and $Cl^-$",
-        "$Ca^{2+}$ and $Mg^{2+}$",
-        "$HCO_3^-$ and $PO_4$-"
+        "$HCO_3^-$ and $PO_4$-",
+        "$Ca^{2+}$ and $Mg^{2+}$"
       ],
       "correctAnswer": "$Na^+$ and $Cl^-$"
     },
@@ -642,8 +642,8 @@
       "question": "What happens to $Na^+$ and $Cl^-$ in the thick region of the ascending loop of Henle?",
       "options": [
         "They diffuse out",
-        "They are actively transferred into the interstitial fluid",
         "They are reabsorbed into the blood",
+        "They are actively transferred into the interstitial fluid",
         "They are secreted into the filtrate"
       ],
       "correctAnswer": "They are actively transferred into the interstitial fluid"
@@ -653,9 +653,9 @@
       "question": "Why does the filtrate become increasingly dilute as it passes up the ascending loop of Henle?",
       "options": [
         "Water is lost",
+        "Water is added",
         "Salt but not water is lost",
-        "Both salt and water are lost",
-        "Water is added"
+        "Both salt and water are lost"
       ],
       "correctAnswer": "Salt but not water is lost"
     },
@@ -663,10 +663,10 @@
       "id": 60,
       "question": "Which ions are selectively secreted into the filtrate in the distal convoluted tubule?",
       "options": [
-        "$Na^+$ and $Cl^-$",
+        "$NH_3$ and water",
         "$K^+$ and $H^+$",
         "$Ca^{2+}$ and $HCO_3^-$",
-        "$NH_3$ and water"
+        "$Na^+$ and $Cl^-$"
       ],
       "correctAnswer": "$K^+$ and $H^+$"
     },
@@ -674,10 +674,10 @@
       "id": 61,
       "question": "Which ions are reabsorbed in the distal convoluted tubule to maintain blood $pH$ and electrolyte balance?",
       "options": [
-        "$K^+$ and $H^+$",
-        "$Na^+$, $Cl^-$, and $HCO_3^-$",
+        "$NH_3$ and urea",
         "$Ca^{2+}$ and $Mg^{2+}$",
-        "$NH_3$ and urea"
+        "$Na^+$, $Cl^-$, and $HCO_3^-$",
+        "$K^+$ and $H^+$"
       ],
       "correctAnswer": "$Na^+$, $Cl^-$, and $HCO_3^-$"
     },
@@ -685,10 +685,10 @@
       "id": 62,
       "question": "What does the collecting duct do?",
       "options": [
-        "Filters blood under pressure",
         "Reabsorbs solutes and water from the filtrate",
-        "Secretes ammonia",
-        "Produces urine from waste"
+        "Produces urine from waste",
+        "Filters blood under pressure",
+        "Secretes ammonia"
       ],
       "correctAnswer": "Reabsorbs solutes and water from the filtrate"
     },
@@ -696,10 +696,10 @@
       "id": 63,
       "question": "What results when the collecting duct reabsorbs solutes and water from the filtrate?",
       "options": [
-        "Concentrated urine",
         "Dilute urine",
-        "No urine",
-        "Blood"
+        "Blood",
+        "Concentrated urine",
+        "No urine"
       ],
       "correctAnswer": "Dilute urine"
     },
@@ -707,10 +707,10 @@
       "id": 64,
       "question": "What does the glomerulus force out of the blood by pressure?",
       "options": [
+        "White blood cells",
         "Large proteins",
-        "Small solutes",
         "Red blood cells",
-        "White blood cells"
+        "Small solutes"
       ],
       "correctAnswer": "Small solutes"
     },
@@ -718,10 +718,10 @@
       "id": 65,
       "question": "Which organs of the urinary system use both involuntary and voluntary sphincters?",
       "options": [
-        "Ureters",
+        "Bladder",
         "Urethra",
-        "Kidneys",
-        "Bladder"
+        "Ureters",
+        "Kidneys"
       ],
       "correctAnswer": "Urethra"
     }

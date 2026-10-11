@@ -1,0 +1,276 @@
+{
+  "title": "1.2 Web Career Pathways",
+  "description": "Web design and development career paths",
+  "folder": "School/Grade 11/Web Development/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit1"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which web career pathway focuses on creating visually appealing and user-friendly website layouts?",
+      "options": [
+        "Web Designer",
+        "Full-Stack Developer",
+        "Back-End Developer",
+        "Content Manager"
+      ],
+      "correctAnswer": "Web Designer"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A Web Designer uses which of the following to design website elements?",
+      "options": [
+        "Server configuration tools",
+        "Database query languages",
+        "Authentication protocols",
+        "Graphic design tools and principles"
+      ],
+      "correctAnswer": "Graphic design tools and principles"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "A Web Designer works closely with which group to understand design requirements?",
+      "options": [
+        "Database administrators",
+        "Network engineers",
+        "Clients",
+        "Security auditors"
+      ],
+      "correctAnswer": "Clients"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which web career pathway implements the visual and interactive elements of a website?",
+      "options": [
+        "Content Manager",
+        "Back-End Developer",
+        "Front-End Developer",
+        "Web Designer"
+      ],
+      "correctAnswer": "Front-End Developer"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A Front-End Developer uses which technologies to create engaging user interfaces?",
+      "options": [
+        "Apache, Nginx, and Docker",
+        "Python, Ruby, and PHP",
+        "MySQL, PostgreSQL, and MongoDB",
+        "HTML, CSS, and JavaScript"
+      ],
+      "correctAnswer": "HTML, CSS, and JavaScript"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which web career pathway ensures cross-browser compatibility and responsive design?",
+      "options": [
+        "Back-End Developer",
+        "Content Manager",
+        "UX Designer",
+        "Front-End Developer"
+      ],
+      "correctAnswer": "Front-End Developer"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which web career pathway develops the server-side logic and functionality of websites or web applications?",
+      "options": [
+        "Back-End Developer",
+        "Web Designer",
+        "Front-End Developer",
+        "Content Manager"
+      ],
+      "correctAnswer": "Back-End Developer"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "A Back-End Developer uses programming languages such as which of the following?",
+      "options": [
+        "Python, Ruby, PHP, or Java",
+        "HTML, CSS, or JavaScript",
+        "Excel, Word, or PowerPoint",
+        "Photoshop, Illustrator, or Figma"
+      ],
+      "correctAnswer": "Python, Ruby, PHP, or Java"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A Back-End Developer designs and manages databases, handles server operations, and integrates what?",
+      "options": [
+        "Colors",
+        "Logos",
+        "APIs",
+        "Fonts"
+      ],
+      "correctAnswer": "APIs"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which web career pathway possesses knowledge and skills in both front-end and back-end development?",
+      "options": [
+        "Back-End Developer",
+        "Web Designer",
+        "Front-End Developer",
+        "Full-Stack Developer"
+      ],
+      "correctAnswer": "Full-Stack Developer"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "A Full-Stack Developer handles the entire web development process and provides which kind of solutions?",
+      "options": [
+        "End-to-end solutions",
+        "Server-only solutions",
+        "Content-only solutions",
+        "Design-only solutions"
+      ],
+      "correctAnswer": "End-to-end solutions"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which web career pathway focuses on creating intuitive and user-friendly website experiences?",
+      "options": [
+        "Front-End Developer",
+        "Content Manager",
+        "User Experience (UX) Designer",
+        "Web Designer"
+      ],
+      "correctAnswer": "User Experience (UX) Designer"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "A UX Designer conducts which activities to optimize website usability?",
+      "options": [
+        "User research and usability testing",
+        "Server configuration and scaling",
+        "Payment gateway integration",
+        "Database schema design"
+      ],
+      "correctAnswer": "User research and usability testing"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A UX Designer uses which tools to design seamless user journeys?",
+      "options": [
+        "Wireframing and prototyping tools",
+        "Database administration tools",
+        "Version control systems",
+        "Network monitoring tools"
+      ],
+      "correctAnswer": "Wireframing and prototyping tools"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which web career pathway manages and updates website content, ensuring its accuracy and relevance?",
+      "options": [
+        "UX Designer",
+        "Web Designer",
+        "Content Manager",
+        "Back-End Developer"
+      ],
+      "correctAnswer": "Content Manager"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "A Content Manager coordinates with which group to publish engaging content?",
+      "options": [
+        "Security analysts",
+        "Database administrators",
+        "Network administrators",
+        "Content creators and stakeholders"
+      ],
+      "correctAnswer": "Content creators and stakeholders"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A Content Manager implements which of the following?",
+      "options": [
+        "Responsive design frameworks",
+        "Server clustering and load balancing",
+        "Encryption and secure communication protocols",
+        "Content management systems and SEO best practices"
+      ],
+      "correctAnswer": "Content management systems and SEO best practices"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Besides the six main pathways, which of the following is listed as another web career path?",
+      "options": [
+        "Medicine",
+        "Civil engineering",
+        "Law",
+        "Web analytics"
+      ],
+      "correctAnswer": "Web analytics"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Which career pathway specializes in an organization's online buying and selling activities?",
+      "options": [
+        "E-commerce specialization",
+        "Website administration",
+        "Web project management",
+        "SEO specialization"
+      ],
+      "correctAnswer": "E-commerce specialization"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Who focuses on intuitive user experiences and usability testing?",
+      "options": [
+        "Web Designer",
+        "Back-End Developer",
+        "Content Manager",
+        "UX Designer"
+      ],
+      "correctAnswer": "UX Designer"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Who is responsible for coordinating with content creators and implementing SEO best practices?",
+      "options": [
+        "Web Designer",
+        "Full-Stack Developer",
+        "Front-End Developer",
+        "Content Manager"
+      ],
+      "correctAnswer": "Content Manager"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "True or False: Full-Stack Developers have knowledge and skills in both front-end and back-end development.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    }
+  ]
+}

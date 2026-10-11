@@ -1,0 +1,206 @@
+{
+  "title": "2.4 Classification and Applications of Computers",
+  "description": "Classification based on size, purpose, and capabilities; applications in various fields",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "On what common basis can computers be classified?",
+      "options": [
+        "B. Size, purpose, and capabilities",
+        "D. Age, model, year",
+        "C. Brand, price, location",
+        "A. Color, shape, weight"
+      ],
+      "correctAnswer": "B. Size, purpose, and capabilities"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which of the following fields uses computers for teaching and learning?",
+      "options": [
+        "C. Farming",
+        "B. Mining",
+        "A. Education",
+        "D. Fishing"
+      ],
+      "correctAnswer": "A. Education"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "In which field are computers used for patient records, diagnosis, and treatment support?",
+      "options": [
+        "C. Construction",
+        "A. Health Care",
+        "B. Agriculture",
+        "D. Tourism"
+      ],
+      "correctAnswer": "A. Health Care"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which sector uses computers for telephone, internet, and data communication services?",
+      "options": [
+        "A. Communication industry",
+        "C. Cement industry",
+        "D. Steel industry",
+        "B. Textile industry"
+      ],
+      "correctAnswer": "A. Communication industry"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which application area involves using computers to monitor and control industrial processes?",
+      "options": [
+        "C. Supermarkets",
+        "D. Multimedia",
+        "B. Library services",
+        "A. Process control"
+      ],
+      "correctAnswer": "A. Process control"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Computers are used for scheduling, ticketing, and traffic control in which industry?",
+      "options": [
+        "A. Transport industry",
+        "C. Publishing",
+        "B. Entertainment",
+        "D. Printing"
+      ],
+      "correctAnswer": "A. Transport industry"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which of the following uses computers for account management, transactions, and customer records?",
+      "options": [
+        "B. Food vendors",
+        "A. Banks and Insurance industries",
+        "D. Barbers",
+        "C. Tailors"
+      ],
+      "correctAnswer": "A. Banks and Insurance industries"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which application helps in cataloging, searching, and issuing books?",
+      "options": [
+        "A. Library services",
+        "D. Engineering",
+        "C. Research",
+        "B. Defense"
+      ],
+      "correctAnswer": "A. Library services"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which sector uses computers for point-of-sale, inventory, and billing?",
+      "options": [
+        "B. Hospitals",
+        "D. Police stations",
+        "A. Supermarkets",
+        "C. Schools"
+      ],
+      "correctAnswer": "A. Supermarkets"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which application area involves creating and using text, audio, images, animation, and video?",
+      "options": [
+        "D. Banking",
+        "B. Process control",
+        "A. Multimedia applications",
+        "C. Transport industry"
+      ],
+      "correctAnswer": "A. Multimedia applications"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which field uses computers for data analysis, simulations, and experiments?",
+      "options": [
+        "A. Research",
+        "B. Retail",
+        "D. Cleaning",
+        "C. Catering"
+      ],
+      "correctAnswer": "A. Research"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which sector uses computers for security, surveillance, and crime investigation?",
+      "options": [
+        "D. Libraries",
+        "C. Supermarkets",
+        "B. Education",
+        "A. Defense and Police (Law enforcement agencies)"
+      ],
+      "correctAnswer": "A. Defense and Police (Law enforcement agencies)"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "In which area are computers used for designing structures, machines, and systems?",
+      "options": [
+        "D. Sewing",
+        "A. Engineering Design",
+        "C. Gardening",
+        "B. Cooking"
+      ],
+      "correctAnswer": "A. Engineering Design"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which institutions use computers for record keeping, administration, and public services?",
+      "options": [
+        "D. Dance groups",
+        "C. Sports clubs",
+        "B. Private homes",
+        "A. Government Institutions"
+      ],
+      "correctAnswer": "A. Government Institutions"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which of the following is a common basis for classifying computers?",
+      "options": [
+        "B. Speed only",
+        "D. Location only",
+        "C. Color only",
+        "A. Size, purpose, and capabilities"
+      ],
+      "correctAnswer": "A. Size, purpose, and capabilities"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Which sector uses computers for process control and engineering design?",
+      "options": [
+        "C. Fashion sector",
+        "B. Entertainment sector",
+        "A. Industrial/engineering sector",
+        "D. Beauty sector"
+      ],
+      "correctAnswer": "A. Industrial/engineering sector"
+    }
+  ]
+}

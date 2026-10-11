@@ -17,9 +17,9 @@
       "question": "What is known about the exact place and time that agriculture began?",
       "options": [
         "It is not possible to know the exact place and time that agriculture began",
+        "It began at the same time in all continents with precise records",
         "It is clearly known to have started in one fixed year in Mesopotamia",
-        "The exact place and date are recorded in ancient written texts",
-        "It began at the same time in all continents with precise records"
+        "The exact place and date are recorded in ancient written texts"
       ],
       "correctAnswer": "It is not possible to know the exact place and time that agriculture began"
     },
@@ -28,10 +28,10 @@
       "anki": true,
       "question": "How is growing crops and rearing animals described in terms of time?",
       "options": [
+        "It occurred instantly after the last ice age",
         "It is a deliberate activity that took a long time to develop",
         "It was an accidental event that happened overnight",
-        "It developed within a single generation",
-        "It occurred instantly after the last ice age"
+        "It developed within a single generation"
       ],
       "correctAnswer": "It is a deliberate activity that took a long time to develop"
     },
@@ -40,10 +40,10 @@
       "anki": true,
       "question": "What did the evolution of agricultural economies do to wild plant species?",
       "options": [
-        "It transformed wild plant species to the fully domesticated ones",
-        "It caused wild plant species to remain exactly the same forever",
         "It eliminated all wild plant species completely",
-        "It made wild plants grow without any human influence"
+        "It transformed wild plant species to the fully domesticated ones",
+        "It made wild plants grow without any human influence",
+        "It caused wild plant species to remain exactly the same forever"
       ],
       "correctAnswer": "It transformed wild plant species to the fully domesticated ones"
     },
@@ -52,10 +52,10 @@
       "anki": true,
       "question": "How might religion have influenced agriculture?",
       "options": [
-        "Particular animals and plants were kept as they were required for religious practices",
         "Religion forbade all forms of crop cultivation",
         "Religion made agriculture impossible in all societies",
-        "Religion had no effect on which plants were grown"
+        "Religion had no effect on which plants were grown",
+        "Particular animals and plants were kept as they were required for religious practices"
       ],
       "correctAnswer": "Particular animals and plants were kept as they were required for religious practices"
     },
@@ -64,10 +64,10 @@
       "anki": true,
       "question": "How long did the change from hunter-gatherer culture to agriculture take place?",
       "options": [
-        "Over thousands of years",
-        "Over a few weeks",
         "Within one year",
-        "In just a single decade"
+        "Over thousands of years",
+        "In just a single decade",
+        "Over a few weeks"
       ],
       "correctAnswer": "Over thousands of years"
     },
@@ -76,8 +76,8 @@
       "anki": true,
       "question": "What is said about evidence of how hunter-gatherers chose their food sources?",
       "options": [
-        "No strong evidence is available",
         "Complete written records clearly explain their choices",
+        "No strong evidence is available",
         "Detailed accounts exist from all hunter-gatherer groups",
         "Archaeological evidence shows exactly how they decided every food"
       ],
@@ -88,10 +88,10 @@
       "anki": true,
       "question": "What fair estimate is given about why hunter-gatherers selected certain plant species?",
       "options": [
-        "They were influenced by certain features of the plant species they selected as food sources",
-        "They chose plants randomly with no consideration of features",
+        "They only selected plants that were completely unknown to others",
         "They selected plants based solely on their colour",
-        "They only selected plants that were completely unknown to others"
+        "They chose plants randomly with no consideration of features",
+        "They were influenced by certain features of the plant species they selected as food sources"
       ],
       "correctAnswer": "They were influenced by certain features of the plant species they selected as food sources"
     },
@@ -100,10 +100,10 @@
       "anki": true,
       "question": "What did the selection of plant species as food source probably influence?",
       "options": [
-        "The domestication process of the plant species",
         "The extinction of all animals in the region",
         "The movement of tectonic plates",
-        "The formation of new oceans"
+        "The formation of new oceans",
+        "The domestication process of the plant species"
       ],
       "correctAnswer": "The domestication process of the plant species"
     },
@@ -112,9 +112,9 @@
       "anki": true,
       "question": "Which feature could have been useful for hunter-gatherers in plant selection?",
       "options": [
-        "Ease of harvest",
-        "Difficulty in harvesting",
         "Extremely long growing cycles with no predictability",
+        "Difficulty in harvesting",
+        "Ease of harvest",
         "Inability to be transported"
       ],
       "correctAnswer": "Ease of harvest"
@@ -124,10 +124,10 @@
       "anki": true,
       "question": "Which feature could have been useful for hunter-gatherers in plant selection?",
       "options": [
+        "Growing only in inaccessible mountain peaks",
         "Wide availability",
-        "Extreme rarity in all areas",
         "Availability only once every century",
-        "Growing only in inaccessible mountain peaks"
+        "Extreme rarity in all areas"
       ],
       "correctAnswer": "Wide availability"
     },
@@ -138,8 +138,8 @@
       "options": [
         "Ease of transport to the desired place",
         "Being too heavy to carry any distance",
-        "Being impossible to move from growing site",
-        "Breaking apart immediately when touched"
+        "Breaking apart immediately when touched",
+        "Being impossible to move from growing site"
       ],
       "correctAnswer": "Ease of transport to the desired place"
     },
@@ -160,10 +160,10 @@
       "anki": true,
       "question": "Which characteristic could have been desirable for plant selection?",
       "options": [
-        "Climatic tolerance",
-        "Complete intolerance to any climate variation",
+        "Requirement for conditions that never occur",
         "Inability to survive in any known climate",
-        "Requirement for conditions that never occur"
+        "Complete intolerance to any climate variation",
+        "Climatic tolerance"
       ],
       "correctAnswer": "Climatic tolerance"
     },
@@ -172,10 +172,10 @@
       "anki": true,
       "question": "Which characteristic could have been desirable for plant selection?",
       "options": [
-        "Good flavour",
-        "Extremely bitter taste with no appeal",
+        "Taste that caused immediate illness",
         "Unpleasant flavour making it inedible",
-        "Taste that caused immediate illness"
+        "Good flavour",
+        "Extremely bitter taste with no appeal"
       ],
       "correctAnswer": "Good flavour"
     },
@@ -184,10 +184,10 @@
       "anki": true,
       "question": "Which characteristic could have been desirable for plant selection?",
       "options": [
-        "Suitable grain size",
-        "Grain size too small to be useful",
         "Grain size so large it was impossible to handle",
-        "No grains at all"
+        "No grains at all",
+        "Grain size too small to be useful",
+        "Suitable grain size"
       ],
       "correctAnswer": "Suitable grain size"
     },
@@ -196,10 +196,10 @@
       "anki": true,
       "question": "Which wild plant species did hunter-gatherers consume according to the handout?",
       "options": [
-        "Wild rice, grass species, wild oats and legumes",
-        "Only modern hybrid wheat varieties",
         "Only genetically modified maize",
-        "Exclusively cultivated barley strains"
+        "Wild rice, grass species, wild oats and legumes",
+        "Exclusively cultivated barley strains",
+        "Only modern hybrid wheat varieties"
       ],
       "correctAnswer": "Wild rice, grass species, wild oats and legumes"
     },
@@ -208,9 +208,9 @@
       "anki": true,
       "question": "What is known about legumes used by hunter-gatherers?",
       "options": [
+        "They contained no harmful substances at all",
         "They are known to have been toxic",
         "They were always completely safe and required no processing",
-        "They contained no harmful substances at all",
         "They were only consumed after industrial processing"
       ],
       "correctAnswer": "They are known to have been toxic"
@@ -220,10 +220,10 @@
       "anki": true,
       "question": "How did hunter-gatherer societies use toxic legumes as food?",
       "options": [
-        "They detoxified and used the legumes as food",
         "They ate them raw without any treatment",
+        "They discarded them immediately without use",
         "They used them only as fuel",
-        "They discarded them immediately without use"
+        "They detoxified and used the legumes as food"
       ],
       "correctAnswer": "They detoxified and used the legumes as food"
     },
@@ -232,10 +232,10 @@
       "anki": true,
       "question": "On what basis were the detoxifying skills of hunter-gatherers developed?",
       "options": [
-        "Based on trial and error",
         "Based on formal scientific laboratories",
-        "Based on advanced chemistry textbooks",
-        "Based on written pharmaceutical guides"
+        "Based on written pharmaceutical guides",
+        "Based on trial and error",
+        "Based on advanced chemistry textbooks"
       ],
       "correctAnswer": "Based on trial and error"
     },
@@ -244,9 +244,9 @@
       "anki": true,
       "question": "What did hunter-gatherers presumably do with poisonous substances extracted from toxic legumes?",
       "options": [
-        "They used them as poisons on arrowheads in hunting",
-        "They used them as sweeteners in food",
         "They used them as medicine for all illnesses",
+        "They used them as sweeteners in food",
+        "They used them as poisons on arrowheads in hunting",
         "They used them to fertilize crops"
       ],
       "correctAnswer": "They used them as poisons on arrowheads in hunting"
@@ -256,10 +256,10 @@
       "anki": true,
       "question": "Where were root crops widely used as food by hunter-gatherers?",
       "options": [
-        "Particularly in the tropical region",
         "Exclusively in the Arctic region",
-        "Only in desert areas",
-        "Only in polar ice-covered regions"
+        "Particularly in the tropical region",
+        "Only in polar ice-covered regions",
+        "Only in desert areas"
       ],
       "correctAnswer": "Particularly in the tropical region"
     },
@@ -269,9 +269,9 @@
       "question": "Which root crops are mentioned as important food sources for hunter-gatherers?",
       "options": [
         "Wild onions and sweet potatoes",
-        "Only modern potatoes grown commercially",
+        "Only beetroot from temperate farms",
         "Only cultivated cassava hybrids",
-        "Only beetroot from temperate farms"
+        "Only modern potatoes grown commercially"
       ],
       "correctAnswer": "Wild onions and sweet potatoes"
     },
@@ -280,8 +280,8 @@
       "anki": true,
       "question": "What sources of oil did hunter-gatherers use according to the handout?",
       "options": [
-        "Hunted animals and plant species such as coconut, oil palm and olive",
         "Only petroleum products from underground",
+        "Hunted animals and plant species such as coconut, oil palm and olive",
         "Only synthetic oils made from chemicals",
         "Only oils from modern factories"
       ],
@@ -292,10 +292,10 @@
       "anki": true,
       "question": "Which plant species are mentioned as oil sources used by hunter-gatherers?",
       "options": [
-        "Coconut, oil palm and olive",
-        "Wheat, barley and rye",
         "Maize, teff and sorghum",
-        "Rice, oats and millet"
+        "Rice, oats and millet",
+        "Wheat, barley and rye",
+        "Coconut, oil palm and olive"
       ],
       "correctAnswer": "Coconut, oil palm and olive"
     },
@@ -305,8 +305,8 @@
       "question": "Which of the following was a likely consideration for hunter-gatherers when selecting plants?",
       "options": [
         "Plants with high predictability and seasonal distribution",
-        "Plants that grew randomly throughout the entire year",
         "Plants that appeared only during natural disasters",
+        "Plants that grew randomly throughout the entire year",
         "Plants with no fixed growing season"
       ],
       "correctAnswer": "Plants with high predictability and seasonal distribution"
@@ -317,8 +317,8 @@
       "question": "What role did trial and error play in the use of legumes by hunter-gatherers?",
       "options": [
         "It helped them develop detoxifying skills",
-        "It helped them create synthetic fertilizers",
         "It enabled them to build permanent buildings",
+        "It helped them create synthetic fertilizers",
         "It allowed them to develop metal tools"
       ],
       "correctAnswer": "It helped them develop detoxifying skills"

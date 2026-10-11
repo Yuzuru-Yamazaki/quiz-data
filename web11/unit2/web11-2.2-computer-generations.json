@@ -1,0 +1,222 @@
+{
+  "title": "2.2 Generations of Computers",
+  "description": "Computer generations and their technology",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What circuitry was used in first generation computers (1940-1959)?",
+      "options": [
+        "Transistors and diodes",
+        "VLSI circuits",
+        "Integrated circuits",
+        "Vacuum tubes"
+      ],
+      "correctAnswer": "Vacuum tubes"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What was the size of first generation computers (1940-1959)?",
+      "options": [
+        "Desk-size mini computer",
+        "Small card-size micro computer",
+        "Room size mainframe",
+        "Desktop to handheld computers"
+      ],
+      "correctAnswer": "Room size mainframe"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which of the following describes first generation computers (1940-1959)?",
+      "options": [
+        "Increased storage capacity and high-level programming languages",
+        "Limited storage capacity, slow speed, and a problem of overheating",
+        "Artificial intelligence and robotics",
+        "Modular design and increased use of microcomputers"
+      ],
+      "correctAnswer": "Limited storage capacity, slow speed, and a problem of overheating"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What circuitry was used in second generation computers (1959-1964)?",
+      "options": [
+        "Vacuum tubes",
+        "Transistors and diodes",
+        "VLSI circuits",
+        "Superconductor circuits"
+      ],
+      "correctAnswer": "Transistors and diodes"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What high-level programming languages appeared during the second generation of computers?",
+      "options": [
+        "HTML and CSS",
+        "SQL and C#",
+        "Java and Python",
+        "COBOL and FORTRAN"
+      ],
+      "correctAnswer": "COBOL and FORTRAN"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which improvements were made by second generation computers compared to the first generation?",
+      "options": [
+        "Increased storage capacity and reduction in size and heat",
+        "Handheld sizes and touch screens",
+        "Introduction of artificial intelligence",
+        "Room size mainframes and vacuum tubes"
+      ],
+      "correctAnswer": "Increased storage capacity and reduction in size and heat"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What circuitry was used in third generation computers (1965-1970)?",
+      "options": [
+        "Transistors and diodes",
+        "Superconductor circuits",
+        "Integrated circuits (semiconductor circuits)",
+        "Vacuum tubes"
+      ],
+      "correctAnswer": "Integrated circuits (semiconductor circuits)"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What was the size of third generation computers (1965-1970)?",
+      "options": [
+        "Handheld computer",
+        "Room size mainframe",
+        "Small card-size micro computer",
+        "Desk-size mini computer"
+      ],
+      "correctAnswer": "Desk-size mini computer"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which features describe third generation computers (1965-1970)?",
+      "options": [
+        "Artificial intelligence and robotics",
+        "Increased use of microcomputers",
+        "More flexible with input/output, smaller size, and better performance",
+        "Slow speed and limited storage capacity"
+      ],
+      "correctAnswer": "More flexible with input/output, smaller size, and better performance"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What circuitry is used in fourth generation computers (since 1970)?",
+      "options": [
+        "Very large scale integrated (VLSI) circuits",
+        "Vacuum tubes",
+        "Transistors and diodes",
+        "Superconductor circuits"
+      ],
+      "correctAnswer": "Very large scale integrated (VLSI) circuits"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which of the following describes fourth generation computers (since 1970)?",
+      "options": [
+        "Limited storage capacity and slow speed",
+        "Artificial intelligence as their main feature",
+        "Problem of overheating and room size design",
+        "Increased storage, modular design versatility and compatibility, and increased use of microcomputers (PCs)"
+      ],
+      "correctAnswer": "Increased storage, modular design versatility and compatibility, and increased use of microcomputers (PCs)"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "What circuitry is expected in the fifth generation (future) computers?",
+      "options": [
+        "Vacuum tubes",
+        "Mechanical switches",
+        "Diodes only",
+        "VLSI superconductor circuits"
+      ],
+      "correctAnswer": "VLSI superconductor circuits"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which technologies will characterize the fifth generation (future) computers?",
+      "options": [
+        "Vacuum tubes and overheating problems",
+        "Artificial intelligence and robotics",
+        "High-level programming languages like COBOL",
+        "Modular design and increased PC use"
+      ],
+      "correctAnswer": "Artificial intelligence and robotics"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "True or False: The first generation of computers used transistors.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "True or False: COBOL and FORTRAN are high-level programming languages that appeared in the second generation of computers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "True or False: The fourth generation of computers uses very large scale integrated (VLSI) circuits.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "True or False: Fifth generation (future) computers will be characterized by artificial intelligence and robotics.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "What is the overall trend across the generations of computers?",
+      "options": [
+        "Each generation is smaller, faster, and more efficient",
+        "Each generation becomes larger and slower",
+        "Each generation uses older circuitry",
+        "Each generation needs more cooling and space"
+      ],
+      "correctAnswer": "Each generation is smaller, faster, and more efficient"
+    }
+  ]
+}

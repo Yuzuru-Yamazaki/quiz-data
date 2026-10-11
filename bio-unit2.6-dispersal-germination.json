@@ -26,8 +26,8 @@
       "question": "What is seed dispersal?",
       "options": [
         "An adaptive mechanism ensuring seeds are separated from parent plants and distributed over a large area",
-        "The process of seed germination",
         "The formation of seeds",
+        "The process of seed germination",
         "The ripening of fruits"
       ],
       "correctAnswer": "An adaptive mechanism ensuring seeds are separated from parent plants and distributed over a large area"
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "What does seed dispersal help safeguard?",
       "options": [
-        "Pollination",
-        "Germination and survival of seeds to adult plants, minimizing overcrowding",
         "Flower formation",
-        "Root growth"
+        "Pollination",
+        "Root growth",
+        "Germination and survival of seeds to adult plants, minimizing overcrowding"
       ],
       "correctAnswer": "Germination and survival of seeds to adult plants, minimizing overcrowding"
     },
@@ -48,9 +48,9 @@
       "question": "How can seeds be dispersed?",
       "options": [
         "Only by wind",
-        "Only by water",
+        "Only by animals",
         "By animals, wind or water",
-        "Only by animals"
+        "Only by water"
       ],
       "correctAnswer": "By animals, wind or water"
     },
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "How do seeds in fleshy fruits get dispersed by birds?",
       "options": [
-        "Birds eat the fruit and the seeds fall directly",
         "The seeds are ingested, escape digestion due to hard seed coats, and are dropped at a distance upon defecation",
-        "Seeds stick to bird feathers",
-        "Birds carry the fruit whole"
+        "Birds carry the fruit whole",
+        "Birds eat the fruit and the seeds fall directly",
+        "Seeds stick to bird feathers"
       ],
       "correctAnswer": "The seeds are ingested, escape digestion due to hard seed coats, and are dropped at a distance upon defecation"
     },
@@ -69,9 +69,9 @@
       "id": 6,
       "question": "What adaptation allows seeds to be dispersed by wind or water?",
       "options": [
-        "Hard seed coats",
         "Additional hairy or winged structures",
         "Fleshy fruits",
+        "Hard seed coats",
         "Bright colours"
       ],
       "correctAnswer": "Additional hairy or winged structures"
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "How are seeds that stick or cling to fur or clothes dispersed?",
       "options": [
-        "By wind",
-        "By animals",
         "By water",
-        "By explosion"
+        "By animals",
+        "By explosion",
+        "By wind"
       ],
       "correctAnswer": "By animals"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What type of seeds act as kites or propellers?",
       "options": [
-        "Seeds that stick to fur",
-        "Seeds within fruits that act as kites or propellers",
+        "Seeds that are ingested by birds",
         "Seeds that float on water",
-        "Seeds that are ingested by birds"
+        "Seeds that stick to fur",
+        "Seeds within fruits that act as kites or propellers"
       ],
       "correctAnswer": "Seeds within fruits that act as kites or propellers"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "What is the first outward sign of growth during seed germination?",
       "options": [
-        "The plumule emerging",
+        "The first leaf appearing",
         "A radicle that develops from the hypocotyl",
-        "The cotyledon expanding",
-        "The first leaf appearing"
+        "The plumule emerging",
+        "The cotyledon expanding"
       ],
       "correctAnswer": "A radicle that develops from the hypocotyl"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "What does the radicle grow down to become?",
       "options": [
-        "The shoot",
-        "The primary root",
+        "The leaf",
         "The stem",
-        "The leaf"
+        "The shoot",
+        "The primary root"
       ],
       "correctAnswer": "The primary root"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What is the root essential for?",
       "options": [
-        "Photosynthesis",
-        "Anchorage and access to water and nutrients from the soil",
         "Flower production",
-        "Seed dispersal"
+        "Photosynthesis",
+        "Seed dispersal",
+        "Anchorage and access to water and nutrients from the soil"
       ],
       "correctAnswer": "Anchorage and access to water and nutrients from the soil"
     },
@@ -136,9 +136,9 @@
       "question": "What does the shoot that develops from the plumule do?",
       "options": [
         "Grows downward into the soil",
+        "Develops into roots",
         "Grows upward towards sunlight",
-        "Remains dormant",
-        "Develops into roots"
+        "Remains dormant"
       ],
       "correctAnswer": "Grows upward towards sunlight"
     },
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "What is the resumption of active growth of the embryo after dormancy called?",
       "options": [
-        "Dispersal",
         "Germination",
         "Pollination",
-        "Fertilization"
+        "Fertilization",
+        "Dispersal"
       ],
       "correctAnswer": "Germination"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What are the three essential conditions for seed germination?",
       "options": [
-        "Light, soil and air",
-        "Water, oxygen and temperature",
         "Water, sunlight and carbon dioxide",
-        "Soil, nutrients and water"
+        "Water, oxygen and temperature",
+        "Soil, nutrients and water",
+        "Light, soil and air"
       ],
       "correctAnswer": "Water, oxygen and temperature"
     },
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "Why is water important for seed germination?",
       "options": [
-        "It helps the seed float",
+        "It attracts pollinators",
         "Hydration of seed coat increases permeability to oxygen, enables enzymatic hydrolysis and acts as transport agent",
         "It cools the seed",
-        "It attracts pollinators"
+        "It helps the seed float"
       ],
       "correctAnswer": "Hydration of seed coat increases permeability to oxygen, enables enzymatic hydrolysis and acts as transport agent"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "Why is oxygen necessary for seed germination?",
       "options": [
-        "For photosynthesis",
-        "For aerobic respiration by which seeds get energy for embryo growth",
         "For seed dispersal",
-        "For flower formation"
+        "For flower formation",
+        "For aerobic respiration by which seeds get energy for embryo growth",
+        "For photosynthesis"
       ],
       "correctAnswer": "For aerobic respiration by which seeds get energy for embryo growth"
     },
@@ -190,9 +190,9 @@
       "id": 17,
       "question": "What temperature condition do seeds require for germination?",
       "options": [
-        "Extreme heat",
-        "Optimum temperature",
         "Freezing temperature",
+        "Optimum temperature",
+        "Extreme heat",
         "No specific temperature requirement"
       ],
       "correctAnswer": "Optimum temperature"
@@ -201,10 +201,10 @@
       "id": 18,
       "question": "What feature differentiates hypogeal germination from epigeal germination?",
       "options": [
-        "The size of the seed",
-        "The position and fate of the cotyledon",
+        "The type of root",
         "The colour of the seedling",
-        "The type of root"
+        "The size of the seed",
+        "The position and fate of the cotyledon"
       ],
       "correctAnswer": "The position and fate of the cotyledon"
     },
@@ -212,10 +212,10 @@
       "id": 19,
       "question": "In epigeal germination, what happens to the cotyledon?",
       "options": [
-        "It remains under the soil",
-        "It is pushed up to become the photosynthetic surface of the seedling",
         "It falls off immediately",
-        "It becomes the root"
+        "It remains under the soil",
+        "It becomes the root",
+        "It is pushed up to become the photosynthetic surface of the seedling"
       ],
       "correctAnswer": "It is pushed up to become the photosynthetic surface of the seedling"
     },
@@ -225,8 +225,8 @@
       "options": [
         "It is pushed above ground",
         "It remains under the soil",
-        "It becomes the first leaf",
-        "It turns into a flower"
+        "It turns into a flower",
+        "It becomes the first leaf"
       ],
       "correctAnswer": "It remains under the soil"
     },
@@ -236,8 +236,8 @@
       "options": [
         "From seed formation to fruit ripening",
         "From the time seed embryo starts growth up to formation of young independent plant with photosynthetic leaves",
-        "From pollination to fertilization",
-        "From dispersal to dormancy"
+        "From dispersal to dormancy",
+        "From pollination to fertilization"
       ],
       "correctAnswer": "From the time seed embryo starts growth up to formation of young independent plant with photosynthetic leaves"
     },
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "What is the length of time seeds are typically allowed to germinate in the textbook experiment?",
       "options": [
-        "5-7 days",
+        "Two weeks",
         "Waiting up to 2-3 days",
-        "One week",
-        "Two weeks"
+        "5-7 days",
+        "One week"
       ],
       "correctAnswer": "Waiting up to 2-3 days"
     },
@@ -257,9 +257,9 @@
       "question": "What does the oil layer in the germination experiment demonstrate?",
       "options": [
         "Need for light",
-        "Need for oxygen (air)",
+        "Need for warmth",
         "Need for water",
-        "Need for warmth"
+        "Need for oxygen (air)"
       ],
       "correctAnswer": "Need for oxygen (air)"
     },
@@ -267,10 +267,10 @@
       "id": 24,
       "question": "What does the ice cube in the germination experiment demonstrate?",
       "options": [
-        "Need for light",
-        "Need for water",
         "Need for optimum temperature (warmth)",
-        "Need for air"
+        "Need for light",
+        "Need for air",
+        "Need for water"
       ],
       "correctAnswer": "Need for optimum temperature (warmth)"
     },
@@ -278,10 +278,10 @@
       "id": 25,
       "question": "What does wet versus dry cotton wool in the germination experiment demonstrate?",
       "options": [
-        "Need for oxygen",
         "Need for optimum moisture (water)",
-        "Need for light",
-        "Need for temperature"
+        "Need for oxygen",
+        "Need for temperature",
+        "Need for light"
       ],
       "correctAnswer": "Need for optimum moisture (water)"
     }

@@ -4,17 +4,21 @@
   "folder": "School/Grade 11/ICT/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["ict", "grade11", "unit1"],
+  "tags": [
+    "ict",
+    "grade11",
+    "unit1"
+  ],
   "questions": [
     {
       "id": 1,
       "anki": true,
       "question": "What is entrepreneurship?",
       "options": [
-        "The process of designing, launching, and running a new business",
+        "The process of paying taxes only",
         "The process of closing an existing business",
-        "The process of memorizing business terms",
-        "The process of paying taxes only"
+        "The process of designing, launching, and running a new business",
+        "The process of memorizing business terms"
       ],
       "correctAnswer": "The process of designing, launching, and running a new business"
     },
@@ -23,9 +27,9 @@
       "anki": true,
       "question": "Who is an entrepreneur?",
       "options": [
-        "An individual who creates a new business, bearing most of the risks and enjoying most of the rewards",
-        "An individual who only works for a salary",
         "An individual who invests in foreign markets only",
+        "An individual who only works for a salary",
+        "An individual who creates a new business, bearing most of the risks and enjoying most of the rewards",
         "An individual who avoids taking any risk"
       ],
       "correctAnswer": "An individual who creates a new business, bearing most of the risks and enjoying most of the rewards"
@@ -35,9 +39,9 @@
       "anki": true,
       "question": "The entrepreneur is commonly seen as which of the following?",
       "options": [
+        "A customer who buys products online",
         "An innovator, a source of new ideas, goods, services, and businesses",
         "A clerk who records daily sales",
-        "A customer who buys products online",
         "A driver who delivers goods"
       ],
       "correctAnswer": "An innovator, a source of new ideas, goods, services, and businesses"
@@ -47,9 +51,9 @@
       "anki": true,
       "question": "What does information technology (IT) do to the world of work?",
       "options": [
+        "IT is removing jobs from the economy",
         "IT is transforming the world of work",
         "IT is ending all business activities",
-        "IT is removing jobs from the economy",
         "IT is limiting business to local areas"
       ],
       "correctAnswer": "IT is transforming the world of work"
@@ -59,10 +63,10 @@
       "anki": true,
       "question": "What is an IT-enabled business?",
       "options": [
-        "A business that uses IT as a platform to run a business",
         "A business that avoids using computers",
-        "A business that sells farm products only",
-        "A business that works without any technology"
+        "A business that uses IT as a platform to run a business",
+        "A business that works without any technology",
+        "A business that sells farm products only"
       ],
       "correctAnswer": "A business that uses IT as a platform to run a business"
     },
@@ -72,9 +76,9 @@
       "question": "Which of the following is an example of an IT-enabled business?",
       "options": [
         "Online training, providing data entry and processing services, Internet Cafe service, and online product sells",
-        "Crop farming and cattle herding",
         "Carpentry and masonry",
-        "Baking and tailoring"
+        "Baking and tailoring",
+        "Crop farming and cattle herding"
       ],
       "correctAnswer": "Online training, providing data entry and processing services, Internet Cafe service, and online product sells"
     },
@@ -83,9 +87,9 @@
       "anki": true,
       "question": "IT-enabled businesses are providing new opportunities for what?",
       "options": [
-        "Job creation that could help tackle global unemployment",
-        "Increasing unemployment rates",
         "Closing small businesses",
+        "Increasing unemployment rates",
+        "Job creation that could help tackle global unemployment",
         "Moving jobs out of the country"
       ],
       "correctAnswer": "Job creation that could help tackle global unemployment"
@@ -95,10 +99,10 @@
       "anki": true,
       "question": "The development of mobile-based applications has created new opportunities for which group?",
       "options": [
-        "Small- and medium-sized enterprises (SMEs) in various parts of the world",
-        "Only very large factories",
         "Only government offices",
-        "Only international airlines"
+        "Only international airlines",
+        "Small- and medium-sized enterprises (SMEs) in various parts of the world",
+        "Only very large factories"
       ],
       "correctAnswer": "Small- and medium-sized enterprises (SMEs) in various parts of the world"
     },
@@ -106,7 +110,12 @@
       "id": 9,
       "anki": true,
       "question": "The text mentions which countries as examples where SMEs gained new opportunities from mobile-based applications?",
-      "options": ["India and Kenya", "China and Japan", "Germany and France", "Brazil and Mexico"],
+      "options": [
+        "India and Kenya",
+        "China and Japan",
+        "Brazil and Mexico",
+        "Germany and France"
+      ],
       "correctAnswer": "India and Kenya"
     },
     {
@@ -114,10 +123,10 @@
       "anki": true,
       "question": "According to the text, youth unemployment is described as what?",
       "options": [
-        "One of the global challenges we face today",
         "A problem that has been fully solved",
-        "A problem limited to Ethiopia",
-        "A problem that IT cannot address"
+        "One of the global challenges we face today",
+        "A problem that IT cannot address",
+        "A problem limited to Ethiopia"
       ],
       "correctAnswer": "One of the global challenges we face today"
     },
@@ -126,10 +135,10 @@
       "anki": true,
       "question": "Which of the following is a key reason IT should be included in youth employment and entrepreneurship strategies?",
       "options": [
-        "More jobs and businesses require IT skills",
-        "IT removes the need for education",
         "IT reduces the number of startups",
-        "IT works without any infrastructure"
+        "IT works without any infrastructure",
+        "More jobs and businesses require IT skills",
+        "IT removes the need for education"
       ],
       "correctAnswer": "More jobs and businesses require IT skills"
     },
@@ -138,10 +147,10 @@
       "anki": true,
       "question": "According to the text, there is an explosion of online learning opportunities and resources for whom?",
       "options": [
-        "Job seekers and digital entrepreneurs",
-        "Farmers and traders only",
         "Drivers and porters only",
-        "Bankers and cashiers only"
+        "Job seekers and digital entrepreneurs",
+        "Bankers and cashiers only",
+        "Farmers and traders only"
       ],
       "correctAnswer": "Job seekers and digital entrepreneurs"
     },
@@ -150,10 +159,10 @@
       "anki": true,
       "question": "People who are competent in IT can have their own business in which roles?",
       "options": [
-        "Application developers, game developers, and service providers",
         "Carpenters, painters, and plumbers",
-        "Farmers, herders, and fishers",
-        "Tailors, bakers, and butchers"
+        "Application developers, game developers, and service providers",
+        "Tailors, bakers, and butchers",
+        "Farmers, herders, and fishers"
       ],
       "correctAnswer": "Application developers, game developers, and service providers"
     },
@@ -162,10 +171,10 @@
       "anki": true,
       "question": "IT-based service providers can run their businesses using various platforms including which of the following?",
       "options": [
-        "Social network websites",
         "Market stalls only",
         "Postal offices only",
-        "Radio stations only"
+        "Radio stations only",
+        "Social network websites"
       ],
       "correctAnswer": "Social network websites"
     },
@@ -173,7 +182,12 @@
       "id": 15,
       "anki": true,
       "question": "In Ethiopia, which IT-based services are flourishing?",
-      "options": ["Internet cafes and online sales", "Camel caravans and ox carts", "Postal couriers and telegraphs", "Workshops and garages"],
+      "options": [
+        "Postal couriers and telegraphs",
+        "Workshops and garages",
+        "Internet cafes and online sales",
+        "Camel caravans and ox carts"
+      ],
       "correctAnswer": "Internet cafes and online sales"
     },
     {
@@ -181,10 +195,10 @@
       "anki": true,
       "question": "Compared with traditional businesses, starting an IT-based business requires less of which of the following?",
       "options": [
-        "Large capital",
-        "A business idea",
         "Customers",
-        "An Internet connection"
+        "An Internet connection",
+        "A business idea",
+        "Large capital"
       ],
       "correctAnswer": "Large capital"
     },
@@ -193,10 +207,10 @@
       "anki": true,
       "question": "What can an innovative and entrepreneurial mind with little resource like a laptop create?",
       "options": [
+        "Physical market stalls",
         "Incredible business ideas",
         "Expensive factory buildings",
-        "Large bank loans automatically",
-        "Physical market stalls"
+        "Large bank loans automatically"
       ],
       "correctAnswer": "Incredible business ideas"
     },
@@ -204,7 +218,12 @@
       "id": 18,
       "anki": true,
       "question": "Who is the founder of RIDE mentioned in the text?",
-      "options": ["Samrawit Fikru", "Alemayehu Mamo", "Tigist Haile", "Daniel Bekele"],
+      "options": [
+        "Tigist Haile",
+        "Daniel Bekele",
+        "Alemayehu Mamo",
+        "Samrawit Fikru"
+      ],
       "correctAnswer": "Samrawit Fikru"
     },
     {
@@ -212,9 +231,9 @@
       "anki": true,
       "question": "RIDE started as what kind of service?",
       "options": [
+        "A radio broadcast service",
         "An SMS-based service",
         "A postal mail service",
-        "A radio broadcast service",
         "A paper voucher service"
       ],
       "correctAnswer": "An SMS-based service"
@@ -225,9 +244,9 @@
       "question": "What is RIDE today?",
       "options": [
         "A popular Internet-based taxi-hailing service used by thousands of people",
-        "A postal delivery courier",
+        "A government office",
         "A mobile phone repair shop",
-        "A government office"
+        "A postal delivery courier"
       ],
       "correctAnswer": "A popular Internet-based taxi-hailing service used by thousands of people"
     },
@@ -238,8 +257,8 @@
       "options": [
         "Job creation in addition to providing an alternative service to taxi users",
         "Reducing the number of available taxis",
-        "Removing mobile services from Ethiopia",
-        "Closing the e-commerce sector"
+        "Closing the e-commerce sector",
+        "Removing mobile services from Ethiopia"
       ],
       "correctAnswer": "Job creation in addition to providing an alternative service to taxi users"
     },
@@ -248,10 +267,10 @@
       "anki": true,
       "question": "Which of the following is a benefit of ICT entrepreneurship?",
       "options": [
-        "Create employment opportunities",
         "Generate income for the country",
         "Diversify the country's economic sector",
-        "All of the above"
+        "All of the above",
+        "Create employment opportunities"
       ],
       "correctAnswer": "All of the above"
     },
@@ -260,10 +279,10 @@
       "anki": true,
       "question": "What does information technology (IT) provide for business people?",
       "options": [
-        "New opportunities",
         "Obstacles to trade",
         "High start-up costs",
-        "Fewer business channels"
+        "Fewer business channels",
+        "New opportunities"
       ],
       "correctAnswer": "New opportunities"
     },
@@ -272,10 +291,10 @@
       "anki": true,
       "question": "Which of the following describes how IT is transforming youth entrepreneurship?",
       "options": [
-        "IT is transforming the way young digital entrepreneurs do business",
         "IT blocks young people from new markets",
-        "IT removes online learning resources",
-        "IT limits young businesses to local buyers"
+        "IT is transforming the way young digital entrepreneurs do business",
+        "IT limits young businesses to local buyers",
+        "IT removes online learning resources"
       ],
       "correctAnswer": "IT is transforming the way young digital entrepreneurs do business"
     }

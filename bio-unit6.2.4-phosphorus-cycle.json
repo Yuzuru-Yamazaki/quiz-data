@@ -14,9 +14,9 @@
     {
       "question": "Why is phosphorus needed by organisms?",
       "options": [
-        "To build carbohydrates",
-        "To build proteins",
         "To store water",
+        "To build proteins",
+        "To build carbohydrates",
         "To absorb sunlight"
       ],
       "correctAnswer": "To build proteins",
@@ -25,10 +25,10 @@
     {
       "question": "Besides proteins, of which important molecule is phosphorus an essential component?",
       "options": [
-        "Carbohydrates",
-        "The nucleotides of DNA",
+        "Vitamins",
         "Lipids",
-        "Vitamins"
+        "The nucleotides of DNA",
+        "Carbohydrates"
       ],
       "correctAnswer": "The nucleotides of DNA",
       "id": 2
@@ -36,10 +36,10 @@
     {
       "question": "What is DNA described as being key for?",
       "options": [
-        "Energy production",
-        "Life",
         "Movement",
-        "Digestion"
+        "Life",
+        "Digestion",
+        "Energy production"
       ],
       "correctAnswer": "Life",
       "id": 3
@@ -47,10 +47,10 @@
     {
       "question": "For which molecule's synthesis is phosphorus also needed?",
       "options": [
-        "Glucose",
         "ATP, the energy currency of a cell",
-        "Chlorophyll",
-        "Water"
+        "Glucose",
+        "Water",
+        "Chlorophyll"
       ],
       "correctAnswer": "ATP, the energy currency of a cell",
       "id": 4
@@ -59,9 +59,9 @@
       "question": "ATP stands for what?",
       "options": [
         "Adenosine triphosphate",
-        "Adenine triphosphate",
+        "Adenosine diphosphate",
         "Amino triphosphate",
-        "Adenosine diphosphate"
+        "Adenine triphosphate"
       ],
       "correctAnswer": "Adenosine triphosphate",
       "id": 5
@@ -69,10 +69,10 @@
     {
       "question": "What is ATP the immediate source of?",
       "options": [
-        "Oxygen",
+        "Water",
         "Energy (instantly liberates energy) needed for various activities of a cell",
-        "Carbon",
-        "Water"
+        "Oxygen",
+        "Carbon"
       ],
       "correctAnswer": "Energy (instantly liberates energy) needed for various activities of a cell",
       "id": 6
@@ -80,10 +80,10 @@
     {
       "question": "How is ATP produced?",
       "options": [
-        "During photosynthesis",
-        "Energy released during cellular respiration is harvested and stored as ATP",
         "During transpiration",
-        "During nitrogen fixation"
+        "During nitrogen fixation",
+        "Energy released during cellular respiration is harvested and stored as ATP",
+        "During photosynthesis"
       ],
       "correctAnswer": "Energy released during cellular respiration is harvested and stored as ATP",
       "id": 7
@@ -92,9 +92,9 @@
       "question": "In what form is phosphorus usually present in soil and rock?",
       "options": [
         "Phosphorus gas",
+        "Elemental phosphorus",
         "Phosphate ions",
-        "Phosphoric acid",
-        "Elemental phosphorus"
+        "Phosphoric acid"
       ],
       "correctAnswer": "Phosphate ions",
       "id": 8
@@ -102,8 +102,8 @@
     {
       "question": "What are phosphate ions present in soil or water taken up by?",
       "options": [
-        "Animals only",
         "Plants and aquatic algae",
+        "Animals only",
         "Only fungi",
         "Only bacteria"
       ],
@@ -113,10 +113,10 @@
     {
       "question": "Into what form are phosphate ions converted when taken up by plants and algae?",
       "options": [
-        "Inorganic phosphate",
-        "Organic phosphate",
         "Phosphorus gas",
-        "Phosphoric acid"
+        "Phosphoric acid",
+        "Inorganic phosphate",
+        "Organic phosphate"
       ],
       "correctAnswer": "Organic phosphate",
       "id": 10
@@ -124,10 +124,10 @@
     {
       "question": "How is organic phosphate synthesized by producers transferred?",
       "options": [
-        "Directly to decomposers",
-        "Along food chains to various consumers or feeders",
         "Back to the soil directly",
-        "To the atmosphere"
+        "To the atmosphere",
+        "Along food chains to various consumers or feeders",
+        "Directly to decomposers"
       ],
       "correctAnswer": "Along food chains to various consumers or feeders",
       "id": 11
@@ -135,10 +135,10 @@
     {
       "question": "What happens when dead bodies of plants and animals are decomposed by bacteria and fungi?",
       "options": [
-        "Phosphorus is destroyed",
         "Phosphate ions are released from compounds like phospholipids, ATP, and DNA and returned to soil and water",
         "Phosphorus turns into gas",
-        "Phosphorus becomes locked in rocks forever"
+        "Phosphorus becomes locked in rocks forever",
+        "Phosphorus is destroyed"
       ],
       "correctAnswer": "Phosphate ions are released from compounds like phospholipids, ATP, and DNA and returned to soil and water",
       "id": 12
@@ -146,8 +146,8 @@
     {
       "question": "From which compounds are phosphate ions released during decomposition?",
       "options": [
-        "Carbohydrates and lipids only",
         "Phospholipids, ATP, and DNA",
+        "Carbohydrates and lipids only",
         "Proteins and sugars only",
         "Water and minerals"
       ],
@@ -157,10 +157,10 @@
     {
       "question": "How else is phosphate returned to the environment besides decomposition?",
       "options": [
+        "Through transpiration",
         "Through photosynthesis",
-        "Through excretion from animals and aquatic organisms",
         "Through respiration",
-        "Through transpiration"
+        "Through excretion from animals and aquatic organisms"
       ],
       "correctAnswer": "Through excretion from animals and aquatic organisms",
       "id": 14
@@ -168,10 +168,10 @@
     {
       "question": "What is one way phosphate enters the soil?",
       "options": [
-        "From rainfall",
+        "From volcanic eruptions",
         "In the form of fertilizers obtained by mining phosphate rocks and applying them in agricultural lands",
         "From the atmosphere",
-        "From volcanic eruptions"
+        "From rainfall"
       ],
       "correctAnswer": "In the form of fertilizers obtained by mining phosphate rocks and applying them in agricultural lands",
       "id": 15
@@ -179,9 +179,9 @@
     {
       "question": "What is the purpose of applying phosphate fertilizers to agricultural lands?",
       "options": [
-        "To increase soil acidity",
-        "To boost crop yield",
         "To kill pests",
+        "To boost crop yield",
+        "To increase soil acidity",
         "To reduce water usage"
       ],
       "correctAnswer": "To boost crop yield",
@@ -190,10 +190,10 @@
     {
       "question": "What can happen when phosphate fertilizer from farmlands is leached by rainfall?",
       "options": [
-        "It improves water quality",
-        "It can reach nearby water bodies and cause eutrophication",
         "It evaporates into the atmosphere",
-        "It becomes permanently trapped in soil"
+        "It becomes permanently trapped in soil",
+        "It improves water quality",
+        "It can reach nearby water bodies and cause eutrophication"
       ],
       "correctAnswer": "It can reach nearby water bodies and cause eutrophication",
       "id": 17
@@ -203,8 +203,8 @@
       "options": [
         "The natural aging of a lake",
         "Undesirable excessive growth of aquatic plants and massive growth of algae (algal bloom) induced by leaching of fertilizers rich in nitrogen and phosphorus",
-        "The process of water purification",
-        "The formation of new soil"
+        "The formation of new soil",
+        "The process of water purification"
       ],
       "correctAnswer": "Undesirable excessive growth of aquatic plants and massive growth of algae (algal bloom) induced by leaching of fertilizers rich in nitrogen and phosphorus",
       "id": 18
@@ -212,10 +212,10 @@
     {
       "question": "The phosphorus cycle mainly involves the transfer of what?",
       "options": [
-        "Phosphorus gas from air to water",
+        "Phosphorus from the atmosphere to the soil",
         "Phosphate ions from soil, water, and rock to plants and aquatic algae",
         "Organic phosphorus from animals to plants",
-        "Phosphorus from the atmosphere to the soil"
+        "Phosphorus gas from air to water"
       ],
       "correctAnswer": "Phosphate ions from soil, water, and rock to plants and aquatic algae",
       "id": 19
@@ -224,9 +224,9 @@
       "question": "In the phosphorus cycle, what is first converted in the producers?",
       "options": [
         "Phosphate ions to ATP",
-        "Phosphate to organic phosphate",
         "Phosphate to phosphorus gas",
-        "Phosphate to DNA"
+        "Phosphate to DNA",
+        "Phosphate to organic phosphate"
       ],
       "correctAnswer": "Phosphate to organic phosphate",
       "id": 20
@@ -234,10 +234,10 @@
     {
       "question": "How is organic phosphate from producers transferred to consumers?",
       "options": [
-        "Through the air",
-        "Through the food chain",
+        "Through soil contact",
         "Through water absorption",
-        "Through soil contact"
+        "Through the air",
+        "Through the food chain"
       ],
       "correctAnswer": "Through the food chain",
       "id": 21
@@ -246,9 +246,9 @@
       "question": "By what are phosphate ions released from dead bodies of plants and animals?",
       "options": [
         "Sunlight and water",
-        "Soil bacteria and fungi",
         "Wind and rain",
-        "Plants and algae"
+        "Plants and algae",
+        "Soil bacteria and fungi"
       ],
       "correctAnswer": "Soil bacteria and fungi",
       "id": 22
@@ -256,10 +256,10 @@
     {
       "question": "Which type of fertilizer can cause eutrophication when leached into water bodies?",
       "options": [
-        "Organic compost only",
-        "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
+        "Lime only",
         "Potash fertilizers only",
-        "Lime only"
+        "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
+        "Organic compost only"
       ],
       "correctAnswer": "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
       "id": 23
@@ -267,9 +267,9 @@
     {
       "question": "The phosphorus cycle operates over what time frame for some processes?",
       "options": [
-        "Days",
         "Millions of years",
         "Hours",
+        "Days",
         "Weeks"
       ],
       "correctAnswer": "Millions of years",
@@ -278,9 +278,9 @@
     {
       "question": "ATP is also known as what?",
       "options": [
-        "The building block of DNA",
         "The energy currency of a cell",
         "The structural protein",
+        "The building block of DNA",
         "The genetic messenger"
       ],
       "correctAnswer": "The energy currency of a cell",
@@ -301,9 +301,9 @@
       "question": "Eutrophication leads to massive growth of which organisms?",
       "options": [
         "Fish and mammals",
-        "Aquatic plants (hydrophytes) and algae (algal bloom)",
+        "Insects",
         "Bacteria and fungi only",
-        "Insects"
+        "Aquatic plants (hydrophytes) and algae (algal bloom)"
       ],
       "correctAnswer": "Aquatic plants (hydrophytes) and algae (algal bloom)",
       "id": 27
@@ -311,10 +311,10 @@
     {
       "question": "What is the main source of phosphate fertilizers?",
       "options": [
-        "Recycled animal waste",
-        "Mining phosphate rocks",
         "Atmospheric deposition",
-        "Plant decomposition"
+        "Mining phosphate rocks",
+        "Plant decomposition",
+        "Recycled animal waste"
       ],
       "correctAnswer": "Mining phosphate rocks",
       "id": 28
@@ -324,8 +324,8 @@
       "options": [
         "Calcium and magnesium",
         "Nitrogen and phosphorus",
-        "Potassium and sulfur",
-        "Iron and zinc"
+        "Iron and zinc",
+        "Potassium and sulfur"
       ],
       "correctAnswer": "Nitrogen and phosphorus",
       "id": 29

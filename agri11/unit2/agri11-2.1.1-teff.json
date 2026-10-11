@@ -17,9 +17,9 @@
       "question": "Teff is native to",
       "options": [
         "Asia",
-        "Ethiopia",
+        "Australia",
         "Central America",
-        "Australia"
+        "Ethiopia"
       ],
       "correctAnswer": "Ethiopia"
     },
@@ -28,10 +28,10 @@
       "anki": true,
       "question": "In which country is teff used as livestock feed?",
       "options": [
-        "Kenya",
-        "South Africa",
         "Sudan",
-        "Somalia"
+        "Kenya",
+        "Somalia",
+        "South Africa"
       ],
       "correctAnswer": "South Africa"
     },
@@ -40,10 +40,10 @@
       "anki": true,
       "question": "How is teff described as a food cereal?",
       "options": [
-        "Very nutritious and popular",
         "Very poor in nutrients",
+        "Not edible for humans",
         "Only used as animal feed",
-        "Not edible for humans"
+        "Very nutritious and popular"
       ],
       "correctAnswer": "Very nutritious and popular"
     },
@@ -53,8 +53,8 @@
       "question": "Teff does not contain gluten, making it",
       "options": [
         "gluten-free",
-        "high in gluten",
         "gluten-rich",
+        "high in gluten",
         "allergic"
       ],
       "correctAnswer": "gluten-free"
@@ -65,9 +65,9 @@
       "question": "Cereals mentioned as gluten-free like teff are",
       "options": [
         "maize and sorghum",
+        "oats and millet",
         "wheat and barley",
-        "rice and rye",
-        "oats and millet"
+        "rice and rye"
       ],
       "correctAnswer": "maize and sorghum"
     },
@@ -76,10 +76,10 @@
       "anki": true,
       "question": "Teff is now used",
       "options": [
-        "only in Ethiopia",
-        "even outside Ethiopia",
         "only in East Africa",
-        "nowhere"
+        "only in Ethiopia",
+        "nowhere",
+        "even outside Ethiopia"
       ],
       "correctAnswer": "even outside Ethiopia"
     },
@@ -89,9 +89,9 @@
       "question": "Teff straw is used as",
       "options": [
         "building material",
+        "fuel only",
         "valuable animal feed",
-        "fertilizer only",
-        "fuel only"
+        "fertilizer only"
       ],
       "correctAnswer": "valuable animal feed"
     },
@@ -102,8 +102,8 @@
       "options": [
         "low price",
         "high price and high consumer acceptability",
-        "low demand",
-        "poor quality"
+        "poor quality",
+        "low demand"
       ],
       "correctAnswer": "high price and high consumer acceptability"
     },
@@ -112,9 +112,9 @@
       "anki": true,
       "question": "Teff storage characteristic is that it can be stored for",
       "options": [
-        "very short time",
-        "a long time",
         "few days",
+        "a long time",
+        "very short time",
         "one week"
       ],
       "correctAnswer": "a long time"
@@ -124,10 +124,10 @@
       "anki": true,
       "question": "Compared to other cereals, teff is less affected by",
       "options": [
+        "heat",
         "pests and diseases",
-        "drought",
         "frost",
-        "heat"
+        "drought"
       ],
       "correctAnswer": "pests and diseases"
     },
@@ -136,10 +136,10 @@
       "anki": true,
       "question": "Teff is considered reliable with",
       "options": [
-        "high risk",
         "low levels of risk",
-        "no advantage",
-        "unstable yield"
+        "unstable yield",
+        "high risk",
+        "no advantage"
       ],
       "correctAnswer": "low levels of risk"
     },
@@ -148,10 +148,10 @@
       "anki": true,
       "question": "Teff grows in environments including",
       "options": [
+        "all of the above",
         "low fertility soils",
-        "excessive moisture",
         "moisture shortage",
-        "all of the above"
+        "excessive moisture"
       ],
       "correctAnswer": "all of the above"
     },
@@ -160,10 +160,10 @@
       "anki": true,
       "question": "Altitude range for teff growth is from sea level to",
       "options": [
-        "$2800$ m",
-        "$1500$ m",
         "$2000$ m",
-        "$1000$ m"
+        "$1500$ m",
+        "$1000$ m",
+        "$2800$ m"
       ],
       "correctAnswer": "$2800$ m"
     },
@@ -172,10 +172,10 @@
       "anki": true,
       "question": "Major teff producing areas are at altitudes between",
       "options": [
-        "$1500$-$2800$ m",
-        "$500$-$1000$ m",
         "$100$-$400$ m",
-        "$3000$-$3500$ m"
+        "$500$-$1000$ m",
+        "$3000$-$3500$ m",
+        "$1500$-$2800$ m"
       ],
       "correctAnswer": "$1500$-$2800$ m"
     },
@@ -184,9 +184,9 @@
       "anki": true,
       "question": "Teff performs well on loam and clay soils with",
       "options": [
-        "low nutrients",
         "high nutrient and water storage capacity",
         "sandy texture",
+        "low nutrients",
         "poor drainage"
       ],
       "correctAnswer": "high nutrient and water storage capacity"
@@ -196,10 +196,10 @@
       "anki": true,
       "question": "In Ethiopia, teff ranks first in",
       "options": [
-        "area of production",
-        "export only",
         "price",
-        "irrigation"
+        "export only",
+        "irrigation",
+        "area of production"
       ],
       "correctAnswer": "area of production"
     },
@@ -209,9 +209,9 @@
       "question": "Smooth seedbed is needed for teff due to its",
       "options": [
         "large grain size",
+        "heavy seeds",
         "small grain size",
-        "hard coat",
-        "heavy seeds"
+        "hard coat"
       ],
       "correctAnswer": "small grain size"
     },
@@ -220,10 +220,10 @@
       "anki": true,
       "question": "Number of times soil is cultivated for teff is usually",
       "options": [
+        "once",
         "$1$-$2$",
         "$4$-$5$",
-        "$6$-$8$",
-        "once"
+        "$6$-$8$"
       ],
       "correctAnswer": "$4$-$5$"
     },
@@ -232,8 +232,8 @@
       "anki": true,
       "question": "Teff seedbed must be free from",
       "options": [
-        "weeds and other crop pests",
         "stones only",
+        "weeds and other crop pests",
         "moisture",
         "roots"
       ],
@@ -244,10 +244,10 @@
       "anki": true,
       "question": "Teff plots should have",
       "options": [
-        "large clods",
         "no large soil clods",
         "deep ridges",
-        "trenches"
+        "trenches",
+        "large clods"
       ],
       "correctAnswer": "no large soil clods"
     },
@@ -256,10 +256,10 @@
       "anki": true,
       "question": "Animals are driven on teff seedbed surface to",
       "options": [
-        "achieve smooth seedbed",
-        "compact deeply",
         "cause erosion",
-        "dry soil"
+        "compact deeply",
+        "dry soil",
+        "achieve smooth seedbed"
       ],
       "correctAnswer": "achieve smooth seedbed"
     },
@@ -268,10 +268,10 @@
       "anki": true,
       "question": "Common planting method for teff is",
       "options": [
-        "broadcasting",
         "transplanting",
-        "cuttings",
-        "layering"
+        "layering",
+        "broadcasting",
+        "cuttings"
       ],
       "correctAnswer": "broadcasting"
     },
@@ -282,8 +282,8 @@
       "options": [
         "$20$ cm between rows",
         "$50$ cm",
-        "$75$ cm",
-        "$30$ cm"
+        "$30$ cm",
+        "$75$ cm"
       ],
       "correctAnswer": "$20$ cm between rows"
     },
@@ -293,8 +293,8 @@
       "question": "After planting, teff seeds are covered by dragging branches or",
       "options": [
         "driving flock of animals",
-        "heavy roller",
         "tractor disk",
+        "heavy roller",
         "flooding"
       ],
       "correctAnswer": "driving flock of animals"
@@ -304,10 +304,10 @@
       "anki": true,
       "question": "Shallow furrows at $3$-$6$ m intervals are for",
       "options": [
-        "draining excess moisture",
-        "irrigation",
         "planting",
-        "fertilizer"
+        "fertilizer",
+        "irrigation",
+        "draining excess moisture"
       ],
       "correctAnswer": "draining excess moisture"
     },
@@ -316,9 +316,9 @@
       "anki": true,
       "question": "Common teff planting time is",
       "options": [
-        "July/August",
         "March/April",
         "Oct/Nov",
+        "July/August",
         "Jan/Feb"
       ],
       "correctAnswer": "July/August"
@@ -328,10 +328,10 @@
       "anki": true,
       "question": "Harvest time for teff in highlands is November/December, in mid/lowlands it is",
       "options": [
-        "earlier",
         "later",
-        "same",
-        "delayed"
+        "earlier",
+        "delayed",
+        "same"
       ],
       "correctAnswer": "earlier"
     },
@@ -341,9 +341,9 @@
       "question": "Recommended fertilizer for teff is $60$ kg N and",
       "options": [
         "$26$ kg P per hectare",
-        "$20$ kg P",
+        "$15$ kg P",
         "$41$ kg P",
-        "$15$ kg P"
+        "$20$ kg P"
       ],
       "correctAnswer": "$26$ kg P per hectare"
     },
@@ -352,9 +352,9 @@
       "anki": true,
       "question": "Fertilizer rate depends on",
       "options": [
-        "soil fertility level",
         "seed cost",
         "rainfall only",
+        "soil fertility level",
         "market"
       ],
       "correctAnswer": "soil fertility level"
@@ -364,10 +364,10 @@
       "anki": true,
       "question": "Early weeding is important for teff because it",
       "options": [
+        "tolerates weeds",
         "competes poorly with weeds at early seedling stage",
-        "grows fast",
         "is tall",
-        "tolerates weeds"
+        "grows fast"
       ],
       "correctAnswer": "competes poorly with weeds at early seedling stage"
     }

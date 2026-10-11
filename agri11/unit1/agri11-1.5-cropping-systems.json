@@ -15,10 +15,10 @@
       "anki": true,
       "question": "Cropping system refers to:",
       "options": [
-        "Only the crop variety grown",
         "The types and sequences of crops and the different practices used to grow them",
         "Only the planting date",
-        "Only the harvesting method"
+        "Only the harvesting method",
+        "Only the crop variety grown"
       ],
       "correctAnswer": "The types and sequences of crops and the different practices used to grow them"
     },
@@ -27,9 +27,9 @@
       "anki": true,
       "question": "Different cropping systems require:",
       "options": [
-        "Same management always",
         "Different types of management",
         "No management",
+        "Same management always",
         "Minimal inputs only"
       ],
       "correctAnswer": "Different types of management"
@@ -39,10 +39,10 @@
       "anki": true,
       "question": "Forms of cropping systems include:",
       "options": [
+        "Irrigated and rainfed only",
         "Mono cropping, mixed cropping (including intercropping and relay planting), relay planting and crop rotation",
-        "Subsistence and commercial only",
         "Shifting and settled only",
-        "Irrigated and rainfed only"
+        "Subsistence and commercial only"
       ],
       "correctAnswer": "Mono cropping, mixed cropping (including intercropping and relay planting), relay planting and crop rotation"
     },
@@ -53,8 +53,8 @@
       "options": [
         "Growing two or more crops together",
         "Growing a single crop type in a given plot of land",
-        "Rotating crops",
-        "Growing crops in strips"
+        "Growing crops in strips",
+        "Rotating crops"
       ],
       "correctAnswer": "Growing a single crop type in a given plot of land"
     },
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "Mono cropping is commonly practiced in:",
       "options": [
-        "Large scale commercial crop production",
+        "Shifting cultivation only",
         "Home gardens only",
-        "Forest areas",
-        "Shifting cultivation only"
+        "Large scale commercial crop production",
+        "Forest areas"
       ],
       "correctAnswer": "Large scale commercial crop production"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "In mono cropping, a single crop species:",
       "options": [
+        "Alternates rows",
         "Shares land with others",
-        "Occupies the whole farm",
         "Grows in patches",
-        "Alternates rows"
+        "Occupies the whole farm"
       ],
       "correctAnswer": "Occupies the whole farm"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "One disadvantage of mono cropping is:",
       "options": [
-        "Increased soil fertility",
         "Risk of total crop failure as a result of crop pests and diseases",
         "Better nutrient use",
-        "Reduced erosion"
+        "Reduced erosion",
+        "Increased soil fertility"
       ],
       "correctAnswer": "Risk of total crop failure as a result of crop pests and diseases"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "Mono cropping also results in:",
       "options": [
-        "Improved soil structure",
-        "Reduced soil fertility",
         "Increased biodiversity",
-        "Higher organic matter"
+        "Higher organic matter",
+        "Improved soil structure",
+        "Reduced soil fertility"
       ],
       "correctAnswer": "Reduced soil fertility"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "An advantage of mono cropping is:",
       "options": [
-        "It enables farmers to use uniform management and increases the efficiency of practices like planting and harvesting",
-        "It prevents all pests",
         "It requires no inputs",
-        "It improves soil naturally"
+        "It improves soil naturally",
+        "It prevents all pests",
+        "It enables farmers to use uniform management and increases the efficiency of practices like planting and harvesting"
       ],
       "correctAnswer": "It enables farmers to use uniform management and increases the efficiency of practices like planting and harvesting"
     },
@@ -124,9 +124,9 @@
       "question": "Mixed cropping is the practice of:",
       "options": [
         "Growing two or more crops simultaneously on the same piece of land",
+        "Growing crops in different years",
         "Growing one crop per year",
-        "Leaving land fallow",
-        "Growing crops in different years"
+        "Leaving land fallow"
       ],
       "correctAnswer": "Growing two or more crops simultaneously on the same piece of land"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "Mixed cropping allows for more efficient use of:",
       "options": [
-        "Only sunlight",
-        "Soil nutrients, water and light radiation",
         "Only water",
-        "Only space"
+        "Only space",
+        "Only sunlight",
+        "Soil nutrients, water and light radiation"
       ],
       "correctAnswer": "Soil nutrients, water and light radiation"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "Mixed cropping helps to break the cycle of crop pests and diseases which are very common in:",
       "options": [
-        "Mixed cropping systems",
-        "Mono cropping systems",
         "Crop rotation",
-        "Relay planting"
+        "Relay planting",
+        "Mixed cropping systems",
+        "Mono cropping systems"
       ],
       "correctAnswer": "Mono cropping systems"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "The most common types of mixed cropping are:",
       "options": [
-        "Intercropping and relay planting",
-        "Strip and alley",
         "Sequential and parallel",
-        "Broadcast and row"
+        "Broadcast and row",
+        "Intercropping and relay planting",
+        "Strip and alley"
       ],
       "correctAnswer": "Intercropping and relay planting"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "Intercropping is:",
       "options": [
-        "Planting more than one crop in regular rows on the same field at the same time",
-        "Planting crops in different seasons",
         "Growing one crop after another",
-        "Leaving land bare"
+        "Leaving land bare",
+        "Planting more than one crop in regular rows on the same field at the same time",
+        "Planting crops in different seasons"
       ],
       "correctAnswer": "Planting more than one crop in regular rows on the same field at the same time"
     },
@@ -197,8 +197,8 @@
       "options": [
         "Legumes",
         "Root crops only",
-        "Fibre crops only",
-        "Sugar crops only"
+        "Sugar crops only",
+        "Fibre crops only"
       ],
       "correctAnswer": "Legumes"
     },
@@ -208,9 +208,9 @@
       "question": "Relay and intercropping systems provide better soil cover and reduce:",
       "options": [
         "Soil erosion",
-        "Soil fertility",
+        "Water holding capacity",
         "Organic matter",
-        "Water holding capacity"
+        "Soil fertility"
       ],
       "correctAnswer": "Soil erosion"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "Compared to mono cropping systems, crop diseases in relay and intercropping systems:",
       "options": [
-        "Spread more rapidly",
-        "Spread less rapidly",
         "Do not occur",
-        "Always increase"
+        "Always increase",
+        "Spread less rapidly",
+        "Spread more rapidly"
       ],
       "correctAnswer": "Spread less rapidly"
     },
@@ -232,9 +232,9 @@
       "question": "Relay planting is when:",
       "options": [
         "A second crop is planted after the first crop has grown alone for a certain period",
-        "Two crops are planted at exactly the same time and harvested together",
         "Crops are planted in alternate years",
-        "Crops are broadcasted together"
+        "Crops are broadcasted together",
+        "Two crops are planted at exactly the same time and harvested together"
       ],
       "correctAnswer": "A second crop is planted after the first crop has grown alone for a certain period"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "Relay planting reduces the risk of:",
       "options": [
-        "Total crop failure",
         "Seed germination",
-        "Pollination",
-        "Root growth"
+        "Root growth",
+        "Total crop failure",
+        "Pollination"
       ],
       "correctAnswer": "Total crop failure"
     },
@@ -255,10 +255,10 @@
       "anki": true,
       "question": "Crop rotation is the practice of:",
       "options": [
-        "Growing different crop species on the same plot of land sequentially",
-        "Growing the same crop every year",
         "Growing crops mixed together always",
-        "Leaving land fallow permanently"
+        "Growing different crop species on the same plot of land sequentially",
+        "Leaving land fallow permanently",
+        "Growing the same crop every year"
       ],
       "correctAnswer": "Growing different crop species on the same plot of land sequentially"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "In crop rotation, the sequence might be:",
       "options": [
-        "Repeated many times",
+        "Fixed forever",
         "Done only once",
-        "Never repeated",
-        "Fixed forever"
+        "Repeated many times",
+        "Never repeated"
       ],
       "correctAnswer": "Repeated many times"
     },
@@ -279,8 +279,8 @@
       "anki": true,
       "question": "Rotations could also involve more crop species depending on:",
       "options": [
-        "The environment",
         "The farmer's age",
+        "The environment",
         "Market price only",
         "Seed colour"
       ],
@@ -291,10 +291,10 @@
       "anki": true,
       "question": "Objectives of crop rotation include:",
       "options": [
-        "Improving soil fertility, especially if legumes are included, and controlling some crop pests and diseases",
         "Increasing erosion",
-        "Decreasing biodiversity",
-        "Exhausting soil nutrients"
+        "Exhausting soil nutrients",
+        "Improving soil fertility, especially if legumes are included, and controlling some crop pests and diseases",
+        "Decreasing biodiversity"
       ],
       "correctAnswer": "Improving soil fertility, especially if legumes are included, and controlling some crop pests and diseases"
     },
@@ -303,9 +303,9 @@
       "anki": true,
       "question": "Crop rotation may also develop:",
       "options": [
+        "Better water retention only",
         "Resistant diseases and weeds",
         "More fertile soil always",
-        "Better water retention only",
         "Fewer pests always"
       ],
       "correctAnswer": "Resistant diseases and weeds"
@@ -316,9 +316,9 @@
       "question": "A challenge to crop rotation mentioned in the handout is:",
       "options": [
         "Changing climates",
-        "Stable weather",
+        "Fixed prices",
         "Constant rainfall",
-        "Fixed prices"
+        "Stable weather"
       ],
       "correctAnswer": "Changing climates"
     }

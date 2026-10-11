@@ -1,0 +1,414 @@
+{
+  "title": "2.1 Computer Peripherals",
+  "description": "Peripherals, buses, expansion cards, storage and input/output devices",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "According to the module, what is a computer?",
+      "options": [
+        "A powerful electronic device that can perform various tasks, process data, and execute instructions",
+        "A storage device used to keep large amounts of information",
+        "A network connection that links several machines together",
+        "A type of software used to run applications"
+      ],
+      "correctAnswer": "A powerful electronic device that can perform various tasks, process data, and execute instructions"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is a peripheral?",
+      "options": [
+        "A cable used to connect two computers directly",
+        "A program that controls the operating system",
+        "A piece of computer hardware added to a computer in order to expand its abilities",
+        "A type of internal memory found on the motherboard"
+      ],
+      "correctAnswer": "A piece of computer hardware added to a computer in order to expand its abilities"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which of the following best describes peripherals?",
+      "options": [
+        "They are always fitted inside the system unit",
+        "They can only be connected wirelessly",
+        "They are software programs that expand the abilities of a computer",
+        "They are optional in nature, as opposed to hardware that is always required"
+      ],
+      "correctAnswer": "They are optional in nature, as opposed to hardware that is always required"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What is a bus?",
+      "options": [
+        "A subsystem that transfers data between computer components inside a computer or between computers",
+        "A slot used to attach a monitor to the power supply",
+        "A type of removable storage device",
+        "A program that manages input and output devices"
+      ],
+      "correctAnswer": "A subsystem that transfers data between computer components inside a computer or between computers"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What are the two types of buses in a computer system?",
+      "options": [
+        "Storage buses and power buses",
+        "Internal buses and external buses",
+        "Video buses and sound buses",
+        "Serial buses and wireless buses"
+      ],
+      "correctAnswer": "Internal buses and external buses"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "PCI is common in modern PCs. Which technology is succeeding this kind of bus?",
+      "options": [
+        "PS/2",
+        "AGP",
+        "PCI Express",
+        "FireWire"
+      ],
+      "correctAnswer": "PCI Express"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "True or False: PCI Express was introduced by Intel in 2004.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What typical PCI cards are used in PCs?",
+      "options": [
+        "Network cards, sound cards, modems, extra ports, TV tuner cards and disk controllers",
+        "Printers, scanners and webcams",
+        "Video cards, power supplies and speakers",
+        "Keyboards, mice and touch screens"
+      ],
+      "correctAnswer": "Network cards, sound cards, modems, extra ports, TV tuner cards and disk controllers"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Why have video cards outgrown the capabilities of PCI?",
+      "options": [
+        "Because PCI cards can no longer be bought",
+        "Because of their higher bandwidth requirements",
+        "Because video cards need no expansion slot",
+        "Because PCI slots are too large to fit inside a PC"
+      ],
+      "correctAnswer": "Because of their higher bandwidth requirements"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What was PCI Express designed to replace?",
+      "options": [
+        "The hard drive and the floppy drive",
+        "The USB and FireWire connections",
+        "The keyboard and the mouse ports",
+        "The general-purpose PCI expansion bus and the AGP graphics card interface"
+      ],
+      "correctAnswer": "The general-purpose PCI expansion bus and the AGP graphics card interface"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which of the following describes PCI Express?",
+      "options": [
+        "It is a wireless standard for connecting peripherals",
+        "It is a port used only for external storage devices",
+        "It is a parallel bus that shares the same set of wires",
+        "It is a point-to-point connection of serial links called lanes"
+      ],
+      "correctAnswer": "It is a point-to-point connection of serial links called lanes"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Why do PCI Express cards make better video cards than PCI cards?",
+      "options": [
+        "They are cheaper to produce",
+        "They have faster bandwidth",
+        "They use less power",
+        "They fit into more slots"
+      ],
+      "correctAnswer": "They have faster bandwidth"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What is an AGP (Accelerated Graphics Port)?",
+      "options": [
+        "A wireless connection used to link two monitors",
+        "A serial connection used for high-speed data transfer between computers",
+        "A high-speed point-to-point channel for attaching a graphics card to the motherboard, primarily to assist in the acceleration of 3D computer graphics",
+        "A general-purpose bus used to connect printers"
+      ],
+      "correctAnswer": "A high-speed point-to-point channel for attaching a graphics card to the motherboard, primarily to assist in the acceleration of 3D computer graphics"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which technology has largely replaced AGP over the past years?",
+      "options": [
+        "PCI Express",
+        "USB",
+        "PS/2",
+        "FireWire"
+      ],
+      "correctAnswer": "PCI Express"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What is the function of a video card?",
+      "options": [
+        "To provide audio signals to speakers",
+        "To store data permanently on a hard disk",
+        "To generate and output images to a display",
+        "To connect a computer to a network"
+      ],
+      "correctAnswer": "To generate and output images to a display"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "What is the GPU (graphics processing unit) on a video card?",
+      "options": [
+        "A connector used for a standard monitor cable",
+        "A basic program that governs the card's operations",
+        "A memory chip used to store images temporarily",
+        "A dedicated microprocessor optimized for 3D graphics rendering"
+      ],
+      "correctAnswer": "A dedicated microprocessor optimized for 3D graphics rendering"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "True or False: If a video card is integrated in the motherboard, it may use the computer's RAM memory.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "According to the module, what range do most video RAM memories fall into?",
+      "options": [
+        "From 512KB to 1MB",
+        "From 8MB to 16MB",
+        "From 128MB to 2GB",
+        "From 1GB to 64GB"
+      ],
+      "correctAnswer": "From 128MB to 2GB"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "What is the function of a RAMDAC on a video card?",
+      "options": [
+        "Storing images before they are displayed",
+        "Cooling the graphics processing unit",
+        "Turning the digital signals produced by the processor into an analog signal understood by the display",
+        "Connecting multiple monitors wirelessly"
+      ],
+      "correctAnswer": "Turning the digital signals produced by the processor into an analog signal understood by the display"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "What is a sound card?",
+      "options": [
+        "A card that generates and outputs images to a display",
+        "An expansion card that facilitates the input and output of audio signals under control of computer programs",
+        "A card that provides extra USB ports",
+        "A card that allows computers to communicate over a network"
+      ],
+      "correctAnswer": "An expansion card that facilitates the input and output of audio signals under control of computer programs"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "What does a network card allow computers to do?",
+      "options": [
+        "Produce sound for multimedia applications",
+        "Provide power to low-consumption devices",
+        "Communicate over a computer network, either by using cables or wirelessly",
+        "Display images on multiple monitors"
+      ],
+      "correctAnswer": "Communicate over a computer network, either by using cables or wirelessly"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "True or False: Every Ethernet network card has a unique 48-bit serial number called a MAC address, which is stored in ROM on the card.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What is USB (Universal Serial Bus)?",
+      "options": [
+        "An internal bus used to connect the processor and memory",
+        "A wireless standard for connecting keyboards",
+        "A serial bus standard used to interface devices",
+        "A parallel bus standard used to connect monitors"
+      ],
+      "correctAnswer": "A serial bus standard used to interface devices"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Which feature of USB improves plug-and-play capabilities?",
+      "options": [
+        "Only working while the computer is turned off",
+        "Requiring an external power supply for every device",
+        "Allowing devices to be connected and disconnected without rebooting the computer",
+        "Needing a separate driver for each manufacturer"
+      ],
+      "correctAnswer": "Allowing devices to be connected and disconnected without rebooting the computer"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "What is the dominating bus for connecting external devices to a computer?",
+      "options": [
+        "PCI",
+        "USB",
+        "AGP",
+        "PS/2"
+      ],
+      "correctAnswer": "USB"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "What is FireWire (IEEE 1394), also known as i.LINK for Sony?",
+      "options": [
+        "A wireless standard for connecting mice",
+        "An internal bus for connecting memory chips",
+        "A serial bus interface standard for high-speed communications and isochronous real-time data transfer",
+        "A parallel port used only for printers"
+      ],
+      "correctAnswer": "A serial bus interface standard for high-speed communications and isochronous real-time data transfer"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Which connection is used for connecting some keyboards and mice to a PC compatible computer system?",
+      "options": [
+        "The S-Video connector",
+        "The PS/2 connector",
+        "The component video connector",
+        "The AGP slot"
+      ],
+      "correctAnswer": "The PS/2 connector"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "True or False: A PS/2 mouse connected to a PS/2 keyboard port may not be recognized by the computer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "Which of the following describes USB flash drives?",
+      "options": [
+        "Read-only and designed for permanent storage",
+        "Small, fast, removable, rewritable, and long-lasting",
+        "Usable only with an external power supply",
+        "Large, slow and built into the motherboard"
+      ],
+      "correctAnswer": "Small, fast, removable, rewritable, and long-lasting"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "Why is a flash drive usually more durable and smaller than a hard drive?",
+      "options": [
+        "Because it uses vacuum tubes instead of chips",
+        "Because it needs no memory at all",
+        "Because it has no mechanically driven parts",
+        "Because it is always connected externally"
+      ],
+      "correctAnswer": "Because it has no mechanically driven parts"
+    },
+    {
+      "id": 31,
+      "anki": true,
+      "question": "What is a popular use of external hard drives?",
+      "options": [
+        "Backups, shared drives among many computers, and expanding hard drive space",
+        "Providing audio signals for multimedia applications",
+        "Adding a wireless connection to the internet",
+        "Generating and outputting images to a display"
+      ],
+      "correctAnswer": "Backups, shared drives among many computers, and expanding hard drive space"
+    },
+    {
+      "id": 32,
+      "anki": true,
+      "question": "Which of the following are the most common input devices?",
+      "options": [
+        "Projectors and screens",
+        "Speakers and headphones",
+        "Mice and keyboards",
+        "Monitors and printers"
+      ],
+      "correctAnswer": "Mice and keyboards"
+    },
+    {
+      "id": 33,
+      "anki": true,
+      "question": "Which new popular pointing device may eventually replace the mouse?",
+      "options": [
+        "Scanner",
+        "Trackball",
+        "Webcam",
+        "Touch screen"
+      ],
+      "correctAnswer": "Touch screen"
+    },
+    {
+      "id": 34,
+      "anki": true,
+      "question": "What is the absolute most common external output device?",
+      "options": [
+        "A printer",
+        "A speaker",
+        "A projector",
+        "A monitor"
+      ],
+      "correctAnswer": "A monitor"
+    }
+  ]
+}

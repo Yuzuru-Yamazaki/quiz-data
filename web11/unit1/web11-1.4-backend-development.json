@@ -1,0 +1,254 @@
+{
+  "title": "1.4 Back-End Development",
+  "description": "Server-side development",
+  "folder": "School/Grade 11/Web Development/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit1"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Back-end development focuses on which aspect of web development?",
+      "options": [
+        "The layout of headings and paragraphs",
+        "The server-side of websites or web applications",
+        "The client-side user interface",
+        "The visual styling of web pages"
+      ],
+      "correctAnswer": "The server-side of websites or web applications"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Back-end developers handle the behind-the-scenes functionality that deals with which of the following?",
+      "options": [
+        "Keyboard navigation and accessibility",
+        "Colors, fonts and spacing",
+        "Data processing, storage and communication",
+        "Image optimization and compression"
+      ],
+      "correctAnswer": "Data processing, storage and communication"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which of the following is a server-side programming language used in back-end development?",
+      "options": [
+        "Python",
+        "Bootstrap",
+        "CSS",
+        "HTML"
+      ],
+      "correctAnswer": "Python"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Node.js is used by back-end developers as which of the following?",
+      "options": [
+        "A front-end styling language",
+        "A web browser",
+        "A database management system",
+        "A server-side programming language or runtime"
+      ],
+      "correctAnswer": "A server-side programming language or runtime"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which of the following is a common database used in back-end development?",
+      "options": [
+        "React",
+        "Bootstrap",
+        "MySQL",
+        "jQuery"
+      ],
+      "correctAnswer": "MySQL"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "When working with databases, what do back-end developers design?",
+      "options": [
+        "CSS style sheets",
+        "Database schemas",
+        "Web page layouts",
+        "Browser extensions"
+      ],
+      "correctAnswer": "Database schemas"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What is the role of APIs in back-end development?",
+      "options": [
+        "They allow different software systems to communicate with each other",
+        "They store images and media files",
+        "They define the visual layout of a page",
+        "They style and format HTML elements"
+      ],
+      "correctAnswer": "They allow different software systems to communicate with each other"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "APIs enable the exchange of data and functionality between which two parts?",
+      "options": [
+        "The browser and the monitor",
+        "The operating system and the printer",
+        "The keyboard and mouse",
+        "The front-end and back-end"
+      ],
+      "correctAnswer": "The front-end and back-end"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which of the following is a web server that back-end developers configure and deploy?",
+      "options": [
+        "jQuery",
+        "Apache",
+        "MySQL",
+        "MongoDB"
+      ],
+      "correctAnswer": "Apache"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Nginx is an example of which of the following?",
+      "options": [
+        "A front-end framework",
+        "A web server",
+        "A database",
+        "A programming language"
+      ],
+      "correctAnswer": "A web server"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Back-end developers implement authentication and authorization to provide which of the following?",
+      "options": [
+        "Visual styling",
+        "Security",
+        "Browser compatibility",
+        "Responsive design"
+      ],
+      "correctAnswer": "Security"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which common vulnerability involves inserting malicious SQL statements into an application?",
+      "options": [
+        "SQL injection",
+        "Responsive design",
+        "Cross-site scripting",
+        "Version control"
+      ],
+      "correctAnswer": "SQL injection"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Cross-site scripting is commonly abbreviated as which of the following?",
+      "options": [
+        "CSS",
+        "API",
+        "XSS",
+        "SQL"
+      ],
+      "correctAnswer": "XSS"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which back-end framework is built for the Python language?",
+      "options": [
+        "Laravel",
+        "Ruby on Rails",
+        "Django",
+        "Spring"
+      ],
+      "correctAnswer": "Django"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Ruby on Rails is a back-end framework for which language?",
+      "options": [
+        "PHP",
+        "Python",
+        "Ruby",
+        "Java"
+      ],
+      "correctAnswer": "Ruby"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Laravel is a back-end framework written for which language?",
+      "options": [
+        "PHP",
+        "Ruby",
+        "Java",
+        "Node.js"
+      ],
+      "correctAnswer": "PHP"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Express.js is a back-end framework associated with which of the following?",
+      "options": [
+        "Node.js",
+        "PHP",
+        "Ruby",
+        "Java"
+      ],
+      "correctAnswer": "Node.js"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Spring is a back-end framework built for which language?",
+      "options": [
+        "Ruby",
+        "Python",
+        "PHP",
+        "Java"
+      ],
+      "correctAnswer": "Java"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Why do back-end developers write tests for server-side code?",
+      "options": [
+        "To create responsive layouts",
+        "To style HTML elements",
+        "To optimize image file sizes",
+        "To ensure the reliability and stability of the code"
+      ],
+      "correctAnswer": "To ensure the reliability and stability of the code"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Integrating payment gateways, email services or social media APIs is an example of which back-end activity?",
+      "options": [
+        "Cross-browser compatibility",
+        "Responsive design",
+        "Semantic markup",
+        "Integration of third-party services"
+      ],
+      "correctAnswer": "Integration of third-party services"
+    }
+  ]
+}

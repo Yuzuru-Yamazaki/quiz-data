@@ -4,24 +4,43 @@
   "folder": "School/Grade 10/Math/Test",
   "field": "neutral",
   "anki": true,
-  "tags": ["math", "test", "katex"],
+  "tags": [
+    "math",
+    "test",
+    "katex"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "What is the chemical formula for water?",
-      "options": ["$H_2O$", "$CO_2$", "$NaCl$", "$O_2$"],
+      "options": [
+        "$NaCl$",
+        "$CO_2$",
+        "$H_2O$",
+        "$O_2$"
+      ],
       "correctAnswer": "$H_2O$"
     },
     {
       "id": 2,
       "question": "Evaluate the expression for $x = 3$: $x^2 + 2x - 1$",
-      "options": ["11", "14", "$3x^2$", "9"],
+      "options": [
+        "14",
+        "11",
+        "$3x^2$",
+        "9"
+      ],
       "correctAnswer": "14"
     },
     {
       "id": 3,
       "question": "Which formula represents the quadratic formula?",
-      "options": ["$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$", "$E = mc^2$", "$a^2 + b^2 = c^2$", "$F = ma$"],
+      "options": [
+        "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
+        "$F = ma$",
+        "$E = mc^2$",
+        "$a^2 + b^2 = c^2$"
+      ],
       "correctAnswer": "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$"
     }
   ]

@@ -14,10 +14,10 @@
     {
       "question": "What is the ultimate source of energy in living organisms?",
       "options": [
-        "The moon",
-        "The sun",
+        "Water",
         "The soil",
-        "Water"
+        "The moon",
+        "The sun"
       ],
       "correctAnswer": "The sun",
       "id": 1
@@ -25,10 +25,10 @@
     {
       "question": "Which organisms are the first to trap energy from the sun and produce their own food?",
       "options": [
-        "Consumers",
-        "Decomposers",
         "Producers",
-        "Herbivores"
+        "Herbivores",
+        "Consumers",
+        "Decomposers"
       ],
       "correctAnswer": "Producers",
       "id": 2
@@ -36,9 +36,9 @@
     {
       "question": "Producers are also known as which of the following?",
       "options": [
+        "Carnivores",
         "Heterotrophs",
         "Autotrophs",
-        "Carnivores",
         "Omnivores"
       ],
       "correctAnswer": "Autotrophs",
@@ -47,10 +47,10 @@
     {
       "question": "What does the term 'autotroph' mean?",
       "options": [
-        "Other feeding",
-        "Self feeding",
+        "Plant feeding",
         "Dead feeding",
-        "Plant feeding"
+        "Other feeding",
+        "Self feeding"
       ],
       "correctAnswer": "Self feeding",
       "id": 4
@@ -58,10 +58,10 @@
     {
       "question": "Animals that feed on either plants or other animals as a source of energy are known as what?",
       "options": [
-        "Producers",
-        "Autotrophs",
         "Consumers",
-        "Decomposers"
+        "Autotrophs",
+        "Decomposers",
+        "Producers"
       ],
       "correctAnswer": "Consumers",
       "id": 5
@@ -80,10 +80,10 @@
     {
       "question": "What do you call an animal that feeds on plants only?",
       "options": [
-        "Carnivore",
-        "Omnivore",
+        "Decomposer",
         "Herbivore",
-        "Decomposer"
+        "Omnivore",
+        "Carnivore"
       ],
       "correctAnswer": "Herbivore",
       "id": 7
@@ -91,10 +91,10 @@
     {
       "question": "What do you call an animal that feeds on other animals only?",
       "options": [
-        "Herbivore",
+        "Producer",
         "Omnivore",
         "Carnivore",
-        "Producer"
+        "Herbivore"
       ],
       "correctAnswer": "Carnivore",
       "id": 8
@@ -102,9 +102,9 @@
     {
       "question": "What do you call an animal that feeds on both plants and animals?",
       "options": [
-        "Herbivore",
         "Carnivore",
         "Omnivore",
+        "Herbivore",
         "Decomposer"
       ],
       "correctAnswer": "Omnivore",
@@ -113,10 +113,10 @@
     {
       "question": "The process by which energy is transferred from plants through a chain of organisms is known as what?",
       "options": [
+        "Decomposition",
         "The water cycle",
         "The food chain or food web",
-        "Photosynthesis",
-        "Decomposition"
+        "Photosynthesis"
       ],
       "correctAnswer": "The food chain or food web",
       "id": 10
@@ -124,10 +124,10 @@
     {
       "question": "What does a food chain represent?",
       "options": [
+        "Climate patterns",
         "Nutritive interaction among biotic components of the ecosystem",
-        "Abiotic factors in an ecosystem",
         "The water cycle",
-        "Climate patterns"
+        "Abiotic factors in an ecosystem"
       ],
       "correctAnswer": "Nutritive interaction among biotic components of the ecosystem",
       "id": 11
@@ -135,10 +135,10 @@
     {
       "question": "What type of energy flow occurs in a food chain?",
       "options": [
-        "Multidirectional",
-        "Unidirectional",
         "Circular",
-        "Random"
+        "Random",
+        "Multidirectional",
+        "Unidirectional"
       ],
       "correctAnswer": "Unidirectional",
       "id": 12
@@ -146,10 +146,10 @@
     {
       "question": "From where to where does energy flow in a food chain?",
       "options": [
-        "From consumers to producers",
-        "From the sun to producers and then to consumers",
         "From decomposers to producers",
-        "From herbivores to carnivores only"
+        "From the sun to producers and then to consumers",
+        "From herbivores to carnivores only",
+        "From consumers to producers"
       ],
       "correctAnswer": "From the sun to producers and then to consumers",
       "id": 13
@@ -157,10 +157,10 @@
     {
       "question": "Where are plants (producers) positioned in a food chain?",
       "options": [
-        "At the top",
-        "In the middle",
         "At the base or beginning",
-        "At multiple positions"
+        "At multiple positions",
+        "At the top",
+        "In the middle"
       ],
       "correctAnswer": "At the base or beginning",
       "id": 14
@@ -168,10 +168,10 @@
     {
       "question": "What is a trophic level?",
       "options": [
-        "The amount of energy in an organism",
-        "The position of an organism in an order of receiving energy",
         "The type of food an organism eats",
-        "The habitat of an organism"
+        "The amount of energy in an organism",
+        "The habitat of an organism",
+        "The position of an organism in an order of receiving energy"
       ],
       "correctAnswer": "The position of an organism in an order of receiving energy",
       "id": 15
@@ -179,10 +179,10 @@
     {
       "question": "How many trophic levels do food chains usually range from?",
       "options": [
-        "1 to 2",
         "1 to 3 or 4",
-        "5 to 6",
-        "7 to 10"
+        "7 to 10",
+        "1 to 2",
+        "5 to 6"
       ],
       "correctAnswer": "1 to 3 or 4",
       "id": 16
@@ -190,10 +190,10 @@
     {
       "question": "Which trophic level do plants (producers) occupy?",
       "options": [
-        "The second trophic level",
+        "The fourth trophic level",
         "The third trophic level",
-        "The first trophic level",
-        "The fourth trophic level"
+        "The second trophic level",
+        "The first trophic level"
       ],
       "correctAnswer": "The first trophic level",
       "id": 17
@@ -201,10 +201,10 @@
     {
       "question": "Which trophic level do herbivores occupy?",
       "options": [
-        "The first trophic level",
-        "The second trophic level",
         "The third trophic level",
-        "The fourth trophic level"
+        "The fourth trophic level",
+        "The second trophic level",
+        "The first trophic level"
       ],
       "correctAnswer": "The second trophic level",
       "id": 18
@@ -212,9 +212,9 @@
     {
       "question": "Which trophic level do carnivores that eat herbivores occupy?",
       "options": [
-        "The first trophic level",
-        "The second trophic level",
         "The third trophic level",
+        "The second trophic level",
+        "The first trophic level",
         "The fourth trophic level"
       ],
       "correctAnswer": "The third trophic level",
@@ -223,10 +223,10 @@
     {
       "question": "What is a feeding level?",
       "options": [
-        "The amount of food an organism eats",
+        "The method of hunting",
         "The order of consuming or eating one another",
         "The type of food available in an ecosystem",
-        "The method of hunting"
+        "The amount of food an organism eats"
       ],
       "correctAnswer": "The order of consuming or eating one another",
       "id": 20
@@ -234,8 +234,8 @@
     {
       "question": "At which feeding level are herbivores (primary consumers)?",
       "options": [
-        "The second feeding level",
         "The third feeding level",
+        "The second feeding level",
         "The first feeding level",
         "The fourth feeding level"
       ],
@@ -245,10 +245,10 @@
     {
       "question": "At which feeding level are carnivores that eat herbivores?",
       "options": [
-        "The first feeding level",
         "The second feeding level",
+        "The fourth feeding level",
         "The third feeding level",
-        "The fourth feeding level"
+        "The first feeding level"
       ],
       "correctAnswer": "The second feeding level",
       "id": 22
@@ -256,8 +256,8 @@
     {
       "question": "An omnivorous animal occupies how many positions in the food chain?",
       "options": [
-        "Only one position",
         "More than one position",
+        "Only one position",
         "No fixed position",
         "Exactly two positions"
       ],
@@ -267,10 +267,10 @@
     {
       "question": "What is a food web?",
       "options": [
-        "A single path of energy flow",
-        "An interconnected food chain that makes interwoven or web-like structures",
         "A diagram of plant growth",
-        "A method of hunting"
+        "An interconnected food chain that makes interwoven or web-like structures",
+        "A method of hunting",
+        "A single path of energy flow"
       ],
       "correctAnswer": "An interconnected food chain that makes interwoven or web-like structures",
       "id": 24
@@ -278,10 +278,10 @@
     {
       "question": "What type of energy flow does a food web exhibit?",
       "options": [
-        "Unidirectional",
         "Multidirectional",
-        "No energy flow",
-        "Cyclical"
+        "Cyclical",
+        "Unidirectional",
+        "No energy flow"
       ],
       "correctAnswer": "Multidirectional",
       "id": 25
@@ -289,10 +289,10 @@
     {
       "question": "How does a food chain differ from a food web in terms of paths?",
       "options": [
-        "Food chain follows multiple paths, food web follows a single path",
         "Food chain follows a single path, food web follows multiple paths",
-        "Both follow single paths",
-        "Both follow multiple paths"
+        "Both follow multiple paths",
+        "Food chain follows multiple paths, food web follows a single path",
+        "Both follow single paths"
       ],
       "correctAnswer": "Food chain follows a single path, food web follows multiple paths",
       "id": 26
@@ -300,10 +300,10 @@
     {
       "question": "Which of the following represents a feeding relationship that actually exists in an ecosystem?",
       "options": [
+        "Neither",
         "Food chain",
         "Food web",
-        "Both equally",
-        "Neither"
+        "Both equally"
       ],
       "correctAnswer": "Food web",
       "id": 27
@@ -311,8 +311,8 @@
     {
       "question": "What is the first trophic level organism in Figure 6.2 of the textbook?",
       "options": [
-        "Frog",
         "Grasshopper",
+        "Frog",
         "Grass",
         "Snake"
       ],
@@ -323,8 +323,8 @@
       "question": "What is the second trophic level organism in Figure 6.2 of the textbook?",
       "options": [
         "Grass",
-        "Grasshopper",
         "Frog",
+        "Grasshopper",
         "Eagle"
       ],
       "correctAnswer": "Grasshopper",
@@ -333,10 +333,10 @@
     {
       "question": "What is the third trophic level organism in Figure 6.2 of the textbook?",
       "options": [
-        "Grass",
+        "Sun",
         "Grasshopper",
         "Frog",
-        "Sun"
+        "Grass"
       ],
       "correctAnswer": "Frog",
       "id": 30
@@ -344,10 +344,10 @@
     {
       "question": "In Figure 6.1, what does the letter P stand for?",
       "options": [
-        "Predator",
         "Producer",
-        "Primary consumer",
-        "Parasite"
+        "Predator",
+        "Parasite",
+        "Primary consumer"
       ],
       "correctAnswer": "Producer",
       "id": 31
@@ -356,9 +356,9 @@
       "question": "In Figure 6.1, what does the letter H stand for?",
       "options": [
         "Herbivore",
+        "Habitat",
         "Heterotroph",
-        "Host",
-        "Habitat"
+        "Host"
       ],
       "correctAnswer": "Herbivore",
       "id": 32
@@ -366,10 +366,10 @@
     {
       "question": "In Figure 6.1, what does C1 stand for?",
       "options": [
-        "Primary carnivore",
         "Secondary carnivore",
-        "Tertiary carnivore",
-        "Primary consumer"
+        "Primary consumer",
+        "Primary carnivore",
+        "Tertiary carnivore"
       ],
       "correctAnswer": "Primary carnivore",
       "id": 33
@@ -377,10 +377,10 @@
     {
       "question": "In Figure 6.1, what does C2 stand for?",
       "options": [
-        "Primary carnivore",
-        "Secondary carnivore",
         "Tertiary carnivore",
-        "Secondary consumer"
+        "Secondary consumer",
+        "Primary carnivore",
+        "Secondary carnivore"
       ],
       "correctAnswer": "Secondary carnivore",
       "id": 34

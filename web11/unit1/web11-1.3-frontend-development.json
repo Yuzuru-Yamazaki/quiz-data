@@ -1,0 +1,254 @@
+{
+  "title": "1.3 Front-End Development",
+  "description": "Client-side development using HTML, CSS and JavaScript",
+  "folder": "School/Grade 11/Web Development/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit1"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Front-end development refers to the practice of building which of the following?",
+      "options": [
+        "The user-facing aspects of websites or web applications",
+        "The hosting and network infrastructure",
+        "The database schema and queries",
+        "The server-side logic of an application"
+      ],
+      "correctAnswer": "The user-facing aspects of websites or web applications"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Front-end developers work on which side of web development?",
+      "options": [
+        "The database side",
+        "The network side",
+        "The server side",
+        "The client side"
+      ],
+      "correctAnswer": "The client side"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which language do front-end developers use to structure the content of web pages?",
+      "options": [
+        "HTML",
+        "CSS",
+        "Python",
+        "JavaScript"
+      ],
+      "correctAnswer": "HTML"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What does the abbreviation HTML stand for?",
+      "options": [
+        "Hypertext Markup Language",
+        "Hypertext Machine Language",
+        "Hyperlink and Text Markup Language",
+        "High-level Text Markup Language"
+      ],
+      "correctAnswer": "Hypertext Markup Language"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which technology is used to style and format HTML elements?",
+      "options": [
+        "HTML",
+        "JavaScript",
+        "SQL",
+        "CSS"
+      ],
+      "correctAnswer": "CSS"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What does the abbreviation CSS stand for?",
+      "options": [
+        "Computer Style Syntax",
+        "Cascading Style Sheets",
+        "Cascading Structured Styles",
+        "Creative Style System"
+      ],
+      "correctAnswer": "Cascading Style Sheets"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which language adds interactivity and dynamic behavior to web pages?",
+      "options": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "correctAnswer": "JavaScript"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which front-end technology defines elements such as headings, paragraphs, images, links and forms?",
+      "options": [
+        "JavaScript",
+        "CSS",
+        "jQuery",
+        "HTML"
+      ],
+      "correctAnswer": "HTML"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Front-end developers use CSS to control which of the following?",
+      "options": [
+        "Server configuration and deployment",
+        "Layout, colors, fonts and spacing",
+        "Database schemas and queries",
+        "Authentication and authorization"
+      ],
+      "correctAnswer": "Layout, colors, fonts and spacing"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Responsive design ensures that websites are optimized for which of the following?",
+      "options": [
+        "Only tablet devices",
+        "A single desktop screen size",
+        "Only mobile phones",
+        "Various devices and screen sizes"
+      ],
+      "correctAnswer": "Various devices and screen sizes"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which of the following is a popular front-end framework?",
+      "options": [
+        "React",
+        "Django",
+        "Spring",
+        "Laravel"
+      ],
+      "correctAnswer": "React"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which front-end library provides pre-built functions to simplify common tasks?",
+      "options": [
+        "jQuery",
+        "MySQL",
+        "Node.js",
+        "Nginx"
+      ],
+      "correctAnswer": "jQuery"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Cross-browser compatibility means that a website functions properly across which set of browsers?",
+      "options": [
+        "Chrome, Firefox, Safari and Edge",
+        "Apache, Nginx, IIS and Tomcat",
+        "Windows, Linux, macOS and Android",
+        "Only Chrome and Firefox"
+      ],
+      "correctAnswer": "Chrome, Firefox, Safari and Edge"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which technique is used in web performance optimization to reduce file size?",
+      "options": [
+        "Minifying and compressing files",
+        "Increasing image resolution",
+        "Duplicating code across pages",
+        "Adding more HTTP requests"
+      ],
+      "correctAnswer": "Minifying and compressing files"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which of the following is a web performance optimization technique?",
+      "options": [
+        "Removing semantic markup",
+        "Disabling caching",
+        "Increasing the number of HTTP requests",
+        "Optimizing images"
+      ],
+      "correctAnswer": "Optimizing images"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Accessibility in front-end development aims to create websites that are usable by which group?",
+      "options": [
+        "Only users on desktop computers",
+        "Users with disabilities",
+        "Only users with fast internet",
+        "Only users on mobile devices"
+      ],
+      "correctAnswer": "Users with disabilities"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Which practice helps make images accessible to users who cannot see them?",
+      "options": [
+        "Increasing image file size",
+        "Loading images only on desktop",
+        "Providing alternative text for images",
+        "Hiding images with CSS"
+      ],
+      "correctAnswer": "Providing alternative text for images"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which of the following is an accessibility guideline for users who cannot use a mouse?",
+      "options": [
+        "Using only image-based buttons",
+        "Requiring a touch screen",
+        "Ensuring keyboard navigation is available",
+        "Disabling focus outlines"
+      ],
+      "correctAnswer": "Ensuring keyboard navigation is available"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Front-end developers collaborate closely with which group of people?",
+      "options": [
+        "Designers and back-end developers",
+        "Only network engineers",
+        "Only database administrators",
+        "Only content writers"
+      ],
+      "correctAnswer": "Designers and back-end developers"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "What is the primary purpose of responsive design techniques in front-end development?",
+      "options": [
+        "To store data in a database",
+        "To make layouts adapt and resize automatically across devices",
+        "To increase the number of HTTP requests",
+        "To authenticate users on the server"
+      ],
+      "correctAnswer": "To make layouts adapt and resize automatically across devices"
+    }
+  ]
+}

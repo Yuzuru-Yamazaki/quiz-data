@@ -1,0 +1,286 @@
+{
+  "title": "2.8 Equipment Protection",
+  "description": "ESD protection, power fluctuations and power protection devices",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What does ESD stand for?",
+      "options": [
+        "External System Drive",
+        "Electrical Surge Detector",
+        "Electrostatic Discharge",
+        "Electronic Storage Device"
+      ],
+      "correctAnswer": "Electrostatic Discharge"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is ESD (Electrostatic Discharge)?",
+      "options": [
+        "A method of storing data on a hard drive",
+        "A sudden flow of electricity between two objects caused by a static charge imbalance",
+        "A type of wired network connection",
+        "A gradual increase in a computer's processing speed"
+      ],
+      "correctAnswer": "A sudden flow of electricity between two objects caused by a static charge imbalance"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Why is ESD a concern when handling computer equipment?",
+      "options": [
+        "It increases the storage capacity of hard drives",
+        "It can damage sensitive electronic components",
+        "It strengthens the connection of network cables",
+        "It improves the performance of circuit boards"
+      ],
+      "correctAnswer": "It can damage sensitive electronic components"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which ESD protection measure ensures that equipment and personnel are properly grounded to prevent static buildup?",
+      "options": [
+        "Grounding",
+        "Recycling",
+        "Ventilation",
+        "Defragmentation"
+      ],
+      "correctAnswer": "Grounding"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What should be used when handling sensitive electronic components to dissipate static charges?",
+      "options": [
+        "Antistatic wrist straps",
+        "Paper envelopes",
+        "Cotton towels",
+        "Rubber gloves filled with water"
+      ],
+      "correctAnswer": "Antistatic wrist straps"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What is the purpose of ESD bags and containers?",
+      "options": [
+        "To increase the voltage supplied to the equipment",
+        "To cool the components during operation",
+        "To store and transport sensitive equipment/components by shielding them from static charges",
+        "To provide backup power during outages"
+      ],
+      "correctAnswer": "To store and transport sensitive equipment/components by shielding them from static charges"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A short-term drop in voltage, typically caused by sudden increases in power demand or faults in the power distribution system, is called what?",
+      "options": [
+        "Voltage surge",
+        "Voltage sag",
+        "Voltage transient",
+        "Voltage spike"
+      ],
+      "correctAnswer": "Voltage sag"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "A brief increase in voltage, often caused by lightning strikes or switching operations, is called what?",
+      "options": [
+        "Voltage sag",
+        "Voltage transient",
+        "Voltage surge",
+        "Voltage interruption"
+      ],
+      "correctAnswer": "Voltage surge"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A rapid increase in voltage that lasts for a short duration, usually caused by switching off high-powered devices or sudden load changes, is called what?",
+      "options": [
+        "Voltage interruption",
+        "Voltage transient",
+        "Voltage sag",
+        "Voltage spike"
+      ],
+      "correctAnswer": "Voltage spike"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A complete loss of power supply for a brief period due to faults, outages or tripped circuit breakers is called what?",
+      "options": [
+        "Voltage spike",
+        "Voltage surge",
+        "Voltage transient",
+        "Voltage interruption"
+      ],
+      "correctAnswer": "Voltage interruption"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "What term describes sudden, brief fluctuations in voltage caused by electrical disturbances such as lightning, EMI or switching operations?",
+      "options": [
+        "Voltage spike",
+        "Voltage sag",
+        "Voltage transient",
+        "Voltage surge"
+      ],
+      "correctAnswer": "Voltage transient"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which power protection device absorbs excess voltage spikes and redirects them away from connected equipment?",
+      "options": [
+        "Isolation transformer",
+        "Surge protector",
+        "Voltage regulator",
+        "UPS"
+      ],
+      "correctAnswer": "Surge protector"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which device gives battery backup and provides power during a power outage?",
+      "options": [
+        "UPS",
+        "Power filter",
+        "Surge protector",
+        "Voltage regulator"
+      ],
+      "correctAnswer": "UPS"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What does UPS stand for?",
+      "options": [
+        "Universal Port System",
+        "Universal Power Source",
+        "Unified Processing Server",
+        "Uninterruptible Power Supply"
+      ],
+      "correctAnswer": "Uninterruptible Power Supply"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which features do UPS systems typically include?",
+      "options": [
+        "Wired networking, audio output and video output",
+        "Cooling fans, speakers and microphones",
+        "Recycling programs, data wiping and donation options",
+        "Surge protection, battery backup and voltage regulation"
+      ],
+      "correctAnswer": "Surge protection, battery backup and voltage regulation"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Which device stabilizes incoming voltage to ensure a steady supply to connected equipment, compensating for voltage sags and surges?",
+      "options": [
+        "UPS",
+        "Surge protector",
+        "Voltage regulator",
+        "Power filter"
+      ],
+      "correctAnswer": "Voltage regulator"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Which device isolates equipment from the main power supply and protects against voltage spikes and transient noise?",
+      "options": [
+        "Power filter",
+        "UPS",
+        "Surge protector",
+        "Isolation transformer"
+      ],
+      "correctAnswer": "Isolation transformer"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which device regulates voltage, filters out noise and provides surge protection to ensure clean and stable power?",
+      "options": [
+        "UPS",
+        "Line conditioner",
+        "Power filter",
+        "Voltage regulator"
+      ],
+      "correctAnswer": "Line conditioner"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "What does the device called an AVR do?",
+      "options": [
+        "It provides battery backup during a power outage",
+        "It recycles electronic waste responsibly",
+        "It monitors voltage levels and automatically adjusts them to maintain a stable output voltage within a specified range",
+        "It removes noise and interference from audio devices"
+      ],
+      "correctAnswer": "It monitors voltage levels and automatically adjusts them to maintain a stable output voltage within a specified range"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "What does AVR stand for?",
+      "options": [
+        "Automatic Voltage Regulator",
+        "Alternate Voltage Router",
+        "Automatic Video Recorder",
+        "Advanced Video Resolution"
+      ],
+      "correctAnswer": "Automatic Voltage Regulator"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Which device removes noise and interference from the power supply to protect sensitive equipment from electrical disturbances?",
+      "options": [
+        "Voltage regulator",
+        "Power filter",
+        "UPS",
+        "Isolation transformer"
+      ],
+      "correctAnswer": "Power filter"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "True or False: ESD mats on work surfaces and ESD flooring help protect static-sensitive equipment.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "True or False: UPS systems provide battery backup and protect against voltage sags, surges and interruptions.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    }
+  ]
+}

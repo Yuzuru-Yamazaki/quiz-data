@@ -18,10 +18,10 @@
       "id": 1,
       "question": "Professor Yalemtsehay Mekonnen is a biologist and academic member of staff at which university?",
       "options": [
-        "Jimma University",
-        "Addis Ababa University",
+        "Purdue University",
         "University of Heidelberg",
-        "Purdue University"
+        "Addis Ababa University",
+        "Jimma University"
       ],
       "correctAnswer": "Addis Ababa University"
     },
@@ -29,8 +29,8 @@
       "id": 2,
       "question": "Professor Yalemtsehay Mekonnen works in which department at Addis Ababa University?",
       "options": [
-        "Department of Zoology",
         "Department of Biology, Faculty of Science",
+        "Department of Zoology",
         "Department of Chemistry",
         "Department of Medicine"
       ],
@@ -40,10 +40,10 @@
       "id": 3,
       "question": "How long has Professor Yalemtsehay Mekonnen worked in the Department of Biology at Addis Ababa University?",
       "options": [
-        "Over 20 years",
         "The last 30 years",
-        "Since 1990",
-        "For 15 years"
+        "Over 20 years",
+        "For 15 years",
+        "Since 1990"
       ],
       "correctAnswer": "The last 30 years"
     },
@@ -51,10 +51,10 @@
       "id": 4,
       "question": "Professor Yalemtsehay Mekonnen received her PhD specializing in which field?",
       "options": [
-        "Botany",
+        "Genetics",
         "Human physiology",
-        "Microbiology",
-        "Genetics"
+        "Botany",
+        "Microbiology"
       ],
       "correctAnswer": "Human physiology"
     },
@@ -62,10 +62,10 @@
       "id": 5,
       "question": "From which university did Professor Yalemtsehay Mekonnen receive her PhD?",
       "options": [
-        "Addis Ababa University",
         "University of Heidelberg in Germany",
         "Purdue University",
-        "University of Cambridge"
+        "University of Cambridge",
+        "Addis Ababa University"
       ],
       "correctAnswer": "University of Heidelberg in Germany"
     },
@@ -73,10 +73,10 @@
       "id": 6,
       "question": "One of Professor Yalemtsehay Mekonnen's research areas is the assessment of the impact of which hazards on humans?",
       "options": [
-        "Biological hazards",
-        "Chemical pesticide hazards",
         "Radiation hazards",
-        "Noise pollution hazards"
+        "Noise pollution hazards",
+        "Chemical pesticide hazards",
+        "Biological hazards"
       ],
       "correctAnswer": "Chemical pesticide hazards"
     },
@@ -84,10 +84,10 @@
       "id": 7,
       "question": "Professor Yalemtsehay's research on chemical pesticide hazards covers which areas?",
       "options": [
-        "Only private farms",
         "Almost all government farms including Upper Awash agricultural farms and private horticultural farms in the Rift Valley region",
-        "Only the Rift Valley region",
-        "Only government farms in northern Ethiopia"
+        "Only private farms",
+        "Only government farms in northern Ethiopia",
+        "Only the Rift Valley region"
       ],
       "correctAnswer": "Almost all government farms including Upper Awash agricultural farms and private horticultural farms in the Rift Valley region"
     },
@@ -95,10 +95,10 @@
       "id": 8,
       "question": "What is the other area of Professor Yalemtsehay Mekonnen's research?",
       "options": [
-        "The study of animal behavior",
-        "The use of plants as medicine against human and animal diseases",
+        "The study of genetics",
         "The study of microorganisms",
-        "The study of genetics"
+        "The study of animal behavior",
+        "The use of plants as medicine against human and animal diseases"
       ],
       "correctAnswer": "The use of plants as medicine against human and animal diseases"
     },
@@ -106,10 +106,10 @@
       "id": 9,
       "question": "How many scientific papers has Professor Yalemtsehay Mekonnen published in reputable journals?",
       "options": [
-        "Over 50",
+        "Exactly 75",
         "Over 100",
-        "Over 200",
-        "Exactly 75"
+        "Over 50",
+        "Over 200"
       ],
       "correctAnswer": "Over 100"
     },
@@ -128,8 +128,8 @@
       "id": 11,
       "question": "Professor Yalemtsehay has done notable research on medicinal plants especially on which plant?",
       "options": [
-        "Ruta chalepensis",
         "Moringa Stenopetala (shiferaw/Alekko Shekatta)",
+        "Ruta chalepensis",
         "Phytolacca dodecane",
         "Sorghum"
       ],
@@ -141,8 +141,8 @@
       "options": [
         "A bacterial disease",
         "A common parasitic disease",
-        "A viral disease",
-        "A genetic disease"
+        "A genetic disease",
+        "A viral disease"
       ],
       "correctAnswer": "A common parasitic disease"
     },
@@ -150,10 +150,10 @@
       "id": 13,
       "question": "How many people does Schistosomiasis affect in Africa, South America, Asia, and parts of the Caribbean?",
       "options": [
-        "50-100 million people",
-        "200-300 million people",
+        "1-2 million people",
         "500-600 million people",
-        "1-2 million people"
+        "50-100 million people",
+        "200-300 million people"
       ],
       "correctAnswer": "200-300 million people"
     },
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Schistosomiasis is caused by which type of organism?",
       "options": [
-        "Bacteria",
-        "Parasitic flatworms",
         "Viruses",
-        "Protozoa"
+        "Bacteria",
+        "Protozoa",
+        "Parasitic flatworms"
       ],
       "correctAnswer": "Parasitic flatworms"
     },
@@ -172,9 +172,9 @@
       "id": 15,
       "question": "The parasitic flatworms that cause Schistosomiasis spend part of their lifecycle in which organisms?",
       "options": [
-        "Fish",
-        "Freshwater snails",
         "Mosquitoes",
+        "Freshwater snails",
+        "Fish",
         "Birds"
       ],
       "correctAnswer": "Freshwater snails"
@@ -183,10 +183,10 @@
       "id": 16,
       "question": "Once inside a person, where do Schistosomiasis parasites infest?",
       "options": [
-        "Only the intestines",
-        "The blood vessels, liver, kidneys, bladder, and other organs",
         "Only the lungs",
-        "Only the skin"
+        "Only the intestines",
+        "Only the skin",
+        "The blood vessels, liver, kidneys, bladder, and other organs"
       ],
       "correctAnswer": "The blood vessels, liver, kidneys, bladder, and other organs"
     },
@@ -194,10 +194,10 @@
       "id": 17,
       "question": "Some of the most important work in finding a way of controlling the Schistosomiasis parasite was carried out by which Ethiopian biologist?",
       "options": [
-        "Professor Yalemtsehay Mekonnen",
+        "Professor Beyene Petros",
         "Dr. Aklilu Lemma",
         "Professor Gebissa Ejeta",
-        "Professor Beyene Petros"
+        "Professor Yalemtsehay Mekonnen"
       ],
       "correctAnswer": "Dr. Aklilu Lemma"
     },
@@ -205,10 +205,10 @@
       "id": 18,
       "question": "When did Dr. Aklilu Lemma begin his work on Schistosomiasis?",
       "options": [
-        "1954",
-        "1964",
         "1974",
-        "1984"
+        "1984",
+        "1964",
+        "1954"
       ],
       "correctAnswer": "1964"
     },
@@ -216,9 +216,9 @@
       "id": 19,
       "question": "Dr. Aklilu Lemma began investigating freshwater snails around which area in northern Ethiopia?",
       "options": [
+        "Lalibela",
         "Gondar",
         "Adwa",
-        "Lalibela",
         "Axum"
       ],
       "correctAnswer": "Adwa"
@@ -228,8 +228,8 @@
       "question": "What did Dr. Aklilu Lemma notice downstream of women washing clothes?",
       "options": [
         "More fish than usual",
-        "More dead snails than anywhere else",
         "More algae growth",
+        "More dead snails than anywhere else",
         "Cleaner water"
       ],
       "correctAnswer": "More dead snails than anywhere else"
@@ -238,10 +238,10 @@
       "id": 21,
       "question": "What were the women using to make washing suds?",
       "options": [
-        "Commercial soap",
-        "The soapberry called 'Endod' in Amharic (Phytolacca dodecane Dr.a)",
         "Lemon juice",
-        "Ash from fires"
+        "The soapberry called 'Endod' in Amharic (Phytolacca dodecane Dr.a)",
+        "Ash from fires",
+        "Commercial soap"
       ],
       "correctAnswer": "The soapberry called 'Endod' in Amharic (Phytolacca dodecane Dr.a)"
     },
@@ -249,9 +249,9 @@
       "id": 22,
       "question": "What happened when Endod suds were put in a container with live snails?",
       "options": [
+        "The snails multiplied",
         "The snails became more active",
         "All the snails died",
-        "The snails multiplied",
         "The snails changed color"
       ],
       "correctAnswer": "All the snails died"
@@ -260,10 +260,10 @@
       "id": 23,
       "question": "Back in the laboratory, what did Dr. Aklilu Lemma show about Endod berries?",
       "options": [
-        "They could kill snails at very high concentrations only",
         "If dried, crushed, and diluted in water they would kill snails at very low concentrations",
+        "They had no effect on snails",
         "They could only kill fish",
-        "They had no effect on snails"
+        "They could kill snails at very high concentrations only"
       ],
       "correctAnswer": "If dried, crushed, and diluted in water they would kill snails at very low concentrations"
     },
@@ -282,8 +282,8 @@
       "id": 25,
       "question": "Which of the following is true about Endod compared to chemical molluscicides?",
       "options": [
-        "It is more expensive",
         "It is cheap, well known by local people, and environment friendly as it breaks down naturally within about two days",
+        "It is more expensive",
         "It is less effective",
         "It is harmful to humans"
       ],
@@ -293,10 +293,10 @@
       "id": 26,
       "question": "Before water treatment with Endod, what percentage of children aged 1-6 years old were infected with Schistosomiasis?",
       "options": [
+        "75%",
         "7%",
         "25%",
-        "50%",
-        "75%"
+        "50%"
       ],
       "correctAnswer": "50%"
     },
@@ -304,10 +304,10 @@
       "id": 27,
       "question": "After water treatment with Endod, what percentage of children aged 1-6 years old were infected with Schistosomiasis?",
       "options": [
-        "7%",
+        "50%",
         "15%",
-        "25%",
-        "50%"
+        "7%",
+        "25%"
       ],
       "correctAnswer": "7%"
     },
@@ -315,10 +315,10 @@
       "id": 28,
       "question": "Where have Dr. Aklilu Lemma's results been published?",
       "options": [
-        "Only in Ethiopian journals",
-        "In journals around the world",
+        "Only in medical textbooks",
         "Only in African journals",
-        "Only in medical textbooks"
+        "Only in Ethiopian journals",
+        "In journals around the world"
       ],
       "correctAnswer": "In journals around the world"
     },
@@ -326,10 +326,10 @@
       "id": 29,
       "question": "What did Dr. Aklilu Lemma develop for local communities?",
       "options": [
-        "New farming techniques",
-        "Programs for local communities to treat their water",
         "New medicines for malaria",
-        "Educational scholarships"
+        "Educational scholarships",
+        "New farming techniques",
+        "Programs for local communities to treat their water"
       ],
       "correctAnswer": "Programs for local communities to treat their water"
     },
@@ -337,10 +337,10 @@
       "id": 30,
       "question": "Where is the use of Endod-based molluscicides spreading?",
       "options": [
-        "Only in Ethiopia",
         "Throughout Africa and beyond",
-        "Only in South America",
-        "Only in Asia"
+        "Only in Ethiopia",
+        "Only in Asia",
+        "Only in South America"
       ],
       "correctAnswer": "Throughout Africa and beyond"
     },
@@ -349,8 +349,8 @@
       "question": "Professor Gebissa Ejeta specializes in which field?",
       "options": [
         "Human physiology",
-        "Microbiology",
         "Plant breeding and genetics",
+        "Microbiology",
         "Environmental science"
       ],
       "correctAnswer": "Plant breeding and genetics"
@@ -359,10 +359,10 @@
       "id": 32,
       "question": "On which crop did Professor Gebissa Ejeta do his research?",
       "options": [
-        "Wheat",
-        "Maize",
         "Sorghum",
-        "Teff"
+        "Teff",
+        "Maize",
+        "Wheat"
       ],
       "correctAnswer": "Sorghum"
     },
@@ -370,9 +370,9 @@
       "id": 33,
       "question": "From which university did Professor Gebissa Ejeta get his PhD?",
       "options": [
+        "Purdue University in the USA",
         "Addis Ababa University",
         "University of Heidelberg",
-        "Purdue University in the USA",
         "University of Cambridge"
       ],
       "correctAnswer": "Purdue University in the USA"
@@ -381,10 +381,10 @@
       "id": 34,
       "question": "Professor Gebissa Ejeta helped develop Africa's first commercial hybrid strain of which crop?",
       "options": [
-        "Wheat",
         "Maize",
-        "Sorghum",
-        "Rice"
+        "Wheat",
+        "Rice",
+        "Sorghum"
       ],
       "correctAnswer": "Sorghum"
     },
@@ -393,9 +393,9 @@
       "question": "What are the characteristics of the sorghum variety developed by Professor Gebissa Ejeta?",
       "options": [
         "It needs more water but yields more grain",
+        "It is resistant to pests but has lower yield",
         "It needs less water, is resistant to drought, and yields more grain than traditional varieties",
-        "It needs the same amount of water but grows faster",
-        "It is resistant to pests but has lower yield"
+        "It needs the same amount of water but grows faster"
       ],
       "correctAnswer": "It needs less water, is resistant to drought, and yields more grain than traditional varieties"
     },
@@ -404,9 +404,9 @@
       "question": "Professor Gebissa Ejeta developed sorghum varieties resistant to which parasitic weed?",
       "options": [
         "Striga weed",
-        "Water hyacinth",
+        "Johnson grass",
         "Parthenium weed",
-        "Johnson grass"
+        "Water hyacinth"
       ],
       "correctAnswer": "Striga weed"
     },
@@ -414,9 +414,9 @@
       "id": 37,
       "question": "How much more yield do Professor Gebissa Ejeta's sorghum varieties produce compared to others?",
       "options": [
-        "Up to two times more",
-        "Up to five times more",
         "Up to ten times more",
+        "Up to five times more",
+        "Up to two times more",
         "Up to three times more"
       ],
       "correctAnswer": "Up to ten times more"
@@ -425,10 +425,10 @@
       "id": 38,
       "question": "In what year was Professor Gebissa Ejeta awarded the World Food Prize?",
       "options": [
-        "2005",
-        "2009",
+        "2015",
         "2010",
-        "2015"
+        "2005",
+        "2009"
       ],
       "correctAnswer": "2009"
     },
@@ -436,10 +436,10 @@
       "id": 39,
       "question": "The World Food Prize is described as which type of prize?",
       "options": [
-        "The most prestigious science prize in the world",
-        "The most prestigious agricultural prize in the world",
         "The most prestigious medical prize in the world",
-        "The most prestigious environmental prize in the world"
+        "The most prestigious environmental prize in the world",
+        "The most prestigious science prize in the world",
+        "The most prestigious agricultural prize in the world"
       ],
       "correctAnswer": "The most prestigious agricultural prize in the world"
     },
@@ -447,9 +447,9 @@
       "id": 40,
       "question": "What other award has Professor Gebissa Ejeta received from Ethiopia?",
       "options": [
-        "The Order of the Lion",
-        "The National Hero award of Ethiopia",
         "The Ethiopian Science Award",
+        "The National Hero award of Ethiopia",
+        "The Order of the Lion",
         "The Prime Minister's Award"
       ],
       "correctAnswer": "The National Hero award of Ethiopia"
@@ -458,9 +458,9 @@
       "id": 41,
       "question": "How far did Professor Gebissa Ejeta walk to school every Sunday evening?",
       "options": [
+        "20 miles",
         "5 miles",
         "10 miles",
-        "20 miles",
         "15 miles"
       ],
       "correctAnswer": "20 miles"
@@ -469,9 +469,9 @@
       "id": 42,
       "question": "Which schools did Professor Gebissa Ejeta attend before his PhD?",
       "options": [
+        "University of Heidelberg and Purdue University",
         "Addis Ababa University and Haramaya University",
         "Jimma Agricultural and Technical School and then Alemaya College",
-        "University of Heidelberg and Purdue University",
         "University of Cambridge and Oxford University"
       ],
       "correctAnswer": "Jimma Agricultural and Technical School and then Alemaya College"
@@ -480,9 +480,9 @@
       "id": 43,
       "question": "Which of the following is NOT mentioned as an Ethiopian biologist in Activity 1.11?",
       "options": [
-        "Prof Beyene Petros",
         "Dr. Brihane Asfaw",
         "Prof. Ensermu Kelbesa",
+        "Prof Beyene Petros",
         "Dr. Aklilu Lemma"
       ],
       "correctAnswer": "Dr. Aklilu Lemma"
@@ -491,9 +491,9 @@
       "id": 44,
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
-        "Dr. Melaku Wolde",
         "Dr. Aklilu Lemma",
         "Professor Yalemtsehay Mekonnen",
+        "Dr. Melaku Wolde",
         "Professor Gebissa Ejeta"
       ],
       "correctAnswer": "Dr. Melaku Wolde"
@@ -502,10 +502,10 @@
       "id": 45,
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
-        "Prof Mogessoe Ashenafi",
-        "Dr. Aklilu Lemma",
         "Professor Yalemtsehay Mekonnen",
-        "Professor Gebissa Ejeta"
+        "Professor Gebissa Ejeta",
+        "Dr. Aklilu Lemma",
+        "Prof Mogessoe Ashenafi"
       ],
       "correctAnswer": "Prof Mogessoe Ashenafi"
     },
@@ -514,8 +514,8 @@
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
         "Dr. Tewoldebrihan G/Egziabiher",
-        "Dr. Aklilu Lemma",
         "Professor Yalemtsehay Mekonnen",
+        "Dr. Aklilu Lemma",
         "Professor Gebissa Ejeta"
       ],
       "correctAnswer": "Dr. Tewoldebrihan G/Egziabiher"
@@ -524,10 +524,10 @@
       "id": 47,
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
-        "Prof. Tilahun Yilma",
         "Dr. Aklilu Lemma",
-        "Professor Yalemtsehay Mekonnen",
-        "Professor Gebissa Ejeta"
+        "Professor Gebissa Ejeta",
+        "Prof. Tilahun Yilma",
+        "Professor Yalemtsehay Mekonnen"
       ],
       "correctAnswer": "Prof. Tilahun Yilma"
     },
@@ -536,8 +536,8 @@
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
         "Dr. Tsehaynesh Asfaw",
-        "Dr. Aklilu Lemma",
         "Professor Yalemtsehay Mekonnen",
+        "Dr. Aklilu Lemma",
         "Professor Gebissa Ejeta"
       ],
       "correctAnswer": "Dr. Tsehaynesh Asfaw"
@@ -547,8 +547,8 @@
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
         "Dr. Zeresenay Alemseged",
-        "Dr. Aklilu Lemma",
         "Professor Yalemtsehay Mekonnen",
+        "Dr. Aklilu Lemma",
         "Professor Gebissa Ejeta"
       ],
       "correctAnswer": "Dr. Zeresenay Alemseged"
@@ -557,10 +557,10 @@
       "id": 50,
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
-        "Prof. Legesse Negash",
+        "Professor Gebissa Ejeta",
         "Dr. Aklilu Lemma",
         "Professor Yalemtsehay Mekonnen",
-        "Professor Gebissa Ejeta"
+        "Prof. Legesse Negash"
       ],
       "correctAnswer": "Prof. Legesse Negash"
     },
@@ -568,10 +568,10 @@
       "id": 51,
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
+        "Professor Gebissa Ejeta",
         "Dr. Brihane Asfaw",
-        "Dr. Aklilu Lemma",
         "Professor Yalemtsehay Mekonnen",
-        "Professor Gebissa Ejeta"
+        "Dr. Aklilu Lemma"
       ],
       "correctAnswer": "Dr. Brihane Asfaw"
     },
@@ -579,10 +579,10 @@
       "id": 52,
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
-        "Prof Beyene Petros",
-        "Dr. Aklilu Lemma",
         "Professor Yalemtsehay Mekonnen",
-        "Professor Gebissa Ejeta"
+        "Professor Gebissa Ejeta",
+        "Dr. Aklilu Lemma",
+        "Prof Beyene Petros"
       ],
       "correctAnswer": "Prof Beyene Petros"
     },
@@ -590,10 +590,10 @@
       "id": 53,
       "question": "Which of the following Ethiopian biologists is mentioned in Activity 1.11?",
       "options": [
-        "Prof. Ensermu Kelbesa",
-        "Dr. Aklilu Lemma",
         "Professor Yalemtsehay Mekonnen",
-        "Professor Gebissa Ejeta"
+        "Professor Gebissa Ejeta",
+        "Prof. Ensermu Kelbesa",
+        "Dr. Aklilu Lemma"
       ],
       "correctAnswer": "Prof. Ensermu Kelbesa"
     },
@@ -601,10 +601,10 @@
       "id": 54,
       "question": "Professor Yalemtsehay Mekonnen's research includes advocacy and collaborative work for what purpose?",
       "options": [
-        "Promotion of industrial development",
         "Promotion of safe and sustainable use of natural resources",
-        "Promotion of agricultural exports",
-        "Promotion of tourism"
+        "Promotion of tourism",
+        "Promotion of industrial development",
+        "Promotion of agricultural exports"
       ],
       "correctAnswer": "Promotion of safe and sustainable use of natural resources"
     },
@@ -613,9 +613,9 @@
       "question": "A compound that kills mollusks including snails is called what?",
       "options": [
         "Pesticide",
-        "Herbicide",
+        "Fungicide",
         "Molluscicide",
-        "Fungicide"
+        "Herbicide"
       ],
       "correctAnswer": "Molluscicide"
     },
@@ -623,10 +623,10 @@
       "id": 56,
       "question": "According to the text, Professor Yalemtsehay Mekonnen's research covers assessment of health hazards to which groups?",
       "options": [
-        "Only humans",
         "Humans, animals, and the environment",
         "Only animals",
-        "Only plants"
+        "Only plants",
+        "Only humans"
       ],
       "correctAnswer": "Humans, animals, and the environment"
     }

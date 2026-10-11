@@ -14,10 +14,10 @@
     {
       "question": "Proteins are made up of which elements?",
       "options": [
+        "N, P, and K",
         "C, H, and O only",
         "C, H, O, N, and S",
-        "C, H, and N only",
-        "N, P, and K"
+        "C, H, and N only"
       ],
       "correctAnswer": "C, H, O, N, and S",
       "id": 1
@@ -25,10 +25,10 @@
     {
       "question": "What is the immediate result of photosynthesis?",
       "options": [
-        "Protein",
+        "Nucleic acid",
         "Carbohydrate (glucose)",
         "Lipid",
-        "Nucleic acid"
+        "Protein"
       ],
       "correctAnswer": "Carbohydrate (glucose)",
       "id": 2
@@ -36,10 +36,10 @@
     {
       "question": "What element transforms carbohydrate into protein?",
       "options": [
-        "Oxygen",
         "Hydrogen",
         "Nitrogen",
-        "Sulfur"
+        "Sulfur",
+        "Oxygen"
       ],
       "correctAnswer": "Nitrogen",
       "id": 3
@@ -58,8 +58,8 @@
     {
       "question": "The nitrogen cycle is a repeating pathway through which components of the ecosystem?",
       "options": [
-        "Only biotic components",
         "Both biotic and abiotic components",
+        "Only biotic components",
         "Only abiotic components",
         "Only the atmosphere"
       ],
@@ -70,9 +70,9 @@
       "question": "Which biotic components are involved in the nitrogen cycle?",
       "options": [
         "Plants and animals only",
+        "Only plants",
         "Plants, animals, bacteria, and fungi",
-        "Only bacteria",
-        "Only plants"
+        "Only bacteria"
       ],
       "correctAnswer": "Plants, animals, bacteria, and fungi",
       "id": 6
@@ -80,10 +80,10 @@
     {
       "question": "Which abiotic components are involved in the nitrogen cycle?",
       "options": [
-        "Atmosphere and soil only",
-        "Atmosphere, soil, and water",
+        "Only rocks",
         "Only water",
-        "Only rocks"
+        "Atmosphere and soil only",
+        "Atmosphere, soil, and water"
       ],
       "correctAnswer": "Atmosphere, soil, and water",
       "id": 7
@@ -91,9 +91,9 @@
     {
       "question": "What are the major processes involved in cycling nitrogen?",
       "options": [
-        "Photosynthesis, respiration, decomposition",
-        "Nitrogen fixation, ammonification, nitrification, assimilation, and denitrification",
         "Evaporation, condensation, precipitation",
+        "Nitrogen fixation, ammonification, nitrification, assimilation, and denitrification",
+        "Photosynthesis, respiration, decomposition",
         "Combustion, corrosion, crystallization"
       ],
       "correctAnswer": "Nitrogen fixation, ammonification, nitrification, assimilation, and denitrification",
@@ -103,9 +103,9 @@
       "question": "What percentage of the atmosphere is nitrogen gas ($N_2$)?",
       "options": [
         "About 21%",
-        "About 50%",
+        "About 99%",
         "About 78%",
-        "About 99%"
+        "About 50%"
       ],
       "correctAnswer": "About 78%",
       "id": 9
@@ -114,8 +114,8 @@
       "question": "Are most living organisms able to incorporate atmospheric nitrogen ($N_2$) directly?",
       "options": [
         "Yes, all can",
-        "No, most are unable to",
         "Only animals can",
+        "No, most are unable to",
         "Only plants can"
       ],
       "correctAnswer": "No, most are unable to",
@@ -124,10 +124,10 @@
     {
       "question": "What usable forms must $N_2$ be fixed into?",
       "options": [
-        "Nitrogen gas or nitric acid",
         "Ammonia or nitrate",
-        "Nitrite or ammonia",
-        "Nitrous oxide or nitrogen gas"
+        "Nitrogen gas or nitric acid",
+        "Nitrous oxide or nitrogen gas",
+        "Nitrite or ammonia"
       ],
       "correctAnswer": "Ammonia or nitrate",
       "id": 11
@@ -135,10 +135,10 @@
     {
       "question": "What is nitrogen fixation?",
       "options": [
-        "The release of $N_2$ into the atmosphere",
-        "The conversion of $N_2$ into ammonia",
+        "The absorption of nitrate by plants",
         "The breakdown of proteins",
-        "The absorption of nitrate by plants"
+        "The conversion of $N_2$ into ammonia",
+        "The release of $N_2$ into the atmosphere"
       ],
       "correctAnswer": "The conversion of $N_2$ into ammonia",
       "id": 12
@@ -147,9 +147,9 @@
       "question": "What are the three ways nitrogen fixation can occur?",
       "options": [
         "By wind, water, and fire",
-        "Biologically (mediated by bacteria), non-biologically (atmospheric fixation by lightning), and industrial fixation",
         "By plants, animals, and fungi",
-        "By heat, pressure, and light"
+        "By heat, pressure, and light",
+        "Biologically (mediated by bacteria), non-biologically (atmospheric fixation by lightning), and industrial fixation"
       ],
       "correctAnswer": "Biologically (mediated by bacteria), non-biologically (atmospheric fixation by lightning), and industrial fixation",
       "id": 13
@@ -157,8 +157,8 @@
     {
       "question": "What are the two categories of biological $N_2$ fixation?",
       "options": [
-        "Aerobic and anaerobic fixation",
         "Symbiotic nitrogen fixation and non-symbiotic fixation",
+        "Aerobic and anaerobic fixation",
         "Plant and animal fixation",
         "Soil and water fixation"
       ],
@@ -168,10 +168,10 @@
     {
       "question": "Symbiotic nitrogen fixation is carried out in the root nodules of which type of plants?",
       "options": [
-        "All plants",
-        "Leguminous plants (such as peas, beans, and peanuts)",
         "Only grass",
-        "Only trees"
+        "Only trees",
+        "Leguminous plants (such as peas, beans, and peanuts)",
+        "All plants"
       ],
       "correctAnswer": "Leguminous plants (such as peas, beans, and peanuts)",
       "id": 15
@@ -179,10 +179,10 @@
     {
       "question": "Which group of soil bacteria carries out symbiotic nitrogen fixation in legume root nodules?",
       "options": [
-        "Nitrosomonas",
-        "Nitrobacter",
         "Rhizobia",
-        "Pseudomonas"
+        "Pseudomonas",
+        "Nitrobacter",
+        "Nitrosomonas"
       ],
       "correctAnswer": "Rhizobia",
       "id": 16
@@ -190,9 +190,9 @@
     {
       "question": "What do rhizobia form with leguminous plants?",
       "options": [
-        "A parasitic relationship",
-        "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia",
         "A competitive relationship",
+        "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia",
+        "A parasitic relationship",
         "A predator-prey relationship"
       ],
       "correctAnswer": "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia",
@@ -201,10 +201,10 @@
     {
       "question": "What enzyme catalyzes the nitrogen fixation reaction?",
       "options": [
-        "Nitrate reductase",
-        "Nitrogenase",
         "Ammonia synthetase",
-        "Dehydrogenase"
+        "Dehydrogenase",
+        "Nitrogenase",
+        "Nitrate reductase"
       ],
       "correctAnswer": "Nitrogenase",
       "id": 18
@@ -212,10 +212,10 @@
     {
       "question": "What is the balanced equation for nitrogen fixation?",
       "options": [
-        "$N_{2} + 3H_{2} \\rightarrow 2NH_{3}$",
-        "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
         "$N_{2} + O_{2} \\rightarrow 2NO$",
-        "$NH_{3} + O_{2} \\rightarrow NO_{2}$"
+        "$NH_{3} + O_{2} \\rightarrow NO_{2}$",
+        "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
+        "$N_{2} + 3H_{2} \\rightarrow 2NH_{3}$"
       ],
       "correctAnswer": "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
       "id": 19
@@ -223,10 +223,10 @@
     {
       "question": "What are the ammonium ions produced by nitrogen fixation used for in the legume plant?",
       "options": [
-        "Energy production",
-        "Synthesizing amino acids, the building units of protein",
+        "Water transport",
         "Cell wall formation",
-        "Water transport"
+        "Energy production",
+        "Synthesizing amino acids, the building units of protein"
       ],
       "correctAnswer": "Synthesizing amino acids, the building units of protein",
       "id": 20
@@ -234,10 +234,10 @@
     {
       "question": "What is nitrous oxide ($N_2O$) an intermediate product of?",
       "options": [
-        "Nitrification",
         "Microbial denitrification in the nitrogen cycle",
-        "Nitrogen fixation",
-        "Assimilation"
+        "Nitrification",
+        "Assimilation",
+        "Nitrogen fixation"
       ],
       "correctAnswer": "Microbial denitrification in the nitrogen cycle",
       "id": 21
@@ -245,9 +245,9 @@
     {
       "question": "How does the global warming potential of $N_2O$ compare to $CO_2$?",
       "options": [
+        "It is less than $CO_2$",
         "It is the same",
         "It is over 300 times greater than $CO_2$",
-        "It is less than $CO_2$",
         "It is 100 times less than $CO_2$"
       ],
       "correctAnswer": "It is over 300 times greater than $CO_2$",
@@ -256,9 +256,9 @@
     {
       "question": "What is the major source of $N_2O$ emissions?",
       "options": [
-        "Natural soil processes",
-        "Excessive use of synthetic N fertilizer in agricultural systems",
         "Animal respiration",
+        "Excessive use of synthetic N fertilizer in agricultural systems",
+        "Natural soil processes",
         "Plant photosynthesis"
       ],
       "correctAnswer": "Excessive use of synthetic N fertilizer in agricultural systems",
@@ -267,8 +267,8 @@
     {
       "question": "How can biological $N_2$ fixation by rhizobia help the environment?",
       "options": [
-        "By increasing $CO_2$ emissions",
         "By serving as an alternative to synthetic N fertilizer and mitigating $N_2O$ emissions",
+        "By increasing $CO_2$ emissions",
         "By using more energy",
         "By producing more waste"
       ],
@@ -290,9 +290,9 @@
       "question": "What do free-living nitrogen-fixing bacteria reduce nitrogen gas into?",
       "options": [
         "Nitrate",
-        "Ammonium ions",
+        "Nitrous oxide",
         "Nitrite",
-        "Nitrous oxide"
+        "Ammonium ions"
       ],
       "correctAnswer": "Ammonium ions",
       "id": 26
@@ -300,9 +300,9 @@
     {
       "question": "What is nitrification?",
       "options": [
-        "Conversion of $N_2$ to $NH_3$",
         "A microbial process by which ammonia is sequentially oxidized first to nitrite and then to nitrate",
         "Conversion of nitrate to $N_2$",
+        "Conversion of $N_2$ to $NH_3$",
         "Absorption of nitrogen by plants"
       ],
       "correctAnswer": "A microbial process by which ammonia is sequentially oxidized first to nitrite and then to nitrate",
@@ -311,10 +311,10 @@
     {
       "question": "Which bacteria oxidize ammonia to nitrite in the first step of nitrification?",
       "options": [
-        "Nitrobacter",
-        "Nitrosomonas",
         "Rhizobium",
-        "Pseudomonas"
+        "Pseudomonas",
+        "Nitrosomonas",
+        "Nitrobacter"
       ],
       "correctAnswer": "Nitrosomonas",
       "id": 28
@@ -322,10 +322,10 @@
     {
       "question": "What is the chemical equation for the first step of nitrification?",
       "options": [
-        "$NO_{2} + O_{2} \\rightarrow NO_{3}$",
-        "$NH_{3} + O_{2} \\rightarrow NO_{2} + 3H + 2e$",
         "$N_{2} + H_{2} \\rightarrow NH_{3}$",
-        "$NO_{3} \\rightarrow N_{2}$"
+        "$NO_{3} \\rightarrow N_{2}$",
+        "$NH_{3} + O_{2} \\rightarrow NO_{2} + 3H + 2e$",
+        "$NO_{2} + O_{2} \\rightarrow NO_{3}$"
       ],
       "correctAnswer": "$NH_{3} + O_{2} \\rightarrow NO_{2} + 3H + 2e$",
       "id": 29
@@ -333,10 +333,10 @@
     {
       "question": "Which bacteria oxidize nitrite to nitrate in the second step of nitrification?",
       "options": [
-        "Nitrosomonas",
-        "Nitrobacter",
         "Rhizobium",
-        "Azotobacter"
+        "Azotobacter",
+        "Nitrosomonas",
+        "Nitrobacter"
       ],
       "correctAnswer": "Nitrobacter",
       "id": 30
@@ -344,10 +344,10 @@
     {
       "question": "What is the chemical equation for the second step of nitrification?",
       "options": [
-        "$NH_{3} + O_{2} \\rightarrow NO_{2}$",
         "$NO_{2} + O_{2} \\rightarrow NO_{3} + 2H + 2e$",
+        "$NO_{3} \\rightarrow NO_{2}$",
         "$N_{2} + H_{2} \\rightarrow NH_{3}$",
-        "$NO_{3} \\rightarrow NO_{2}$"
+        "$NH_{3} + O_{2} \\rightarrow NO_{2}$"
       ],
       "correctAnswer": "$NO_{2} + O_{2} \\rightarrow NO_{3} + 2H + 2e$",
       "id": 31
@@ -355,10 +355,10 @@
     {
       "question": "In what inorganic forms do plants commonly absorb nitrogen?",
       "options": [
-        "$N_2$ gas only",
         "Nitrate ($NO_3$) or ammonium ($NH_4$)",
-        "Nitrite only",
-        "Nitrous oxide only"
+        "Nitrous oxide only",
+        "$N_2$ gas only",
+        "Nitrite only"
       ],
       "correctAnswer": "Nitrate ($NO_3$) or ammonium ($NH_4$)",
       "id": 32
@@ -366,10 +366,10 @@
     {
       "question": "Which form of nitrogen do plants preferentially take up?",
       "options": [
-        "Oxidized nitrate ($NO_3$)",
+        "$N_2$ gas",
         "Reduced ammonium ($NH_4$)",
-        "Nitrite ($NO_2$)",
-        "$N_2$ gas"
+        "Oxidized nitrate ($NO_3$)",
+        "Nitrite ($NO_2$)"
       ],
       "correctAnswer": "Reduced ammonium ($NH_4$)",
       "id": 33
@@ -379,8 +379,8 @@
       "options": [
         "Because ammonium is more available",
         "Because the energy expenditure for $NH_4$ assimilation is much lower than for $NO_3$",
-        "Because ammonium is toxic",
-        "Because nitrate is not usable"
+        "Because nitrate is not usable",
+        "Because ammonium is toxic"
       ],
       "correctAnswer": "Because the energy expenditure for $NH_4$ assimilation is much lower than for $NO_3$",
       "id": 34
@@ -388,8 +388,8 @@
     {
       "question": "How can roots absorb nitrogen ions?",
       "options": [
-        "Only actively",
         "Only passively",
+        "Only actively",
         "Both actively or passively",
         "Only through leaves"
       ],
@@ -399,9 +399,9 @@
     {
       "question": "After absorption, where are nitrogen ions transported in the plant?",
       "options": [
-        "Only to the roots",
-        "To the stem and leaves through the root xylem",
         "Only to the flowers",
+        "To the stem and leaves through the root xylem",
+        "Only to the roots",
         "Only to the seeds"
       ],
       "correctAnswer": "To the stem and leaves through the root xylem",
@@ -410,10 +410,10 @@
     {
       "question": "What are ammonium and nitrate used for after being assimilated by plants?",
       "options": [
-        "Energy production only",
+        "Water storage",
         "Synthesis of amino acids which are polymerized into proteins",
         "Cell wall formation",
-        "Water storage"
+        "Energy production only"
       ],
       "correctAnswer": "Synthesis of amino acids which are polymerized into proteins",
       "id": 37
@@ -421,10 +421,10 @@
     {
       "question": "What is ammonification?",
       "options": [
-        "Conversion of $N_2$ to $NH_3$",
         "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen ($NH_4$) through microorganisms",
-        "Conversion of $NH_4$ to $NO_3$",
-        "Conversion of $NO_3$ to $N_2$"
+        "Conversion of $NO_3$ to $N_2$",
+        "Conversion of $N_2$ to $NH_3$",
+        "Conversion of $NH_4$ to $NO_3$"
       ],
       "correctAnswer": "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen ($NH_4$) through microorganisms",
       "id": 38
@@ -432,10 +432,10 @@
     {
       "question": "What is the general formula for an amine group?",
       "options": [
-        "-OH",
-        "R - $NH_2$",
         "-COOH",
-        "-SH"
+        "-SH",
+        "-OH",
+        "R - $NH_2$"
       ],
       "correctAnswer": "R - $NH_2$",
       "id": 39
@@ -444,8 +444,8 @@
       "question": "Ammonification is an intermediary step between which processes?",
       "options": [
         "Nitrogen fixation and assimilation",
-        "Depolymerization of large organic molecules and the nitrification process",
         "Nitrification and denitrification",
+        "Depolymerization of large organic molecules and the nitrification process",
         "Assimilation and excretion"
       ],
       "correctAnswer": "Depolymerization of large organic molecules and the nitrification process",
@@ -465,10 +465,10 @@
     {
       "question": "What is denitrification?",
       "options": [
-        "Conversion of $N_2$ to $NH_3$",
+        "Absorption of nitrogen by plants",
         "Conversion of nitrate to nitrogen gas ($N_2$), removing bioavailable nitrogen and returning it to the atmosphere",
         "Conversion of $NH_4$ to $NO_3$",
-        "Absorption of nitrogen by plants"
+        "Conversion of $N_2$ to $NH_3$"
       ],
       "correctAnswer": "Conversion of nitrate to nitrogen gas ($N_2$), removing bioavailable nitrogen and returning it to the atmosphere",
       "id": 42
@@ -476,10 +476,10 @@
     {
       "question": "What is the sequential conversion in denitrification?",
       "options": [
-        "$N_{2} \\rightarrow NO_{3} \\rightarrow NO_{2}$",
         "$NO_{3} \\rightarrow NO_{2} \\rightarrow NO \\rightarrow N_{2}O \\rightarrow N_{2}$",
+        "$NO_{2} \\rightarrow NH_{3} \\rightarrow N_{2}$",
         "$NH_{3} \\rightarrow NO_{2} \\rightarrow NO_{3}$",
-        "$NO_{2} \\rightarrow NH_{3} \\rightarrow N_{2}$"
+        "$N_{2} \\rightarrow NO_{3} \\rightarrow NO_{2}$"
       ],
       "correctAnswer": "$NO_{3} \\rightarrow NO_{2} \\rightarrow NO \\rightarrow N_{2}O \\rightarrow N_{2}$",
       "id": 43
@@ -487,10 +487,10 @@
     {
       "question": "Is denitrification an aerobic or anaerobic process?",
       "options": [
-        "Aerobic",
-        "Anaerobic",
         "Both",
-        "Neither"
+        "Anaerobic",
+        "Neither",
+        "Aerobic"
       ],
       "correctAnswer": "Anaerobic",
       "id": 44
@@ -498,10 +498,10 @@
     {
       "question": "Where does denitrification mostly occur?",
       "options": [
-        "In dry, well-aerated soils",
+        "In plant leaves",
         "In waterlogged soils (anoxic), layers of sediments in lakes and oceans",
         "In the atmosphere",
-        "In plant leaves"
+        "In dry, well-aerated soils"
       ],
       "correctAnswer": "In waterlogged soils (anoxic), layers of sediments in lakes and oceans",
       "id": 45
@@ -509,10 +509,10 @@
     {
       "question": "Which bacteria are responsible for symbiotic nitrogen fixation in legume root nodules?",
       "options": [
-        "Azotobacter",
+        "Pseudomonas",
         "Rhizobium",
         "Nitrosomonas",
-        "Pseudomonas"
+        "Azotobacter"
       ],
       "correctAnswer": "Rhizobium",
       "id": 46
@@ -521,9 +521,9 @@
       "question": "Which bacteria are free-living nitrogen fixers in soil?",
       "options": [
         "Rhizobium and Nitrobacter",
-        "Azotobacter and Klebsiella",
         "Nitrosomonas and Nitrobacter",
-        "Pseudomonas and Thiobacillus"
+        "Pseudomonas and Thiobacillus",
+        "Azotobacter and Klebsiella"
       ],
       "correctAnswer": "Azotobacter and Klebsiella",
       "id": 47
@@ -531,10 +531,10 @@
     {
       "question": "Which bacteria are involved in nitrification?",
       "options": [
-        "Azotobacter and Klebsiella",
+        "Bacillus and Clostridium",
         "Nitrosomonas and Nitrobacter",
         "Rhizobium and Pseudomonas",
-        "Bacillus and Clostridium"
+        "Azotobacter and Klebsiella"
       ],
       "correctAnswer": "Nitrosomonas and Nitrobacter",
       "id": 48
@@ -542,8 +542,8 @@
     {
       "question": "Which organisms are involved in ammonification?",
       "options": [
-        "Nitrifying bacteria only",
         "Ammonifying bacteria (aerobic and anaerobic bacteria, fungi)",
+        "Nitrifying bacteria only",
         "Nitrogen-fixing bacteria only",
         "Denitrifying bacteria only"
       ],
@@ -553,10 +553,10 @@
     {
       "question": "Which bacteria are involved in denitrification?",
       "options": [
+        "Rhizobium and Bacillus",
         "Nitrosomonas and Nitrobacter",
         "Pseudomonas, Thiobacillus, and Micrococcus",
-        "Azotobacter and Klebsiella",
-        "Rhizobium and Bacillus"
+        "Azotobacter and Klebsiella"
       ],
       "correctAnswer": "Pseudomonas, Thiobacillus, and Micrococcus",
       "id": 50
@@ -564,10 +564,10 @@
     {
       "question": "What is nitrogen the most important component of in an organism?",
       "options": [
-        "Carbohydrates and lipids",
-        "DNA, RNA, and proteins",
         "Water and minerals",
-        "Vitamins and fiber"
+        "Vitamins and fiber",
+        "DNA, RNA, and proteins",
+        "Carbohydrates and lipids"
       ],
       "correctAnswer": "DNA, RNA, and proteins",
       "id": 51
@@ -575,10 +575,10 @@
     {
       "question": "What does DNA contain that guides all activities in living organisms?",
       "options": [
-        "Amino acids",
         "A unique genetic code",
         "Enzymes",
-        "Lipids"
+        "Lipids",
+        "Amino acids"
       ],
       "correctAnswer": "A unique genetic code",
       "id": 52
@@ -587,8 +587,8 @@
       "question": "What does DNA hold instructions for making?",
       "options": [
         "Only carbohydrates",
-        "All proteins, both structural and functional",
         "Only lipids",
+        "All proteins, both structural and functional",
         "Only vitamins"
       ],
       "correctAnswer": "All proteins, both structural and functional",
@@ -597,10 +597,10 @@
     {
       "question": "What does DNA stand for?",
       "options": [
-        "Deoxyribonucleic acid",
-        "Deoxyribose nucleic amino acid",
         "Dinitrogen acid",
-        "Dual nucleotide acid"
+        "Deoxyribose nucleic amino acid",
+        "Dual nucleotide acid",
+        "Deoxyribonucleic acid"
       ],
       "correctAnswer": "Deoxyribonucleic acid",
       "id": 54
@@ -608,10 +608,10 @@
     {
       "question": "In which cells is DNA found?",
       "options": [
+        "Only in animal cells",
         "Only in eukaryotic cells",
         "In all prokaryotic and eukaryotic cells",
-        "Only in prokaryotic cells",
-        "Only in animal cells"
+        "Only in prokaryotic cells"
       ],
       "correctAnswer": "In all prokaryotic and eukaryotic cells",
       "id": 55
@@ -619,9 +619,9 @@
     {
       "question": "What does DNA code for?",
       "options": [
-        "Energy production",
-        "Genetic information for the transmission of inherited traits",
         "Cell wall formation",
+        "Genetic information for the transmission of inherited traits",
+        "Energy production",
         "Water absorption"
       ],
       "correctAnswer": "Genetic information for the transmission of inherited traits",
@@ -630,9 +630,9 @@
     {
       "question": "A DNA molecule is composed of a long chain of what?",
       "options": [
-        "Amino acids",
-        "Nucleotides",
         "Fatty acids",
+        "Nucleotides",
+        "Amino acids",
         "Monosaccharides"
       ],
       "correctAnswer": "Nucleotides",
@@ -642,8 +642,8 @@
       "question": "What does each nucleotide consist of?",
       "options": [
         "Amino acid, phosphate, and nitrogen base",
-        "A five-carbon sugar (deoxyribose), a phosphate group, and a nitrogenous base",
         "Glucose, phosphate, and nitrogen base",
+        "A five-carbon sugar (deoxyribose), a phosphate group, and a nitrogenous base",
         "Lipid, sugar, and phosphate"
       ],
       "correctAnswer": "A five-carbon sugar (deoxyribose), a phosphate group, and a nitrogenous base",
@@ -652,10 +652,10 @@
     {
       "question": "What are examples of functional proteins?",
       "options": [
-        "Bones and muscles",
         "Catalytic (enzymes), storage (albumin, casein), transport (hemoglobin), protective (antibodies, blood clotting factors)",
+        "Cell membrane and skin",
         "Hair and nails",
-        "Cell membrane and skin"
+        "Bones and muscles"
       ],
       "correctAnswer": "Catalytic (enzymes), storage (albumin, casein), transport (hemoglobin), protective (antibodies, blood clotting factors)",
       "id": 59
@@ -663,10 +663,10 @@
     {
       "question": "What are examples of structural proteins?",
       "options": [
-        "Enzymes and antibodies",
         "Bones, muscles, cell membrane, and skin",
-        "Hemoglobin and albumin",
-        "Casein and antibodies"
+        "Casein and antibodies",
+        "Enzymes and antibodies",
+        "Hemoglobin and albumin"
       ],
       "correctAnswer": "Bones, muscles, cell membrane, and skin",
       "id": 60
@@ -674,10 +674,10 @@
     {
       "question": "Can plants directly use atmospheric nitrogen ($N_2$)?",
       "options": [
-        "Yes, all plants can",
         "No, plants cannot directly use atmospheric nitrogen",
-        "Only legumes can",
-        "Only aquatic plants can"
+        "Yes, all plants can",
+        "Only aquatic plants can",
+        "Only legumes can"
       ],
       "correctAnswer": "No, plants cannot directly use atmospheric nitrogen",
       "id": 61
@@ -685,10 +685,10 @@
     {
       "question": "What inorganic forms of nitrogen do plants use?",
       "options": [
+        "Amino acids and proteins",
         "$N_2$ gas and $NO_2$",
         "Ammonium and nitrate",
-        "Nitrous oxide and nitric acid",
-        "Amino acids and proteins"
+        "Nitrous oxide and nitric acid"
       ],
       "correctAnswer": "Ammonium and nitrate",
       "id": 62
@@ -696,10 +696,10 @@
     {
       "question": "What do soil bacteria like nitrogen-fixing bacteria and nitrifying bacteria provide to plants?",
       "options": [
-        "Water and sunlight",
-        "Ammonium and nitrate",
+        "Vitamins and minerals",
         "Carbon dioxide and oxygen",
-        "Vitamins and minerals"
+        "Ammonium and nitrate",
+        "Water and sunlight"
       ],
       "correctAnswer": "Ammonium and nitrate",
       "id": 63
@@ -707,9 +707,9 @@
     {
       "question": "What does ammonifying bacteria do by decomposing dead organic matter?",
       "options": [
-        "Fix nitrogen",
         "Liberate ammonium",
         "Oxidize nitrite",
+        "Fix nitrogen",
         "Reduce nitrate"
       ],
       "correctAnswer": "Liberate ammonium",
@@ -720,8 +720,8 @@
       "options": [
         "They decrease soil fertility",
         "They increase soil fertility, resulting in increased plant growth and agricultural productivity",
-        "They have no effect",
-        "They contaminate the soil"
+        "They contaminate the soil",
+        "They have no effect"
       ],
       "correctAnswer": "They increase soil fertility, resulting in increased plant growth and agricultural productivity",
       "id": 65
@@ -729,10 +729,10 @@
     {
       "question": "What can nitrogen-fixing bacteria be used as due to their capacity for fixing nitrogen?",
       "options": [
-        "Chemical pesticides",
-        "Biofertilizers",
+        "Soil acidifiers",
         "Synthetic growth hormones",
-        "Soil acidifiers"
+        "Chemical pesticides",
+        "Biofertilizers"
       ],
       "correctAnswer": "Biofertilizers",
       "id": 66
@@ -740,10 +740,10 @@
     {
       "question": "What advantages do biofertilizers from nitrogen-fixing bacteria offer?",
       "options": [
-        "They are harmful to soil",
-        "They improve soil structure and serve as a continuous source of natural fertilizer without being leached easily",
         "They only work for one season",
-        "They require chemical additives"
+        "They require chemical additives",
+        "They improve soil structure and serve as a continuous source of natural fertilizer without being leached easily",
+        "They are harmful to soil"
       ],
       "correctAnswer": "They improve soil structure and serve as a continuous source of natural fertilizer without being leached easily",
       "id": 67
@@ -763,8 +763,8 @@
       "question": "What are earthworms one of the major decomposers of?",
       "options": [
         "Living plants",
-        "Organic matter",
         "Rocks and minerals",
+        "Organic matter",
         "Water"
       ],
       "correctAnswer": "Organic matter",
@@ -773,10 +773,10 @@
     {
       "question": "What does the mutual action of earthworms and microbes bring about?",
       "options": [
-        "Slower decomposition",
         "Faster decomposition of organic matter and enhanced cycling of nutrients",
+        "Increased soil acidity",
         "Reduced soil fertility",
-        "Increased soil acidity"
+        "Slower decomposition"
       ],
       "correctAnswer": "Faster decomposition of organic matter and enhanced cycling of nutrients",
       "id": 70
@@ -785,9 +785,9 @@
       "question": "What is a good indicator of fertile soil?",
       "options": [
         "High sand content",
+        "High rock content",
         "Having an abundance of earthworms",
-        "Low water content",
-        "High rock content"
+        "Low water content"
       ],
       "correctAnswer": "Having an abundance of earthworms",
       "id": 71
@@ -795,9 +795,9 @@
     {
       "question": "What do earthworm burrows do to the soil?",
       "options": [
-        "Decrease soil porosity",
         "Improve soil structure, particularly soil porosity which increases air and water holding capacity",
         "Compact the soil",
+        "Decrease soil porosity",
         "Remove nutrients from the soil"
       ],
       "correctAnswer": "Improve soil structure, particularly soil porosity which increases air and water holding capacity",
@@ -806,9 +806,9 @@
     {
       "question": "What are bio-fertilizers?",
       "options": [
-        "Chemical fertilizers",
-        "Microbial preparations containing living cells of microorganisms that mobilize nutrients from unusable to usable form",
         "Synthetic compounds",
+        "Microbial preparations containing living cells of microorganisms that mobilize nutrients from unusable to usable form",
+        "Chemical fertilizers",
         "Mineral rocks"
       ],
       "correctAnswer": "Microbial preparations containing living cells of microorganisms that mobilize nutrients from unusable to usable form",
@@ -817,10 +817,10 @@
     {
       "question": "What are the characteristics of bio-fertilizers?",
       "options": [
-        "Expensive, toxic, and harmful to environment",
-        "Cost effective, non-toxic, and eco-friendly",
+        "Ineffective and wasteful",
         "Cheap but dangerous",
-        "Ineffective and wasteful"
+        "Expensive, toxic, and harmful to environment",
+        "Cost effective, non-toxic, and eco-friendly"
       ],
       "correctAnswer": "Cost effective, non-toxic, and eco-friendly",
       "id": 74
@@ -828,8 +828,8 @@
     {
       "question": "What do bio-fertilizers serve as a good substitute for?",
       "options": [
-        "Organic manure",
         "Expensive and harmful chemical fertilizers",
+        "Organic manure",
         "Natural compost",
         "Water"
       ],
@@ -839,9 +839,9 @@
     {
       "question": "What do bio-fertilizers increase?",
       "options": [
-        "Soil erosion",
         "Crop yield, ensure food security, and sustainable agriculture",
         "Pollution",
+        "Soil erosion",
         "Water usage"
       ],
       "correctAnswer": "Crop yield, ensure food security, and sustainable agriculture",
@@ -850,10 +850,10 @@
     {
       "question": "What is vermicompost?",
       "options": [
-        "Chemical fertilizer",
-        "Organic fertilizer obtained by using worms (commonly earthworms) that decompose food scraps and organic waste",
+        "Mineral supplement",
         "Synthetic compost",
-        "Mineral supplement"
+        "Chemical fertilizer",
+        "Organic fertilizer obtained by using worms (commonly earthworms) that decompose food scraps and organic waste"
       ],
       "correctAnswer": "Organic fertilizer obtained by using worms (commonly earthworms) that decompose food scraps and organic waste",
       "id": 77
@@ -861,10 +861,10 @@
     {
       "question": "Why do organic farmers usually grow legumes such as peas and beans?",
       "options": [
-        "For shade only",
-        "For dual purpose: harvest the legumes as a crop and use fixed nitrogen in soil for non-legume crops",
+        "To attract insects only",
         "To prevent soil erosion only",
-        "To attract insects only"
+        "For dual purpose: harvest the legumes as a crop and use fixed nitrogen in soil for non-legume crops",
+        "For shade only"
       ],
       "correctAnswer": "For dual purpose: harvest the legumes as a crop and use fixed nitrogen in soil for non-legume crops",
       "id": 78
@@ -873,9 +873,9 @@
       "question": "Why do organic farmers grow non-legume crops after harvesting legumes?",
       "options": [
         "To rest the soil",
-        "To take advantage of all nitrogen fixed and accumulated in the soil and roots of the legumes",
+        "To increase soil acidity",
         "To prevent weeds",
-        "To increase soil acidity"
+        "To take advantage of all nitrogen fixed and accumulated in the soil and roots of the legumes"
       ],
       "correctAnswer": "To take advantage of all nitrogen fixed and accumulated in the soil and roots of the legumes",
       "id": 79
@@ -883,10 +883,10 @@
     {
       "question": "What is the term for the practice of growing legumes followed by non-legumes to utilize fixed nitrogen?",
       "options": [
-        "Crop rotation",
-        "Monocropping",
         "Intercropping",
-        "Hydroponics"
+        "Hydroponics",
+        "Crop rotation",
+        "Monocropping"
       ],
       "correctAnswer": "Crop rotation",
       "id": 80

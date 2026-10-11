@@ -4,17 +4,21 @@
   "folder": "School/Grade 9/Biology/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade9", "unit1"],
+  "tags": [
+    "biology",
+    "grade9",
+    "unit1"
+  ],
   "questions": [
     {
       "id": 1,
       "anki": true,
       "question": "Which part of the microscope do you look through to view the specimen?",
       "options": [
-        "Objective lens",
         "Eyepiece or ocular lens",
-        "Body tube",
-        "Diaphragm"
+        "Diaphragm",
+        "Objective lens",
+        "Body tube"
       ],
       "correctAnswer": "Eyepiece or ocular lens"
     },
@@ -23,10 +27,10 @@
       "anki": true,
       "question": "Which part of the microscope holds the objective lenses and rotates to allow changing of magnification?",
       "options": [
-        "Body tube",
-        "Arm",
         "Revolving nosepiece",
-        "Stage"
+        "Stage",
+        "Body tube",
+        "Arm"
       ],
       "correctAnswer": "Revolving nosepiece"
     },
@@ -35,9 +39,9 @@
       "anki": true,
       "question": "What is the function of the objective lenses on a microscope?",
       "options": [
-        "To magnify the specimen at different powers",
         "To focus light on the specimen",
         "To hold the slide in place",
+        "To magnify the specimen at different powers",
         "To adjust the brightness"
       ],
       "correctAnswer": "To magnify the specimen at different powers"
@@ -47,10 +51,10 @@
       "anki": true,
       "question": "Which part of the microscope connects the eyepiece to the nosepiece?",
       "options": [
-        "Arm",
         "Body tube",
         "Base",
-        "Stage"
+        "Stage",
+        "Arm"
       ],
       "correctAnswer": "Body tube"
     },
@@ -59,10 +63,10 @@
       "anki": true,
       "question": "What is the function of the stage on a microscope?",
       "options": [
-        "To hold the objective lenses",
-        "To hold the glass slide containing the specimen",
         "To focus the image",
-        "To provide light"
+        "To provide light",
+        "To hold the glass slide containing the specimen",
+        "To hold the objective lenses"
       ],
       "correctAnswer": "To hold the glass slide containing the specimen"
     },
@@ -71,9 +75,9 @@
       "anki": true,
       "question": "Which parts of the microscope are used to secure the glass slide in place on the stage?",
       "options": [
-        "Stage clips",
-        "Objective lenses",
         "Adjustment knobs",
+        "Objective lenses",
+        "Stage clips",
         "Diaphragm"
       ],
       "correctAnswer": "Stage clips"
@@ -83,10 +87,10 @@
       "anki": true,
       "question": "What is the function of the diaphragm on a microscope?",
       "options": [
-        "To magnify the image",
         "To focus the image",
-        "To control the amount of light passing through the specimen",
-        "To hold the slide"
+        "To hold the slide",
+        "To magnify the image",
+        "To control the amount of light passing through the specimen"
       ],
       "correctAnswer": "To control the amount of light passing through the specimen"
     },
@@ -95,10 +99,10 @@
       "anki": true,
       "question": "Which part of the microscope is located below the stage and focuses light onto the specimen?",
       "options": [
-        "Diaphragm",
-        "Condenser",
+        "Mirror",
         "Light source",
-        "Mirror"
+        "Diaphragm",
+        "Condenser"
       ],
       "correctAnswer": "Condenser"
     },
@@ -109,8 +113,8 @@
       "options": [
         "Fine adjustment knob",
         "Coarse adjustment knob",
-        "Diaphragm control",
-        "Nosepiece"
+        "Nosepiece",
+        "Diaphragm control"
       ],
       "correctAnswer": "Coarse adjustment knob"
     },
@@ -119,10 +123,10 @@
       "anki": true,
       "question": "Which adjustment knob is used for precise focusing and bringing the image into sharp detail?",
       "options": [
-        "Coarse adjustment knob",
-        "Fine adjustment knob",
         "Stage adjustment knob",
-        "Diaphragm lever"
+        "Fine adjustment knob",
+        "Diaphragm lever",
+        "Coarse adjustment knob"
       ],
       "correctAnswer": "Fine adjustment knob"
     },
@@ -131,10 +135,10 @@
       "anki": true,
       "question": "Which part of the microscope is used to carry the instrument and supports the body tube?",
       "options": [
+        "Body tube",
         "Base",
-        "Stage",
         "Arm",
-        "Body tube"
+        "Stage"
       ],
       "correctAnswer": "Arm"
     },
@@ -143,10 +147,10 @@
       "anki": true,
       "question": "Which part of the microscope provides a sturdy, flat support for the entire instrument?",
       "options": [
-        "Arm",
         "Stage",
-        "Base",
-        "Body tube"
+        "Arm",
+        "Body tube",
+        "Base"
       ],
       "correctAnswer": "Base"
     },
@@ -156,9 +160,9 @@
       "question": "What is the function of the light source (or mirror) in a microscope?",
       "options": [
         "To magnify the specimen",
-        "To provide illumination so the specimen can be seen",
         "To focus the image",
-        "To hold the slide"
+        "To hold the slide",
+        "To provide illumination so the specimen can be seen"
       ],
       "correctAnswer": "To provide illumination so the specimen can be seen"
     },
@@ -167,10 +171,10 @@
       "anki": true,
       "question": "How should a microscope be properly carried?",
       "options": [
-        "By holding it with one hand on the stage",
         "By holding the arm with one hand and supporting the base with the other hand",
-        "By holding the body tube",
-        "By carrying it with two hands on the base"
+        "By carrying it with two hands on the base",
+        "By holding it with one hand on the stage",
+        "By holding the body tube"
       ],
       "correctAnswer": "By holding the arm with one hand and supporting the base with the other hand"
     },
@@ -179,10 +183,10 @@
       "anki": true,
       "question": "When starting to focus a slide on low power, where should the objective lens be positioned?",
       "options": [
-        "As far from the stage as possible",
+        "At the highest position",
         "Close to the slide without touching it",
-        "Touching the slide",
-        "At the highest position"
+        "As far from the stage as possible",
+        "Touching the slide"
       ],
       "correctAnswer": "Close to the slide without touching it"
     },
@@ -191,8 +195,8 @@
       "anki": true,
       "question": "When focusing a specimen, which objective lens should be used first?",
       "options": [
-        "High power objective",
         "Oil immersion objective",
+        "High power objective",
         "Low power objective",
         "Any power objective"
       ],
@@ -203,10 +207,10 @@
       "anki": true,
       "question": "How do you calculate the total magnification of a microscope?",
       "options": [
-        "Add the eyepiece magnification to the objective magnification",
-        "Multiply the eyepiece magnification by the objective magnification",
+        "Subtract the objective magnification from the eyepiece magnification",
         "Divide the objective magnification by the eyepiece magnification",
-        "Subtract the objective magnification from the eyepiece magnification"
+        "Multiply the eyepiece magnification by the objective magnification",
+        "Add the eyepiece magnification to the objective magnification"
       ],
       "correctAnswer": "Multiply the eyepiece magnification by the objective magnification"
     },
@@ -215,9 +219,9 @@
       "anki": true,
       "question": "If the eyepiece magnification is 10X and the objective lens magnification is 40X, what is the total magnification?",
       "options": [
-        "50X",
         "400X",
         "30X",
+        "50X",
         "4X"
       ],
       "correctAnswer": "400X"
@@ -227,10 +231,10 @@
       "anki": true,
       "question": "Why should the coarse adjustment knob not be used when focusing under high power?",
       "options": [
-        "It will not move the stage",
-        "It could break the slide or damage the objective lens",
+        "It turns off the light",
         "It changes the magnification",
-        "It turns off the light"
+        "It will not move the stage",
+        "It could break the slide or damage the objective lens"
       ],
       "correctAnswer": "It could break the slide or damage the objective lens"
     },
@@ -239,10 +243,10 @@
       "anki": true,
       "question": "What should be used to clean the lenses of a microscope?",
       "options": [
-        "Paper towel",
         "Lens paper",
+        "Tissue paper",
         "Cloth",
-        "Tissue paper"
+        "Paper towel"
       ],
       "correctAnswer": "Lens paper"
     },
@@ -251,10 +255,10 @@
       "anki": true,
       "question": "When storing a microscope, which objective lens should be clicked into place over the stage?",
       "options": [
-        "The highest power objective",
-        "The lowest power objective",
+        "Any objective lens",
         "The medium power objective",
-        "Any objective lens"
+        "The highest power objective",
+        "The lowest power objective"
       ],
       "correctAnswer": "The lowest power objective"
     },
@@ -264,8 +268,8 @@
       "question": "What should be done with the microscope cord before storing it?",
       "options": [
         "Leave it plugged in",
-        "Wrap it loosely around the microscope base",
         "Cut the cord",
+        "Wrap it loosely around the microscope base",
         "Leave it hanging"
       ],
       "correctAnswer": "Wrap it loosely around the microscope base"
@@ -275,10 +279,10 @@
       "anki": true,
       "question": "What is the function of the coarse adjustment knob?",
       "options": [
-        "To make fine, small adjustments to focus",
         "To make large, rapid movements to bring the specimen into general focus",
         "To change the magnification",
-        "To adjust the brightness"
+        "To adjust the brightness",
+        "To make fine, small adjustments to focus"
       ],
       "correctAnswer": "To make large, rapid movements to bring the specimen into general focus"
     },
@@ -287,10 +291,10 @@
       "anki": true,
       "question": "What happens to the field of view as you increase magnification?",
       "options": [
-        "The field of view becomes larger",
-        "The field of view becomes smaller",
         "The field of view stays the same",
-        "The field of view disappears"
+        "The field of view becomes smaller",
+        "The field of view disappears",
+        "The field of view becomes larger"
       ],
       "correctAnswer": "The field of view becomes smaller"
     },
@@ -299,10 +303,10 @@
       "anki": true,
       "question": "Why should you always carry a microscope with two hands?",
       "options": [
-        "To distribute weight evenly and prevent dropping it",
-        "Because it is a school rule",
         "To keep it warm",
-        "To prevent dust from settling on it"
+        "To prevent dust from settling on it",
+        "Because it is a school rule",
+        "To distribute weight evenly and prevent dropping it"
       ],
       "correctAnswer": "To distribute weight evenly and prevent dropping it"
     },
@@ -311,10 +315,10 @@
       "anki": true,
       "question": "What is the function of the stage opening (aperture) on a microscope?",
       "options": [
-        "To hold the slide",
         "To allow light to pass through the stage and the specimen",
-        "To adjust the focus",
-        "To secure the objective lens"
+        "To hold the slide",
+        "To secure the objective lens",
+        "To adjust the focus"
       ],
       "correctAnswer": "To allow light to pass through the stage and the specimen"
     },
@@ -323,10 +327,10 @@
       "anki": true,
       "question": "What is the advantage of using a microscope with a built-in light source over one with a mirror?",
       "options": [
-        "It provides more consistent and controllable illumination",
-        "It is lighter in weight",
         "It never needs cleaning",
-        "It automatically focuses the image"
+        "It automatically focuses the image",
+        "It provides more consistent and controllable illumination",
+        "It is lighter in weight"
       ],
       "correctAnswer": "It provides more consistent and controllable illumination"
     },
@@ -336,9 +340,9 @@
       "question": "If the image you see through the microscope is blurry after using the coarse adjustment knob, what should you use next?",
       "options": [
         "The fine adjustment knob",
+        "A different objective lens",
         "The coarse adjustment knob again",
-        "The diaphragm",
-        "A different objective lens"
+        "The diaphragm"
       ],
       "correctAnswer": "The fine adjustment knob"
     },
@@ -347,10 +351,10 @@
       "anki": true,
       "question": "How does the image appear when viewed through a compound light microscope compared to the actual specimen?",
       "options": [
-        "Upright and reversed",
-        "Inverted and reversed",
         "Upright and the same",
-        "Inverted but not reversed"
+        "Inverted but not reversed",
+        "Inverted and reversed",
+        "Upright and reversed"
       ],
       "correctAnswer": "Inverted and reversed"
     },
@@ -359,9 +363,9 @@
       "anki": true,
       "question": "What should you do to the microscope after use before covering it?",
       "options": [
-        "Clean the stage and lenses with lens paper",
         "Wash it with water",
         "Remove the eyepiece",
+        "Clean the stage and lenses with lens paper",
         "Unscrew the objective lenses"
       ],
       "correctAnswer": "Clean the stage and lenses with lens paper"

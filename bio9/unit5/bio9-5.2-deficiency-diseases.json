@@ -4,126 +4,250 @@
   "folder": "School/Grade 9/Biology/Unit 5",
   "field": "natural",
   "anki": true,
-  "tags": ["biology", "grade9", "unit5"],
+  "tags": [
+    "biology",
+    "grade9",
+    "unit5"
+  ],
   "questions": [
     {
       "question": "What is a deficiency disease?",
-      "options": ["A disease that occurs when a person does not have enough of one particular nutrient and suffers health problems as a result", "A disease caused by a pathogen such as a virus or bacteria", "A disease that is inherited from parents", "A disease caused by physical injury"],
+      "options": [
+        "A disease that is inherited from parents",
+        "A disease caused by a pathogen such as a virus or bacteria",
+        "A disease that occurs when a person does not have enough of one particular nutrient and suffers health problems as a result",
+        "A disease caused by physical injury"
+      ],
       "answer": "A disease that occurs when a person does not have enough of one particular nutrient and suffers health problems as a result"
     },
     {
       "question": "Which deficiency disease is caused by a lack of vitamin C?",
-      "options": ["Scurvy", "Rickets", "Beriberi", "Pellagra"],
+      "options": [
+        "Pellagra",
+        "Rickets",
+        "Beriberi",
+        "Scurvy"
+      ],
       "answer": "Scurvy"
     },
     {
       "question": "What are the main symptoms of scurvy?",
-      "options": ["Bleeding under the skin, bleeding gums, and poor healing of wounds", "Deformed bones in the legs", "Dry skin and swelling of the abdomen", "Thin arms and legs with little muscle"],
+      "options": [
+        "Thin arms and legs with little muscle",
+        "Dry skin and swelling of the abdomen",
+        "Deformed bones in the legs",
+        "Bleeding under the skin, bleeding gums, and poor healing of wounds"
+      ],
       "answer": "Bleeding under the skin, bleeding gums, and poor healing of wounds"
     },
     {
       "question": "Which vitamin deficiency causes rickets?",
-      "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin B1"],
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin B1",
+        "Vitamin A"
+      ],
       "answer": "Vitamin D"
     },
     {
       "question": "What is a characteristic symptom of rickets?",
-      "options": ["Deformed or soft bones in the legs of children", "Bleeding gums", "Night blindness", "Dry and flaky skin"],
+      "options": [
+        "Deformed or soft bones in the legs of children",
+        "Night blindness",
+        "Bleeding gums",
+        "Dry and flaky skin"
+      ],
       "answer": "Deformed or soft bones in the legs of children"
     },
     {
       "question": "Which vitamin can the human body produce when the skin is exposed to sunlight?",
-      "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin B12"],
+      "options": [
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin D"
+      ],
       "answer": "Vitamin D"
     },
     {
       "question": "Beriberi is caused by a deficiency of which vitamin?",
-      "options": ["Vitamin B1 (thiamine)", "Vitamin B2 (riboflavin)", "Vitamin B3 (niacin)", "Vitamin B12"],
+      "options": [
+        "Vitamin B3 (niacin)",
+        "Vitamin B12",
+        "Vitamin B1 (thiamine)",
+        "Vitamin B2 (riboflavin)"
+      ],
       "answer": "Vitamin B1 (thiamine)"
     },
     {
       "question": "Pellagra is caused by a deficiency of which vitamin?",
-      "options": ["Vitamin B3 (niacin)", "Vitamin B1 (thiamine)", "Vitamin C", "Vitamin D"],
+      "options": [
+        "Vitamin B3 (niacin)",
+        "Vitamin B1 (thiamine)",
+        "Vitamin D",
+        "Vitamin C"
+      ],
       "answer": "Vitamin B3 (niacin)"
     },
     {
       "question": "Night blindness is caused by a deficiency of which vitamin?",
-      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+      "options": [
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin D"
+      ],
       "answer": "Vitamin A"
     },
     {
       "question": "Anemia is a deficiency disease caused by a lack of which mineral?",
-      "options": ["Iron", "Calcium", "Iodine", "Phosphorus"],
+      "options": [
+        "Iron",
+        "Calcium",
+        "Phosphorus",
+        "Iodine"
+      ],
       "answer": "Iron"
     },
     {
       "question": "What are the symptoms of anemia?",
-      "options": ["Feeling weak, tired, and irritable", "Deformed bones and teeth", "Swelling of the neck", "Dry and flaky skin"],
+      "options": [
+        "Swelling of the neck",
+        "Dry and flaky skin",
+        "Feeling weak, tired, and irritable",
+        "Deformed bones and teeth"
+      ],
       "answer": "Feeling weak, tired, and irritable"
     },
     {
       "question": "Goiter is caused by a deficiency of which mineral?",
-      "options": ["Iodine", "Iron", "Calcium", "Phosphorus"],
+      "options": [
+        "Phosphorus",
+        "Calcium",
+        "Iodine",
+        "Iron"
+      ],
       "answer": "Iodine"
     },
     {
       "question": "Kwashiorkor is a deficiency disease caused by a lack of which nutrient?",
-      "options": ["Protein", "Carbohydrates", "Vitamin C", "Iron"],
+      "options": [
+        "Vitamin C",
+        "Carbohydrates",
+        "Iron",
+        "Protein"
+      ],
       "answer": "Protein"
     },
     {
       "question": "Which of the following is a symptom of kwashiorkor?",
-      "options": ["Swelling of the legs and abdomen, dry or flaky skin, and changes in hair colour", "Thin arms and legs with an old-looking face", "Bleeding gums and poor wound healing", "Deformed bones in the legs"],
+      "options": [
+        "Deformed bones in the legs",
+        "Bleeding gums and poor wound healing",
+        "Thin arms and legs with an old-looking face",
+        "Swelling of the legs and abdomen, dry or flaky skin, and changes in hair colour"
+      ],
       "answer": "Swelling of the legs and abdomen, dry or flaky skin, and changes in hair colour"
     },
     {
       "question": "Marasmus is caused by a deficiency of which nutrient?",
-      "options": ["Carbohydrates (energy)", "Protein", "Vitamin D", "Iron"],
+      "options": [
+        "Carbohydrates (energy)",
+        "Vitamin D",
+        "Protein",
+        "Iron"
+      ],
       "answer": "Carbohydrates (energy)"
     },
     {
       "question": "What are the physical signs of marasmus?",
-      "options": ["Thin arms and legs, little muscle, and an old-looking face", "Swollen abdomen and flaky skin", "Bleeding gums", "Bowed legs"],
+      "options": [
+        "Bleeding gums",
+        "Bowed legs",
+        "Thin arms and legs, little muscle, and an old-looking face",
+        "Swollen abdomen and flaky skin"
+      ],
       "answer": "Thin arms and legs, little muscle, and an old-looking face"
     },
     {
       "question": "What is malnutrition?",
-      "options": ["The insufficient, excessive, or imbalanced consumption of nutrients that leads to health problems", "Only the overconsumption of food", "Only the lack of protein in the diet", "A disease caused by bacterial infection"],
+      "options": [
+        "Only the overconsumption of food",
+        "The insufficient, excessive, or imbalanced consumption of nutrients that leads to health problems",
+        "A disease caused by bacterial infection",
+        "Only the lack of protein in the diet"
+      ],
       "answer": "The insufficient, excessive, or imbalanced consumption of nutrients that leads to health problems"
     },
     {
       "question": "Which of the following is a form of undernutrition?",
-      "options": ["Wasting (low weight-for-height)", "Obesity", "Overweight", "High cholesterol"],
+      "options": [
+        "Wasting (low weight-for-height)",
+        "High cholesterol",
+        "Obesity",
+        "Overweight"
+      ],
       "answer": "Wasting (low weight-for-height)"
     },
     {
       "question": "Stunting in children is defined as:",
-      "options": ["Low height-for-age due to chronic undernutrition", "Low weight-for-height due to recent weight loss", "Low weight-for-age", "Excessive weight gain"],
+      "options": [
+        "Excessive weight gain",
+        "Low weight-for-height due to recent weight loss",
+        "Low weight-for-age",
+        "Low height-for-age due to chronic undernutrition"
+      ],
       "answer": "Low height-for-age due to chronic undernutrition"
     },
     {
       "question": "What is obesity?",
-      "options": ["A condition caused by an imbalance between energy intake and energy expenditure, resulting in excess body fat", "A disease caused by lack of protein", "A condition caused by vitamin deficiency", "A disease caused by bacterial infection"],
+      "options": [
+        "A condition caused by vitamin deficiency",
+        "A disease caused by bacterial infection",
+        "A condition caused by an imbalance between energy intake and energy expenditure, resulting in excess body fat",
+        "A disease caused by lack of protein"
+      ],
       "answer": "A condition caused by an imbalance between energy intake and energy expenditure, resulting in excess body fat"
     },
     {
       "question": "A person with a BMI greater than 30 is classified as:",
-      "options": ["Obese", "Overweight", "Normal weight", "Underweight"],
+      "options": [
+        "Overweight",
+        "Obese",
+        "Underweight",
+        "Normal weight"
+      ],
       "answer": "Obese"
     },
     {
       "question": "Which of the following is a health risk associated with obesity?",
-      "options": ["Heart disease, high blood pressure, and diabetes", "Kwashiorkor", "Scurvy", "Rickets"],
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Kwashiorkor",
+        "Heart disease, high blood pressure, and diabetes"
+      ],
       "answer": "Heart disease, high blood pressure, and diabetes"
     },
     {
       "question": "Which food is a rich source of iron and can help prevent anemia?",
-      "options": ["Red meat, liver, and Tikur teff", "Oranges and lemons", "Milk and cheese", "Iodized salt"],
+      "options": [
+        "Red meat, liver, and Tikur teff",
+        "Iodized salt",
+        "Milk and cheese",
+        "Oranges and lemons"
+      ],
       "answer": "Red meat, liver, and Tikur teff"
     },
     {
       "question": "Vitamin D helps in the absorption of which minerals through the gut wall?",
-      "options": ["Calcium and phosphorus", "Iron and iodine", "Sodium and potassium", "Magnesium and zinc"],
+      "options": [
+        "Magnesium and zinc",
+        "Calcium and phosphorus",
+        "Sodium and potassium",
+        "Iron and iodine"
+      ],
       "answer": "Calcium and phosphorus"
     }
   ]

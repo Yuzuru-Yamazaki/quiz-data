@@ -15,8 +15,8 @@
       "question": "What is the length range of the digestive tract in adult humans?",
       "options": [
         "3.5 m to 5 m",
-        "6.5 m to 9 m",
         "9.5 m to 12 m",
+        "6.5 m to 9 m",
         "4 m to 6 m"
       ],
       "correctAnswer": "6.5 m to 9 m"
@@ -25,9 +25,9 @@
       "id": 2,
       "question": "What is the first of the four digestive processes?",
       "options": [
-        "Digestion",
         "Absorption",
         "Ingestion",
+        "Digestion",
         "Egestion"
       ],
       "correctAnswer": "Ingestion"
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "What is the process by which complex organic molecules are broken down into smaller components by enzymes?",
       "options": [
-        "Ingestion",
         "Absorption",
-        "Egestion",
-        "Digestion"
+        "Digestion",
+        "Ingestion",
+        "Egestion"
       ],
       "correctAnswer": "Digestion"
     },
@@ -47,10 +47,10 @@
       "id": 4,
       "question": "What is the transport of digested nutrients from the small intestine to the cells of the body called?",
       "options": [
-        "Digestion",
         "Absorption",
         "Ingestion",
-        "Egestion"
+        "Egestion",
+        "Digestion"
       ],
       "correctAnswer": "Absorption"
     },
@@ -58,8 +58,8 @@
       "id": 5,
       "question": "What is the removal of food waste from the body called?",
       "options": [
-        "Excretion",
         "Digestion",
+        "Excretion",
         "Egestion",
         "Absorption"
       ],
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "What is the difference between egestion and excretion based on?",
       "options": [
-        "The type of wastes expelled",
+        "The size of the molecules",
         "The speed of the process",
-        "The organ involved",
-        "The size of the molecules"
+        "The type of wastes expelled",
+        "The organ involved"
       ],
       "correctAnswer": "The type of wastes expelled"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "What is expelled during the egestion process in animals?",
       "options": [
+        "Toxic chemicals",
         "Metabolic wastes",
         "Undigested food",
-        "Excess water",
-        "Toxic chemicals"
+        "Excess water"
       ],
       "correctAnswer": "Undigested food"
     },
@@ -92,9 +92,9 @@
       "question": "What is the process through which metabolic wastes are expelled in both plants and animals?",
       "options": [
         "Egestion",
+        "Elimination",
         "Secretion",
-        "Excretion",
-        "Elimination"
+        "Excretion"
       ],
       "correctAnswer": "Excretion"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "What does physical digestion in the mouth break food into to increase surface area?",
       "options": [
-        "Larger chunks",
+        "Gas bubbles",
         "Smaller pieces",
-        "Liquid form",
-        "Gas bubbles"
+        "Larger chunks",
+        "Liquid form"
       ],
       "correctAnswer": "Smaller pieces"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "What is the ball of food formed by the tongue called?",
       "options": [
-        "Chyme",
         "Bolus",
         "Plaque",
-        "Morsel"
+        "Morsel",
+        "Chyme"
       ],
       "correctAnswer": "Bolus"
     },
@@ -137,8 +137,8 @@
       "options": [
         "Pepsin",
         "Lipase",
-        "Salivary amylase",
-        "Trypsin"
+        "Trypsin",
+        "Salivary amylase"
       ],
       "correctAnswer": "Salivary amylase"
     },
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "What is another name for salivary amylase?",
       "options": [
-        "Ptyalin",
-        "Pepsin",
         "Maltase",
-        "Erepsin"
+        "Ptyalin",
+        "Erepsin",
+        "Pepsin"
       ],
       "correctAnswer": "Ptyalin"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What is the tube called that connects the mouth to the stomach?",
       "options": [
-        "Trachea",
-        "Pharynx",
         "Esophagus",
-        "Larynx"
+        "Trachea",
+        "Larynx",
+        "Pharynx"
       ],
       "correctAnswer": "Esophagus"
     },
@@ -168,8 +168,8 @@
       "id": 15,
       "question": "What type of muscle contractions push food through the esophagus?",
       "options": [
-        "Spasms",
         "Peristalsis",
+        "Spasms",
         "Convulsions",
         "Twitches"
       ],
@@ -191,9 +191,9 @@
       "question": "Which enzyme starts the chemical digestion of proteins in the stomach?",
       "options": [
         "Amylase",
-        "Pepsin",
         "Lipase",
-        "Maltase"
+        "Maltase",
+        "Pepsin"
       ],
       "correctAnswer": "Pepsin"
     },
@@ -202,8 +202,8 @@
       "question": "Where is bile produced?",
       "options": [
         "Gallbladder",
-        "Pancreas",
         "Liver",
+        "Pancreas",
         "Stomach"
       ],
       "correctAnswer": "Liver"
@@ -212,10 +212,10 @@
       "id": 19,
       "question": "Where is water absorbed from undigested food?",
       "options": [
-        "Small intestine",
         "Stomach",
         "Large intestine",
-        "Esophagus"
+        "Esophagus",
+        "Small intestine"
       ],
       "correctAnswer": "Large intestine"
     },
@@ -234,10 +234,10 @@
       "id": 21,
       "question": "Where does both physical and chemical digestion begin?",
       "options": [
-        "Stomach",
         "Small intestine",
-        "Oral cavity",
-        "Esophagus"
+        "Esophagus",
+        "Stomach",
+        "Oral cavity"
       ],
       "correctAnswer": "Oral cavity"
     },
@@ -246,9 +246,9 @@
       "question": "What is the chewing action of the teeth called?",
       "options": [
         "Peristalsis",
+        "Absorption",
         "Mastication",
-        "Emulsification",
-        "Absorption"
+        "Emulsification"
       ],
       "correctAnswer": "Mastication"
     },
@@ -256,10 +256,10 @@
       "id": 23,
       "question": "What percentage of saliva is water?",
       "options": [
-        "72%",
         "85%",
+        "99%",
         "96%",
-        "99%"
+        "72%"
       ],
       "correctAnswer": "96%"
     },
@@ -267,9 +267,9 @@
       "id": 24,
       "question": "What does saliva dissolve to make it possible to taste food?",
       "options": [
-        "Food particles",
         "Enzymes",
         "Minerals",
+        "Food particles",
         "Vitamins"
       ],
       "correctAnswer": "Food particles"
@@ -279,9 +279,9 @@
       "question": "Where are the taste buds located?",
       "options": [
         "On the tongue and cheeks",
-        "Only on the tongue",
         "On the roof of the mouth",
-        "On the lips"
+        "On the lips",
+        "Only on the tongue"
       ],
       "correctAnswer": "On the tongue and cheeks"
     },
@@ -289,9 +289,9 @@
       "id": 26,
       "question": "How many types of teeth are there in humans?",
       "options": [
+        "4",
         "2",
         "3",
-        "4",
         "5"
       ],
       "correctAnswer": "4"
@@ -301,9 +301,9 @@
       "question": "Which teeth are chisel-shaped and specialized for cutting?",
       "options": [
         "Canines",
+        "Incisors",
         "Premolars",
-        "Molars",
-        "Incisors"
+        "Molars"
       ],
       "correctAnswer": "Incisors"
     },
@@ -311,10 +311,10 @@
       "id": 28,
       "question": "How many incisors are there in the adult dental formula for one side?",
       "options": [
-        "1",
         "3",
-        "2",
-        "4"
+        "1",
+        "4",
+        "2"
       ],
       "correctAnswer": "2"
     },
@@ -324,8 +324,8 @@
       "options": [
         "Incisors",
         "Premolars",
-        "Molars",
-        "Canines"
+        "Canines",
+        "Molars"
       ],
       "correctAnswer": "Canines"
     },
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "Which teeth are broad and flattened, specialized for grinding?",
       "options": [
-        "Incisors",
         "Canines",
+        "Wisdom teeth",
         "Premolars",
-        "Wisdom teeth"
+        "Incisors"
       ],
       "correctAnswer": "Premolars"
     },
@@ -344,9 +344,9 @@
       "id": 31,
       "question": "Which teeth are designed for crushing and grinding food?",
       "options": [
-        "Incisors",
         "Canines",
         "Premolars",
+        "Incisors",
         "Molars"
       ],
       "correctAnswer": "Molars"
@@ -355,10 +355,10 @@
       "id": 32,
       "question": "What is the last set of molars called?",
       "options": [
-        "Baby teeth",
         "Deciduous teeth",
         "Wisdom teeth",
-        "Primary teeth"
+        "Primary teeth",
+        "Baby teeth"
       ],
       "correctAnswer": "Wisdom teeth"
     },
@@ -366,10 +366,10 @@
       "id": 33,
       "question": "At what age do wisdom teeth usually emerge?",
       "options": [
-        "10 to 14 years",
-        "16 to 20 years",
         "21 to 25 years",
-        "6 to 10 years"
+        "16 to 20 years",
+        "6 to 10 years",
+        "10 to 14 years"
       ],
       "correctAnswer": "16 to 20 years"
     },
@@ -377,10 +377,10 @@
       "id": 34,
       "question": "What is the hardest substance in the human body?",
       "options": [
-        "Bone",
-        "Dentin",
         "Enamel",
-        "Keratin"
+        "Keratin",
+        "Dentin",
+        "Bone"
       ],
       "correctAnswer": "Enamel"
     },
@@ -388,10 +388,10 @@
       "id": 35,
       "question": "What is enamel mostly made of?",
       "options": [
+        "Collagen",
         "Calcium carbonate",
         "Calcium phosphate",
-        "Hydroxyapatite",
-        "Collagen"
+        "Hydroxyapatite"
       ],
       "correctAnswer": "Calcium phosphate"
     },
@@ -399,10 +399,10 @@
       "id": 36,
       "question": "What is the layer underlying the enamel called?",
       "options": [
-        "Pulp",
         "Dentin",
-        "Cementum",
-        "Gingiva"
+        "Pulp",
+        "Gingiva",
+        "Cementum"
       ],
       "correctAnswer": "Dentin"
     },
@@ -410,8 +410,8 @@
       "id": 37,
       "question": "What does dentin contain that can cause sensitivity when enamel is damaged?",
       "options": [
-        "Nerve endings",
         "Microscopic tubes",
+        "Nerve endings",
         "Blood vessels",
         "Lymph vessels"
       ],
@@ -421,9 +421,9 @@
       "id": 38,
       "question": "What is the softer, living inner structure of teeth called?",
       "options": [
+        "Pulp",
         "Enamel",
         "Dentin",
-        "Pulp",
         "Cementum"
       ],
       "correctAnswer": "Pulp"
@@ -433,9 +433,9 @@
       "question": "What runs through the pulp of the teeth?",
       "options": [
         "Lymph vessels only",
-        "Blood vessels and nerves",
         "Only nerves",
-        "Only blood vessels"
+        "Only blood vessels",
+        "Blood vessels and nerves"
       ],
       "correctAnswer": "Blood vessels and nerves"
     },
@@ -443,10 +443,10 @@
       "id": 40,
       "question": "What tissue helps to hold the teeth tightly against the jaw?",
       "options": [
-        "Gingiva",
         "Periodontal ligament",
-        "Cementum",
-        "Enamel"
+        "Enamel",
+        "Gingiva",
+        "Cementum"
       ],
       "correctAnswer": "Periodontal ligament"
     },
@@ -454,8 +454,8 @@
       "id": 41,
       "question": "What percentage of the tooth is made up by the roots?",
       "options": [
-        "One-third",
         "One-half",
+        "One-third",
         "Two-thirds",
         "Three-quarters"
       ],
@@ -476,10 +476,10 @@
       "id": 43,
       "question": "What is the top portion of the tooth that is visible called?",
       "options": [
+        "Cusp",
         "Root",
         "Crown",
-        "Neck",
-        "Cusp"
+        "Neck"
       ],
       "correctAnswer": "Crown"
     },
@@ -487,10 +487,10 @@
       "id": 44,
       "question": "What is the adult human dental formula?",
       "options": [
-        "2102 / 2102",
+        "1232 / 1232",
         "2123 / 2123",
-        "3122 / 3122",
-        "1232 / 1232"
+        "2102 / 2102",
+        "3122 / 3122"
       ],
       "correctAnswer": "2123 / 2123"
     },
@@ -498,10 +498,10 @@
       "id": 45,
       "question": "How many teeth does a normal adult human have?",
       "options": [
+        "34",
         "28",
         "30",
-        "32",
-        "34"
+        "32"
       ],
       "correctAnswer": "32"
     },
@@ -509,10 +509,10 @@
       "id": 46,
       "question": "What is the dental formula for temporary (milk) teeth in children?",
       "options": [
+        "1232 / 1232",
         "2123 / 2123",
-        "2102 / 2102",
         "3122 / 3122",
-        "1232 / 1232"
+        "2102 / 2102"
       ],
       "correctAnswer": "2102 / 2102"
     },
@@ -520,10 +520,10 @@
       "id": 47,
       "question": "How many teeth are present in a child's temporary dentition?",
       "options": [
-        "24",
         "28",
-        "20",
-        "32"
+        "32",
+        "24",
+        "20"
       ],
       "correctAnswer": "20"
     },
@@ -531,10 +531,10 @@
       "id": 48,
       "question": "At what age do milk teeth (deciduous teeth) grow?",
       "options": [
-        "At birth",
-        "At age 6 years",
         "At age 3 years",
-        "At age 10 years"
+        "At age 6 years",
+        "At age 10 years",
+        "At birth"
       ],
       "correctAnswer": "At age 6 years"
     },
@@ -542,9 +542,9 @@
       "id": 49,
       "question": "Which animals have the same set of teeth and dental formula as humans?",
       "options": [
-        "Apes",
         "Monkeys",
         "Gorillas",
+        "Apes",
         "Chimpanzees"
       ],
       "correctAnswer": "Monkeys"
@@ -555,8 +555,8 @@
       "options": [
         "Cavity",
         "Plaque",
-        "Calculus",
-        "Caries"
+        "Caries",
+        "Calculus"
       ],
       "correctAnswer": "Plaque"
     },
@@ -564,10 +564,10 @@
       "id": 51,
       "question": "What do bacteria produce when given a sugar-rich diet?",
       "options": [
+        "Vitamins",
         "Enzymes",
         "Acid waste",
-        "Alkaline waste",
-        "Vitamins"
+        "Alkaline waste"
       ],
       "correctAnswer": "Acid waste"
     },
@@ -575,10 +575,10 @@
       "id": 52,
       "question": "What condition involves tender gums and bleeding when cleaning teeth?",
       "options": [
-        "Dental caries",
         "Periodontal disease",
+        "Tooth decay",
         "Gingivitis",
-        "Tooth decay"
+        "Dental caries"
       ],
       "correctAnswer": "Periodontal disease"
     },
@@ -586,10 +586,10 @@
       "id": 53,
       "question": "What happens if you brush your teeth straight after an acidic drink?",
       "options": [
-        "Teeth become whiter",
         "Enamel can be worn away",
-        "Acid is neutralized",
-        "Teeth become stronger"
+        "Teeth become whiter",
+        "Teeth become stronger",
+        "Acid is neutralized"
       ],
       "correctAnswer": "Enamel can be worn away"
     },
@@ -597,10 +597,10 @@
       "id": 54,
       "question": "What is one way to avoid tooth decay mentioned in the text?",
       "options": [
-        "Eating more sugar",
-        "Regular brushing twice a day",
         "Avoiding dental check-ups",
-        "Drinking more acidic drinks"
+        "Drinking more acidic drinks",
+        "Regular brushing twice a day",
+        "Eating more sugar"
       ],
       "correctAnswer": "Regular brushing twice a day"
     },
@@ -608,10 +608,10 @@
       "id": 55,
       "question": "What happens when the walls of the esophagus are stretched by a bolus of food?",
       "options": [
-        "Muscles relax",
         "Activating muscles set up peristaltic contractions",
+        "Digestion begins",
         "Sphincters open",
-        "Digestion begins"
+        "Muscles relax"
       ],
       "correctAnswer": "Activating muscles set up peristaltic contractions"
     },
@@ -619,10 +619,10 @@
       "id": 56,
       "question": "Are peristaltic contractions voluntary or involuntary?",
       "options": [
-        "Voluntary",
         "Involuntary",
         "Both",
-        "Neither"
+        "Neither",
+        "Voluntary"
       ],
       "correctAnswer": "Involuntary"
     },
@@ -630,10 +630,10 @@
       "id": 57,
       "question": "What type of muscles regulate the movement of food to and from the stomach?",
       "options": [
-        "Sphincters",
-        "Valves",
         "Ligaments",
-        "Tendons"
+        "Tendons",
+        "Valves",
+        "Sphincters"
       ],
       "correctAnswer": "Sphincters"
     },
@@ -641,10 +641,10 @@
       "id": 58,
       "question": "What does the lower esophageal sphincter prevent?",
       "options": [
-        "Food from entering the stomach",
-        "Food and acid from being regurgitated into the esophagus",
         "Stomach acid from entering the small intestine",
-        "Air from entering the stomach"
+        "Air from entering the stomach",
+        "Food from entering the stomach",
+        "Food and acid from being regurgitated into the esophagus"
       ],
       "correctAnswer": "Food and acid from being regurgitated into the esophagus"
     },
@@ -652,10 +652,10 @@
       "id": 59,
       "question": "Which sphincter regulates the movement of food and stomach acids into the small intestine?",
       "options": [
-        "Lower esophageal sphincter",
-        "Cardiac sphincter",
         "Pyloric sphincter",
-        "Ileocecal sphincter"
+        "Cardiac sphincter",
+        "Ileocecal sphincter",
+        "Lower esophageal sphincter"
       ],
       "correctAnswer": "Pyloric sphincter"
     },
@@ -663,10 +663,10 @@
       "id": 60,
       "question": "How many layers of muscle does the stomach contain?",
       "options": [
-        "Two",
         "Three",
-        "Four",
-        "One"
+        "Two",
+        "One",
+        "Four"
       ],
       "correctAnswer": "Three"
     },
@@ -675,9 +675,9 @@
       "question": "What is the approximate storage capacity of the human stomach?",
       "options": [
         "0.5 L",
-        "1.0 L",
+        "2.5 L",
         "1.5 L",
-        "2.5 L"
+        "1.0 L"
       ],
       "correctAnswer": "1.5 L"
     },
@@ -685,10 +685,10 @@
       "id": 62,
       "question": "What are the stomach fluids collectively called?",
       "options": [
-        "Pancreatic juice",
-        "Gastric juice",
+        "Bile",
         "Intestinal juice",
-        "Bile"
+        "Gastric juice",
+        "Pancreatic juice"
       ],
       "correctAnswer": "Gastric juice"
     },
@@ -696,10 +696,10 @@
       "id": 63,
       "question": "Approximately how much gastric fluid is produced following a large meal?",
       "options": [
-        "200 mL",
+        "1000 mL",
         "500 mL",
-        "800 mL",
-        "1000 mL"
+        "200 mL",
+        "800 mL"
       ],
       "correctAnswer": "500 mL"
     },
@@ -707,10 +707,10 @@
       "id": 64,
       "question": "What does hydrochloric acid in the stomach convert pepsinogen into?",
       "options": [
-        "Trypsin",
-        "Erepsin",
         "Pepsin",
-        "Amylase"
+        "Trypsin",
+        "Amylase",
+        "Erepsin"
       ],
       "correctAnswer": "Pepsin"
     },
@@ -718,10 +718,10 @@
       "id": 65,
       "question": "What does pepsin break proteins into?",
       "options": [
-        "Amino acids",
-        "Polypeptides",
         "Dipeptides",
-        "Nucleotides"
+        "Nucleotides",
+        "Polypeptides",
+        "Amino acids"
       ],
       "correctAnswer": "Polypeptides"
     },
@@ -729,10 +729,10 @@
       "id": 66,
       "question": "What is the normal $pH$ range inside the stomach?",
       "options": [
-        "1.0 to 2.0",
-        "2.0 to 3.0",
         "3.0 to 4.0",
-        "4.0 to 5.0"
+        "2.0 to 3.0",
+        "4.0 to 5.0",
+        "1.0 to 2.0"
       ],
       "correctAnswer": "2.0 to 3.0"
     },
@@ -741,9 +741,9 @@
       "question": "What $pH$ can the stomach approach?",
       "options": [
         "0.5",
-        "1.0",
         "1.5",
-        "2.0"
+        "2.0",
+        "1.0"
       ],
       "correctAnswer": "1.0"
     },
@@ -751,8 +751,8 @@
       "id": 68,
       "question": "What protects the stomach lining from being digested by its own chemicals?",
       "options": [
-        "Bicarbonate",
         "Mucus",
+        "Bicarbonate",
         "Bile",
         "Enzymes"
       ],
@@ -762,10 +762,10 @@
       "id": 69,
       "question": "What is the mixture of partially digested food and gastric juice called?",
       "options": [
-        "Bolus",
+        "Filtrate",
         "Feces",
         "Chyme",
-        "Filtrate"
+        "Bolus"
       ],
       "correctAnswer": "Chyme"
     },
@@ -773,9 +773,9 @@
       "id": 70,
       "question": "Within what time does gastric emptying occur after a meal?",
       "options": [
-        "30 minutes to 1 hour",
-        "2 to 6 hours",
         "6 to 10 hours",
+        "2 to 6 hours",
+        "30 minutes to 1 hour",
         "10 to 12 hours"
       ],
       "correctAnswer": "2 to 6 hours"
@@ -784,8 +784,8 @@
       "id": 71,
       "question": "The movement of chyme from the stomach is regulated by hormones, stomach distension, and what else?",
       "options": [
-        "Enzymes",
         "Muscular reflexes",
+        "Enzymes",
         "Bile",
         "Blood flow"
       ],
@@ -795,10 +795,10 @@
       "id": 72,
       "question": "What happens to salivary amylase and lipase in the acidic stomach?",
       "options": [
-        "They are activated",
-        "They are denatured",
         "They multiply",
-        "They are absorbed"
+        "They are denatured",
+        "They are absorbed",
+        "They are activated"
       ],
       "correctAnswer": "They are denatured"
     },
@@ -807,9 +807,9 @@
       "question": "Which substances can the stomach absorb?",
       "options": [
         "Only water",
-        "Glucose, amino acids, water, vitamins, and alcohol",
         "Only proteins",
-        "Only fats"
+        "Only fats",
+        "Glucose, amino acids, water, vitamins, and alcohol"
       ],
       "correctAnswer": "Glucose, amino acids, water, vitamins, and alcohol"
     },
@@ -817,10 +817,10 @@
       "id": 74,
       "question": "What is the length of the small intestine?",
       "options": [
-        "Up to 3 m",
+        "Up to 9 m",
         "Up to 5 m",
         "Up to 7 m",
-        "Up to 9 m"
+        "Up to 3 m"
       ],
       "correctAnswer": "Up to 7 m"
     },
@@ -828,9 +828,9 @@
       "id": 75,
       "question": "What is the diameter of the small intestine?",
       "options": [
+        "3.5 cm",
         "1.5 cm",
         "2.5 cm",
-        "3.5 cm",
         "4.5 cm"
       ],
       "correctAnswer": "2.5 cm"
@@ -839,10 +839,10 @@
       "id": 76,
       "question": "Where does most chemical digestion take place?",
       "options": [
-        "Stomach",
-        "Large intestine",
         "Small intestine",
-        "Mouth"
+        "Mouth",
+        "Stomach",
+        "Large intestine"
       ],
       "correctAnswer": "Small intestine"
     },
@@ -850,10 +850,10 @@
       "id": 77,
       "question": "What is the first part of the small intestine called?",
       "options": [
-        "Jejunum",
-        "Ileum",
+        "Duodenum",
         "Cecum",
-        "Duodenum"
+        "Ileum",
+        "Jejunum"
       ],
       "correctAnswer": "Duodenum"
     },
@@ -861,8 +861,8 @@
       "id": 78,
       "question": "How long is the duodenum?",
       "options": [
-        "10 to 15 cm",
         "25 to 30 cm",
+        "10 to 15 cm",
         "35 to 40 cm",
         "45 to 50 cm"
       ],
@@ -872,10 +872,10 @@
       "id": 79,
       "question": "What is the second component of the small intestine?",
       "options": [
+        "Cecum",
         "Duodenum",
         "Ileum",
-        "Jejunum",
-        "Cecum"
+        "Jejunum"
       ],
       "correctAnswer": "Jejunum"
     },
@@ -884,9 +884,9 @@
       "question": "What is the third component of the small intestine?",
       "options": [
         "Duodenum",
-        "Jejunum",
         "Ileum",
-        "Colon"
+        "Colon",
+        "Jejunum"
       ],
       "correctAnswer": "Ileum"
     },
@@ -894,10 +894,10 @@
       "id": 81,
       "question": "What are the finger-like projections that increase the surface area of the small intestine?",
       "options": [
-        "Cilia",
-        "Microvilli",
+        "Papillae",
         "Villi",
-        "Papillae"
+        "Cilia",
+        "Microvilli"
       ],
       "correctAnswer": "Villi"
     },
@@ -905,10 +905,10 @@
       "id": 82,
       "question": "How much do villi increase the surface area of the small intestine?",
       "options": [
-        "Fivefold",
-        "Tenfold",
         "Fifteenfold",
-        "Twentyfold"
+        "Tenfold",
+        "Twentyfold",
+        "Fivefold"
       ],
       "correctAnswer": "Tenfold"
     },
@@ -917,8 +917,8 @@
       "question": "What are the fine, threadlike extensions of the membrane on villus cells called?",
       "options": [
         "Cilia",
-        "Microvilli",
         "Flagella",
+        "Microvilli",
         "Pili"
       ],
       "correctAnswer": "Microvilli"
@@ -927,10 +927,10 @@
       "id": 84,
       "question": "What intertwines with lymph vessels in each villus?",
       "options": [
-        "Nerve fibers",
         "Capillary network",
+        "Elastic fibers",
         "Muscle fibers",
-        "Elastic fibers"
+        "Nerve fibers"
       ],
       "correctAnswer": "Capillary network"
     },
@@ -938,10 +938,10 @@
       "id": 85,
       "question": "What are the lymph vessels in the villi called?",
       "options": [
-        "Lacteals",
         "Venules",
+        "Sinusoids",
         "Arterioles",
-        "Sinusoids"
+        "Lacteals"
       ],
       "correctAnswer": "Lacteals"
     },
@@ -949,10 +949,10 @@
       "id": 86,
       "question": "How are monosaccharides and amino acids absorbed from the digestive tract?",
       "options": [
-        "Into the lacteals",
         "Into the capillary networks",
         "Directly into the liver",
-        "Into the large intestine"
+        "Into the large intestine",
+        "Into the lacteals"
       ],
       "correctAnswer": "Into the capillary networks"
     },
@@ -960,10 +960,10 @@
       "id": 87,
       "question": "How are fats absorbed from the digestive tract?",
       "options": [
-        "Into the capillary networks",
         "Into the lacteals",
+        "Directly into cells",
         "Into the veins",
-        "Directly into cells"
+        "Into the capillary networks"
       ],
       "correctAnswer": "Into the lacteals"
     },
@@ -972,8 +972,8 @@
       "question": "Which are the accessory organs of the digestive system?",
       "options": [
         "Stomach, liver, pancreas",
-        "Salivary glands, pancreas, liver, gallbladder",
         "Small intestine, large intestine, rectum",
+        "Salivary glands, pancreas, liver, gallbladder",
         "Esophagus, stomach, intestines"
       ],
       "correctAnswer": "Salivary glands, pancreas, liver, gallbladder"
@@ -982,10 +982,10 @@
       "id": 89,
       "question": "What is the largest internal organ in humans?",
       "options": [
-        "Pancreas",
-        "Stomach",
         "Liver",
-        "Heart"
+        "Heart",
+        "Pancreas",
+        "Stomach"
       ],
       "correctAnswer": "Liver"
     },
@@ -993,10 +993,10 @@
       "id": 90,
       "question": "What does the liver produce that is required for the breakdown of fats?",
       "options": [
-        "Lipase",
         "Bicarbonate",
-        "Bile",
-        "Trypsin"
+        "Lipase",
+        "Trypsin",
+        "Bile"
       ],
       "correctAnswer": "Bile"
     },
@@ -1004,9 +1004,9 @@
       "id": 91,
       "question": "What does the gallbladder do?",
       "options": [
+        "Produces lipase",
         "Produces bile",
         "Stores and concentrates bile",
-        "Produces lipase",
         "Absorbs water"
       ],
       "correctAnswer": "Stores and concentrates bile"
@@ -1015,10 +1015,10 @@
       "id": 92,
       "question": "What does the pancreas secrete to neutralize acidic chyme?",
       "options": [
-        "Bile",
-        "Bicarbonate",
+        "Hydrochloric acid",
         "Mucus",
-        "Hydrochloric acid"
+        "Bicarbonate",
+        "Bile"
       ],
       "correctAnswer": "Bicarbonate"
     },
@@ -1026,10 +1026,10 @@
       "id": 93,
       "question": "Which pancreatic enzyme digests proteins?",
       "options": [
-        "Amylase",
         "Lipase",
         "Trypsin",
-        "Maltase"
+        "Maltase",
+        "Amylase"
       ],
       "correctAnswer": "Trypsin"
     },
@@ -1037,10 +1037,10 @@
       "id": 94,
       "question": "In what form is trypsin initially released from the pancreas?",
       "options": [
-        "Trypsin",
-        "Trypsinogen",
         "Erepsin",
-        "Enterokinase"
+        "Trypsinogen",
+        "Enterokinase",
+        "Trypsin"
       ],
       "correctAnswer": "Trypsinogen"
     },
@@ -1049,9 +1049,9 @@
       "question": "What enzyme converts inactive trypsinogen into active trypsin?",
       "options": [
         "Pepsin",
-        "Enterokinase",
+        "Amylase",
         "Erepsin",
-        "Amylase"
+        "Enterokinase"
       ],
       "correctAnswer": "Enterokinase"
     },
@@ -1059,10 +1059,10 @@
       "id": 96,
       "question": "What do erepsins break bonds between?",
       "options": [
-        "Long-chain polypeptides",
-        "Short-chain peptides",
         "Disaccharides",
-        "Lipids"
+        "Lipids",
+        "Short-chain peptides",
+        "Long-chain polypeptides"
       ],
       "correctAnswer": "Short-chain peptides"
     },
@@ -1070,10 +1070,10 @@
       "id": 97,
       "question": "What is the most common lipase that breaks down fats?",
       "options": [
-        "Phospholipase",
         "Gastric lipase",
         "Pancreatic lipase",
-        "Intestinal lipase"
+        "Intestinal lipase",
+        "Phospholipase"
       ],
       "correctAnswer": "Pancreatic lipase"
     },
@@ -1082,9 +1082,9 @@
       "question": "What does pancreatic lipase break fats into?",
       "options": [
         "Glycerol and amino acids",
-        "Fatty acids and glycerol",
         "Fatty acids and glucose",
-        "Glycerol and nucleotides"
+        "Glycerol and nucleotides",
+        "Fatty acids and glycerol"
       ],
       "correctAnswer": "Fatty acids and glycerol"
     },
@@ -1092,10 +1092,10 @@
       "id": 99,
       "question": "What does phospholipase act on?",
       "options": [
-        "Triglycerides",
-        "Phospholipids",
         "Steroids",
-        "Waxes"
+        "Waxes",
+        "Triglycerides",
+        "Phospholipids"
       ],
       "correctAnswer": "Phospholipids"
     },
@@ -1104,9 +1104,9 @@
       "question": "What do bile salts do to large fat globules?",
       "options": [
         "Chemically digest them",
-        "Emulsify them into smaller droplets",
         "Absorb them",
-        "Store them"
+        "Store them",
+        "Emulsify them into smaller droplets"
       ],
       "correctAnswer": "Emulsify them into smaller droplets"
     },
@@ -1114,10 +1114,10 @@
       "id": 101,
       "question": "Is the breakdown of fat globules by bile salts physical or chemical digestion?",
       "options": [
-        "Chemical digestion",
-        "Physical digestion",
         "Both",
-        "Neither"
+        "Physical digestion",
+        "Neither",
+        "Chemical digestion"
       ],
       "correctAnswer": "Physical digestion"
     },
@@ -1125,10 +1125,10 @@
       "id": 102,
       "question": "What gives feces its characteristic brown colour?",
       "options": [
-        "Bile salts",
+        "Food pigments",
         "Bilirubin",
         "Haemoglobin breakdown",
-        "Food pigments"
+        "Bile salts"
       ],
       "correctAnswer": "Haemoglobin breakdown"
     },
@@ -1136,10 +1136,10 @@
       "id": 103,
       "question": "Which vitamins does the liver store?",
       "options": [
+        "D, E, and K",
         "A, C, and E",
         "A, $B_{12}$, and D",
-        "B, C, and K",
-        "D, E, and K"
+        "B, C, and K"
       ],
       "correctAnswer": "A, $B_{12}$, and D"
     },
@@ -1147,9 +1147,9 @@
       "id": 104,
       "question": "What type of substances does the liver detoxify?",
       "options": [
-        "Only alcohol",
         "Harmful substances including alcohol",
         "Only drugs",
+        "Only alcohol",
         "Only food additives"
       ],
       "correctAnswer": "Harmful substances including alcohol"
@@ -1158,10 +1158,10 @@
       "id": 105,
       "question": "What are the three parts of the large intestine?",
       "options": [
-        "Colon, rectum, anus",
+        "Ascending, transverse, descending",
         "Cecum, colon, rectum",
-        "Duodenum, jejunum, ileum",
-        "Ascending, transverse, descending"
+        "Colon, rectum, anus",
+        "Duodenum, jejunum, ileum"
       ],
       "correctAnswer": "Cecum, colon, rectum"
     },
@@ -1169,10 +1169,10 @@
       "id": 106,
       "question": "What is the receiving pouch for waste matter in the large intestine?",
       "options": [
+        "Anus",
         "Rectum",
-        "Colon",
         "Cecum",
-        "Anus"
+        "Colon"
       ],
       "correctAnswer": "Cecum"
     },
@@ -1180,9 +1180,9 @@
       "id": 107,
       "question": "What are the four regions of the colon?",
       "options": [
-        "Proximal, distal, medial, lateral",
-        "Ascending, transverse, descending, sigmoid",
         "Right, left, upper, lower",
+        "Ascending, transverse, descending, sigmoid",
+        "Proximal, distal, medial, lateral",
         "Front, back, inner, outer"
       ],
       "correctAnswer": "Ascending, transverse, descending, sigmoid"
@@ -1191,10 +1191,10 @@
       "id": 108,
       "question": "What bacteria are commonly found in the large intestine?",
       "options": [
-        "Lactobacillus",
-        "Escherichia coli",
+        "Staphylococcus",
         "Streptococcus",
-        "Staphylococcus"
+        "Lactobacillus",
+        "Escherichia coli"
       ],
       "correctAnswer": "Escherichia coli"
     },
@@ -1202,10 +1202,10 @@
       "id": 109,
       "question": "Which vitamins do bacteria in the large intestine synthesize?",
       "options": [
-        "Vitamin A and C",
-        "Vitamin B and K",
         "Vitamin C and D",
-        "Vitamin D and E"
+        "Vitamin D and E",
+        "Vitamin B and K",
+        "Vitamin A and C"
       ],
       "correctAnswer": "Vitamin B and K"
     },
@@ -1213,10 +1213,10 @@
       "id": 110,
       "question": "What important function does cellulose provide in the large intestine?",
       "options": [
-        "Energy",
         "Bulk",
+        "Protein",
         "Vitamins",
-        "Protein"
+        "Energy"
       ],
       "correctAnswer": "Bulk"
     },
@@ -1224,10 +1224,10 @@
       "id": 111,
       "question": "What is the main composition of feces?",
       "options": [
-        "Water 50%, bacteria 20%, lipids 15%",
         "Water 75%, bacteria 8%, lipids 6%",
-        "Water 85%, bacteria 5%, lipids 5%",
-        "Water 60%, bacteria 15%, lipids 10%"
+        "Water 50%, bacteria 20%, lipids 15%",
+        "Water 60%, bacteria 15%, lipids 10%",
+        "Water 85%, bacteria 5%, lipids 5%"
       ],
       "correctAnswer": "Water 75%, bacteria 8%, lipids 6%"
     },
@@ -1236,9 +1236,9 @@
       "question": "Which sphincter in the anus is involuntary?",
       "options": [
         "Outer sphincter",
+        "Neither",
         "Inner sphincter",
-        "Both",
-        "Neither"
+        "Both"
       ],
       "correctAnswer": "Inner sphincter"
     },
@@ -1246,9 +1246,9 @@
       "id": 113,
       "question": "What is the $pH$ of the mouth in adults?",
       "options": [
-        "$pH$ 5",
         "$pH$ 7 (slightly acidic to neutral)",
         "$pH$ 8",
+        "$pH$ 5",
         "$pH$ 9"
       ],
       "correctAnswer": "$pH$ 7 (slightly acidic to neutral)"
@@ -1257,10 +1257,10 @@
       "id": 114,
       "question": "What is the $pH$ in the stomach?",
       "options": [
-        "$pH$ 1 (strongly acidic)",
-        "$pH$ 5",
         "$pH$ 7",
-        "$pH$ 9"
+        "$pH$ 5",
+        "$pH$ 9",
+        "$pH$ 1 (strongly acidic)"
       ],
       "correctAnswer": "$pH$ 1 (strongly acidic)"
     },
@@ -1268,10 +1268,10 @@
       "id": 115,
       "question": "What is the $pH$ of the duodenum?",
       "options": [
-        "$pH$ 1 to 2",
         "$pH$ 4 to 5",
-        "$pH$ 7 to 8 (slightly alkaline)",
-        "$pH$ 9 to 10"
+        "$pH$ 1 to 2",
+        "$pH$ 9 to 10",
+        "$pH$ 7 to 8 (slightly alkaline)"
       ],
       "correctAnswer": "$pH$ 7 to 8 (slightly alkaline)"
     },
@@ -1279,10 +1279,10 @@
       "id": 116,
       "question": "What is the $pH$ of the large intestine?",
       "options": [
-        "$pH$ 1 to 3",
-        "$pH$ 4 to 5",
         "$pH$ 6 to 8",
-        "$pH$ 9 to 10"
+        "$pH$ 1 to 3",
+        "$pH$ 9 to 10",
+        "$pH$ 4 to 5"
       ],
       "correctAnswer": "$pH$ 6 to 8"
     },
@@ -1290,10 +1290,10 @@
       "id": 117,
       "question": "What does mucin in saliva do?",
       "options": [
-        "Digests starch",
         "Lubricates food bolus",
-        "Kills bacteria",
-        "Emulsifies fats"
+        "Digests starch",
+        "Emulsifies fats",
+        "Kills bacteria"
       ],
       "correctAnswer": "Lubricates food bolus"
     },
@@ -1302,8 +1302,8 @@
       "question": "What does salivary amylase break cooked starch into?",
       "options": [
         "Glucose",
-        "Maltose",
         "Fructose",
+        "Maltose",
         "Galactose"
       ],
       "correctAnswer": "Maltose"
@@ -1312,10 +1312,10 @@
       "id": 119,
       "question": "What enzyme clots milk protein (casein) in young children?",
       "options": [
-        "Pepsin",
+        "Trypsin",
         "Rennin",
         "Lipase",
-        "Trypsin"
+        "Pepsin"
       ],
       "correctAnswer": "Rennin"
     },
@@ -1323,10 +1323,10 @@
       "id": 120,
       "question": "How much bile juice does the liver produce daily?",
       "options": [
-        "300 to 500 cm3",
         "500 to 700 cm3",
-        "700 cm3 to 1.2 litres",
-        "1.5 to 2.0 litres"
+        "1.5 to 2.0 litres",
+        "300 to 500 cm3",
+        "700 cm3 to 1.2 litres"
       ],
       "correctAnswer": "700 cm3 to 1.2 litres"
     },
@@ -1334,10 +1334,10 @@
       "id": 121,
       "question": "What enzyme breaks maltose into glucose?",
       "options": [
-        "Sucrase",
-        "Lactase",
         "Maltase",
-        "Amylase"
+        "Amylase",
+        "Lactase",
+        "Sucrase"
       ],
       "correctAnswer": "Maltase"
     },
@@ -1345,10 +1345,10 @@
       "id": 122,
       "question": "What does lactase break lactose into?",
       "options": [
-        "Glucose and fructose",
         "Glucose and galactose",
+        "Glucose and glucose",
         "Fructose and galactose",
-        "Glucose and glucose"
+        "Glucose and fructose"
       ],
       "correctAnswer": "Glucose and galactose"
     },
@@ -1356,10 +1356,10 @@
       "id": 123,
       "question": "What does sucrase break sucrose into?",
       "options": [
-        "Glucose and galactose",
-        "Glucose and fructose",
         "Fructose and galactose",
-        "Two glucose molecules"
+        "Glucose and fructose",
+        "Two glucose molecules",
+        "Glucose and galactose"
       ],
       "correctAnswer": "Glucose and fructose"
     },
@@ -1367,9 +1367,9 @@
       "id": 124,
       "question": "What is the main region of absorption of vitamins, minerals, amino acids, glucose, fatty acids, and glycerol?",
       "options": [
-        "Stomach",
-        "Large intestine",
         "Small intestine (with villi and microvilli)",
+        "Large intestine",
+        "Stomach",
         "Mouth"
       ],
       "correctAnswer": "Small intestine (with villi and microvilli)"
@@ -1378,10 +1378,10 @@
       "id": 125,
       "question": "Which organ produces a secretion that initiates the breakdown of polysaccharides?",
       "options": [
-        "Pancreas",
         "Liver",
         "Salivary glands",
-        "Small intestine"
+        "Small intestine",
+        "Pancreas"
       ],
       "correctAnswer": "Salivary glands"
     },
@@ -1389,10 +1389,10 @@
       "id": 126,
       "question": "Which organ produces hydrochloric acid?",
       "options": [
-        "Pancreas",
         "Liver",
+        "Small intestine",
         "Stomach",
-        "Small intestine"
+        "Pancreas"
       ],
       "correctAnswer": "Stomach"
     },
@@ -1400,9 +1400,9 @@
       "id": 127,
       "question": "What is the function of mucus secreted by the stomach?",
       "options": [
-        "Digests proteins",
-        "Protects the stomach from pepsin and HCl",
         "Emulsifies fats",
+        "Protects the stomach from pepsin and HCl",
+        "Digests proteins",
         "Neutralizes acid"
       ],
       "correctAnswer": "Protects the stomach from pepsin and HCl"
@@ -1411,10 +1411,10 @@
       "id": 128,
       "question": "Which gland secretes pancreatic amylase?",
       "options": [
-        "Salivary glands",
-        "Liver",
+        "Stomach",
         "Pancreas",
-        "Stomach"
+        "Liver",
+        "Salivary glands"
       ],
       "correctAnswer": "Pancreas"
     },
@@ -1433,10 +1433,10 @@
       "id": 130,
       "question": "What is the function of the gallbladder?",
       "options": [
-        "Produces bile",
         "Stores and secretes concentrated bile from the liver",
         "Produces lipase",
-        "Absorbs nutrients"
+        "Absorbs nutrients",
+        "Produces bile"
       ],
       "correctAnswer": "Stores and secretes concentrated bile from the liver"
     },
@@ -1444,10 +1444,10 @@
       "id": 131,
       "question": "What does the large intestine secrete?",
       "options": [
-        "Enzymes",
-        "Bile",
         "Mucus",
-        "Bicarbonate"
+        "Bile",
+        "Bicarbonate",
+        "Enzymes"
       ],
       "correctAnswer": "Mucus"
     },
@@ -1455,10 +1455,10 @@
       "id": 132,
       "question": "How many litres of saliva are produced daily?",
       "options": [
-        "0.5 to 1 litre",
+        "3 to 4 litres",
         "1 to 2 litres",
-        "2 to 3 litres",
-        "3 to 4 litres"
+        "0.5 to 1 litre",
+        "2 to 3 litres"
       ],
       "correctAnswer": "1 to 2 litres"
     },
@@ -1466,10 +1466,10 @@
       "id": 133,
       "question": "How much gastric juice is stored and produced daily?",
       "options": [
-        "1 to 2 L",
-        "2 to 4 L",
+        "0.5 to 1 L",
         "4 to 6 L",
-        "0.5 to 1 L"
+        "2 to 4 L",
+        "1 to 2 L"
       ],
       "correctAnswer": "2 to 4 L"
     },
@@ -1477,10 +1477,10 @@
       "id": 134,
       "question": "What does nuclease digest?",
       "options": [
-        "Proteins",
-        "Carbohydrates",
         "Nucleic acids",
-        "Lipids"
+        "Lipids",
+        "Carbohydrates",
+        "Proteins"
       ],
       "correctAnswer": "Nucleic acids"
     },
@@ -1488,10 +1488,10 @@
       "id": 135,
       "question": "What is another name for glycerol?",
       "options": [
-        "Propanetriol",
+        "Propanol",
         "Propanediol",
         "Propanoic acid",
-        "Propanol"
+        "Propanetriol"
       ],
       "correctAnswer": "Propanetriol"
     }

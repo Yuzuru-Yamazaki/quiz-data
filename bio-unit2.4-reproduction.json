@@ -14,9 +14,9 @@
       "id": 1,
       "question": "What group of non-flowering plants are gymnosperms classified as?",
       "options": [
-        "Higher seed-bearing non-flowering plants",
-        "Lower seedless plants",
         "Flowering plants",
+        "Lower seedless plants",
+        "Higher seed-bearing non-flowering plants",
         "Non-vascular plants"
       ],
       "correctAnswer": "Higher seed-bearing non-flowering plants"
@@ -25,9 +25,9 @@
       "id": 2,
       "question": "What type of trees are common gymnosperms in Ethiopia mentioned in the textbook?",
       "options": [
+        "Mango and Avocado",
         "Acacia and Eucalyptus",
         "Podocarpus falcatus (Zigba) and Juniperus procera (Tid)",
-        "Mango and Avocado",
         "Pine and Oak"
       ],
       "correctAnswer": "Podocarpus falcatus (Zigba) and Juniperus procera (Tid)"
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "What group of gymnosperms do pine trees belong to?",
       "options": [
-        "Cycads",
-        "Conifers",
         "Gnetophytes",
-        "Fern allies"
+        "Fern allies",
+        "Cycads",
+        "Conifers"
       ],
       "correctAnswer": "Conifers"
     },
@@ -47,10 +47,10 @@
       "id": 4,
       "question": "Does a pine tree have male and female cones on one plant or separate plants?",
       "options": [
-        "Separate plants",
         "Both male and female cones on one plant",
-        "Only one type per tree",
-        "Neither"
+        "Neither",
+        "Separate plants",
+        "Only one type per tree"
       ],
       "correctAnswer": "Both male and female cones on one plant"
     },
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "What is the process called when pollen is transferred from the male cone to the female cone in pine trees?",
       "options": [
-        "Fertilization",
-        "Pollination",
         "Germination",
-        "Translocation"
+        "Translocation",
+        "Fertilization",
+        "Pollination"
       ],
       "correctAnswer": "Pollination"
     },
@@ -70,9 +70,9 @@
       "question": "What helps pollination in pine trees?",
       "options": [
         "Insects",
-        "Wind",
+        "Animals",
         "Water",
-        "Animals"
+        "Wind"
       ],
       "correctAnswer": "Wind"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "What forms after pollination in pine trees?",
       "options": [
+        "Seed coat",
         "Fruit",
-        "Pollen tube",
         "Leaf",
-        "Seed coat"
+        "Pollen tube"
       ],
       "correctAnswer": "Pollen tube"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What does the generative cell of the pollen grain divide into as it approaches the female cone?",
       "options": [
-        "Two egg cells",
         "Two sperm cells",
-        "Four pollen grains",
-        "Two ovules"
+        "Two ovules",
+        "Two egg cells",
+        "Four pollen grains"
       ],
       "correctAnswer": "Two sperm cells"
     },
@@ -102,9 +102,9 @@
       "id": 9,
       "question": "How many ovules does the female cone contain per scale?",
       "options": [
-        "One",
         "Two",
         "Four",
+        "One",
         "Many"
       ],
       "correctAnswer": "Two"
@@ -115,8 +115,8 @@
       "options": [
         "Four",
         "Three",
-        "One",
-        "Two"
+        "Two",
+        "One"
       ],
       "correctAnswer": "One"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What is an archegonium?",
       "options": [
-        "A male reproductive structure",
-        "A reproductive structure that contains a single large egg",
         "A type of pollen grain",
-        "A seed covering"
+        "A reproductive structure that contains a single large egg",
+        "A seed covering",
+        "A male reproductive structure"
       ],
       "correctAnswer": "A reproductive structure that contains a single large egg"
     },
@@ -135,10 +135,10 @@
       "id": 12,
       "question": "What is formed when one sperm cell fuses with the egg in gymnosperms?",
       "options": [
-        "An ovule",
         "A zygote",
+        "A fruit",
         "A seed",
-        "A fruit"
+        "An ovule"
       ],
       "correctAnswer": "A zygote"
     },
@@ -146,9 +146,9 @@
       "id": 13,
       "question": "What does a zygote in gymnosperms develop into?",
       "options": [
-        "A fruit",
         "A seed embryo inside the female cone",
         "An endosperm",
+        "A fruit",
         "A pollen grain"
       ],
       "correctAnswer": "A seed embryo inside the female cone"
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "How is a mature seed liberated from the female cone?",
       "options": [
-        "By animal ingestion",
         "Upon drying and opening of the female cone",
-        "By wind breaking the cone",
-        "By water dissolving the cone"
+        "By water dissolving the cone",
+        "By animal ingestion",
+        "By wind breaking the cone"
       ],
       "correctAnswer": "Upon drying and opening of the female cone"
     },
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "What shape are the leaves of most conifers?",
       "options": [
-        "Broad and flat",
         "Narrow and needle-shaped with thick cuticle",
+        "Heart-shaped",
         "Round and waxy",
-        "Heart-shaped"
+        "Broad and flat"
       ],
       "correctAnswer": "Narrow and needle-shaped with thick cuticle"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "What enables conifers to live in extremely cold and hot environments?",
       "options": [
-        "Their broad leaves",
+        "Their large flowers",
         "Their narrow needle-shaped leaves with thick cuticle",
-        "Their deep roots",
-        "Their large flowers"
+        "Their broad leaves",
+        "Their deep roots"
       ],
       "correctAnswer": "Their narrow needle-shaped leaves with thick cuticle"
     },
@@ -190,10 +190,10 @@
       "id": 17,
       "question": "Are conifers evergreen or deciduous?",
       "options": [
+        "They shed leaves seasonally",
         "Deciduous",
-        "Evergreen",
         "Semi-evergreen",
-        "They shed leaves seasonally"
+        "Evergreen"
       ],
       "correctAnswer": "Evergreen"
     },
@@ -201,9 +201,9 @@
       "id": 18,
       "question": "Do conifers shade their leaves in winter and summer?",
       "options": [
-        "Yes, they shade in winter",
         "Yes, they shade in summer",
         "No, they do not shade their leaves in winter or summer",
+        "Yes, they shade in winter",
         "They only shade in autumn"
       ],
       "correctAnswer": "No, they do not shade their leaves in winter or summer"
@@ -213,8 +213,8 @@
       "question": "What is the flower in angiosperms?",
       "options": [
         "The root structure",
-        "The reproductive organ",
         "The food storage organ",
+        "The reproductive organ",
         "The transport organ"
       ],
       "correctAnswer": "The reproductive organ"
@@ -223,8 +223,8 @@
       "id": 20,
       "question": "What are the four floral parts of a typical flower?",
       "options": [
-        "Sepals, petals, stamen and pistil",
         "Root, stem, leaf and flower",
+        "Sepals, petals, stamen and pistil",
         "Calyx, corolla, petal and sepal",
         "Ovary, style, stigma and ovule"
       ],
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "What is the collective term for all sepals?",
       "options": [
+        "Gynoecium",
         "Corolla",
         "Calyx",
-        "Androecium",
-        "Gynoecium"
+        "Androecium"
       ],
       "correctAnswer": "Calyx"
     },
@@ -256,9 +256,9 @@
       "id": 23,
       "question": "What is the function of petals?",
       "options": [
-        "To protect the flower bud",
-        "Mostly brightly coloured to attract pollinating agents like insects",
         "To produce pollen",
+        "Mostly brightly coloured to attract pollinating agents like insects",
+        "To protect the flower bud",
         "To receive pollen"
       ],
       "correctAnswer": "Mostly brightly coloured to attract pollinating agents like insects"
@@ -267,8 +267,8 @@
       "id": 24,
       "question": "What is the collective term for all petals?",
       "options": [
-        "Calyx",
         "Corolla",
+        "Calyx",
         "Androecium",
         "Carpel"
       ],
@@ -278,10 +278,10 @@
       "id": 25,
       "question": "What is the male part of a flower called?",
       "options": [
-        "Pistil",
-        "Stamen (Androecium)",
         "Carpel",
-        "Calyx"
+        "Calyx",
+        "Pistil",
+        "Stamen (Androecium)"
       ],
       "correctAnswer": "Stamen (Androecium)"
     },
@@ -289,10 +289,10 @@
       "id": 26,
       "question": "What are the parts of the stamen?",
       "options": [
-        "Ovary and ovule",
         "Filament and bilobed anther",
-        "Style and stigma",
-        "Sepals and petals"
+        "Sepals and petals",
+        "Ovary and ovule",
+        "Style and stigma"
       ],
       "correctAnswer": "Filament and bilobed anther"
     },
@@ -300,10 +300,10 @@
       "id": 27,
       "question": "What is the female part of a flower called?",
       "options": [
-        "Stamen",
-        "Pistil (Gynoecium or carpel)",
         "Anther",
-        "Filament"
+        "Filament",
+        "Pistil (Gynoecium or carpel)",
+        "Stamen"
       ],
       "correctAnswer": "Pistil (Gynoecium or carpel)"
     },
@@ -311,10 +311,10 @@
       "id": 28,
       "question": "What are the parts of the pistil?",
       "options": [
+        "Calyx and corolla",
         "Filament and anther",
-        "Ovary with ovules, style and stigma",
         "Sepals and petals",
-        "Calyx and corolla"
+        "Ovary with ovules, style and stigma"
       ],
       "correctAnswer": "Ovary with ovules, style and stigma"
     },
@@ -323,8 +323,8 @@
       "question": "What is a complete flower?",
       "options": [
         "A flower that has only male parts",
-        "A flower that has all four floral parts",
         "A flower that lacks petals",
+        "A flower that has all four floral parts",
         "A flower that lacks sepals"
       ],
       "correctAnswer": "A flower that has all four floral parts"
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "What is an incomplete flower?",
       "options": [
-        "A flower that has all floral parts",
-        "A flower that does not have any one of the four floral parts",
         "A flower that has only female parts",
-        "A flower that has only male parts"
+        "A flower that has only male parts",
+        "A flower that does not have any one of the four floral parts",
+        "A flower that has all floral parts"
       ],
       "correctAnswer": "A flower that does not have any one of the four floral parts"
     },
@@ -346,8 +346,8 @@
       "options": [
         "A flower that has only sepals and petals",
         "A flower that has both stamen and pistil",
-        "A flower that lacks stamens",
-        "A flower that lacks pistils"
+        "A flower that lacks pistils",
+        "A flower that lacks stamens"
       ],
       "correctAnswer": "A flower that has both stamen and pistil"
     },
@@ -355,10 +355,10 @@
       "id": 32,
       "question": "What is an imperfect flower?",
       "options": [
-        "A flower that has both male and female parts",
-        "A flower that does not have either stamen or pistil",
+        "A flower that is brightly coloured",
         "A flower that has all four floral parts",
-        "A flower that is brightly coloured"
+        "A flower that does not have either stamen or pistil",
+        "A flower that has both male and female parts"
       ],
       "correctAnswer": "A flower that does not have either stamen or pistil"
     },
@@ -366,8 +366,8 @@
       "id": 33,
       "question": "What is a pistillate flower?",
       "options": [
-        "A flower that has stamen but no pistil",
         "A flower that has pistil but no stamen",
+        "A flower that has stamen but no pistil",
         "A flower that has both stamen and pistil",
         "A flower that has no floral parts"
       ],
@@ -377,10 +377,10 @@
       "id": 34,
       "question": "What is a staminate flower?",
       "options": [
-        "A flower that has pistil but no stamen",
         "A flower that has stamen but no pistil",
         "A flower that has all floral parts",
-        "A flower that lacks petals"
+        "A flower that lacks petals",
+        "A flower that has pistil but no stamen"
       ],
       "correctAnswer": "A flower that has stamen but no pistil"
     },
@@ -388,10 +388,10 @@
       "id": 35,
       "question": "What is pollination?",
       "options": [
-        "The fusion of gametes",
-        "The transfer of pollen grains from the anther of a stamen to the stigma of the pistil",
+        "The germination of pollen",
         "The formation of seeds",
-        "The germination of pollen"
+        "The transfer of pollen grains from the anther of a stamen to the stigma of the pistil",
+        "The fusion of gametes"
       ],
       "correctAnswer": "The transfer of pollen grains from the anther of a stamen to the stigma of the pistil"
     },
@@ -399,8 +399,8 @@
       "id": 36,
       "question": "What is self-pollination?",
       "options": [
-        "Transfer between flowers on different plants",
         "Transfer between stamen and pistil on one flower or between flowers on one plant",
+        "Transfer between flowers on different plants",
         "Transfer by wind only",
         "Transfer by insects only"
       ],
@@ -410,10 +410,10 @@
       "id": 37,
       "question": "What is cross-pollination?",
       "options": [
-        "Transfer within the same flower",
+        "Transfer without any agent",
         "Transfer between two flowers on different plants",
-        "Transfer by the same plant",
-        "Transfer without any agent"
+        "Transfer within the same flower",
+        "Transfer by the same plant"
       ],
       "correctAnswer": "Transfer between two flowers on different plants"
     },
@@ -421,9 +421,9 @@
       "id": 38,
       "question": "What do pollen grains landing on the stigma form?",
       "options": [
-        "Seeds",
-        "Pollen tubes that grow down the style",
         "Fruits",
+        "Pollen tubes that grow down the style",
+        "Seeds",
         "Roots"
       ],
       "correctAnswer": "Pollen tubes that grow down the style"
@@ -432,10 +432,10 @@
       "id": 39,
       "question": "Where does fertilization occur in flowering plants?",
       "options": [
+        "In the anther",
         "In the stigma",
         "In the ovule within the ovary",
-        "In the style",
-        "In the anther"
+        "In the style"
       ],
       "correctAnswer": "In the ovule within the ovary"
     },
@@ -444,8 +444,8 @@
       "question": "What is formed as a result of fertilization?",
       "options": [
         "An ovule",
-        "A zygote that develops into a seed embryo",
         "A fruit",
+        "A zygote that develops into a seed embryo",
         "A pollen grain"
       ],
       "correctAnswer": "A zygote that develops into a seed embryo"
@@ -455,9 +455,9 @@
       "question": "What is unique about fertilization in angiosperms?",
       "options": [
         "They do not undergo fertilization",
+        "Fertilization occurs outside the flower",
         "They exhibit double fertilization, forming endosperm",
-        "They only form a zygote",
-        "Fertilization occurs outside the flower"
+        "They only form a zygote"
       ],
       "correctAnswer": "They exhibit double fertilization, forming endosperm"
     },
@@ -465,10 +465,10 @@
       "id": 42,
       "question": "What is the endosperm?",
       "options": [
-        "The embryo of the seed",
-        "A reserve food storing structure formed by double fertilization",
         "The seed coat",
-        "The fruit wall"
+        "The fruit wall",
+        "The embryo of the seed",
+        "A reserve food storing structure formed by double fertilization"
       ],
       "correctAnswer": "A reserve food storing structure formed by double fertilization"
     },
@@ -476,10 +476,10 @@
       "id": 43,
       "question": "What does the ovule mature into after fertilization?",
       "options": [
-        "A fruit",
-        "A seed",
+        "A root",
         "A flower",
-        "A root"
+        "A fruit",
+        "A seed"
       ],
       "correctAnswer": "A seed"
     },
@@ -488,9 +488,9 @@
       "question": "What does the ovary mature into after fertilization?",
       "options": [
         "A seed",
-        "A fruit",
         "A flower",
-        "A stem"
+        "A stem",
+        "A fruit"
       ],
       "correctAnswer": "A fruit"
     },
@@ -499,9 +499,9 @@
       "question": "How are seeds described in relation to ovules and fruits in relation to ovaries?",
       "options": [
         "Seed is a matured ovule while fruit is a matured ovary",
-        "Seed is a matured ovary while fruit is a matured ovule",
+        "Seed is a flower and fruit is a stem",
         "Both are the same",
-        "Seed is a flower and fruit is a stem"
+        "Seed is a matured ovary while fruit is a matured ovule"
       ],
       "correctAnswer": "Seed is a matured ovule while fruit is a matured ovary"
     },
@@ -510,9 +510,9 @@
       "question": "What is seed dispersal?",
       "options": [
         "The formation of seeds",
-        "A mechanism of scattering seeds away from the parent plant",
         "The germination of seeds",
-        "The fusion of gametes"
+        "The fusion of gametes",
+        "A mechanism of scattering seeds away from the parent plant"
       ],
       "correctAnswer": "A mechanism of scattering seeds away from the parent plant"
     },
@@ -520,10 +520,10 @@
       "id": 47,
       "question": "What agents are involved in seed dispersal like pollination?",
       "options": [
-        "Only wind",
         "Animals or wind",
         "Only water",
-        "Only insects"
+        "Only insects",
+        "Only wind"
       ],
       "correctAnswer": "Animals or wind"
     },
@@ -531,10 +531,10 @@
       "id": 48,
       "question": "What is a dormant seed?",
       "options": [
-        "A seed that is germinating",
-        "An inactive seed waiting for favourable conditions to start germination",
         "A seed that has died",
-        "A seed that has no embryo"
+        "An inactive seed waiting for favourable conditions to start germination",
+        "A seed that has no embryo",
+        "A seed that is germinating"
       ],
       "correctAnswer": "An inactive seed waiting for favourable conditions to start germination"
     },
@@ -542,9 +542,9 @@
       "id": 49,
       "question": "What is seed germination?",
       "options": [
+        "The formation of flowers",
         "The scattering of seeds",
         "The process where seed embryo starts to develop into a seedling",
-        "The formation of flowers",
         "The ripening of fruit"
       ],
       "correctAnswer": "The process where seed embryo starts to develop into a seedling"
@@ -553,9 +553,9 @@
       "id": 50,
       "question": "What breaks seed dormancy?",
       "options": [
+        "Cold temperatures",
         "Lack of water",
         "Enough water and nutrients",
-        "Cold temperatures",
         "Darkness"
       ],
       "correctAnswer": "Enough water and nutrients"

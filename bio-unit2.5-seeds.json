@@ -14,10 +14,10 @@
       "id": 1,
       "question": "What are the three parts of a seed?",
       "options": [
+        "Epicotyl, hypocotyl and cotyledon",
         "Seed coat, fruit and flower",
-        "Seed embryo, cotyledon/endosperm and seed coat",
         "Radicle, plumule and root",
-        "Epicotyl, hypocotyl and cotyledon"
+        "Seed embryo, cotyledon/endosperm and seed coat"
       ],
       "correctAnswer": "Seed embryo, cotyledon/endosperm and seed coat"
     },
@@ -25,9 +25,9 @@
       "id": 2,
       "question": "What is the seed additionally covered by in angiosperms?",
       "options": [
-        "The seed coat only",
         "The fruit",
         "The cone",
+        "The seed coat only",
         "The flower"
       ],
       "correctAnswer": "The fruit"
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "Why are angiosperm seeds called covered seeds?",
       "options": [
-        "They have a thick seed coat",
-        "They are additionally covered by the fruit",
         "They are covered by cones",
-        "They are covered by leaves"
+        "They are covered by leaves",
+        "They have a thick seed coat",
+        "They are additionally covered by the fruit"
       ],
       "correctAnswer": "They are additionally covered by the fruit"
     },
@@ -47,10 +47,10 @@
       "id": 4,
       "question": "What are gymnosperm seeds called because they have nothing except their own seed coat?",
       "options": [
-        "Covered seeds",
         "Naked seeds",
         "Protected seeds",
-        "Shelled seeds"
+        "Shelled seeds",
+        "Covered seeds"
       ],
       "correctAnswer": "Naked seeds"
     },
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "What does the seed embryo consist of?",
       "options": [
-        "Cotyledon and endosperm",
+        "Stem and leaves",
         "Radicle, epicotyl, hypocotyl and plumule",
-        "Seed coat and fruit",
-        "Stem and leaves"
+        "Cotyledon and endosperm",
+        "Seed coat and fruit"
       ],
       "correctAnswer": "Radicle, epicotyl, hypocotyl and plumule"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "What does the radicle develop into?",
       "options": [
-        "Future shoot",
         "Future root",
-        "Future leaf",
-        "Future flower"
+        "Future shoot",
+        "Future flower",
+        "Future leaf"
       ],
       "correctAnswer": "Future root"
     },
@@ -81,9 +81,9 @@
       "question": "What does the plumule develop into?",
       "options": [
         "Future root",
-        "Future shoot",
         "Future seed",
-        "Future fruit"
+        "Future fruit",
+        "Future shoot"
       ],
       "correctAnswer": "Future shoot"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What is the function of cotyledon and endosperm?",
       "options": [
+        "They help in seed dispersal",
         "They form the seed coat",
-        "They are food storing tissues essential for the seed embryo until it forms leaf and starts manufacturing its own food",
         "They attract pollinators",
-        "They help in seed dispersal"
+        "They are food storing tissues essential for the seed embryo until it forms leaf and starts manufacturing its own food"
       ],
       "correctAnswer": "They are food storing tissues essential for the seed embryo until it forms leaf and starts manufacturing its own food"
     },
@@ -102,8 +102,8 @@
       "id": 9,
       "question": "How many cotyledons does a dicot seed have?",
       "options": [
-        "One",
         "Two",
+        "One",
         "Three",
         "Many"
       ],
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "How many cotyledons does a monocot seed have?",
       "options": [
-        "Two",
-        "Three",
         "One",
-        "None"
+        "None",
+        "Three",
+        "Two"
       ],
       "correctAnswer": "One"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "How are dicot cotyledons described in terms of food storage?",
       "options": [
-        "Thin and lack food materials",
+        "Hard and dry",
         "Fleshy and store food materials",
         "Absent",
-        "Hard and dry"
+        "Thin and lack food materials"
       ],
       "correctAnswer": "Fleshy and store food materials"
     },
@@ -135,10 +135,10 @@
       "id": 12,
       "question": "How are monocot cotyledons described in terms of food storage?",
       "options": [
-        "Fleshy and store food",
         "Very thin and lack food materials",
-        "They are absent",
-        "They store large amounts of food"
+        "They store large amounts of food",
+        "Fleshy and store food",
+        "They are absent"
       ],
       "correctAnswer": "Very thin and lack food materials"
     },
@@ -146,9 +146,9 @@
       "id": 13,
       "question": "What is the status of endosperm in dicot seeds?",
       "options": [
-        "Large and well developed",
         "Absent",
         "Small",
+        "Large and well developed",
         "Scattered"
       ],
       "correctAnswer": "Absent"
@@ -158,9 +158,9 @@
       "question": "What is the status of endosperm in monocot seeds?",
       "options": [
         "Absent",
+        "Present but not developed",
         "Large and well developed",
-        "Very small",
-        "Present but not developed"
+        "Very small"
       ],
       "correctAnswer": "Large and well developed"
     },
@@ -170,8 +170,8 @@
       "options": [
         "It persists throughout life",
         "It bears many lateral roots",
-        "It is replaced by adventitious fibrous roots",
-        "It grows deep into the soil"
+        "It grows deep into the soil",
+        "It is replaced by adventitious fibrous roots"
       ],
       "correctAnswer": "It is replaced by adventitious fibrous roots"
     },
@@ -180,9 +180,9 @@
       "question": "What does the primary root produced from the radicle in dicot seeds do?",
       "options": [
         "It is replaced by adventitious roots",
-        "It bears many lateral roots",
         "It dies quickly",
-        "It becomes a fibrous root system"
+        "It becomes a fibrous root system",
+        "It bears many lateral roots"
       ],
       "correctAnswer": "It bears many lateral roots"
     }

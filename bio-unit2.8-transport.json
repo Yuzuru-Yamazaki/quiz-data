@@ -14,10 +14,10 @@
       "id": 1,
       "question": "What are the transporting vessels of higher plants collectively called?",
       "options": [
-        "Veins",
         "Vascular bundles",
+        "Fibres",
         "Capillaries",
-        "Fibres"
+        "Veins"
       ],
       "correctAnswer": "Vascular bundles"
     },
@@ -27,8 +27,8 @@
       "options": [
         "Xylem and phloem",
         "Root and stem",
-        "Leaf and flower",
-        "Cortex and pith"
+        "Cortex and pith",
+        "Leaf and flower"
       ],
       "correctAnswer": "Xylem and phloem"
     },
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "What does xylem transport?",
       "options": [
-        "Food from leaves to roots",
         "Water and minerals from root to leaf",
-        "Only minerals",
-        "Only water"
+        "Food from leaves to roots",
+        "Only water",
+        "Only minerals"
       ],
       "correctAnswer": "Water and minerals from root to leaf"
     },
@@ -49,8 +49,8 @@
       "options": [
         "Living cells arranged end to end",
         "Elongated dead cells joined end to end to form continuous vessels",
-        "Thin-walled parenchyma cells",
-        "Meristematic cells"
+        "Meristematic cells",
+        "Thin-walled parenchyma cells"
       ],
       "correctAnswer": "Elongated dead cells joined end to end to form continuous vessels"
     },
@@ -59,9 +59,9 @@
       "question": "What does phloem transport?",
       "options": [
         "Water and minerals",
+        "Only minerals",
         "Organic matter (food) manufactured in the leaf to the rest of the plant",
-        "Only water",
-        "Only minerals"
+        "Only water"
       ],
       "correctAnswer": "Organic matter (food) manufactured in the leaf to the rest of the plant"
     },
@@ -71,8 +71,8 @@
       "options": [
         "Dead cells arranged end to end",
         "Living cells arranged end to end",
-        "Single cells with no connections",
-        "Elongated dead cells"
+        "Elongated dead cells",
+        "Single cells with no connections"
       ],
       "correctAnswer": "Living cells arranged end to end"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "What is the transport of food through phloem called?",
       "options": [
-        "Transpiration",
-        "Translocation",
         "Photosynthesis",
-        "Absorption"
+        "Transpiration",
+        "Absorption",
+        "Translocation"
       ],
       "correctAnswer": "Translocation"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What substances does phloem transport?",
       "options": [
+        "Only amino acids",
         "Water and minerals",
         "Sucrose and amino acids",
-        "Only sucrose",
-        "Only amino acids"
+        "Only sucrose"
       ],
       "correctAnswer": "Sucrose and amino acids"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "Can phloem transport food up and down the plant?",
       "options": [
-        "No, only upward",
         "No, only downward",
-        "Yes, both up and down",
-        "Only horizontally"
+        "Only horizontally",
+        "No, only upward",
+        "Yes, both up and down"
       ],
       "correctAnswer": "Yes, both up and down"
     },
@@ -115,8 +115,8 @@
       "options": [
         "Only xylem",
         "Translocation through phloem",
-        "Only roots",
-        "Only leaves"
+        "Only leaves",
+        "Only roots"
       ],
       "correctAnswer": "Translocation through phloem"
     },
@@ -125,8 +125,8 @@
       "question": "Why is the stem of sugar cane so sweet?",
       "options": [
         "It contains more water",
-        "Sugars synthesized in the leaf are converted to starch and accumulated in storage organs",
         "It produces sugar directly",
+        "Sugars synthesized in the leaf are converted to starch and accumulated in storage organs",
         "It absorbs sugar from soil"
       ],
       "correctAnswer": "Sugars synthesized in the leaf are converted to starch and accumulated in storage organs"
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "How does water from the soil first enter the root?",
       "options": [
-        "Through the root cap",
         "Through root hairs, which are elongated single cells",
-        "Through the endodermis",
-        "Through the pericycle"
+        "Through the pericycle",
+        "Through the root cap",
+        "Through the endodermis"
       ],
       "correctAnswer": "Through root hairs, which are elongated single cells"
     },
@@ -158,8 +158,8 @@
       "question": "What do root hairs provide that allows more water to enter the root?",
       "options": [
         "A thick barrier",
-        "A large surface area",
         "A waterproof layer",
+        "A large surface area",
         "A selective filter"
       ],
       "correctAnswer": "A large surface area"
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "What is the process of water and minerals entering the root called?",
       "options": [
+        "Photosynthesis",
         "Translocation",
-        "Absorption",
         "Transpiration",
-        "Photosynthesis"
+        "Absorption"
       ],
       "correctAnswer": "Absorption"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "How does water pass from cell to cell across the root?",
       "options": [
-        "Only by osmosis",
-        "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall",
+        "Only by diffusion",
         "Only by active transport",
-        "Only by diffusion"
+        "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall",
+        "Only by osmosis"
       ],
       "correctAnswer": "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall"
     },
@@ -190,10 +190,10 @@
       "id": 17,
       "question": "Does water pass actively or passively across the root cells?",
       "options": [
-        "Actively (spending energy)",
-        "Passively (without spending additional energy)",
         "Both actively and passively",
-        "Neither"
+        "Neither",
+        "Actively (spending energy)",
+        "Passively (without spending additional energy)"
       ],
       "correctAnswer": "Passively (without spending additional energy)"
     },
@@ -201,10 +201,10 @@
       "id": 18,
       "question": "What is the main force responsible for pulling water from root to leaves through xylem?",
       "options": [
+        "Osmotic pressure",
         "Root pressure",
         "Transpiration pull",
-        "Capillary action",
-        "Osmotic pressure"
+        "Capillary action"
       ],
       "correctAnswer": "Transpiration pull"
     },
@@ -212,9 +212,9 @@
       "id": 19,
       "question": "What creates the transpiration pull?",
       "options": [
-        "Root absorption",
-        "Water evaporating from leaves",
         "Wind blowing",
+        "Water evaporating from leaves",
+        "Root absorption",
         "Soil water pressure"
       ],
       "correctAnswer": "Water evaporating from leaves"
@@ -223,10 +223,10 @@
       "id": 20,
       "question": "What helps resist the downward pull of gravity on water in the xylem?",
       "options": [
-        "Root pressure",
-        "Adhesion of water to the cell wall by hydrogen bonds",
+        "Active transport",
         "Osmosis",
-        "Active transport"
+        "Root pressure",
+        "Adhesion of water to the cell wall by hydrogen bonds"
       ],
       "correctAnswer": "Adhesion of water to the cell wall by hydrogen bonds"
     },
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "In what form do minerals enter the root?",
       "options": [
-        "Solid form",
         "Ionic (charged) form",
+        "Molecular form",
         "Gaseous form",
-        "Molecular form"
+        "Solid form"
       ],
       "correctAnswer": "Ionic (charged) form"
     },
@@ -258,8 +258,8 @@
       "options": [
         "Passively by diffusion",
         "Actively by cell spending energy against a concentration gradient",
-        "By osmosis",
-        "By transpiration pull"
+        "By transpiration pull",
+        "By osmosis"
       ],
       "correctAnswer": "Actively by cell spending energy against a concentration gradient"
     },
@@ -268,9 +268,9 @@
       "question": "What is the ringing or girdling experiment used to demonstrate?",
       "options": [
         "Water transport through xylem",
+        "Transpiration",
         "Food transport through phloem",
-        "Root absorption",
-        "Transpiration"
+        "Root absorption"
       ],
       "correctAnswer": "Food transport through phloem"
     },
@@ -278,9 +278,9 @@
       "id": 25,
       "question": "What happens in the ringing experiment?",
       "options": [
-        "The xylem is removed",
-        "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts",
         "The whole stem is cut",
+        "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts",
+        "The xylem is removed",
         "The leaves are removed"
       ],
       "correctAnswer": "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts"
@@ -289,10 +289,10 @@
       "id": 26,
       "question": "What is observed in the upper part of the girdled area after a few days?",
       "options": [
-        "The plant dies immediately",
         "A swelling due to accumulation of food materials translocated from the leaf",
-        "New roots grow",
-        "The stem turns green"
+        "The stem turns green",
+        "The plant dies immediately",
+        "New roots grow"
       ],
       "correctAnswer": "A swelling due to accumulation of food materials translocated from the leaf"
     },
@@ -300,10 +300,10 @@
       "id": 27,
       "question": "What are aphids?",
       "options": [
-        "A type of fungus",
-        "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap",
         "A type of bacteria",
-        "A type of root nodule"
+        "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap",
+        "A type of root nodule",
+        "A type of fungus"
       ],
       "correctAnswer": "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap"
     },
@@ -313,8 +313,8 @@
       "options": [
         "It will grow faster",
         "It will die because of disruption of food transport through the phloem",
-        "It will produce more fruit",
-        "It will develop a new phloem layer"
+        "It will develop a new phloem layer",
+        "It will produce more fruit"
       ],
       "correctAnswer": "It will die because of disruption of food transport through the phloem"
     },
@@ -322,9 +322,9 @@
       "id": 29,
       "question": "Which part of a ringed plant dies first?",
       "options": [
-        "The leaves",
-        "The shoot tip",
         "The root",
+        "The shoot tip",
+        "The leaves",
         "The stem"
       ],
       "correctAnswer": "The root"
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "Why does the root of a ringed plant die first?",
       "options": [
-        "Because water supply is cut off",
+        "Because minerals are not absorbed",
         "Because supply of food to the root is discontinued",
-        "Because oxygen supply is cut off",
-        "Because minerals are not absorbed"
+        "Because water supply is cut off",
+        "Because oxygen supply is cut off"
       ],
       "correctAnswer": "Because supply of food to the root is discontinued"
     },
@@ -344,10 +344,10 @@
       "id": 31,
       "question": "What type of transport occurs through the phloem?",
       "options": [
-        "Passive transport",
         "Active transport where living phloem cells use energy obtained by metabolic process",
+        "Osmosis only",
         "Diffusion only",
-        "Osmosis only"
+        "Passive transport"
       ],
       "correctAnswer": "Active transport where living phloem cells use energy obtained by metabolic process"
     }

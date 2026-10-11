@@ -15,10 +15,10 @@
       "anki": true,
       "question": "Ethical issues in biology concern ____.",
       "options": [
-        "the cost of building research laboratories",
-        "the number of species in an ecosystem",
+        "the speed of technological devices",
         "the rightness or wrongness of using biological discoveries for the health and wellbeing of humans",
-        "the speed of technological devices"
+        "the number of species in an ecosystem",
+        "the cost of building research laboratories"
       ],
       "correctAnswer": "the rightness or wrongness of using biological discoveries for the health and wellbeing of humans"
     },
@@ -27,10 +27,10 @@
       "anki": true,
       "question": "Ethical issues in biology deal with concerns related to ____.",
       "options": [
-        "biotechnology, medicine, and the environment",
         "transportation, trade, and tourism",
         "mining, forestry, and fishing",
-        "sports, music, and art"
+        "sports, music, and art",
+        "biotechnology, medicine, and the environment"
       ],
       "correctAnswer": "biotechnology, medicine, and the environment"
     },
@@ -39,10 +39,10 @@
       "anki": true,
       "question": "Ethical treatment of plants and animals during biological studies is ____.",
       "options": [
+        "the process of subjecting animals and plants to various experiments and rigorous tests",
         "the process of keeping animals in zoos",
         "the study of animal habitats",
-        "the preservation of fossil records",
-        "the process of subjecting animals and plants to various experiments and rigorous tests"
+        "the preservation of fossil records"
       ],
       "correctAnswer": "the process of subjecting animals and plants to various experiments and rigorous tests"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "Plants are ____.",
       "options": [
+        "predators of small insects",
         "the main consumers of oxygen",
-        "primary producers and feeders for all living organisms",
         "decomposers of dead matter",
-        "predators of small insects"
+        "primary producers and feeders for all living organisms"
       ],
       "correctAnswer": "primary producers and feeders for all living organisms"
     },
@@ -65,8 +65,8 @@
       "options": [
         "decentralized forms without any centralized order-providing unit (brain)",
         "centralized forms led by a brain",
-        "hierarchical systems with an order-providing brain",
-        "random forms controlled by the weather"
+        "random forms controlled by the weather",
+        "hierarchical systems with an order-providing brain"
       ],
       "correctAnswer": "decentralized forms without any centralized order-providing unit (brain)"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "Subjecting plant species to severe life-threatening conditions leads to ____.",
       "options": [
-        "an increase in plant growth",
-        "stronger root systems",
         "a total disappearance of plant species",
-        "higher seed production"
+        "stronger root systems",
+        "higher seed production",
+        "an increase in plant growth"
       ],
       "correctAnswer": "a total disappearance of plant species"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Collecting seeds, berries, roots, leaves, bark or flowers for personal uses ____.",
       "options": [
+        "increases the number of plant species",
         "improves the color of the plants",
         "affects the survival of the plant species and the community that depends on the plants",
-        "helps the plants grow faster",
-        "increases the number of plant species"
+        "helps the plants grow faster"
       ],
       "correctAnswer": "affects the survival of the plant species and the community that depends on the plants"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "Which of the following is an unethical treatment of plants?",
       "options": [
-        "Planting more trees",
+        "Testing seeds or berries through destructive rays",
         "Conserving seeds and fruits",
-        "Watering seedlings regularly",
-        "Testing seeds or berries through destructive rays"
+        "Planting more trees",
+        "Watering seedlings regularly"
       ],
       "correctAnswer": "Testing seeds or berries through destructive rays"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "Which of the following is an unethical treatment of plants?",
       "options": [
-        "Cutting tree terminals for experiments",
         "Caring for endangered plant species",
+        "Conserving seeds for future use",
         "Planting trees as a national responsibility",
-        "Conserving seeds for future use"
+        "Cutting tree terminals for experiments"
       ],
       "correctAnswer": "Cutting tree terminals for experiments"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "Which of the following is an unethical treatment of plants?",
       "options": [
-        "Saving jeopardized plant species",
-        "Planting seedlings in a forest",
+        "Protecting plant habitats",
         "Consumption of all seeds and fruits without conservation",
-        "Protecting plant habitats"
+        "Saving jeopardized plant species",
+        "Planting seedlings in a forest"
       ],
       "correctAnswer": "Consumption of all seeds and fruits without conservation"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "Which of the following is an unethical treatment of plants?",
       "options": [
-        "Planting trees in degraded lands",
+        "Caring for tree species",
         "Burning forests and seedlings for farmlands",
         "Preventing deforestation",
-        "Caring for tree species"
+        "Planting trees in degraded lands"
       ],
       "correctAnswer": "Burning forests and seedlings for farmlands"
     },
@@ -147,8 +147,8 @@
       "anki": true,
       "question": "Which of the following is an unethical treatment of plants?",
       "options": [
-        "Respecting the physical materials of plants",
         "Conserving the bark and roots of trees",
+        "Respecting the physical materials of plants",
         "Using seeds for conservation",
         "Restructuring the shapes of trees for aesthetic appeal"
       ],
@@ -160,9 +160,9 @@
       "question": "Unplanned cutting of trees or deforestation is ____.",
       "options": [
         "an unethical treatment of plants",
-        "a national responsibility",
         "an ethical treatment of plants",
-        "a conservation strategy"
+        "a conservation strategy",
+        "a national responsibility"
       ],
       "correctAnswer": "an unethical treatment of plants"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Care for plants is an ethical treatment that is important for ____.",
       "options": [
-        "reducing agricultural output",
-        "increasing pollution",
         "saving the jeopardized species and conserving them for our common future",
-        "speeding up deforestation"
+        "increasing pollution",
+        "speeding up deforestation",
+        "reducing agricultural output"
       ],
       "correctAnswer": "saving the jeopardized species and conserving them for our common future"
     },
@@ -195,9 +195,9 @@
       "anki": true,
       "question": "Animals are sentient creatures that ____.",
       "options": [
-        "lack the ability to feel any sensation",
-        "function without any form of stress",
         "have no interests or values",
+        "function without any form of stress",
+        "lack the ability to feel any sensation",
         "have a nervous system, feel painful feelings and emotional stress, and have interests and values"
       ],
       "correctAnswer": "have a nervous system, feel painful feelings and emotional stress, and have interests and values"
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "The ethical treatment of animals is a moral question of ____.",
       "options": [
-        "whether it is acceptable to harm animals for scientific research",
         "how to increase the number of research animals",
-        "how to feed animals in laboratories",
-        "where to keep experimental animals"
+        "where to keep experimental animals",
+        "whether it is acceptable to harm animals for scientific research",
+        "how to feed animals in laboratories"
       ],
       "correctAnswer": "whether it is acceptable to harm animals for scientific research"
     },
@@ -221,8 +221,8 @@
       "options": [
         "it is acceptable to injure them in experiments",
         "they can be used without any restrictions",
-        "it is unethical to harm them during experiments or rigorous testing",
-        "their suffering is not a concern"
+        "their suffering is not a concern",
+        "it is unethical to harm them during experiments or rigorous testing"
       ],
       "correctAnswer": "it is unethical to harm them during experiments or rigorous testing"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "The three Rs principle used to reduce the impacts of unethical treatments of animals includes ____.",
       "options": [
-        "Recycle, Reuse, and Reduce",
         "Reduction, Refinement, and Replacement",
-        "Risk, Reward, and Research",
-        "Repair, Rebuild, and Renew"
+        "Repair, Rebuild, and Renew",
+        "Recycle, Reuse, and Reduce",
+        "Risk, Reward, and Research"
       ],
       "correctAnswer": "Reduction, Refinement, and Replacement"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "Reduction aims to minimize ____.",
       "options": [
-        "the number of experiments conducted",
+        "the number of animals used in experiments",
         "the suffering of researchers",
         "the cost of laboratory equipment",
-        "the number of animals used in experiments"
+        "the number of experiments conducted"
       ],
       "correctAnswer": "the number of animals used in experiments"
     },
@@ -255,9 +255,9 @@
       "anki": true,
       "question": "Reduction is achieved by ____.",
       "options": [
+        "repeating identical experiments many times",
         "improving experimental techniques and sharing information with others",
         "using more animals in every experiment",
-        "repeating identical experiments many times",
         "testing chemicals on larger animals"
       ],
       "correctAnswer": "improving experimental techniques and sharing information with others"
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "Refinement is cleansing experiments in a way that enables to reduce ____.",
       "options": [
-        "the number of researchers",
+        "the use of computer models",
         "the number of cell cultures",
         "suffering of animals",
-        "the use of computer models"
+        "the number of researchers"
       ],
       "correctAnswer": "suffering of animals"
     },
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "Refinement uses less invasive techniques, better medical care, and better ____.",
       "options": [
-        "training programs",
-        "living conditions",
         "feeding schedules",
-        "financial incentives"
+        "financial incentives",
+        "living conditions",
+        "training programs"
       ],
       "correctAnswer": "living conditions"
     },
@@ -291,10 +291,10 @@
       "anki": true,
       "question": "Replacement is substituting experiments on animals with alternative techniques using ____.",
       "options": [
+        "cell cultures, biosynthesis, and computer simulated models",
         "more rigorous testing procedures",
         "larger groups of animals",
-        "repeated painful experiments",
-        "cell cultures, biosynthesis, and computer simulated models"
+        "repeated painful experiments"
       ],
       "correctAnswer": "cell cultures, biosynthesis, and computer simulated models"
     },
@@ -303,10 +303,10 @@
       "anki": true,
       "question": "Which of the three Rs uses cell cultures instead of whole animals?",
       "options": [
-        "Replacement",
-        "Reduction",
         "Refinement",
-        "Reproduction"
+        "Reduction",
+        "Reproduction",
+        "Replacement"
       ],
       "correctAnswer": "Replacement"
     },
@@ -327,20 +327,20 @@
       "anki": true,
       "question": "Ethical issues in biology are concerned with respecting the values for ____.",
       "options": [
+        "only microorganisms",
         "only plants",
-        "all life forms",
         "only animals",
-        "only microorganisms"
+        "all life forms"
       ],
       "correctAnswer": "all life forms"
     },
     {
       "question": "Ethical issues in biology deal with the rightness or wrongness of using ____ on human health, lifestyles and livelihood systems.",
       "options": [
-        "biotechnological information, products, or devices",
         "geographical maps and weather charts",
         "mathematical formulas only",
-        "industrial machinery and vehicles"
+        "industrial machinery and vehicles",
+        "biotechnological information, products, or devices"
       ],
       "correctAnswer": "biotechnological information, products, or devices",
       "anki": true,
@@ -349,10 +349,10 @@
     {
       "question": "Ethical issues in biology particularly determine the right or wrong values that may affect human rights to ____.",
       "options": [
-        "equality to live freely and naturally",
         "pollute rivers and forests",
-        "sell endangered species",
-        "own research laboratories"
+        "own research laboratories",
+        "equality to live freely and naturally",
+        "sell endangered species"
       ],
       "correctAnswer": "equality to live freely and naturally",
       "anki": true,
@@ -361,8 +361,8 @@
     {
       "question": "Ethical issues in biology deal with questions related to unethicality, immorality, illegality, inequality, injustice, and ____.",
       "options": [
-        "disrespectful acts to the values and rights of someone",
         "respectful treatment of all living things",
+        "disrespectful acts to the values and rights of someone",
         "increased agricultural productivity",
         "the discovery of new medicines"
       ],
@@ -373,10 +373,10 @@
     {
       "question": "The commercialization and commodification of ____ is included among the concerns of ethical issues in biology.",
       "options": [
-        "human organs",
-        "mineral resources",
         "forest timber",
-        "marine fish"
+        "mineral resources",
+        "marine fish",
+        "human organs"
       ],
       "correctAnswer": "human organs",
       "anki": true,
@@ -385,10 +385,10 @@
     {
       "question": "Which of the following is included among the concerns of ethical issues in biology according to the unit summary?",
       "options": [
+        "The mapping of landscapes",
         "Assisted reproduction techniques",
         "The design of bullet trains",
-        "The formation of spider webs",
-        "The mapping of landscapes"
+        "The formation of spider webs"
       ],
       "correctAnswer": "Assisted reproduction techniques",
       "anki": true,
@@ -397,10 +397,10 @@
     {
       "question": "The manipulation of basic biological ____ is included among the concerns of ethical issues in biology.",
       "options": [
-        "organ systems",
         "mountain ranges",
-        "ocean currents",
-        "planetary orbits"
+        "organ systems",
+        "planetary orbits",
+        "ocean currents"
       ],
       "correctAnswer": "organ systems",
       "anki": true,
@@ -409,10 +409,10 @@
     {
       "question": "According to Inquiry activity 1.5, students invite a forester to discuss ____.",
       "options": [
-        "the unethical treatments of plants being practiced by human beings",
-        "the movement of bio-robots designed from kangaroos",
+        "the use of GPS in landscape mapping",
         "the beak shape of kingfishers used in bullet trains",
-        "the use of GPS in landscape mapping"
+        "the movement of bio-robots designed from kangaroos",
+        "the unethical treatments of plants being practiced by human beings"
       ],
       "correctAnswer": "the unethical treatments of plants being practiced by human beings",
       "anki": true,
@@ -421,9 +421,9 @@
     {
       "question": "Inquiry activity 1.5 emphasizes respecting the ____ of plants.",
       "options": [
-        "physical and biological materials",
-        "financial records and accounts",
         "electronic circuits and sensors",
+        "financial records and accounts",
+        "physical and biological materials",
         "weather forecasts and maps"
       ],
       "correctAnswer": "physical and biological materials",
@@ -457,9 +457,9 @@
     {
       "question": "According to the unit review, care for plants is ____ treatment of plant species.",
       "options": [
-        "an ethical",
-        "an unethical",
         "a dangerous",
+        "an unethical",
+        "an ethical",
         "a pointless"
       ],
       "correctAnswer": "an ethical",
@@ -469,10 +469,10 @@
     {
       "question": "Replacing experimental animals with the use of biosynthetic tissues is considered ____.",
       "options": [
-        "an ethical treatment of research animals",
         "an unethical treatment of research animals",
         "a cause of water pollution",
-        "a method of increasing food production"
+        "a method of increasing food production",
+        "an ethical treatment of research animals"
       ],
       "correctAnswer": "an ethical treatment of research animals",
       "anki": true,
@@ -481,10 +481,10 @@
     {
       "question": "According to Inquiry activity 1.6, students discuss with a zoologist the conservation of animals as ____.",
       "options": [
-        "sentient creatures",
         "primary producers",
-        "industrial products",
-        "decomposers of dead matter"
+        "decomposers of dead matter",
+        "sentient creatures",
+        "industrial products"
       ],
       "correctAnswer": "sentient creatures",
       "anki": true,
@@ -493,10 +493,10 @@
     {
       "question": "Habitat, species, and ecosystem balance is a topic discussed with a ____ in Inquiry activity 1.6.",
       "options": [
-        "zoologist",
-        "forester",
         "cartographer",
-        "meteorologist"
+        "meteorologist",
+        "zoologist",
+        "forester"
       ],
       "correctAnswer": "zoologist",
       "anki": true,
@@ -506,9 +506,9 @@
       "question": "Unethical treatments of animals in research include approaches which expose animals to ____.",
       "options": [
         "rigorous experiments that may injure or cause pain to animals",
-        "gentle handling with proper medical care",
         "clean living conditions and good nutrition",
-        "less invasive techniques and better living conditions"
+        "less invasive techniques and better living conditions",
+        "gentle handling with proper medical care"
       ],
       "correctAnswer": "rigorous experiments that may injure or cause pain to animals",
       "anki": true,

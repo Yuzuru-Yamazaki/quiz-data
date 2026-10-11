@@ -4,7 +4,11 @@
   "folder": "School/Grade 11/Mathematics/Unit 1",
   "field": "natural",
   "anki": true,
-  "tags": ["mathematics", "grade11", "unit1"],
+  "tags": [
+    "mathematics",
+    "grade11",
+    "unit1"
+  ],
   "questions": [
     {
       "id": 1,
@@ -12,9 +16,9 @@
       "question": "Any set of ordered pairs is called a:",
       "options": [
         "relation",
-        "function",
+        "range",
         "domain",
-        "range"
+        "function"
       ],
       "correctAnswer": "relation"
     },
@@ -23,10 +27,10 @@
       "anki": true,
       "question": "A relation in which every first component is related to only one corresponding second component is called a:",
       "options": [
-        "function",
         "relation",
-        "domain",
-        "coordinate"
+        "coordinate",
+        "function",
+        "domain"
       ],
       "correctAnswer": "function"
     },
@@ -36,9 +40,9 @@
       "question": "A relation $R$ is a function if whenever $(x,y)\\in R$ and $(x,z)\\in R$, then:",
       "options": [
         "$y=z$",
-        "$x=z$",
+        "$x=y$",
         "$y=z^{2}$",
-        "$x=y$"
+        "$x=z$"
       ],
       "correctAnswer": "$y=z$"
     },
@@ -47,10 +51,10 @@
       "anki": true,
       "question": "For the relation $R=\\{(-1,0),(0,-3),(2,-3),(3,0),(4,5)\\}$, which statement is correct?",
       "options": [
-        "$R$ is a function because each first component is paired with exactly one second component",
-        "$R$ is not a function because $-3$ appears twice in the range",
         "$R$ is not a function because $0$ appears twice in the domain",
-        "$R$ is not a function because it contains the negative number $-1$"
+        "$R$ is a function because each first component is paired with exactly one second component",
+        "$R$ is not a function because it contains the negative number $-1$",
+        "$R$ is not a function because $-3$ appears twice in the range"
       ],
       "correctAnswer": "$R$ is a function because each first component is paired with exactly one second component"
     },
@@ -59,10 +63,10 @@
       "anki": true,
       "question": "The relation $R=\\{(6,1),(7,3),(0,2),(6,4)\\}$ is not a function because:",
       "options": [
-        "the first component $6$ is paired with two different second components $1$ and $4$",
-        "the first component $7$ is paired with $3$",
+        "the relation contains the number $0$",
         "the second component $2$ appears only once",
-        "the relation contains the number $0$"
+        "the first component $6$ is paired with two different second components $1$ and $4$",
+        "the first component $7$ is paired with $3$"
       ],
       "correctAnswer": "the first component $6$ is paired with two different second components $1$ and $4$"
     },
@@ -72,9 +76,9 @@
       "question": "The relation $R=\\{(x,y):y=x+1\\}$ is a function because:",
       "options": [
         "for any given $x$ there is only one $y=x+1$",
-        "it contains infinitely many ordered pairs",
+        "it has no repeated first components",
         "the graph is a straight line",
-        "it has no repeated first components"
+        "it contains infinitely many ordered pairs"
       ],
       "correctAnswer": "for any given $x$ there is only one $y=x+1$"
     },
@@ -83,10 +87,10 @@
       "anki": true,
       "question": "The relation $R=\\{(x,y):x^{2}-y^{2}=0\\}$ is not a function because:",
       "options": [
-        "$(1,1)$ and $(1,-1)$ both belong to $R$ but $1\\neq -1$",
         "$(1,1)$ and $(-1,-1)$ both belong to $R$",
-        "it contains no ordered pairs with $x=0$",
-        "the equation $x^{2}-y^{2}=0$ has no real solutions"
+        "$(1,1)$ and $(1,-1)$ both belong to $R$ but $1\\neq -1$",
+        "the equation $x^{2}-y^{2}=0$ has no real solutions",
+        "it contains no ordered pairs with $x=0$"
       ],
       "correctAnswer": "$(1,1)$ and $(1,-1)$ both belong to $R$ but $1\\neq -1$"
     },
@@ -97,8 +101,8 @@
       "options": [
         "a function",
         "not a function",
-        "an exponential function",
-        "a constant function"
+        "a constant function",
+        "an exponential function"
       ],
       "correctAnswer": "a function"
     },
@@ -107,10 +111,10 @@
       "anki": true,
       "question": "Which of the following relations is a function?",
       "options": [
-        "$R=\\{(1,1),(2,3),(3,4),(5,5)\\}$",
         "$R=\\{(1,0),(1,3),(4,5),(6,6)\\}$",
-        "$R=\\{(x,y):x^{2}+y^{2}=4\\}$",
-        "$R=\\{(x,y):x^{2}+y^{2}=9\\}$"
+        "$R=\\{(x,y):x^{2}+y^{2}=9\\}$",
+        "$R=\\{(1,1),(2,3),(3,4),(5,5)\\}$",
+        "$R=\\{(x,y):x^{2}+y^{2}=4\\}$"
       ],
       "correctAnswer": "$R=\\{(1,1),(2,3),(3,4),(5,5)\\}$"
     },
@@ -119,10 +123,10 @@
       "anki": true,
       "question": "The Vertical Line Test says that a set of points in the coordinate plane represents a function exactly when:",
       "options": [
-        "every vertical line meets the graph in at most one point",
+        "the graph passes through the origin",
         "every horizontal line meets the graph in exactly one point",
-        "every vertical line meets the graph in at least two points",
-        "the graph passes through the origin"
+        "every vertical line meets the graph in at most one point",
+        "every vertical line meets the graph in at least two points"
       ],
       "correctAnswer": "every vertical line meets the graph in at most one point"
     },
@@ -131,10 +135,10 @@
       "anki": true,
       "question": "For the relation $R=\\{(x,y):y=3x+1\\}$, which statement is correct?",
       "options": [
-        "$R$ is a function because for each $x$ there is exactly one value $y=3x+1$",
         "$R$ is not a function because $y$ can be negative",
-        "$R$ is not a function because it is a linear relation",
-        "$R$ is a function because its graph passes through two axes"
+        "$R$ is a function because its graph passes through two axes",
+        "$R$ is a function because for each $x$ there is exactly one value $y=3x+1$",
+        "$R$ is not a function because it is a linear relation"
       ],
       "correctAnswer": "$R$ is a function because for each $x$ there is exactly one value $y=3x+1$"
     },
@@ -143,10 +147,10 @@
       "anki": true,
       "question": "The relation $R=\\{(x,y):x^{2}+y^{2}=9\\}$ is not a function because:",
       "options": [
-        "its graph is a circle, so the vertical line $x=0$ meets it at $(0,3)$ and $(0,-3)$",
-        "its graph is a circle, so the horizontal line $y=0$ meets it at $(3,0)$ and $(-3,0)$",
         "the number $9$ is a perfect square",
-        "the graph passes through the origin"
+        "its graph is a circle, so the horizontal line $y=0$ meets it at $(3,0)$ and $(-3,0)$",
+        "the graph passes through the origin",
+        "its graph is a circle, so the vertical line $x=0$ meets it at $(0,3)$ and $(0,-3)$"
       ],
       "correctAnswer": "its graph is a circle, so the vertical line $x=0$ meets it at $(0,3)$ and $(0,-3)$"
     },
@@ -156,8 +160,8 @@
       "question": "Using the Vertical Line Test, a vertical line can meet the graph of which relation in more than one point?",
       "options": [
         "$x=y^{2}$",
-        "$y=x^{2}$",
         "$y=2x+1$",
+        "$y=x^{2}$",
         "$y=|x|$"
       ],
       "correctAnswer": "$x=y^{2}$"
@@ -167,10 +171,10 @@
       "anki": true,
       "question": "For a relation to be a function, each first coordinate must be paired with:",
       "options": [
-        "exactly one second coordinate",
+        "any number of second coordinates",
         "at least two second coordinates",
         "no second coordinate",
-        "any number of second coordinates"
+        "exactly one second coordinate"
       ],
       "correctAnswer": "exactly one second coordinate"
     },
@@ -179,10 +183,10 @@
       "anki": true,
       "question": "If $f$ is a function from $A$ to $B$, written $f:A\\to B$, then the domain of $f$ is:",
       "options": [
-        "$A$",
-        "$B$",
         "a subset of $B$",
-        "$A\\times B$"
+        "$B$",
+        "$A\\times B$",
+        "$A$"
       ],
       "correctAnswer": "$A$"
     },
@@ -191,10 +195,10 @@
       "anki": true,
       "question": "For a function $f:A\\to B$, the range of $f$ is:",
       "options": [
-        "a subset of $B$",
-        "equal to $A$",
+        "the set $A\\times B$",
         "equal to $B$",
-        "the set $A\\times B$"
+        "a subset of $B$",
+        "equal to $A$"
       ],
       "correctAnswer": "a subset of $B$"
     },
@@ -204,8 +208,8 @@
       "question": "In the notation $y=f(x)$, if $(x,y)$ belongs to the function $f$, then $f(x)$ is read as:",
       "options": [
         "$f$ of $x$",
-        "$f$ times $x$",
         "$f$ plus $x$",
+        "$f$ times $x$",
         "$x$ of $f$"
       ],
       "correctAnswer": "$f$ of $x$"

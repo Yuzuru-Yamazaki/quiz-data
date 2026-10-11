@@ -4,16 +4,20 @@
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
-  "tags": ["agriculture", "grade11", "unit2"],
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2"
+  ],
   "questions": [
     {
       "id": 1,
       "anki": true,
       "question": "What is the scientific name of sorghum?",
       "options": [
-        "Sorghum bicolor L.",
         "Triticum aestivum L.",
         "Hordeum vulgare L.",
+        "Sorghum bicolor L.",
         "Zea mays L."
       ],
       "correctAnswer": "Sorghum bicolor L."
@@ -23,8 +27,8 @@
       "anki": true,
       "question": "Where did sorghum originate?",
       "options": [
-        "Africa",
         "The Middle East",
+        "Africa",
         "Central America",
         "The Mediterranean region"
       ],
@@ -35,10 +39,10 @@
       "anki": true,
       "question": "In which part of Africa is sorghum a staple food crop?",
       "options": [
+        "The forested regions of Central Africa",
         "The drier parts of Africa",
-        "The humid highlands of Africa",
         "The coastal regions of West Africa",
-        "The forested regions of Central Africa"
+        "The humid highlands of Africa"
       ],
       "correctAnswer": "The drier parts of Africa"
     },
@@ -47,9 +51,9 @@
       "anki": true,
       "question": "How is the sorghum stalk used in rural Ethiopia?",
       "options": [
-        "As animal feed and in constructing fences and houses",
-        "As firewood for cooking and as fuel for engines",
         "As green manure and as a cover crop",
+        "As firewood for cooking and as fuel for engines",
+        "As animal feed and in constructing fences and houses",
         "As fibre for cloth and as paper material"
       ],
       "correctAnswer": "As animal feed and in constructing fences and houses"
@@ -59,10 +63,10 @@
       "anki": true,
       "question": "At what altitudes are most sorghum producing areas of Ethiopia found?",
       "options": [
+        "$2400$ to $3000$ m above sea level",
         "$500$ to $1500$ m above sea level",
-        "$1800$ to $3000$ m above sea level",
         "$2200$ to $3000$ m above sea level",
-        "$2400$ to $3000$ m above sea level"
+        "$1800$ to $3000$ m above sea level"
       ],
       "correctAnswer": "$500$ to $1500$ m above sea level"
     },
@@ -71,10 +75,10 @@
       "anki": true,
       "question": "What kind of soil can sorghum still give reasonable yields on?",
       "options": [
-        "Soils that are too poor for other crops",
         "Deep fertile soils rich in organic matter",
+        "Well-drained loam soils of the highlands",
         "Waterlogged soils with heavy clay",
-        "Well-drained loam soils of the highlands"
+        "Soils that are too poor for other crops"
       ],
       "correctAnswer": "Soils that are too poor for other crops"
     },
@@ -84,9 +88,9 @@
       "question": "Which soil is stated as suitable for sorghum production?",
       "options": [
         "Well-drained, fertile clay soil",
+        "Sandy soil with very low fertility",
         "Well-drained, fertile loam soil",
-        "Heavy waterlogged clay soil",
-        "Sandy soil with very low fertility"
+        "Heavy waterlogged clay soil"
       ],
       "correctAnswer": "Well-drained, fertile clay soil"
     },
@@ -96,9 +100,9 @@
       "question": "To which parts of the country is sorghum well-adapted?",
       "options": [
         "The drier parts of the country",
-        "The wet and humid highlands",
+        "The densely forested regions",
         "The areas with regular heavy frost",
-        "The densely forested regions"
+        "The wet and humid highlands"
       ],
       "correctAnswer": "The drier parts of the country"
     },
@@ -107,10 +111,10 @@
       "anki": true,
       "question": "What happens to sorghum during a dry period?",
       "options": [
-        "It remains dormant until soil moisture becomes sufficient",
         "It dies immediately and needs reseeding",
-        "It flowers and matures early",
-        "It becomes permanently sterile"
+        "It becomes permanently sterile",
+        "It remains dormant until soil moisture becomes sufficient",
+        "It flowers and matures early"
       ],
       "correctAnswer": "It remains dormant until soil moisture becomes sufficient"
     },
@@ -119,10 +123,10 @@
       "anki": true,
       "question": "Why is sorghum usually called 'the camel crop'?",
       "options": [
-        "It can stay dormant during dry periods and resume growth when moisture returns",
         "It has spines like a camel's hump",
+        "It is mainly used to feed camels",
         "It grows tall like a camel",
-        "It is mainly used to feed camels"
+        "It can stay dormant during dry periods and resume growth when moisture returns"
       ],
       "correctAnswer": "It can stay dormant during dry periods and resume growth when moisture returns"
     },
@@ -131,10 +135,10 @@
       "anki": true,
       "question": "With which crops is sorghum often rotated?",
       "options": [
-        "Haricot bean, soybean, sesame and cotton",
         "Lentils, pea, teff and potato",
-        "Faba bean, field pea and haricot bean",
-        "Maize, rice and teff"
+        "Maize, rice and teff",
+        "Haricot bean, soybean, sesame and cotton",
+        "Faba bean, field pea and haricot bean"
       ],
       "correctAnswer": "Haricot bean, soybean, sesame and cotton"
     },
@@ -143,10 +147,10 @@
       "anki": true,
       "question": "How many times is it necessary to cultivate the soil before planting sorghum?",
       "options": [
-        "2 or 3 times",
         "4 or 5 times",
-        "Once only",
-        "6 or 7 times"
+        "6 or 7 times",
+        "2 or 3 times",
+        "Once only"
       ],
       "correctAnswer": "2 or 3 times"
     },
@@ -155,9 +159,9 @@
       "anki": true,
       "question": "How is sorghum planted?",
       "options": [
-        "Either broadcast or sown in planting rows",
-        "Only in rows",
         "Only by broadcasting",
+        "Only in rows",
+        "Either broadcast or sown in planting rows",
         "By transplanting seedlings"
       ],
       "correctAnswer": "Either broadcast or sown in planting rows"
@@ -167,10 +171,10 @@
       "anki": true,
       "question": "What spacing is used between planting rows for sorghum?",
       "options": [
-        "$0.5$ to $1$ metre",
+        "About $75$ cm",
         "About $25$ cm",
-        "About $30$ cm",
-        "About $75$ cm"
+        "$0.5$ to $1$ metre",
+        "About $30$ cm"
       ],
       "correctAnswer": "$0.5$ to $1$ metre"
     },
@@ -180,9 +184,9 @@
       "question": "What spacing is used between sorghum plants within the row?",
       "options": [
         "About $40$ cm",
+        "About $75$ cm",
         "About $10$ cm",
-        "About $5$ cm",
-        "About $75$ cm"
+        "About $5$ cm"
       ],
       "correctAnswer": "About $40$ cm"
     },
@@ -191,10 +195,10 @@
       "anki": true,
       "question": "At what depth are sorghum seeds sown?",
       "options": [
-        "About $2.5$ cm",
-        "About $5$ cm",
+        "About $10$ cm",
         "About $7$ cm",
-        "About $10$ cm"
+        "About $5$ cm",
+        "About $2.5$ cm"
       ],
       "correctAnswer": "About $2.5$ cm"
     },
@@ -203,10 +207,10 @@
       "anki": true,
       "question": "When is the most common planting time for sorghum?",
       "options": [
-        "March to May",
         "June to July",
+        "November to December",
         "July to August",
-        "November to December"
+        "March to May"
       ],
       "correctAnswer": "March to May"
     },
@@ -215,10 +219,10 @@
       "anki": true,
       "question": "When is earthing up done for sorghum and what is its purpose?",
       "options": [
-        "About a month after planting, to help the plant resist lodging due to wind",
+        "Before planting, to loosen the soil for root growth",
         "At the flowering stage, to help the plant resist drought",
         "At harvest time, to make grain easier to thresh",
-        "Before planting, to loosen the soil for root growth"
+        "About a month after planting, to help the plant resist lodging due to wind"
       ],
       "correctAnswer": "About a month after planting, to help the plant resist lodging due to wind"
     },
@@ -228,9 +232,9 @@
       "question": "How much nitrogen is often applied per hectare for sorghum production?",
       "options": [
         "$32$ kg",
-        "$45$ kg",
         "$60$ kg",
-        "$41$ kg"
+        "$41$ kg",
+        "$45$ kg"
       ],
       "correctAnswer": "$32$ kg"
     },
@@ -239,10 +243,10 @@
       "anki": true,
       "question": "How much phosphorus is often applied per hectare for sorghum production?",
       "options": [
-        "$10$ kg",
+        "$20$ kg",
         "$25$ kg",
         "$26$ kg",
-        "$20$ kg"
+        "$10$ kg"
       ],
       "correctAnswer": "$10$ kg"
     },
@@ -251,10 +255,10 @@
       "anki": true,
       "question": "What determines the fertilizer rates used for sorghum production?",
       "options": [
+        "The type of harvester used",
         "The local soil fertility levels",
         "The number of rainy days in the season",
-        "The price of sorghum in the market",
-        "The type of harvester used"
+        "The price of sorghum in the market"
       ],
       "correctAnswer": "The local soil fertility levels"
     },
@@ -264,8 +268,8 @@
       "question": "What is striga in relation to sorghum production?",
       "options": [
         "A parasitic weed that is the major weed affecting sorghum production",
-        "A fungal disease that attacks sorghum leaves",
         "An insect pest that feeds on sorghum grain",
+        "A fungal disease that attacks sorghum leaves",
         "A mineral nutrient deficiency in sorghum fields"
       ],
       "correctAnswer": "A parasitic weed that is the major weed affecting sorghum production"
@@ -277,8 +281,8 @@
       "options": [
         "Massive yield losses in sorghum producing areas",
         "Damage to the stalk only after harvest",
-        "Reduced grain colour without affecting yield",
-        "Shattering of pods before maturity"
+        "Shattering of pods before maturity",
+        "Reduced grain colour without affecting yield"
       ],
       "correctAnswer": "Massive yield losses in sorghum producing areas"
     },
@@ -287,10 +291,10 @@
       "anki": true,
       "question": "When should hand weeding be carried out to reduce striga damage?",
       "options": [
-        "Before the sorghum starts producing seeds",
-        "After the sorghum has produced seeds",
+        "At the time of seed storage",
         "Only after the crop is harvested",
-        "At the time of seed storage"
+        "Before the sorghum starts producing seeds",
+        "After the sorghum has produced seeds"
       ],
       "correctAnswer": "Before the sorghum starts producing seeds"
     },
@@ -299,8 +303,8 @@
       "anki": true,
       "question": "What should manual weeding of sorghum be combined with?",
       "options": [
-        "Crop rotation and the use of sorghum varieties resistant to pests",
         "Fertilizer application and irrigation",
+        "Crop rotation and the use of sorghum varieties resistant to pests",
         "Grain drying and storage treatment",
         "Earthing up and staking"
       ],
@@ -324,9 +328,9 @@
       "question": "Which set of measures should pest and disease control in sorghum production involve?",
       "options": [
         "Integrated use of crop rotation, resistant varieties and chemical methods",
-        "Only chemical methods",
+        "Only the use of resistant varieties",
         "Only manual weeding",
-        "Only the use of resistant varieties"
+        "Only chemical methods"
       ],
       "correctAnswer": "Integrated use of crop rotation, resistant varieties and chemical methods"
     },
@@ -335,10 +339,10 @@
       "anki": true,
       "question": "How long does sorghum take to mature, and when is it harvested?",
       "options": [
-        "About $4$ months, harvested when the grains start to dry with grain moisture of about $30$%",
         "About $3$ months, harvested when the plant turns golden yellow with no green parts",
-        "About $5$ months, harvested when the grains develop a black layer",
-        "About $6$ months, harvested when the pods dry and change from green to black"
+        "About $4$ months, harvested when the grains start to dry with grain moisture of about $30$%",
+        "About $6$ months, harvested when the pods dry and change from green to black",
+        "About $5$ months, harvested when the grains develop a black layer"
       ],
       "correctAnswer": "About $4$ months, harvested when the grains start to dry with grain moisture of about $30$%"
     },
@@ -348,8 +352,8 @@
       "question": "What is the average national yield of sorghum in Ethiopia?",
       "options": [
         "$23$ quintals ($2.3$ t) per hectare",
-        "$24.5$ quintals ($2.45$ t) per hectare",
         "$19$ quintals ($1.9$ t) per hectare",
+        "$24.5$ quintals ($2.45$ t) per hectare",
         "$32.5$ quintals ($3.25$ t) per hectare"
       ],
       "correctAnswer": "$23$ quintals ($2.3$ t) per hectare"

@@ -1,0 +1,182 @@
+{
+  "title": "1.5 Full-Stack Development",
+  "description": "Combining front-end and back-end skills",
+  "folder": "School/Grade 11/Web Development/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit1"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Full-stack development refers to proficiency in which of the following?",
+      "options": [
+        "Only back-end development",
+        "Both front-end and back-end development",
+        "Only database administration",
+        "Only front-end development"
+      ],
+      "correctAnswer": "Both front-end and back-end development"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Full-stack developers have the skills to work on which layers of a web application?",
+      "options": [
+        "All layers, from the user interface to server-side logic and database management",
+        "Only the user interface layer",
+        "Only the network layer",
+        "Only the database layer"
+      ],
+      "correctAnswer": "All layers, from the user interface to server-side logic and database management"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which set of technologies are front-end technologies that full-stack developers should know?",
+      "options": [
+        "MySQL, PostgreSQL and MongoDB",
+        "Git, Docker and Kubernetes",
+        "HTML, CSS and JavaScript",
+        "Apache, Nginx and IIS"
+      ],
+      "correctAnswer": "HTML, CSS and JavaScript"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which of the following is a server-side programming language a full-stack developer may use?",
+      "options": [
+        "Node.js",
+        "HTML",
+        "jQuery",
+        "CSS"
+      ],
+      "correctAnswer": "Node.js"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which of the following is a database a full-stack developer works with?",
+      "options": [
+        "React",
+        "Vue.js",
+        "MongoDB",
+        "Angular"
+      ],
+      "correctAnswer": "MongoDB"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Full-stack developers are proficient in which version control system?",
+      "options": [
+        "Apache",
+        "Git",
+        "jQuery",
+        "MySQL"
+      ],
+      "correctAnswer": "Git"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Full-stack developers can create and consume what to enable communication between different software systems?",
+      "options": [
+        "Database schemas",
+        "APIs",
+        "Style sheets",
+        "Browser themes"
+      ],
+      "correctAnswer": "APIs"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which skill allows a full-stack developer to debug issues across the entire web application stack?",
+      "options": [
+        "Cross-browser testing",
+        "Responsive design",
+        "Problem solving and troubleshooting",
+        "Image optimization"
+      ],
+      "correctAnswer": "Problem solving and troubleshooting"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A full-stack developer can contribute to project management by doing which of the following?",
+      "options": [
+        "Only designing database schemas",
+        "Only configuring web servers",
+        "Only writing CSS styles",
+        "Planning, estimating and prioritizing tasks"
+      ],
+      "correctAnswer": "Planning, estimating and prioritizing tasks"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Through knowledge of server management, a full-stack developer ensures which of the following?",
+      "options": [
+        "Scalability, security and performance optimizations",
+        "Only image compression",
+        "Only keyboard navigation",
+        "Only color and font consistency"
+      ],
+      "correctAnswer": "Scalability, security and performance optimizations"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "In what ways can a full-stack developer work on a project?",
+      "options": [
+        "Only with database administrators",
+        "Only alone with no collaboration",
+        "Independently or with specialized front-end and back-end developers",
+        "Only with front-end developers"
+      ],
+      "correctAnswer": "Independently or with specialized front-end and back-end developers"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Full-stack developers are capable of handling the entire development process from which point to which point?",
+      "options": [
+        "Only from styling to image optimization",
+        "Only from database design to server maintenance",
+        "Only from testing to deployment",
+        "Designing interfaces to implementing server-side logic"
+      ],
+      "correctAnswer": "Designing interfaces to implementing server-side logic"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which of the following best describes a full-stack developer?",
+      "options": [
+        "A specialist who only manages databases",
+        "A designer who only creates visual mockups",
+        "A developer versatile in both client-side and server-side development",
+        "An administrator who only configures web servers"
+      ],
+      "correctAnswer": "A developer versatile in both client-side and server-side development"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which of the following is a database-related skill of a full-stack developer?",
+      "options": [
+        "Styling HTML elements with CSS",
+        "Compressing image files for faster loading",
+        "Handling keyboard events in the browser",
+        "Writing complex queries and optimizing data retrieval and storage"
+      ],
+      "correctAnswer": "Writing complex queries and optimizing data retrieval and storage"
+    }
+  ]
+}

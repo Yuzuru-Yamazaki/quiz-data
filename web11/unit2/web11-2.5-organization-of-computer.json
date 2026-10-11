@@ -1,0 +1,248 @@
+{
+  "title": "2.5 Organization of Computer Systems",
+  "description": "CPU, memory, storage, input/output, motherboard, bus, OS, and software",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "web",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the CPU commonly called?",
+      "options": [
+        "C. The eye of the computer",
+        "A. The brain of the computer",
+        "B. The foot of the computer",
+        "D. The ear of the computer"
+      ],
+      "correctAnswer": "A. The brain of the computer"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which two units make up the Central Processing Unit?",
+      "options": [
+        "B. RAM and ROM",
+        "D. USB and VGA",
+        "A. ALU and CU",
+        "C. HDD and SSD"
+      ],
+      "correctAnswer": "A. ALU and CU"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "What is the function of the Arithmetic Logic Unit (ALU)?",
+      "options": [
+        "A. Performs calculations",
+        "D. Plays sound",
+        "B. Prints documents",
+        "C. Displays images"
+      ],
+      "correctAnswer": "A. Performs calculations"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What is the function of the Control Unit (CU)?",
+      "options": [
+        "B. Stores long-term data",
+        "D. Types text",
+        "A. Manages instructions and data flow",
+        "C. Provides power"
+      ],
+      "correctAnswer": "A. Manages instructions and data flow"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What type of memory is RAM?",
+      "options": [
+        "D. Magnetic tape only",
+        "B. Non-volatile memory",
+        "A. Volatile memory",
+        "C. Read-only permanent"
+      ],
+      "correctAnswer": "A. Volatile memory"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What is the main purpose of RAM?",
+      "options": [
+        "D. Network routing",
+        "A. Temporary storage while the computer is running",
+        "C. Physical support",
+        "B. Permanent backup"
+      ],
+      "correctAnswer": "A. Temporary storage while the computer is running"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What type of memory is ROM?",
+      "options": [
+        "A. Non-volatile memory",
+        "D. Cache only",
+        "C. Temporary memory",
+        "B. Volatile memory"
+      ],
+      "correctAnswer": "A. Non-volatile memory"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What does ROM store?",
+      "options": [
+        "C. Temporary web pages",
+        "D. Browser history",
+        "A. Permanent instructions such as boot-up instructions",
+        "B. User documents only"
+      ],
+      "correctAnswer": "A. Permanent instructions such as boot-up instructions"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which of the following is used for long-term data storage?",
+      "options": [
+        "B. CPU register",
+        "C. RAM",
+        "D. Cache",
+        "A. Solid-state drive (SSD)"
+      ],
+      "correctAnswer": "A. Solid-state drive (SSD)"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which of the following is an input device?",
+      "options": [
+        "C. Printer",
+        "A. Keyboard",
+        "D. Speaker",
+        "B. Monitor"
+      ],
+      "correctAnswer": "A. Keyboard"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which of the following is an output device?",
+      "options": [
+        "D. Mouse",
+        "B. Scanner",
+        "A. Monitor",
+        "C. Microphone"
+      ],
+      "correctAnswer": "A. Monitor"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "What is the function of the motherboard?",
+      "options": [
+        "D. Plays music",
+        "B. Provides internet only",
+        "C. Prints pages",
+        "A. Connects and allows communication between all components"
+      ],
+      "correctAnswer": "A. Connects and allows communication between all components"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What are expansion cards used for?",
+      "options": [
+        "B. Reduce storage",
+        "D. Block input",
+        "C. Decrease speed",
+        "A. Enhance computer capabilities"
+      ],
+      "correctAnswer": "A. Enhance computer capabilities"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which of the following is an example of an expansion card?",
+      "options": [
+        "B. Keyboard",
+        "C. Monitor",
+        "A. Graphics card",
+        "D. Mouse"
+      ],
+      "correctAnswer": "A. Graphics card"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What is the function of the bus system?",
+      "options": [
+        "A. Transfers data and instructions between components",
+        "C. Powers the monitor",
+        "D. Creates software",
+        "B. Stores user files"
+      ],
+      "correctAnswer": "A. Transfers data and instructions between components"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "What is an operating system?",
+      "options": [
+        "A. Software that manages resources and controls hardware",
+        "B. A type of printer",
+        "C. A keyboard layout",
+        "D. A storage device"
+      ],
+      "correctAnswer": "A. Software that manages resources and controls hardware"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What does software refer to in a computer system?",
+      "options": [
+        "C. Only cables",
+        "B. Only the monitor",
+        "D. Only the case",
+        "A. Programs and applications running on the computer"
+      ],
+      "correctAnswer": "A. Programs and applications running on the computer"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "True or False: RAM is a non-volatile memory.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "True or False: ROM stores permanent boot-up instructions.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "True or False: The CPU consists of the ALU and the Control Unit.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    }
+  ]
+}
