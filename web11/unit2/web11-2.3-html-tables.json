@@ -1,0 +1,312 @@
+{
+  "title": "2.3 HTML Tables",
+  "description": "Creating and formatting HTML tables",
+  "folder": "School/Grade 11/Web Development/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": ["web", "grade11", "unit2"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "An HTML table is used to organize data in terms of what?",
+      "options": [
+        "Rows and columns",
+        "Sentences and paragraphs",
+        "Images and videos",
+        "Links and buttons"
+      ],
+      "correctAnswer": "Rows and columns"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Besides organizing data, HTML tables are one way of doing what in a webpage?",
+      "options": [
+        "Defining a layout for contents",
+        "Creating hyperlinks",
+        "Embedding videos",
+        "Writing JavaScript functions"
+      ],
+      "correctAnswer": "Defining a layout for contents"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which HTML tag is used to define a table?",
+      "options": [
+        "<table>",
+        "<tr>",
+        "<td>",
+        "<th>"
+      ],
+      "correctAnswer": "<table>"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which HTML tag is used to define table headers?",
+      "options": [
+        "<th>",
+        "<td>",
+        "<tr>",
+        "<table>"
+      ],
+      "correctAnswer": "<th>"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which HTML tag is used to define table rows?",
+      "options": [
+        "<tr>",
+        "<th>",
+        "<td>",
+        "<table>"
+      ],
+      "correctAnswer": "<tr>"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which HTML tag is used to define data cells?",
+      "options": [
+        "<td>",
+        "<tr>",
+        "<th>",
+        "<table>"
+      ],
+      "correctAnswer": "<td>"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The number of rows of a table is determined by what?",
+      "options": [
+        "The number of <tr> elements the table has",
+        "The number of <td> elements in each row",
+        "The number of <th> elements the table has",
+        "The value of the border attribute"
+      ],
+      "correctAnswer": "The number of <tr> elements the table has"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The number of columns of a table is determined by what?",
+      "options": [
+        "The number of <td> elements found in each <tr>",
+        "The number of <tr> elements the table has",
+        "The number of <table> elements the page has",
+        "The value of the colspan attribute"
+      ],
+      "correctAnswer": "The number of <td> elements found in each <tr>"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What does the border attribute do when added to a table?",
+      "options": [
+        "It adds a border to the table when displayed",
+        "It changes the background color of the table",
+        "It merges the columns of the table",
+        "It centers the table on the page"
+      ],
+      "correctAnswer": "It adds a border to the table when displayed"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "If the border attribute is not used in a table, how is the data displayed?",
+      "options": [
+        "The data is displayed in the same way but without a border",
+        "The data is hidden from the browser",
+        "The data is displayed in a single row",
+        "The data is displayed with a double border"
+      ],
+      "correctAnswer": "The data is displayed in the same way but without a border"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "True or False: rowspan is the attribute used to merge rows of a table",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "True or False: colspan is the attribute used to merge columns of a table",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "True or False: An HTML table can be used to define the layout of an entire page",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "True or False: The number of columns of a table is determined by the number of <tr> elements",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "True or False: If the border attribute is not used, the table data is displayed in a completely different way",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Consider this HTML code: <table border='1'><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>4</td><td>5</td><td>6</td></tr></table>. How many rows and columns does this table produce?",
+      "options": [
+        "2 rows and 3 columns",
+        "3 rows and 2 columns",
+        "2 rows and 2 columns",
+        "3 rows and 3 columns"
+      ],
+      "correctAnswer": "2 rows and 3 columns"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Consider this HTML code: <table><tr><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>9</td><td>10</td><td>11</td><td>12</td></tr></table>. How many rows and columns does this table produce?",
+      "options": [
+        "3 rows and 4 columns",
+        "4 rows and 3 columns",
+        "3 rows and 3 columns",
+        "4 rows and 4 columns"
+      ],
+      "correctAnswer": "3 rows and 4 columns"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Consider this HTML code: <table border='1'><tr><th>Mountain Name</th><th>Elevation</th></tr><tr><td>Ras Dashen</td><td>4,620 m</td></tr><tr><td>Tullu Dimtu</td><td>4,377 m</td></tr><tr><td>Guge</td><td>4,200 m</td></tr><tr><td>Amba Alagi</td><td>3,949 m</td></tr></table>. How many rows and columns does this table produce?",
+      "options": [
+        "5 rows and 2 columns",
+        "2 rows and 5 columns",
+        "5 rows and 5 columns",
+        "4 rows and 2 columns"
+      ],
+      "correctAnswer": "5 rows and 2 columns"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Consider this HTML code: <table><tr><td>2</td><td>4</td><td>6</td></tr><tr><td>3</td><td>6</td><td>9</td></tr><tr><td>4</td><td>8</td><td>12</td></tr><tr><td>5</td><td>10</td><td>15</td></tr></table>. How many rows and columns does this table produce?",
+      "options": [
+        "4 rows and 3 columns",
+        "3 rows and 4 columns",
+        "4 rows and 4 columns",
+        "3 rows and 3 columns"
+      ],
+      "correctAnswer": "4 rows and 3 columns"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "In the code <th colspan='2'>Cases</th>, what does the colspan attribute accomplish?",
+      "options": [
+        "It merges two columns so the header spans both of them",
+        "It merges two rows so the header spans both of them",
+        "It changes the border of the header",
+        "It sets the background color of the header"
+      ],
+      "correctAnswer": "It merges two columns so the header spans both of them"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "In the page layout example, the code <table width='100%'> makes the table do what?",
+      "options": [
+        "Occupy the entire width of the page",
+        "Set the table font size to 100 percent",
+        "Become one pixel wide",
+        "Contain 100 rows"
+      ],
+      "correctAnswer": "Occupy the entire width of the page"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "In the page layout example, what does 'px' stand for?",
+      "options": [
+        "Pixel",
+        "Percentage",
+        "Pixels per row",
+        "Page extension"
+      ],
+      "correctAnswer": "Pixel"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "In the page layout code, the first <td> of the second <tr> is assigned width='20%'. What is the effect of this?",
+      "options": [
+        "The Sidebar occupies 20% of the width of the table",
+        "The Content area occupies 20% of the width of the table",
+        "The table occupies 20% of the width of the page",
+        "The Sidebar has a height of 20 pixels"
+      ],
+      "correctAnswer": "The Sidebar occupies 20% of the width of the table"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "In the page layout table example, which attribute is used to merge the top and bottom rows of the table?",
+      "options": [
+        "colspan",
+        "rowspan",
+        "border",
+        "width"
+      ],
+      "correctAnswer": "colspan"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "What does the bgcolor attribute specify for a table cell?",
+      "options": [
+        "The background color of the cell",
+        "The border thickness of the cell",
+        "The width of the cell",
+        "The number of columns the cell spans"
+      ],
+      "correctAnswer": "The background color of the cell"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "In the page layout table, the two <td> cells of the second <tr> hold which two areas?",
+      "options": [
+        "Sidebar and Content",
+        "Header and Footer",
+        "Content and Footer",
+        "Header and Sidebar"
+      ],
+      "correctAnswer": "Sidebar and Content"
+    }
+  ]
+}

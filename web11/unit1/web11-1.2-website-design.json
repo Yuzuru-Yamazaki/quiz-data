@@ -1,0 +1,249 @@
+{
+  "title": "1.2 Website Design",
+  "description": "Purpose and guidelines of website design",
+  "folder": "School/Grade 11/Web Development/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "tags": ["web", "grade11", "unit1"],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Website design is concerned with the plan and design of which of the following aspects of a website?",
+      "options": [
+        "Layout, navigation, appearance, and graphics",
+        "Servers, protocols, and networks",
+        "Databases, hosts, and domains",
+        "Encryption, storage, and bandwidth"
+      ],
+      "correctAnswer": "Layout, navigation, appearance, and graphics"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is the goal of website design?",
+      "options": [
+        "To create a website that is appealing to its target audience and makes finding information easy with a well-organized presentation",
+        "To make a website difficult for visitors to understand",
+        "To include as many graphics as possible on every page",
+        "To hide information from the target audience"
+      ],
+      "correctAnswer": "To create a website that is appealing to its target audience and makes finding information easy with a well-organized presentation"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which of the following lists the guidelines for good website design?",
+      "options": [
+        "Target Audience, Navigation, Consistency, Simplicity, and Accessibility",
+        "Target Audience, Navigation, Encryption, Hosting, and Security",
+        "Navigation, Consistency, Bandwidth, Storage, and Security",
+        "Accessibility, Simplicity, Servers, Protocols, and Databases"
+      ],
+      "correctAnswer": "Target Audience, Navigation, Consistency, Simplicity, and Accessibility"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which website design guideline states that a website should be designed with its intended users in mind?",
+      "options": [
+        "Target Audience",
+        "Navigation",
+        "Consistency",
+        "Accessibility"
+      ],
+      "correctAnswer": "Target Audience"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which website design guideline states that webpages should be logically organized to allow easy movement between them?",
+      "options": [
+        "Navigation",
+        "Simplicity",
+        "Consistency",
+        "Target Audience"
+      ],
+      "correctAnswer": "Navigation"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which website design guideline states that the feel and look of webpages on a website should be similar?",
+      "options": [
+        "Consistency",
+        "Navigation",
+        "Simplicity",
+        "Accessibility"
+      ],
+      "correctAnswer": "Consistency"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which website design guideline deals with limiting colors and using graphics only when required?",
+      "options": [
+        "Simplicity",
+        "Consistency",
+        "Navigation",
+        "Target Audience"
+      ],
+      "correctAnswer": "Simplicity"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which website design guideline involves designing with everyone in mind, including people with disabilities?",
+      "options": [
+        "Accessibility",
+        "Simplicity",
+        "Consistency",
+        "Navigation"
+      ],
+      "correctAnswer": "Accessibility"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A website intended for children in educational settings having a different presentation from one designed for adults in a business environment illustrates which guideline?",
+      "options": [
+        "Target Audience",
+        "Navigation",
+        "Consistency",
+        "Simplicity"
+      ],
+      "correctAnswer": "Target Audience"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "According to the textbook, what does poor navigation on a website do?",
+      "options": [
+        "It confuses and drives away visitors",
+        "It helps users find information fast",
+        "It improves the user experience",
+        "It organizes the content logically"
+      ],
+      "correctAnswer": "It confuses and drives away visitors"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The WHO website is used in the textbook as an example of which guideline?",
+      "options": [
+        "Navigation",
+        "Consistency",
+        "Simplicity",
+        "Accessibility"
+      ],
+      "correctAnswer": "Navigation"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "What is achieved by the consistent use of backgrounds, colors, and typefaces throughout a website?",
+      "options": [
+        "A better user experience",
+        "Slower navigation between pages",
+        "More confusion for visitors",
+        "Loss of the target audience"
+      ],
+      "correctAnswer": "A better user experience"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "According to the Simplicity guideline, a maximum of how many different colors is recommended for a better user experience?",
+      "options": [
+        "Five (plus or minus two)",
+        "Three (plus or minus one)",
+        "Ten (plus or minus one)",
+        "Two (plus or minus two)"
+      ],
+      "correctAnswer": "Five (plus or minus two)"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Website design deals with which of the following?",
+      "options": [
+        "Defining the layout and overall look of the website",
+        "The actual creation or building of websites",
+        "Storing webpages on a server",
+        "Transferring files over the Internet"
+      ],
+      "correctAnswer": "Defining the layout and overall look of the website"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Web development is best described as which of the following?",
+      "options": [
+        "The actual creation or building of websites",
+        "Defining the layout and overall look of a website",
+        "Deciding the target audience of a website",
+        "Choosing the colors used on a website"
+      ],
+      "correctAnswer": "The actual creation or building of websites"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "WYSIWYG software such as Adobe Dreamweaver is used for which of the following?",
+      "options": [
+        "Developing websites",
+        "Browsing webpages",
+        "Storing webpages on a server",
+        "Sending email messages"
+      ],
+      "correctAnswer": "Developing websites"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "According to the textbook, developing webpages using simple text editors such as Notepad is which of the following compared with WYSIWYG software?",
+      "options": [
+        "A little more difficult but more effective for mastering the language",
+        "Easier but less effective for mastering the language",
+        "Impossible for beginners to learn",
+        "Faster but less effective for mastering the language"
+      ],
+      "correctAnswer": "A little more difficult but more effective for mastering the language"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "True or False: Website design and web development mean the same thing.",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "True or False: The goal of website design includes making the search for information easy through a well-organized presentation.",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "True or False: According to the Simplicity guideline, it is recommended to overcrowd a page with as many graphics as possible.",
+      "options": ["True", "False"],
+      "correctAnswer": "False"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "True or False: Accessibility in website design means designing with everyone in mind, including people with disabilities.",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "True or False: Consistent use of backgrounds, colors, and typefaces throughout a website improves the user experience.",
+      "options": ["True", "False"],
+      "correctAnswer": "True"
+    }
+  ]
+}
