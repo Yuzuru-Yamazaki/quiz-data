@@ -1,0 +1,53 @@
+{
+  "title": "2.2 Invertebrates and Vertebrates",
+  "description": "Exhaustive quiz examining the structural differences between invertebrate and vertebrate animal groups.",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "questions": [
+    {
+      "id": "inverts-verts-1",
+      "question": "What is the primary skeletal distinction of invertebrate animals?",
+      "options": [
+        "They lack a backbone or vertebral column",
+        "They possess a well-defined axial skeleton made of cartilage",
+        "They feature an internal calcified vertebral column",
+        "They contain a dorsal notochord protected by bone"
+      ],
+      "correctAnswer": "They lack a backbone or vertebral column"
+    },
+    {
+      "id": "inverts-verts-2",
+      "question": "What type of external skeletal structure do many soft-bodied invertebrates possess for protection?",
+      "options": [
+        "An exoskeleton usually made of chitin",
+        "An endoskeleton made of living bone tissue",
+        "A cartilaginous vertebral sheath",
+        "An internal bony cranium"
+      ],
+      "correctAnswer": "An exoskeleton usually made of chitin"
+    },
+    {
+      "id": "inverts-verts-3",
+      "question": "Which anatomical structure protects the highly developed brain in vertebrate animals?",
+      "options": [
+        "A well-defined skull",
+        "An external chitinous shell",
+        "A soft mantle cavity",
+        "A segmented hydrostatic skeleton"
+      ],
+      "correctAnswer": "A well-defined skull"
+    },
+    {
+      "id": "inverts-verts-4",
+      "question": "What type of circulatory system is characteristic of vertebrate animals?",
+      "options": [
+        "A closed circulatory system with a ventral heart",
+        "An open circulatory system lacking blood vessels",
+        "A decentralized vascular network without a heart",
+        "A hemolymph-filled sinus cavity system"
+      ],
+      "correctAnswer": "A closed circulatory system with a ventral heart"
+    }
+  ]
+}
