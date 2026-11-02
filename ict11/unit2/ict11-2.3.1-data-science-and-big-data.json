@@ -1,0 +1,148 @@
+{
+  "title": "2.3.1 Data Science and Big Data",
+  "description": "Interdisciplinary foundations of Data Science, the role of data scientists, Big Data dimensions (Volume, Velocity, Variety), and scale metrics.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "data-science",
+    "big-data"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is Data Science defined as in the curriculum?",
+      "options": [
+        "A blend of tools, algorithms, and ML principles to discover hidden patterns",
+        "The manual transcription of paper ledger books into spreadsheet documents",
+        "The physical manufacturing of silicon wafers for integrated circuit boards",
+        "A diagnostic routine evaluating RAM failures through POST beep sequences"
+      ],
+      "correctAnswer": "A blend of tools, algorithms, and ML principles to discover hidden patterns"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which three disciplines intersect to form the field of Data Science (Figure 2.24)?",
+      "options": [
+        "Computer Science, Mathematics, and Statistics",
+        "Mechanical Physics, Chemistry, and Geology",
+        "Microeconomics, Political Science, and Law",
+        "Sociology, Educational Psychology, and History"
+      ],
+      "correctAnswer": "Computer Science, Mathematics, and Statistics"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "What is the primary responsibility of a Data Scientist?",
+      "options": [
+        "Using diverse algorithms to turn massive raw data into useful insights",
+        "Cleaning internal computer hardware components using low-flow vacuums",
+        "Soldering electronic microchips onto automobile assembly circuit boards",
+        "Drafting municipal legal regulations for commercial telecom monopolies"
+      ],
+      "correctAnswer": "Using diverse algorithms to turn massive raw data into useful insights"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What is Big Data as defined in the textbook?",
+      "options": [
+        "A huge volume of data that cannot be processed using traditional methods",
+        "A single database table containing more than one thousand records",
+        "A high-level programming script exceeding ten thousand lines of code",
+        "A magnetic storage disk with capacity greater than one gigabyte"
+      ],
+      "correctAnswer": "A huge volume of data that cannot be processed using traditional methods"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which three core dimensions characterize Big Data?",
+      "options": [
+        "Volume, Variety, and Velocity",
+        "Voltage, Viscosity, and Vibration",
+        "Validity, Veracity, and Vector",
+        "Variable, Valuation, and Variance"
+      ],
+      "correctAnswer": "Volume, Variety, and Velocity"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What does the 'Volume' dimension represent in Big Data architecture?",
+      "options": [
+        "Data at Rest: terabytes to exabytes of existing data to process",
+        "The amplitude of acoustic audio frequencies during video calls",
+        "The physical thickness of internal hard disk aluminum platters",
+        "The number of characters printed across a single textbook page"
+      ],
+      "correctAnswer": "Data at Rest: terabytes to exabytes of existing data to process"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What does the 'Velocity' dimension represent in Big Data systems?",
+      "options": [
+        "Data in Motion: streaming data requiring milliseconds to seconds response",
+        "The maximum driving speed of autonomous vehicles along highways",
+        "The rotational speed of computer cooling fans in RPM units",
+        "The travel speed of electrical pulses along copper network wires"
+      ],
+      "correctAnswer": "Data in Motion: streaming data requiring milliseconds to seconds response"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What does the 'Variety' dimension indicate regarding Big Data formats?",
+      "options": [
+        "Data in Many Forms: structured, unstructured, text, and multimedia",
+        "The variety of programming language compilers installed on a server",
+        "The assortment of decorative font typefaces in HTML stylesheets",
+        "The range of electrical voltage plugs across different continents"
+      ],
+      "correctAnswer": "Data in Many Forms: structured, unstructured, text, and multimedia"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "How much data was generated daily by Facebook in 2020 as cited in the text?",
+      "options": [
+        "4 petabytes of data every single day",
+        "500 megabytes of data every single day",
+        "10 terabytes of data every single month",
+        "100 gigabytes of data every single year"
+      ],
+      "correctAnswer": "4 petabytes of data every single day"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "In common digital storage units, what is 4 petabytes equivalent to?",
+      "options": [
+        "One million gigabytes",
+        "One thousand gigabytes",
+        "Ten thousand gigabytes",
+        "One hundred thousand gigabytes"
+      ],
+      "correctAnswer": "One million gigabytes"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which combination of approaches does data science deploy to process big data?",
+      "options": [
+        "Mathematical and statistical approaches paired with computer tools",
+        "Manual paper filing folders organized inside metal office cabinets",
+        "Analog vacuum tube amplifiers paired with manual switchboards",
+        "Electromechanical calculating wheels driven by hand-turned cranks"
+      ],
+      "correctAnswer": "Mathematical and statistical approaches paired with computer tools"
+    }
+  ]
+}

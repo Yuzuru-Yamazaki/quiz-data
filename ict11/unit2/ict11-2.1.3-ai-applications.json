@@ -1,0 +1,219 @@
+{
+  "title": "2.1.3 Applications of AI",
+  "description": "Real-world applications of artificial intelligence in commerce, autonomous transit, surveillance, farming, healthcare, space, and banking from Grade 11 ICT Section 2.1.2.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "ai-applications"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "How do online shopping platforms utilize AI to enhance customer experience?",
+      "options": [
+        "By processing user data to deliver personalized product suggestions",
+        "By eliminating warehouse storage fees for international vendors",
+        "By replacing cargo container ships with autonomous drones",
+        "By computing manual sales tax receipts on physical registers"
+      ],
+      "correctAnswer": "By processing user data to deliver personalized product suggestions"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which trio of data sources enables autonomous vehicles to operate without human intervention?",
+      "options": [
+        "GPS, vehicle radar, and optical cameras",
+        "Barometers, thermometers, and compasses",
+        "Radio receivers, speedometers, and dynamos",
+        "Pneumatic gauges, odometers, and whistles"
+      ],
+      "correctAnswer": "GPS, vehicle radar, and optical cameras"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which manufacturer is cited as a pioneer of production vehicle autopilot systems?",
+      "options": [
+        "Tesla",
+        "Toyota",
+        "Nissan",
+        "Ford"
+      ],
+      "correctAnswer": "Tesla"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which features enable autonomous cars to significantly enhance road safety?",
+      "options": [
+        "Exchanging hazard data and maintaining 360-degree environmental awareness",
+        "Operating at unlimited travel speeds in dense urban pedestrian zones",
+        "Overriding municipal traffic lights during peak commute travel hours",
+        "Consuming aviation kerosene to accelerate engine combustion ratios"
+      ],
+      "correctAnswer": "Exchanging hazard data and maintaining 360-degree environmental awareness"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Why has artificial intelligence become indispensable for modern social media companies?",
+      "options": [
+        "The volume of user content is too vast for human moderation",
+        "Social media platforms operate without connected server infrastructure",
+        "Telecommunications laws require automated accounts on every website",
+        "Web browsers refuse to display manual status posts without AI"
+      ],
+      "correctAnswer": "The volume of user content is too vast for human moderation"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which social networking corporation is cited as applying AI for advertising and facial recognition?",
+      "options": [
+        "Facebook",
+        "LinkedIn",
+        "Pinterest",
+        "Snapchat"
+      ],
+      "correctAnswer": "Facebook"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What is the primary role of AI in security and retail surveillance?",
+      "options": [
+        "Detecting suspicious behaviors automatically in real time",
+        "Turning off security cameras during scheduled office hours",
+        "Recording camera feeds exclusively onto magnetic audio tapes",
+        "Restricting building access based on paper invitation cards"
+      ],
+      "correctAnswer": "Detecting suspicious behaviors automatically in real time"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which agricultural techniques are directly driven by artificial intelligence systems?",
+      "options": [
+        "Precision farming, pest detection, and crop health tracking",
+        "Manual sickle harvesting, ox plowing, and flood irrigation",
+        "Total deforestation, slash-and-burn clearing, and wood burning",
+        "Replacing grain agriculture with synthetic laboratory pellets"
+      ],
+      "correctAnswer": "Precision farming, pest detection, and crop health tracking"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "How are agricultural advisory systems beneficial to modern farmers?",
+      "options": [
+        "They assist farmers in becoming climate-ready and adapting activities",
+        "They guarantee fixed international grain prices before seed planting",
+        "They eliminate the biological need for sunlight in outdoor crops",
+        "They automate the legal registration of ancestral rural land deeds"
+      ],
+      "correctAnswer": "They assist farmers in becoming climate-ready and adapting activities"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What is a chatbot in modern business customer support?",
+      "options": [
+        "A system simulating conversation through text or voice commands",
+        "A robotic hardware arm packaging parcels along factory belts",
+        "An automated teller machine dispensing bank paper currency",
+        "A network router directing data packets between subnets"
+      ],
+      "correctAnswer": "A system simulating conversation through text or voice commands"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "What primary operational benefit do customer service chatbots provide to businesses?",
+      "options": [
+        "Fast and cost-effective customer assistance around the clock",
+        "Elimination of computer server electricity consumption",
+        "Immediate legal verification of client identity passports",
+        "Automatic manufacturing of custom replacement electronic goods"
+      ],
+      "correctAnswer": "Fast and cost-effective customer assistance around the clock"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "In healthcare, which complex medical procedures benefit from AI assistance?",
+      "options": [
+        "Disease diagnosis, drug discovery, and surgical operations",
+        "Hospital bed construction, cafeteria catering, and laundering",
+        "Emergency ambulance tire replacement and chassis alignment",
+        "Printing paper medical charts and physical prescription pads"
+      ],
+      "correctAnswer": "Disease diagnosis, drug discovery, and surgical operations"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What is the name of the NASA humanoid robot stationed on the International Space Station?",
+      "options": [
+        "Robonaut",
+        "Curiosity",
+        "Pathfinder",
+        "Perseverance"
+      ],
+      "correctAnswer": "Robonaut"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What operational capacity does Robonaut have on the International Space Station?",
+      "options": [
+        "Uses astronaut tools to execute tasks normally performed by humans",
+        "Acts as the orbital rocket booster for station orbital adjustments",
+        "Generates oxygen supplies by electrolyzing onboard wastewater tanks",
+        "Maintains commercial telecommunications billing with ground stations"
+      ],
+      "correctAnswer": "Uses astronaut tools to execute tasks normally performed by humans"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which everyday household capabilities are managed by AI systems in smart homes?",
+      "options": [
+        "Home surveillance, automated chores, and fire smoke alerting",
+        "Eliminating utility water pipes and indoor wiring infrastructure",
+        "Converting municipal tap water directly into organic fruit juice",
+        "Printing currency banknotes to pay monthly utility invoices"
+      ],
+      "correctAnswer": "Home surveillance, automated chores, and fire smoke alerting"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "How do commercial banks use artificial intelligence for security protection?",
+      "options": [
+        "By tracing credit card transaction patterns to flag anomalies",
+        "By locking bank entry doors during normal morning business hours",
+        "By enforcing manual wax seals on customer monthly statements",
+        "By storing account balances on mechanical typewriter sheets"
+      ],
+      "correctAnswer": "By tracing credit card transaction patterns to flag anomalies"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What is the name of Google's AI-powered search ranking algorithm?",
+      "options": [
+        "RankBrain",
+        "PageRank",
+        "DeepMind",
+        "TensorFlow"
+      ],
+      "correctAnswer": "RankBrain"
+    }
+  ]
+}

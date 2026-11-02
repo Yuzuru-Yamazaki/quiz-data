@@ -1,0 +1,149 @@
+{
+  "title": "2.3.2 Data Science Applications and Privacy",
+  "description": "Cross-sector data science applications, privacy dilemmas, data anonymization, generalization, and Internet of Things (IoT) from Grade 11 ICT Section 2.3.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "data-science",
+    "privacy",
+    "iot"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "How is data science used to optimize manufacturing operations?",
+      "options": [
+        "Forecasts product demand to determine precise raw material purchase orders",
+        "Replaces industrial conveyor belts with manual pushcarts on factory floors",
+        "Eliminates quality assurance inspections during manufacturing assembly",
+        "Estimates utility water billing without examining municipal pipe meters"
+      ],
+      "correctAnswer": "Forecasts product demand to determine precise raw material purchase orders"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is the primary role of data science algorithms on social media platforms?",
+      "options": [
+        "Achieving personalized information delivery from massive user activity data",
+        "Erasing all user accounts and profile histories at the close of every month",
+        "Blocking users from clicking outbound hyperlinks to external web pages",
+        "Converting color photographs into low-resolution black-and-white graphics"
+      ],
+      "correctAnswer": "Achieving personalized information delivery from massive user activity data"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "How does data science contribute directly to the agricultural sector?",
+      "options": [
+        "Delivers accurate meteorological weather predictions for crop planning",
+        "Synthesizes artificial plastic tractor chassis components locally",
+        "Cancels the biological requirement for natural water in cereal crops",
+        "Automates the legal registration of ancestral rural land property deeds"
+      ],
+      "correctAnswer": "Delivers accurate meteorological weather predictions for crop planning"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "In the healthcare sector, which medical approach is enhanced through data science?",
+      "options": [
+        "Preventive medicine that identifies disease risk factors before onset",
+        "Increasing administrative billing penalties for emergency clinic visits",
+        "Eliminating sterile hygiene protocols across operating surgical wards",
+        "Replacing licensed physician care with commercial retail advertisements"
+      ],
+      "correctAnswer": "Preventive medicine that identifies disease risk factors before onset"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "How do commercial business organizations apply data science techniques?",
+      "options": [
+        "Risk management to identify and mitigate operational hazards",
+        "Manual bookkeeping using paper journals and ledger notebooks",
+        "Stationing armed security personnel outside branch cash vaults",
+        "Sorting physical invoice receipts into alphabetical cardboard bins"
+      ],
+      "correctAnswer": "Risk management to identify and mitigate operational hazards"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Why does widespread user data collection on social media generate regulatory tension?",
+      "options": [
+        "It clashes directly with strict user privacy laws and protection mandates",
+        "It causes severe electrical blackouts across municipal power distribution grids",
+        "It prevents students from accessing educational websites during school days",
+        "It corrupts computer operating system kernels through network data traffic"
+      ],
+      "correctAnswer": "It clashes directly with strict user privacy laws and protection mandates"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What does Data Anonymization involve in privacy protection?",
+      "options": [
+        "Removing personally identifiable information from collected data sets",
+        "Grouping individual records into broad geographical and age categories",
+        "Copying sensitive databases onto unencrypted external USB thumb drives",
+        "Restricting internet access to registered corporate network employees"
+      ],
+      "correctAnswer": "Removing personally identifiable information from collected data sets"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What is Data Generalization in the context of data privacy?",
+      "options": [
+        "Bunching data into broad categories such as age groups and territories",
+        "Deleting all numeric columns from a relational database table permanently",
+        "Translating regional languages into standardized international English",
+        "Removing physical cooling fans from high-density computer server racks"
+      ],
+      "correctAnswer": "Bunching data into broad categories such as age groups and territories"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What is the primary operational trade-off of applying anonymization and generalization?",
+      "options": [
+        "They limit the depth of insight and precision companies extract from data",
+        "They induce immediate hardware wear on internal motherboard power regulators",
+        "They permanently corrupt the underlying database relational table indexes",
+        "They require specialized line conditioners to maintain uninterrupted power"
+      ],
+      "correctAnswer": "They limit the depth of insight and precision companies extract from data"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What is the Internet of Things (IoT) as defined in the unit key terms?",
+      "options": [
+        "Interrelated Internet-connected objects exchanging data without human intervention",
+        "A global network of academic libraries cataloging historical paper manuscripts",
+        "A collection of relational database queries authored within Microsoft Access",
+        "A suite of antivirus utilities scanning desktop computers for email worms"
+      ],
+      "correctAnswer": "Interrelated Internet-connected objects exchanging data without human intervention"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "How is Social Media defined in the unit key terms?",
+      "options": [
+        "A medium that facilitates socializing through virtual networks",
+        "A physical bulletin board posted in municipal community offices",
+        "A telecommunications cable providing power to server centers",
+        "An automated assembly robot deployed in car manufacturing plants"
+      ],
+      "correctAnswer": "A medium that facilitates socializing through virtual networks"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "title": "2.1.1 AI Overview and Branches",
+  "description": "Fundamental concepts, historical timeline, reasoning, generalization, machine learning, and robotics from Grade 11 ICT Section 2.1.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "ai",
+    "machine-learning",
+    "robotics"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the defining characteristic of an emerging technology?",
+      "options": [
+        "A technology that evolves fast with prominent socio-economic impact",
+        "A legacy technology operating exclusively in administrative offices",
+        "A proprietary software application restricted to municipal systems",
+        "A hardware architecture designed solely for scientific calculations"
+      ],
+      "correctAnswer": "A technology that evolves fast with prominent socio-economic impact"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is the primary definition of Artificial Intelligence (AI)?",
+      "options": [
+        "Designing computer systems that mimic human intelligence",
+        "Assembling circuit boards on vehicle manufacturing lines",
+        "Translating assembly language code into binary numbers",
+        "Managing relational database records across server nodes"
+      ],
+      "correctAnswer": "Designing computer systems that mimic human intelligence"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which two capabilities are artificial intelligence systems designed to emulate?",
+      "options": [
+        "Reasoning and generalization",
+        "Compilation and interpretation",
+        "Defragmentation and indexing",
+        "Capacitance and conduction"
+      ],
+      "correctAnswer": "Reasoning and generalization"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which statement illustrates the cognitive process of logical reasoning?",
+      "options": [
+        "My friend is not at work, so she must be at home",
+        "I repaired my own bicycle, so I can fix my friend's bicycle",
+        "I replaced the motherboard battery after listening to POST beeps",
+        "I updated the payroll database to calculate teacher tax rates"
+      ],
+      "correctAnswer": "My friend is not at work, so she must be at home"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What does generalization in human and machine intelligence entail?",
+      "options": [
+        "Applying past experiences to solve similar new problems",
+        "Eliminating duplicated records from related database tables",
+        "Formatting primary partition volumes into contiguous sectors",
+        "Writing explicit instruction sequences for every single task"
+      ],
+      "correctAnswer": "Applying past experiences to solve similar new problems"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "In which decade does the historical origin of artificial intelligence begin?",
+      "options": [
+        "The 1940s",
+        "The 1920s",
+        "The 1960s",
+        "The 1980s"
+      ],
+      "correctAnswer": "The 1940s"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In which decade was the formal term 'Artificial Intelligence' coined?",
+      "options": [
+        "The 1950s",
+        "The 1930s",
+        "The 1970s",
+        "The 1990s"
+      ],
+      "correctAnswer": "The 1950s"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What two factors explain the widespread popularity and power of AI today?",
+      "options": [
+        "Growth in computer capacity and availability of massive data",
+        "Reduction in hardware prices and mandate of government laws",
+        "Decline of relational databases and adoption of dial-up lines",
+        "Elimination of malware threats and introduction of fast printers"
+      ],
+      "correctAnswer": "Growth in computer capacity and availability of massive data"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What defines the branch of artificial intelligence known as Machine Learning?",
+      "options": [
+        "Algorithms that learn from data and improve without explicit programming",
+        "Mechanical arms that assemble vehicle engines along factory conveyor lines",
+        "Manual entry of if-then rules to address every possible future situation",
+        "Transmission of structured binary packets across wide area optic cables"
+      ],
+      "correctAnswer": "Algorithms that learn from data and improve without explicit programming"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What is the primary source from which machine learning algorithms learn?",
+      "options": [
+        "Experience",
+        "Assemblers",
+        "Stabilizers",
+        "Transistors"
+      ],
+      "correctAnswer": "Experience"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "How do machine learning algorithms fundamentally operate compared to conventional programs?",
+      "options": [
+        "They train on sample data to construct predictive decision models",
+        "They execute hard-coded instructions written line-by-line by programmers",
+        "They operate exclusively on analog vacuum tubes without digital memory",
+        "They process input requests using mechanical clockwork gears"
+      ],
+      "correctAnswer": "They train on sample data to construct predictive decision models"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which set of tasks represents common applications of Machine Learning?",
+      "options": [
+        "Fraud detection, recommendation systems, and speech recognition",
+        "Disk defragmentation, registry scanning, and hardware cooling",
+        "Database indexing, primary key creation, and entity modeling",
+        "Cable crimping, monitor calibration, and toner replacement"
+      ],
+      "correctAnswer": "Fraud detection, recommendation systems, and speech recognition"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What is the study of robotics defined as in the textbook?",
+      "options": [
+        "The study of machines that substitute tasks traditionally done by humans",
+        "The scientific analysis of crystal structures under electron microscopes",
+        "The design of database architectures for managing personnel payroll",
+        "The development of high-voltage transmission cables for power stations"
+      ],
+      "correctAnswer": "The study of machines that substitute tasks traditionally done by humans"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Where have industrial robots been primarily deployed over past decades?",
+      "options": [
+        "Replacing human labor in car manufacturing assembly lines",
+        "Editing literary textbooks in government educational offices",
+        "Conducting oral language examinations in secondary classrooms",
+        "Managing retail accounting ledgers in municipal supermarkets"
+      ],
+      "correctAnswer": "Replacing human labor in car manufacturing assembly lines"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which hazardous environments are highlighted as ideal locations for robots?",
+      "options": [
+        "Handling radioactive wastes, underwater areas, and space exploration",
+        "Secondary school lecture halls, library rooms, and study cubicles",
+        "Commercial banking lobbies, customer reception desks, and cafes",
+        "Urban grocery store checkout lanes, bakeries, and clothing shops"
+      ],
+      "correctAnswer": "Handling radioactive wastes, underwater areas, and space exploration"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Which domestic machine exemplifies autonomous robotic labor in households?",
+      "options": [
+        "A robot vacuum cleaner that cleans floors without human intervention",
+        "A manual hand broom operated by residential maintenance personnel",
+        "An electric steam iron that heats metallic plates when plugged in",
+        "A portable microwave oven that warms food items when timer is set"
+      ],
+      "correctAnswer": "A robot vacuum cleaner that cleans floors without human intervention"
+    }
+  ]
+}

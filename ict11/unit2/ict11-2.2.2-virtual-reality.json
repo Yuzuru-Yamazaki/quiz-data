@@ -1,0 +1,100 @@
+{
+  "title": "2.2.2 Virtual Reality",
+  "description": "Definition of VR, 3D sensory simulation, sensory devices, data gloves, force-feedback, and immersion mechanisms from Grade 11 ICT Section 2.2.2.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "virtual-reality",
+    "vr"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is Virtual Reality (VR) defined as in the textbook?",
+      "options": [
+        "A technology creating a three-dimensional computer-generated simulated environment",
+        "A system overlaying digital statistics upon physical real-world surfaces",
+        "A telecommunication method connecting two remote offices via voice line",
+        "A database backup procedure copying files to secondary optical disks"
+      ],
+      "correctAnswer": "A technology creating a three-dimensional computer-generated simulated environment"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which suite of electronic hardware allows a person to interact with VR?",
+      "options": [
+        "Goggles, headsets, gloves, or bodysuits",
+        "Flatbed scanners, laser printers, and mice",
+        "Surge protectors, transformers, and cords",
+        "Line conditioners, modems, and antennas"
+      ],
+      "correctAnswer": "Goggles, headsets, gloves, or bodysuits"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "How does Virtual Reality interact with human sensory perception?",
+      "options": [
+        "Presents artificial information to convince minds that simulation is reality",
+        "Transmits high-voltage electrical currents directly into nerve endings",
+        "Restricts sensory input exclusively to monochromatic command terminals",
+        "Eliminates auditory awareness through acoustic soundproofing chambers"
+      ],
+      "correctAnswer": "Presents artificial information to convince minds that simulation is reality"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What level of sensory immersion does Virtual Reality provide to the user?",
+      "options": [
+        "A completely immersive experience",
+        "A partially immersive experience",
+        "A purely text-based experience",
+        "A non-interactive experience"
+      ],
+      "correctAnswer": "A completely immersive experience"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "How does a VR environment respond when a user moves their head or body?",
+      "options": [
+        "Adjusts perspectives and visual fields in real time using sensors",
+        "Pauses program execution until the user returns to center position",
+        "Transmits error event logs to the operating system notification tray",
+        "Prompts the user to re-enter network credentials using a keyboard"
+      ],
+      "correctAnswer": "Adjusts perspectives and visual fields in real time using sensors"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which specialized device enables users to physically feel and touch virtual items?",
+      "options": [
+        "Data gloves equipped with force-feedback mechanisms",
+        "Standard wireless mice equipped with optical lasers",
+        "Capacitive smartphone screens with glass coating",
+        "Mechanical keyboards with backlit alphanumeric keys"
+      ],
+      "correctAnswer": "Data gloves equipped with force-feedback mechanisms"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What enables Virtual Reality to create the convincing illusion of physical presence?",
+      "options": [
+        "Real-time sensor tracking combined with tactile force-feedback manipulation",
+        "Projecting two-dimensional slide transparencies onto classroom walls",
+        "Printing detailed photographic illustrations in high-resolution textbooks",
+        "Reading historical descriptive manuscripts inside soundproof library cubicles"
+      ],
+      "correctAnswer": "Real-time sensor tracking combined with tactile force-feedback manipulation"
+    }
+  ]
+}

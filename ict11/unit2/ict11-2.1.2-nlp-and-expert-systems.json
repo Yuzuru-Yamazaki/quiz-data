@@ -1,0 +1,196 @@
+{
+  "title": "2.1.2 NLP and Expert Systems",
+  "description": "Natural language processing applications, expert system architecture, heuristic rules, and the MYCIN medical system from Grade 11 ICT Section 2.1.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "nlp",
+    "expert-systems"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the core focus of Natural Language Processing (NLP)?",
+      "options": [
+        "Enabling computers to understand written and spoken human language",
+        "Converting assembly language mnemonics into binary machine code",
+        "Querying relational database records using structured SQL commands",
+        "Regulating alternating current power delivered to motherboard ports"
+      ],
+      "correctAnswer": "Enabling computers to understand written and spoken human language"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which email provider is explicitly noted for applying NLP to detect spam?",
+      "options": [
+        "Yahoo",
+        "Hotmail",
+        "Proton",
+        "AOL"
+      ],
+      "correctAnswer": "Yahoo"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which translation platform is highlighted as being supported by NLP?",
+      "options": [
+        "Google Translate",
+        "Babylon Dictionary",
+        "Oxford Lexicon",
+        "Cisco Packet Tracer"
+      ],
+      "correctAnswer": "Google Translate"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which voice-operated assistants are cited as practical applications of NLP?",
+      "options": [
+        "Amazon Alexa and Apple Siri",
+        "Microsoft Excel and Access",
+        "Ubuntu Linux and Red Hat",
+        "Adobe Reader and Photoshop"
+      ],
+      "correctAnswer": "Amazon Alexa and Apple Siri"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What task is accomplished through Sentiment Analysis in NLP?",
+      "options": [
+        "Extracting social media data to determine user opinions",
+        "Forecasting atmospheric rainfall patterns from radar scans",
+        "Compressing digital video streams for live webcasts",
+        "Backing up system image files to cloud server arrays"
+      ],
+      "correctAnswer": "Extracting social media data to determine user opinions"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "How does NLP facilitate the identification of fake news online?",
+      "options": [
+        "By checking news trustworthiness and source reliability",
+        "By disabling user accounts that post conflicting comments",
+        "By translating international articles into local languages",
+        "By encrypting publication archives using numeric hashes"
+      ],
+      "correctAnswer": "By checking news trustworthiness and source reliability"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What does Text Summarization achieve when applied to academic articles?",
+      "options": [
+        "Generates a concise summary of a large document automatically",
+        "Converts written paragraphs into audible spoken speech files",
+        "Calculates printer ink volume required for document binding",
+        "Splits narrative content into tabular relational matrices"
+      ],
+      "correctAnswer": "Generates a concise summary of a large document automatically"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What are Expert Systems designed to achieve?",
+      "options": [
+        "Emulate human experts to solve complex domain problems",
+        "Monitor power fluctuations across high-voltage transformers",
+        "Clean internal computer hardware components from dust",
+        "Defragment physical sectors across rotating storage drives"
+      ],
+      "correctAnswer": "Emulate human experts to solve complex domain problems"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which professional fields benefit significantly from expert systems?",
+      "options": [
+        "Medical diagnosis, petroleum engineering, and financial investing",
+        "Textile weaving, residential plumbing, and timber carpentry",
+        "Ceramic sculpture, classical music mixing, and wall painting",
+        "Manual mail delivery, waste collection, and road masonry"
+      ],
+      "correctAnswer": "Medical diagnosis, petroleum engineering, and financial investing"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "What are the three core structural components of an expert system?",
+      "options": [
+        "User Interface, Knowledge Base, and Inference Engine",
+        "Central Processor, System Memory, and Hard Storage",
+        "Language Compiler, Linker, and Bytecode Interpreter",
+        "Relational Table, Entity Attribute, and Primary Key"
+      ],
+      "correctAnswer": "User Interface, Knowledge Base, and Inference Engine"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "What is the function of the User Interface in an expert system?",
+      "options": [
+        "Accepts user queries and presents system recommendations",
+        "Generates binary machine instructions for CPU execution",
+        "Formats storage partitions into contiguous file blocks",
+        "Regulates current flow between motherboard components"
+      ],
+      "correctAnswer": "Accepts user queries and presents system recommendations"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "How is domain knowledge organized within the Knowledge Base?",
+      "options": [
+        "In the form of if-then-else rules holding factual and heuristic knowledge",
+        "As unindexed comma-separated strings inside plain text documents",
+        "As binary machine-code commands stored on optical compact discs",
+        "In alphabetical dictionaries listing grammatical language terms"
+      ],
+      "correctAnswer": "In the form of if-then-else rules holding factual and heuristic knowledge"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What is heuristic knowledge in the context of expert systems?",
+      "options": [
+        "Experiential or common-sense rules used by human experts",
+        "Mathematically proven theorems derived from pure calculus",
+        "Syntactical error codes emitted by language interpreters",
+        "Physical circuit diagrams etched onto silicon microchips"
+      ],
+      "correctAnswer": "Experiential or common-sense rules used by human experts"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What role does the Inference Engine perform inside an expert system?",
+      "options": [
+        "Acts as the processing brain referencing the knowledge base",
+        "Converts high-voltage alternating current into stable power",
+        "Scans incoming electronic mail for fraudulent attachments",
+        "Displays graphic images across liquid crystal mobile screens"
+      ],
+      "correctAnswer": "Acts as the processing brain referencing the knowledge base"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What was the specific domain purpose of the famous early expert system MYCIN?",
+      "options": [
+        "Identifying bacteria causing infections and recommending antibiotics",
+        "Predicting daily market stock valuation trends on Wall Street",
+        "Steering autonomous planetary rovers across rocky terrain",
+        "Translating diplomatic legal documents across spoken languages"
+      ],
+      "correctAnswer": "Identifying bacteria causing infections and recommending antibiotics"
+    }
+  ]
+}

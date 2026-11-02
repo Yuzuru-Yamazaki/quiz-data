@@ -1,0 +1,124 @@
+{
+  "title": "2.2.1 Augmented Reality",
+  "description": "Definition of AR, core hardware architecture, display equipment, and the operational overlay workflow from Grade 11 ICT Section 2.2.1.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "augmented-reality",
+    "ar"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is the defining concept of Augmented Reality (AR)?",
+      "options": [
+        "Enhancing the real world by overlaying computer-generated digital data",
+        "Submerging users into an entirely synthetic three-dimensional universe",
+        "Converting continuous analog waves into discrete binary pulse streams",
+        "Defragmenting magnetic hard drives to consolidate scattered file blocks"
+      ],
+      "correctAnswer": "Enhancing the real world by overlaying computer-generated digital data"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What type of user experience does Augmented Reality establish?",
+      "options": [
+        "An engaging and dynamic user experience",
+        "An isolated sensory deprivation experience",
+        "A purely text-based terminal experience",
+        "A static black-and-white print experience"
+      ],
+      "correctAnswer": "An engaging and dynamic user experience"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which four hardware components comprise an Augmented Reality system?",
+      "options": [
+        "A processor, sensors, input devices, and a display",
+        "A keyboard, mechanical mouse, monitor, and printer",
+        "A surge protector, stabilizer, transformer, and UPS",
+        "A compiler, interpreter, assembler, and debugger"
+      ],
+      "correctAnswer": "A processor, sensors, input devices, and a display"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Why can standard mobile smartphones execute Augmented Reality apps?",
+      "options": [
+        "They incorporate a processor, sensors, input, and display natively",
+        "They run on alternating current power supplied directly from walls",
+        "They operate exclusively inside virtual three-dimensional spheres",
+        "They require external force-feedback bodysuits to render screens"
+      ],
+      "correctAnswer": "They incorporate a processor, sensors, input, and display natively"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which display devices can be used to present augmented reality graphics?",
+      "options": [
+        "Tablets, smartphones, head-mounted displays, and smart glasses",
+        "Dot matrix printers, analog oscilloscopes, and cathode ray tubes",
+        "Thermal receipt printers, monochrome pagers, and paper chart plotters",
+        "Electromechanical relays, punch card readers, and dial telephones"
+      ],
+      "correctAnswer": "Tablets, smartphones, head-mounted displays, and smart glasses"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What two functions do display devices serve in an AR application?",
+      "options": [
+        "Locating objects of focus and showing overlaid digital information",
+        "Storing relational database records and managing query results",
+        "Balancing voltage spikes and absorbing electrostatic discharge",
+        "Compiling high-level programming scripts into machine bytecodes"
+      ],
+      "correctAnswer": "Locating objects of focus and showing overlaid digital information"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What is the initial step in the operational process of Augmented Reality?",
+      "options": [
+        "Capturing a picture of the physical object through a camera",
+        "Transmitting binary packets across local area network routers",
+        "Calibrating force-feedback actuators inside sensory gloves",
+        "Defragmenting unused sectors across secondary storage drives"
+      ],
+      "correctAnswer": "Capturing a picture of the physical object through a camera"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What image data does AR software calculate after camera capture?",
+      "options": [
+        "Object measurements, surrounding items, and relative spatial distance",
+        "Operating system kernel version, CPU clock rate, and battery age",
+        "Network transmission ping latency and data encryption strength",
+        "Document print formatting margins and paper sheet orientation"
+      ],
+      "correctAnswer": "Object measurements, surrounding items, and relative spatial distance"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What is the final step in the Augmented Reality processing pipeline?",
+      "options": [
+        "Generating virtual information and overlaying it upon the real object",
+        "Disconnecting the device camera to conserve internal battery charge",
+        "Restarting the operating system to clear temporary browser caches",
+        "Backing up camera image files to an external network storage server"
+      ],
+      "correctAnswer": "Generating virtual information and overlaying it upon the real object"
+    }
+  ]
+}

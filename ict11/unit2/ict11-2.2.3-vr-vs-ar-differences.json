@@ -1,0 +1,89 @@
+{
+  "title": "2.2.3 Differences Between VR and AR",
+  "description": "Comparative analysis of Augmented Reality and Virtual Reality across immersion, user control, device dependency, and environmental settings (Table 2.1).",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "ar",
+    "vr",
+    "comparison"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "According to Table 2.1, how do the environmental settings of AR and VR compare?",
+      "options": [
+        "AR functions in real-world settings while VR operates in virtual worlds",
+        "AR functions in total darkness while VR operates only under daylight",
+        "AR functions inside underwater chambers while VR operates in classrooms",
+        "AR functions in deep outer space while VR operates in underground mines"
+      ],
+      "correctAnswer": "AR functions in real-world settings while VR operates in virtual worlds"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is the degree of immersion experienced in AR compared to VR?",
+      "options": [
+        "AR is partially immersive whereas VR is fully immersive",
+        "AR is fully immersive whereas VR is partially immersive",
+        "Both AR and VR provide completely non-immersive environments",
+        "Both AR and VR eliminate all visual sensory perception"
+      ],
+      "correctAnswer": "AR is partially immersive whereas VR is fully immersive"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "How does user presence control compare between Augmented Reality and Virtual Reality?",
+      "options": [
+        "AR users control their real presence while VR users are system-controlled",
+        "VR users control physical weather while AR users are system-controlled",
+        "AR users are controlled by computer code while VR users control reality",
+        "Both AR and VR users experience complete paralysis of motor control"
+      ],
+      "correctAnswer": "AR users control their real presence while VR users are system-controlled"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What are the device hardware requirements for AR compared to VR in Table 2.1?",
+      "options": [
+        "AR runs on smartphones while VR requires a dedicated headset device",
+        "VR runs on smartphones while AR requires a dedicated headset device",
+        "Both AR and VR require multi-rack supercomputing mainframe towers",
+        "Both AR and VR operate on mechanical analog calculators without screens"
+      ],
+      "correctAnswer": "AR runs on smartphones while VR requires a dedicated headset device"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which statement accurately contrasts the reality types of AR and VR?",
+      "options": [
+        "AR blends real and virtual worlds while VR works in fictional reality",
+        "VR blends real and virtual worlds while AR works in fictional reality",
+        "AR operates purely in text spreadsheets while VR displays audio waves",
+        "VR operates in historical archives while AR forecasts economic trends"
+      ],
+      "correctAnswer": "AR blends real and virtual worlds while VR works in fictional reality"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Why is Augmented Reality considered partially immersive rather than fully immersive?",
+      "options": [
+        "Because users remain conscious and observant of their physical surroundings",
+        "Because AR software shuts down after sixty seconds of continuous runtime",
+        "Because AR displays only display two-dimensional black-and-white lines",
+        "Because users cannot interact with any virtual objects shown on screens"
+      ],
+      "correctAnswer": "Because users remain conscious and observant of their physical surroundings"
+    }
+  ]
+}

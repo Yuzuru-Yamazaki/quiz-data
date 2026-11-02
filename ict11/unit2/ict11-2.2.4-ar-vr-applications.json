@@ -1,0 +1,172 @@
+{
+  "title": "2.2.4 AR and VR Applications",
+  "description": "Practical implementations of Augmented and Virtual Reality across education, healthcare, surgical training, tele-surgery, and entertainment.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "ar-applications",
+    "vr-applications"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "How do AR and VR transform historical education in classroom environments?",
+      "options": [
+        "Enable students to travel in time and space to view historical events",
+        "Permanently rewrite historical archives using automated language models",
+        "Replace printed history textbooks with commercial television broadcasts",
+        "Teleport students physically across international borders during school"
+      ],
+      "correctAnswer": "Enable students to travel in time and space to view historical events"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "How does Augmented Reality make biology learning more concrete for students?",
+      "options": [
+        "Renders complex internal human organ systems visually and interactively",
+        "Automates the genetic modification of endangered agricultural plants",
+        "Replaces real living plant specimens with synthetic plastic replicas",
+        "Eliminates the requirement for biological taxonomy classification tables"
+      ],
+      "correctAnswer": "Renders complex internal human organ systems visually and interactively"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "How does 3D interactive visualization assist students with complex concepts?",
+      "options": [
+        "Reduces conceptual complexity by making abstract structures easier to explore",
+        "Exempts students from passing standard curriculum examination assessments",
+        "Translates scientific theories into non-technical conversational slang",
+        "Prevents students from discussing academic topics with course teachers"
+      ],
+      "correctAnswer": "Reduces conceptual complexity by making abstract structures easier to explore"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "In schools where laboratory resources are scarce, what role do AR and VR play?",
+      "options": [
+        "Serve as practical interactive substitutes for expensive laboratory equipment",
+        "Require schools to purchase multi-million dollar chemical centrifuge machines",
+        "Eliminate practical science subjects entirely from national secondary exams",
+        "Synthesize physical glassware and chemical test tubes through cloud networks"
+      ],
+      "correctAnswer": "Serve as practical interactive substitutes for expensive laboratory equipment"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What social benefit emerges when students connect globally via AR and VR?",
+      "options": [
+        "Instills valuable collaborative skills and cross-cultural empathy in learners",
+        "Increases commercial rivalry and aggressive competition between institutions",
+        "Encourages social isolationism and detachment from domestic communities",
+        "Replaces individual student creativity with standardized automated thinking"
+      ],
+      "correctAnswer": "Instills valuable collaborative skills and cross-cultural empathy in learners"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "How do healthcare educators train medical students using AR and VR technologies?",
+      "options": [
+        "Teach life-saving procedures like surgery within a risk-free environment",
+        "Assign student surgeons to perform unassisted operations on live patients",
+        "Replace medical school coursework with commercial entertainment video games",
+        "Automate pharmaceutical dosage calculations without clinical oversight"
+      ],
+      "correctAnswer": "Teach life-saving procedures like surgery within a risk-free environment"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What is the primary diagnostic advantage of AR tools for medical patients?",
+      "options": [
+        "Enables disease diagnosis in a manner that is less invasive and pain-free",
+        "Administers high doses of ionizing radiation during routine checkups",
+        "Requires deep surgical incisions before preliminary clinical examination",
+        "Isolates patients in sensory deprivation rooms for prolonged recovery"
+      ],
+      "correctAnswer": "Enables disease diagnosis in a manner that is less invasive and pain-free"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "How does AR aid operating surgeons during intricate physical operations?",
+      "options": [
+        "Helps visualize patient muscles, bones, and organs with high accuracy",
+        "Takes control of surgical scalpels and executes incisions autonomously",
+        "Regulates general anesthesia gas concentrations via automated valves",
+        "Substitutes scrub nurses with mechanical robotic vacuum floor cleaners"
+      ],
+      "correctAnswer": "Helps visualize patient muscles, bones, and organs with high accuracy"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What is tele-surgery as presented in the healthcare applications section?",
+      "options": [
+        "Surgical operations performed with patient and surgeon in separate locations",
+        "The public broadcast of hospital surgical theaters over local television",
+        "A telephone advisory hotline where patients perform self-guided surgeries",
+        "The automated transmission of pharmacy bills across internet banking apps"
+      ],
+      "correctAnswer": "Surgical operations performed with patient and surgeon in separate locations"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "How do Virtual Reality headsets assist hospitalized patients during recovery?",
+      "options": [
+        "Distract patients from stressful experiences during prolonged recuperation",
+        "Monitor hospital ward energy usage and adjust ventilation fan currents",
+        "Replace sterile saline IV lines with therapeutic acoustic frequencies",
+        "Discharge patients immediately before internal physical wounds have healed"
+      ],
+      "correctAnswer": "Distract patients from stressful experiences during prolonged recuperation"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "How do art galleries and museums utilize Augmented Reality to engage visitors?",
+      "options": [
+        "Overlay computer-generated historical data and context directly on artifacts",
+        "Auction off exhibited historical treasures to visiting collectors online",
+        "Replace ancient oil masterpieces with black-and-white dot matrix prints",
+        "Prohibit gallery visitors from viewing physical exhibits in daylight"
+      ],
+      "correctAnswer": "Overlay computer-generated historical data and context directly on artifacts"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which novel equipment is featured in VR movie theatres for sensory immersion?",
+      "options": [
+        "Specialized armchairs equipped with headsets and aroma injection systems",
+        "Analog mechanical film projectors utilizing silver halide chemical reels",
+        "Open-flame heating braziers placed beneath wooden auditorium benches",
+        "Monochrome CRT display monitors mounted on individual folding desks"
+      ],
+      "correctAnswer": "Specialized armchairs equipped with headsets and aroma injection systems"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What market trend has spurred the rapid expansion of Augmented Reality gaming?",
+      "options": [
+        "The surging population of mobile gamers seeking physical-world interaction",
+        "The mandatory regulatory requirement for AR software on all smart devices",
+        "The total technological obsolescence of home video gaming console boxes",
+        "The elimination of software pricing across digital application stores"
+      ],
+      "correctAnswer": "The surging population of mobile gamers seeking physical-world interaction"
+    }
+  ]
+}
