@@ -1,0 +1,317 @@
+{
+  "title": "2.3 Data Science",
+  "description": "Exhaustive coverage of Data Science disciplines, Big Data characteristics (Volume, Velocity, Variety), privacy issues, anonymization, and IoT from Grade 11 ICT Unit 2.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "data-science",
+    "big-data",
+    "emerging-technologies"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "What is Data Science defined as in the curriculum?",
+      "options": [
+        "A blend of tools, algorithms, and machine learning principles used to discover and extract hidden patterns",
+        "The physical replacement of damaged RAM sticks after hearing continuous POST beep codes",
+        "The design of analog telephone lines for point-to-point voice communications",
+        "A proprietary software protocol that exclusively manages relational primary keys"
+      ],
+      "correctAnswer": "A blend of tools, algorithms, and machine learning principles used to discover and extract hidden patterns"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which three academic disciplines intersect to form the interdisciplinary field of Data Science (Figure 2.24)?",
+      "options": [
+        "Computer Science, Mathematics, and Statistics",
+        "Physics, Chemistry, and Biology",
+        "Economics, History, and Geography",
+        "Sociology, Political Science, and Philosophy"
+      ],
+      "correctAnswer": "Computer Science, Mathematics, and Statistics"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "What is a Data Scientist?",
+      "options": [
+        "A professional who uses different types of algorithms to turn vast amounts of data into useful insights",
+        "A technician whose sole task is cleaning dust from power supply ventilators",
+        "An assembly line worker operating robotic machinery in automobile factories",
+        "A legal officer responsible for registering new patent trademarks at municipal offices"
+      ],
+      "correctAnswer": "A professional who uses different types of algorithms to turn vast amounts of data into useful insights"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "What is Big Data?",
+      "options": [
+        "A huge volume of data that cannot be processed using traditional methods",
+        "A single relational database table containing more than ten records",
+        "A high-level Python script that contains more than one hundred lines of code",
+        "An optical storage disc with a capacity exceeding seven hundred megabytes"
+      ],
+      "correctAnswer": "A huge volume of data that cannot be processed using traditional methods"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What are the three primary characteristics that define Big Data?",
+      "options": [
+        "Volume, Variety, and Velocity",
+        "Voltage, Vibration, and Viscosity",
+        "Validity, Veracity, and Value",
+        "Variables, Vectors, and Voids"
+      ],
+      "correctAnswer": "Volume, Variety, and Velocity"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "What does 'Volume' refer to in the context of Big Data characteristics?",
+      "options": [
+        "Data at Rest: terabytes to exabytes of existing data to process",
+        "The loudness of acoustic audio signals emitted during videoconferences",
+        "The physical diameter of a hard disk platter inside a server cabinet",
+        "The number of sound decibels produced by a vacuum cleaner"
+      ],
+      "correctAnswer": "Data at Rest: terabytes to exabytes of existing data to process"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "What does 'Velocity' refer to in the context of Big Data?",
+      "options": [
+        "Data in Motion: streaming data requiring milliseconds to seconds to respond",
+        "The maximum travel speed of an autonomous Tesla car on highway lanes",
+        "The rotation speed of a CPU cooling fan in revolutions per minute",
+        "The transmission speed of light through vacuum space"
+      ],
+      "correctAnswer": "Data in Motion: streaming data requiring milliseconds to seconds to respond"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What does 'Variety' refer to as a characteristic of Big Data?",
+      "options": [
+        "Data in Many Forms: structured, unstructured, text, and multimedia",
+        "The number of different programming languages supported by an operating system",
+        "The diverse manufacturer brands producing surge protectors and line conditioners",
+        "The assortment of font styles available in simple text editors"
+      ],
+      "correctAnswer": "Data in Many Forms: structured, unstructured, text, and multimedia"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "According to the textbook, how much data was Facebook generating every day in 2020?",
+      "options": [
+        "4 petabytes of data every day (equivalent to a million gigabytes)",
+        "500 megabytes of data every day",
+        "10 terabytes of data every month",
+        "100 gigabytes of data every year"
+      ],
+      "correctAnswer": "4 petabytes of data every day (equivalent to a million gigabytes)"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "How many gigabytes are equivalent to the 4 petabytes of data Facebook generated daily in 2020?",
+      "options": [
+        "One million gigabytes",
+        "One thousand gigabytes",
+        "Ten thousand gigabytes",
+        "One hundred million gigabytes"
+      ],
+      "correctAnswer": "One million gigabytes"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "What approaches does Data Science apply to effectively process big data?",
+      "options": [
+        "Mathematical and statistical approaches and computer tools",
+        "Manual filing cabinets and paper folder indexes",
+        "Analog voltage amplifiers and vacuum tube oscillators",
+        "Physical punch cards and mechanical sorting gears"
+      ],
+      "correctAnswer": "Mathematical and statistical approaches and computer tools"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "How is data science specifically applied in the manufacturing industry?",
+      "options": [
+        "To forecast product demand in order to determine the precise amount of raw material needed",
+        "To replace all conveyor belts with manual wheelbarrows",
+        "To eliminate quality control checks during production assembly",
+        "To calculate electrical power bills without utility meters"
+      ],
+      "correctAnswer": "To forecast product demand in order to determine the precise amount of raw material needed"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "How do social media companies utilize data science tools on user information?",
+      "options": [
+        "To achieve personalization of information on social media platforms",
+        "To erase all user interaction logs at the end of each session",
+        "To prevent users from browsing external website links",
+        "To convert all user photos into black-and-white drawings"
+      ],
+      "correctAnswer": "To achieve personalization of information on social media platforms"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "What is an important application of data science in the agricultural sector?",
+      "options": [
+        "Weather predictions",
+        "Manufacturing synthetic tractors",
+        "Bypassing seasonal soil fertilization",
+        "Replacing plant biology with mechanical robots"
+      ],
+      "correctAnswer": "Weather predictions"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "What is a prominent application of data science in the healthcare sector?",
+      "options": [
+        "Preventive medicine",
+        "Increasing administrative patient billing disputes",
+        "Eliminating hygiene sterilization protocols in clinics",
+        "Replacing physician consultations with commercial retail advertisements"
+      ],
+      "correctAnswer": "Preventive medicine"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "How is data science applied in the business sector?",
+      "options": [
+        "Risk management",
+        "Manual ledger tallying",
+        "Cash vault physical guarding",
+        "Paper voucher sorting"
+      ],
+      "correctAnswer": "Risk management"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Why does the application of data science in social networking sites sometimes create societal tension?",
+      "options": [
+        "Because it involves collecting massive amounts of user data, clashing with privacy and regulatory frameworks",
+        "Because data science servers consume more than half of the planet's atmospheric oxygen",
+        "Because social media companies prohibit users from accessing mathematical websites",
+        "Because data science tools permanently erase computer operating systems"
+      ],
+      "correctAnswer": "Because it involves collecting massive amounts of user data, clashing with privacy and regulatory frameworks"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "What is Data Anonymization?",
+      "options": [
+        "The process of removing personally identifiable information from a data set",
+        "Grouping data into broad categories such as age groups and geographical areas",
+        "Backing up files to an external hard drive to prevent hardware failure",
+        "Encrypting a hard disk using a biometric fingerprint sensor"
+      ],
+      "correctAnswer": "The process of removing personally identifiable information from a data set"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "What is Data Generalization?",
+      "options": [
+        "Bunching data into broad categories such as age groups and geographical areas",
+        "Deleting all numeric columns from a relational database table",
+        "Translating spoken languages into binary machine language",
+        "Removing all external hardware peripherals from a workstation"
+      ],
+      "correctAnswer": "Bunching data into broad categories such as age groups and geographical areas"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "What is the primary drawback of applying data anonymization and data generalization techniques?",
+      "options": [
+        "They limit the depth and level of insight that companies can generate from data",
+        "They cause sudden hardware overheating in computer storage components",
+        "They permanently corrupt the underlying relational database structure",
+        "They require high-voltage line conditioners to execute safely"
+      ],
+      "correctAnswer": "They limit the depth and level of insight that companies can generate from data"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "How is the Internet of Things (IoT) defined in the unit Key Terms?",
+      "options": [
+        "Interrelated Internet-connected objects that exchange data without human intervention",
+        "A global network of libraries storing historical paper manuscripts",
+        "A collection of relational database queries written in Microsoft Access",
+        "A suite of antivirus utilities that scans for email worms"
+      ],
+      "correctAnswer": "Interrelated Internet-connected objects that exchange data without human intervention"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "How is Social Media defined in the unit Key Terms?",
+      "options": [
+        "A medium that facilitates socializing through virtual networks",
+        "A physical bulletin board hung in municipal post offices",
+        "A telecommunication cable providing high-voltage power to server centers",
+        "An automated assembly robot used in car manufacturing plants"
+      ],
+      "correctAnswer": "A medium that facilitates socializing through virtual networks"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Which statement regarding Big Data and traditional data management is accurate?",
+      "options": [
+        "Big data cannot be processed or managed using traditional data processing methods",
+        "Big data can be easily managed within a single paper-based office ledger",
+        "Traditional spreadsheet files can store unlimited petabytes of streaming data",
+        "Big data only occurs when computer systems experience power sags"
+      ],
+      "correctAnswer": "Big data cannot be processed or managed using traditional data processing methods"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "What device is used to capture input for Augmented Reality applications?",
+      "options": [
+        "A camera",
+        "A barcode wand",
+        "A floppy disk drive",
+        "A stylus digitizer tablet"
+      ],
+      "correctAnswer": "A camera"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "What type of experience does Virtual Reality provide as identified in the unit review matching questions?",
+      "options": [
+        "A fully immersive experience",
+        "A partially immersive experience",
+        "A non-visual text-only experience",
+        "A purely tactile mechanical experience"
+      ],
+      "correctAnswer": "A fully immersive experience"
+    }
+  ]
+}

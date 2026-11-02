@@ -1,0 +1,544 @@
+{
+  "title": "2.1 Artificial Intelligence",
+  "description": "Exhaustive coverage of AI definitions, history, branches, expert systems, and real-world applications from Grade 11 ICT Unit 2.",
+  "folder": "School/Grade 11/ICT/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "ict",
+    "grade11",
+    "unit2",
+    "ai",
+    "emerging-technologies"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "How is an emerging technology defined in the Grade 11 ICT curriculum?",
+      "options": [
+        "A technology that is developing and evolving fast with a prominent socio-economic impact",
+        "A static technology that has been utilized in business for over fifty years",
+        "A proprietary software application exclusive to government departments",
+        "A deprecated hardware protocol replaced by modern wireless standards"
+      ],
+      "correctAnswer": "A technology that is developing and evolving fast with a prominent socio-economic impact"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "What is the primary definition of Artificial Intelligence (AI)?",
+      "options": [
+        "A branch of computer science that deals with the design of systems that mimic human intelligence",
+        "A database software designed solely for electronic fund transfers in banks",
+        "A physical telecommunications cable connecting disparate local area networks",
+        "An operating system designed specifically for server mainframe computers"
+      ],
+      "correctAnswer": "A branch of computer science that deals with the design of systems that mimic human intelligence"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which two capabilities are AI systems designed to possess that were traditionally considered unique to humans?",
+      "options": [
+        "Reasoning and generalization",
+        "Capacitance and conduction",
+        "Compilation and interpretation",
+        "Defragmentation and indexing"
+      ],
+      "correctAnswer": "Reasoning and generalization"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which of the following scenarios is an example of reasoning as described in the textbook?",
+      "options": [
+        "My friend is either at home or in her workplace. My friend is not in her workplace. Therefore, my friend is at home.",
+        "I know how to change a bicycle wheel, so I can change the wheel on my friend's bicycle.",
+        "Replacing a damaged motherboard with an identical model after running POST diagnostics.",
+        "Entering student marks into a database to generate a quarterly ranking report."
+      ],
+      "correctAnswer": "My friend is either at home or in her workplace. My friend is not in her workplace. Therefore, my friend is at home."
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "What does generalization in artificial intelligence refer to?",
+      "options": [
+        "Applying past experiences to current problems of similar nature",
+        "Deleting redundant records across relational database tables",
+        "Converting continuous analog signals into binary discrete values",
+        "Scanning storage disks to eliminate fragmented sectors"
+      ],
+      "correctAnswer": "Applying past experiences to current problems of similar nature"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "In which decade does the history of artificial intelligence begin, according to the textbook?",
+      "options": [
+        "The 1940s",
+        "The 1920s",
+        "The 1970s",
+        "The 1990s"
+      ],
+      "correctAnswer": "The 1940s"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In which decade was the term 'Artificial Intelligence' officially coined?",
+      "options": [
+        "The 1950s",
+        "The 1930s",
+        "The 1960s",
+        "The 1980s"
+      ],
+      "correctAnswer": "The 1950s"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "What are the two main drivers behind the rapid growth and popularity of AI today?",
+      "options": [
+        "Significant growth in computer capacity and the availability of large amounts of data",
+        "The abandonment of relational databases and lower hardware production costs",
+        "The universal adoption of dial-up modems and analog televisions",
+        "Decreased energy costs and mandatory government mandates"
+      ],
+      "correctAnswer": "Significant growth in computer capacity and the availability of large amounts of data"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "What is Machine Learning?",
+      "options": [
+        "The study of computer algorithms that enable computers to learn from data and improve without being explicitly programmed",
+        "The physical assembly of robotic components along an automobile manufacturing line",
+        "The manual coding of if-then statements for every single real-world contingency",
+        "The transmission of binary data over fiber-optic telecommunication cables"
+      ],
+      "correctAnswer": "The study of computer algorithms that enable computers to learn from data and improve without being explicitly programmed"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "From what source do machine learning algorithms acquire their ability to improve?",
+      "options": [
+        "Experience",
+        "Compiler syntax checks",
+        "BIOS configuration settings",
+        "Surge protectors"
+      ],
+      "correctAnswer": "Experience"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "How do machine learning algorithms fundamentally differ from conventional computer algorithms?",
+      "options": [
+        "Machine learning algorithms train on sample data inputs to build predictive models rather than following explicit programmed instructions",
+        "Conventional algorithms learn from experience while machine learning relies purely on manual logic gates",
+        "Machine learning algorithms run without requiring memory or electrical power",
+        "Conventional algorithms only run on mobile devices whereas machine learning runs on analog circuits"
+      ],
+      "correctAnswer": "Machine learning algorithms train on sample data inputs to build predictive models rather than following explicit programmed instructions"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which group of applications is explicitly cited in the textbook as examples of Machine Learning?",
+      "options": [
+        "Fraud detection, recommendation systems, email spam detector, and speech recognition",
+        "Disk defragmentation, CMOS battery replacement, and POST diagnostic beeps",
+        "HTML table creation, anchor hyperlinks, and ordered list numbering",
+        "Relational entity creation, SQL query writing, and primary key definition"
+      ],
+      "correctAnswer": "Fraud detection, recommendation systems, email spam detector, and speech recognition"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "What is Robotics defined as in the curriculum?",
+      "options": [
+        "The study of machines called robots that substitute tasks that are traditionally done by human beings",
+        "The electronic manipulation of audio signals through teleconferencing codecs",
+        "The conversion of high-level programming code into machine language instructions",
+        "The process of de-identifying personal data in medical records"
+      ],
+      "correctAnswer": "The study of machines called robots that substitute tasks that are traditionally done by human beings"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "In which industrial sector have robots been primarily used over the past few decades to replace routine human labor?",
+      "options": [
+        "Car manufacturing assembly lines",
+        "Textbook publishing editorial offices",
+        "Agricultural manual cotton harvesting",
+        "Handmade pottery studios"
+      ],
+      "correctAnswer": "Car manufacturing assembly lines"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which hazardous environments are highlighted as suitable domains for robotic deployment?",
+      "options": [
+        "Handling radioactive wastes, underwater environments, and space explorations",
+        "Air-conditioned computer laboratories and primary school classrooms",
+        "Municipal libraries and local grocery checkout counters",
+        "Customer service call centers and banking reception desks"
+      ],
+      "correctAnswer": "Handling radioactive wastes, underwater environments, and space explorations"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "What household machine is highlighted as a well-known example of robots working without human intervention in homes?",
+      "options": [
+        "Robot vacuum cleaner",
+        "Microwave oven",
+        "Analog refrigerator",
+        "Electric water kettle"
+      ],
+      "correctAnswer": "Robot vacuum cleaner"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "What is Natural Language Processing (NLP)?",
+      "options": [
+        "A branch of AI that deals with enabling computers to understand written and spoken human language in the same way humans do",
+        "A low-level assembly language translator that converts mnemonics to binary machine code",
+        "A relational database query language designed for manipulating entity tables",
+        "A hardware protocol that regulates voltage supplied to motherboard components"
+      ],
+      "correctAnswer": "A branch of AI that deals with enabling computers to understand written and spoken human language in the same way humans do"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which email service provider is explicitly named in the textbook as using NLP to analyze email text for spam detection?",
+      "options": [
+        "Yahoo",
+        "Hotmail",
+        "ProtonMail",
+        "AOL"
+      ],
+      "correctAnswer": "Yahoo"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Which translation system is explicitly mentioned as using NLP to translate text from one language to another?",
+      "options": [
+        "Google Translate",
+        "DeepL",
+        "Babylon Translator",
+        "Systran"
+      ],
+      "correctAnswer": "Google Translate"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Which two voice-operated virtual assistants are cited in the textbook as examples of NLP in action?",
+      "options": [
+        "Amazon's Alexa and Apple's Siri",
+        "Microsoft Cortana and Samsung Bixby",
+        "Google Assistant and IBM Watson",
+        "Mycin and Robonaut"
+      ],
+      "correctAnswer": "Amazon's Alexa and Apple's Siri"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "What is Sentiment Analysis in NLP?",
+      "options": [
+        "Extracting and analyzing users' social media data to determine opinions as negative, positive, or neutral",
+        "Predicting the exact atmospheric temperature from satellite meteorological imagery",
+        "Compressing high-definition video streams for real-time teleconferencing",
+        "Filtering duplicate records from a relational database table"
+      ],
+      "correctAnswer": "Extracting and analyzing users' social media data to determine opinions as negative, positive, or neutral"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "How does NLP contribute to fake news identification?",
+      "options": [
+        "By identifying whether news is trustworthy and checking the reliability of its source",
+        "By permanently deleting unverified social media profiles",
+        "By encrypting articles using symmetric cryptographic keys",
+        "By converting online text into high-resolution vector images"
+      ],
+      "correctAnswer": "By identifying whether news is trustworthy and checking the reliability of its source"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "What is Text Summarization in NLP?",
+      "options": [
+        "Automatically generating a concise summary of a large piece of document such as an academic article",
+        "Translating spoken dialect audio into written English text",
+        "Counting total characters in a document to determine printer toner usage",
+        "Splitting a single paragraph into multiple HTML table cells"
+      ],
+      "correctAnswer": "Automatically generating a concise summary of a large piece of document such as an academic article"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "What are Expert Systems?",
+      "options": [
+        "Computer programs that emulate human experts to solve problems normally solved by human experts",
+        "Hardware diagnostic cards that evaluate CPU voltage fluctuations",
+        "Operating systems designed specifically to format hard drives",
+        "Mobile applications created to manage personal fitness schedules"
+      ],
+      "correctAnswer": "Computer programs that emulate human experts to solve problems normally solved by human experts"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Which three professional fields are cited in the textbook as benefiting from expert systems?",
+      "options": [
+        "Medical diagnosis, petroleum engineering, and financial investing",
+        "Textile manufacturing, furniture design, and carpentry",
+        "Music production, sculpture carving, and oil painting",
+        "Postal sorting, paper recycling, and masonry"
+      ],
+      "correctAnswer": "Medical diagnosis, petroleum engineering, and financial investing"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "What are the three core components of an Expert System?",
+      "options": [
+        "User Interface, Knowledge Base, and Inference Engine",
+        "CPU, RAM, and Hard Disk",
+        "Compiler, Assembler, and Interpreter",
+        "Entity, Attribute, and Relationship"
+      ],
+      "correctAnswer": "User Interface, Knowledge Base, and Inference Engine"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "What is the function of the User Interface component in an Expert System?",
+      "options": [
+        "Accepts queries from the user, forwards them to the inference engine, and displays the recommendations",
+        "Executes machine code instructions in binary format",
+        "Stores employee payroll tables in an isolated spreadsheet",
+        "Calculates power voltage requirements for hardware peripherals"
+      ],
+      "correctAnswer": "Accepts queries from the user, forwards them to the inference engine, and displays the recommendations"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "How is knowledge typically structured inside the Knowledge Base of an expert system?",
+      "options": [
+        "In the form of if-then-else rules comprising factual and heuristic knowledge",
+        "As comma-separated plain text strings without rules",
+        "As unindexed binary image files stored on optical disks",
+        "In sequential punched cards organized by date of entry"
+      ],
+      "correctAnswer": "In the form of if-then-else rules comprising factual and heuristic knowledge"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "What type of knowledge in an expert system represents experiential or common-sense rules?",
+      "options": [
+        "Heuristic knowledge",
+        "Factual knowledge",
+        "Procedural SQL code",
+        "Relational syntax"
+      ],
+      "correctAnswer": "Heuristic knowledge"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "What is the role of the Inference Engine in an Expert System?",
+      "options": [
+        "It acts as the brain of the expert system that produces answers by referencing the knowledge base",
+        "It provides physical internet connectivity between workstations",
+        "It collects user demographic data through web browser forms",
+        "It converts AC power from the wall into regulated DC power"
+      ],
+      "correctAnswer": "It acts as the brain of the expert system that produces answers by referencing the knowledge base"
+    },
+    {
+      "id": 31,
+      "anki": true,
+      "question": "What was MYCIN, one of the earliest and most well-known expert systems?",
+      "options": [
+        "An expert system that emulates infectious disease experts, identifies bacteria causing infections, and recommends antibiotics",
+        "A software package that forecasts commodity price fluctuations on international stock markets",
+        "An autonomous rover built by NASA to traverse lunar craters",
+        "A search engine ranking algorithm developed by Google to index medical journals"
+      ],
+      "correctAnswer": "An expert system that emulates infectious disease experts, identifies bacteria causing infections, and recommends antibiotics"
+    },
+    {
+      "id": 32,
+      "anki": true,
+      "question": "How does artificial intelligence enhance the online shopping experience for users?",
+      "options": [
+        "By processing massive user data to extract personalized profiles and recommend items shoppers are likely interested in",
+        "By eliminating all shipping and packaging costs for international parcels",
+        "By replacing all human couriers with submarine transport vessels",
+        "By requiring users to manually calculate inventory tax percentages"
+      ],
+      "correctAnswer": "By processing massive user data to extract personalized profiles and recommend items shoppers are likely interested in"
+    },
+    {
+      "id": 33,
+      "anki": true,
+      "question": "Which data sources do autonomous cars collect information from to function without human intervention?",
+      "options": [
+        "GPS, vehicle radar, and cameras",
+        "Barometer, thermometer, and paper road maps",
+        "FM radio signals, tachometers, and spark plugs",
+        "Printed municipal blueprints and traffic officer whistles"
+      ],
+      "correctAnswer": "GPS, vehicle radar, and cameras"
+    },
+    {
+      "id": 34,
+      "anki": true,
+      "question": "Which automobile company is explicitly cited in the textbook as having implemented autopilot features in its cars?",
+      "options": [
+        "Tesla",
+        "Toyota",
+        "Ford",
+        "Mercedes-Benz"
+      ],
+      "correctAnswer": "Tesla"
+    },
+    {
+      "id": 35,
+      "anki": true,
+      "question": "Which capability of autonomous cars is expected to significantly reduce road accidents?",
+      "options": [
+        "Exchanging safety-critical information with each other, having a 360-degree surrounding view, and flagging road hazards ahead",
+        "Operating at unlimited travel speeds regardless of road surface weather",
+        "Bypassing municipal traffic signals and one-way road restrictions",
+        "Using aircraft fuel to increase engine combustion acceleration"
+      ],
+      "correctAnswer": "Exchanging safety-critical information with each other, having a 360-degree surrounding view, and flagging road hazards ahead"
+    },
+    {
+      "id": 36,
+      "anki": true,
+      "question": "Which social media company is highlighted in the textbook as applying AI for advertising, personalized content delivery, and facial recognition?",
+      "options": [
+        "Facebook",
+        "LinkedIn",
+        "Twitter",
+        "Pinterest"
+      ],
+      "correctAnswer": "Facebook"
+    },
+    {
+      "id": 37,
+      "anki": true,
+      "question": "How do modern surveillance systems utilize artificial intelligence?",
+      "options": [
+        "By automatically detecting suspicious behavior in real-time in locations like supermarkets and security stations",
+        "By permanently disabling all closed-circuit camera lenses during nighttime hours",
+        "By storing uncompressed footage exclusively on magnetic floppy disks",
+        "By replacing physical security perimeters with acoustic broadcast warnings"
+      ],
+      "correctAnswer": "By automatically detecting suspicious behavior in real-time in locations like supermarkets and security stations"
+    },
+    {
+      "id": 38,
+      "anki": true,
+      "question": "What are primary applications of AI in agriculture listed in the curriculum?",
+      "options": [
+        "Precision farming, detection of pests, monitoring soil and crop health, and climate advisory systems",
+        "Manual seed scattering, ox-driven plowing, and sickle weed cutting",
+        "Replacing plant photosynthesis with artificial ultraviolet grow lamps",
+        "Eliminating nitrogen and phosphorus cycles from agricultural fields"
+      ],
+      "correctAnswer": "Precision farming, detection of pests, monitoring soil and crop health, and climate advisory systems"
+    },
+    {
+      "id": 39,
+      "anki": true,
+      "question": "What is a chatbot in customer service?",
+      "options": [
+        "A system that simulates human conversation through text or voice commands to provide fast and cheaper customer support",
+        "A robotic arm deployed along an industrial assembly line to package goods",
+        "An automated banking machine that dispenses paper currency upon card insertion",
+        "A network switch that forwards data packets between disparate subnets"
+      ],
+      "correctAnswer": "A system that simulates human conversation through text or voice commands to provide fast and cheaper customer support"
+    },
+    {
+      "id": 40,
+      "anki": true,
+      "question": "What is the name of the NASA robot designed to work alongside astronauts on the International Space Station (ISS)?",
+      "options": [
+        "Robonaut",
+        "Curiosity",
+        "Perseverance",
+        "Opportunity"
+      ],
+      "correctAnswer": "Robonaut"
+    },
+    {
+      "id": 41,
+      "anki": true,
+      "question": "What functions does Robonaut perform on the International Space Station?",
+      "options": [
+        "It uses many of the tools that an astronaut uses and performs tasks normally done by human beings",
+        "It serves as the main orbital propulsion engine for the space station",
+        "It manages the financial accounting books of NASA contractors",
+        "It transmits audio commercial broadcasts to Earth radio receivers"
+      ],
+      "correctAnswer": "It uses many of the tools that an astronaut uses and performs tasks normally done by human beings"
+    },
+    {
+      "id": 42,
+      "anki": true,
+      "question": "How do artificial intelligence systems assist in smart homes?",
+      "options": [
+        "By assisting in home security, household chores, and smoke alerting",
+        "By eliminating the need for electrical wiring and plumbing in the house",
+        "By converting household waste directly into potable mineral water",
+        "By automatically drafting legal real estate property transfer contracts"
+      ],
+      "correctAnswer": "By assisting in home security, household chores, and smoke alerting"
+    },
+    {
+      "id": 43,
+      "anki": true,
+      "question": "How do banking institutions leverage AI for fraud prevention?",
+      "options": [
+        "By tracing patterns in credit card transactions to detect fraudulent activities",
+        "By requiring physical thumbprint ink stamps on all paper checks",
+        "By restricting all ATM withdrawals to local daytime branch hours",
+        "By storing client ledger balances on paper index cards"
+      ],
+      "correctAnswer": "By tracing patterns in credit card transactions to detect fraudulent activities"
+    },
+    {
+      "id": 44,
+      "anki": true,
+      "question": "What is the name of Google's AI ranking algorithm that determines the order of search results?",
+      "options": [
+        "Google RankBrain",
+        "Google PageRank",
+        "Google DeepSearch",
+        "Google AlphaIndex"
+      ],
+      "correctAnswer": "Google RankBrain"
+    }
+  ]
+}
