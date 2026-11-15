@@ -1,0 +1,339 @@
+{
+  "title": "2.6.1 Thermoregulation",
+  "description": "Poikilothermic and homeothermic animals, heat loss and gain, and surface area ratio",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "homeostasis"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Thermoregulation is the process of maintaining the internal body temperature:",
+      "options": [
+        "at a constant level",
+        "rising steadily",
+        "falling steadily",
+        "equal to the environment"
+      ],
+      "correctAnswer": "at a constant level"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Organisms use behavior, physiology, and morphology to keep body temperature within:",
+      "options": [
+        "optimal levels",
+        "random levels",
+        "maximum levels",
+        "minimum levels"
+      ],
+      "correctAnswer": "optimal levels"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Poikilothermic animals have a body temperature that is:",
+      "options": [
+        "the same as their environment",
+        "constant in all environments",
+        "always higher than the environment",
+        "independent of the environment"
+      ],
+      "correctAnswer": "the same as their environment"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Poikilothermic animals are also known as:",
+      "options": [
+        "ectothermic animals",
+        "endothermic animals",
+        "homeothermic animals",
+        "warm-blooded animals"
+      ],
+      "correctAnswer": "ectothermic animals"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "In poikilothermic animals, body temperature:",
+      "options": [
+        "varies with the environment",
+        "stays constant in every habitat",
+        "is raised mainly by shivering",
+        "is lowered mainly by sweating"
+      ],
+      "correctAnswer": "varies with the environment"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "On a hot day, a poikilothermic animal may:",
+      "options": [
+        "burrow itself into the ground",
+        "shiver to generate heat",
+        "sweat to cool its body",
+        "grow a thick layer of insulating fur"
+      ],
+      "correctAnswer": "burrow itself into the ground"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Poikilothermic animals may climb onto rocks during the coldest time of the day to:",
+      "options": [
+        "capture heat",
+        "avoid predators",
+        "find drinking water",
+        "lay their eggs"
+      ],
+      "correctAnswer": "capture heat"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Bees survive cold seasons by:",
+      "options": [
+        "group activity inside the hive",
+        "migrating to warmer regions",
+        "growing a thick insulating fat layer",
+        "sweating heavily to release heat"
+      ],
+      "correctAnswer": "group activity inside the hive"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Homeothermic animals are also known as:",
+      "options": [
+        "endothermic animals",
+        "ectothermic animals",
+        "poikilothermic animals",
+        "cold-blooded animals"
+      ],
+      "correctAnswer": "endothermic animals"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Homeothermic animals maintain a constant internal body temperature by:",
+      "options": [
+        "generating internal heat",
+        "matching the environment",
+        "absorbing heat from rocks",
+        "changing their body size"
+      ],
+      "correctAnswer": "generating internal heat"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Ways of insulation used to conserve body heat include fur, fat, and:",
+      "options": [
+        "feathers",
+        "scales and shells",
+        "fins and gills",
+        "claws and horns"
+      ],
+      "correctAnswer": "feathers"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The arctic fox uses its fluffy tail as extra insulation when it:",
+      "options": [
+        "curls up to sleep in the cold",
+        "swims through icy cold water",
+        "hunts actively during hot summers",
+        "sheds its thick winter coat"
+      ],
+      "correctAnswer": "curls up to sleep in the cold"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Vasoconstriction is the narrowing of blood vessels to the skin by the contraction of:",
+      "options": [
+        "smooth muscles",
+        "skeletal muscles",
+        "cardiac muscles",
+        "skin cells"
+      ],
+      "correctAnswer": "smooth muscles"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The main effect of vasoconstriction is to:",
+      "options": [
+        "retain heat in the body",
+        "release heat from the body",
+        "increase blood flow to the skin",
+        "lower the body temperature"
+      ],
+      "correctAnswer": "retain heat in the body"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Shivering produces heat because muscle contractions require energy from:",
+      "options": [
+        "respiration",
+        "digestion",
+        "photosynthesis",
+        "fermentation"
+      ],
+      "correctAnswer": "respiration"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Vasodilation is the opening up of arterioles to the skin through the:",
+      "options": [
+        "relaxation of their smooth muscles",
+        "contraction of their smooth muscles",
+        "narrowing of the blood vessels",
+        "closure of the sweat glands"
+      ],
+      "correctAnswer": "relaxation of their smooth muscles"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "The main effect of vasodilation is to:",
+      "options": [
+        "increase heat loss from the body surface",
+        "retain heat within the body core",
+        "reduce blood flow to the skin",
+        "raise the internal body temperature quickly"
+      ],
+      "correctAnswer": "increase heat loss from the body surface"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Sweat is produced by sweat glands and travels up the sweat duct and out of the:",
+      "options": [
+        "sweat pore onto the skin surface",
+        "hair follicle onto the skin",
+        "blood vessel into the blood plasma",
+        "kidney into the urine"
+      ],
+      "correctAnswer": "sweat pore onto the skin surface"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The part of the brain that coordinates temperature regulation is the:",
+      "options": [
+        "hypothalamus",
+        "cerebellum",
+        "medulla oblongata",
+        "cerebral cortex"
+      ],
+      "correctAnswer": "hypothalamus"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "The four mechanisms of heat exchange between an animal and its environment are radiation, evaporation, convection, and:",
+      "options": [
+        "conduction",
+        "transpiration",
+        "respiration",
+        "digestion"
+      ],
+      "correctAnswer": "conduction"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Large ears in hot areas help animals to:",
+      "options": [
+        "lose heat and cool their bodies",
+        "conserve heat in the cold",
+        "detect predators more easily in the area",
+        "store extra water for later"
+      ],
+      "correctAnswer": "lose heat and cool their bodies"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Small ears and fur in cold areas help animals to:",
+      "options": [
+        "minimize heat loss and stay warm",
+        "maximize heat loss and stay cool",
+        "increase their surface area",
+        "reduce their body volume"
+      ],
+      "correctAnswer": "minimize heat loss and stay warm"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "As animals grow in size, their inside volume increases while their outside surface area:",
+      "options": [
+        "decreases relative to volume",
+        "increases relative to volume",
+        "stays exactly the same",
+        "becomes equal to volume"
+      ],
+      "correctAnswer": "decreases relative to volume"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "An animal with a greater surface-area-to-volume ratio will have:",
+      "options": [
+        "more heat loss",
+        "less heat loss",
+        "a constant body temperature",
+        "a lower metabolic rate"
+      ],
+      "correctAnswer": "more heat loss"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Compared with a rabbit, an elephant has a:",
+      "options": [
+        "smaller surface-area-to-volume ratio",
+        "larger surface-area-to-volume ratio",
+        "higher rate of heat loss",
+        "greater metabolic rate per unit mass"
+      ],
+      "correctAnswer": "smaller surface-area-to-volume ratio"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Smaller animals have a higher surface-area-to-volume ratio, so they:",
+      "options": [
+        "lose heat more rapidly",
+        "lose heat more slowly",
+        "generate no body heat at all",
+        "keep heat more easily"
+      ],
+      "correctAnswer": "lose heat more rapidly"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Animals can also maintain body temperature by huddling with conspecifics, making nests, digging burrows, and:",
+      "options": [
+        "wearing clothes or air conditioning",
+        "changing their genetic material over time",
+        "stopping all metabolic activity",
+        "growing new body organs over time"
+      ],
+      "correctAnswer": "wearing clothes or air conditioning"
+    }
+  ]
+}

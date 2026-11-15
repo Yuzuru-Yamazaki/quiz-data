@@ -1,0 +1,302 @@
+{
+  "title": "2.1 Vectors and Types of Vectors",
+  "description": "Scalar and vector quantities, arrow representation to scale, and the main types of vectors including collinear, coplanar, parallel, antiparallel, equal, negative, null, and unit vectors",
+  "folder": "School/Grade 11/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "A scalar quantity is fully described by which property?",
+      "options": [
+        "Magnitude only",
+        "Direction only",
+        "Magnitude and direction",
+        "A number and a direction"
+      ],
+      "correctAnswer": "Magnitude only"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A vector quantity is fully described by which pair?",
+      "options": [
+        "Magnitude and direction",
+        "Magnitude only",
+        "Direction only",
+        "A pure number with a unit"
+      ],
+      "correctAnswer": "Magnitude and direction"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which of these quantities is a vector?",
+      "options": [
+        "Displacement",
+        "Total distance",
+        "Average speed",
+        "Mass in kilograms"
+      ],
+      "correctAnswer": "Displacement"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which of these quantities is a scalar?",
+      "options": [
+        "Pressure",
+        "Weight",
+        "Force",
+        "Velocity"
+      ],
+      "correctAnswer": "Pressure"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "On a vector diagram, the length of the arrow represents the vector's",
+      "options": [
+        "Magnitude",
+        "Direction",
+        "Unit",
+        "Origin"
+      ],
+      "correctAnswer": "Magnitude"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "On a vector diagram, the arrowhead shows the vector's",
+      "options": [
+        "Direction",
+        "Magnitude",
+        "Length",
+        "Origin"
+      ],
+      "correctAnswer": "Direction"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which set of tools is suitable for drawing a vector to scale?",
+      "options": [
+        "A ruler and a protractor",
+        "A balance and a stopwatch",
+        "A thermometer and a clock",
+        "A voltmeter and an ammeter"
+      ],
+      "correctAnswer": "A ruler and a protractor"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Collinear vectors lie",
+      "options": [
+        "Along one line",
+        "In one plane",
+        "At right angles",
+        "On a curved path"
+      ],
+      "correctAnswer": "Along one line"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Coplanar vectors lie",
+      "options": [
+        "In one plane",
+        "Along one line",
+        "At right angles",
+        "On a curved path"
+      ],
+      "correctAnswer": "In one plane"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Parallel vectors have",
+      "options": [
+        "The same direction",
+        "Opposite directions",
+        "Right-angled directions",
+        "Unrelated directions"
+      ],
+      "correctAnswer": "The same direction"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Antiparallel vectors have",
+      "options": [
+        "Opposite directions",
+        "The same direction",
+        "Right-angled directions",
+        "Unrelated directions"
+      ],
+      "correctAnswer": "Opposite directions"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Equal vectors must have",
+      "options": [
+        "Equal size and direction",
+        "Equal size and opposite direction",
+        "Any equal sizes",
+        "Perpendicular directions"
+      ],
+      "correctAnswer": "Equal size and direction"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The negative of a vector has",
+      "options": [
+        "Same size, opposite sense",
+        "Twice the size, same sense",
+        "Half the size, same sense",
+        "Zero size, any sense"
+      ],
+      "correctAnswer": "Same size, opposite sense"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The negative of a 60 km displacement toward North is",
+      "options": [
+        "60 km toward South",
+        "60 km toward North",
+        "30 km toward South",
+        "120 km toward North"
+      ],
+      "correctAnswer": "60 km toward South"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The negative of 100 km/h at 20 degrees South of East is",
+      "options": [
+        "100 km/h at 20 degrees North of West",
+        "100 km/h at 20 degrees South of East",
+        "100 km/h at 20 degrees North of East",
+        "100 km/h at 20 degrees South of West"
+      ],
+      "correctAnswer": "100 km/h at 20 degrees North of West"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "A null vector has",
+      "options": [
+        "Zero magnitude",
+        "Unit magnitude",
+        "Large magnitude",
+        "Negative magnitude"
+      ],
+      "correctAnswer": "Zero magnitude"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A unit vector has a magnitude of",
+      "options": [
+        "Exactly one",
+        "Exactly zero",
+        "Two or more",
+        "Any chosen value"
+      ],
+      "correctAnswer": "Exactly one"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Moving a vector parallel to itself changes",
+      "options": [
+        "Neither size nor direction",
+        "Only its magnitude",
+        "Only its direction",
+        "Both its size and direction"
+      ],
+      "correctAnswer": "Neither size nor direction"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Weight is best classified as",
+      "options": [
+        "A vector quantity",
+        "A scalar quantity",
+        "A unitless number",
+        "A dimensionless ratio"
+      ],
+      "correctAnswer": "A vector quantity"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Distance and displacement differ because",
+      "options": [
+        "Distance is scalar, displacement vector",
+        "Distance is vector, displacement scalar",
+        "Both are scalar quantities",
+        "Both are vector quantities"
+      ],
+      "correctAnswer": "Distance is scalar, displacement vector"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "A physical quantity is fully specified only with",
+      "options": [
+        "Magnitude plus direction",
+        "Magnitude and unit only",
+        "Direction and unit only",
+        "A pure number with a unit"
+      ],
+      "correctAnswer": "Magnitude plus direction"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Which quantity is fully described by its magnitude and unit?",
+      "options": [
+        "Mass",
+        "Force",
+        "Velocity",
+        "Acceleration"
+      ],
+      "correctAnswer": "Mass"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Vector quantities in daily life include",
+      "options": [
+        "Force and velocity",
+        "Mass and time",
+        "Distance and speed",
+        "Energy and temperature"
+      ],
+      "correctAnswer": "Force and velocity"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "When drawing a scale diagram, the scale states the ratio of",
+      "options": [
+        "Diagram length to real size",
+        "Real size to the diagram width",
+        "Mass to volume",
+        "Time to distance"
+      ],
+      "correctAnswer": "Diagram length to real size"
+    }
+  ]
+}

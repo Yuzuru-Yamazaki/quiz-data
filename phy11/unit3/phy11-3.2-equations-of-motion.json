@@ -1,0 +1,302 @@
+{
+  "title": "3.2 Equations of Uniformly Accelerated Motion in 1D",
+  "description": "The kinematic equations for constant acceleration and their use in stopping distance, reaction distance, braking, and runway problems",
+  "folder": "School/Grade 11/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit3"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which kinematic equation links change in velocity to acceleration?",
+      "options": [
+        "vf = vi + at",
+        "s = vi t + half a times t squared",
+        "vf squared = vi squared + 2as",
+        "s = half (vi + vf) t"
+      ],
+      "correctAnswer": "vf = vi + at"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which kinematic equation relates velocity and displacement?",
+      "options": [
+        "vf squared = vi squared + 2as",
+        "vf = vi + at",
+        "s = vi t + half a times t squared",
+        "s = vf t - half a t squared"
+      ],
+      "correctAnswer": "vf squared = vi squared + 2as"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which kinematic equation gives displacement from initial velocity, acceleration, and time?",
+      "options": [
+        "s = vi t + 0.5 a t squared",
+        "vf = vi + at",
+        "vf squared = vi squared + 2as",
+        "s = half (vi + vf) t"
+      ],
+      "correctAnswer": "s = vi t + 0.5 a t squared"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which kinematic equation gives displacement from final velocity, acceleration, and time?",
+      "options": [
+        "s = vf t - half a t squared",
+        "s = vi t + half a times t squared",
+        "vf = vi + at",
+        "vf squared = vi squared + 2as"
+      ],
+      "correctAnswer": "s = vf t - half a t squared"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A car accelerates uniformly from rest to 20 m/s in 8 s. Its acceleration is",
+      "options": [
+        "2.5 m/s squared",
+        "1.5 m/s squared",
+        "2.0 m/s squared",
+        "8.0 m/s squared"
+      ],
+      "correctAnswer": "2.5 m/s squared"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The distance travelled by that car in the 8 s is",
+      "options": [
+        "80 m",
+        "40 m",
+        "160 m",
+        "20 m"
+      ],
+      "correctAnswer": "80 m"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "That car then brakes from 20 m/s to rest over 50 m. Its deceleration is",
+      "options": [
+        "4 m/s squared",
+        "2 m/s squared",
+        "5 m/s squared",
+        "8 m/s squared"
+      ],
+      "correctAnswer": "4 m/s squared"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "An airplane lands at 40 m/s and decelerates at 1.5 m/s squared. The runway length needed is about",
+      "options": [
+        "533 m",
+        "400 m",
+        "800 m",
+        "267 m"
+      ],
+      "correctAnswer": "533 m"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The airplane moving on the runway for how long before stopping? The time is about",
+      "options": [
+        "26.7 s",
+        "40.0 s",
+        "13.3 s",
+        "60.0 s"
+      ],
+      "correctAnswer": "26.7 s"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The braking distance of a vehicle, in terms of friction, is",
+      "options": [
+        "v squared over 2 mu g",
+        "v squared over mu g",
+        "v over 2 mu g",
+        "2 v squared over mu g"
+      ],
+      "correctAnswer": "v squared over 2 mu g"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The reaction distance of a vehicle is",
+      "options": [
+        "v t",
+        "half v t",
+        "v over t",
+        "v t squared"
+      ],
+      "correctAnswer": "v t"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The total stopping distance of a vehicle is",
+      "options": [
+        "v t + v squared over 2 mu g",
+        "v t - v squared over 2 mu g",
+        "v t + v squared over mu g",
+        "v t + 2 v squared over mu g"
+      ],
+      "correctAnswer": "v t + v squared over 2 mu g"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which factor increases the braking distance of a car?",
+      "options": [
+        "Higher speed",
+        "Lower speed",
+        "Better brakes",
+        "Dry road"
+      ],
+      "correctAnswer": "Higher speed"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "On an icy road, the stopping distance of a car",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Stays the same",
+        "Becomes zero"
+      ],
+      "correctAnswer": "Increases"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "A vehicle travelling at 30 m/s stops in 100 m. Its deceleration is",
+      "options": [
+        "4.5 m/s squared",
+        "3.0 m/s squared",
+        "9.0 m/s squared",
+        "0.3 m/s squared"
+      ],
+      "correctAnswer": "4.5 m/s squared"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "A train at 40 m/s brakes at 2 m/s squared beside a 400 m platform. The train",
+      "options": [
+        "Stops at the platform end",
+        "Stops before the platform end",
+        "Overshoots the platform",
+        "Never stops at all"
+      ],
+      "correctAnswer": "Stops at the platform end"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Reaction time is the time taken to",
+      "options": [
+        "Observe and respond",
+        "Brake fully to rest",
+        "Accelerate to speed",
+        "Finish a journey"
+      ],
+      "correctAnswer": "Observe and respond"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The distance covered in the nth second of uniformly accelerated motion is",
+      "options": [
+        "u + a(2n - 1) over 2",
+        "u + a n",
+        "u + 2 a n",
+        "u t + a t squared over 2"
+      ],
+      "correctAnswer": "u + a(2n - 1) over 2"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Given initial velocity, acceleration, and time, the final velocity is found from",
+      "options": [
+        "vf = vi + at",
+        "vf squared = vi squared + 2as",
+        "s = vi t + half a times t squared",
+        "s = half (vi + vf) t"
+      ],
+      "correctAnswer": "vf = vi + at"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Given initial velocity, final velocity, and displacement, the acceleration is found from",
+      "options": [
+        "vf squared = vi squared + 2as",
+        "vf = vi + at",
+        "s = vi t + half a times t squared",
+        "s = vf t - half a t squared"
+      ],
+      "correctAnswer": "vf squared = vi squared + 2as"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "When a car brakes to rest, its final velocity is",
+      "options": [
+        "Zero",
+        "Equal to initial velocity",
+        "Twice the initial velocity",
+        "Half the initial velocity"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "If acceleration is zero, the displacement in time t is",
+      "options": [
+        "vi t",
+        "vi t + half a t squared",
+        "half a t squared",
+        "vf t"
+      ],
+      "correctAnswer": "vi t"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "A body starting from rest has an initial velocity of",
+      "options": [
+        "Zero",
+        "Equal to a",
+        "Equal to t",
+        "Equal to s"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "For uniformly accelerated motion, the average velocity is",
+      "options": [
+        "(vi + vf) over 2",
+        "(vi - vf) over 2",
+        "(vf - vi) over 2",
+        "vi + vf"
+      ],
+      "correctAnswer": "(vi + vf) over 2"
+    }
+  ]
+}

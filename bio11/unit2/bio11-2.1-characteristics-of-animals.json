@@ -1,0 +1,171 @@
+{
+  "title": "2.1 Characteristics of Animals",
+  "description": "The shared features of animals and how they are classified into major groups",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "characteristics"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Animals are eukaryotic organisms. Their mode of nutrition is best described as:",
+      "options": [
+        "heterotrophic, using organic food sources",
+        "autotrophic, using sunlight and carbon dioxide",
+        "chemosynthetic, using inorganic minerals",
+        "mixotrophic, combining plant and animal modes"
+      ],
+      "correctAnswer": "heterotrophic, using organic food sources"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The ability of animals to detect and respond to changes in their surroundings is known as:",
+      "options": [
+        "sensitivity to stimuli",
+        "cellular respiration rates",
+        "body symmetry patterns",
+        "sexual reproduction timing"
+      ],
+      "correctAnswer": "sensitivity to stimuli"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Animals are divided into vertebrates and invertebrates based on the presence or absence of a:",
+      "options": [
+        "backbone or vertebral column",
+        "closed circulatory systems only",
+        "specialized nervous systems",
+        "hard external exoskeletons"
+      ],
+      "correctAnswer": "backbone or vertebral column"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Vertebrates that keep their body temperature constant regardless of the environment are called:",
+      "options": [
+        "homeothermic animals",
+        "poikilothermic animals",
+        "ectothermic animals",
+        "invertebrate animals"
+      ],
+      "correctAnswer": "homeothermic animals"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which pair of animal groups is classified as homeothermic (warm-blooded)?",
+      "options": [
+        "mammals and birds",
+        "reptiles and fishes",
+        "amphibians and fishes",
+        "insects and reptiles"
+      ],
+      "correctAnswer": "mammals and birds"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Fish, reptiles, and amphibians are grouped as:",
+      "options": [
+        "poikilothermic cold-blooded animals",
+        "homeothermic warm-blooded animals",
+        "invertebrate animals with exoskeletons",
+        "arthropod animals with jointed legs"
+      ],
+      "correctAnswer": "poikilothermic cold-blooded animals"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Porifera and cnidaria are examples of:",
+      "options": [
+        "invertebrate phyla",
+        "vertebrate classes",
+        "arthropod orders",
+        "mammalian families"
+      ],
+      "correctAnswer": "invertebrate phyla"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Arthropods are further classified into crustacea, spiders, insects, and:",
+      "options": [
+        "many-legged animals",
+        "molluscs and annelids",
+        "echinoderms and porifera",
+        "platyhelminth worms"
+      ],
+      "correctAnswer": "many-legged animals"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which set lists characteristics shared by all animals?",
+      "options": [
+        "multicellular, heterotrophic, motile",
+        "unicellular, autotrophic, and sessile",
+        "prokaryotic, autotrophic, and motile",
+        "multicellular, autotrophic, and sessile"
+      ],
+      "correctAnswer": "multicellular, heterotrophic, motile"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Animals that obtain their food by eating other organisms are described as:",
+      "options": [
+        "heterotrophic",
+        "autotrophic",
+        "photosynthetic",
+        "chemosynthetic"
+      ],
+      "correctAnswer": "heterotrophic"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which feature is a common characteristic of animals?",
+      "options": [
+        "ability to excrete waste products",
+        "ability to photosynthesize their food",
+        "possession of a cellulose cell wall",
+        "possession of a vertebral column"
+      ],
+      "correctAnswer": "ability to excrete waste products"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The group that includes mammals, birds, fish, reptiles, and amphibians is the:",
+      "options": [
+        "vertebrates",
+        "invertebrates",
+        "arthropods",
+        "cnidarians"
+      ],
+      "correctAnswer": "vertebrates"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Animals that possess a hard external covering made of chitin use it mainly to:",
+      "options": [
+        "protect their soft inner bodies",
+        "support their internal skeleton",
+        "produce their own food supply",
+        "regulate their body temperature"
+      ],
+      "correctAnswer": "protect their soft inner bodies"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "title": "3.1 Uniformly Accelerated Motion in 1D",
+  "description": "Acceleration as the rate of change of velocity, average and instantaneous acceleration, constant acceleration, and the average velocity of uniformly accelerated motion",
+  "folder": "School/Grade 11/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit3"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Acceleration is defined as the",
+      "options": [
+        "Rate of change of velocity",
+        "Rate of change of distance",
+        "Rate of change of time",
+        "Rate of change of position"
+      ],
+      "correctAnswer": "Rate of change of velocity"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The SI unit of acceleration is",
+      "options": [
+        "m/s squared",
+        "m/s",
+        "meter squared per second",
+        "meter second"
+      ],
+      "correctAnswer": "m/s squared"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Acceleration is",
+      "options": [
+        "A vector quantity",
+        "A scalar quantity",
+        "A unitless quantity",
+        "A dimensionless ratio"
+      ],
+      "correctAnswer": "A vector quantity"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The average acceleration over a time interval is",
+      "options": [
+        "(vf - vi) over delta t",
+        "(vi - vf) over delta t",
+        "(vf + vi) over delta t",
+        "(vf times vi) over delta t"
+      ],
+      "correctAnswer": "(vf - vi) over delta t"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Instantaneous acceleration is the limit of",
+      "options": [
+        "delta v over delta t as delta t goes to zero",
+        "delta x over delta t as delta t goes to zero",
+        "delta v over delta t as delta t goes to infinity",
+        "delta x over delta t as delta t goes to infinity"
+      ],
+      "correctAnswer": "delta v over delta t as delta t goes to zero"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Motion with constant acceleration means the velocity changes by",
+      "options": [
+        "Equal amounts in equal times",
+        "Increasing amounts each second",
+        "Decreasing amounts each second",
+        "Random amounts each second"
+      ],
+      "correctAnswer": "Equal amounts in equal times"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "For constant acceleration, the average velocity is",
+      "options": [
+        "(vi + vf) over 2",
+        "(vi - vf) over 2",
+        "vi + vf",
+        "(vi times vf) over 2"
+      ],
+      "correctAnswer": "(vi + vf) over 2"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "A car speeds up from rest to 20 m/s in 6 s. Its average acceleration is",
+      "options": [
+        "3.67 m/s squared",
+        "3.33 m/s squared",
+        "20.0 m/s squared",
+        "0.30 m/s squared"
+      ],
+      "correctAnswer": "3.67 m/s squared"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A particle has velocity v(t) = t squared - 2t. Its acceleration as a function of time is",
+      "options": [
+        "2t - 2",
+        "t - 2",
+        "2t + 2",
+        "t squared - 2"
+      ],
+      "correctAnswer": "2t - 2"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "For v(t) = t squared - 2t, the acceleration at t = 2 s is",
+      "options": [
+        "2 m/s squared",
+        "0 m/s squared",
+        "4 m/s squared",
+        "6 m/s squared"
+      ],
+      "correctAnswer": "2 m/s squared"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "A car moving east has an acceleration pointing west. The car is",
+      "options": [
+        "Slowing down",
+        "Speeding up",
+        "Turning north",
+        "At rest"
+      ],
+      "correctAnswer": "Slowing down"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "A body speeds up when its velocity and acceleration are",
+      "options": [
+        "In the same direction",
+        "In opposite directions",
+        "At right angles",
+        "At 45 degrees"
+      ],
+      "correctAnswer": "In the same direction"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "A body slows down when its velocity and acceleration are",
+      "options": [
+        "In opposite directions",
+        "In the same direction",
+        "At right angles",
+        "Along the same straight line"
+      ],
+      "correctAnswer": "In opposite directions"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A cheetah reaches 26.8 m/s from rest in 3 s. Its average acceleration is about",
+      "options": [
+        "8.9 m/s squared",
+        "8.0 m/s squared",
+        "26.8 m/s squared",
+        "3.0 m/s squared"
+      ],
+      "correctAnswer": "8.9 m/s squared"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The cheetah's average velocity during those 3 s is about",
+      "options": [
+        "13.4 m/s",
+        "8.9 m/s",
+        "26.8 m/s",
+        "3.0 m/s"
+      ],
+      "correctAnswer": "13.4 m/s"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "A car moving with constant velocity has an acceleration of",
+      "options": [
+        "Zero",
+        "Constant but nonzero",
+        "Increasing",
+        "Decreasing"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A car moving at constant speed along a straight line has an acceleration of",
+      "options": [
+        "Zero",
+        "Changing each second",
+        "Equal to its speed",
+        "Equal to its velocity"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "To find acceleration at one instant, the time interval is",
+      "options": [
+        "Taken toward zero",
+        "Taken toward infinity",
+        "Added to all velocities",
+        "Multiplied by the speed"
+      ],
+      "correctAnswer": "Taken toward zero"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The acceleration of an object is the slope of its",
+      "options": [
+        "Velocity-time graph",
+        "Position-time graph",
+        "Acceleration-time graph",
+        "Distance-time graph"
+      ],
+      "correctAnswer": "Velocity-time graph"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "For constant acceleration, the velocity-time graph is",
+      "options": [
+        "A straight line",
+        "A parabola",
+        "A horizontal line",
+        "A circle arc"
+      ],
+      "correctAnswer": "A straight line"
+    }
+  ]
+}

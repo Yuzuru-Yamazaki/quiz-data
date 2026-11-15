@@ -1,0 +1,339 @@
+{
+  "title": "2.3.6 Reproduction in Birds",
+  "description": "Mating systems, oviduct structure, egg formation, incubation and parental care",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "birds"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Birds reproduce sexually and have:",
+      "options": [
+        "internal fertilization",
+        "external fertilization",
+        "no fertilization",
+        "double fertilization"
+      ],
+      "correctAnswer": "internal fertilization"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Most bird species are:",
+      "options": [
+        "monogamous",
+        "polygamous",
+        "polyandrous",
+        "hermaphroditic"
+      ],
+      "correctAnswer": "monogamous"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "A mating system between one adult male and one adult female for entire breeding seasons is:",
+      "options": [
+        "monogamous",
+        "polygamous",
+        "polygynous",
+        "promiscuous"
+      ],
+      "correctAnswer": "monogamous"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "A mating system with several partners during a single breeding season is:",
+      "options": [
+        "polygamous",
+        "monogamous",
+        "polyandrous",
+        "hermaphroditic"
+      ],
+      "correctAnswer": "polygamous"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Male birds transfer sperm to the female through:",
+      "options": [
+        "the cloaca during mating",
+        "a pair of external genital organs",
+        "a single external genital organ",
+        "the oviduct of the female"
+      ],
+      "correctAnswer": "the cloaca during mating"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Female birds have:",
+      "options": [
+        "a single ovary",
+        "two ovaries",
+        "no ovary at all",
+        "paired testes"
+      ],
+      "correctAnswer": "a single ovary"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In birds, fertilization takes place in the:",
+      "options": [
+        "oviduct",
+        "uterus region",
+        "ovary tissue",
+        "cloaca opening"
+      ],
+      "correctAnswer": "oviduct"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The funnel-shaped upper portion of the oviduct that engulfs the yolk is the:",
+      "options": [
+        "infundibulum",
+        "magnum region",
+        "isthmus section",
+        "uterus chamber"
+      ],
+      "correctAnswer": "infundibulum"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The longest part of the oviduct, where albumen is secreted, is the:",
+      "options": [
+        "magnum",
+        "infundibulum",
+        "isthmus",
+        "vagina"
+      ],
+      "correctAnswer": "magnum"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The isthmus of the oviduct is responsible for forming the:",
+      "options": [
+        "inner and outer shell membranes",
+        "the yolk and albumen of the egg",
+        "albumen of the egg",
+        "hard outer eggshell"
+      ],
+      "correctAnswer": "inner and outer shell membranes"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The eggshell is formed over the shell membranes in the:",
+      "options": [
+        "uterus",
+        "magnum",
+        "vagina",
+        "infundibulum"
+      ],
+      "correctAnswer": "uterus"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The final section of the oviduct, separated from the uterus by a sphincter, is the:",
+      "options": [
+        "vagina",
+        "magnum",
+        "isthmus",
+        "infundibulum"
+      ],
+      "correctAnswer": "vagina"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "During oviposition, the egg leaves the uterus and is laid through the:",
+      "options": [
+        "cloaca",
+        "oviduct",
+        "uterus",
+        "sphincter"
+      ],
+      "correctAnswer": "cloaca"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Both male and female birds possess a structure called the:",
+      "options": [
+        "cloaca",
+        "placenta",
+        "uterus",
+        "scrotum"
+      ],
+      "correctAnswer": "cloaca"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The thin membrane forming a fluid-filled closed sac around the embryo is the:",
+      "options": [
+        "amnion",
+        "chalaza",
+        "albumen",
+        "shell membrane"
+      ],
+      "correctAnswer": "amnion"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The major parts of a bird's egg include the yolk, chalaza, albumen, membranes, air sac, and:",
+      "options": [
+        "shell",
+        "placenta",
+        "nymph",
+        "tadpole"
+      ],
+      "correctAnswer": "shell"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Keeping eggs warm with body heat while embryos develop is called:",
+      "options": [
+        "incubation",
+        "oviposition",
+        "fertilization",
+        "hatching"
+      ],
+      "correctAnswer": "incubation"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The brood patch is an area of skin with densely packed blood vessels that:",
+      "options": [
+        "facilitates heat transmission to the egg",
+        "stores food reserves for the developing chick",
+        "produces the albumen of the egg",
+        "forms the hard shell of the egg"
+      ],
+      "correctAnswer": "facilitates heat transmission to the egg"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The brood patch disappears at the:",
+      "options": [
+        "end of the breeding season",
+        "start of the breeding season",
+        "time of hatching",
+        "time of fertilization"
+      ],
+      "correctAnswer": "end of the breeding season"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Birds rotate their eggs periodically to ensure:",
+      "options": [
+        "an even distribution of warmth",
+        "the shell hardens properly and evenly",
+        "the albumen mixes fully",
+        "the embryo takes up water"
+      ],
+      "correctAnswer": "an even distribution of warmth"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "During hatching, the chick uses a tooth-like structure called the:",
+      "options": [
+        "egg tooth",
+        "beak pouch",
+        "yolk sac",
+        "chalaza"
+      ],
+      "correctAnswer": "egg tooth"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "The chick communicates with its parents before hatching using:",
+      "options": [
+        "vocal sounds",
+        "wing movements",
+        "chemical signals",
+        "body contact"
+      ],
+      "correctAnswer": "vocal sounds"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Birds that nest in open areas tend to have eggs that are:",
+      "options": [
+        "camouflaged",
+        "brightly colored",
+        "hard and leathery",
+        "jelly-covered"
+      ],
+      "correctAnswer": "camouflaged"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Penguins and albatrosses are given as examples of birds that lay:",
+      "options": [
+        "few eggs",
+        "more than ten eggs",
+        "no eggs at all",
+        "dozens of eggs"
+      ],
+      "correctAnswer": "few eggs"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Chickens and ducks are given as examples of birds that can lay:",
+      "options": [
+        "more than ten eggs",
+        "only one or two eggs",
+        "no eggs without a rooster",
+        "eggs underground"
+      ],
+      "correctAnswer": "more than ten eggs"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "In some bird species, parental care ends at hatching, after which the chick:",
+      "options": [
+        "digs itself out and cares for itself",
+        "stays in the nest until fully weaned",
+        "is fed milk by its mother",
+        "is carried by its father"
+      ],
+      "correctAnswer": "digs itself out and cares for itself"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Reproduction in birds begins when an ovum joins with a sperm cell in the:",
+      "options": [
+        "oviduct",
+        "ovary tissue",
+        "cloaca opening",
+        "uterine chamber"
+      ],
+      "correctAnswer": "oviduct"
+    }
+  ]
+}

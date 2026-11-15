@@ -1,0 +1,194 @@
+{
+  "title": "3.3.3 Acceleration-Time Graphs",
+  "description": "Reading acceleration-time graphs for uniform, uniformly accelerated, and uniformly decelerated motion, and relating area to change in velocity",
+  "folder": "School/Grade 11/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit3"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "An acceleration-time graph shows",
+      "options": [
+        "Acceleration versus time",
+        "Velocity versus time",
+        "Position versus time",
+        "Acceleration versus displacement"
+      ],
+      "correctAnswer": "Acceleration versus time"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "For uniform motion, the acceleration-time graph lies",
+      "options": [
+        "On the time axis",
+        "Above the time axis",
+        "Below the time axis",
+        "A curved line"
+      ],
+      "correctAnswer": "On the time axis"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "For uniformly accelerated motion, the acceleration-time graph is",
+      "options": [
+        "A horizontal line above the axis",
+        "A horizontal line on the axis",
+        "A horizontal line below the axis",
+        "A steadily rising straight line"
+      ],
+      "correctAnswer": "A horizontal line above the axis"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "For uniformly decelerated motion, the acceleration-time graph lies",
+      "options": [
+        "Below the time axis",
+        "Above the time axis",
+        "On the time axis",
+        "Along the vertical axis"
+      ],
+      "correctAnswer": "Below the time axis"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The area under an acceleration-time graph gives the",
+      "options": [
+        "Change in velocity",
+        "Change in position",
+        "Change in time",
+        "Change in force"
+      ],
+      "correctAnswer": "Change in velocity"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Constant acceleration appears on an acceleration-time graph as",
+      "options": [
+        "A horizontal line",
+        "A vertical line",
+        "A parabolic curve",
+        "A rising straight line"
+      ],
+      "correctAnswer": "A horizontal line"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Zero acceleration appears on an acceleration-time graph as",
+      "options": [
+        "A line on the time axis",
+        "A straight line above the axis",
+        "A line below the axis",
+        "A steep rising line"
+      ],
+      "correctAnswer": "A line on the time axis"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "If the acceleration-time graph is horizontal above the time axis, the velocity",
+      "options": [
+        "Increases at a steady rate",
+        "Stays constant",
+        "Decreases at a steady rate",
+        "Increases at a growing rate"
+      ],
+      "correctAnswer": "Increases at a steady rate"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "If the acceleration-time graph is horizontal below the time axis, the velocity",
+      "options": [
+        "Decreases at a steady rate",
+        "Stays constant",
+        "Increases at a steady rate",
+        "Falls at an ever changing rate"
+      ],
+      "correctAnswer": "Decreases at a steady rate"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A car moves at constant velocity. Its acceleration-time graph is",
+      "options": [
+        "A line on the t-axis",
+        "A line above the t-axis",
+        "A line below the t-axis",
+        "A rising straight line"
+      ],
+      "correctAnswer": "A line on the t-axis"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "An acceleration-time graph directly shows the",
+      "options": [
+        "Acceleration at each time",
+        "Velocity at each time",
+        "Position at each time",
+        "Acceleration and displacement both"
+      ],
+      "correctAnswer": "Acceleration at each time"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Constant negative acceleration means the velocity",
+      "options": [
+        "Changes by equal negative amounts",
+        "Changes by equal positive amounts",
+        "Stays constant in time",
+        "Changes by growing amounts"
+      ],
+      "correctAnswer": "Changes by equal negative amounts"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "An acceleration of 2 m/s squared acts for 3 s. The change in velocity is",
+      "options": [
+        "6 m/s",
+        "2 m/s",
+        "3 m/s",
+        "1.5 m/s"
+      ],
+      "correctAnswer": "6 m/s"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "An acceleration of -4 m/s squared acts for 2 s. The change in velocity is",
+      "options": [
+        "-8 m/s",
+        "-2 m/s",
+        "-4 m/s",
+        "8 m/s"
+      ],
+      "correctAnswer": "-8 m/s"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "In free fall, with upward taken as positive, the acceleration-time graph is",
+      "options": [
+        "A horizontal line below axis",
+        "A horizontal line above axis",
+        "A horizontal line on the axis",
+        "A sloping straight line"
+      ],
+      "correctAnswer": "A horizontal line below axis"
+    }
+  ]
+}

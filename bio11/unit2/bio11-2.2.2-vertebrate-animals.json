@@ -1,0 +1,183 @@
+{
+  "title": "2.2.2 Vertebrate Animals",
+  "description": "Skeletal, organ system and temperature features of animals with a backbone",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "vertebrates"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Vertebrates are distinguished by a well-defined internal skeleton containing cartilage and a:",
+      "options": [
+        "backbone or vertebral column",
+        "hard outer shell of chitin",
+        "single cell wall of cellulose",
+        "soft body without support"
+      ],
+      "correctAnswer": "backbone or vertebral column"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The axial skeleton of a vertebrate consists of the skull, vertebrae, ribs, and:",
+      "options": [
+        "sternum",
+        "girdles",
+        "appendages",
+        "scales"
+      ],
+      "correctAnswer": "sternum"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The appendicular skeleton of a vertebrate consists of the:",
+      "options": [
+        "girdles and appendages",
+        "skull and vertebrae bones",
+        "ribs and sternum bones",
+        "brain and nerve cord parts"
+      ],
+      "correctAnswer": "girdles and appendages"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "In vertebrates, the skull protects the:",
+      "options": [
+        "highly developed brain",
+        "long dorsal nerve cord",
+        "paired excretory kidneys",
+        "ventral chambered heart"
+      ],
+      "correctAnswer": "highly developed brain"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "In vertebrates, the vertebrae protect the:",
+      "options": [
+        "nerve cord",
+        "brain case",
+        "heart chambers",
+        "lung tissue"
+      ],
+      "correctAnswer": "nerve cord"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The vertebrate circulatory system is a closed system with a ventral heart having:",
+      "options": [
+        "two to four chambers",
+        "one to two chambers",
+        "five to six chambers",
+        "a single chamber"
+      ],
+      "correctAnswer": "two to four chambers"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The respiratory system of vertebrates consists of:",
+      "options": [
+        "gills or lungs",
+        "tracheae or spiracles",
+        "skin or gill slits only",
+        "book lungs or gills only"
+      ],
+      "correctAnswer": "gills or lungs"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The centralized nervous system of vertebrates includes a brain and:",
+      "options": [
+        "sensory organs like eyes and ears",
+        "a nerve net throughout the body",
+        "a ventral cord without a brain",
+        "sensory cells only in the skin tissue"
+      ],
+      "correctAnswer": "sensory organs like eyes and ears"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The excretory system of vertebrates consists of:",
+      "options": [
+        "paired kidneys",
+        "paired gills",
+        "a single liver",
+        "a ventral heart"
+      ],
+      "correctAnswer": "paired kidneys"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Vertebrates show which type of body symmetry?",
+      "options": [
+        "bilateral symmetry",
+        "radial symmetry",
+        "no body symmetry",
+        "spherical symmetry"
+      ],
+      "correctAnswer": "bilateral symmetry"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which vertebrates are warm-blooded?",
+      "options": [
+        "birds and mammals",
+        "fish and reptiles",
+        "amphibians and fish",
+        "reptiles and birds"
+      ],
+      "correctAnswer": "birds and mammals"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Vertebrates such as fish, reptiles, and amphibians are:",
+      "options": [
+        "cold-blooded animals",
+        "warm-blooded animals",
+        "invertebrate animals",
+        "exoskeleton animals"
+      ],
+      "correctAnswer": "cold-blooded animals"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which statement correctly describes the relationship between vertebrates and chordates?",
+      "options": [
+        "all vertebrates are chordates",
+        "all chordates are vertebrates",
+        "vertebrates are never chordates",
+        "chordates are never vertebrates"
+      ],
+      "correctAnswer": "all vertebrates are chordates"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which group includes mammals, birds, fish, reptiles, and amphibians?",
+      "options": [
+        "vertebrates",
+        "invertebrates",
+        "arthropods",
+        "annelids"
+      ],
+      "correctAnswer": "vertebrates"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "title": "2.7 Renowned Zoologists in Ethiopia",
+  "description": "The scope of zoology and the contribution of Ethiopian zoologists",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "zoologists"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Zoology is the study of animals in relation to their evolution, anatomy, physiology, behavior, habitats, and:",
+      "options": [
+        "health",
+        "weather",
+        "grammar",
+        "geology"
+      ],
+      "correctAnswer": "health"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Many zoologists who have studied animals found in Ethiopia work at:",
+      "options": [
+        "Ethiopian universities",
+        "foreign museums only",
+        "international airlines",
+        "private banks"
+      ],
+      "correctAnswer": "Ethiopian universities"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The work of Ethiopian zoologists contributes to the development of zoological science and the:",
+      "options": [
+        "economic growth of the nation",
+        "political system of the region",
+        "climate of the whole region",
+        "language of the local community"
+      ],
+      "correctAnswer": "economic growth of the nation"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "According to the curriculum framework, patriotism is shown through diligence and:",
+      "options": [
+        "hard work",
+        "great wealth",
+        "public fame",
+        "foreign travel"
+      ],
+      "correctAnswer": "hard work"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Researchers who dedicated their lives to studying Ethiopian animals are described as:",
+      "options": [
+        "patriots of their country",
+        "foreign visiting researchers",
+        "amateur specimen collectors",
+        "commercial animal traders"
+      ],
+      "correctAnswer": "patriots of their country"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Zoology includes the study of animals' anatomy, physiology, behavior, habitats, and:",
+      "options": [
+        "health",
+        "history",
+        "language",
+        "economy"
+      ],
+      "correctAnswer": "health"
+    }
+  ]
+}

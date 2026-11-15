@@ -1,0 +1,326 @@
+{
+  "title": "3.5 Uniform Circular Motion",
+  "description": "Angular displacement and velocity, period, centripetal acceleration and force, flat and banked curves, and the conical pendulum",
+  "folder": "School/Grade 11/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit3"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The SI unit of angular displacement is the",
+      "options": [
+        "radian",
+        "meter",
+        "degree",
+        "second"
+      ],
+      "correctAnswer": "radian"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Angular displacement in radians is given by",
+      "options": [
+        "s over r",
+        "r over s",
+        "s times r",
+        "v over r"
+      ],
+      "correctAnswer": "s over r"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "One complete revolution equals",
+      "options": [
+        "2 pi radians",
+        "pi radians",
+        "4 pi radians",
+        "pi over 2 radians"
+      ],
+      "correctAnswer": "2 pi radians"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Average angular velocity is",
+      "options": [
+        "delta theta over delta t",
+        "delta t over delta theta",
+        "delta s over delta t",
+        "delta v over delta t"
+      ],
+      "correctAnswer": "delta theta over delta t"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The SI unit of angular velocity is",
+      "options": [
+        "radians per second",
+        "meters per second",
+        "radians per meter",
+        "seconds per radian"
+      ],
+      "correctAnswer": "radians per second"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The tangential speed is related to angular velocity by",
+      "options": [
+        "vt = omega r",
+        "vt = omega over r",
+        "vt = r over omega",
+        "vt = omega r squared"
+      ],
+      "correctAnswer": "vt = omega r"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The period of circular motion is",
+      "options": [
+        "T = 2 pi over omega",
+        "T = omega over 2 pi",
+        "T = 2 pi omega",
+        "T = pi over omega"
+      ],
+      "correctAnswer": "T = 2 pi over omega"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Centripetal acceleration is directed",
+      "options": [
+        "Toward the center",
+        "Away from the center",
+        "Along the velocity",
+        "Opposite the velocity"
+      ],
+      "correctAnswer": "Toward the center"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Centripetal acceleration equals",
+      "options": [
+        "v squared over r",
+        "v over r",
+        "v squared r",
+        "r over v squared"
+      ],
+      "correctAnswer": "v squared over r"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "In terms of angular velocity, centripetal acceleration is",
+      "options": [
+        "omega squared r",
+        "omega r",
+        "omega over r",
+        "omega squared over r"
+      ],
+      "correctAnswer": "omega squared r"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "If the speed in a circle doubles, the centripetal acceleration becomes",
+      "options": [
+        "Four times larger",
+        "Two times as large",
+        "Half as large",
+        "Same as before"
+      ],
+      "correctAnswer": "Four times larger"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The centripetal force is directed",
+      "options": [
+        "Toward the center",
+        "Away from the center",
+        "Along the velocity",
+        "Tangent to the path"
+      ],
+      "correctAnswer": "Toward the center"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The centripetal force on a body of mass m is",
+      "options": [
+        "m v squared over r",
+        "m v over r",
+        "m r over v squared",
+        "m v squared r"
+      ],
+      "correctAnswer": "m v squared over r"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Centripetal force is always perpendicular to the",
+      "options": [
+        "Velocity",
+        "Radius",
+        "Acceleration",
+        "Force"
+      ],
+      "correctAnswer": "Velocity"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The centripetal force is supplied by the",
+      "options": [
+        "Net inward force",
+        "An outward push",
+        "The tangential speed",
+        "The angular speed"
+      ],
+      "correctAnswer": "Net inward force"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "A wheel spins at 40 rad/s with diameter 0.6 m. The tangential speed at the rim is",
+      "options": [
+        "12 m/s",
+        "24 m/s",
+        "6 m/s",
+        "40 m/s"
+      ],
+      "correctAnswer": "12 m/s"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A car moves at 14 m/s around a circle of diameter 40 m. Its angular velocity is",
+      "options": [
+        "0.7 rad/s",
+        "0.35 rad/s",
+        "2.8 rad/s",
+        "1.4 rad/s"
+      ],
+      "correctAnswer": "0.7 rad/s"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The period of that car is about",
+      "options": [
+        "9 s",
+        "6 s",
+        "12 s",
+        "3 s"
+      ],
+      "correctAnswer": "9 s"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "A 0.1 kg ball on a 0.4 m string breaks when the force reaches 50 N. The breaking speed is",
+      "options": [
+        "14 m/s",
+        "10 m/s",
+        "20 m/s",
+        "5 m/s"
+      ],
+      "correctAnswer": "14 m/s"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "A 1 kg mass on a 1 m string is limited to 25 N. The maximum speed is",
+      "options": [
+        "5 m/s",
+        "4 m/s",
+        "25 m/s",
+        "2.5 m/s"
+      ],
+      "correctAnswer": "5 m/s"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "A car rounds a flat curve of radius 40 m with mu = 0.7 and g = 10. Its maximum speed is about",
+      "options": [
+        "16.7 m/s",
+        "12.0 m/s",
+        "28.0 m/s",
+        "8.0 m/s"
+      ],
+      "correctAnswer": "16.7 m/s"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "On a flat curve, the centripetal force is provided by",
+      "options": [
+        "Friction",
+        "Normal force",
+        "Weight",
+        "Tension"
+      ],
+      "correctAnswer": "Friction"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "For a frictionless banked road, the ideal banking angle satisfies",
+      "options": [
+        "tan theta = v squared over r g",
+        "tan theta = v over r g",
+        "tan theta = v squared r over g",
+        "tan theta = r g over v squared"
+      ],
+      "correctAnswer": "tan theta = v squared over r g"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "For a conical pendulum, the vertical force balance gives",
+      "options": [
+        "T cos theta = m g",
+        "T sin theta = m g",
+        "T = m g",
+        "T cos theta = m v squared over r"
+      ],
+      "correctAnswer": "T cos theta = m g"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "For a conical pendulum, the horizontal force balance gives",
+      "options": [
+        "T sin theta = m v squared over r",
+        "T cos theta = m v squared over r",
+        "T sin theta = m g",
+        "T = m v squared over r"
+      ],
+      "correctAnswer": "T sin theta = m v squared over r"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "A point on Earth's equator moves at about",
+      "options": [
+        "465 m/s",
+        "46.5 m/s",
+        "4.65 m/s",
+        "4650 m/s"
+      ],
+      "correctAnswer": "465 m/s"
+    }
+  ]
+}

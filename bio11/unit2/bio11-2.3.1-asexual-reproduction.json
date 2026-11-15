@@ -1,0 +1,99 @@
+{
+  "title": "2.3.1 Asexual Reproduction in Animals",
+  "description": "Single-parent reproduction, budding, fragmentation and parthenogenesis",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "reproduction"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Asexual reproduction in animals involves:",
+      "options": [
+        "a single individual without gamete fusion",
+        "two separate parents fusing their gametes",
+        "one male and one female parent together",
+        "fusion of sperm and egg cells from parents"
+      ],
+      "correctAnswer": "a single individual without gamete fusion"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Asexual reproduction is more common among:",
+      "options": [
+        "invertebrates than vertebrates",
+        "vertebrates than invertebrates",
+        "mammals than insects",
+        "birds than fishes"
+      ],
+      "correctAnswer": "invertebrates than vertebrates"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The most common forms of asexual reproduction in aquatic animals are:",
+      "options": [
+        "budding and fragmentation",
+        "fertilization and gestation",
+        "metamorphosis and molting",
+        "courtship and incubation"
+      ],
+      "correctAnswer": "budding and fragmentation"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "In parthenogenesis, a new offspring develops from:",
+      "options": [
+        "an unfertilized egg",
+        "a fertilized zygote",
+        "a fused pair of gametes",
+        "a dividing somatic cell"
+      ],
+      "correctAnswer": "an unfertilized egg"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Parthenogenesis occurs in some:",
+      "options": [
+        "insects and vertebrates",
+        "molluscs and annelids",
+        "sponges and cnidarians",
+        "birds and mammals species"
+      ],
+      "correctAnswer": "insects and vertebrates"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which process is a form of asexual reproduction?",
+      "options": [
+        "fragmentation",
+        "fertilization",
+        "gastrulation",
+        "incubation"
+      ],
+      "correctAnswer": "fragmentation"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Asexual reproduction requires:",
+      "options": [
+        "only one parent individual",
+        "two parents and their gametes",
+        "fusion of sperm and egg cells",
+        "a male and a female parent"
+      ],
+      "correctAnswer": "only one parent individual"
+    }
+  ]
+}

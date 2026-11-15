@@ -1,0 +1,123 @@
+{
+  "title": "2.6.3 Blood Sugar Regulation",
+  "description": "Insulin, glucagon, glycogen and the control of blood glucose concentration",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "homeostasis"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The main source of energy for the normal functioning of body systems, including the brain, is:",
+      "options": [
+        "glucose",
+        "protein",
+        "fat",
+        "vitamin"
+      ],
+      "correctAnswer": "glucose"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The two hormones produced by the pancreas that control blood glucose are insulin and:",
+      "options": [
+        "glucagon",
+        "adrenaline",
+        "thyroxine",
+        "testosterone"
+      ],
+      "correctAnswer": "glucagon"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "When blood glucose level is high, the pancreas releases more:",
+      "options": [
+        "insulin",
+        "glucagon",
+        "ADH",
+        "ecdysone"
+      ],
+      "correctAnswer": "insulin"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Insulin promotes the conversion of glucose into:",
+      "options": [
+        "glycogen",
+        "glucagon",
+        "starch",
+        "protein"
+      ],
+      "correctAnswer": "glycogen"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "When blood glucose level is low, the pancreas releases more:",
+      "options": [
+        "glucagon",
+        "insulin",
+        "ADH",
+        "thyroxine"
+      ],
+      "correctAnswer": "glucagon"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Glucagon promotes the conversion of glycogen into:",
+      "options": [
+        "glucose",
+        "insulin",
+        "fat",
+        "protein"
+      ],
+      "correctAnswer": "glucose"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Glycogen is stored mainly in the:",
+      "options": [
+        "liver",
+        "kidney",
+        "pancreas",
+        "brain"
+      ],
+      "correctAnswer": "liver"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The role of insulin in blood glucose regulation is to:",
+      "options": [
+        "lower blood glucose by storing it as glycogen",
+        "raise blood glucose by breaking down glycogen",
+        "remove glucose from the body as urine",
+        "convert glucose directly into body protein"
+      ],
+      "correctAnswer": "lower blood glucose by storing it as glycogen"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The role of glucagon in blood glucose regulation is to:",
+      "options": [
+        "raise blood glucose by breaking down glycogen",
+        "lower blood glucose by storing it as glycogen",
+        "remove glucose from the body as urine",
+        "convert glucose directly into body fat"
+      ],
+      "correctAnswer": "raise blood glucose by breaking down glycogen"
+    }
+  ]
+}

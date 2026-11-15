@@ -1,0 +1,302 @@
+{
+  "title": "2.3.2 Components and Unit Vectors",
+  "description": "Resolving vectors into x and y components, finding resultants by the component method, and representing vectors with unit vectors i and j",
+  "folder": "School/Grade 11/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Resolution of a vector means",
+      "options": [
+        "Breaking into components",
+        "Combining two vectors into one",
+        "Scaling a vector up",
+        "Rotating a vector"
+      ],
+      "correctAnswer": "Breaking into components"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "With the angle theta measured from the positive x-axis, the x-component of A is",
+      "options": [
+        "A cos theta",
+        "A sin theta",
+        "A tan theta",
+        "A divided by cos theta"
+      ],
+      "correctAnswer": "A cos theta"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "With the angle theta measured from the positive x-axis, the y-component of A is",
+      "options": [
+        "A sin theta",
+        "A cos theta",
+        "A tan theta",
+        "A divided by sin theta"
+      ],
+      "correctAnswer": "A sin theta"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "A vector has components equal in magnitude when it points",
+      "options": [
+        "At 45 degrees to the axes",
+        "At 0 degrees to the x-axis",
+        "At 90 degrees to the x-axis",
+        "At 30 degrees to the x-axis"
+      ],
+      "correctAnswer": "At 45 degrees to the axes"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "If the angle is measured from the positive y-axis, the x-component is",
+      "options": [
+        "A sin alpha",
+        "A cos alpha",
+        "A tan alpha",
+        "A cot alpha"
+      ],
+      "correctAnswer": "A sin alpha"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "A vector has x-component -35 units and y-component 40 units. Its magnitude is",
+      "options": [
+        "About 53 units",
+        "About 75 units",
+        "About 27 units",
+        "About 5 units"
+      ],
+      "correctAnswer": "About 53 units"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The vector with components -35 and 40 points",
+      "options": [
+        "Above negative x-axis",
+        "Above positive x-axis",
+        "Below negative x-axis",
+        "Below positive x-axis"
+      ],
+      "correctAnswer": "Above negative x-axis"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In the component method, Rx equals Ax + Bx, which is the",
+      "options": [
+        "Sum of x-components",
+        "Sum of y-components",
+        "Product of x-components",
+        "Difference of y-components"
+      ],
+      "correctAnswer": "Sum of x-components"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The magnitude of the resultant is",
+      "options": [
+        "The root of Rx squared plus Ry squared",
+        "Rx + Ry",
+        "Rx - Ry",
+        "The root of Rx squared minus Ry squared"
+      ],
+      "correctAnswer": "The root of Rx squared plus Ry squared"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The direction of a resultant is given by",
+      "options": [
+        "tan inverse of Ry over Rx",
+        "tan inverse of Rx over Ry",
+        "cos inverse of Ry over Rx",
+        "sin inverse of Ry over Rx"
+      ],
+      "correctAnswer": "tan inverse of Ry over Rx"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "A unit vector has",
+      "options": [
+        "Magnitude exactly one",
+        "Magnitude exactly zero",
+        "Magnitude two or more",
+        "Magnitude any value"
+      ],
+      "correctAnswer": "Magnitude exactly one"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The unit vector along a vector A is",
+      "options": [
+        "A over its magnitude",
+        "A times its magnitude",
+        "A plus its magnitude",
+        "A minus its magnitude"
+      ],
+      "correctAnswer": "A over its magnitude"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "A unit vector along the force F = 12i - 16j is",
+      "options": [
+        "0.6i - 0.8j",
+        "0.8i - 0.6j",
+        "1.2i - 1.6j",
+        "0.6i + 0.8j"
+      ],
+      "correctAnswer": "0.6i - 0.8j"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The magnitude of the vector 12i - 16j is",
+      "options": [
+        "20 units",
+        "28 units",
+        "4 units",
+        "12 units"
+      ],
+      "correctAnswer": "20 units"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "A is 4i + 2j and B is -9i + 3j. The resultant is",
+      "options": [
+        "-5i + 5j",
+        "-5i - 5j",
+        "5i + 5j",
+        "5i - 5j"
+      ],
+      "correctAnswer": "-5i + 5j"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The magnitude of the resultant -5i + 5j is about",
+      "options": [
+        "About 7.1 units",
+        "About 5.0 units",
+        "About 10.0 units",
+        "About 50.0 units"
+      ],
+      "correctAnswer": "About 7.1 units"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "C is -4i + 5j and the sum R is -i + j. The unknown vector D is",
+      "options": [
+        "3i - 4j",
+        "3i + 4j",
+        "-3i - 4j",
+        "-3i + 4j"
+      ],
+      "correctAnswer": "3i - 4j"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The magnitude of the vector 3i - 4j is",
+      "options": [
+        "5 units",
+        "7 units",
+        "1 unit",
+        "12 units"
+      ],
+      "correctAnswer": "5 units"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "P is i - j and the sum P + Q is the unit vector i. The vector Q is",
+      "options": [
+        "j",
+        "-j",
+        "i",
+        "-i"
+      ],
+      "correctAnswer": "j"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "If 0.4i + bj is a unit vector, the value of b is",
+      "options": [
+        "About plus or minus 0.92",
+        "About plus or minus 0.40",
+        "About plus or minus 0.84",
+        "About plus or minus 1.00"
+      ],
+      "correctAnswer": "About plus or minus 0.92"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "The direction cosine of a vector with the x-axis is",
+      "options": [
+        "Ax divided by A",
+        "Ay divided by A",
+        "A divided by Ax",
+        "Ax times A"
+      ],
+      "correctAnswer": "Ax divided by A"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "The unit vectors i and j point along the",
+      "options": [
+        "x and y axes",
+        "y and x axes",
+        "z and y axes",
+        "x and z axes"
+      ],
+      "correctAnswer": "x and y axes"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "A force of 100 N acts at 30 degrees above the positive x-axis. Its x-component is",
+      "options": [
+        "About 86.6 N",
+        "About 50.0 N",
+        "About 100.0 N",
+        "About 30.0 N"
+      ],
+      "correctAnswer": "About 86.6 N"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "A force of 100 N acts at 30 degrees above the positive x-axis. Its y-component is",
+      "options": [
+        "About 50.0 N",
+        "About 86.6 N",
+        "About 100.0 N",
+        "About 30.0 N"
+      ],
+      "correctAnswer": "About 50.0 N"
+    }
+  ]
+}

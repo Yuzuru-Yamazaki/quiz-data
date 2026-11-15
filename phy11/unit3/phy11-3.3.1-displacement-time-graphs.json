@@ -1,0 +1,242 @@
+{
+  "title": "3.3.1 Displacement-Time Graphs",
+  "description": "Interpreting displacement-time graphs of uniform, accelerated, and decelerated motion, and reading velocity from the slope",
+  "folder": "School/Grade 11/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit3"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The slope of a displacement-time graph gives the",
+      "options": [
+        "Velocity",
+        "Acceleration",
+        "Distance",
+        "Force"
+      ],
+      "correctAnswer": "Velocity"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A flat horizontal line on a displacement-time graph means the object is",
+      "options": [
+        "Object at rest",
+        "Constant velocity",
+        "Constant acceleration",
+        "Increasing speed"
+      ],
+      "correctAnswer": "Object at rest"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "A straight line with positive slope on a displacement-time graph means",
+      "options": [
+        "Constant velocity",
+        "Constant acceleration",
+        "Zero velocity",
+        "Decreasing speed"
+      ],
+      "correctAnswer": "Constant velocity"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "A displacement-time curve that becomes steeper with time indicates",
+      "options": [
+        "Acceleration",
+        "Deceleration",
+        "Constant speed",
+        "Rest position"
+      ],
+      "correctAnswer": "Acceleration"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A displacement-time curve that becomes flatter with time indicates",
+      "options": [
+        "Deceleration",
+        "Acceleration",
+        "Constant speed",
+        "Rest position"
+      ],
+      "correctAnswer": "Deceleration"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "At the highest point of a ball thrown upward, the slope of its displacement-time graph is",
+      "options": [
+        "Zero",
+        "Maximum",
+        "Negative",
+        "Undefined"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "While a ball rises after being thrown upward, the slope of its displacement-time graph",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Stays constant",
+        "Becomes negative"
+      ],
+      "correctAnswer": "Decreases"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "While a ball falls after reaching its highest point, the slope of its displacement-time graph becomes",
+      "options": [
+        "Increasingly negative",
+        "Increasingly positive",
+        "Constant and positive",
+        "Zero throughout"
+      ],
+      "correctAnswer": "Increasingly negative"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "On a displacement-time graph, the dependent variable is",
+      "options": [
+        "Displacement",
+        "Time",
+        "Velocity",
+        "Acceleration"
+      ],
+      "correctAnswer": "Displacement"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "On a displacement-time graph, the independent variable is",
+      "options": [
+        "Time",
+        "Displacement",
+        "Velocity",
+        "Acceleration"
+      ],
+      "correctAnswer": "Time"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The slope of a displacement-time graph is calculated as",
+      "options": [
+        "delta x over delta t",
+        "delta t over delta x",
+        "delta v over delta t",
+        "delta x times delta t"
+      ],
+      "correctAnswer": "delta x over delta t"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "A steeper slope on a displacement-time graph indicates",
+      "options": [
+        "Greater velocity",
+        "Greater acceleration",
+        "Greater distance",
+        "Greater time"
+      ],
+      "correctAnswer": "Greater velocity"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "A zero slope on a displacement-time graph means the velocity is",
+      "options": [
+        "Zero",
+        "Positive",
+        "Negative",
+        "Maximum"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A negative slope on a displacement-time graph means the object moves",
+      "options": [
+        "In the negative direction",
+        "In the positive direction",
+        "At increasing speed",
+        "At constant speed"
+      ],
+      "correctAnswer": "In the negative direction"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "For uniform motion, the displacement-time graph is",
+      "options": [
+        "A straight line",
+        "A parabola",
+        "A horizontal line",
+        "A circle arc"
+      ],
+      "correctAnswer": "A straight line"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "For uniformly accelerated motion from rest, the displacement-time graph is",
+      "options": [
+        "A parabola opening upward",
+        "A straight line",
+        "A parabola opening downward",
+        "A horizontal line"
+      ],
+      "correctAnswer": "A parabola opening upward"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A distance-time graph differs from a displacement-time graph because distance",
+      "options": [
+        "Cannot decrease",
+        "Can decrease",
+        "Can be negative",
+        "Equals displacement"
+      ],
+      "correctAnswer": "Cannot decrease"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "When an object returns to its starting point, its displacement is",
+      "options": [
+        "Zero",
+        "Equal to distance",
+        "Twice the distance",
+        "Half the distance"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The slope at a single instant on a curved displacement-time graph gives the",
+      "options": [
+        "Instantaneous velocity",
+        "Average velocity value",
+        "Constant acceleration",
+        "Total displacement"
+      ],
+      "correctAnswer": "Instantaneous velocity"
+    }
+  ]
+}

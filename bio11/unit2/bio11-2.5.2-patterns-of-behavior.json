@@ -1,0 +1,291 @@
+{
+  "title": "2.5.2 Patterns of Behavior",
+  "description": "Behavioral cycles, migration, social behavior, competition, territory and communication",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "behavior"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Examples of behavioral patterns in animals include behavioral cycles, reproductive behavior, social behavior, competition, territory, and:",
+      "options": [
+        "communication",
+        "photosynthesis",
+        "metamorphosis",
+        "osmoregulation"
+      ],
+      "correctAnswer": "communication"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Behavioral cycles are patterns in which animals respond to:",
+      "options": [
+        "periodic changes in the environment",
+        "sudden genetic mutations in body cells",
+        "changes in body size alone",
+        "the presence of predators alone"
+      ],
+      "correctAnswer": "periodic changes in the environment"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Behavioral cycles can be:",
+      "options": [
+        "daily or seasonal",
+        "hourly or yearly",
+        "random or permanent",
+        "inherited or acquired"
+      ],
+      "correctAnswer": "daily or seasonal"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Seasonal migration is the movement of species from one habitat to another because of:",
+      "options": [
+        "seasonal shifts in food and temperature",
+        "permanent changes in the genetic makeup",
+        "competition within the same species",
+        "the need for new nesting materials"
+      ],
+      "correctAnswer": "seasonal shifts in food and temperature"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which animals are given as examples of seasonal migration between polar and tropical waters?",
+      "options": [
+        "whales and birds",
+        "frogs and reptiles",
+        "insects and spiders",
+        "rats and rabbits"
+      ],
+      "correctAnswer": "whales and birds"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Circadian rhythms are also referred to as:",
+      "options": [
+        "biological clocks",
+        "behavioral cycles",
+        "seasonal migrations",
+        "reproductive cycles"
+      ],
+      "correctAnswer": "biological clocks"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Circadian rhythms are cycles that last approximately:",
+      "options": [
+        "24 hours",
+        "12 hours",
+        "7 days",
+        "365 days"
+      ],
+      "correctAnswer": "24 hours"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The best-known example of a circadian rhythm is the:",
+      "options": [
+        "sleep-wake cycle",
+        "seasonal migration",
+        "courtship dance",
+        "territorial display"
+      ],
+      "correctAnswer": "sleep-wake cycle"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Reproductive behavior is vital for locating and selecting suitable mates and for:",
+      "options": [
+        "rearing offspring to independence",
+        "defending territory from rivals",
+        "communicating with other species members",
+        "regulating body temperature"
+      ],
+      "correctAnswer": "rearing offspring to independence"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A courtship that involves sounds, visual displays, chemicals, and a paradise dance is an example of:",
+      "options": [
+        "reproductive behavior",
+        "competitive behavior",
+        "territorial behavior patterns",
+        "migratory behavior"
+      ],
+      "correctAnswer": "reproductive behavior"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Social behavior is commonly observed in animals that:",
+      "options": [
+        "live in groups",
+        "live alone",
+        "migrate seasonally",
+        "hibernate in winter"
+      ],
+      "correctAnswer": "live in groups"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which insects exhibit some of the most well-developed social behavior?",
+      "options": [
+        "ants, termites, bees, and wasps",
+        "butterflies, moths, and beetles",
+        "locusts, aphids, and weevils",
+        "mosquitoes, flies, and lice"
+      ],
+      "correctAnswer": "ants, termites, bees, and wasps"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "One benefit of social behavior in insects is:",
+      "options": [
+        "division of labor as workers and soldiers",
+        "a reduced need for food and water",
+        "the ability to live without a nest",
+        "the loss of all communication skills over time"
+      ],
+      "correctAnswer": "division of labor as workers and soldiers"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Competition is a behavioral pattern observed when animals compete for space, territory, water, mates, and:",
+      "options": [
+        "food",
+        "oxygen",
+        "sunlight",
+        "soil"
+      ],
+      "correctAnswer": "food"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The two basic types of competition are:",
+      "options": [
+        "intraspecific and interspecific",
+        "internal and external conflicts",
+        "positive and negative interactions",
+        "innate and learned behaviors"
+      ],
+      "correctAnswer": "intraspecific and interspecific"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Territoriality is a behavioral pattern that involves:",
+      "options": [
+        "protecting spaces from other animals",
+        "sharing all resources with other animals",
+        "migrating between two habitats",
+        "communicating through chemicals"
+      ],
+      "correctAnswer": "protecting spaces from other animals"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Many animals defend their territory using display behavior instead of fighting because it is:",
+      "options": [
+        "safer and uses less energy",
+        "faster and more aggressive",
+        "louder and more visible",
+        "cheaper and more permanent"
+      ],
+      "correctAnswer": "safer and uses less energy"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Male dogs and lions mark their territory using pheromones in their:",
+      "options": [
+        "urine",
+        "saliva",
+        "fur",
+        "breath"
+      ],
+      "correctAnswer": "urine"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Male gorillas defend their territory by:",
+      "options": [
+        "pounding their chests and the ground",
+        "releasing pheromones from their urine",
+        "displaying their bright red breasts",
+        "singing and croaking very loudly"
+      ],
+      "correctAnswer": "pounding their chests and the ground"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "The robin defends its territory by:",
+      "options": [
+        "displaying its red breast",
+        "pounding its chest",
+        "marking with urine",
+        "singing a loud courtship song"
+      ],
+      "correctAnswer": "displaying its red breast"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Communication behavior in animals uses sight, sound, tactile cues, and:",
+      "options": [
+        "chemical cues called pheromones",
+        "electrical signals in water",
+        "magnetic fields of the earth",
+        "ultrasonic echolocation call patterns"
+      ],
+      "correctAnswer": "chemical cues called pheromones"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Ants communicate with chemicals called pheromones to:",
+      "options": [
+        "mark trails to food sources",
+        "warn others of predators",
+        "attract mates for courtship",
+        "defend their territory borders"
+      ],
+      "correctAnswer": "mark trails to food sources"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Birds sing and frogs croak mainly to:",
+      "options": [
+        "communicate with each other",
+        "regulate their temperature",
+        "mark their territory with scent",
+        "attract insect prey"
+      ],
+      "correctAnswer": "communicate with each other"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "title": "2.2 Graphical Method of Addition of Vectors",
+  "description": "Resultants of vectors in two dimensions by the triangle, parallelogram, and polygon laws, along with vector subtraction and the limits on resultant magnitude",
+  "folder": "School/Grade 11/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The resultant of two vectors is",
+      "options": [
+        "One vector with the same effect",
+        "The largest vector in the set",
+        "The arithmetic sum of sizes",
+        "A vector opposite to the sum total"
+      ],
+      "correctAnswer": "One vector with the same effect"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "In the triangle law of vector addition, the vectors are placed",
+      "options": [
+        "Head to tail",
+        "Tail to tail",
+        "Head to head",
+        "Tip to tip"
+      ],
+      "correctAnswer": "Head to tail"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "In the parallelogram law of vector addition, the vectors are placed",
+      "options": [
+        "Tail to tail",
+        "Head to tail",
+        "Head to head",
+        "Side to side"
+      ],
+      "correctAnswer": "Tail to tail"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The resultant in the parallelogram law is represented by",
+      "options": [
+        "The common diagonal",
+        "The longest side",
+        "The shortest side",
+        "One of the parallel sides"
+      ],
+      "correctAnswer": "The common diagonal"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The polygon law is used for the resultant of",
+      "options": [
+        "Two or more vectors",
+        "Exactly two vectors",
+        "Exactly three vectors",
+        "A single vector only"
+      ],
+      "correctAnswer": "Two or more vectors"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The polygon law resultant runs from the",
+      "options": [
+        "First tail to last head",
+        "First head to last tail",
+        "Last tail to first head",
+        "Last head to first tail"
+      ],
+      "correctAnswer": "First tail to last head"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The vector difference A minus B is equal to",
+      "options": [
+        "A plus the negative of B",
+        "B plus the negative of A",
+        "The negative of A plus B",
+        "The negative of A minus B"
+      ],
+      "correctAnswer": "A plus the negative of B"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Adding a vector to its negative gives",
+      "options": [
+        "A null vector",
+        "A unit vector",
+        "A doubled vector",
+        "The same vector"
+      ],
+      "correctAnswer": "A null vector"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The magnitude of the resultant of two vectors is largest when the angle between them is",
+      "options": [
+        "0 degrees",
+        "90 degrees",
+        "180 degrees",
+        "270 degrees"
+      ],
+      "correctAnswer": "0 degrees"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The magnitude of the resultant of two vectors is smallest when the angle between them is",
+      "options": [
+        "180 degrees",
+        "0 degrees",
+        "90 degrees",
+        "360 degrees"
+      ],
+      "correctAnswer": "180 degrees"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Two vectors have magnitudes 13 units and 9 units. Their maximum possible resultant is",
+      "options": [
+        "22 units",
+        "13 units",
+        "9 units",
+        "4 units"
+      ],
+      "correctAnswer": "22 units"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Two vectors have magnitudes 13 units and 9 units. Their minimum possible resultant is",
+      "options": [
+        "4 units",
+        "22 units",
+        "13 units",
+        "9 units"
+      ],
+      "correctAnswer": "4 units"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "For two perpendicular vectors A and B, the resultant magnitude is",
+      "options": [
+        "Root of A squared plus B squared",
+        "The simple sum A plus B",
+        "The simple difference A minus B",
+        "The product A times B times cosine theta"
+      ],
+      "correctAnswer": "Root of A squared plus B squared"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Two vectors give a zero resultant when they are",
+      "options": [
+        "Same size, opposite senses",
+        "Same size, same senses",
+        "Unequal in any way",
+        "Equal in size and in direction"
+      ],
+      "correctAnswer": "Same size, opposite senses"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which statement expresses the commutative property of vector addition?",
+      "options": [
+        "A + B = B + A",
+        "A - B = B - A",
+        "A + B = -(B + A)",
+        "A + B = A - B"
+      ],
+      "correctAnswer": "A + B = B + A"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The law that joins more than two vectors head to tail in any order is the",
+      "options": [
+        "Polygon law",
+        "Triangle law",
+        "Parallelogram law",
+        "Newton's law"
+      ],
+      "correctAnswer": "Polygon law"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A displacement of 3 m east is followed by 4 m north. The resultant magnitude is",
+      "options": [
+        "5 m",
+        "7 m",
+        "1 m",
+        "12 m"
+      ],
+      "correctAnswer": "5 m"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "The triangle law can be used to show that vector addition is",
+      "options": [
+        "Commutative",
+        "Associative",
+        "Distributive",
+        "Irreversible"
+      ],
+      "correctAnswer": "Commutative"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The least number of equal-magnitude vectors that can produce a zero resultant is",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Six vectors"
+      ],
+      "correctAnswer": "Three"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "The least number of unequal vectors that can produce a zero resultant is",
+      "options": [
+        "Three",
+        "Two",
+        "Five",
+        "Seven"
+      ],
+      "correctAnswer": "Three"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Compared with algebraic methods, graphical methods of vector addition are",
+      "options": [
+        "Approximate",
+        "Exact",
+        "Always faster",
+        "More reliable"
+      ],
+      "correctAnswer": "Approximate"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "For two vectors A and B, the magnitude of their sum lies",
+      "options": [
+        "From |A - B| up to A + B",
+        "Always exactly A + B",
+        "Always exactly |A - B|",
+        "Below both vector magnitudes"
+      ],
+      "correctAnswer": "From |A - B| up to A + B"
+    }
+  ]
+}

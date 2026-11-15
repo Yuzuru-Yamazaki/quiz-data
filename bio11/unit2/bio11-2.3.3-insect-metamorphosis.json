@@ -1,0 +1,195 @@
+{
+  "title": "2.3.3 Reproduction in Insects",
+  "description": "Insect reproduction and complete versus incomplete metamorphosis",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "insects"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Insects form the largest class of the phylum:",
+      "options": [
+        "Arthropoda",
+        "Mollusca phylum",
+        "Annelida phylum",
+        "Chordata phylum"
+      ],
+      "correctAnswer": "Arthropoda"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The three body features of insects are segmented bodies, jointed legs, and:",
+      "options": [
+        "external skeletons (exoskeletons)",
+        "internal bony skeleton frameworks",
+        "soft bodies without any support",
+        "cartilaginous internal backbones"
+      ],
+      "correctAnswer": "external skeletons (exoskeletons)"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which of these is an insect?",
+      "options": [
+        "grasshopper",
+        "scorpion species",
+        "spider species",
+        "millipede species"
+      ],
+      "correctAnswer": "grasshopper"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "During sexual reproduction, insect eggs are usually fertilized:",
+      "options": [
+        "internally",
+        "externally",
+        "inside water",
+        "inside the soil"
+      ],
+      "correctAnswer": "internally"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A process in which an insect develops from an unfertilized egg is called:",
+      "options": [
+        "parthenogenesis",
+        "metamorphosis",
+        "fertilization",
+        "incubation period"
+      ],
+      "correctAnswer": "parthenogenesis"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The series of major changes in body structure as an insect develops is called:",
+      "options": [
+        "metamorphosis",
+        "parthenogenesis",
+        "fertilization",
+        "gestation"
+      ],
+      "correctAnswer": "metamorphosis"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Complete metamorphosis consists of how many stages?",
+      "options": [
+        "four",
+        "three",
+        "two",
+        "five"
+      ],
+      "correctAnswer": "four"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The four stages of complete metamorphosis are egg, larva, pupa, and:",
+      "options": [
+        "adult",
+        "nymph",
+        "tadpole",
+        "embryo"
+      ],
+      "correctAnswer": "adult"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Incomplete metamorphosis consists of the stages egg, nymph, and:",
+      "options": [
+        "adult",
+        "larva",
+        "pupa",
+        "embryo"
+      ],
+      "correctAnswer": "adult"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Honeybees are given as an example of insects with:",
+      "options": [
+        "complete metamorphosis",
+        "incomplete metamorphosis",
+        "no metamorphosis",
+        "parthenogenesis only"
+      ],
+      "correctAnswer": "complete metamorphosis"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Grasshoppers are given as an example of insects with:",
+      "options": [
+        "incomplete metamorphosis",
+        "complete metamorphosis type",
+        "no metamorphosis",
+        "internal gestation"
+      ],
+      "correctAnswer": "incomplete metamorphosis"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The resting and inactive stage in the life cycle of an insect is the:",
+      "options": [
+        "pupa stage",
+        "larva stage",
+        "adult stage",
+        "egg stage"
+      ],
+      "correctAnswer": "pupa stage"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Metamorphosis in insects is regulated by the hormone:",
+      "options": [
+        "ecdysone",
+        "pheromone",
+        "thyroxine",
+        "insulin"
+      ],
+      "correctAnswer": "ecdysone"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The chemical substances that control insect metamorphosis are:",
+      "options": [
+        "hormones",
+        "pheromones",
+        "enzymes",
+        "antibodies"
+      ],
+      "correctAnswer": "hormones"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "After mating, the female insect:",
+      "options": [
+        "lays eggs that hatch after development",
+        "gives birth to live young offspring directly",
+        "carries the young until weaning",
+        "builds a nest for the young ones"
+      ],
+      "correctAnswer": "lays eggs that hatch after development"
+    }
+  ]
+}

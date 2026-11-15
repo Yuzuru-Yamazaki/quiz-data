@@ -1,0 +1,314 @@
+{
+  "title": "3.4 Vertical Motion",
+  "description": "Free fall, acceleration due to gravity, maximum height, time of flight, terminal velocity, and reaction time",
+  "folder": "School/Grade 11/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit3"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Free fall is motion under the influence of",
+      "options": [
+        "Gravity alone",
+        "Air resistance alone",
+        "Constant velocity",
+        "A curved path only"
+      ],
+      "correctAnswer": "Gravity alone"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Near Earth's surface, the acceleration of free fall is about",
+      "options": [
+        "9.8 m/s squared",
+        "9.8 m/s",
+        "1.8 m/s squared",
+        "98 m/s squared"
+      ],
+      "correctAnswer": "9.8 m/s squared"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The direction of free-fall acceleration is",
+      "options": [
+        "Downward",
+        "Upward",
+        "Horizontal",
+        "Along the velocity"
+      ],
+      "correctAnswer": "Downward"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "In a vacuum, the acceleration of a falling body is",
+      "options": [
+        "Independent of mass",
+        "Proportional to mass",
+        "Inversely proportional to mass",
+        "Equal to its weight"
+      ],
+      "correctAnswer": "Independent of mass"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Galileo concluded that in a vacuum",
+      "options": [
+        "All bodies fall alike in a vacuum",
+        "Heavier bodies always fall faster",
+        "Lighter bodies always fall faster",
+        "Mass alone sets the fall rate"
+      ],
+      "correctAnswer": "All bodies fall alike in a vacuum"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The kinematic equations apply to free fall when acceleration is",
+      "options": [
+        "Replaced by g",
+        "Replaced by zero",
+        "Held constant as v",
+        "Set equal to s"
+      ],
+      "correctAnswer": "Replaced by g"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A body thrown upward with speed u reaches a maximum height of",
+      "options": [
+        "u squared over 2g",
+        "u squared over g",
+        "u over 2g",
+        "2u squared over g"
+      ],
+      "correctAnswer": "u squared over 2g"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The time for a body thrown upward with speed u to reach its top is",
+      "options": [
+        "u over g",
+        "2u over g",
+        "u squared over g",
+        "g over u"
+      ],
+      "correctAnswer": "u over g"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A ball is thrown up at 20 m/s from a 15 m building (g = 10). It returns to the release height after",
+      "options": [
+        "4 s",
+        "2 s",
+        "3 s",
+        "5 s"
+      ],
+      "correctAnswer": "4 s"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "That ball reaches a maximum height above the release point of",
+      "options": [
+        "20 m",
+        "10 m",
+        "15 m",
+        "40 m"
+      ],
+      "correctAnswer": "20 m"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The highest point of that ball above the ground is",
+      "options": [
+        "35 m",
+        "20 m",
+        "15 m",
+        "40 m"
+      ],
+      "correctAnswer": "35 m"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "A ball is thrown down at 10 m/s from a 15 m balcony (g = 10). It reaches the ground in",
+      "options": [
+        "3 s",
+        "2 s",
+        "1 s",
+        "4 s"
+      ],
+      "correctAnswer": "3 s"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "That ball hits the ground with a speed of",
+      "options": [
+        "20 m/s",
+        "10 m/s",
+        "15 m/s",
+        "30 m/s"
+      ],
+      "correctAnswer": "20 m/s"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A stone is thrown down at 10 m/s into a 60 m well (g = 10). It reaches the bottom in about",
+      "options": [
+        "2.6 s",
+        "2.0 s",
+        "3.5 s",
+        "1.5 s"
+      ],
+      "correctAnswer": "2.6 s"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Terminal velocity is reached when",
+      "options": [
+        "Drag equals weight",
+        "Drag exceeds weight",
+        "Weight exceeds drag",
+        "Net force is maximum"
+      ],
+      "correctAnswer": "Drag equals weight"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "At terminal velocity, the acceleration of the falling body is",
+      "options": [
+        "Zero",
+        "9.8 m/s squared",
+        "Increasing",
+        "Decreasing"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "The terminal velocity of a falling body depends mainly on its",
+      "options": [
+        "Shape and area",
+        "Mass alone",
+        "Colour only",
+        "Temperature alone"
+      ],
+      "correctAnswer": "Shape and area"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Reaction time from a measured drop distance d is found from",
+      "options": [
+        "root of 2d over g",
+        "root of d over g",
+        "2d over g",
+        "root of 2g over d"
+      ],
+      "correctAnswer": "root of 2d over g"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Reaction distance is calculated as",
+      "options": [
+        "Speed times reaction time",
+        "Speed times the braking time",
+        "Speed over reaction time",
+        "Reaction time over speed"
+      ],
+      "correctAnswer": "Speed times reaction time"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "In many school problems, g is rounded to",
+      "options": [
+        "10 m/s squared",
+        "1 m/s squared",
+        "5 m/s squared",
+        "20 m/s squared"
+      ],
+      "correctAnswer": "10 m/s squared"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "At the highest point of an upward throw, the velocity is",
+      "options": [
+        "Zero",
+        "Maximum",
+        "Equal to u",
+        "Equal to g"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Ignoring air resistance, the time up and the time down are",
+      "options": [
+        "Equal",
+        "Upward is longer",
+        "Downward is longer",
+        "Unrelated"
+      ],
+      "correctAnswer": "Equal"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Air resistance acting on a falling body",
+      "options": [
+        "Reduces acceleration",
+        "Increases acceleration",
+        "Has no effect on it",
+        "Reverses the direction"
+      ],
+      "correctAnswer": "Reduces acceleration"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "The value of g is independent of the",
+      "options": [
+        "Mass of the body",
+        "Local altitude value",
+        "Local latitude value",
+        "Planet being orbited"
+      ],
+      "correctAnswer": "Mass of the body"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "A body released from rest falls a distance in time t equal to",
+      "options": [
+        "half g t squared",
+        "g times t squared",
+        "half g t",
+        "g t"
+      ],
+      "correctAnswer": "half g t squared"
+    }
+  ]
+}

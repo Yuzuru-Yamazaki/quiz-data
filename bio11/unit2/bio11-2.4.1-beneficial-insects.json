@@ -1,0 +1,327 @@
+{
+  "title": "2.4.1 Beneficial Aspects of Insects",
+  "description": "Insects in agriculture, food, industry, health and medicine",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "insects"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Insects provide two main services to agriculture, namely:",
+      "options": [
+        "pollination and pest regulation",
+        "tilling and irrigation",
+        "harvesting, storage, and transport",
+        "breeding and vaccination"
+      ],
+      "correctAnswer": "pollination and pest regulation"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Insect pollinators are flower-visiting insects that forage on flowering plants to obtain:",
+      "options": [
+        "nectar and pollen",
+        "leaves, stems, and roots",
+        "roots and tubers",
+        "seeds and fruits"
+      ],
+      "correctAnswer": "nectar and pollen"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Pollination is the transfer of male gametes contained in pollen to the:",
+      "options": [
+        "female gametes of a flower",
+        "roots of the same plant only",
+        "leaves of a nearby plant",
+        "seeds inside the fruit"
+      ],
+      "correctAnswer": "female gametes of a flower"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "An estimated what percentage of world crop production results from insect pollination?",
+      "options": [
+        "35%",
+        "15%",
+        "55%",
+        "75%"
+      ],
+      "correctAnswer": "35%"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Natural biological control refers to pest regulation by:",
+      "options": [
+        "insect predators and parasitoids",
+        "chemical pesticides sprayed on crops",
+        "mechanical traps set by farmers",
+        "genetically modified crop plants"
+      ],
+      "correctAnswer": "insect predators and parasitoids"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which insect feeds on grasshoppers and caterpillars that damage crops?",
+      "options": [
+        "Stagmomantis (mantis)",
+        "Chilomenes (ladybird)",
+        "Epicauta (blister beetle)",
+        "Musca domestica (housefly)"
+      ],
+      "correctAnswer": "Stagmomantis (mantis)"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Chilomenes, a ladybird beetle, feeds on aphids that damage:",
+      "options": [
+        "cotton plants",
+        "rice fields",
+        "citrus orchards",
+        "maize stalks"
+      ],
+      "correctAnswer": "cotton plants"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Epicauta, a blister beetle, helps farmers by eating:",
+      "options": [
+        "masses of locust eggs",
+        "aphids on cotton plants",
+        "caterpillars on leaves",
+        "scale worms on oranges"
+      ],
+      "correctAnswer": "masses of locust eggs"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Insects improve soil aeration by:",
+      "options": [
+        "creating channels for water, air, and roots",
+        "adding chemical fertilizers to the soil surface",
+        "compacting the soil around plant roots",
+        "removing all organic matter from soil"
+      ],
+      "correctAnswer": "creating channels for water, air, and roots"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Insect decomposers help in the biochemical cycling of:",
+      "options": [
+        "nutrients",
+        "sunlight",
+        "oxygen only",
+        "water vapor"
+      ],
+      "correctAnswer": "nutrients"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The number of recorded edible insect species in the world is over:",
+      "options": [
+        "1,462",
+        "462",
+        "2,462",
+        "14,620"
+      ],
+      "correctAnswer": "1,462"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Most edible insects are consumed in:",
+      "options": [
+        "Asia and Central America",
+        "Europe and North America",
+        "Australia and Antarctica",
+        "Southern Africa and Europe"
+      ],
+      "correctAnswer": "Asia and Central America"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which insects are commonly eaten in Asia and Central America?",
+      "options": [
+        "crickets, grasshoppers, and termites",
+        "spiders, scorpions, and ticks",
+        "butterflies, moths, and bees exclusively",
+        "mosquitoes, flies, and lice"
+      ],
+      "correctAnswer": "crickets, grasshoppers, and termites"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Grasshoppers are eaten in many parts of the world because they are rich in:",
+      "options": [
+        "protein",
+        "calcium",
+        "vitamin C",
+        "fiber"
+      ],
+      "correctAnswer": "protein"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Insect farming is recommended as a food source because insects have:",
+      "options": [
+        "high growth and feed conversion rates",
+        "long life cycles and slow growth",
+        "low protein and very high water content",
+        "a large environmental footprint"
+      ],
+      "correctAnswer": "high growth and feed conversion rates"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Honey and beeswax are commercially produced by:",
+      "options": [
+        "honeybees (Apis mellifera)",
+        "silkworms (Bombyx mori)",
+        "lac insects (Laccifer lacca)",
+        "scale insects (Dactylopius coccus)"
+      ],
+      "correctAnswer": "honeybees (Apis mellifera)"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Silk fibers are produced by:",
+      "options": [
+        "silkworms (Bombyx mori)",
+        "honeybees (Apis mellifera)",
+        "lac insects (Laccifer lacca)",
+        "blister beetles (Epicauta)"
+      ],
+      "correctAnswer": "silkworms (Bombyx mori)"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Shellac is a resin secreted by:",
+      "options": [
+        "lac insects (Laccifer lacca)",
+        "silkworms (Bombyx mori)",
+        "honeybees (Apis mellifera)",
+        "scale insects (Dactylopius coccus)"
+      ],
+      "correctAnswer": "lac insects (Laccifer lacca)"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Cochineal pigment is extracted from:",
+      "options": [
+        "scale insects (Dactylopius coccus)",
+        "lac insects (Laccifer lacca species)",
+        "silkworms (Bombyx mori)",
+        "blister beetles (Epicauta)"
+      ],
+      "correctAnswer": "scale insects (Dactylopius coccus)"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Cochineal pigment is still used to give color to foods, beverages, cosmetics, and:",
+      "options": [
+        "art products",
+        "building materials",
+        "car fuels",
+        "drinking water"
+      ],
+      "correctAnswer": "art products"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Tannic acid used in leather industries is obtained from gall tissues produced by trees in response to:",
+      "options": [
+        "tiny wasps of the family Cynipidae",
+        "lac insects of the family Lacciferidae",
+        "scale insects of the family Dactylopiidae",
+        "silkworms of the family Bombycidae"
+      ],
+      "correctAnswer": "tiny wasps of the family Cynipidae"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Honey is applied to treat:",
+      "options": [
+        "burns and post-surgical wounds",
+        "broken bones and fractures",
+        "bacterial infections of the lungs",
+        "high blood pressure and diabetes"
+      ],
+      "correctAnswer": "burns and post-surgical wounds"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "Bee and ant venom are used to treat:",
+      "options": [
+        "joint pain",
+        "skin rashes",
+        "eye infections",
+        "stomach ulcers"
+      ],
+      "correctAnswer": "joint pain"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Blister beetles secrete cantharidin, which acts as a powerful:",
+      "options": [
+        "protein blocker",
+        "blood-thinning agent",
+        "pain reliever",
+        "sleep inducer"
+      ],
+      "correctAnswer": "protein blocker"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Cantharidin may be useful in treating cancerous tumors that are resistant to:",
+      "options": [
+        "radiation and chemotherapy",
+        "surgery and vaccination",
+        "antibiotics and antivirals",
+        "dialysis and transplants"
+      ],
+      "correctAnswer": "radiation and chemotherapy"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Several African cultures use poultices made from ground grasshoppers as:",
+      "options": [
+        "pain relievers for migraines",
+        "a source of drinking water",
+        "a treatment for broken bones",
+        "a fertilizer for crops"
+      ],
+      "correctAnswer": "pain relievers for migraines"
+    }
+  ]
+}

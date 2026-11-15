@@ -1,0 +1,135 @@
+{
+  "title": "2.2.1 Invertebrate Animals",
+  "description": "Features, habitats, body coverings and examples of animals without a backbone",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "invertebrates"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Invertebrates are animals that lack a:",
+      "options": [
+        "backbone or vertebral column",
+        "nervous system of any kind",
+        "means of sexual reproduction",
+        "cellular mode of nutrition"
+      ],
+      "correctAnswer": "backbone or vertebral column"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The most diverse group of animals in the world is the:",
+      "options": [
+        "invertebrates",
+        "vertebrate animals",
+        "mammalian species",
+        "warm-blooded animals"
+      ],
+      "correctAnswer": "invertebrates"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Invertebrates are found in habitats that include:",
+      "options": [
+        "deserts, seabeds, caves, and mountains",
+        "warm oceans and shallow coastal areas",
+        "freshwater lakes and slow-moving rivers",
+        "tropical forests and open grasslands"
+      ],
+      "correctAnswer": "deserts, seabeds, caves, and mountains"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The internal support that invertebrate animals generally lack is a:",
+      "options": [
+        "rigid internal skeletal system",
+        "flexible external membrane covering",
+        "chitinous outer body covering",
+        "muscular body wall structure"
+      ],
+      "correctAnswer": "rigid internal skeletal system"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Some invertebrates are protected by an exoskeleton usually made of:",
+      "options": [
+        "chitin",
+        "cartilage",
+        "keratin",
+        "cellulose"
+      ],
+      "correctAnswer": "chitin"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The main function of the invertebrate exoskeleton is to:",
+      "options": [
+        "protect the soft inner body",
+        "produce gametes for reproduction",
+        "store food for later use",
+        "detect changes in the environment"
+      ],
+      "correctAnswer": "protect the soft inner body"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Invertebrates are described as cold-blooded because their body temperature:",
+      "options": [
+        "varies with the environment",
+        "stays constant in every habitat",
+        "is raised by shivering in the cold",
+        "is lowered by sweating in the heat"
+      ],
+      "correctAnswer": "varies with the environment"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which of the following animals is an invertebrate?",
+      "options": [
+        "sea star",
+        "salmon fish",
+        "sparrow bird",
+        "lizard species"
+      ],
+      "correctAnswer": "sea star"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which group lists invertebrate examples given in the text?",
+      "options": [
+        "earthworms, insects, and snails",
+        "frogs, fishes, and reptiles",
+        "mammals, birds, and reptiles",
+        "whales, dolphins, and sea lions"
+      ],
+      "correctAnswer": "earthworms, insects, and snails"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Sponges, jellyfish, and lobsters are examples of:",
+      "options": [
+        "invertebrate animals",
+        "vertebrate animals",
+        "warm-blooded animals",
+        "chordate animals"
+      ],
+      "correctAnswer": "invertebrate animals"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "title": "2.3.7 Reproduction in Rats",
+  "description": "Rat species, reproductive organs, gestation, development and parental care",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "rats"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The genus name for rats is:",
+      "options": [
+        "Rattus",
+        "Rana genus",
+        "Musca genus",
+        "Apis genus"
+      ],
+      "correctAnswer": "Rattus"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The two most common rat species are the black rat and the:",
+      "options": [
+        "brown rat",
+        "gray mouse",
+        "house mouse",
+        "mole rat"
+      ],
+      "correctAnswer": "brown rat"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Black rats predominantly live in:",
+      "options": [
+        "warmer climates",
+        "temperate regions",
+        "polar regions",
+        "high mountains"
+      ],
+      "correctAnswer": "warmer climates"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Brown rats are dominantly found in:",
+      "options": [
+        "temperate regions",
+        "tropical forest regions",
+        "desert regions",
+        "coastal waters"
+      ],
+      "correctAnswer": "temperate regions"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The Giant Mole rat (Tachyoryctes macrocephalus) is endemic to:",
+      "options": [
+        "Ethiopia",
+        "Kenya country",
+        "Egypt country",
+        "Nigeria country"
+      ],
+      "correctAnswer": "Ethiopia"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The Giant Mole rat is confined to high-altitude shrub and grasslands in the:",
+      "options": [
+        "Afro-alpine Bale Mountains habitat",
+        "Sahara desert regions of northern Africa",
+        "Congo rainforest of central Africa",
+        "Nile Delta of northern Egypt"
+      ],
+      "correctAnswer": "Afro-alpine Bale Mountains habitat"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The male reproductive structures of a rat include testes, scrotum, seminiferous tubules, epididymis, vas deferens, and:",
+      "options": [
+        "penis with bacula",
+        "ovaries and oviducts",
+        "uterine horns and vulva",
+        "a cloaca and uterus"
+      ],
+      "correctAnswer": "penis with bacula"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The female reproductive structures of a rat consist of two ovaries, oviducts, uterine horns, and:",
+      "options": [
+        "vagina with vulva",
+        "testes and scrotum",
+        "penis with bacula",
+        "seminiferous tubules"
+      ],
+      "correctAnswer": "vagina with vulva"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "In rats, fertilization of the egg occurs:",
+      "options": [
+        "inside the female",
+        "outside the female",
+        "in the open water",
+        "in a nest on land"
+      ],
+      "correctAnswer": "inside the female"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The gestation period of a brown rat is:",
+      "options": [
+        "22 to 24 days",
+        "12 to 14 days",
+        "32 to 34 days",
+        "42 to 44 days"
+      ],
+      "correctAnswer": "22 to 24 days"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The gestation period of black rats is usually:",
+      "options": [
+        "22 days",
+        "24 days",
+        "37 days",
+        "49 days"
+      ],
+      "correctAnswer": "22 days"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The gestation period of giant mole rats is:",
+      "options": [
+        "37 to 49 days",
+        "22 to 24 days",
+        "12 to 20 days",
+        "49 to 60 days"
+      ],
+      "correctAnswer": "37 to 49 days"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "After fertilization, the blastula travels down the oviducts and implants in the:",
+      "options": [
+        "uterine horns",
+        "ovarian follicles",
+        "vaginal canal",
+        "scrotal sacs"
+      ],
+      "correctAnswer": "uterine horns"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The umbilical cord is a complex system of connecting blood vessels that:",
+      "options": [
+        "nourishes the embryo from the mother",
+        "removes waste from the mother's blood",
+        "produces milk for the newborn pups",
+        "forms the shell around the embryo"
+      ],
+      "correctAnswer": "nourishes the embryo from the mother"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The placenta transports oxygen to the embryo and:",
+      "options": [
+        "removes waste from the embryo",
+        "stores food for the embryo",
+        "produces hormones for the mother",
+        "forms the amniotic fluid"
+      ],
+      "correctAnswer": "removes waste from the embryo"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The amniotic sac around the rat embryo functions to:",
+      "options": [
+        "protect the embryo during pregnancy",
+        "supply the embryo with oxygen and nutrients",
+        "remove waste from the embryo",
+        "produce milk for the newborn"
+      ],
+      "correctAnswer": "protect the embryo during pregnancy"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "In the rat embryo, the neural plate later develops into the:",
+      "options": [
+        "brain and spinal cord",
+        "heart and blood vessels",
+        "kidneys, liver, and lungs",
+        "skin, hair, and nails"
+      ],
+      "correctAnswer": "brain and spinal cord"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Rat offspring are born:",
+      "options": [
+        "hairless, deaf, with sealed eyelids",
+        "covered in fur and with open eyes",
+        "with fully developed hearing at birth",
+        "able to forage alone right after birth"
+      ],
+      "correctAnswer": "hairless, deaf, with sealed eyelids"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Rats normally give birth to how many offspring per litter on average?",
+      "options": [
+        "7 to 12",
+        "1 to 3",
+        "20 to 25",
+        "30 to 40"
+      ],
+      "correctAnswer": "7 to 12"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Young rats are fully weaned and actively foraging after:",
+      "options": [
+        "45 days",
+        "15 days",
+        "90 days",
+        "120 days"
+      ],
+      "correctAnswer": "45 days"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Brown-black rats reach sexual maturity at:",
+      "options": [
+        "3 to 4 months old",
+        "1 to 2 months old",
+        "6 to 8 months old",
+        "10 to 12 months old"
+      ],
+      "correctAnswer": "3 to 4 months old"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Giant mole rats become reproductively mature at:",
+      "options": [
+        "4 to 6 months old",
+        "1 to 2 months old",
+        "8 to 10 months old",
+        "12 to 14 months old"
+      ],
+      "correctAnswer": "4 to 6 months old"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "When a mother rat dies, other female rats in the group will:",
+      "options": [
+        "nurse her pups until weaning",
+        "abandon her pups to find new nests",
+        "fight her pups for available food",
+        "lead her pups away from the colony"
+      ],
+      "correctAnswer": "nurse her pups until weaning"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "In rats, parental care of the pups is:",
+      "options": [
+        "left entirely to the females",
+        "shared equally between both parents",
+        "carried out only by the males",
+        "shared between the mother and father"
+      ],
+      "correctAnswer": "left entirely to the females"
+    }
+  ]
+}

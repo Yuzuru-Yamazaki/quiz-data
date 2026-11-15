@@ -1,0 +1,242 @@
+{
+  "title": "3.3.2 Velocity-Time Graphs",
+  "description": "Interpreting velocity-time graphs, reading acceleration from the slope, and finding displacement from the area under the graph",
+  "folder": "School/Grade 11/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit3"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The slope of a velocity-time graph gives the",
+      "options": [
+        "Acceleration",
+        "Velocity",
+        "Displacement",
+        "Distance"
+      ],
+      "correctAnswer": "Acceleration"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The area between a velocity-time graph and the time axis gives the",
+      "options": [
+        "Displacement",
+        "Acceleration",
+        "Velocity",
+        "Force"
+      ],
+      "correctAnswer": "Displacement"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "A horizontal line on a velocity-time graph means",
+      "options": [
+        "Constant velocity",
+        "Constant acceleration",
+        "Object at rest",
+        "Increasing speed"
+      ],
+      "correctAnswer": "Constant velocity"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "A positive slope on a velocity-time graph means",
+      "options": [
+        "Positive acceleration",
+        "Negative acceleration",
+        "Zero acceleration",
+        "Constant speed"
+      ],
+      "correctAnswer": "Positive acceleration"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A negative slope on a velocity-time graph means",
+      "options": [
+        "Negative acceleration",
+        "Positive acceleration",
+        "Zero acceleration",
+        "Constant speed"
+      ],
+      "correctAnswer": "Negative acceleration"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The area below the time axis on a velocity-time graph represents",
+      "options": [
+        "Negative displacement",
+        "Positive displacement",
+        "Zero displacement",
+        "Total distance"
+      ],
+      "correctAnswer": "Negative displacement"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A car accelerates from rest at 2 m/s squared for 5 s. Its final speed is",
+      "options": [
+        "10 m/s",
+        "5 m/s",
+        "2 m/s",
+        "25 m/s"
+      ],
+      "correctAnswer": "10 m/s"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The car covers what distance during those first 5 s?",
+      "options": [
+        "25 m",
+        "10 m",
+        "50 m",
+        "5 m"
+      ],
+      "correctAnswer": "25 m"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The car then keeps 10 m/s for 4 s. The distance covered is",
+      "options": [
+        "40 m",
+        "25 m",
+        "14 m",
+        "90 m"
+      ],
+      "correctAnswer": "40 m"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The car brakes from 10 m/s to rest in 2 s. Its acceleration is",
+      "options": [
+        "-5 m/s squared",
+        "-2 m/s squared",
+        "5 m/s squared",
+        "-10 m/s squared"
+      ],
+      "correctAnswer": "-5 m/s squared"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The distance covered during that 2 s of braking is",
+      "options": [
+        "10 m",
+        "20 m",
+        "5 m",
+        "25 m"
+      ],
+      "correctAnswer": "10 m"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The car later returns at 15 m/s for 5 s to its start. Its total displacement over the whole trip is",
+      "options": [
+        "Zero",
+        "75 m",
+        "150 m",
+        "-75 m"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "For a ball thrown vertically upward, the velocity-time graph is",
+      "options": [
+        "A straight line sloping down",
+        "A parabola opening upward",
+        "A horizontal straight line",
+        "A straight line sloping upward"
+      ],
+      "correctAnswer": "A straight line sloping down"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "At the maximum height of a vertical throw, the velocity on a velocity-time graph is",
+      "options": [
+        "Zero",
+        "Maximum",
+        "Negative",
+        "Undefined"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Uniform motion on a velocity-time graph appears as",
+      "options": [
+        "A horizontal line",
+        "A straight slope",
+        "A parabola",
+        "A vertical straight line"
+      ],
+      "correctAnswer": "A horizontal line"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The area of a triangle under a velocity-time graph equals",
+      "options": [
+        "half base times height",
+        "base length times height",
+        "2 base times height",
+        "base over height"
+      ],
+      "correctAnswer": "half base times height"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Uniformly accelerated motion on a velocity-time graph is",
+      "options": [
+        "A straight line",
+        "A parabola",
+        "A horizontal line",
+        "A circle arc"
+      ],
+      "correctAnswer": "A straight line"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "When velocity stays constant, the acceleration is",
+      "options": [
+        "Zero",
+        "Equal to velocity",
+        "Increasing",
+        "Decreasing"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "The displacement on a velocity-time graph is found from the area between the",
+      "options": [
+        "Graph line and time axis",
+        "Graph line and speed axis",
+        "Two vertical speed lines",
+        "Time axis and the origin"
+      ],
+      "correctAnswer": "Graph line and time axis"
+    }
+  ]
+}

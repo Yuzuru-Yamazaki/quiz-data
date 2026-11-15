@@ -1,0 +1,254 @@
+{
+  "title": "2.3.1 Adding Collinear and Perpendicular Vectors",
+  "description": "Algebraic addition of vectors along the same line and at right angles, including relative velocity on a river and the direction of a resultant",
+  "folder": "School/Grade 11/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "For two collinear vectors in the same direction, the resultant magnitude is the",
+      "options": [
+        "Sum of magnitudes",
+        "Difference of magnitudes",
+        "Product of magnitudes",
+        "Square root of the sum"
+      ],
+      "correctAnswer": "Sum of magnitudes"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "For two collinear vectors in opposite directions, the resultant magnitude is the",
+      "options": [
+        "Difference in sizes",
+        "Sum of their sizes",
+        "Product of their sizes",
+        "Ratio of their sizes"
+      ],
+      "correctAnswer": "Difference in sizes"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "When two opposite collinear vectors are added, the resultant points",
+      "options": [
+        "Along the larger vector",
+        "Along the smaller vector",
+        "Between both vectors",
+        "Perpendicular to both"
+      ],
+      "correctAnswer": "Along the larger vector"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "A boat sails at 0.50 m/s in still water and the river flows at 0.30 m/s. Its velocity downstream is",
+      "options": [
+        "0.80 m/s downstream",
+        "0.20 m/s downstream",
+        "0.80 m/s upstream",
+        "0.20 m/s upstream"
+      ],
+      "correctAnswer": "0.80 m/s downstream"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The same boat rows upstream against the 0.30 m/s current. Its resultant velocity is",
+      "options": [
+        "0.20 m/s upstream",
+        "0.80 m/s upstream",
+        "0.20 m/s downstream",
+        "0.80 m/s downstream"
+      ],
+      "correctAnswer": "0.20 m/s upstream"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Two men push a block with opposite forces of 200 N and 100 N. The resultant is",
+      "options": [
+        "100 N toward the 200 N force",
+        "300 N toward the 200 N force",
+        "100 N toward the 100 N force",
+        "300 N toward the 100 N force"
+      ],
+      "correctAnswer": "100 N toward the 200 N force"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The magnitude of the resultant of two perpendicular vectors is found with the",
+      "options": [
+        "Pythagorean theorem",
+        "Triangle inequality",
+        "Parallelogram rule",
+        "Law of cosines"
+      ],
+      "correctAnswer": "Pythagorean theorem"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Two perpendicular displacements of 3 m and 4 m give a resultant of",
+      "options": [
+        "5 m",
+        "7 m",
+        "1 m",
+        "12 m"
+      ],
+      "correctAnswer": "5 m"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The angle of a resultant with a reference line is found from tan theta equal to",
+      "options": [
+        "Opposite over adjacent",
+        "Adjacent over opposite",
+        "Hypotenuse over opposite",
+        "Opposite over hypotenuse"
+      ],
+      "correctAnswer": "Opposite over adjacent"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "An ant walks 40 cm due South and then 50 cm due West. Its resultant displacement is about",
+      "options": [
+        "About 64 cm",
+        "About 90 cm",
+        "About 10 cm",
+        "About 45 cm"
+      ],
+      "correctAnswer": "About 64 cm"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The ant's resultant displacement is directed about 38.6 degrees",
+      "options": [
+        "South of West",
+        "West of South",
+        "North of West",
+        "South of East"
+      ],
+      "correctAnswer": "South of West"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Adding two perpendicular vectors tail to tail forms",
+      "options": [
+        "A right triangle",
+        "A straight line",
+        "A circle arc",
+        "An equilateral triangle"
+      ],
+      "correctAnswer": "A right triangle"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Two equal perpendicular vectors of magnitude A give a resultant of",
+      "options": [
+        "A times root two",
+        "Two times A",
+        "A",
+        "A divided by two"
+      ],
+      "correctAnswer": "A times root two"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The resultant of two perpendicular vectors is obtained by",
+      "options": [
+        "Combining perpendicular components",
+        "Adding their magnitudes directly",
+        "Subtracting their magnitudes directly",
+        "Multiplying their magnitudes together"
+      ],
+      "correctAnswer": "Combining perpendicular components"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Two vectors of magnitudes 13 and 9 are added. The largest resultant is",
+      "options": [
+        "22 units",
+        "13 units",
+        "9 units",
+        "4 units"
+      ],
+      "correctAnswer": "22 units"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Two vectors of magnitudes 13 and 9 are added. The smallest resultant is",
+      "options": [
+        "4 units",
+        "22 units",
+        "13 units",
+        "9 units"
+      ],
+      "correctAnswer": "4 units"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Forces of 5 N and 7 N act in the same direction. Their resultant is",
+      "options": [
+        "12 N along both forces",
+        "2 N along both forces",
+        "12 N opposite the forces",
+        "2 N opposite the forces"
+      ],
+      "correctAnswer": "12 N along both forces"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Vectors A and B are opposite and B is larger. The resultant points",
+      "options": [
+        "Along B",
+        "Along A",
+        "Perpendicular to both",
+        "At 45 degrees to both"
+      ],
+      "correctAnswer": "Along B"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Two equal vectors pointing in opposite directions have a resultant of",
+      "options": [
+        "Zero magnitude",
+        "Twice one magnitude",
+        "Half one magnitude",
+        "One full magnitude"
+      ],
+      "correctAnswer": "Zero magnitude"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "For same-direction vectors A and B, the resultant magnitude is",
+      "options": [
+        "A + B",
+        "A - B",
+        "|A - B|",
+        "The root of A squared plus B squared"
+      ],
+      "correctAnswer": "A + B"
+    }
+  ]
+}

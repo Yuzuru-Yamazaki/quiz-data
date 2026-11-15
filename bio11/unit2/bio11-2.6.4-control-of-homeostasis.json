@@ -1,0 +1,183 @@
+{
+  "title": "2.6.4 Control of Homeostasis",
+  "description": "Negative and positive feedback mechanisms and the components of homeostatic control",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "homeostasis"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "A feedback mechanism is a physiological regulation system that:",
+      "options": [
+        "returns the body to its normal internal state",
+        "increases the body's internal temperature",
+        "stops all body functions temporarily",
+        "prevents the body from responding to any stimuli"
+      ],
+      "correctAnswer": "returns the body to its normal internal state"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "In a feedback mechanism, the receptor senses a change and sends a signal to the:",
+      "options": [
+        "control center in the brain",
+        "effector in the muscles",
+        "target gland in the body",
+        "sensory organ in the skin tissue"
+      ],
+      "correctAnswer": "control center in the brain"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The control center generates a response that is signaled to an effector such as muscles or:",
+      "options": [
+        "glands",
+        "bones",
+        "nerves",
+        "vessels"
+      ],
+      "correctAnswer": "glands"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Negative feedback is a homeostatic process that:",
+      "options": [
+        "reverses the direction of the stimulus",
+        "accelerates the initial change",
+        "increases the deviation from normal levels",
+        "stops the feedback loop entirely"
+      ],
+      "correctAnswer": "reverses the direction of the stimulus"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Positive feedback is a mechanism that:",
+      "options": [
+        "accelerates a change in the body",
+        "reverses the direction of a stimulus",
+        "returns the body to its normal level",
+        "decreases the initial body change"
+      ],
+      "correctAnswer": "accelerates a change in the body"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The three basic components of a negative feedback system are the sensor, control center, and:",
+      "options": [
+        "effector",
+        "stimulus",
+        "response",
+        "hormone"
+      ],
+      "correctAnswer": "effector"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The sensor in a negative feedback system monitors the physiological value and reports to the:",
+      "options": [
+        "control center",
+        "effector",
+        "target gland tissue",
+        "muscle cell"
+      ],
+      "correctAnswer": "control center"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "An effector causes a change that reverses the situation and returns the value to the:",
+      "options": [
+        "normal set point",
+        "maximum possible level",
+        "minimum possible level",
+        "original stimulus"
+      ],
+      "correctAnswer": "normal set point"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "When body temperature rises above normal, the control center causes:",
+      "options": [
+        "vasodilation and sweating",
+        "vasoconstriction and shivering",
+        "reduced blood flow to the skin",
+        "deactivation of the sweat glands"
+      ],
+      "correctAnswer": "vasodilation and sweating"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "When body temperature drops below normal, the body responds with:",
+      "options": [
+        "vasoconstriction and shivering",
+        "vasodilation and sweating",
+        "increased blood flow to the skin",
+        "activation of the sweat glands"
+      ],
+      "correctAnswer": "vasoconstriction and shivering"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Excessive sweating that removes heat through evaporation is called:",
+      "options": [
+        "diaphoresis",
+        "vasodilation",
+        "vasoconstriction",
+        "thermoregulation"
+      ],
+      "correctAnswer": "diaphoresis"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "If heat loss is severe, the brain causes skeletal muscles to contract and produce:",
+      "options": [
+        "shivering",
+        "sweating",
+        "vasodilation",
+        "diaphoresis"
+      ],
+      "correctAnswer": "shivering"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "As the body cools off, negative feedback halts the signaling process to:",
+      "options": [
+        "stop the process of sweating",
+        "increase the process of sweating",
+        "start the process of shivering",
+        "raise the body temperature"
+      ],
+      "correctAnswer": "stop the process of sweating"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A positive feedback loop would cause the body to:",
+      "options": [
+        "keep sweating after it is no longer hot",
+        "stop sweating as soon as it cools",
+        "shiver until the body overheats",
+        "return quickly to the normal set point level"
+      ],
+      "correctAnswer": "keep sweating after it is no longer hot"
+    }
+  ]
+}

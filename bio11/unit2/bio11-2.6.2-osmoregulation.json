@@ -1,0 +1,195 @@
+{
+  "title": "2.6.2 Osmoregulation",
+  "description": "Fluid balance, osmoreceptors, osmoconformers and osmoregulators, and kidney function",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "homeostasis"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Osmoregulation regulates the osmotic pressure of fluids and the:",
+      "options": [
+        "electrolytic balance in organisms",
+        "temperature of the body core and skin",
+        "glucose level in the blood",
+        "oxygen level in the tissues"
+      ],
+      "correctAnswer": "electrolytic balance in organisms"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "About what percentage of the human body is composed of fluids?",
+      "options": [
+        "60%",
+        "40%",
+        "80%",
+        "20%"
+      ],
+      "correctAnswer": "60%"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Approximately two-thirds of the body's water content is found in the:",
+      "options": [
+        "intracellular fluids",
+        "extracellular fluids",
+        "blood plasma",
+        "interstitial fluid"
+      ],
+      "correctAnswer": "intracellular fluids"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The remaining one-third of the body's water forms the:",
+      "options": [
+        "extracellular fluid",
+        "intracellular fluid",
+        "blood cells",
+        "sweat glands"
+      ],
+      "correctAnswer": "extracellular fluid"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Extracellular fluid consists of interstitial fluid and:",
+      "options": [
+        "blood plasma",
+        "intracellular fluid",
+        "digestive juices",
+        "cerebrospinal fluid"
+      ],
+      "correctAnswer": "blood plasma"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Changes in osmotic pressure are detected by:",
+      "options": [
+        "osmoreceptors",
+        "thermoreceptors",
+        "photoreceptors",
+        "chemoreceptors"
+      ],
+      "correctAnswer": "osmoreceptors"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In humans and most warm-blooded organisms, osmoreceptors are found in the hypothalamus and the:",
+      "options": [
+        "kidneys",
+        "liver tissue",
+        "lung tissue",
+        "heart tissue"
+      ],
+      "correctAnswer": "kidneys"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Organisms that match the osmolarity of their body with their surroundings are called:",
+      "options": [
+        "osmoconformers",
+        "osmoregulators",
+        "thermoregulators",
+        "homeotherms"
+      ],
+      "correctAnswer": "osmoconformers"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which animals are examples of osmoconformers?",
+      "options": [
+        "starfish, jellyfish, and lobsters",
+        "humans, rats, and birds",
+        "frogs, crocodiles, fishes, and birds",
+        "insects, spiders, and worms"
+      ],
+      "correctAnswer": "starfish, jellyfish, and lobsters"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Organisms that actively regulate osmotic pressure independent of the environment are called:",
+      "options": [
+        "osmoregulators",
+        "osmoconformers",
+        "poikilotherms",
+        "ectotherms"
+      ],
+      "correctAnswer": "osmoregulators"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which of the following is an example of an osmoregulator?",
+      "options": [
+        "humans",
+        "starfish",
+        "jellyfish",
+        "lobsters"
+      ],
+      "correctAnswer": "humans"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The main organ responsible for osmoregulation in humans is the:",
+      "options": [
+        "kidney",
+        "liver tissue",
+        "lung tissue",
+        "heart tissue"
+      ],
+      "correctAnswer": "kidney"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "When the water level in the body is high, the kidney releases a large amount of:",
+      "options": [
+        "hypotonic urine",
+        "hypertonic urine",
+        "concentrated urine",
+        "no urine at all"
+      ],
+      "correctAnswer": "hypotonic urine"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "When the water level in the body is low, the kidney retains water and produces a low amount of:",
+      "options": [
+        "hypertonic urine",
+        "hypotonic urine",
+        "dilute and watery urine",
+        "watery urine"
+      ],
+      "correctAnswer": "hypertonic urine"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Osmoregulation is controlled by the hypothalamus and the antidiuretic hormone (ADH) secreted from the:",
+      "options": [
+        "pituitary gland",
+        "adrenal gland",
+        "thyroid gland",
+        "pancreatic gland"
+      ],
+      "correctAnswer": "pituitary gland"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "title": "2.3.2 Sexual Reproduction in Animals",
+  "description": "Gametes, fertilization, zygote formation and embryonic development stages",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "reproduction"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Sexual reproduction involves two parents and the:",
+      "options": [
+        "fusion of gametes from both parents",
+        "division of one parent organism only",
+        "development of unfertilized eggs alone",
+        "budding of a new individual organism"
+      ],
+      "correctAnswer": "fusion of gametes from both parents"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The parents in sexual reproduction are diploid organisms with:",
+      "options": [
+        "a complete set of chromosomes (2n)",
+        "half a set of chromosomes (n)",
+        "two unpaired sets of genes only",
+        "no chromosomes in their body cells"
+      ],
+      "correctAnswer": "a complete set of chromosomes (2n)"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Haploid cells called gametes are produced for the purpose of:",
+      "options": [
+        "transmitting genes to offspring",
+        "storing energy for later use",
+        "protecting the body from disease",
+        "regulating body temperature"
+      ],
+      "correctAnswer": "transmitting genes to offspring"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "In males, sperm cells are produced in the testes and stored in the:",
+      "options": [
+        "epididymis until ejaculation",
+        "ovary until fertilization occurs",
+        "uterine tube until the birth",
+        "placenta until weaning time"
+      ],
+      "correctAnswer": "epididymis until ejaculation"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The female gamete, or ovum, matures in the:",
+      "options": [
+        "ovary",
+        "testis",
+        "epididymis",
+        "uterus"
+      ],
+      "correctAnswer": "ovary"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The fusion of a sperm cell with an egg produces a:",
+      "options": [
+        "zygote through fertilization",
+        "gamete through meiosis division",
+        "blastula through cleavage stages",
+        "gastrula through folding process"
+      ],
+      "correctAnswer": "zygote through fertilization"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In animals with internal fertilization, eggs are released from the ovary into the:",
+      "options": [
+        "uterine tubes for fertilization",
+        "open water for fertilization",
+        "digestive tract for storage",
+        "the surrounding open water body"
+      ],
+      "correctAnswer": "uterine tubes for fertilization"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In animals with external fertilization, eggs are released into the:",
+      "options": [
+        "aqueous environment",
+        "uterine tubes",
+        "mother's body cavity",
+        "amniotic sac"
+      ],
+      "correctAnswer": "aqueous environment"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The first stage of embryonic development is:",
+      "options": [
+        "cleavage",
+        "gastrulation",
+        "organogenesis",
+        "implantation"
+      ],
+      "correctAnswer": "cleavage"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Cleavage involves a series of mitotic divisions that produce:",
+      "options": [
+        "an eight-celled structure",
+        "a hollow blastula ball",
+        "a gastrula with layers",
+        "a fully formed organ system"
+      ],
+      "correctAnswer": "an eight-celled structure"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "A blastula is best described as:",
+      "options": [
+        "a hollow ball of cells",
+        "an eight-celled embryo",
+        "a three-layered gastrula",
+        "a single fertilized egg"
+      ],
+      "correctAnswer": "a hollow ball of cells"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Gastrulation produces a gastrula that has:",
+      "options": [
+        "three distinct germ layers",
+        "a single uniform layer of cells",
+        "a hollow cavity without layers",
+        "a solid ball of identical cells"
+      ],
+      "correctAnswer": "three distinct germ layers"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Organogenesis refers to the formation of:",
+      "options": [
+        "organs during embryonic development",
+        "gametes inside the reproductive gonads",
+        "germ layers during gastrulation",
+        "shell membranes around the egg"
+      ],
+      "correctAnswer": "organs during embryonic development"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The germ layers produced during gastrulation later develop into:",
+      "options": [
+        "tissues, organs, and organ systems",
+        "gametes and reproductive cells",
+        "only the outer skin of the animal",
+        "the yolk, albumen, and shell of the egg"
+      ],
+      "correctAnswer": "tissues, organs, and organ systems"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Sexual reproduction increases genetic diversity, which helps organisms survive in:",
+      "options": [
+        "an unpredictable environment",
+        "a completely stable habitat",
+        "a single unchanging niche",
+        "an environment without predators"
+      ],
+      "correctAnswer": "an unpredictable environment"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "A zygote is a:",
+      "options": [
+        "diploid fertilized egg cell (2n)",
+        "haploid gamete cell with n chromosomes",
+        "hollow ball of many cells",
+        "solid ball of identical cells"
+      ],
+      "correctAnswer": "diploid fertilized egg cell (2n)"
+    }
+  ]
+}

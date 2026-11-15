@@ -1,0 +1,314 @@
+{
+  "title": "2.4 Product of Vectors",
+  "description": "Multiplying a vector by a scalar and the scalar or dot product of vectors, including its use in finding angles, work, and power",
+  "folder": "School/Grade 11/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "physics",
+    "grade11",
+    "unit2"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The dot product of two vectors yields",
+      "options": [
+        "A scalar",
+        "A vector",
+        "A tensor",
+        "A unit vector"
+      ],
+      "correctAnswer": "A scalar"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The dot product of vectors A and B is defined as",
+      "options": [
+        "AB cos theta",
+        "AB sin theta",
+        "A + B",
+        "AB tan theta"
+      ],
+      "correctAnswer": "AB cos theta"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The dot product of two perpendicular vectors is",
+      "options": [
+        "Zero",
+        "One",
+        "AB",
+        "A + B"
+      ],
+      "correctAnswer": "Zero"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The dot product of two parallel vectors is",
+      "options": [
+        "AB",
+        "Zero",
+        "A + B",
+        "A divided by B"
+      ],
+      "correctAnswer": "AB"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The dot product of the unit vector i with itself is",
+      "options": [
+        "1",
+        "0",
+        "i",
+        "j"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The dot product of the unit vectors i and j is",
+      "options": [
+        "0",
+        "1",
+        "i",
+        "j"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The dot product of a vector A with itself equals",
+      "options": [
+        "A squared",
+        "Zero",
+        "Two times A",
+        "A"
+      ],
+      "correctAnswer": "A squared"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In components, the dot product of A and B equals",
+      "options": [
+        "AxBx + AyBy",
+        "AxBy + AyBx",
+        "AxBx - AyBy",
+        "AxBy - AyBx"
+      ],
+      "correctAnswer": "AxBx + AyBy"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The dot product of two vectors at 120 degrees is",
+      "options": [
+        "Negative",
+        "Positive",
+        "Zero",
+        "Undefined"
+      ],
+      "correctAnswer": "Negative"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The dot product of two vectors at 60 degrees is",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Undefined"
+      ],
+      "correctAnswer": "Positive"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The dot product of two vectors is zero when the angle between them is",
+      "options": [
+        "90 degrees",
+        "0 degrees",
+        "180 degrees",
+        "45 degrees"
+      ],
+      "correctAnswer": "90 degrees"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "A is i + j and B is -2i + 3j. The dot product A dot B equals",
+      "options": [
+        "1",
+        "-2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "A is i + j and B is -2i + 3j. The angle between them is",
+      "options": [
+        "About 78.7 degrees",
+        "About 11.3 degrees",
+        "About 45.0 degrees",
+        "About 90.0 degrees"
+      ],
+      "correctAnswer": "About 78.7 degrees"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The work done by a force is defined as the",
+      "options": [
+        "Dot product of force and displacement",
+        "Cross product of force and displacement",
+        "Product of their magnitudes only",
+        "Sum of force and displacement"
+      ],
+      "correctAnswer": "Dot product of force and displacement"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "F is 5i + 3j N and S is -2i + 4j m. The work done is",
+      "options": [
+        "2 J",
+        "-2 J",
+        "22 J",
+        "-10 J"
+      ],
+      "correctAnswer": "2 J"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The power developed by a machine is defined as the",
+      "options": [
+        "Dot product of force and velocity",
+        "Cross product of force and velocity",
+        "Product of their magnitudes only",
+        "Sum of force and velocity"
+      ],
+      "correctAnswer": "Dot product of force and velocity"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "F is 50i + 30j N and v is 3i + 4j m/s. The power is",
+      "options": [
+        "270 W",
+        "150 W",
+        "120 W",
+        "300 W"
+      ],
+      "correctAnswer": "270 W"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "If P dot Q equals PQ, the angle between P and Q is",
+      "options": [
+        "0 degrees",
+        "90 degrees",
+        "180 degrees",
+        "45 degrees"
+      ],
+      "correctAnswer": "0 degrees"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Which statement expresses the commutative property of the dot product?",
+      "options": [
+        "A dot B = B dot A",
+        "A dot B = -B dot A",
+        "A dot B = A cross B",
+        "A dot B = A + B"
+      ],
+      "correctAnswer": "A dot B = B dot A"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Multiplying a vector by a negative scalar reverses its",
+      "options": [
+        "Direction",
+        "Magnitude",
+        "Unit",
+        "Origin"
+      ],
+      "correctAnswer": "Direction"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "S is 35 km at 60 degrees North of East. The vector 1.2S is",
+      "options": [
+        "42 km at 60 degrees North of East",
+        "42 km at 60 degrees South of West",
+        "35 km at 60 degrees North of East",
+        "29 km at 60 degrees North of East"
+      ],
+      "correctAnswer": "42 km at 60 degrees North of East"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "S is 35 km at 60 degrees North of East. The vector -1.2S is",
+      "options": [
+        "42 km at 60 degrees South of West",
+        "42 km at 60 degrees North of East",
+        "35 km at 60 degrees South of West",
+        "29 km at 60 degrees South of West"
+      ],
+      "correctAnswer": "42 km at 60 degrees South of West"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "The dot product of two vectors is largest when the angle between them is",
+      "options": [
+        "0 degrees",
+        "90 degrees",
+        "180 degrees",
+        "45 degrees"
+      ],
+      "correctAnswer": "0 degrees"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "The dot product can be used to determine the",
+      "options": [
+        "Component along another vector",
+        "Resultant of two given vectors",
+        "Unit vector of a vector",
+        "Mass of a given body"
+      ],
+      "correctAnswer": "Component along another vector"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Multiplying a vector by a positive scalar changes",
+      "options": [
+        "Only magnitude",
+        "Only direction",
+        "Both magnitude and direction",
+        "Neither of the two"
+      ],
+      "correctAnswer": "Only magnitude"
+    }
+  ]
+}

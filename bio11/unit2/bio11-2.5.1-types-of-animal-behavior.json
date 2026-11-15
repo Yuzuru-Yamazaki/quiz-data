@@ -1,0 +1,375 @@
+{
+  "title": "2.5.1 Types of Animal Behavior",
+  "description": "Innate and learned behavior: instinct, reflex, taxis, kinesis, conditioning and learning",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "behavior"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Animal behavior refers to all the ways animals interact with other organisms and the:",
+      "options": [
+        "physical environment",
+        "internal organs only",
+        "genetic material only",
+        "endocrine glands only"
+      ],
+      "correctAnswer": "physical environment"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Animal behavior is broadly categorized into two main types, namely:",
+      "options": [
+        "innate and learned behavior",
+        "reflex and instinctive behavior",
+        "taxis and kinesis behavior",
+        "social and territorial behavior"
+      ],
+      "correctAnswer": "innate and learned behavior"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Innate or inherent behavior is determined by genes and is:",
+      "options": [
+        "independent of experience",
+        "learned during the lifetime",
+        "acquired from other animals",
+        "modified by previous experience"
+      ],
+      "correctAnswer": "independent of experience"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The three types of innate behavior are instinctive, reflexive, and:",
+      "options": [
+        "orientative",
+        "associative",
+        "acquired",
+        "latent"
+      ],
+      "correctAnswer": "orientative"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Web making in spiders and nest building in birds are examples of:",
+      "options": [
+        "instinctive behavior",
+        "reflex behavior",
+        "taxis behavior",
+        "learned behavior patterns"
+      ],
+      "correctAnswer": "instinctive behavior"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Honeybees dancing after finding a food source is an example of:",
+      "options": [
+        "instinctive behavior",
+        "reflex behavior",
+        "kinesis behavior",
+        "insight learning behavior"
+      ],
+      "correctAnswer": "instinctive behavior"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A sudden, involuntary response to a stimulus is called a:",
+      "options": [
+        "reflex action",
+        "taxis response",
+        "kinesis response",
+        "learned response"
+      ],
+      "correctAnswer": "reflex action"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "During a reflex action, messages about pain travel only as far as the:",
+      "options": [
+        "spinal cord",
+        "cerebral cortex",
+        "hypothalamus",
+        "sensory organs"
+      ],
+      "correctAnswer": "spinal cord"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Taxis is a directed orientation of an animal either towards or away from the:",
+      "options": [
+        "source of stimulus",
+        "center of the earth",
+        "nearest food supply",
+        "rest of its group"
+      ],
+      "correctAnswer": "source of stimulus"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "When an animal moves toward a stimulus, the response is called:",
+      "options": [
+        "positive taxis",
+        "negative taxis",
+        "kinesis",
+        "habituation"
+      ],
+      "correctAnswer": "positive taxis"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The movement of cockroaches away from a light source is an example of:",
+      "options": [
+        "negative taxis",
+        "positive taxis",
+        "kinesis",
+        "reflex action"
+      ],
+      "correctAnswer": "negative taxis"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Kinesis is best described as:",
+      "options": [
+        "undirected, random movement",
+        "directed movement toward a stimulus",
+        "a learned response to reward",
+        "an involuntary reflex action"
+      ],
+      "correctAnswer": "undirected, random movement"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The movement of woodlice in relation to temperature is an example of:",
+      "options": [
+        "kinesis",
+        "taxis",
+        "reflex",
+        "instinct"
+      ],
+      "correctAnswer": "kinesis"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Learned or acquired behavior is:",
+      "options": [
+        "acquired during a lifetime",
+        "inborn and determined by genes",
+        "fixed and specific to a species",
+        "independent of any experience"
+      ],
+      "correctAnswer": "acquired during a lifetime"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which list contains examples of learned behavior?",
+      "options": [
+        "habituation, conditioning, insight learning",
+        "instinct, reflex, and innate behavior patterns",
+        "taxis, kinesis, and reflex action",
+        "web making, nest building, and migration"
+      ],
+      "correctAnswer": "habituation, conditioning, insight learning"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Habituation is a simple form of learning in which an animal:",
+      "options": [
+        "stops responding to a repeated stimulus",
+        "responds more strongly to the repeated stimulus",
+        "learns by observing other animals",
+        "associates a reward with a response"
+      ],
+      "correctAnswer": "stops responding to a repeated stimulus"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Habituation is a form of learning in which a repeated stimulus is linked with:",
+      "options": [
+        "neither punishment nor reward",
+        "a strong punishment or reward",
+        "the animal's own behavior",
+        "the animal's genetic makeup"
+      ],
+      "correctAnswer": "neither punishment nor reward"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Classical conditioning was discovered by:",
+      "options": [
+        "Ivan P. Pavlov",
+        "B.F. Skinner",
+        "Charles Darwin",
+        "Gregor Mendel"
+      ],
+      "correctAnswer": "Ivan P. Pavlov"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "In classical conditioning, a stimulus that produces no response is known as the:",
+      "options": [
+        "conditioned stimulus",
+        "unconditioned stimulus",
+        "unconditioned response",
+        "neutral response"
+      ],
+      "correctAnswer": "conditioned stimulus"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "In classical conditioning, the unconditioned stimulus (UCS) produces an:",
+      "options": [
+        "unconditioned response (UCR)",
+        "conditioned response (CR)",
+        "neutral response (NR)",
+        "orientative response (OR) pattern"
+      ],
+      "correctAnswer": "unconditioned response (UCR)"
+    },
+    {
+      "id": 21,
+      "anki": true,
+      "question": "Operant conditioning was discovered by:",
+      "options": [
+        "B.F. Skinner",
+        "Ivan P. Pavlov",
+        "Charles Darwin",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": "B.F. Skinner"
+    },
+    {
+      "id": 22,
+      "anki": true,
+      "question": "Operant conditioning depends on a reward or punishment rather than an existing:",
+      "options": [
+        "stimulus-response pair",
+        "pattern of reflex action",
+        "set of inherited genes",
+        "circadian rhythm cycle"
+      ],
+      "correctAnswer": "stimulus-response pair"
+    },
+    {
+      "id": 23,
+      "anki": true,
+      "question": "In operant conditioning, behavior is likely to be repeated when the organism is:",
+      "options": [
+        "reinforced or rewarded",
+        "punished or ignored",
+        "exposed to a stimulus",
+        "deprived of any feedback"
+      ],
+      "correctAnswer": "reinforced or rewarded"
+    },
+    {
+      "id": 24,
+      "anki": true,
+      "question": "Responses from the environment that neither increase nor decrease the probability of a behavior are called:",
+      "options": [
+        "neutral operants",
+        "reinforcers",
+        "punishers",
+        "conditioned stimuli"
+      ],
+      "correctAnswer": "neutral operants"
+    },
+    {
+      "id": 25,
+      "anki": true,
+      "question": "Responses that increase the probability of a behavior being repeated are called:",
+      "options": [
+        "reinforcers",
+        "punishers",
+        "neutral operants",
+        "stimuli"
+      ],
+      "correctAnswer": "reinforcers"
+    },
+    {
+      "id": 26,
+      "anki": true,
+      "question": "Responses that decrease the likelihood of a behavior being repeated are called:",
+      "options": [
+        "punishers",
+        "reinforcers",
+        "neutral operants",
+        "conditioned stimuli"
+      ],
+      "correctAnswer": "punishers"
+    },
+    {
+      "id": 27,
+      "anki": true,
+      "question": "Insight learning is based on past experience and:",
+      "options": [
+        "reasoning",
+        "instinct",
+        "reflexes",
+        "habituation"
+      ],
+      "correctAnswer": "reasoning"
+    },
+    {
+      "id": 28,
+      "anki": true,
+      "question": "Insight learning is considered a hallmark of:",
+      "options": [
+        "human behavior",
+        "insect behavior",
+        "reflex behavior",
+        "innate behavior"
+      ],
+      "correctAnswer": "human behavior"
+    },
+    {
+      "id": 29,
+      "anki": true,
+      "question": "Sensitization is also referred to as:",
+      "options": [
+        "reverse tolerance",
+        "habituation",
+        "classical conditioning",
+        "insight learning"
+      ],
+      "correctAnswer": "reverse tolerance"
+    },
+    {
+      "id": 30,
+      "anki": true,
+      "question": "Sensitization is a non-associative learning process in which repeated stimulation produces:",
+      "options": [
+        "progressive amplification of response",
+        "a gradual decrease in response strength",
+        "a complete loss of all responses",
+        "an inherited and fixed response"
+      ],
+      "correctAnswer": "progressive amplification of response"
+    }
+  ]
+}

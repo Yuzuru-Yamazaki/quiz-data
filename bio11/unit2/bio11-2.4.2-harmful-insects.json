@@ -1,0 +1,207 @@
+{
+  "title": "2.4.2 Harmful Aspects of Insects",
+  "description": "Crop pests, stored grain pests and disease-transmitting insect vectors",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "insects"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Harmful insects feed on plant parts such as leaves, stems, buds, flowers, fruits, and:",
+      "options": [
+        "seeds",
+        "roots only",
+        "bark only",
+        "pollen only"
+      ],
+      "correctAnswer": "seeds"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "According to the text, crop pests include locusts, caterpillars, bugs, hoppers, and:",
+      "options": [
+        "aphids",
+        "bees",
+        "silkworms",
+        "ladybirds"
+      ],
+      "correctAnswer": "aphids"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The most destructive of all insect pests are:",
+      "options": [
+        "locusts",
+        "aphids",
+        "weevils",
+        "caterpillars"
+      ],
+      "correctAnswer": "locusts"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Desert locust populations are monitored by:",
+      "options": [
+        "regional and global agencies",
+        "local farmers and market traders",
+        "village market traders",
+        "private airline companies"
+      ],
+      "correctAnswer": "regional and global agencies"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Locusts are particularly destructive in hot and dry regions when there is a:",
+      "options": [
+        "sudden increase in their numbers",
+        "sudden decrease in their numbers",
+        "long period of heavy rainfall",
+        "shortage of green plants"
+      ],
+      "correctAnswer": "sudden increase in their numbers"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Locusts migrate in huge swarms and devour:",
+      "options": [
+        "every green plant in their path",
+        "only dry leaves lying on the ground",
+        "only grains in warehouses",
+        "only roots below the soil"
+      ],
+      "correctAnswer": "every green plant in their path"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which insect is a stored cereal grain pest?",
+      "options": [
+        "Rice Weevil (Sitophilus oryzae)",
+        "Anopheles mosquito",
+        "Tsetse fly (Glossina)",
+        "Honeybee (Apis mellifera species)"
+      ],
+      "correctAnswer": "Rice Weevil (Sitophilus oryzae)"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The Lesser Grain Borer is known scientifically as:",
+      "options": [
+        "Rhyzopertha dominica",
+        "Sitophilus oryzae",
+        "Tribolium spp.",
+        "Oryzaephilus surinamensis"
+      ],
+      "correctAnswer": "Rhyzopertha dominica"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The Rust Red Flour Beetle belongs to the genus:",
+      "options": [
+        "Tribolium",
+        "Sitophilus",
+        "Rhyzopertha",
+        "Cryptolestes"
+      ],
+      "correctAnswer": "Tribolium"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The Sawtooth Grain Beetle is scientifically named:",
+      "options": [
+        "Oryzaephilus surinamensis",
+        "Rhyzopertha dominica species",
+        "Tribolium spp.",
+        "Cryptolestes spp."
+      ],
+      "correctAnswer": "Oryzaephilus surinamensis"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The Flat Grain Beetle belongs to the genus:",
+      "options": [
+        "Cryptolestes",
+        "Tribolium",
+        "Sitophilus",
+        "Oryzaephilus"
+      ],
+      "correctAnswer": "Cryptolestes"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Anopheles mosquitoes transfer the malarial parasites known as:",
+      "options": [
+        "Plasmodium",
+        "Trypanosoma",
+        "Filaria",
+        "Vibrio"
+      ],
+      "correctAnswer": "Plasmodium"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Culex mosquitoes spread:",
+      "options": [
+        "filariasis",
+        "malaria",
+        "sleeping sickness",
+        "cholera"
+      ],
+      "correctAnswer": "filariasis"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The tsetse fly spreads African sleeping sickness, caused by:",
+      "options": [
+        "Trypanosoma gambiense",
+        "Plasmodium vivax parasite",
+        "Filaria bancrofti",
+        "Vibrio cholerae"
+      ],
+      "correctAnswer": "Trypanosoma gambiense"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The housefly (Musca domestica) spreads:",
+      "options": [
+        "food and water-borne diseases",
+        "malarial parasites only",
+        "African sleeping sickness disease",
+        "filariasis in humans"
+      ],
+      "correctAnswer": "food and water-borne diseases"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Insects that transmit diseases from one organism to another are called:",
+      "options": [
+        "vectors",
+        "predators",
+        "parasitoids",
+        "pollinators"
+      ],
+      "correctAnswer": "vectors"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "title": "2.3.4 Reproduction in Frogs",
+  "description": "Frog species, external fertilization, jelly-covered eggs and metamorphosis",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "frogs"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The common frog, Rana temporaria, is most common in:",
+      "options": [
+        "Europe",
+        "Asia",
+        "Africa",
+        "Australia"
+      ],
+      "correctAnswer": "Europe"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The grass frog genus Ptychadena is found throughout:",
+      "options": [
+        "sub-Saharan Africa",
+        "northern Europe region",
+        "central Asia",
+        "South America"
+      ],
+      "correctAnswer": "sub-Saharan Africa"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The grass frog genus Ptychadena goulenger is found in sub-Saharan Africa, including:",
+      "options": [
+        "Ethiopia",
+        "Brazil country",
+        "India country",
+        "Canada country"
+      ],
+      "correctAnswer": "Ethiopia"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Ptychadena harenna and Leptopelis ragazzi are frogs found in the:",
+      "options": [
+        "Bale Mountains and Shoa forests",
+        "lowlands of the Nile Delta region",
+        "coastal plains of Eritrea",
+        "highlands of southern Europe"
+      ],
+      "correctAnswer": "Bale Mountains and Shoa forests"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The type of egg that frogs produce is:",
+      "options": [
+        "jelly-covered eggs laid in water",
+        "hard leathery eggs buried in sand",
+        "calcareous eggs with hard shells",
+        "amniotic eggs with fluid sacs"
+      ],
+      "correctAnswer": "jelly-covered eggs laid in water"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Frog eggs are usually covered by a:",
+      "options": [
+        "jelly-like substance",
+        "hard leathery shell",
+        "thick calcareous shell",
+        "thin chitin layer"
+      ],
+      "correctAnswer": "jelly-like substance"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The jelly-like covering of frog eggs helps to:",
+      "options": [
+        "protect them from drying out",
+        "provide food for the tadpole",
+        "attract a mate for fertilization",
+        "keep the eggs warm on land"
+      ],
+      "correctAnswer": "protect them from drying out"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Frogs mostly show which type of fertilization?",
+      "options": [
+        "external fertilization",
+        "internal fertilization",
+        "double fertilization",
+        "self-fertilization"
+      ],
+      "correctAnswer": "external fertilization"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "In external fertilization of frogs, the female releases eggs into the water and the male:",
+      "options": [
+        "releases sperm to fertilize the eggs",
+        "carries the eggs in a brood pouch",
+        "deposits a hard shell around the eggs",
+        "builds a nest to protect the eggs"
+      ],
+      "correctAnswer": "releases sperm to fertilize the eggs"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Internal fertilization occurs in:",
+      "options": [
+        "a few species of frogs",
+        "all species of frogs",
+        "no species of frogs",
+        "only the tadpole stages"
+      ],
+      "correctAnswer": "a few species of frogs"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Frogs usually lay a large number of eggs in the same place at the same time to:",
+      "options": [
+        "increase the chance of fertilization",
+        "reduce the need for water and oxygen",
+        "avoid competition among males",
+        "keep the eggs warm on land"
+      ],
+      "correctAnswer": "increase the chance of fertilization"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The larval stage of a frog is called a:",
+      "options": [
+        "tadpole",
+        "nymph",
+        "pupa",
+        "blastula"
+      ],
+      "correctAnswer": "tadpole"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The process that changes a tadpole into an adult frog is:",
+      "options": [
+        "metamorphosis",
+        "fertilization",
+        "incubation",
+        "gastrulation"
+      ],
+      "correctAnswer": "metamorphosis"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The tadpole differs from the adult frog mainly because it:",
+      "options": [
+        "has a larval body form",
+        "has fully formed lungs",
+        "lives entirely on land",
+        "has no tail at any stage"
+      ],
+      "correctAnswer": "has a larval body form"
+    }
+  ]
+}

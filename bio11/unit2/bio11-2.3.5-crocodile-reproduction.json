@@ -1,0 +1,123 @@
+{
+  "title": "2.3.5 Reproduction in Crocodiles",
+  "description": "Crocodilian mating, internal fertilization and leathery eggs",
+  "folder": "School/Grade 11/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "tags": [
+    "biology",
+    "grade11",
+    "unit2",
+    "crocodiles"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Crocodilians are large:",
+      "options": [
+        "semi-aquatic reptiles",
+        "fully aquatic amphibians",
+        "terrestrial mammals",
+        "flying birds"
+      ],
+      "correctAnswer": "semi-aquatic reptiles"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The mating season for crocodiles usually begins in:",
+      "options": [
+        "July or August",
+        "January or February",
+        "March or April",
+        "October or November"
+      ],
+      "correctAnswer": "July or August"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Crocodile mating takes place:",
+      "options": [
+        "under water",
+        "on dry sand",
+        "in high trees",
+        "inside a nest mound"
+      ],
+      "correctAnswer": "under water"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Crocodiles have which type of fertilization?",
+      "options": [
+        "internal fertilization",
+        "external fertilization",
+        "double fertilization",
+        "no fertilization"
+      ],
+      "correctAnswer": "internal fertilization"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "After laying, crocodile eggs are:",
+      "options": [
+        "buried in sand or mound vegetation",
+        "carried inside the female's mouth pouch",
+        "laid in water and left floating",
+        "attached to the leaves of trees"
+      ],
+      "correctAnswer": "buried in sand or mound vegetation"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The number of eggs a crocodile deposits ranges from:",
+      "options": [
+        "10 to 100",
+        "1 to 10",
+        "100 to 500",
+        "2 to 5"
+      ],
+      "correctAnswer": "10 to 100"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The number of eggs laid by a crocodile generally depends on the:",
+      "options": [
+        "type of species",
+        "age of the male",
+        "depth of the water",
+        "size of the nest"
+      ],
+      "correctAnswer": "type of species"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Unlike frogs, crocodiles have eggs that are:",
+      "options": [
+        "hard and leathery",
+        "soft and jelly-like",
+        "covered in mucus",
+        "without any covering"
+      ],
+      "correctAnswer": "hard and leathery"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The hard, leathery eggs of crocodiles mainly help to:",
+      "options": [
+        "protect their young",
+        "attract prey animals",
+        "store extra water",
+        "provide extra food"
+      ],
+      "correctAnswer": "protect their young"
+    }
+  ]
+}
