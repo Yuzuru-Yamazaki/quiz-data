@@ -1,0 +1,127 @@
+{
+  "title": "2.7 Pillars of Climate Resilient Green Economy of Ethiopia",
+  "description": "Ethiopia’s CRGE strategy, its four pillars, renewable energy, forests and energy-efficient technology. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate resilient green economy",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why does limiting cultivated land expansion reduce emissions?",
+      "options": [
+        "It reduces forest clearing and soil-based emissions",
+        "It increases the use of fertilizer",
+        "It creates more farmland",
+        "It stops all food production"
+      ],
+      "correctAnswer": "It reduces forest clearing and soil-based emissions"
+    },
+    {
+      "id": 2,
+      "question": "How do improved livestock practices yield combined benefits?",
+      "options": [
+        "They lower incomes and raise emissions",
+        "They raise pastoralist incomes while limiting emissions",
+        "They eliminate all livestock",
+        "They replace herding with mining"
+      ],
+      "correctAnswer": "They raise pastoralist incomes while limiting emissions"
+    },
+    {
+      "id": 3,
+      "question": "Why are forests described as providing ecosystem services?",
+      "options": [
+        "They only provide timber",
+        "They have no ecological role",
+        "They store carbon and support economic and ecological functions",
+        "They increase atmospheric carbon"
+      ],
+      "correctAnswer": "They store carbon and support economic and ecological functions"
+    },
+    {
+      "id": 4,
+      "question": "Why are hydro, geothermal, solar and wind attractive for Ethiopia?",
+      "options": [
+        "They are all fossil fuels",
+        "They require imported coal",
+        "They emit more than natural gas",
+        "They deliver electricity at virtually zero greenhouse gas emissions"
+      ],
+      "correctAnswer": "They deliver electricity at virtually zero greenhouse gas emissions"
+    },
+    {
+      "id": 5,
+      "question": "How does energy efficiency in buildings fit CRGE?",
+      "options": [
+        "It reduces emissions through modern efficient technologies",
+        "It increases fuel consumption",
+        "It belongs to the agriculture pillar",
+        "It has no climate relevance"
+      ],
+      "correctAnswer": "It reduces emissions through modern efficient technologies"
+    },
+    {
+      "id": 6,
+      "question": "How does CRGE support food security and climate goals together?",
+      "options": [
+        "It separates the two goals completely",
+        "It raises farm productivity and income while cutting agricultural emissions",
+        "It ignores farm incomes",
+        "It ends all farming subsidies"
+      ],
+      "correctAnswer": "It raises farm productivity and income while cutting agricultural emissions"
+    },
+    {
+      "id": 7,
+      "question": "Why is leapfrogging used for the technology pillar?",
+      "options": [
+        "It means returning to older machines",
+        "It refers to mountain climbing",
+        "Ethiopia can adopt modern efficient technologies directly instead of high-emission pathways",
+        "It describes forest clearing"
+      ],
+      "correctAnswer": "Ethiopia can adopt modern efficient technologies directly instead of high-emission pathways"
+    },
+    {
+      "id": 8,
+      "question": "How does reforestation contribute to carbon sequestration?",
+      "options": [
+        "Cutting trees stores more carbon",
+        "Forests release all carbon immediately",
+        "Reforestation has no carbon effect",
+        "Growing forests absorb and store carbon dioxide from the atmosphere"
+      ],
+      "correctAnswer": "Growing forests absorb and store carbon dioxide from the atmosphere"
+    },
+    {
+      "id": 9,
+      "question": "What development ambition is linked to the CRGE strategy?",
+      "options": [
+        "Becoming a middle-income country before 2025",
+        "Becoming a low-income country",
+        "Ending all economic growth",
+        "Joining another country"
+      ],
+      "correctAnswer": "Becoming a middle-income country before 2025"
+    },
+    {
+      "id": 10,
+      "question": "How does exporting clean energy align with CRGE goals?",
+      "options": [
+        "It raises national emissions sharply",
+        "It generates income while promoting low-emission regional development",
+        "It depends on coal exports",
+        "It only benefits neighboring countries"
+      ],
+      "correctAnswer": "It generates income while promoting low-emission regional development"
+    }
+  ]
+}

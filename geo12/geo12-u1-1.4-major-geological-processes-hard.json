@@ -1,0 +1,127 @@
+{
+  "title": "1.4 Major Geological Processes",
+  "description": "Endogenic and exogenic forces, folding, faulting, earthquakes, tsunamis and volcanism. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 1",
+    "geological processes",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "How fast can a tsunami travel in deep water?",
+      "options": [
+        "About 800 kilometers per hour",
+        "About 80 kilometers per hour",
+        "About 8 kilometers per hour",
+        "About 8,000 kilometers per hour"
+      ],
+      "correctAnswer": "About 800 kilometers per hour"
+    },
+    {
+      "id": 2,
+      "question": "What share of earthquake energy comes from the Circum-Pacific Belt?",
+      "options": [
+        "About 15 percent",
+        "About 80 percent",
+        "About 3 percent",
+        "About 50 percent"
+      ],
+      "correctAnswer": "About 80 percent"
+    },
+    {
+      "id": 3,
+      "question": "Where do deep-focus earthquakes commonly occur?",
+      "options": [
+        "At mid-ocean ridges only",
+        "In desert interiors",
+        "In Benioff zones along subducted plates",
+        "At river mouths"
+      ],
+      "correctAnswer": "In Benioff zones along subducted plates"
+    },
+    {
+      "id": 4,
+      "question": "What share of seismic energy comes from shallow-focus earthquakes?",
+      "options": [
+        "About 12 percent",
+        "About 3 percent",
+        "About 25 percent",
+        "More than 75 percent"
+      ],
+      "correctAnswer": "More than 75 percent"
+    },
+    {
+      "id": 5,
+      "question": "How does a vent differ from a fissure?",
+      "options": [
+        "A vent is a pipe-like opening that builds a cone; a fissure is a narrow crack that builds a plateau",
+        "A vent is a crack that builds a plateau; a fissure builds a cone",
+        "Both are underground magma chambers",
+        "Both are types of earthquake waves"
+      ],
+      "correctAnswer": "A vent is a pipe-like opening that builds a cone; a fissure is a narrow crack that builds a plateau"
+    },
+    {
+      "id": 6,
+      "question": "Which volcano has a low, broad profile formed by fluid basaltic lava?",
+      "options": [
+        "Strato volcano",
+        "Shield volcano",
+        "Cinder cone",
+        "Lava dome"
+      ],
+      "correctAnswer": "Shield volcano"
+    },
+    {
+      "id": 7,
+      "question": "Which volcano is a steep cone of alternating lava and pyroclastic layers?",
+      "options": [
+        "Shield volcano",
+        "Caldera",
+        "Strato volcano",
+        "Fissure vent"
+      ],
+      "correctAnswer": "Strato volcano"
+    },
+    {
+      "id": 8,
+      "question": "Which volcano is an example of an active volcano in Ethiopia?",
+      "options": [
+        "Mount Zuqualla",
+        "Mount Kilimanjaro",
+        "Mount Everest",
+        "Erta Ale"
+      ],
+      "correctAnswer": "Erta Ale"
+    },
+    {
+      "id": 9,
+      "question": "What share of active volcanoes lies in the Pacific Ring of Fire?",
+      "options": [
+        "Almost 90 percent",
+        "Almost 10 percent",
+        "About 25 percent",
+        "About 50 percent"
+      ],
+      "correctAnswer": "Almost 90 percent"
+    },
+    {
+      "id": 10,
+      "question": "Why are surface waves responsible for much destructive shaking?",
+      "options": [
+        "They travel faster than all body waves",
+        "They have larger amplitude and travel along the surface",
+        "They originate in the core",
+        "They only occur underwater"
+      ],
+      "correctAnswer": "They have larger amplitude and travel along the surface"
+    }
+  ]
+}

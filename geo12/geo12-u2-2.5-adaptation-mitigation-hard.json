@@ -1,0 +1,127 @@
+{
+  "title": "2.5 Adaptation and Mitigation Strategies to Climate Change",
+  "description": "UNFCCC response strategies, adaptation types, Ethiopian practices and mitigation measures. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "adaptation and mitigation",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why must mitigation and adaptation be pursued together?",
+      "options": [
+        "They address different parts of the problem: causes and impacts",
+        "They are identical strategies",
+        "Adaptation replaces mitigation entirely",
+        "Mitigation only concerns local farms"
+      ],
+      "correctAnswer": "They address different parts of the problem: causes and impacts"
+    },
+    {
+      "id": 2,
+      "question": "How does irrigation illustrate adaptation?",
+      "options": [
+        "It increases greenhouse gas emissions",
+        "It adjusts farming practice to cope with changed water availability",
+        "It belongs to tectonic engineering",
+        "It only affects urban areas"
+      ],
+      "correctAnswer": "It adjusts farming practice to cope with changed water availability"
+    },
+    {
+      "id": 3,
+      "question": "Why is natural-system adaptation described as reactive?",
+      "options": [
+        "Species predict future climate precisely",
+        "Natural systems follow government plans",
+        "Species respond after conditions have changed",
+        "Natural systems use insurance"
+      ],
+      "correctAnswer": "Species respond after conditions have changed"
+    },
+    {
+      "id": 4,
+      "question": "What does enhancing sinks mean in practice?",
+      "options": [
+        "Burning more fossil fuels",
+        "Draining all wetlands",
+        "Removing all vegetation",
+        "Protecting forests, soils and oceans that store carbon"
+      ],
+      "correctAnswer": "Protecting forests, soils and oceans that store carbon"
+    },
+    {
+      "id": 5,
+      "question": "How would you classify a government building-code reform?",
+      "options": [
+        "Planned, public adaptation",
+        "Autonomous, private adaptation",
+        "Reactive, natural adaptation",
+        "Mitigation only"
+      ],
+      "correctAnswer": "Planned, public adaptation"
+    },
+    {
+      "id": 6,
+      "question": "Which strategy reduces the long-term magnitude of warming?",
+      "options": [
+        "Adaptation",
+        "Mitigation",
+        "Insurance",
+        "Relocation"
+      ],
+      "correctAnswer": "Mitigation"
+    },
+    {
+      "id": 7,
+      "question": "What is an example of reducing emission sources?",
+      "options": [
+        "Constructing houses on stilts",
+        "Planting trees in cities",
+        "Cutting fossil fuel use for electricity, heat and transport",
+        "Buying crop insurance"
+      ],
+      "correctAnswer": "Cutting fossil fuel use for electricity, heat and transport"
+    },
+    {
+      "id": 8,
+      "question": "What limitation of adaptation alone explains the need for mitigation?",
+      "options": [
+        "It eliminates all emissions",
+        "It applies only to oceans",
+        "It stops sea level rise instantly",
+        "It eases impacts but does not limit the underlying climate change"
+      ],
+      "correctAnswer": "It eases impacts but does not limit the underlying climate change"
+    },
+    {
+      "id": 9,
+      "question": "How do mitigation and adaptation differ in timing of benefit?",
+      "options": [
+        "Mitigation reduces future warming while adaptation reduces current and near-term impacts",
+        "Both produce identical immediate effects",
+        "Adaptation only works after 2100",
+        "Mitigation only helps past generations"
+      ],
+      "correctAnswer": "Mitigation reduces future warming while adaptation reduces current and near-term impacts"
+    },
+    {
+      "id": 10,
+      "question": "Which Ethiopian practice reduces soil erosion while adapting to climate change?",
+      "options": [
+        "Coal mining",
+        "Terracing",
+        "Deforestation",
+        "Overgrazing"
+      ],
+      "correctAnswer": "Terracing"
+    }
+  ]
+}

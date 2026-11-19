@@ -1,0 +1,127 @@
+{
+  "title": "2.3 Natural and Human Induced Climate Change",
+  "description": "Milankovitch cycles, solar output, volcanic aerosols, land use change and greenhouse gas emissions. Medium level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate change causes",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does eccentricity refer to in the Milankovitch theory?",
+      "options": [
+        "Changes in the shape of Earth orbit around the Sun",
+        "Changes in the tilt of the axis",
+        "The wobbling of the axis",
+        "The number of sunspots"
+      ],
+      "correctAnswer": "Changes in the shape of Earth orbit around the Sun"
+    },
+    {
+      "id": 2,
+      "question": "What does obliquity refer to?",
+      "options": [
+        "Changes in orbital shape",
+        "Changes in the tilt of Earth axis",
+        "The wobbling of the axis",
+        "Solar flare frequency"
+      ],
+      "correctAnswer": "Changes in the tilt of Earth axis"
+    },
+    {
+      "id": 3,
+      "question": "What does precession refer to?",
+      "options": [
+        "The tilt of the axis",
+        "The shape of the orbit",
+        "The wobbling of Earth axis of rotation",
+        "The speed of ocean currents"
+      ],
+      "correctAnswer": "The wobbling of Earth axis of rotation"
+    },
+    {
+      "id": 4,
+      "question": "How can volcanic eruptions cool Earth surface?",
+      "options": [
+        "Ash warms the stratosphere",
+        "Lava absorbs all sunlight",
+        "Gases trap more heat",
+        "Sulfuric acid haze reflects incoming sunlight"
+      ],
+      "correctAnswer": "Sulfuric acid haze reflects incoming sunlight"
+    },
+    {
+      "id": 5,
+      "question": "What effect do sulfate and nitrate aerosols have?",
+      "options": [
+        "They mainly reflect incoming sunlight",
+        "They absorb all sunlight",
+        "They increase infrared trapping",
+        "They produce ozone"
+      ],
+      "correctAnswer": "They mainly reflect incoming sunlight"
+    },
+    {
+      "id": 6,
+      "question": "What effect does soot have?",
+      "options": [
+        "It reflects all sunlight",
+        "It readily absorbs sunlight",
+        "It forms sulfuric acid haze",
+        "It cools the stratosphere"
+      ],
+      "correctAnswer": "It readily absorbs sunlight"
+    },
+    {
+      "id": 7,
+      "question": "How does deforestation affect local climate in the Amazon?",
+      "options": [
+        "It increases rainfall in all cases",
+        "It lowers surface albedo everywhere",
+        "It reduces evaporative cooling and raises temperature",
+        "It stops all transpiration immediately"
+      ],
+      "correctAnswer": "It reduces evaporative cooling and raises temperature"
+    },
+    {
+      "id": 8,
+      "question": "What is desertification?",
+      "options": [
+        "The growth of forests in deserts",
+        "The cooling of semi-arid regions",
+        "The formation of new lakes",
+        "An increase in desert conditions from overgrazing and cultivation"
+      ],
+      "correctAnswer": "An increase in desert conditions from overgrazing and cultivation"
+    },
+    {
+      "id": 9,
+      "question": "How much warming does methane cause compared with an equal mass of carbon dioxide over 100 years?",
+      "options": [
+        "About 21 times as much",
+        "About the same amount",
+        "About one twenty-first as much",
+        "About 100 times less"
+      ],
+      "correctAnswer": "About 21 times as much"
+    },
+    {
+      "id": 10,
+      "question": "How much lower would Earth temperature be without greenhouse gases?",
+      "options": [
+        "About 3 degrees Celsius lower",
+        "About 33 degrees Celsius lower",
+        "About 100 degrees Celsius lower",
+        "About 10 degrees Celsius higher"
+      ],
+      "correctAnswer": "About 33 degrees Celsius lower"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "1.2 Plate Tectonics Theory",
+  "description": "The lithosphere, asthenosphere, major plates, and the development of plate tectonic theory. Easy level.",
+  "folder": "School/Grade 12/Geography/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 1",
+    "plate tectonics theory",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which layer allows the lithosphere to slide across the top of it?",
+      "options": [
+        "The asthenosphere",
+        "The crust",
+        "The hydrosphere",
+        "The inner core"
+      ],
+      "correctAnswer": "The asthenosphere"
+    },
+    {
+      "id": 2,
+      "question": "What does the lithosphere consist of?",
+      "options": [
+        "The crust and the core",
+        "The crust and the uppermost mantle",
+        "The mantle and the core",
+        "Ocean water and the crust"
+      ],
+      "correctAnswer": "The crust and the uppermost mantle"
+    },
+    {
+      "id": 3,
+      "question": "About how many large plates make up the lithosphere?",
+      "options": [
+        "About three",
+        "About fifty",
+        "About a dozen",
+        "About one hundred"
+      ],
+      "correctAnswer": "About a dozen"
+    },
+    {
+      "id": 4,
+      "question": "At what rate do tectonic plates typically move?",
+      "options": [
+        "A few meters per second",
+        "Several kilometers per year",
+        "One meter per day",
+        "A few centimeters per year"
+      ],
+      "correctAnswer": "A few centimeters per year"
+    },
+    {
+      "id": 5,
+      "question": "When was plate tectonic theory developed?",
+      "options": [
+        "In the late 1960s",
+        "In 1912",
+        "In 1850",
+        "In the 1920s"
+      ],
+      "correctAnswer": "In the late 1960s"
+    },
+    {
+      "id": 6,
+      "question": "What is a tectonic plate?",
+      "options": [
+        "A layer of the atmosphere",
+        "A large piece of the lithosphere",
+        "A type of marine fossil",
+        "A deep ocean current"
+      ],
+      "correctAnswer": "A large piece of the lithosphere"
+    },
+    {
+      "id": 7,
+      "question": "Where do plates meet one another?",
+      "options": [
+        "At the equator",
+        "At the poles",
+        "At plate boundaries",
+        "At river mouths"
+      ],
+      "correctAnswer": "At plate boundaries"
+    },
+    {
+      "id": 8,
+      "question": "What types of rock can make up a tectonic plate?",
+      "options": [
+        "Only continental rocks",
+        "Only oceanic rocks",
+        "Only mantle rocks",
+        "Continental rocks, oceanic rocks, or both"
+      ],
+      "correctAnswer": "Continental rocks, oceanic rocks, or both"
+    },
+    {
+      "id": 9,
+      "question": "Which plate includes the western half of the North Atlantic seafloor?",
+      "options": [
+        "The North American Plate",
+        "The Eurasian Plate",
+        "The African Plate",
+        "The Pacific Plate"
+      ],
+      "correctAnswer": "The North American Plate"
+    },
+    {
+      "id": 10,
+      "question": "Where may plate boundaries be located?",
+      "options": [
+        "Always along coastlines",
+        "Beneath an ocean rather than along a coastline",
+        "Only at the equator",
+        "Only on continental interiors"
+      ],
+      "correctAnswer": "Beneath an ocean rather than along a coastline"
+    }
+  ]
+}

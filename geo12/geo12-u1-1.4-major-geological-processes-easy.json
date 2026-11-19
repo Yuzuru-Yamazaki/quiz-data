@@ -1,0 +1,127 @@
+{
+  "title": "1.4 Major Geological Processes",
+  "description": "Endogenic and exogenic forces, folding, faulting, earthquakes, tsunamis and volcanism. Easy level.",
+  "folder": "School/Grade 12/Geography/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 1",
+    "geological processes",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are endogenic forces?",
+      "options": [
+        "Forces that originate inside the Earth",
+        "Forces that originate in the atmosphere",
+        "Forces caused by ocean waves",
+        "Forces caused by solar wind"
+      ],
+      "correctAnswer": "Forces that originate inside the Earth"
+    },
+    {
+      "id": 2,
+      "question": "What are exogenic forces?",
+      "options": [
+        "Forces that originate in the core",
+        "Forces that originate outside the Earth, mainly in the atmosphere",
+        "Forces caused by mantle convection",
+        "Forces caused by volcanic eruptions"
+      ],
+      "correctAnswer": "Forces that originate outside the Earth, mainly in the atmosphere"
+    },
+    {
+      "id": 3,
+      "question": "What is folding?",
+      "options": [
+        "The cracking of rock into blocks",
+        "The melting of rock into magma",
+        "The bending of rock layers due to sideways earth movements",
+        "The wearing away of rock by wind"
+      ],
+      "correctAnswer": "The bending of rock layers due to sideways earth movements"
+    },
+    {
+      "id": 4,
+      "question": "What is an upfold called?",
+      "options": [
+        "Syncline",
+        "Fault",
+        "Horst",
+        "Anticline"
+      ],
+      "correctAnswer": "Anticline"
+    },
+    {
+      "id": 5,
+      "question": "What is a downfold called?",
+      "options": [
+        "Syncline",
+        "Anticline",
+        "Graben",
+        "Crater"
+      ],
+      "correctAnswer": "Syncline"
+    },
+    {
+      "id": 6,
+      "question": "What is a fault?",
+      "options": [
+        "A layer of sediment",
+        "A crack in the Earth crust",
+        "A volcano vent",
+        "An ocean ridge"
+      ],
+      "correctAnswer": "A crack in the Earth crust"
+    },
+    {
+      "id": 7,
+      "question": "What is a rift valley?",
+      "options": [
+        "Land between two faults that has risen",
+        "A cone built by lava",
+        "Land between two faults that has sunk down",
+        "A fold with one steep limb"
+      ],
+      "correctAnswer": "Land between two faults that has sunk down"
+    },
+    {
+      "id": 8,
+      "question": "What is a block mountain also called?",
+      "options": [
+        "Graben",
+        "Anticline",
+        "Caldera",
+        "Horst"
+      ],
+      "correctAnswer": "Horst"
+    },
+    {
+      "id": 9,
+      "question": "What is an earthquake?",
+      "options": [
+        "Sudden ground shaking caused by rock masses changing position below the surface",
+        "A slow rise of sea level",
+        "A gradual cooling of the crust",
+        "The formation of sedimentary layers"
+      ],
+      "correctAnswer": "Sudden ground shaking caused by rock masses changing position below the surface"
+    },
+    {
+      "id": 10,
+      "question": "What is the point on the surface directly above an earthquake focus called?",
+      "options": [
+        "Focus",
+        "Epicenter",
+        "Fault",
+        "Magma chamber"
+      ],
+      "correctAnswer": "Epicenter"
+    }
+  ]
+}

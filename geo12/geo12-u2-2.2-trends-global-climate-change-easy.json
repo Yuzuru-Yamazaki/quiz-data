@@ -1,0 +1,127 @@
+{
+  "title": "2.2 Trends in Global Climate Change",
+  "description": "Observed warming, greenhouse gas records, IPCC assessments and temperature projections. Easy level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate change trends",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Where does the most convincing evidence of climate change come from?",
+      "options": [
+        "Observations of the atmosphere, land and oceans",
+        "Opinion polls",
+        "Ancient maps of cities",
+        "Animal migration stories"
+      ],
+      "correctAnswer": "Observations of the atmosphere, land and oceans"
+    },
+    {
+      "id": 2,
+      "question": "Which records show rising greenhouse gas concentrations over recent centuries?",
+      "options": [
+        "Newspaper headlines",
+        "Ice core records and in situ observations",
+        "Tree ring color charts",
+        "Ocean depth tables"
+      ],
+      "correctAnswer": "Ice core records and in situ observations"
+    },
+    {
+      "id": 3,
+      "question": "Which gases increased over the last few centuries?",
+      "options": [
+        "Oxygen, nitrogen and argon",
+        "Helium, neon and krypton",
+        "Carbon dioxide, methane and nitrous oxide",
+        "Hydrogen, ozone and sulfur"
+      ],
+      "correctAnswer": "Carbon dioxide, methane and nitrous oxide"
+    },
+    {
+      "id": 4,
+      "question": "What did the IPCC 2001 report say about the 1990s?",
+      "options": [
+        "It was the coldest decade on record",
+        "It had no unusual warming",
+        "It was warmer only in Africa",
+        "It was the warmest decade worldwide"
+      ],
+      "correctAnswer": "It was the warmest decade worldwide"
+    },
+    {
+      "id": 5,
+      "question": "Which year was the warmest since instrumental records began in 1861?",
+      "options": [
+        "1998",
+        "1900",
+        "1975",
+        "2010"
+      ],
+      "correctAnswer": "1998"
+    },
+    {
+      "id": 6,
+      "question": "By about how much did average global surface temperature warm in the past century?",
+      "options": [
+        "0.08 degrees Celsius",
+        "0.8 degrees Celsius",
+        "8 degrees Celsius",
+        "80 degrees Celsius"
+      ],
+      "correctAnswer": "0.8 degrees Celsius"
+    },
+    {
+      "id": 7,
+      "question": "By about how much did it warm in the past three decades?",
+      "options": [
+        "0.06 degrees Celsius",
+        "6 degrees Celsius",
+        "0.6 degrees Celsius",
+        "60 degrees Celsius"
+      ],
+      "correctAnswer": "0.6 degrees Celsius"
+    },
+    {
+      "id": 8,
+      "question": "What is described as the leading cause of climate change?",
+      "options": [
+        "Falling ocean temperatures",
+        "Reduced volcanic activity",
+        "Slower plate motion",
+        "Rising greenhouse gas emissions"
+      ],
+      "correctAnswer": "Rising greenhouse gas emissions"
+    },
+    {
+      "id": 9,
+      "question": "What is the base period of the global temperature variation index figure?",
+      "options": [
+        "1951 to 1980",
+        "1880 to 1900",
+        "2000 to 2010",
+        "1800 to 1850"
+      ],
+      "correctAnswer": "1951 to 1980"
+    },
+    {
+      "id": 10,
+      "question": "Which response appears alongside adaptation in the integrated framework?",
+      "options": [
+        "Migration",
+        "Mitigation",
+        "Industrialization",
+        "Urbanization"
+      ],
+      "correctAnswer": "Mitigation"
+    }
+  ]
+}

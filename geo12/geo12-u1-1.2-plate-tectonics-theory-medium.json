@@ -1,0 +1,127 @@
+{
+  "title": "1.2 Plate Tectonics Theory",
+  "description": "The lithosphere, asthenosphere, major plates, and the development of plate tectonic theory. Medium level.",
+  "folder": "School/Grade 12/Geography/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 1",
+    "plate tectonics theory",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does plate tectonic theory state about Earth outer layers?",
+      "options": [
+        "The lithosphere is divided into plates that move on the asthenosphere",
+        "The atmosphere is divided into plates",
+        "The core is broken into moving plates",
+        "The oceans float above the mantle plates"
+      ],
+      "correctAnswer": "The lithosphere is divided into plates that move on the asthenosphere"
+    },
+    {
+      "id": 2,
+      "question": "Why is plate tectonics considered a scientific revolution?",
+      "options": [
+        "It disproved all earlier geology",
+        "It provides a unifying explanation for many geologic features",
+        "It eliminated earthquakes",
+        "It showed continents are fixed"
+      ],
+      "correctAnswer": "It provides a unifying explanation for many geologic features"
+    },
+    {
+      "id": 3,
+      "question": "Which observation shows that plates change over geologic time?",
+      "options": [
+        "They remain the same size",
+        "They only change color",
+        "They move slowly and change size",
+        "They stay at fixed depths"
+      ],
+      "correctAnswer": "They move slowly and change size"
+    },
+    {
+      "id": 4,
+      "question": "How does plate tectonics influence long-term climate?",
+      "options": [
+        "It controls daily weather",
+        "It changes the length of day",
+        "It moves the moon closer",
+        "It affects the composition of the atmosphere and oceans"
+      ],
+      "correctAnswer": "It affects the composition of the atmosphere and oceans"
+    },
+    {
+      "id": 5,
+      "question": "Which events can plate tectonics help predict?",
+      "options": [
+        "Earthquakes and volcanic eruptions",
+        "Solar eclipses",
+        "Ocean tides",
+        "Seasonal rainfall"
+      ],
+      "correctAnswer": "Earthquakes and volcanic eruptions"
+    },
+    {
+      "id": 6,
+      "question": "Which feature is explained by plate tectonic theory?",
+      "options": [
+        "The phases of the moon",
+        "The distribution of fossils and the ages of rocks",
+        "The colors of the sky",
+        "The migration of birds"
+      ],
+      "correctAnswer": "The distribution of fossils and the ages of rocks"
+    },
+    {
+      "id": 7,
+      "question": "What is the relationship between continental crust and lithospheric plates?",
+      "options": [
+        "Continental crust forms a separate layer above the plates",
+        "Continental crust lies below the core",
+        "Continental crust is embodied within lithospheric plates",
+        "Continental crust replaces the asthenosphere"
+      ],
+      "correctAnswer": "Continental crust is embodied within lithospheric plates"
+    },
+    {
+      "id": 8,
+      "question": "Why can plates move over the asthenosphere?",
+      "options": [
+        "The asthenosphere is liquid iron",
+        "The asthenosphere is frozen solid",
+        "The asthenosphere contains ocean water",
+        "The asthenosphere is ductile and can flow"
+      ],
+      "correctAnswer": "The asthenosphere is ductile and can flow"
+    },
+    {
+      "id": 9,
+      "question": "Which statement about the North American Plate is accurate?",
+      "options": [
+        "It extends beneath part of the Atlantic Ocean",
+        "It is made only of oceanic crust",
+        "It ends exactly at the Atlantic coast",
+        "It lies entirely in the Southern Hemisphere"
+      ],
+      "correctAnswer": "It extends beneath part of the Atlantic Ocean"
+    },
+    {
+      "id": 10,
+      "question": "How does plate tectonics help in understanding mountain building?",
+      "options": [
+        "It assigns each mountain an age by color",
+        "It links crustal movement to the formation of landforms",
+        "It records the temperature of mountain peaks",
+        "It measures the height of ocean waves"
+      ],
+      "correctAnswer": "It links crustal movement to the formation of landforms"
+    }
+  ]
+}

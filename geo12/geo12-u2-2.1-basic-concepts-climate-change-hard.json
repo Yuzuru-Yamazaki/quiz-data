@@ -1,0 +1,127 @@
+{
+  "title": "2.1 Basic Concepts of Climate Change",
+  "description": "Climate versus weather, global warming, the IPCC definition and the interconnection of Earth systems. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate change concepts",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why is a single hot summer insufficient as evidence of climate change?",
+      "options": [
+        "Climate change requires a persistent pattern over many years",
+        "One summer is too cold to measure",
+        "Summer temperatures are never recorded",
+        "Climate change happens only in winter"
+      ],
+      "correctAnswer": "Climate change requires a persistent pattern over many years"
+    },
+    {
+      "id": 2,
+      "question": "What makes the IPCC definition broader than a simple getting-hotter view?",
+      "options": [
+        "It applies only to the oceans",
+        "It includes changes in variability and both natural and human causes",
+        "It ignores changes in temperature",
+        "It covers one country only"
+      ],
+      "correctAnswer": "It includes changes in variability and both natural and human causes"
+    },
+    {
+      "id": 3,
+      "question": "What is the chain linking air temperature, ocean heat and storms?",
+      "options": [
+        "Warmer oceans cool the air and weaken storms",
+        "Storms warm the oceans before air temperature changes",
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "Ocean heat has no effect on storms"
+      ],
+      "correctAnswer": "Rising air temperature warms oceans, which then fuel stronger storms"
+    },
+    {
+      "id": 4,
+      "question": "Which concept best captures the interconnectedness of Earth systems?",
+      "options": [
+        "Isolation of each sphere",
+        "Permanence of all climates",
+        "Independence of weather and climate",
+        "Interdependence of air, water and land"
+      ],
+      "correctAnswer": "Interdependence of air, water and land"
+    },
+    {
+      "id": 5,
+      "question": "Why is the decadal scale used in the IPCC definition?",
+      "options": [
+        "Short fluctuations do not represent a change in climate state",
+        "Decades are the shortest measurable period",
+        "Climate only changes every century",
+        "Weather records last exactly ten years"
+      ],
+      "correctAnswer": "Short fluctuations do not represent a change in climate state"
+    },
+    {
+      "id": 6,
+      "question": "What role do greenhouse gases play in the climate system?",
+      "options": [
+        "They cool the lower atmosphere",
+        "They trap heat and raise air temperatures near the ground",
+        "They remove all infrared radiation",
+        "They prevent evaporation"
+      ],
+      "correctAnswer": "They trap heat and raise air temperatures near the ground"
+    },
+    {
+      "id": 7,
+      "question": "Which statement distinguishes a climate trend from weather variability?",
+      "options": [
+        "Both terms mean the same thing",
+        "Variability lasts longer than a trend",
+        "A trend persists across many years while variability is short-term",
+        "Trends are measured in minutes"
+      ],
+      "correctAnswer": "A trend persists across many years while variability is short-term"
+    },
+    {
+      "id": 8,
+      "question": "What does loss of wildlife habitats illustrate?",
+      "options": [
+        "A cause of global warming",
+        "A type of renewable energy",
+        "A weather measurement tool",
+        "An ecological consequence of global warming"
+      ],
+      "correctAnswer": "An ecological consequence of global warming"
+    },
+    {
+      "id": 9,
+      "question": "Why do scientists study average global temperature rather than one region?",
+      "options": [
+        "Local variations can mislead; the global mean reveals the trend",
+        "Regional temperatures are never measured",
+        "Global means are easier to guess",
+        "One region represents the whole planet perfectly"
+      ],
+      "correctAnswer": "Local variations can mislead; the global mean reveals the trend"
+    },
+    {
+      "id": 10,
+      "question": "How would you classify Gambella is warm and humid all year long?",
+      "options": [
+        "A description of weather",
+        "A description of climate",
+        "A description of a storm",
+        "A description of a tsunami"
+      ],
+      "correctAnswer": "A description of climate"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "1.1 Continental Drift Theory",
+  "description": "Pangaea, Laurasia, Gondwanaland, and the geological evidence behind Wegener’s theory. Medium level.",
+  "folder": "School/Grade 12/Geography/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 1",
+    "continental drift theory",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the continental drift theory propose about continents?",
+      "options": [
+        "They have moved relative to each other over geologic time",
+        "They have remained fixed in place",
+        "They are slowly shrinking",
+        "They rotate only around the poles"
+      ],
+      "correctAnswer": "They have moved relative to each other over geologic time"
+    },
+    {
+      "id": 2,
+      "question": "Which fossil reptile, about 250 million years old, supported Wegener’s theory?",
+      "options": [
+        "Tyrannosaurus",
+        "Mesosaurus",
+        "Triceratops",
+        "Archaeopteryx"
+      ],
+      "correctAnswer": "Mesosaurus"
+    },
+    {
+      "id": 3,
+      "question": "Which type of evidence uses ancient climate data reconstructed from rocks?",
+      "options": [
+        "Fossil evidence",
+        "Rock structural evidence",
+        "Paleoclimatic evidence",
+        "Coastline similarity"
+      ],
+      "correctAnswer": "Paleoclimatic evidence"
+    },
+    {
+      "id": 4,
+      "question": "Why was Wegener’s theory rejected partly because of his background?",
+      "options": [
+        "He had no university education",
+        "He worked only in the Southern Hemisphere",
+        "He was a meteorologist turned geologist",
+        "He was not a geologist by profession"
+      ],
+      "correctAnswer": "He was not a geologist by profession"
+    },
+    {
+      "id": 5,
+      "question": "Where were most influential geoscientists based at the time?",
+      "options": [
+        "In the Northern Hemisphere",
+        "In the Southern Hemisphere",
+        "Across Africa",
+        "Across Australia"
+      ],
+      "correctAnswer": "In the Northern Hemisphere"
+    },
+    {
+      "id": 6,
+      "question": "What was the greatest unresolved problem in Wegener’s theory?",
+      "options": [
+        "The lack of fossil specimens",
+        "The lack of a plausible mechanism for continental movement",
+        "The absence of ocean maps",
+        "The shortage of rock samples"
+      ],
+      "correctAnswer": "The lack of a plausible mechanism for continental movement"
+    },
+    {
+      "id": 7,
+      "question": "Until which era did Wegener believe Pangaea remained intact?",
+      "options": [
+        "The Mesozoic era",
+        "The Paleozoic era",
+        "The Cenozoic era",
+        "The Precambrian era"
+      ],
+      "correctAnswer": "The Cenozoic era"
+    },
+    {
+      "id": 8,
+      "question": "How did matching mountain belts in Africa and South America support the theory?",
+      "options": [
+        "They proved a volcanic origin for both continents",
+        "They showed the continents evolved separately",
+        "They indicated identical present-day climates",
+        "They suggested the continents were once joined"
+      ],
+      "correctAnswer": "They suggested the continents were once joined"
+    },
+    {
+      "id": 9,
+      "question": "What idea introduced by Wegener’s work shifted thinking from fixism?",
+      "options": [
+        "Lateral mobility of continents",
+        "Vertical uplift of continents",
+        "Permanent continental stability",
+        "Contraction of the oceans"
+      ],
+      "correctAnswer": "Lateral mobility of continents"
+    },
+    {
+      "id": 10,
+      "question": "Which present-day continent was largely part of Gondwanaland?",
+      "options": [
+        "Europe",
+        "Africa",
+        "North America",
+        "Asia"
+      ],
+      "correctAnswer": "Africa"
+    }
+  ]
+}

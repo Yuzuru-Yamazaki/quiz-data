@@ -1,0 +1,127 @@
+{
+  "title": "2.3 Natural and Human Induced Climate Change",
+  "description": "Milankovitch cycles, solar output, volcanic aerosols, land use change and greenhouse gas emissions. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate change causes",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why do natural aerosols from wildfires and dust storms cool the surface?",
+      "options": [
+        "They prevent sunlight from reaching the ground",
+        "They increase the greenhouse effect",
+        "They warm the stratosphere",
+        "They absorb all infrared radiation"
+      ],
+      "correctAnswer": "They prevent sunlight from reaching the ground"
+    },
+    {
+      "id": 2,
+      "question": "How do human activities change climate through atmospheric composition?",
+      "options": [
+        "By removing all aerosols",
+        "By adding greenhouse gases and aerosols to the atmosphere",
+        "By changing Earth orbital path",
+        "By stopping volcanic eruptions"
+      ],
+      "correctAnswer": "By adding greenhouse gases and aerosols to the atmosphere"
+    },
+    {
+      "id": 3,
+      "question": "What does extremely likely mean in the 2013 IPCC report?",
+      "options": [
+        "A probability of exactly 50 percent",
+        "A probability below 5 percent",
+        "A probability of at least 95 percent",
+        "A statement with no probability"
+      ],
+      "correctAnswer": "A probability of at least 95 percent"
+    },
+    {
+      "id": 4,
+      "question": "What did the 2013 Fifth Assessment Report conclude?",
+      "options": [
+        "Natural cycles explain all warming",
+        "The climate is stable",
+        "Warming began only after 2013",
+        "Human influence is the dominant cause of warming since the mid-twentieth century"
+      ],
+      "correctAnswer": "Human influence is the dominant cause of warming since the mid-twentieth century"
+    },
+    {
+      "id": 5,
+      "question": "Why can city nights be warmer than nearby rural nights?",
+      "options": [
+        "Urban surfaces and haze alter the local energy balance",
+        "Cities are closer to the sun",
+        "Rural areas have more pavement",
+        "Cities receive more rainfall"
+      ],
+      "correctAnswer": "Urban surfaces and haze alter the local energy balance"
+    },
+    {
+      "id": 6,
+      "question": "How does albedo change contribute to warming after deforestation?",
+      "options": [
+        "Albedo has no effect on temperature",
+        "Altered reflectivity changes the amount of solar energy absorbed",
+        "Deforested land becomes perfectly white",
+        "Albedo controls only wind speed"
+      ],
+      "correctAnswer": "Altered reflectivity changes the amount of solar energy absorbed"
+    },
+    {
+      "id": 7,
+      "question": "How long does carbon dioxide remain in the atmosphere according to the text?",
+      "options": [
+        "About 10 years",
+        "Less than one year",
+        "Over 100 years",
+        "About 1,000,000 years"
+      ],
+      "correctAnswer": "Over 100 years"
+    },
+    {
+      "id": 8,
+      "question": "Why are natural and human causes distinguished by mechanism?",
+      "options": [
+        "Both use exactly the same mechanisms",
+        "Humans cannot affect the atmosphere",
+        "Natural causes only affect the oceans",
+        "Natural causes can work through all three external mechanisms while humans mainly use two"
+      ],
+      "correctAnswer": "Natural causes can work through all three external mechanisms while humans mainly use two"
+    },
+    {
+      "id": 9,
+      "question": "What is the link between Milankovitch cycles and ice ages?",
+      "options": [
+        "Orbital variations help initiate glacial and interglacial periods",
+        "They control volcanic eruptions",
+        "They determine ocean salinity",
+        "They cause earthquakes"
+      ],
+      "correctAnswer": "Orbital variations help initiate glacial and interglacial periods"
+    },
+    {
+      "id": 10,
+      "question": "Which gas is released mainly by burning coal, oil and natural gas?",
+      "options": [
+        "Nitrous oxide from forests",
+        "Carbon dioxide",
+        "Methane from wetlands",
+        "Water vapor from oceans"
+      ],
+      "correctAnswer": "Carbon dioxide"
+    }
+  ]
+}

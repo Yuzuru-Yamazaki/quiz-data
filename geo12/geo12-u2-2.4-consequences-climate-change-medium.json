@@ -1,0 +1,127 @@
+{
+  "title": "2.4 Consequences of Climate Change",
+  "description": "Warming trends, precipitation shifts, sea level rise, polar change and ecosystem impacts. Medium level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate change impacts",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why do boreal forests enhance warming at high latitudes?",
+      "options": [
+        "They absorb more solar energy than snow-covered tundra",
+        "They reflect more sunlight than snow",
+        "They produce no carbon dioxide",
+        "They prevent all decomposition"
+      ],
+      "correctAnswer": "They absorb more solar energy than snow-covered tundra"
+    },
+    {
+      "id": 2,
+      "question": "How much more solar energy can boreal forests absorb than snow-covered tundra?",
+      "options": [
+        "Up to ten times less",
+        "Up to three times as much",
+        "Exactly the same amount",
+        "Up to one third as much"
+      ],
+      "correctAnswer": "Up to three times as much"
+    },
+    {
+      "id": 3,
+      "question": "How can warming create a feedback loop through soil?",
+      "options": [
+        "Frozen soil becomes permanent",
+        "Soil stops holding any nutrients",
+        "Faster decomposition releases more carbon dioxide into the air",
+        "Roots stop absorbing water"
+      ],
+      "correctAnswer": "Faster decomposition releases more carbon dioxide into the air"
+    },
+    {
+      "id": 4,
+      "question": "Which health effect is expected as heat waves become more frequent?",
+      "options": [
+        "Fewer heat-related illnesses everywhere",
+        "No change in health outcomes",
+        "More cold-related deaths only",
+        "More heat-related deaths"
+      ],
+      "correctAnswer": "More heat-related deaths"
+    },
+    {
+      "id": 5,
+      "question": "How does warming affect rainfall in lower latitudes?",
+      "options": [
+        "More frequent droughts and unpredictable rainfall",
+        "Perfectly uniform rainfall",
+        "Permanent rainfall all year",
+        "A complete halt to precipitation"
+      ],
+      "correctAnswer": "More frequent droughts and unpredictable rainfall"
+    },
+    {
+      "id": 6,
+      "question": "Why can intense rainfall stress agriculture even when annual totals are unchanged?",
+      "options": [
+        "Rain becomes gentler and more frequent",
+        "Rain falls in heavier spells with longer dry periods",
+        "Rain stops entirely in winter",
+        "Rainfall becomes snow everywhere"
+      ],
+      "correctAnswer": "Rain falls in heavier spells with longer dry periods"
+    },
+    {
+      "id": 7,
+      "question": "What causes the remaining half of sea level rise besides melting ice?",
+      "options": [
+        "Growth of coral reefs",
+        "River sediment deposition",
+        "Expansion of oceans as they warm",
+        "Tectonic uplift of continents"
+      ],
+      "correctAnswer": "Expansion of oceans as they warm"
+    },
+    {
+      "id": 8,
+      "question": "How quickly has global sea level risen since 1993?",
+      "options": [
+        "Roughly 34 centimeters per decade",
+        "Roughly 0.34 centimeters per decade",
+        "Roughly 340 centimeters per decade",
+        "Roughly 3.4 centimeters per decade"
+      ],
+      "correctAnswer": "Roughly 3.4 centimeters per decade"
+    },
+    {
+      "id": 9,
+      "question": "How can sea level rise affect coastal groundwater?",
+      "options": [
+        "Saltwater can contaminate freshwater supplies",
+        "Groundwater becomes fresher",
+        "Groundwater disappears entirely",
+        "Groundwater turns into magma"
+      ],
+      "correctAnswer": "Saltwater can contaminate freshwater supplies"
+    },
+    {
+      "id": 10,
+      "question": "What might happen to Arctic summer sea ice by mid-century?",
+      "options": [
+        "It will cover the whole Arctic Ocean",
+        "It may shrink to less than 10 percent of the Arctic Ocean",
+        "It will expand to twice its area",
+        "It will move to the Antarctic"
+      ],
+      "correctAnswer": "It may shrink to less than 10 percent of the Arctic Ocean"
+    }
+  ]
+}

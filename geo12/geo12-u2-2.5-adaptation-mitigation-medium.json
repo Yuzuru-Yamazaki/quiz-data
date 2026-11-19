@@ -1,0 +1,127 @@
+{
+  "title": "2.5 Adaptation and Mitigation Strategies to Climate Change",
+  "description": "UNFCCC response strategies, adaptation types, Ethiopian practices and mitigation measures. Medium level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "adaptation and mitigation",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "How does the IPCC define adaptation to climate change?",
+      "options": [
+        "Adjustments in ecological, social or economic systems in response to actual or expected stimuli and impacts",
+        "A complete ban on fossil fuels",
+        "A rise in global temperatures",
+        "The migration of all coastal peoples"
+      ],
+      "correctAnswer": "Adjustments in ecological, social or economic systems in response to actual or expected stimuli and impacts"
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of adaptation adjustments?",
+      "options": [
+        "To increase emissions",
+        "To moderate potential damages or benefit from opportunities",
+        "To stop all plate movement",
+        "To eliminate all weather"
+      ],
+      "correctAnswer": "To moderate potential damages or benefit from opportunities"
+    },
+    {
+      "id": 3,
+      "question": "What distinguishes private from public adaptation?",
+      "options": [
+        "Whether it occurs in summer or winter",
+        "Whether it involves water or soil",
+        "Whether it is motivated by households and companies or by government",
+        "Whether it is cheap or expensive"
+      ],
+      "correctAnswer": "Whether it is motivated by households and companies or by government"
+    },
+    {
+      "id": 4,
+      "question": "What is autonomous adaptation?",
+      "options": [
+        "A decision made by a national parliament",
+        "A United Nations treaty",
+        "A mandatory building code",
+        "Changes systems undergo in response to climate regardless of any policy or plan"
+      ],
+      "correctAnswer": "Changes systems undergo in response to climate regardless of any policy or plan"
+    },
+    {
+      "id": 5,
+      "question": "How does mitigation reduce warming?",
+      "options": [
+        "By lowering emissions of heat-trapping greenhouse gases",
+        "By increasing cloud cover artificially",
+        "By planting only decorative flowers",
+        "By reducing ocean salinity"
+      ],
+      "correctAnswer": "By lowering emissions of heat-trapping greenhouse gases"
+    },
+    {
+      "id": 6,
+      "question": "What are sinks in climate mitigation?",
+      "options": [
+        "Underground oil reserves",
+        "Systems that accumulate and store greenhouse gases, such as forests and oceans",
+        "Mountain peaks above the clouds",
+        "Nuclear power stations"
+      ],
+      "correctAnswer": "Systems that accumulate and store greenhouse gases, such as forests and oceans"
+    },
+    {
+      "id": 7,
+      "question": "Which activity is a mitigation measure?",
+      "options": [
+        "Building terraces on farms",
+        "Harvesting rainwater",
+        "Replacing coal power with wind energy",
+        "Changing the crop planting date"
+      ],
+      "correctAnswer": "Replacing coal power with wind energy"
+    },
+    {
+      "id": 8,
+      "question": "Why has adaptation become an urgent policy priority?",
+      "options": [
+        "Mitigation was completely abandoned",
+        "All impacts have disappeared",
+        "The UNFCCC was dissolved",
+        "Sensitivity to the issue grew after the IPCC Third Assessment Report"
+      ],
+      "correctAnswer": "Sensitivity to the issue grew after the IPCC Third Assessment Report"
+    },
+    {
+      "id": 9,
+      "question": "At which levels are climate responses needed?",
+      "options": [
+        "Local, regional, national and global levels",
+        "Only global level",
+        "Only local level",
+        "Only national level"
+      ],
+      "correctAnswer": "Local, regional, national and global levels"
+    },
+    {
+      "id": 10,
+      "question": "Which Ethiopian practice involves changing the time farmers sow seeds?",
+      "options": [
+        "Water harvesting",
+        "Changing crop planting date",
+        "Irrigation",
+        "Terracing"
+      ],
+      "correctAnswer": "Changing crop planting date"
+    }
+  ]
+}

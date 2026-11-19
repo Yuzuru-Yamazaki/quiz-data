@@ -1,0 +1,127 @@
+{
+  "title": "2.5 Adaptation and Mitigation Strategies to Climate Change",
+  "description": "UNFCCC response strategies, adaptation types, Ethiopian practices and mitigation measures. Easy level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "adaptation and mitigation",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which two response strategies does the UNFCCC highlight?",
+      "options": [
+        "Mitigation and adaptation",
+        "Migration and industrialization",
+        "Restoration and recycling",
+        "Conservation and colonization"
+      ],
+      "correctAnswer": "Mitigation and adaptation"
+    },
+    {
+      "id": 2,
+      "question": "What does mitigation aim to do?",
+      "options": [
+        "Increase greenhouse gas emissions",
+        "Reduce greenhouse gas emissions and enhance sinks",
+        "Relocate coastal cities only",
+        "Measure earthquake magnitude"
+      ],
+      "correctAnswer": "Reduce greenhouse gas emissions and enhance sinks"
+    },
+    {
+      "id": 3,
+      "question": "What does adaptation aim to do?",
+      "options": [
+        "Stop all emissions immediately",
+        "Increase volcanic activity",
+        "Alleviate the adverse impacts of climate change",
+        "Change Earth orbit"
+      ],
+      "correctAnswer": "Alleviate the adverse impacts of climate change"
+    },
+    {
+      "id": 4,
+      "question": "Which strategy has historically received more attention?",
+      "options": [
+        "Adaptation",
+        "Relocation",
+        "Insurance",
+        "Mitigation"
+      ],
+      "correctAnswer": "Mitigation"
+    },
+    {
+      "id": 5,
+      "question": "Which is a common adaptation strategy in Ethiopia?",
+      "options": [
+        "Soil conservation",
+        "Building coal power plants",
+        "Increasing fossil fuel imports",
+        "Expanding asphalt roads"
+      ],
+      "correctAnswer": "Soil conservation"
+    },
+    {
+      "id": 6,
+      "question": "Which practice involves collecting rainwater for later use?",
+      "options": [
+        "Crop diversification",
+        "Water harvesting",
+        "Terracing",
+        "Afforestation"
+      ],
+      "correctAnswer": "Water harvesting"
+    },
+    {
+      "id": 7,
+      "question": "What is growing a wider variety of crops called?",
+      "options": [
+        "Monoculture",
+        "Deforestation",
+        "Crop diversification",
+        "Desertification"
+      ],
+      "correctAnswer": "Crop diversification"
+    },
+    {
+      "id": 8,
+      "question": "What is reactive adaptation?",
+      "options": [
+        "Adaptation that takes place before impacts appear",
+        "Adaptation planned by governments",
+        "Adaptation in natural ecosystems",
+        "Adaptation that takes place after initial impacts have occurred"
+      ],
+      "correctAnswer": "Adaptation that takes place after initial impacts have occurred"
+    },
+    {
+      "id": 9,
+      "question": "What is anticipatory adaptation?",
+      "options": [
+        "Adaptation that takes place before impacts become apparent",
+        "Adaptation after a drought begins",
+        "Adaptation by individual households",
+        "Adaptation through natural selection"
+      ],
+      "correctAnswer": "Adaptation that takes place before impacts become apparent"
+    },
+    {
+      "id": 10,
+      "question": "How is adaptation in unmanaged natural systems described?",
+      "options": [
+        "Planned and anticipatory",
+        "Autonomous and reactive",
+        "Public and reactive",
+        "Private and planned"
+      ],
+      "correctAnswer": "Autonomous and reactive"
+    }
+  ]
+}
