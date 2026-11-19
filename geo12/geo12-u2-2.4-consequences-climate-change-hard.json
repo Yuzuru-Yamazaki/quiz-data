@@ -1,0 +1,127 @@
+{
+  "title": "2.4 Consequences of Climate Change",
+  "description": "Warming trends, precipitation shifts, sea level rise, polar change and ecosystem impacts. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate change impacts",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "How does the albedo feedback involving boreal forests and tundra work?",
+      "options": [
+        "Dark forests absorb more sunlight than snow, accelerating warming",
+        "White tundra absorbs more sunlight than forests",
+        "Forests reflect sunlight back to space",
+        "Snow increases surface temperature directly"
+      ],
+      "correctAnswer": "Dark forests absorb more sunlight than snow, accelerating warming"
+    },
+    {
+      "id": 2,
+      "question": "Why might Antarctica gain snow while still losing ice overall?",
+      "options": [
+        "Snowfall has no effect on ice mass",
+        "Warmer air holds more snow inland while coastal melting increases",
+        "Antarctica has no coastline",
+        "Melting stops in warmer air"
+      ],
+      "correctAnswer": "Warmer air holds more snow inland while coastal melting increases"
+    },
+    {
+      "id": 3,
+      "question": "How does saltwater intrusion affect coastal groundwater supplies?",
+      "options": [
+        "It adds fresh water to aquifers",
+        "It lowers the ocean surface",
+        "Rising seas push salt into freshwater aquifers",
+        "It increases groundwater temperature only"
+      ],
+      "correctAnswer": "Rising seas push salt into freshwater aquifers"
+    },
+    {
+      "id": 4,
+      "question": "How do climate-driven changes in species distribution affect human well-being?",
+      "options": [
+        "By eliminating all diseases",
+        "By increasing mineral deposits",
+        "By reducing all biodiversity to zero",
+        "Through emerging diseases and changes in food supply"
+      ],
+      "correctAnswer": "Through emerging diseases and changes in food supply"
+    },
+    {
+      "id": 5,
+      "question": "Why might higher latitudes benefit initially from warming?",
+      "options": [
+        "Longer growing seasons and earlier snowmelt",
+        "Permanently frozen soils",
+        "More frequent blizzards",
+        "Shorter daylight hours"
+      ],
+      "correctAnswer": "Longer growing seasons and earlier snowmelt"
+    },
+    {
+      "id": 6,
+      "question": "What limits the carbon dioxide fertilization effect?",
+      "options": [
+        "Abundant rainfall everywhere",
+        "Shortages of water, nitrogen and other nutrients",
+        "Excess oxygen in the air",
+        "Lack of sunlight at night"
+      ],
+      "correctAnswer": "Shortages of water, nitrogen and other nutrients"
+    },
+    {
+      "id": 7,
+      "question": "How does faster decomposition of soil organic matter amplify warming?",
+      "options": [
+        "It stores carbon permanently",
+        "It cools the soil surface",
+        "It releases additional carbon dioxide into the atmosphere",
+        "It stops plant growth"
+      ],
+      "correctAnswer": "It releases additional carbon dioxide into the atmosphere"
+    },
+    {
+      "id": 8,
+      "question": "Which regions are projected to face decreasing crop yields?",
+      "options": [
+        "Only polar regions",
+        "Only high mountain peaks",
+        "All regions equally",
+        "Tropical regions where many developing nations are located"
+      ],
+      "correctAnswer": "Tropical regions where many developing nations are located"
+    },
+    {
+      "id": 9,
+      "question": "What explains the projected increase in wildfires in high-latitude forests?",
+      "options": [
+        "More frequent dry spells in forested areas",
+        "More frequent rainfall in forests",
+        "Longer snow cover each year",
+        "Fewer lightning strikes"
+      ],
+      "correctAnswer": "More frequent dry spells in forested areas"
+    },
+    {
+      "id": 10,
+      "question": "Why is a single warm year insufficient to demonstrate global warming?",
+      "options": [
+        "Warm years are never recorded",
+        "Warming is small in any year and significant only over decades",
+        "Global warming happens in one day",
+        "A warm year disproves climate change"
+      ],
+      "correctAnswer": "Warming is small in any year and significant only over decades"
+    }
+  ]
+}

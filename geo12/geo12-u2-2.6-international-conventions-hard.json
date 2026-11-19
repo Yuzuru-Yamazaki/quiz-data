@@ -1,0 +1,127 @@
+{
+  "title": "2.6 International Conventions and Agreements on Climate Change",
+  "description": "World climate conferences, the IPCC, UNFCCC negotiations, Kyoto Protocol and Paris Agreement. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate agreements",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why did global emissions rise over 25 percent from 1990 to 2012 despite Kyoto?",
+      "options": [
+        "Major emitters stayed outside or were exempt from reduction duties",
+        "Every country met its target",
+        "Emissions fell in every sector",
+        "The protocol covered only ships"
+      ],
+      "correctAnswer": "Major emitters stayed outside or were exempt from reduction duties"
+    },
+    {
+      "id": 2,
+      "question": "What does carbon neutral mean?",
+      "options": [
+        "Zero emission of any gas",
+        "Net greenhouse gas emissions offset by activities such as planting trees",
+        "Only renewable energy used indoors",
+        "All forests removed"
+      ],
+      "correctAnswer": "Net greenhouse gas emissions offset by activities such as planting trees"
+    },
+    {
+      "id": 3,
+      "question": "How many countries had joined the Convention by 2006?",
+      "options": [
+        "46",
+        "164",
+        "189",
+        "340"
+      ],
+      "correctAnswer": "189"
+    },
+    {
+      "id": 4,
+      "question": "What was significant about the Second World Climate Conference in 1990?",
+      "options": [
+        "It excluded all scientists",
+        "It took place in Kyoto",
+        "It created the Paris Agreement",
+        "It included ministers as well as scientists"
+      ],
+      "correctAnswer": "It included ministers as well as scientists"
+    },
+    {
+      "id": 5,
+      "question": "What did the 1996 no regrets safeguards refer to?",
+      "options": [
+        "Cost-effective steps consistent with sustainable development",
+        "Expensive mandatory shutdowns",
+        "A ban on all energy use",
+        "Voluntary forest clearing"
+      ],
+      "correctAnswer": "Cost-effective steps consistent with sustainable development"
+    },
+    {
+      "id": 6,
+      "question": "How does emissions trading relate to the Kyoto framework?",
+      "options": [
+        "It is a tax on rainfall",
+        "It is a market mechanism agreed in the Bonn Agreements to help meet targets",
+        "It replaces all climate science",
+        "It was created by the Toronto Conference"
+      ],
+      "correctAnswer": "It is a market mechanism agreed in the Bonn Agreements to help meet targets"
+    },
+    {
+      "id": 7,
+      "question": "What shift in focus occurred at COP 8?",
+      "options": [
+        "Negotiations on a new treaty began",
+        "Climate science was abandoned",
+        "Implementation of the Marrakesh Accords became central",
+        "Emissions trading was banned"
+      ],
+      "correctAnswer": "Implementation of the Marrakesh Accords became central"
+    },
+    {
+      "id": 8,
+      "question": "What explains the exemption of many developing nations from Kyoto cuts?",
+      "options": [
+        "They had no industries at all",
+        "They refused to join the United Nations",
+        "They were located in the Southern Hemisphere",
+        "They had contributed only a small part of accumulated carbon dioxide"
+      ],
+      "correctAnswer": "They had contributed only a small part of accumulated carbon dioxide"
+    },
+    {
+      "id": 9,
+      "question": "Which benefit is listed for cutting greenhouse gas emissions?",
+      "options": [
+        "Reduced acid rain, haze and photochemical smog",
+        "More photochemical smog",
+        "Permanent haze",
+        "Higher acid rain"
+      ],
+      "correctAnswer": "Reduced acid rain, haze and photochemical smog"
+    },
+    {
+      "id": 10,
+      "question": "What was the role of the INC?",
+      "options": [
+        "It enforced the Paris Agreement",
+        "It was the negotiating body for the Framework Convention on Climate Change",
+        "It published the Fifth Assessment Report",
+        "It managed world oil supplies"
+      ],
+      "correctAnswer": "It was the negotiating body for the Framework Convention on Climate Change"
+    }
+  ]
+}

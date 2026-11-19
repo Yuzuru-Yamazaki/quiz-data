@@ -1,0 +1,127 @@
+{
+  "title": "2.6 International Conventions and Agreements on Climate Change",
+  "description": "World climate conferences, the IPCC, UNFCCC negotiations, Kyoto Protocol and Paris Agreement. Medium level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate agreements",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What did the IPCC Second Assessment Report conclude in 1996?",
+      "options": [
+        "There was a discernible human influence on global climate",
+        "Climate change was entirely natural",
+        "The atmosphere was stable",
+        "Sea levels were falling"
+      ],
+      "correctAnswer": "There was a discernible human influence on global climate"
+    },
+    {
+      "id": 2,
+      "question": "Which issues were covered by the Bonn Agreements?",
+      "options": [
+        "Only volcanic monitoring",
+        "Emissions trading, the CDM, sinks accounting and compliance",
+        "Only ocean shipping routes",
+        "Only school curricula"
+      ],
+      "correctAnswer": "Emissions trading, the CDM, sinks accounting and compliance"
+    },
+    {
+      "id": 3,
+      "question": "What does CDM stand for?",
+      "options": [
+        "Climate Data Model",
+        "Carbon Dioxide Measurement",
+        "Clean Development Mechanism",
+        "Continental Drift Mechanism"
+      ],
+      "correctAnswer": "Clean Development Mechanism"
+    },
+    {
+      "id": 4,
+      "question": "At which conference was the Delhi Ministerial Declaration adopted?",
+      "options": [
+        "COP 3 in 1997",
+        "COP 15 in 2009",
+        "COP 21 in 2015",
+        "COP 8 in 2002"
+      ],
+      "correctAnswer": "COP 8 in 2002"
+    },
+    {
+      "id": 5,
+      "question": "What was a main outcome of COP 10 in Buenos Aires?",
+      "options": [
+        "A programme of work on adaptation and response measures",
+        "The Kyoto Protocol",
+        "The Paris Agreement",
+        "The First Assessment Report"
+      ],
+      "correctAnswer": "A programme of work on adaptation and response measures"
+    },
+    {
+      "id": 6,
+      "question": "What kind of targets does the Kyoto Protocol set?",
+      "options": [
+        "Voluntary emission targets",
+        "Mandatory emission reduction targets",
+        "No emission targets",
+        "Only research targets"
+      ],
+      "correctAnswer": "Mandatory emission reduction targets"
+    },
+    {
+      "id": 7,
+      "question": "What emission goal did Kyoto set for developed countries over 2008 to 2012?",
+      "options": [
+        "At least 50 percent below 1990 levels",
+        "Exactly 5 percent above 1990 levels",
+        "At least 5 percent below 1990 levels",
+        "A 22 percent increase"
+      ],
+      "correctAnswer": "At least 5 percent below 1990 levels"
+    },
+    {
+      "id": 8,
+      "question": "Which major emitter remained outside the Kyoto Protocol?",
+      "options": [
+        "France",
+        "Germany",
+        "Japan",
+        "The United States"
+      ],
+      "correctAnswer": "The United States"
+    },
+    {
+      "id": 9,
+      "question": "What does the Paris Agreement ask nations to do?",
+      "options": [
+        "Set voluntary emission targets and report progress regularly",
+        "Ban all international travel",
+        "Close all coal mines immediately",
+        "Report only to their own citizens"
+      ],
+      "correctAnswer": "Set voluntary emission targets and report progress regularly"
+    },
+    {
+      "id": 10,
+      "question": "Which countries pledged to become carbon neutral?",
+      "options": [
+        "Brazil, India and China",
+        "Costa Rica, Iceland and Norway",
+        "Egypt, Sudan and Ethiopia",
+        "Russia, Canada and Australia"
+      ],
+      "correctAnswer": "Costa Rica, Iceland and Norway"
+    }
+  ]
+}

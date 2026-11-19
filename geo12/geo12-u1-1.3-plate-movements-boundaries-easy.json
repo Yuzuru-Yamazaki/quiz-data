@@ -1,0 +1,127 @@
+{
+  "title": "1.3 Plate Movements and Plate Boundaries",
+  "description": "Convergent, divergent and transform boundaries, subduction, seafloor spreading and mantle convection. Easy level.",
+  "folder": "School/Grade 12/Geography/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 1",
+    "plate boundaries",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What happens at a convergent plate boundary?",
+      "options": [
+        "Two plates move toward each other",
+        "Two plates move away from each other",
+        "Two plates slide past each other",
+        "Two plates remain fixed"
+      ],
+      "correctAnswer": "Two plates move toward each other"
+    },
+    {
+      "id": 2,
+      "question": "What happens at a divergent plate boundary?",
+      "options": [
+        "Two plates move toward each other",
+        "Two plates move away from each other",
+        "Two plates slide past each other",
+        "Two plates sink together"
+      ],
+      "correctAnswer": "Two plates move away from each other"
+    },
+    {
+      "id": 3,
+      "question": "What happens at a transform plate boundary?",
+      "options": [
+        "Two plates move toward each other",
+        "Two plates move apart",
+        "Two plates slide past each other",
+        "Two plates melt together"
+      ],
+      "correctAnswer": "Two plates slide past each other"
+    },
+    {
+      "id": 4,
+      "question": "Which type of crust is denser?",
+      "options": [
+        "Continental crust",
+        "Both have equal density",
+        "Neither has measurable density",
+        "Oceanic crust"
+      ],
+      "correctAnswer": "Oceanic crust"
+    },
+    {
+      "id": 5,
+      "question": "What is the process called when one plate is forced beneath another?",
+      "options": [
+        "Subduction",
+        "Seafloor spreading",
+        "Convection",
+        "Erosion"
+      ],
+      "correctAnswer": "Subduction"
+    },
+    {
+      "id": 6,
+      "question": "Which boundary is also called destructive?",
+      "options": [
+        "Divergent boundary",
+        "Convergent boundary",
+        "Transform boundary",
+        "Passive boundary"
+      ],
+      "correctAnswer": "Convergent boundary"
+    },
+    {
+      "id": 7,
+      "question": "Which boundary is also called constructive?",
+      "options": [
+        "Convergent boundary",
+        "Transform boundary",
+        "Divergent boundary",
+        "Passive boundary"
+      ],
+      "correctAnswer": "Divergent boundary"
+    },
+    {
+      "id": 8,
+      "question": "Which boundary is also called conservative?",
+      "options": [
+        "Divergent boundary",
+        "Convergent boundary",
+        "Passive boundary",
+        "Transform boundary"
+      ],
+      "correctAnswer": "Transform boundary"
+    },
+    {
+      "id": 9,
+      "question": "What is created at a divergent boundary beneath the ocean?",
+      "options": [
+        "New seafloor",
+        "A subduction trench",
+        "A deep ocean basin filled with ash",
+        "A chain of old volcanoes"
+      ],
+      "correctAnswer": "New seafloor"
+    },
+    {
+      "id": 10,
+      "question": "Which fault is a well-known example of a transform boundary?",
+      "options": [
+        "The East African Rift",
+        "The San Andreas Fault",
+        "The Mid-Atlantic Ridge",
+        "The Andes Fault"
+      ],
+      "correctAnswer": "The San Andreas Fault"
+    }
+  ]
+}

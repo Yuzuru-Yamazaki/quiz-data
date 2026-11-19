@@ -1,0 +1,127 @@
+{
+  "title": "2.7 Pillars of Climate Resilient Green Economy of Ethiopia",
+  "description": "Ethiopia’s CRGE strategy, its four pillars, renewable energy, forests and energy-efficient technology. Easy level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate resilient green economy",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many pillars does Ethiopia’s Climate Resilient Green Economy strategy have?",
+      "options": [
+        "Four",
+        "Two",
+        "Six",
+        "Sixty"
+      ],
+      "correctAnswer": "Four"
+    },
+    {
+      "id": 2,
+      "question": "How many initiatives were initially prioritized under the CRGE strategy?",
+      "options": [
+        "4",
+        "60",
+        "14",
+        "2025"
+      ],
+      "correctAnswer": "60"
+    },
+    {
+      "id": 3,
+      "question": "Which sector remains core to the Ethiopian economy according to CRGE?",
+      "options": [
+        "Mining",
+        "Tourism",
+        "Agriculture",
+        "Textiles"
+      ],
+      "correctAnswer": "Agriculture"
+    },
+    {
+      "id": 4,
+      "question": "Which renewable sources does Ethiopia plan to exploit?",
+      "options": [
+        "Coal, oil, gas and nuclear",
+        "Wood, charcoal, peat and diesel",
+        "Tidal, wave, biomass and shale gas",
+        "Hydro, geothermal, solar and wind"
+      ],
+      "correctAnswer": "Hydro, geothermal, solar and wind"
+    },
+    {
+      "id": 5,
+      "question": "At what rate does Ethiopia need to expand electricity supply?",
+      "options": [
+        "14 percent per annum",
+        "4 percent per annum",
+        "40 percent per annum",
+        "1.4 percent per annum"
+      ],
+      "correctAnswer": "14 percent per annum"
+    },
+    {
+      "id": 6,
+      "question": "Which of these is a pillar of CRGE?",
+      "options": [
+        "Expanding coal mining",
+        "Protecting and re-establishing forests",
+        "Banning all irrigation",
+        "Increasing fuel imports"
+      ],
+      "correctAnswer": "Protecting and re-establishing forests"
+    },
+    {
+      "id": 7,
+      "question": "Which pillar includes the construction of electric rail networks?",
+      "options": [
+        "Improving crop and livestock production",
+        "Protecting forests",
+        "Leapfrogging to modern and energy-efficient technologies",
+        "Expanding renewable electricity"
+      ],
+      "correctAnswer": "Leapfrogging to modern and energy-efficient technologies"
+    },
+    {
+      "id": 8,
+      "question": "What do carbon stocks refer to?",
+      "options": [
+        "Oil reserves underground",
+        "Coal in power stations",
+        "Gas in the atmosphere",
+        "Carbon stored in forests and woodlands"
+      ],
+      "correctAnswer": "Carbon stored in forests and woodlands"
+    },
+    {
+      "id": 9,
+      "question": "What is the goal of improving crop and livestock production practices?",
+      "options": [
+        "Higher farmer income and food security with lower emissions",
+        "Higher emissions and lower yields",
+        "Farming without any water",
+        "Exporting all farm produce"
+      ],
+      "correctAnswer": "Higher farmer income and food security with lower emissions"
+    },
+    {
+      "id": 10,
+      "question": "What income status does Ethiopia aim to reach before 2025?",
+      "options": [
+        "High income",
+        "Middle income",
+        "Low income",
+        "Subsistence only"
+      ],
+      "correctAnswer": "Middle income"
+    }
+  ]
+}

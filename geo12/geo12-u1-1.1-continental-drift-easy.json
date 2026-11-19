@@ -1,0 +1,127 @@
+{
+  "title": "1.1 Continental Drift Theory",
+  "description": "Pangaea, Laurasia, Gondwanaland, and the geological evidence behind Wegener’s theory. Easy level.",
+  "folder": "School/Grade 12/Geography/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 1",
+    "continental drift theory",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who proposed the continental drift theory in 1912?",
+      "options": [
+        "Alfred Wegener",
+        "Charles Darwin",
+        "Harry Hess",
+        "Albert Einstein"
+      ],
+      "correctAnswer": "Alfred Wegener"
+    },
+    {
+      "id": 2,
+      "question": "What was the name of the single ancient supercontinent?",
+      "options": [
+        "Gondwanaland",
+        "Pangaea",
+        "Laurasia",
+        "Panthalassa"
+      ],
+      "correctAnswer": "Pangaea"
+    },
+    {
+      "id": 3,
+      "question": "In which geological period did Pangaea start to break into several parts?",
+      "options": [
+        "The Jurassic period",
+        "The Carboniferous period",
+        "The Triassic period",
+        "The Quaternary period"
+      ],
+      "correctAnswer": "The Triassic period"
+    },
+    {
+      "id": 4,
+      "question": "In which era did the breakup of Pangaea begin?",
+      "options": [
+        "The Paleozoic era",
+        "The Cenozoic era",
+        "The Proterozoic era",
+        "The Mesozoic era"
+      ],
+      "correctAnswer": "The Mesozoic era"
+    },
+    {
+      "id": 5,
+      "question": "What was the northern part of Pangaea called?",
+      "options": [
+        "Laurasia",
+        "Gondwanaland",
+        "Panthalassa",
+        "Tethys"
+      ],
+      "correctAnswer": "Laurasia"
+    },
+    {
+      "id": 6,
+      "question": "What was the southern part of Pangaea called?",
+      "options": [
+        "Laurasia",
+        "Gondwanaland",
+        "Eurasia",
+        "Pangaea"
+      ],
+      "correctAnswer": "Gondwanaland"
+    },
+    {
+      "id": 7,
+      "question": "Around how many million years ago was Pangaea located near the South Pole?",
+      "options": [
+        "50 million years ago",
+        "150 million years ago",
+        "350 million years ago",
+        "500 million years ago"
+      ],
+      "correctAnswer": "350 million years ago"
+    },
+    {
+      "id": 8,
+      "question": "What profession did Alfred Wegener have?",
+      "options": [
+        "Geologist",
+        "Biologist",
+        "Astronomer",
+        "Meteorologist"
+      ],
+      "correctAnswer": "Meteorologist"
+    },
+    {
+      "id": 9,
+      "question": "Which coastlines fit together like pieces of a jigsaw puzzle?",
+      "options": [
+        "Africa and South America",
+        "Europe and Africa",
+        "Asia and Australia",
+        "North America and Europe"
+      ],
+      "correctAnswer": "Africa and South America"
+    },
+    {
+      "id": 10,
+      "question": "What do we call the matching of rock types and mountain belts across two continents?",
+      "options": [
+        "Paleoclimatic evidence",
+        "Rock type and structural similarity",
+        "Fossil evidence",
+        "Coastline similarity"
+      ],
+      "correctAnswer": "Rock type and structural similarity"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "1.3 Plate Movements and Plate Boundaries",
+  "description": "Convergent, divergent and transform boundaries, subduction, seafloor spreading and mantle convection. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 1",
+    "plate boundaries",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "How does subduction produce volcanoes in the Andes?",
+      "options": [
+        "Subducted crust melts and the magma rises through the overlying crust",
+        "The plate pushes mountains upward without melting",
+        "Ocean water cools the mantle into lava",
+        "Wind erosion exposes molten rock"
+      ],
+      "correctAnswer": "Subducted crust melts and the magma rises through the overlying crust"
+    },
+    {
+      "id": 2,
+      "question": "Why do two continental plates build mountains rather than subduct deeply?",
+      "options": [
+        "Continental crust is denser than the mantle",
+        "Continental crust is buoyant and resists sinking",
+        "Continental crust melts completely",
+        "Continental crust is thinner than oceanic crust"
+      ],
+      "correctAnswer": "Continental crust is buoyant and resists sinking"
+    },
+    {
+      "id": 3,
+      "question": "What distinguishes an oceanic ridge from a continental rift valley?",
+      "options": [
+        "A ridge forms on land; a rift forms only in the ocean",
+        "Both are transform features",
+        "A ridge forms undersea by seafloor spreading; a rift forms on a continent",
+        "Both are subduction features"
+      ],
+      "correctAnswer": "A ridge forms undersea by seafloor spreading; a rift forms on a continent"
+    },
+    {
+      "id": 4,
+      "question": "How does the East African Rift illustrate an early stage of ocean formation?",
+      "options": [
+        "It is already a deep ocean basin",
+        "It will become a mountain range",
+        "It is a transform fault that will close",
+        "Continued separation may let water flood the gap to form a new ocean"
+      ],
+      "correctAnswer": "Continued separation may let water flood the gap to form a new ocean"
+    },
+    {
+      "id": 5,
+      "question": "Why do transform boundaries produce earthquakes?",
+      "options": [
+        "Plates stick and then slip suddenly along fractures",
+        "Plates melt and recrystallize",
+        "Plates move apart very quickly",
+        "Plates form new crust continuously"
+      ],
+      "correctAnswer": "Plates stick and then slip suddenly along fractures"
+    },
+    {
+      "id": 6,
+      "question": "Where do rising and descending convection currents occur?",
+      "options": [
+        "Rising at subduction zones and descending at ridges",
+        "Rising at oceanic ridges and descending at subduction zones",
+        "Rising beneath continents only",
+        "Descending beneath deserts only"
+      ],
+      "correctAnswer": "Rising at oceanic ridges and descending at subduction zones"
+    },
+    {
+      "id": 7,
+      "question": "What determines whether plates converge, diverge or slide past one another?",
+      "options": [
+        "Their color and age",
+        "The salinity of nearby seas",
+        "The direction of their relative motion at the margin",
+        "The number of fossils they contain"
+      ],
+      "correctAnswer": "The direction of their relative motion at the margin"
+    },
+    {
+      "id": 8,
+      "question": "What happens to crustal material at subduction zones?",
+      "options": [
+        "It is preserved unchanged",
+        "It becomes new oceanic crust at the surface",
+        "It turns into sedimentary rock immediately",
+        "It is destroyed and recycled into the mantle"
+      ],
+      "correctAnswer": "It is destroyed and recycled into the mantle"
+    },
+    {
+      "id": 9,
+      "question": "Why does oceanic-oceanic convergence form an island arc?",
+      "options": [
+        "Subduction of one oceanic plate beneath another builds volcanic islands",
+        "Two continents collide and uplift",
+        "Seafloor spreading creates a ridge",
+        "A transform fault opens a gap"
+      ],
+      "correctAnswer": "Subduction of one oceanic plate beneath another builds volcanic islands"
+    },
+    {
+      "id": 10,
+      "question": "Which sequence correctly links convergence to volcanism?",
+      "options": [
+        "Convergence, erosion, sedimentation, volcano",
+        "Convergence, subduction, melting, magma rise, volcano",
+        "Divergence, cooling, sinking, volcano",
+        "Transform motion, melting, volcano"
+      ],
+      "correctAnswer": "Convergence, subduction, melting, magma rise, volcano"
+    }
+  ]
+}

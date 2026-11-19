@@ -1,0 +1,127 @@
+{
+  "title": "2.2 Trends in Global Climate Change",
+  "description": "Observed warming, greenhouse gas records, IPCC assessments and temperature projections. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate change trends",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why is the 1951 to 1980 base period important in the temperature index?",
+      "options": [
+        "It provides the reference against which temperature changes are measured",
+        "It was the warmest period on record",
+        "It is when satellites were first launched",
+        "It marks the start of the ice age"
+      ],
+      "correctAnswer": "It provides the reference against which temperature changes are measured"
+    },
+    {
+      "id": 2,
+      "question": "What does the 0.8 degrees Celsius and 0.6 degrees Celsius comparison suggest?",
+      "options": [
+        "Warming stopped after 1980",
+        "Warming has accelerated in recent decades",
+        "The two figures are contradictory",
+        "Only the oceans warmed"
+      ],
+      "correctAnswer": "Warming has accelerated in recent decades"
+    },
+    {
+      "id": 3,
+      "question": "What follows from rising carbon dioxide, methane and nitrous oxide in ice cores?",
+      "options": [
+        "The atmosphere is unchanged",
+        "Volcanoes stopped erupting",
+        "Human activities have altered atmospheric composition",
+        "Ice cores are unreliable"
+      ],
+      "correctAnswer": "Human activities have altered atmospheric composition"
+    },
+    {
+      "id": 4,
+      "question": "Why is the 1998 warm-year finding significant?",
+      "options": [
+        "It was the coldest year recorded",
+        "It ended the ice age",
+        "It was measured only in Ethiopia",
+        "It was the warmest in the instrumental record beginning in 1861"
+      ],
+      "correctAnswer": "It was the warmest in the instrumental record beginning in 1861"
+    },
+    {
+      "id": 5,
+      "question": "What does the 1.4 to 5.8 degrees Celsius projection depend on?",
+      "options": [
+        "Whether greenhouse gas emissions continue to rise",
+        "The number of weather stations built",
+        "Changes in Earth orbit only",
+        "The price of renewable energy"
+      ],
+      "correctAnswer": "Whether greenhouse gas emissions continue to rise"
+    },
+    {
+      "id": 6,
+      "question": "Which evidence combination makes the case for climate change strongest?",
+      "options": [
+        "A single warm day",
+        "Atmosphere, land and ocean observations together with ice cores",
+        "One local rainfall record",
+        "Personal opinions"
+      ],
+      "correctAnswer": "Atmosphere, land and ocean observations together with ice cores"
+    },
+    {
+      "id": 7,
+      "question": "What does a collective picture of a warming world imply?",
+      "options": [
+        "Only one dataset matters",
+        "Scientists disagree completely",
+        "Many independent observations point in the same direction",
+        "Warming is an illusion"
+      ],
+      "correctAnswer": "Many independent observations point in the same direction"
+    },
+    {
+      "id": 8,
+      "question": "How would you describe the claim about the twentieth century?",
+      "options": [
+        "It was the coldest century in a millennium",
+        "It was identical to all previous centuries",
+        "It lasted only fifty years",
+        "It was likely the warmest century in a millennium"
+      ],
+      "correctAnswer": "It was likely the warmest century in a millennium"
+    },
+    {
+      "id": 9,
+      "question": "Why use global mean temperature rather than local records?",
+      "options": [
+        "Local variation can be misleading while the global mean shows the trend",
+        "Local records are never kept",
+        "Global means are simpler to fabricate",
+        "Local temperatures never change"
+      ],
+      "correctAnswer": "Local variation can be misleading while the global mean shows the trend"
+    },
+    {
+      "id": 10,
+      "question": "Which statement about the IPCC 2001 report is accurate?",
+      "options": [
+        "It denied any warming",
+        "It documented the warmest decade and warmest year in the instrumental record",
+        "It was the sixth assessment report",
+        "It covered only the Southern Hemisphere"
+      ],
+      "correctAnswer": "It documented the warmest decade and warmest year in the instrumental record"
+    }
+  ]
+}

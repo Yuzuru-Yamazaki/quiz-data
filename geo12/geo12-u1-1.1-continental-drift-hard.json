@@ -1,0 +1,127 @@
+{
+  "title": "1.1 Continental Drift Theory",
+  "description": "Pangaea, Laurasia, Gondwanaland, and the geological evidence behind Wegener’s theory. Hard level.",
+  "folder": "School/Grade 12/Geography/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 1",
+    "continental drift theory",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why is the fit of continental shelves stronger evidence than the fit of coastlines?",
+      "options": [
+        "Shelves reveal the true submerged edges of continents",
+        "Shelves are affected by seasonal waves",
+        "Shelves are younger than coastlines",
+        "Shelves lie above sea level"
+      ],
+      "correctAnswer": "Shelves reveal the true submerged edges of continents"
+    },
+    {
+      "id": 2,
+      "question": "What does the presence of same-age rocks on both sides of the Atlantic support?",
+      "options": [
+        "The Atlantic Ocean once covered all continents",
+        "Africa and South America were once contiguous",
+        "Mountain belts formed independently on each continent",
+        "Rock ages are identical worldwide"
+      ],
+      "correctAnswer": "Africa and South America were once contiguous"
+    },
+    {
+      "id": 3,
+      "question": "Which combination of evidence most strongly supported the existence of Pangaea?",
+      "options": [
+        "Only the outlines of the continents",
+        "Only the distribution of deserts",
+        "Coastline fit, identical fossils, matching rock belts and paleoclimate",
+        "Only the age of oceanic crust"
+      ],
+      "correctAnswer": "Coastline fit, identical fossils, matching rock belts and paleoclimate"
+    },
+    {
+      "id": 4,
+      "question": "Why did the short timescale proposed by Wegener undermine his theory?",
+      "options": [
+        "The rocks were too young to measure",
+        "The fossils were too small to study",
+        "The continents were too large to move",
+        "Scientists doubted that so much drift could happen in so short a time"
+      ],
+      "correctAnswer": "Scientists doubted that so much drift could happen in so short a time"
+    },
+    {
+      "id": 5,
+      "question": "What name is given to the shift from fixism to mobilism?",
+      "options": [
+        "A paradigm change in viewing Earth",
+        "A return to ancient geology",
+        "A rejection of all fossils",
+        "A new theory of ocean tides"
+      ],
+      "correctAnswer": "A paradigm change in viewing Earth"
+    },
+    {
+      "id": 6,
+      "question": "How did the location of influential scientists weaken Wegener’s theory?",
+      "options": [
+        "They all worked in South America",
+        "Most conclusive data came from the Southern Hemisphere",
+        "They rejected all field observations",
+        "They had access to no fossil data"
+      ],
+      "correctAnswer": "Most conclusive data came from the Southern Hemisphere"
+    },
+    {
+      "id": 7,
+      "question": "Mesosaurus was a small reptile found on both sides of the Atlantic. What does this imply?",
+      "options": [
+        "The reptile crossed the open ocean repeatedly",
+        "The reptile evolved separately on each continent",
+        "The landmasses were connected so the reptile could disperse",
+        "The Atlantic Ocean was once a desert"
+      ],
+      "correctAnswer": "The landmasses were connected so the reptile could disperse"
+    },
+    {
+      "id": 8,
+      "question": "What do glacial deposits in now-tropical regions indicate?",
+      "options": [
+        "Glaciers once formed at the equator only",
+        "Tropical regions have always been cold",
+        "The Earth axis never changes",
+        "Continents have moved into different climatic zones"
+      ],
+      "correctAnswer": "Continents have moved into different climatic zones"
+    },
+    {
+      "id": 9,
+      "question": "How is continental drift theory related to plate tectonics?",
+      "options": [
+        "It introduced moving continents that plate tectonics later explained",
+        "It was replaced without leaving any legacy",
+        "It proved that continents are fixed",
+        "It described only ocean currents"
+      ],
+      "correctAnswer": "It introduced moving continents that plate tectonics later explained"
+    },
+    {
+      "id": 10,
+      "question": "Which achievement is considered Wegener’s most important legacy?",
+      "options": [
+        "Discovering the mechanism of plate motion",
+        "Offering a paradigm change from fixism to mobilism",
+        "Mapping the ocean floor",
+        "Dating the age of Earth"
+      ],
+      "correctAnswer": "Offering a paradigm change from fixism to mobilism"
+    }
+  ]
+}

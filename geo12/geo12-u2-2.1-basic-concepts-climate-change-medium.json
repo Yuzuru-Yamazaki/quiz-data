@@ -1,0 +1,127 @@
+{
+  "title": "2.1 Basic Concepts of Climate Change",
+  "description": "Climate versus weather, global warming, the IPCC definition and the interconnection of Earth systems. Medium level.",
+  "folder": "School/Grade 12/Geography/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "geography",
+    "grade 12",
+    "unit 2",
+    "climate change concepts",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "How does the textbook define climate change?",
+      "options": [
+        "A change in the mean or variability of climate persisting for decades or longer",
+        "A change in daily weather",
+        "A single record high temperature",
+        "A change in the length of a season only"
+      ],
+      "correctAnswer": "A change in the mean or variability of climate persisting for decades or longer"
+    },
+    {
+      "id": 2,
+      "question": "What causes does the IPCC definition include for climate change?",
+      "options": [
+        "Only volcanic eruptions",
+        "Natural variability and human activities",
+        "Only changes in ocean currents",
+        "Only human activities"
+      ],
+      "correctAnswer": "Natural variability and human activities"
+    },
+    {
+      "id": 3,
+      "question": "How are Earth air, water and land related in climate change?",
+      "options": [
+        "They operate independently",
+        "Only air affects climate",
+        "They are interdependent, so a change in one place leads to changes elsewhere",
+        "Land and water never interact"
+      ],
+      "correctAnswer": "They are interdependent, so a change in one place leads to changes elsewhere"
+    },
+    {
+      "id": 4,
+      "question": "Why do warmer oceans lead to stronger storms?",
+      "options": [
+        "Warm oceans reflect all sunlight",
+        "Warm oceans produce less evaporation",
+        "Warm oceans stop atmospheric motion",
+        "Oceans absorb more heat from the atmosphere and fuel storms"
+      ],
+      "correctAnswer": "Oceans absorb more heat from the atmosphere and fuel storms"
+    },
+    {
+      "id": 5,
+      "question": "Which phrase distinguishes climate from weather?",
+      "options": [
+        "Climate is measured over years; weather over a day",
+        "Climate is measured in hours; weather over centuries",
+        "Both refer to a single day",
+        "Both refer to decades only"
+      ],
+      "correctAnswer": "Climate is measured over years; weather over a day"
+    },
+    {
+      "id": 6,
+      "question": "What is meant by global climate change?",
+      "options": [
+        "A change in one city for one day",
+        "A pattern of change in global climate over many years",
+        "A temporary shift in wind direction",
+        "A single hurricane season"
+      ],
+      "correctAnswer": "A pattern of change in global climate over many years"
+    },
+    {
+      "id": 7,
+      "question": "Which observed trend do scientists study as an important indicator?",
+      "options": [
+        "The price of fuel",
+        "The number of clouds in one hour",
+        "Earth average temperature",
+        "The depth of a single lake"
+      ],
+      "correctAnswer": "Earth average temperature"
+    },
+    {
+      "id": 8,
+      "question": "What happens when air temperatures rise?",
+      "options": [
+        "Oceans immediately freeze",
+        "The atmosphere loses all moisture",
+        "Sea level drops sharply",
+        "Oceans absorb more heat and become warmer"
+      ],
+      "correctAnswer": "Oceans absorb more heat and become warmer"
+    },
+    {
+      "id": 9,
+      "question": "Which example is used in the textbook to describe a regional climate?",
+      "options": [
+        "The Horn of Africa",
+        "The planet Mars",
+        "The city library",
+        "The Sahara desert only"
+      ],
+      "correctAnswer": "The Horn of Africa"
+    },
+    {
+      "id": 10,
+      "question": "Which statement about climate change consequences is accurate?",
+      "options": [
+        "They affect only temperature readings",
+        "They extend beyond rising temperatures to ecosystems and storms",
+        "They occur only in polar regions",
+        "They last only one season"
+      ],
+      "correctAnswer": "They extend beyond rising temperatures to ecosystems and storms"
+    }
+  ]
+}
