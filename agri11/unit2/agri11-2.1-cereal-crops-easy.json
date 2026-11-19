@@ -1,0 +1,149 @@
+{
+  "title": "2.1 Cereal Crops: General (Easy)",
+  "description": "Characteristics of field crops and cereals, major cereals of Ethiopia and basic management factors",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "cereals",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Field crops are grown on a wide scale mainly for",
+      "options": [
+        "Human consumption",
+        "Animal feed only",
+        "Industrial fiber",
+        "Export markets"
+      ],
+      "correctAnswer": "Human consumption"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Field crops are annuals that complete their life cycle in",
+      "options": [
+        "A single season",
+        "Two seasons",
+        "Three years",
+        "Five years"
+      ],
+      "correctAnswer": "A single season"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The two major groups of field crops are",
+      "options": [
+        "Cereals and pulses",
+        "Roots and tubers",
+        "Oil and fiber",
+        "Forage and sugar"
+      ],
+      "correctAnswer": "Cereals and pulses"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Cereals are grown mainly for their",
+      "options": [
+        "Edible seeds",
+        "Edible roots",
+        "Edible leaves",
+        "Edible stems"
+      ],
+      "correctAnswer": "Edible seeds"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Cereal crops are",
+      "options": [
+        "Monocots",
+        "Dicots",
+        "Legumes",
+        "Oil crops"
+      ],
+      "correctAnswer": "Monocots"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Cereals contain carbohydrates, proteins, fats and",
+      "options": [
+        "Fibers",
+        "Oils",
+        "Vitamins",
+        "Minerals"
+      ],
+      "correctAnswer": "Fibers"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The five major cereals produced in Ethiopia are",
+      "options": [
+        "Teff, maize, wheat, barley, sorghum",
+        "Teff, rice, wheat, barley, oats",
+        "Maize, rice, millet, barley, teff",
+        "Wheat, rice, maize, sorghum, oats"
+      ],
+      "correctAnswer": "Teff, maize, wheat, barley, sorghum"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The principal factor that determines crop production is",
+      "options": [
+        "Crop site selection",
+        "Market price trends",
+        "Family labor supply",
+        "Credit access level"
+      ],
+      "correctAnswer": "Crop site selection"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which factors cannot be fully controlled by the farmer?",
+      "options": [
+        "Bad weather and locusts",
+        "Planting time and spacing",
+        "Fertilizer and lime rates",
+        "Irrigation scheduling"
+      ],
+      "correctAnswer": "Bad weather and locusts"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The soil suitable for root crops differs from that for",
+      "options": [
+        "Cereal or legume crops",
+        "All other crops alike",
+        "Only forage grasses",
+        "Only oil crops"
+      ],
+      "correctAnswer": "Cereal or legume crops"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Management practices include appropriate planting time and",
+      "options": [
+        "Planting distance",
+        "Market price",
+        "Land title",
+        "Credit source"
+      ],
+      "correctAnswer": "Planting distance"
+    }
+  ]
+}

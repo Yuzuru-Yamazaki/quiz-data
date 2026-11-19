@@ -1,0 +1,197 @@
+{
+  "title": "3.3 Sugar Crops: Sugarcane (Easy)",
+  "description": "Basic sugar crop facts, sugarcane products, planting material, maturity and Ethiopian sugar production",
+  "folder": "School/Grade 11/Agriculture/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit3",
+    "sugar-crops",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Sugar crops are grown mainly to supply raw material for",
+      "options": [
+        "Sugar production",
+        "Textile production",
+        "Oil extraction",
+        "Paper making"
+      ],
+      "correctAnswer": "Sugar production"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Examples of sugar crops are",
+      "options": [
+        "Cane and sugar beet",
+        "Cotton and sisal",
+        "Sesame and noug",
+        "Teff and maize grain crops"
+      ],
+      "correctAnswer": "Cane and sugar beet"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The most significant sugar crop in Ethiopia is",
+      "options": [
+        "Sugarcane",
+        "Sugar beet",
+        "Both equally",
+        "Neither crop"
+      ],
+      "correctAnswer": "Sugarcane"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Molasses is the",
+      "options": [
+        "Dark liquid from juice",
+        "Dry fibrous residue",
+        "Green top of cane",
+        "White sugar crystal product"
+      ],
+      "correctAnswer": "Dark liquid from juice"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Bagasse is the",
+      "options": [
+        "Fibrous cane residue",
+        "Dark liquid after boiling",
+        "Green leaves of cane",
+        "White sugar crystals"
+      ],
+      "correctAnswer": "Fibrous cane residue"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Bagasse is used to produce",
+      "options": [
+        "Paper and plastics",
+        "Cooking oil for households",
+        "White sugar",
+        "Animal feed"
+      ],
+      "correctAnswer": "Paper and plastics"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Molasses is used to produce",
+      "options": [
+        "Ethanol",
+        "Paper",
+        "Plastic",
+        "Firewood"
+      ],
+      "correctAnswer": "Ethanol"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Sugarcane takes how long from planting to first harvest?",
+      "options": [
+        "14 to 18 months",
+        "6 to 7 months after planting",
+        "2 to 3 years",
+        "3 to 4 months"
+      ],
+      "correctAnswer": "14 to 18 months"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A ratoon crop is the",
+      "options": [
+        "Regrowth after harvest",
+        "First planted crop",
+        "Crop grown from seed",
+        "A crop cut twice yearly"
+      ],
+      "correctAnswer": "Regrowth after harvest"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Ratoon harvests are limited to",
+      "options": [
+        "2 or 3 times",
+        "5 or 6 times",
+        "Only once",
+        "Many years"
+      ],
+      "correctAnswer": "2 or 3 times"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Sugarcane is propagated using",
+      "options": [
+        "Stem cuttings",
+        "True seeds",
+        "Root suckers",
+        "Leaf cuttings"
+      ],
+      "correctAnswer": "Stem cuttings"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The average length of sugarcane planting cuttings is",
+      "options": [
+        "About 30 cm",
+        "About 10 cm",
+        "About 50 cm",
+        "About 1 m"
+      ],
+      "correctAnswer": "About 30 cm"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The average sugarcane row spacing is",
+      "options": [
+        "1.6 m",
+        "1.0 m",
+        "2.5 m",
+        "0.5 m"
+      ],
+      "correctAnswer": "1.6 m"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "In 2022, Ethiopia had how many state-owned sugar factories?",
+      "options": [
+        "8",
+        "4",
+        "6",
+        "10"
+      ],
+      "correctAnswer": "8"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Ethiopian sugar factories annually produce about",
+      "options": [
+        "400,000 tons",
+        "40,000 tons",
+        "4,000,000 tons",
+        "400 tons"
+      ],
+      "correctAnswer": "400,000 tons"
+    }
+  ]
+}

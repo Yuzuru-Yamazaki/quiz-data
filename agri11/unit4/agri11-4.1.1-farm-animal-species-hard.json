@@ -1,0 +1,185 @@
+{
+  "title": "4.1.1 Farm Animal Species (Hard)",
+  "description": "Detailed species classification, breed numbers, camel types and poultry categories in Ethiopian farming",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "farm-animals",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which species pair is correctly matched to its genus?",
+      "options": [
+        "Cattle-Bos, sheep-Ovis",
+        "Cattle-Ovis, sheep-Bos",
+        "Goat-Bos, camel-Capra",
+        "Cattle-Capra, goat-Bos"
+      ],
+      "correctAnswer": "Cattle-Bos, sheep-Ovis"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "There are over how many cattle breeds in the world?",
+      "options": [
+        "1000",
+        "100",
+        "200",
+        "300"
+      ],
+      "correctAnswer": "1000"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The number of recognized sheep breeds worldwide is over",
+      "options": [
+        "200",
+        "1000",
+        "300",
+        "50"
+      ],
+      "correctAnswer": "200"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The number of distinct goat breeds is over",
+      "options": [
+        "300",
+        "200",
+        "1000",
+        "50"
+      ],
+      "correctAnswer": "300"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A camel with a single hump is the",
+      "options": [
+        "Dromedary",
+        "Bactrian",
+        "Bovine",
+        "Caprine"
+      ],
+      "correctAnswer": "Dromedary"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Camels are classified as",
+      "options": [
+        "Pseudo-ruminant",
+        "True ruminant",
+        "Monogastric",
+        "Avian"
+      ],
+      "correctAnswer": "Pseudo-ruminant"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The stomach of chicken is subdivided into the",
+      "options": [
+        "Proventriculus, gizzard",
+        "Rumen and reticulum",
+        "Crop and cecum",
+        "Omasum, abomasum"
+      ],
+      "correctAnswer": "Proventriculus, gizzard"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The chicken crop functions to",
+      "options": [
+        "Stores food for 12 hours",
+        "Grinds food with grit",
+        "Absorbs water from waste",
+        "Produces acid and enzymes"
+      ],
+      "correctAnswer": "Stores food for 12 hours"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The gizzard is best described as a",
+      "options": [
+        "Grinding chamber",
+        "Glandular acid producer",
+        "Food storage pouch",
+        "Water absorption site"
+      ],
+      "correctAnswer": "Grinding chamber"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The cloaca is where",
+      "options": [
+        "Mixes urine and waste",
+        "Grinds grain particles",
+        "Stores food for hours",
+        "Absorbs nutrients"
+      ],
+      "correctAnswer": "Mixes urine and waste"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Most livestock in Ethiopia are of",
+      "options": [
+        "Local breed",
+        "Hybrid breed",
+        "Exotic breed",
+        "Crossbred only"
+      ],
+      "correctAnswer": "Local breed"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The two most common cattle species in Ethiopia are",
+      "options": [
+        "Bos indicus and Bos taurus",
+        "Bos indicus and Ovis aries",
+        "Bos taurus and Capra hircus",
+        "Ovis aries and Capra hircus"
+      ],
+      "correctAnswer": "Bos indicus and Bos taurus"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Ostrich and turkey are used in Ethiopia",
+      "options": [
+        "On a limited scale",
+        "As the main poultry",
+        "As major milk sources",
+        "As common draft animals"
+      ],
+      "correctAnswer": "On a limited scale"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The main economic roles of honeybees are",
+      "options": [
+        "Pollination and honey",
+        "Meat and milk",
+        "Wool and hides",
+        "Eggs and feathers"
+      ],
+      "correctAnswer": "Pollination and honey"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "title": "3.2 Fiber Crops: Cotton and Sisal (Easy)",
+  "description": "Basic fiber crop terminology, cotton and sisal uses, propagation, spacing and harvesting facts",
+  "folder": "School/Grade 11/Agriculture/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit3",
+    "fiber-crops",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Fiber crops are grown mainly to supply materials for",
+      "options": [
+        "Textiles and industry",
+        "Food and beverages",
+        "Fuels and lubricants for engines",
+        "Fertilizers and lime"
+      ],
+      "correctAnswer": "Textiles and industry"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Examples of fiber crops are",
+      "options": [
+        "Cotton and sisal",
+        "Sesame and noug",
+        "Teff and maize",
+        "Barley and wheat"
+      ],
+      "correctAnswer": "Cotton and sisal"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Cotton lint grows inside a protective case called a",
+      "options": [
+        "Boll",
+        "Pod",
+        "Capsule",
+        "Spike"
+      ],
+      "correctAnswer": "Boll"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Cotton lint is the main raw material of the",
+      "options": [
+        "Textile industry",
+        "Sugar production",
+        "Oil extraction",
+        "Paper making"
+      ],
+      "correctAnswer": "Textile industry"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Cotton requires how long to mature?",
+      "options": [
+        "6 to 7 months",
+        "3 to 4 months",
+        "14 to 18 months",
+        "2 to 3 years"
+      ],
+      "correctAnswer": "6 to 7 months"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Cotton seed is sown at a depth of about",
+      "options": [
+        "8 cm",
+        "2 cm",
+        "5 cm",
+        "10 cm"
+      ],
+      "correctAnswer": "8 cm"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The common cotton spacing is",
+      "options": [
+        "1 m by 30 cm",
+        "50 cm by 10 cm",
+        "25 cm by 10 cm",
+        "2.5 m by 80 cm"
+      ],
+      "correctAnswer": "1 m by 30 cm"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Sisal is believed to have originated in",
+      "options": [
+        "Central America",
+        "Africa",
+        "Asia",
+        "The Middle East region"
+      ],
+      "correctAnswer": "Central America"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Sisal is mainly produced for its",
+      "options": [
+        "Hard fibers",
+        "Edible oil",
+        "Sugar juice",
+        "Cereal grain"
+      ],
+      "correctAnswer": "Hard fibers"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Sisal is propagated",
+      "options": [
+        "Vegetatively",
+        "By seed only",
+        "By spores",
+        "By grafting"
+      ],
+      "correctAnswer": "Vegetatively"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The first sisal leaf harvest is taken",
+      "options": [
+        "2 to 3 years after transplanting",
+        "6 to 7 months after planting",
+        "12 months after transplanting",
+        "14 to 18 months after field planting"
+      ],
+      "correctAnswer": "2 to 3 years after transplanting"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Decortication is the separation of",
+      "options": [
+        "Fiber from leaf",
+        "Seed from boll",
+        "Juice from cane",
+        "Oil from seed"
+      ],
+      "correctAnswer": "Fiber from leaf"
+    }
+  ]
+}

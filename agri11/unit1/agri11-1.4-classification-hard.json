@@ -1,0 +1,233 @@
+{
+  "title": "1.4 Classification of Crop Plants (Hard)",
+  "description": "Applying seed structure, photosynthetic pathways and crop-use categories to unfamiliar cases",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "classification",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "A seed with one cotyledon and food stored in endosperm is a",
+      "options": [
+        "Monocot",
+        "Dicot",
+        "Legume",
+        "Oil seed"
+      ],
+      "correctAnswer": "Monocot"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A seed with two cotyledons storing oil and protein is a",
+      "options": [
+        "Dicot",
+        "Monocot",
+        "Cereal",
+        "Grass"
+      ],
+      "correctAnswer": "Dicot"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which storage-site pair is correctly matched?",
+      "options": [
+        "Monocot-endosperm",
+        "Monocot-cotyledon",
+        "Dicot-endosperm",
+        "Cereal-cotyledon"
+      ],
+      "correctAnswer": "Monocot-endosperm"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Why is C4 photosynthesis advantaged at low CO2?",
+      "options": [
+        "It concentrates CO2 internally",
+        "It avoids using direct sunlight",
+        "It needs more nitrogen",
+        "It opens stomata wider"
+      ],
+      "correctAnswer": "It concentrates CO2 internally"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which comparison of C3 and C4 plants is correct?",
+      "options": [
+        "C4 uses water more efficiently",
+        "C3 uses water more efficiently",
+        "C4 needs more nitrogen",
+        "C3 has higher photosynthetic rate"
+      ],
+      "correctAnswer": "C4 uses water more efficiently"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "A crop whose first stable product has 3 carbons is",
+      "options": [
+        "C3",
+        "C4",
+        "CAM",
+        "C2"
+      ],
+      "correctAnswer": "C3"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The main industrial use of jute fiber is",
+      "options": [
+        "Rope manufacturing",
+        "Cooking oil",
+        "Sugar extraction",
+        "Animal feed"
+      ],
+      "correctAnswer": "Rope manufacturing"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Cotton lint is primarily used for",
+      "options": [
+        "Cloth and sewing thread",
+        "Rope and packaging materials",
+        "Paper and board",
+        "Soap and candles"
+      ],
+      "correctAnswer": "Cloth and sewing thread"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A crop storing food mainly in cotyledons is likely a",
+      "options": [
+        "Dicot",
+        "Monocot",
+        "Cereal",
+        "Grass"
+      ],
+      "correctAnswer": "Dicot"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which description matches the crop group?",
+      "options": [
+        "Oil seeds-oil extraction",
+        "Cereals-fiber production",
+        "Forages-livestock feed",
+        "Sugar crops-sucrose"
+      ],
+      "correctAnswer": "Oil seeds-oil extraction"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which is an essential fatty acid supplied by plant oils?",
+      "options": [
+        "Alpha-linolenic acid",
+        "Stearic acid and its types",
+        "Palmitic acid",
+        "Butyric acid"
+      ],
+      "correctAnswer": "Alpha-linolenic acid"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Forage crops can supply animals with vitamins",
+      "options": [
+        "A and E",
+        "B and C",
+        "C and K",
+        "D and B"
+      ],
+      "correctAnswer": "A and E"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "At a given temperature, C4 crops generally have higher",
+      "options": [
+        "Photosynthetic rates",
+        "Soil pH and soil moisture",
+        "Rainfall",
+        "Altitude"
+      ],
+      "correctAnswer": "Photosynthetic rates"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A grass with one cotyledon that stores starch in endosperm is a",
+      "options": [
+        "Cereal",
+        "Pulse",
+        "Oil seed",
+        "Forage legume"
+      ],
+      "correctAnswer": "Cereal"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which crop serves as both a food grain and an oil source?",
+      "options": [
+        "Maize",
+        "Cotton",
+        "Sisal",
+        "Sugarcane"
+      ],
+      "correctAnswer": "Maize"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Dicot grain protein is incomplete because it lacks some",
+      "options": [
+        "Essential amino acids",
+        "Nonessential amino acids",
+        "Fatty acids",
+        "Vitamins"
+      ],
+      "correctAnswer": "Essential amino acids"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Which crop and photosynthetic type are correctly matched?",
+      "options": [
+        "C3-teff",
+        "C4-teff",
+        "C3-sorghum",
+        "C4-wheat"
+      ],
+      "correctAnswer": "C3-teff"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "C4 plants respond little to higher CO2 because they maintain",
+      "options": [
+        "Internal CO2 concentration",
+        "A complete lack of chlorophyll",
+        "Low water supply",
+        "Excess nitrogen"
+      ],
+      "correctAnswer": "Internal CO2 concentration"
+    }
+  ]
+}

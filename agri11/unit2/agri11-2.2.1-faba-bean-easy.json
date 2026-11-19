@@ -1,0 +1,221 @@
+{
+  "title": "2.2.1 Faba Bean (Easy)",
+  "description": "Importance, adaptation and basic production facts of faba bean",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "faba-bean",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Faba bean is a",
+      "options": [
+        "Pulse crop",
+        "Cereal crop",
+        "Oil crop",
+        "Fiber crop"
+      ],
+      "correctAnswer": "Pulse crop"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Faba bean is also called",
+      "options": [
+        "Broad bean",
+        "Field pea",
+        "Haricot bean",
+        "Chickpea"
+      ],
+      "correctAnswer": "Broad bean"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Faba bean is mainly grown in the",
+      "options": [
+        "Highlands",
+        "Lowlands",
+        "Deserts",
+        "Coasts"
+      ],
+      "correctAnswer": "Highlands"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Faba bean is a",
+      "options": [
+        "Cool season crop",
+        "Warm season crop",
+        "Tropical crop",
+        "Dry season crop"
+      ],
+      "correctAnswer": "Cool season crop"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Faba bean seeds are rich in",
+      "options": [
+        "Protein",
+        "Oil",
+        "Starch",
+        "Fiber"
+      ],
+      "correctAnswer": "Protein"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Faba bean is grown mainly for its",
+      "options": [
+        "Seeds",
+        "Roots",
+        "Leaves",
+        "Stems"
+      ],
+      "correctAnswer": "Seeds"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Faba bean plants have root",
+      "options": [
+        "Nodules",
+        "Tubers",
+        "Bulbs",
+        "Rhizomes"
+      ],
+      "correctAnswer": "Nodules"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Faba bean can fix",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Calcium"
+      ],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Faba bean is a good crop to rotate with",
+      "options": [
+        "Cereals",
+        "Oil crops",
+        "Fiber crops",
+        "Root crops"
+      ],
+      "correctAnswer": "Cereals"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Faba bean pods are harvested when they turn",
+      "options": [
+        "Black and dry",
+        "Green and soft",
+        "Wet and green",
+        "White and soft"
+      ],
+      "correctAnswer": "Black and dry"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The average faba bean yield is about",
+      "options": [
+        "20 to 30 quintals/ha",
+        "10 to 15 quintals/ha",
+        "40 to 50 quintals/ha",
+        "5 to 8 quintals/ha"
+      ],
+      "correctAnswer": "20 to 30 quintals/ha"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Faba bean row spacing is usually",
+      "options": [
+        "40 cm",
+        "15 cm",
+        "75 cm",
+        "18 cm"
+      ],
+      "correctAnswer": "40 cm"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Faba bean planting depth is",
+      "options": [
+        "5 to 8 cm",
+        "2 to 3 cm",
+        "10 to 12 cm",
+        "1 to 2 cm"
+      ],
+      "correctAnswer": "5 to 8 cm"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Chocolate spot is a faba bean",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Faba bean rust is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Faba bean aphids damage the crop by",
+      "options": [
+        "Sucking sap",
+        "Boring pods",
+        "Cutting roots",
+        "Eating leaves"
+      ],
+      "correctAnswer": "Sucking sap"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Bruchids attack stored faba bean",
+      "options": [
+        "Seeds",
+        "Roots",
+        "Leaves",
+        "Pods"
+      ],
+      "correctAnswer": "Seeds"
+    }
+  ]
+}

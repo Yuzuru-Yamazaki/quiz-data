@@ -1,0 +1,137 @@
+{
+  "title": "2.1 Cereal Crops: General (Medium)",
+  "description": "Controlled versus uncontrolled production factors and the role of management inputs",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "cereals",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Factors under the farmer's control include",
+      "options": [
+        "Fertilizer, irrigation, lime",
+        "Rainfall and locust swarms",
+        "Unexpected weather",
+        "Market demand"
+      ],
+      "correctAnswer": "Fertilizer, irrigation, lime"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Fertilizer improves",
+      "options": [
+        "Soil nutrients",
+        "Soil water holding",
+        "Seed germination",
+        "Crop maturity"
+      ],
+      "correctAnswer": "Soil nutrients"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Lime is added to modify",
+      "options": [
+        "Soil acidity",
+        "Soil texture",
+        "Soil color",
+        "Soil depth"
+      ],
+      "correctAnswer": "Soil acidity"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Field crops are annuals because they",
+      "options": [
+        "Finish cycle in one season",
+        "Grow for many years",
+        "Need two full years",
+        "Are harvested repeatedly"
+      ],
+      "correctAnswer": "Finish cycle in one season"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Cereals can grow in",
+      "options": [
+        "Wide environment range",
+        "Only highland areas",
+        "Only lowland areas",
+        "Only irrigated fields"
+      ],
+      "correctAnswer": "Wide environment range"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Cereal seeds have",
+      "options": [
+        "Single cotyledon",
+        "Two cotyledons",
+        "No cotyledon",
+        "Three cotyledons"
+      ],
+      "correctAnswer": "Single cotyledon"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Pulses are dicots and assist with",
+      "options": [
+        "Nitrogen fixation",
+        "Lime production",
+        "Pesticide synthesis",
+        "Seed treatment"
+      ],
+      "correctAnswer": "Nitrogen fixation"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The five major cereals occupy most of the",
+      "options": [
+        "Cereal production area",
+        "Export earnings",
+        "Animal feed supply",
+        "Irrigation water"
+      ],
+      "correctAnswer": "Cereal production area"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A locust invasion is a factor that is",
+      "options": [
+        "Outside farmer control",
+        "Easily managed",
+        "Always predictable",
+        "Under irrigation"
+      ],
+      "correctAnswer": "Outside farmer control"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Crop choice should match crop requirements with",
+      "options": [
+        "Soil, water and climate",
+        "Market prices alone",
+        "Farmer preference only",
+        "Available machinery only"
+      ],
+      "correctAnswer": "Soil, water and climate"
+    }
+  ]
+}

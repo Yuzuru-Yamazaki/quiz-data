@@ -1,0 +1,197 @@
+{
+  "title": "2.2 Pulse Crops: General (Easy)",
+  "description": "Characteristics, importance and basic production facts of pulse crops",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "pulses",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Pulses are the seeds of",
+      "options": [
+        "Legumes",
+        "Cereals",
+        "Oil crops",
+        "Fiber crops"
+      ],
+      "correctAnswer": "Legumes"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Pulses are especially rich in",
+      "options": [
+        "Protein",
+        "Oil",
+        "Starch",
+        "Fiber"
+      ],
+      "correctAnswer": "Protein"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Pulse plants have",
+      "options": [
+        "Two cotyledons",
+        "One cotyledon",
+        "No cotyledon",
+        "Three cotyledons"
+      ],
+      "correctAnswer": "Two cotyledons"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Pulse plants form root",
+      "options": [
+        "Nodules",
+        "Tubers",
+        "Bulbs",
+        "Rhizomes"
+      ],
+      "correctAnswer": "Nodules"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Root nodules of pulses contain",
+      "options": [
+        "Rhizobium bacteria",
+        "Fungal spores",
+        "Viral particles",
+        "Nematode eggs"
+      ],
+      "correctAnswer": "Rhizobium bacteria"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Rhizobium bacteria fix",
+      "options": [
+        "Atmospheric nitrogen",
+        "Soil phosphorus",
+        "Soil potassium",
+        "Atmospheric oxygen"
+      ],
+      "correctAnswer": "Atmospheric nitrogen"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Pulses are important in crop",
+      "options": [
+        "Rotation",
+        "Breeding",
+        "Storage",
+        "Marketing"
+      ],
+      "correctAnswer": "Rotation"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "A major pulse crop in Ethiopia is",
+      "options": [
+        "Faba bean",
+        "Barley",
+        "Maize",
+        "Wheat"
+      ],
+      "correctAnswer": "Faba bean"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Another major pulse crop is",
+      "options": [
+        "Field pea",
+        "Teff",
+        "Sorghum",
+        "Millet"
+      ],
+      "correctAnswer": "Field pea"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Haricot bean is a",
+      "options": [
+        "Pulse crop",
+        "Cereal crop",
+        "Oil crop",
+        "Fiber crop"
+      ],
+      "correctAnswer": "Pulse crop"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Pulses are harvested for their",
+      "options": [
+        "Seeds",
+        "Roots",
+        "Leaves",
+        "Stems"
+      ],
+      "correctAnswer": "Seeds"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Pulse seeds are borne in",
+      "options": [
+        "Pods",
+        "Heads",
+        "Cobs",
+        "Cones"
+      ],
+      "correctAnswer": "Pods"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Pulses can be grown in rotation with",
+      "options": [
+        "Cereals",
+        "Oil crops",
+        "Fiber crops",
+        "Root crops"
+      ],
+      "correctAnswer": "Cereals"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Pulse residues can be used as",
+      "options": [
+        "Animal feed",
+        "Cooking oil",
+        "Textile fiber",
+        "Building stone"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Pulses improve soil fertility by adding",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Calcium"
+      ],
+      "correctAnswer": "Nitrogen"
+    }
+  ]
+}

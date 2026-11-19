@@ -1,0 +1,185 @@
+{
+  "title": "1.1 Common Terms in Crop Production (Medium)",
+  "description": "Comparing agricultural systems and explaining the purpose of their practices",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "terms",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Agriculture differs from hunting and gathering by",
+      "options": [
+        "Deliberate cultivation of crops and rearing animals",
+        "Relying entirely on wild food sources for daily survival",
+        "Moving to find better pasture",
+        "Harvesting forest products only"
+      ],
+      "correctAnswer": "Deliberate cultivation of crops and rearing animals"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The change from hunter-gathering to agriculture took",
+      "options": [
+        "Thousands of years",
+        "A few decades",
+        "A single generation",
+        "Hundreds of years"
+      ],
+      "correctAnswer": "Thousands of years"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Religion may have influenced agriculture because plants and animals were",
+      "options": [
+        "Required for the practice of religion",
+        "Easier to transport",
+        "More productive than all the other crops",
+        "Resistant to all diseases"
+      ],
+      "correctAnswer": "Required for the practice of religion"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Hunter-gatherers selected plants for food based on",
+      "options": [
+        "Ease of harvesting and of transport",
+        "A very high fertilizer requirement each season",
+        "Short storage life",
+        "Uniform seed size"
+      ],
+      "correctAnswer": "Ease of harvesting and of transport"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The use of toxic wild legumes suggests that societies had",
+      "options": [
+        "Detoxifying skills",
+        "Cooking skills only",
+        "Trade networks",
+        "Written records"
+      ],
+      "correctAnswer": "Detoxifying skills"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Root crops were widely used by hunter-gatherers in",
+      "options": [
+        "Tropical regions",
+        "Polar regions",
+        "Desert interiors",
+        "Temperate highlands"
+      ],
+      "correctAnswer": "Tropical regions"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Shifting cultivation is characterized by",
+      "options": [
+        "Abandoning the land after cultivation",
+        "Permanent use of one single plot of land",
+        "Continuous fertilization",
+        "Irrigated crop production"
+      ],
+      "correctAnswer": "Abandoning the land after cultivation"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In settled agriculture, soil bunds are constructed for",
+      "options": [
+        "Erosion control",
+        "Water storage",
+        "Pest control",
+        "Seed selection"
+      ],
+      "correctAnswer": "Erosion control"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Subsistence farming techniques are usually limited to",
+      "options": [
+        "The capacity of the household",
+        "Village capacity",
+        "District capacity",
+        "The full capacity of the national system"
+      ],
+      "correctAnswer": "The capacity of the household"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Shifting cultivation usually involved cultivation for",
+      "options": [
+        "One or two seasons",
+        "Five to ten seasons",
+        "A full decade",
+        "Three to four seasons"
+      ],
+      "correctAnswer": "One or two seasons"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Settled agriculture is supported by",
+      "options": [
+        "The use of yield-enhancing practices",
+        "Frequent relocation",
+        "Extensive fallowing of the land only every year",
+        "Hunting and gathering"
+      ],
+      "correctAnswer": "The use of yield-enhancing practices"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Subsistence farmers may sell excess produce to",
+      "options": [
+        "Generate household income",
+        "Buy improved machinery",
+        "Pay hired labor only",
+        "Export to other countries"
+      ],
+      "correctAnswer": "Generate household income"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Hunter-gatherers used coconut, oil palm and olive as sources of",
+      "options": [
+        "Oil",
+        "Fiber",
+        "Sugar",
+        "Starch"
+      ],
+      "correctAnswer": "Oil"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Early shifting cultivation required cultivating the land for",
+      "options": [
+        "Just one or two seasons",
+        "For five or six seasons",
+        "Until the soil is exhausted",
+        "For a decade without rest"
+      ],
+      "correctAnswer": "Just one or two seasons"
+    }
+  ]
+}

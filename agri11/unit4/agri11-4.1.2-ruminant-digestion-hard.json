@@ -1,0 +1,197 @@
+{
+  "title": "4.1.2 Ruminant and Monogastric Digestion (Hard)",
+  "description": "Digestive sequences, chamber order and functional distinctions across ruminants, horses and poultry",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "digestion",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The correct order of the ruminant stomach chambers is",
+      "options": [
+        "Rumen, reticulum, omasum, abomasum",
+        "Rumen, omasum, reticulum, abomasum",
+        "Reticulum, rumen, abomasum, omasum",
+        "Omasum, abomasum, rumen, reticulum"
+      ],
+      "correctAnswer": "Rumen, reticulum, omasum, abomasum"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "After the abomasum, feed travels through the",
+      "options": [
+        "Small intestine, large intestine, rectum",
+        "Large intestine, small intestine, rectum",
+        "Small intestine, rectum, large intestine",
+        "Cecum, small intestine, rectum"
+      ],
+      "correctAnswer": "Small intestine, large intestine, rectum"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The stomach chamber located between the reticulum and abomasum is the",
+      "options": [
+        "Omasum",
+        "Rumen",
+        "Reticulum",
+        "Cecum"
+      ],
+      "correctAnswer": "Omasum"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The rumen is best described as a",
+      "options": [
+        "Fermentation vat",
+        "Glandular stomach",
+        "Water filter",
+        "Storage pouch"
+      ],
+      "correctAnswer": "Fermentation vat"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The reticulum is called the honeycomb because it",
+      "options": [
+        "Looks like honeycomb",
+        "Tastes like honey",
+        "Produces honey",
+        "Stores honey"
+      ],
+      "correctAnswer": "Looks like honeycomb"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The omasum is called many plies because",
+      "options": [
+        "It has many folds",
+        "It has many glands",
+        "It holds many stones",
+        "It makes many enzymes"
+      ],
+      "correctAnswer": "It has many folds"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The correct path of feed through the horse is",
+      "options": [
+        "Stomach, small intestine, cecum, rectum",
+        "Stomach, cecum, small intestine, rectum",
+        "Small intestine, stomach, cecum, rectum",
+        "Cecum, stomach, small intestine, rectum"
+      ],
+      "correctAnswer": "Stomach, small intestine, cecum, rectum"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The correct path of feed through a chicken is",
+      "options": [
+        "Crop, proventriculus, gizzard, small intestine",
+        "Proventriculus, crop, gizzard, small intestine",
+        "Crop, gizzard, proventriculus, small intestine",
+        "Gizzard, crop, proventriculus, small intestine"
+      ],
+      "correctAnswer": "Crop, proventriculus, gizzard, small intestine"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Acid and enzymes are produced by the",
+      "options": [
+        "Proventriculus",
+        "Muscular gizzard",
+        "Crop",
+        "Ceca"
+      ],
+      "correctAnswer": "Proventriculus"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The gizzard",
+      "options": [
+        "Controls gut motility",
+        "Produces stomach acid",
+        "Stores feed briefly",
+        "Absorbs water"
+      ],
+      "correctAnswer": "Controls gut motility"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The horse cecum and the poultry ceca both",
+      "options": [
+        "Contain microorganisms",
+        "Grind coarse grain",
+        "Store urine",
+        "Produce bile"
+      ],
+      "correctAnswer": "Contain microorganisms"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "A camel is a pseudo-ruminant because it",
+      "options": [
+        "Lacks a rumen",
+        "Has four chambers",
+        "Chews cud always",
+        "Has a single stomach"
+      ],
+      "correctAnswer": "Lacks a rumen"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which monogastric animal has an enlarged cecum for roughage?",
+      "options": [
+        "Horse",
+        "Cow",
+        "Goat",
+        "Sheep"
+      ],
+      "correctAnswer": "Horse"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which farm animal has a crop?",
+      "options": [
+        "Chicken",
+        "Horse",
+        "Cattle",
+        "Camel"
+      ],
+      "correctAnswer": "Chicken"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The structure where urine mixes with waste is the",
+      "options": [
+        "Cloaca",
+        "Cecum pouch",
+        "Crop",
+        "Vent"
+      ],
+      "correctAnswer": "Cloaca"
+    }
+  ]
+}

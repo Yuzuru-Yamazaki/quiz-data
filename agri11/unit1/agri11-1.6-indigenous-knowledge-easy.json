@@ -1,0 +1,185 @@
+{
+  "title": "1.6 Indigenous Knowledge (Easy)",
+  "description": "Local knowledge and examples from Gumuz, Konso, Bale, Gondar and highland communities",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "indigenous-knowledge",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Indigenous knowledge is",
+      "options": [
+        "Traditional or local knowledge",
+        "Modern scientific knowledge",
+        "Imported knowledge",
+        "Laboratory knowledge"
+      ],
+      "correctAnswer": "Traditional or local knowledge"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Indigenous knowledge accumulates over",
+      "options": [
+        "Generations",
+        "Weeks",
+        "Months",
+        "Single years"
+      ],
+      "correctAnswer": "Generations"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Indigenous knowledge often develops independently of",
+      "options": [
+        "Scientific knowledge",
+        "Local culture",
+        "Farming practice",
+        "Community beliefs"
+      ],
+      "correctAnswer": "Scientific knowledge"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The Gumuz believe natural resources are a gift from",
+      "options": [
+        "Yamba",
+        "Nature",
+        "Ancestors",
+        "Government"
+      ],
+      "correctAnswer": "Yamba"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The Konso people are especially known for",
+      "options": [
+        "Terracing",
+        "Irrigation only",
+        "Hunting",
+        "Fishing"
+      ],
+      "correctAnswer": "Terracing"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Konso terraces protect the land against",
+      "options": [
+        "Soil erosion",
+        "Frost damage",
+        "Porcupine attack",
+        "Weed growth"
+      ],
+      "correctAnswer": "Soil erosion"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The Konso also practice traditional",
+      "options": [
+        "Irrigation",
+        "Fertilization",
+        "Mechanization",
+        "Reforestation"
+      ],
+      "correctAnswer": "Irrigation"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Farmers in Bale dig trenches around potato plots to protect against",
+      "options": [
+        "Porcupine attack",
+        "Frost damage",
+        "Soil erosion",
+        "Excess water"
+      ],
+      "correctAnswer": "Porcupine attack"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Gondar farmers move their barns in search of",
+      "options": [
+        "Cow dung",
+        "Water",
+        "Fodder",
+        "Firewood"
+      ],
+      "correctAnswer": "Cow dung"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Highland farmers use kitchen ash to",
+      "options": [
+        "Fertilize soil",
+        "Kill weeds",
+        "Store seed",
+        "Feed animals"
+      ],
+      "correctAnswer": "Fertilize soil"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Kitchen ash is also used to reduce soil",
+      "options": [
+        "Acidity",
+        "Moisture",
+        "Depth",
+        "Color"
+      ],
+      "correctAnswer": "Acidity"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Smoke is used in highland areas to reduce",
+      "options": [
+        "Frost damage",
+        "Insect attack",
+        "Soil erosion",
+        "Weed growth"
+      ],
+      "correctAnswer": "Frost damage"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Indigenous knowledge is often called",
+      "options": [
+        "Home grown or local knowledge",
+        "Scientific or formal knowledge",
+        "Imported or foreign knowledge",
+        "Academic or school knowledge"
+      ],
+      "correctAnswer": "Home grown or local knowledge"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Indigenous knowledge often includes",
+      "options": [
+        "Beliefs and traditions",
+        "Only technical facts",
+        "Only written records",
+        "Only modern tools"
+      ],
+      "correctAnswer": "Beliefs and traditions"
+    }
+  ]
+}

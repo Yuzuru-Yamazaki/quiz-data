@@ -1,0 +1,233 @@
+{
+  "title": "2.1.4 Barley (Easy)",
+  "description": "Origin, uses, types and basic production facts for barley",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "barley",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Barley is a",
+      "options": [
+        "Cool season cereal",
+        "Warm season cereal",
+        "Tropical pulse",
+        "Oil crop"
+      ],
+      "correctAnswer": "Cool season cereal"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Barley is one of the oldest crops domesticated in",
+      "options": [
+        "Ethiopia",
+        "Brazil",
+        "Australia",
+        "Canada"
+      ],
+      "correctAnswer": "Ethiopia"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Barley grain is used to make",
+      "options": [
+        "Porridge",
+        "Pasta",
+        "Macaroni",
+        "Spaghetti"
+      ],
+      "correctAnswer": "Porridge"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Roasted barley grain is eaten as a",
+      "options": [
+        "Snack",
+        "Drink",
+        "Spice",
+        "Oil"
+      ],
+      "correctAnswer": "Snack"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Barley is an important raw material for making",
+      "options": [
+        "Beer",
+        "Wine",
+        "Juice",
+        "Milk"
+      ],
+      "correctAnswer": "Beer"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Barley straw is mainly used as",
+      "options": [
+        "Animal feed",
+        "Cooking oil",
+        "Textile fiber",
+        "Building stone"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Barley can grow up to an altitude of",
+      "options": [
+        "3400 m",
+        "2800 m",
+        "2400 m",
+        "1800 m"
+      ],
+      "correctAnswer": "3400 m"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Barley is mainly grown in the",
+      "options": [
+        "Highlands",
+        "Lowlands",
+        "Deserts",
+        "Coasts"
+      ],
+      "correctAnswer": "Highlands"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Two-row barley is preferred for",
+      "options": [
+        "Malting",
+        "Grazing",
+        "Silage",
+        "Thatching"
+      ],
+      "correctAnswer": "Malting"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Six-row barley is often used for",
+      "options": [
+        "Animal feed",
+        "Malting only",
+        "Brewing only",
+        "Seed only"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Hulless barley is better for",
+      "options": [
+        "Poultry feed",
+        "Beer brewing",
+        "Bedding straw",
+        "Thatch roofing"
+      ],
+      "correctAnswer": "Poultry feed"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The recommended barley seed rate is",
+      "options": [
+        "80 to 100 kg/ha",
+        "100 to 125 kg/ha",
+        "150 to 175 kg/ha",
+        "50 to 60 kg/ha"
+      ],
+      "correctAnswer": "80 to 100 kg/ha"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Barley row spacing is usually",
+      "options": [
+        "15 cm",
+        "18 cm",
+        "75 cm",
+        "25 cm"
+      ],
+      "correctAnswer": "15 cm"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The usual fertilizer rate for barley is",
+      "options": [
+        "41 kg N and 20 kg P",
+        "60 kg N and 26 kg P",
+        "45 kg N and 25 kg P",
+        "32 kg N and 10 kg P"
+      ],
+      "correctAnswer": "41 kg N and 20 kg P"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Barley matures in about",
+      "options": [
+        "90 to 120 days",
+        "120 to 150 days",
+        "60 to 80 days",
+        "160 to 180 days"
+      ],
+      "correctAnswer": "90 to 120 days"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Barley is harvested when the crop turns",
+      "options": [
+        "Yellow",
+        "Green",
+        "Black",
+        "Purple"
+      ],
+      "correctAnswer": "Yellow"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Barley rust is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Barley shoot fly is an",
+      "options": [
+        "Insect pest",
+        "Fungal disease",
+        "Viral disease",
+        "Weed species"
+      ],
+      "correctAnswer": "Insect pest"
+    }
+  ]
+}

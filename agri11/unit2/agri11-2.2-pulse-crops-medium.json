@@ -1,0 +1,209 @@
+{
+  "title": "2.2 Pulse Crops: General (Medium)",
+  "description": "Nitrogen fixation, rotation benefits, harvesting and common pulse problems",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "pulses",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Pulses are dicotyledonous plants, meaning they have",
+      "options": [
+        "Two seed leaves",
+        "One seed leaf",
+        "No seed leaves",
+        "Three seed leaves"
+      ],
+      "correctAnswer": "Two seed leaves"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The bacterium that fixes nitrogen in pulse roots is",
+      "options": [
+        "Rhizobium",
+        "Azotobacter",
+        "Nitrosomonas",
+        "Clostridium"
+      ],
+      "correctAnswer": "Rhizobium"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Nitrogen fixation in pulses occurs in the root",
+      "options": [
+        "Nodules",
+        "Hairs",
+        "Caps",
+        "Tips"
+      ],
+      "correctAnswer": "Nodules"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Pulses are useful in rotation because they",
+      "options": [
+        "Add nitrogen to soil",
+        "Remove all soil water",
+        "Increase soil acidity",
+        "Attract cereal pests"
+      ],
+      "correctAnswer": "Add nitrogen to soil"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Pulse crops are a cheap source of",
+      "options": [
+        "Protein",
+        "Oil",
+        "Starch",
+        "Sugar"
+      ],
+      "correctAnswer": "Protein"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Pulses are usually grown on",
+      "options": [
+        "Well-drained soils",
+        "Waterlogged soils",
+        "Saline soils",
+        "Flooded soils"
+      ],
+      "correctAnswer": "Well-drained soils"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Pulse seed may be treated with",
+      "options": [
+        "Rhizobium inoculant",
+        "Lime powder",
+        "Fungicide only",
+        "Insecticide dust"
+      ],
+      "correctAnswer": "Rhizobium inoculant"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Pulse crops are harvested when the pods are",
+      "options": [
+        "Dry and brown",
+        "Green and soft",
+        "Wet and green",
+        "Black and soft"
+      ],
+      "correctAnswer": "Dry and brown"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A common storage pest of pulses is",
+      "options": [
+        "Bruchid",
+        "Striga",
+        "Aphid",
+        "Termite"
+      ],
+      "correctAnswer": "Bruchid"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Pulse rust is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Pulse wilt is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Aphids damage pulses by",
+      "options": [
+        "Sucking sap",
+        "Boring pods",
+        "Cutting roots",
+        "Eating leaves"
+      ],
+      "correctAnswer": "Sucking sap"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Pod borer damages pulse",
+      "options": [
+        "Pods and seeds",
+        "Roots and nodules",
+        "Leaves and stems",
+        "Flowers and buds"
+      ],
+      "correctAnswer": "Pods and seeds"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Pulses leave nitrogen in the soil for the",
+      "options": [
+        "Next crop",
+        "Previous crop",
+        "Same crop only",
+        "Weed seeds"
+      ],
+      "correctAnswer": "Next crop"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Pulse rotation can reduce the need for",
+      "options": [
+        "Nitrogen fertilizer",
+        "Phosphorus fertilizer",
+        "Potassium fertilizer",
+        "Lime application"
+      ],
+      "correctAnswer": "Nitrogen fertilizer"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Pulse crop residues are used as",
+      "options": [
+        "Animal fodder",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
+      ],
+      "correctAnswer": "Animal fodder"
+    }
+  ]
+}

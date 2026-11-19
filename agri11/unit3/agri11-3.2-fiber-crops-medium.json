@@ -1,0 +1,161 @@
+{
+  "title": "3.2 Fiber Crops: Cotton and Sisal (Medium)",
+  "description": "Applying cotton and sisal management practices, site requirements, harvest indicators and fiber processing",
+  "folder": "School/Grade 11/Agriculture/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit3",
+    "fiber-crops",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Loam soils are suitable for cotton because they",
+      "options": [
+        "Balance drainage and fertility",
+        "Accumulate excess water",
+        "Prevent root growth fully",
+        "Lower nutrient holding capacity"
+      ],
+      "correctAnswer": "Balance drainage and fertility"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Manual weeding in cotton is recommended",
+      "options": [
+        "Twice in the first month",
+        "Once during harvest",
+        "Three times after flowering",
+        "Only after bolls open"
+      ],
+      "correctAnswer": "Twice in the first month"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The demand for cotton is increasing mainly because of the",
+      "options": [
+        "Growing textile industry",
+        "Less cotton area planted",
+        "Lower foreign demand",
+        "Cheaper synthetic fibers"
+      ],
+      "correctAnswer": "Growing textile industry"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Sisal fibers are used to make",
+      "options": [
+        "Ropes, sacks, carpets",
+        "Bread, pasta, flour",
+        "Sugar, molasses, ethanol",
+        "Oil, soap and paint"
+      ],
+      "correctAnswer": "Ropes, sacks, carpets"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The sisal stem is used for",
+      "options": [
+        "Fencing and firewood",
+        "Cooking oil",
+        "White sugar",
+        "Edible grain for household use"
+      ],
+      "correctAnswer": "Fencing and firewood"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Sisal can be grown as a rain-fed crop because it is",
+      "options": [
+        "Drought-resistant",
+        "Needs much water",
+        "Grows in swamps only",
+        "Requires daily irrigation"
+      ],
+      "correctAnswer": "Drought-resistant"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Sisal suckers are transplanted when they reach a height of about",
+      "options": [
+        "40 cm",
+        "10 cm",
+        "80 cm",
+        "1.2 m"
+      ],
+      "correctAnswer": "40 cm"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The common sisal spacing is",
+      "options": [
+        "2.5 m by 80 cm",
+        "1 m by 30 cm",
+        "50 cm by 10 cm",
+        "1.6 m by 30 cm"
+      ],
+      "correctAnswer": "2.5 m by 80 cm"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Sisal leaves are ready for harvest when they reach",
+      "options": [
+        "1.2 m high, 15 cm wide",
+        "0.8 m high, 10 cm wide",
+        "1.5 m high, 20 cm wide",
+        "2.0 m high, 25 cm wide"
+      ],
+      "correctAnswer": "1.2 m high, 15 cm wide"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "After decortication, sisal fiber is",
+      "options": [
+        "Washed and dried",
+        "Boiled in oil",
+        "Dyed and woven",
+        "Ground into flour"
+      ],
+      "correctAnswer": "Washed and dried"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Sisal fibers are also used for",
+      "options": [
+        "Paper and polishing",
+        "Cooking and frying at home",
+        "Sugar refining",
+        "Animal feeding"
+      ],
+      "correctAnswer": "Paper and polishing"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Sisal is widely cultivated in",
+      "options": [
+        "The tropics",
+        "Cold deserts",
+        "Temperate forests",
+        "Polar regions"
+      ],
+      "correctAnswer": "The tropics"
+    }
+  ]
+}

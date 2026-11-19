@@ -1,0 +1,185 @@
+{
+  "title": "2.1.1 Teff (Easy)",
+  "description": "Origin, uses and basic production facts for teff in Ethiopia",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "teff",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Teff is a cereal crop native to",
+      "options": [
+        "Ethiopia",
+        "Mexico",
+        "China",
+        "India"
+      ],
+      "correctAnswer": "Ethiopia"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Teff is used as livestock feed in",
+      "options": [
+        "South Africa",
+        "Ethiopia",
+        "Egypt",
+        "Kenya"
+      ],
+      "correctAnswer": "South Africa"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Teff is free of",
+      "options": [
+        "Gluten",
+        "Starch",
+        "Protein",
+        "Fiber"
+      ],
+      "correctAnswer": "Gluten"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which cereal also lacks gluten?",
+      "options": [
+        "Maize",
+        "Wheat",
+        "Barley",
+        "Rye"
+      ],
+      "correctAnswer": "Maize"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Teff straw is a valuable",
+      "options": [
+        "Animal feed",
+        "Cooking fuel",
+        "Building material",
+        "Mulch only"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Teff ranks first in Ethiopia in",
+      "options": [
+        "Area of production",
+        "Yield per hectare",
+        "Export value",
+        "Seed size"
+      ],
+      "correctAnswer": "Area of production"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Teff can grow from sea level up to",
+      "options": [
+        "2800 m",
+        "1500 m",
+        "2000 m",
+        "3000 m"
+      ],
+      "correctAnswer": "2800 m"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Teff performs well on",
+      "options": [
+        "Loam and clay soils",
+        "Sandy and rocky soils",
+        "Saline and alkaline soils",
+        "Shallow and stony soils"
+      ],
+      "correctAnswer": "Loam and clay soils"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Teff is often planted by",
+      "options": [
+        "Broadcasting",
+        "Dibbling",
+        "Transplanting",
+        "Drilling only"
+      ],
+      "correctAnswer": "Broadcasting"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Teff is usually harvested in highland areas in",
+      "options": [
+        "November/December",
+        "March/April",
+        "June/July",
+        "September/October"
+      ],
+      "correctAnswer": "November/December"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Teff requires a",
+      "options": [
+        "Very smooth seed bed",
+        "Rough cloddy seed bed",
+        "Deep ploughed furrow",
+        "Flooded and puddled field"
+      ],
+      "correctAnswer": "Very smooth seed bed"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The average national yield of teff is",
+      "options": [
+        "14.6 quintals per hectare",
+        "32.5 quintals per hectare",
+        "24.5 quintals per hectare",
+        "19 quintals per hectare"
+      ],
+      "correctAnswer": "14.6 quintals per hectare"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Teff is a rich source of carbohydrates, proteins and",
+      "options": [
+        "Fats",
+        "Oils",
+        "Acids",
+        "Salts"
+      ],
+      "correctAnswer": "Fats"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Teff is also a good source of iron, calcium and",
+      "options": [
+        "Magnesium",
+        "Sodium",
+        "Iodine",
+        "Copper"
+      ],
+      "correctAnswer": "Magnesium"
+    }
+  ]
+}

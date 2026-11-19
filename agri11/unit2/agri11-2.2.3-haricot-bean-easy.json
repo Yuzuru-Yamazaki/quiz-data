@@ -1,0 +1,221 @@
+{
+  "title": "2.2.3 Haricot Bean (Easy)",
+  "description": "Importance, adaptation and basic production facts of haricot bean",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "haricot-bean",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Haricot bean is a",
+      "options": [
+        "Pulse crop",
+        "Cereal crop",
+        "Oil crop",
+        "Fiber crop"
+      ],
+      "correctAnswer": "Pulse crop"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Haricot bean is also called",
+      "options": [
+        "Common bean",
+        "Broad bean",
+        "Field pea",
+        "Chickpea"
+      ],
+      "correctAnswer": "Common bean"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Haricot bean is a",
+      "options": [
+        "Warm season crop",
+        "Cool season crop",
+        "Tropical crop",
+        "Dry season crop"
+      ],
+      "correctAnswer": "Warm season crop"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Haricot bean is mainly grown in",
+      "options": [
+        "Lowlands and mid-altitudes",
+        "High mountains and peaks",
+        "Desert oases and dunes",
+        "Coastal swamps and flats"
+      ],
+      "correctAnswer": "Lowlands and mid-altitudes"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Haricot bean seeds are rich in",
+      "options": [
+        "Protein",
+        "Oil",
+        "Starch",
+        "Fiber"
+      ],
+      "correctAnswer": "Protein"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Haricot bean is grown for its",
+      "options": [
+        "Seeds and pods",
+        "Roots and tubers",
+        "Leaves and stems",
+        "Flowers and buds"
+      ],
+      "correctAnswer": "Seeds and pods"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Haricot bean plants fix",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Calcium"
+      ],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Haricot bean is rotated with",
+      "options": [
+        "Cereals",
+        "Oil crops",
+        "Fiber crops",
+        "Root crops"
+      ],
+      "correctAnswer": "Cereals"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Haricot bean row spacing is usually",
+      "options": [
+        "40 cm",
+        "15 cm",
+        "75 cm",
+        "30 cm"
+      ],
+      "correctAnswer": "40 cm"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Haricot bean planting depth is",
+      "options": [
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "correctAnswer": "5 cm"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The average haricot bean yield is",
+      "options": [
+        "15 to 20 quintals/ha",
+        "20 to 30 quintals/ha",
+        "40 to 50 quintals/ha",
+        "5 to 8 quintals/ha"
+      ],
+      "correctAnswer": "15 to 20 quintals/ha"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Haricot bean is harvested when pods are",
+      "options": [
+        "Dry",
+        "Green",
+        "Wet",
+        "Soft"
+      ],
+      "correctAnswer": "Dry"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Anthracnose is a haricot bean",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Haricot bean rust is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Haricot bean aphids damage the crop by",
+      "options": [
+        "Sucking sap",
+        "Boring pods",
+        "Cutting roots",
+        "Eating leaves"
+      ],
+      "correctAnswer": "Sucking sap"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Bruchids attack stored haricot bean",
+      "options": [
+        "Seeds",
+        "Roots",
+        "Leaves",
+        "Pods"
+      ],
+      "correctAnswer": "Seeds"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Haricot bean is an important",
+      "options": [
+        "Cash crop",
+        "Fiber crop",
+        "Oil crop",
+        "Fodder crop"
+      ],
+      "correctAnswer": "Cash crop"
+    }
+  ]
+}

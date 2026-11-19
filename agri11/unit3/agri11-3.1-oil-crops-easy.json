@@ -1,0 +1,161 @@
+{
+  "title": "3.1 Oil Crops: Sesame and Noug (Easy)",
+  "description": "Basic facts about industrial oil crops, sesame and noug production, adaptation and harvesting",
+  "folder": "School/Grade 11/Agriculture/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit3",
+    "oil-crops",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Industrial crops are produced mainly for use as",
+      "options": [
+        "Raw material for industry",
+        "Direct food for households",
+        "Feed for farm animals",
+        "Decoration of gardens"
+      ],
+      "correctAnswer": "Raw material for industry"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Industrial crops are classified into oil, fiber and",
+      "options": [
+        "Sugar crops",
+        "Cereal crops",
+        "Pulse crops",
+        "Root crops"
+      ],
+      "correctAnswer": "Sugar crops"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Sesame is believed to have originated in",
+      "options": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "America"
+      ],
+      "correctAnswer": "Africa"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Sesame is mainly produced for its",
+      "options": [
+        "Oil",
+        "Fiber",
+        "Sugar",
+        "Starch"
+      ],
+      "correctAnswer": "Oil"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Sesame is adapted to altitudes of up to",
+      "options": [
+        "1200 m",
+        "1800 m",
+        "2000 m",
+        "2800 m"
+      ],
+      "correctAnswer": "1200 m"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Sesame grows best at temperatures of",
+      "options": [
+        "25 to 27 degrees",
+        "10 to 15 degrees",
+        "18 to 20 degrees",
+        "32 to 35 degrees"
+      ],
+      "correctAnswer": "25 to 27 degrees"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The common sesame spacing between rows and plants is",
+      "options": [
+        "50 cm by 10 cm",
+        "25 cm by 10 cm",
+        "40 cm by 10 cm",
+        "75 cm by 25 cm"
+      ],
+      "correctAnswer": "50 cm by 10 cm"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Sesame takes up to how long to mature?",
+      "options": [
+        "5 months",
+        "2 months",
+        "8 months",
+        "12 months"
+      ],
+      "correctAnswer": "5 months"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Noug is an oil crop that originated in",
+      "options": [
+        "Ethiopia",
+        "Central America",
+        "Middle East",
+        "East Asia"
+      ],
+      "correctAnswer": "Ethiopia"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Noug accounts for about what share of food oil production in Ethiopia?",
+      "options": [
+        "One half",
+        "One tenth",
+        "Three quarters",
+        "One quarter"
+      ],
+      "correctAnswer": "One half"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Noug is usually planted in",
+      "options": [
+        "June or July",
+        "March or April",
+        "September or October",
+        "November or December"
+      ],
+      "correctAnswer": "June or July"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The residue left after noug oil extraction is used as",
+      "options": [
+        "Animal feed",
+        "Textile fiber",
+        "Cooking fuel",
+        "Building material"
+      ],
+      "correctAnswer": "Animal feed"
+    }
+  ]
+}

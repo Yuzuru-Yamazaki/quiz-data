@@ -1,0 +1,185 @@
+{
+  "title": "3.3 Sugar Crops: Sugarcane (Hard)",
+  "description": "Quantitative and integrated reasoning on sugarcane cycles, fertilizer management, disease control and industry output",
+  "folder": "School/Grade 11/Agriculture/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit3",
+    "sugar-crops",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Cane planted in January 2020 is first harvested about 15 months later. The harvest is in",
+      "options": [
+        "April 2021",
+        "April 2020",
+        "January 2021",
+        "January 2022"
+      ],
+      "correctAnswer": "April 2021"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "After the first harvest, the ratoon crop is ready in about",
+      "options": [
+        "12 months",
+        "6 months",
+        "18 months",
+        "24 months"
+      ],
+      "correctAnswer": "12 months"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Each sugarcane cutting should have at least",
+      "options": [
+        "2 or 3 buds",
+        "1 bud only",
+        "5 or 6 buds",
+        "No buds"
+      ],
+      "correctAnswer": "2 or 3 buds"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "One cutting is placed every 30 cm along a 100 m row. The number of cuttings is about",
+      "options": [
+        "333",
+        "100",
+        "30",
+        "3000"
+      ],
+      "correctAnswer": "333"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Eight factories together produce 400,000 tons of sugar yearly. The average per factory is",
+      "options": [
+        "50,000 tons",
+        "25,000 tons",
+        "80,000 tons",
+        "400,000 tons"
+      ],
+      "correctAnswer": "50,000 tons"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "When sugar demand exceeds production, the country may need to",
+      "options": [
+        "Import sugar",
+        "Export sugar rapidly",
+        "Cut all cane fields",
+        "Stop sugar refining"
+      ],
+      "correctAnswer": "Import sugar"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Sugarcane grown on poor fertility soil requires",
+      "options": [
+        "Much fertilizer",
+        "No fertilizer at all",
+        "Only lime application",
+        "Less water only"
+      ],
+      "correctAnswer": "Much fertilizer"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Because excess nitrogen delays maturity, ripening cane needs",
+      "options": [
+        "Reduce nitrogen supply",
+        "Increase nitrogen supply",
+        "Add more irrigation",
+        "Remove all leaves"
+      ],
+      "correctAnswer": "Reduce nitrogen supply"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Ratoon stunting disease is caused by a",
+      "options": [
+        "Bacterium",
+        "Fungus",
+        "Virus",
+        "Parasitic weed"
+      ],
+      "correctAnswer": "Bacterium"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The critical weeding period for sugarcane ends",
+      "options": [
+        "14 weeks after planting",
+        "3 weeks after planting",
+        "14 weeks before planting",
+        "At harvest time"
+      ],
+      "correctAnswer": "14 weeks after planting"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which of these is a state-owned sugar factory in Ethiopia?",
+      "options": [
+        "Wonji-Shewa",
+        "Nura-Era Estate",
+        "Bako",
+        "Jimma"
+      ],
+      "correctAnswer": "Wonji-Shewa"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Converting molasses into ethanol is an example of",
+      "options": [
+        "By-product industrial use",
+        "Direct human food",
+        "Animal feed supplement",
+        "Fertilizer production plant"
+      ],
+      "correctAnswer": "By-product industrial use"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Using bagasse as firewood is an example of",
+      "options": [
+        "Direct energy use",
+        "Food production",
+        "Fiber processing stage",
+        "Seed storage"
+      ],
+      "correctAnswer": "Direct energy use"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A farmer plants cane in rows 1.6 m apart on a field 32 m wide. The number of rows is",
+      "options": [
+        "20",
+        "16",
+        "32",
+        "51"
+      ],
+      "correctAnswer": "20"
+    }
+  ]
+}

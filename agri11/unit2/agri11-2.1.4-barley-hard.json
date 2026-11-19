@@ -1,0 +1,185 @@
+{
+  "title": "2.1.4 Barley (Hard)",
+  "description": "Choosing barley types and explaining adaptation, quality and harvest decisions",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "barley",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Barley grows at higher altitudes than most cereals because it is",
+      "options": [
+        "Cold tolerant",
+        "Heat tolerant",
+        "Salt tolerant",
+        "Drought tolerant"
+      ],
+      "correctAnswer": "Cold tolerant"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A farmer wants barley for malting. The best choice is",
+      "options": [
+        "Two-row barley",
+        "Six-row barley",
+        "Hulless barley",
+        "Wild barley"
+      ],
+      "correctAnswer": "Two-row barley"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "A farmer wants feed for chickens. The best barley type is",
+      "options": [
+        "Hulless barley",
+        "Two-row barley",
+        "Six-row barley",
+        "Wild barley"
+      ],
+      "correctAnswer": "Hulless barley"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Why is barley important in Ethiopia's highlands?",
+      "options": [
+        "It tolerates cold and poor soil",
+        "It requires much irrigation",
+        "It grows only in lowlands",
+        "It has a very long growing season"
+      ],
+      "correctAnswer": "It tolerates cold and poor soil"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Barley is used in brewing because its grain contains",
+      "options": [
+        "Fermentable sugars",
+        "Large amounts of fiber",
+        "Large amounts of oil",
+        "A very hard husk"
+      ],
+      "correctAnswer": "Fermentable sugars"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The main reason barley is roasted before eating is to improve",
+      "options": [
+        "Flavor and digestibility",
+        "Color and seed weight",
+        "Moisture and seed size",
+        "Husk and grain color"
+      ],
+      "correctAnswer": "Flavor and digestibility"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Barley is more suitable than maize for highland areas because barley is",
+      "options": [
+        "Cold tolerant",
+        "Heat tolerant",
+        "Salt tolerant",
+        "Water loving"
+      ],
+      "correctAnswer": "Cold tolerant"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Wild oat and ryegrass in barley are",
+      "options": [
+        "Weeds",
+        "Diseases",
+        "Insects",
+        "Viruses"
+      ],
+      "correctAnswer": "Weeds"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Scald, net blotch and rust on barley are all",
+      "options": [
+        "Fungal diseases",
+        "Viral diseases",
+        "Insect pests",
+        "Nutrient disorders"
+      ],
+      "correctAnswer": "Fungal diseases"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Barley shoot fly and aphids are",
+      "options": [
+        "Insect pests",
+        "Fungal diseases",
+        "Viral diseases",
+        "Weed species"
+      ],
+      "correctAnswer": "Insect pests"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Barley should be harvested when the spikes are yellow to avoid",
+      "options": [
+        "Grain shattering",
+        "More tillering",
+        "New leaf growth",
+        "Root expansion"
+      ],
+      "correctAnswer": "Grain shattering"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Barley seed is sown at 80-100 kg/ha to",
+      "options": [
+        "Establish good plant stand",
+        "Reduce fertilizer need",
+        "Increase straw length",
+        "Delay crop maturity"
+      ],
+      "correctAnswer": "Establish good plant stand"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Barley is threshed after sun drying mainly to",
+      "options": [
+        "Reduce grain moisture",
+        "Increase grain size",
+        "Improve straw color",
+        "Kill weed seeds"
+      ],
+      "correctAnswer": "Reduce grain moisture"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Barley is described as a dual-purpose crop because it provides",
+      "options": [
+        "Grain and straw",
+        "Oil and fiber",
+        "Sugar and syrup",
+        "Latex and resin"
+      ],
+      "correctAnswer": "Grain and straw"
+    }
+  ]
+}

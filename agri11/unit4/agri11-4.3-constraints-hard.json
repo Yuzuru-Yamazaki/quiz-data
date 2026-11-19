@@ -1,0 +1,197 @@
+{
+  "title": "4.3 Constraints and Mitigation (Hard)",
+  "description": "Diagnosing interactions among feed, breed, disease and service constraints and selecting appropriate responses",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "constraints",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The primary feed problem in Ethiopia is best summarized as",
+      "options": [
+        "Low quality, seasonal shortage",
+        "High protein with over supply",
+        "Low labour, high capital",
+        "Poor breeds, weak markets"
+      ],
+      "correctAnswer": "Low quality, seasonal shortage"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Chopping mature grass and mixing it with molasses mainly improves",
+      "options": [
+        "Energy and intake",
+        "Crude protein only",
+        "Mineral content only",
+        "Vitamin content only"
+      ],
+      "correctAnswer": "Energy and intake"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Feeding young grass at 30% flowering mainly improves",
+      "options": [
+        "Digestibility and protein",
+        "Fibre and bulk feed content",
+        "Water and ash",
+        "Fat and energy"
+      ],
+      "correctAnswer": "Digestibility and protein"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Locally adapted but low yielding breeds are improved by",
+      "options": [
+        "Crossing with exotic",
+        "Pure local breeding",
+        "Wild relatives",
+        "Herd expansion"
+      ],
+      "correctAnswer": "Crossing with exotic"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "In pastoral farming meat is a by-product because emphasis is on",
+      "options": [
+        "Milk and capital",
+        "Meat and hides",
+        "Wool and eggs",
+        "Draft and manure"
+      ],
+      "correctAnswer": "Milk and capital"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Selling animals only when a need arises shows absence of",
+      "options": [
+        "Entrepreneurial awareness",
+        "Veterinary services access",
+        "Feed resources",
+        "Animal breeds"
+      ],
+      "correctAnswer": "Entrepreneurial awareness"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which constraint most directly limits preservation of perishable products?",
+      "options": [
+        "Electric power scarcity",
+        "Weak extension services",
+        "Poor market information",
+        "Shortage of technologies"
+      ],
+      "correctAnswer": "Electric power scarcity"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Weak extension services are best addressed by",
+      "options": [
+        "Strong extension system",
+        "Herd expansion",
+        "Feed importation programme",
+        "Price subsidy"
+      ],
+      "correctAnswer": "Strong extension system"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Improved feed production should combine grasses with",
+      "options": [
+        "Legumes",
+        "Cereals",
+        "Roots",
+        "Oilseeds"
+      ],
+      "correctAnswer": "Legumes"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which disease set mainly affects cattle?",
+      "options": [
+        "Anthrax, blackleg and CBPP",
+        "Newcastle, anthrax and blackleg",
+        "CBPP, Newcastle and blackleg",
+        "Anthrax, Newcastle and CBPP"
+      ],
+      "correctAnswer": "Anthrax, blackleg and CBPP"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Newcastle disease is prevented mainly by",
+      "options": [
+        "Vaccination",
+        "Deworming",
+        "Dipping",
+        "Castration"
+      ],
+      "correctAnswer": "Vaccination"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Pastoralists sell livestock during feed shortage because livestock serve as their",
+      "options": [
+        "Savings account",
+        "Draft source",
+        "Milk source",
+        "Meat source"
+      ],
+      "correctAnswer": "Savings account"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which practice improves feed quality most directly?",
+      "options": [
+        "Chopping, adding molasses",
+        "Grazing natural pasture only",
+        "Feeding crop residues alone",
+        "Increasing herd size only"
+      ],
+      "correctAnswer": "Chopping, adding molasses"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Credit and saving services mainly enable farmers to",
+      "options": [
+        "Invest in inputs",
+        "Move herds seasonally",
+        "Redistribute land",
+        "Fix market prices"
+      ],
+      "correctAnswer": "Invest in inputs"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which constraint and mitigation pair is correctly matched?",
+      "options": [
+        "Weak extension-training",
+        "Feed surplus-expand feed",
+        "Good roads-build roads",
+        "Strong credit-more credit"
+      ],
+      "correctAnswer": "Weak extension-training"
+    }
+  ]
+}

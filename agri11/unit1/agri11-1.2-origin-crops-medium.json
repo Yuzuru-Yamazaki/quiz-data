@@ -1,0 +1,161 @@
+{
+  "title": "1.2 Origin of Domesticated Crops (Medium)",
+  "description": "Reasons for plant selection, the long transition to farming and evidence from wild foods",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "origins",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The change from hunting to agriculture took place over",
+      "options": [
+        "Thousands of years",
+        "A few centuries",
+        "One generation",
+        "Several decades"
+      ],
+      "correctAnswer": "Thousands of years"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Evolution of agricultural economies transformed",
+      "options": [
+        "Wild plant species into fully domesticated ones",
+        "Domesticated plant types back into wild plant types",
+        "Forests into grasslands only",
+        "Soils into infertile land"
+      ],
+      "correctAnswer": "Wild plant species into fully domesticated ones"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Religion may have preserved certain plants because they were needed for",
+      "options": [
+        "Religious practices",
+        "Market sale",
+        "Animal feed",
+        "Soil fertility improvement"
+      ],
+      "correctAnswer": "Religious practices"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Hunter-gatherers valued plants with high",
+      "options": [
+        "Predictability and seasonal distribution of yield",
+        "A very high input and labour requirement for the farmers",
+        "Toxicity and bitter taste",
+        "Late maturity and shattering"
+      ],
+      "correctAnswer": "Predictability and seasonal distribution of yield"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "There is no strong evidence on how hunter-gatherers",
+      "options": [
+        "Chose their food sources",
+        "Built their shelters",
+        "Made their clothing",
+        "Treated their diseases"
+      ],
+      "correctAnswer": "Chose their food sources"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The detoxification of wild legumes was based on",
+      "options": [
+        "Trial and error",
+        "Scientific experiment",
+        "Written instruction",
+        "Formal education"
+      ],
+      "correctAnswer": "Trial and error"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In tropical regions, hunter-gatherers relied heavily on",
+      "options": [
+        "Root crops",
+        "Cereal grains",
+        "Oil seeds",
+        "Leafy vegetables"
+      ],
+      "correctAnswer": "Root crops"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Wild rice, grasses, oats and legumes are examples of",
+      "options": [
+        "Wild plant foods",
+        "Domesticated cereals",
+        "Industrial crops",
+        "Forage grasses"
+      ],
+      "correctAnswer": "Wild plant foods"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The transition to agriculture is best explained by",
+      "options": [
+        "Many possible reasons developed over a long time",
+        "A single sudden invention by a group of farmers",
+        "One religious event only",
+        "A government decision"
+      ],
+      "correctAnswer": "Many possible reasons developed over a long time"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Climatic tolerance helped selected plants to",
+      "options": [
+        "Survive where selected",
+        "Resist all pests and diseases",
+        "Store for long",
+        "Germinate quickly"
+      ],
+      "correctAnswer": "Survive where selected"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Extracted legume poisons were used by hunter-gatherers for",
+      "options": [
+        "Hunting",
+        "Farming",
+        "Cooking",
+        "Weaving"
+      ],
+      "correctAnswer": "Hunting"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Wild onions and sweet potatoes show use of",
+      "options": [
+        "Root and bulb crops",
+        "Only cereal grains",
+        "Only tree fruits",
+        "Only wild meat"
+      ],
+      "correctAnswer": "Root and bulb crops"
+    }
+  ]
+}

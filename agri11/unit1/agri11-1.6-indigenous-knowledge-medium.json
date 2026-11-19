@@ -1,0 +1,185 @@
+{
+  "title": "1.6 Indigenous Knowledge (Medium)",
+  "description": "How local communities use observation, beliefs and practices to solve agricultural problems",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "indigenous-knowledge",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Indigenous knowledge is unique to a particular",
+      "options": [
+        "Culture",
+        "Country",
+        "Continent",
+        "Climate"
+      ],
+      "correctAnswer": "Culture"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Indigenous knowledge often develops from problems related to",
+      "options": [
+        "Agricultural production",
+        "Industrial manufacturing",
+        "Urban planning",
+        "International trade"
+      ],
+      "correctAnswer": "Agricultural production"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Indigenous knowledge is based on long periods of",
+      "options": [
+        "Observation and experience",
+        "Formal education and training",
+        "Laboratory testing",
+        "Written research"
+      ],
+      "correctAnswer": "Observation and experience"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The Gumuz view natural resources as sources of livelihood for",
+      "options": [
+        "Past, present and future generations",
+        "Only the present generation of local people",
+        "Only past generations",
+        "Only future generations"
+      ],
+      "correctAnswer": "Past, present and future generations"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The Konso landscape is extensively terraced to protect against",
+      "options": [
+        "Soil erosion",
+        "Frost damage",
+        "Animal attack",
+        "Excess fertility"
+      ],
+      "correctAnswer": "Soil erosion"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Konso irrigation supplements",
+      "options": [
+        "Unpredictable and variable rainfall",
+        "Fertilizer application by the local farmers",
+        "Improved seed supply",
+        "Farm machinery use"
+      ],
+      "correctAnswer": "Unpredictable and variable rainfall"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Moving barns between farmlands helps Gondar farmers obtain",
+      "options": [
+        "Cow dung for fertilizer",
+        "Water for irrigation",
+        "Fodder for animals",
+        "Wood for construction"
+      ],
+      "correctAnswer": "Cow dung for fertilizer"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Kitchen ash is used because it fertilizes soil and reduces",
+      "options": [
+        "Soil acidity",
+        "Soil moisture",
+        "Crop height",
+        "Seed size"
+      ],
+      "correctAnswer": "Soil acidity"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Smoke is used to reduce frost damage in",
+      "options": [
+        "Highland areas",
+        "Lowland areas",
+        "Coastal areas",
+        "Desert areas"
+      ],
+      "correctAnswer": "Highland areas"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Indigenous knowledge develops from challenges such as land degradation and",
+      "options": [
+        "Soil erosion",
+        "Rising yields",
+        "New machinery",
+        "Formal education"
+      ],
+      "correctAnswer": "Soil erosion"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Communities understand their environment through",
+      "options": [
+        "Observation and experience",
+        "Laboratory experiments",
+        "Formal textbooks",
+        "Government reports"
+      ],
+      "correctAnswer": "Observation and experience"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The Gumuz belief that resources are a blessing of Yamba shows",
+      "options": [
+        "A cultural relationship with nature",
+        "A formal scientific management model of nature",
+        "A commercial market view",
+        "An industrial production view"
+      ],
+      "correctAnswer": "A cultural relationship with nature"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Trenches around potato plots in Bale respond to",
+      "options": [
+        "Wild animal damage",
+        "Soil salinity",
+        "Weed competition",
+        "Seed shortage"
+      ],
+      "correctAnswer": "Wild animal damage"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Indigenous knowledge often addresses",
+      "options": [
+        "Small landholdings and social settings",
+        "Very large commercial farming estates only",
+        "National export targets",
+        "International markets"
+      ],
+      "correctAnswer": "Small landholdings and social settings"
+    }
+  ]
+}

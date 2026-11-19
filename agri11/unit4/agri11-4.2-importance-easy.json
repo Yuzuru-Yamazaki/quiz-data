@@ -1,0 +1,197 @@
+{
+  "title": "4.2 Importance of Animal Production (Easy)",
+  "description": "Core roles of farm animals in food, work, clothing, raw materials and society",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "importance",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Animal production is also called",
+      "options": [
+        "Animal husbandry",
+        "Crop husbandry",
+        "Farm ecology",
+        "Animal health"
+      ],
+      "correctAnswer": "Animal husbandry"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Farm animals are primarily reared for",
+      "options": [
+        "Food production",
+        "Manure supply",
+        "Traction power",
+        "Income generation"
+      ],
+      "correctAnswer": "Food production"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Draught animals provide",
+      "options": [
+        "Pulling power",
+        "Milk supply",
+        "Meat supply",
+        "Wool supply"
+      ],
+      "correctAnswer": "Pulling power"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which animals are used to transport people and goods?",
+      "options": [
+        "Camels, donkeys, horses",
+        "Sheep, goats, cattle and bees",
+        "Poultry, pigs, bees",
+        "Fish, bees, rabbits"
+      ],
+      "correctAnswer": "Camels, donkeys, horses"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The share of global food protein supplied by farm animals is",
+      "options": [
+        "34%",
+        "16%",
+        "45%",
+        "65%"
+      ],
+      "correctAnswer": "34%"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Animal production provides livelihood for what share of Ethiopia's population?",
+      "options": [
+        "65%",
+        "34%",
+        "45%",
+        "48%"
+      ],
+      "correctAnswer": "65%"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Since 2018, livestock contributed what share of agricultural GDP?",
+      "options": [
+        "45 to 48%",
+        "16 to 19%",
+        "34 to 38%",
+        "60 to 65%"
+      ],
+      "correctAnswer": "45 to 48%"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Livestock accounts for what share of Ethiopia's total export earnings?",
+      "options": [
+        "16 to 19%",
+        "45 to 48%",
+        "3 to 6%",
+        "30 to 34%"
+      ],
+      "correctAnswer": "16 to 19%"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The two most important categories of animal work are",
+      "options": [
+        "Traction, transport",
+        "Milking, shearing",
+        "Feeding, breeding",
+        "Ploughing, sowing"
+      ],
+      "correctAnswer": "Traction, transport"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Poultry feathers are used to make",
+      "options": [
+        "Mattresses and pillows",
+        "Bags and drums",
+        "Candles and soap",
+        "Hormones and drugs"
+      ],
+      "correctAnswer": "Mattresses and pillows"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Animal fats are used to make",
+      "options": [
+        "Candles and soap",
+        "Bags and drums",
+        "Pillows and mats",
+        "Hormones and drugs"
+      ],
+      "correctAnswer": "Candles and soap"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Animal bones and hooves are used to make",
+      "options": [
+        "Adhesives",
+        "Candles",
+        "Soap",
+        "Ink"
+      ],
+      "correctAnswer": "Adhesives"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "In traditional society, social wealth is commonly measured by",
+      "options": [
+        "Cattle ownership",
+        "House size",
+        "Crop harvest",
+        "Farm tools"
+      ],
+      "correctAnswer": "Cattle ownership"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Keeping livestock as savings and insurance is a",
+      "options": [
+        "Socio-cultural role",
+        "Feed shortage issue",
+        "Genetic factor",
+        "Disease control measure"
+      ],
+      "correctAnswer": "Socio-cultural role"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Manure from farm animals improves",
+      "options": [
+        "Soil fertility",
+        "Milk yield",
+        "Wool quality",
+        "Egg size"
+      ],
+      "correctAnswer": "Soil fertility"
+    }
+  ]
+}

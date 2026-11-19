@@ -1,0 +1,185 @@
+{
+  "title": "2.1.2 Maize (Hard)",
+  "description": "Interpreting maize management choices, harvest timing, storage and pest complexes",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "maize",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "One maize variety matures in 3 months and another in 5. This is due to",
+      "options": [
+        "Maturity class",
+        "Planting depth",
+        "Row spacing",
+        "Seed color"
+      ],
+      "correctAnswer": "Maturity class"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Why can maize remain in the field longer than wheat?",
+      "options": [
+        "It stays on the cob",
+        "It has no husk",
+        "It matures earlier",
+        "It needs no drying"
+      ],
+      "correctAnswer": "It stays on the cob"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Planting maize at 75 cm between rows and 25 cm within rows describes",
+      "options": [
+        "Planting spacing",
+        "Planting depth",
+        "Fertilizer rate",
+        "Seed rate only"
+      ],
+      "correctAnswer": "Planting spacing"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Earthing up around maize stems mainly prevents",
+      "options": [
+        "Lodging by wind",
+        "Attack by birds",
+        "Loss of soil water",
+        "Weed germination"
+      ],
+      "correctAnswer": "Lodging by wind"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Harvesting maize at 25% moisture and drying to 13% aims to",
+      "options": [
+        "Improve storage life",
+        "Increase seed size",
+        "Improve husk color",
+        "Reduce plant height"
+      ],
+      "correctAnswer": "Improve storage life"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which herbicide timing is correct?",
+      "options": [
+        "Atrazine before weed emergence",
+        "Atrazine after weed emergence",
+        "2,4-D before weed emergence",
+        "2,4-D at maize harvest"
+      ],
+      "correctAnswer": "Atrazine before weed emergence"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Rust and gray leaf spot on maize are",
+      "options": [
+        "Fungal diseases",
+        "Viral diseases",
+        "Insect pests",
+        "Nutrient deficiencies"
+      ],
+      "correctAnswer": "Fungal diseases"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Maize straw and cobs are used as firewood after",
+      "options": [
+        "Grain is removed",
+        "Grains are milled",
+        "Husks are soaked",
+        "Silage is fermented"
+      ],
+      "correctAnswer": "Grain is removed"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Maize is mixed with haricot bean mainly because the legume can",
+      "options": [
+        "Improve soil nitrogen",
+        "Shade the maize crop",
+        "Reduce maize height",
+        "Attract more pests"
+      ],
+      "correctAnswer": "Improve soil nitrogen"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A farmer plows only once and uses herbicides. This works because",
+      "options": [
+        "Chemicals control weeds",
+        "Maize needs no seedbed",
+        "Soil is always moist",
+        "Plowing increases pests"
+      ],
+      "correctAnswer": "Chemicals control weeds"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Maize leads in yield per unit area but ranks second in",
+      "options": [
+        "Production area",
+        "Market price",
+        "Seed size",
+        "Labor demand"
+      ],
+      "correctAnswer": "Production area"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Which maize disease and type are correctly matched?",
+      "options": [
+        "Strike virus-viral",
+        "Rust-viral",
+        "Blight-viral",
+        "Gray leaf spot-viral"
+      ],
+      "correctAnswer": "Strike virus-viral"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The maize husk protects seeds from rain and",
+      "options": [
+        "Birds",
+        "Insects",
+        "Wind",
+        "Frost"
+      ],
+      "correctAnswer": "Birds"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "To store maize safely, grain moisture should be reduced to",
+      "options": [
+        "13% or lower",
+        "25% or lower",
+        "30% or lower",
+        "20% or lower"
+      ],
+      "correctAnswer": "13% or lower"
+    }
+  ]
+}

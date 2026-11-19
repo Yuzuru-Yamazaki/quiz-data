@@ -1,0 +1,137 @@
+{
+  "title": "3.1 Oil Crops: Sesame and Noug (Hard)",
+  "description": "Integrated analysis of oil crop adaptation, variety selection, yield calculation and quality losses",
+  "folder": "School/Grade 11/Agriculture/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit3",
+    "oil-crops",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "A crop suited to semi-arid lowland up to 1200 m, 25 to 27 degrees, sandy loam and 50 cm by 10 cm spacing is",
+      "options": [
+        "Sesame",
+        "Noug",
+        "Cotton",
+        "Sisal"
+      ],
+      "correctAnswer": "Sesame"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A field often accumulates water after heavy rain. Which oil crop is more suitable?",
+      "options": [
+        "Noug",
+        "Sesame",
+        "Cotton",
+        "Groundnut"
+      ],
+      "correctAnswer": "Noug"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Sesame yields 7.4 quintals per hectare. A farmer plants 20 hectares. The expected yield is",
+      "options": [
+        "148 quintals",
+        "74 quintals",
+        "14.8 quintals",
+        "740 quintals"
+      ],
+      "correctAnswer": "148 quintals"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The altitude range suitable for noug is",
+      "options": [
+        "1800 to 2000 m",
+        "1200 to 1800 m",
+        "2000 to 2800 m",
+        "500 to 1500 m"
+      ],
+      "correctAnswer": "1800 to 2000 m"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Harvesting noug too early reduces yield quality because it causes",
+      "options": [
+        "Deformed seed shape",
+        "Seed becomes too hard",
+        "Oil content rises too high",
+        "Seed color becomes black"
+      ],
+      "correctAnswer": "Deformed seed shape"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "A farmer wants a clean sesame field because the crop is weak against weeds during",
+      "options": [
+        "Early growth stages",
+        "Late pod filling",
+        "Harvesting period of the crop",
+        "Dry season only"
+      ],
+      "correctAnswer": "Early growth stages"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Sesame is broadcast or row planted. The row spacing used is",
+      "options": [
+        "50 cm",
+        "25 cm",
+        "75 cm",
+        "100 cm"
+      ],
+      "correctAnswer": "50 cm"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Noug seed is drilled at a depth of about",
+      "options": [
+        "2 cm",
+        "5 cm",
+        "8 cm",
+        "10 cm"
+      ],
+      "correctAnswer": "2 cm"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Compared with sesame, noug becomes competitive against weeds",
+      "options": [
+        "As it grows",
+        "Only at emergence",
+        "Only after harvest",
+        "Never at any stage"
+      ],
+      "correctAnswer": "As it grows"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Sesame harvest is complete when the yellowing begins in",
+      "options": [
+        "One third of leaves, stems and pods",
+        "Every leaf and stem in the field",
+        "Only the roots below ground",
+        "Only the flowers that grow on the plant"
+      ],
+      "correctAnswer": "One third of leaves, stems and pods"
+    }
+  ]
+}

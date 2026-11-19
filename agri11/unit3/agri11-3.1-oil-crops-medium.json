@@ -1,0 +1,161 @@
+{
+  "title": "3.1 Oil Crops: Sesame and Noug (Medium)",
+  "description": "Applying sesame and noug production practices, soil and moisture requirements, weeding and harvest decisions",
+  "folder": "School/Grade 11/Agriculture/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit3",
+    "oil-crops",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Sandy loam soils are suitable for sesame mainly because they",
+      "options": [
+        "Drain excess moisture",
+        "Hold excess moisture",
+        "Add organic matter",
+        "Lower soil temperature"
+      ],
+      "correctAnswer": "Drain excess moisture"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Heavy rain during sesame flowering lowers yield because",
+      "options": [
+        "Flowers drop off",
+        "Roots rot fully",
+        "Leaves turn yellow",
+        "Seeds germinate early"
+      ],
+      "correctAnswer": "Flowers drop off"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Sesame is ready for harvest when",
+      "options": [
+        "A third of pods turn yellow",
+        "All pods have burst open",
+        "Half of the plants are in full flower",
+        "Every leaf turns brown"
+      ],
+      "correctAnswer": "A third of pods turn yellow"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Delaying sesame harvest mainly causes",
+      "options": [
+        "Pods split and shed seeds",
+        "Stems become too hard and woody",
+        "Leaves rot in the field",
+        "Roots pull from soil"
+      ],
+      "correctAnswer": "Pods split and shed seeds"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Noug can survive after rains stop because it uses",
+      "options": [
+        "Residual soil moisture",
+        "Heavy irrigation supplied",
+        "Deep ground water table",
+        "Frequent dew at night"
+      ],
+      "correctAnswer": "Residual soil moisture"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Noug performs well on",
+      "options": [
+        "Clay that accumulates water",
+        "Sandy loam that drains fast",
+        "Rocky soil with low water",
+        "Saline soil with poor structure"
+      ],
+      "correctAnswer": "Clay that accumulates water"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Two parasitic weeds that attack noug are",
+      "options": [
+        "Dodder and orobanche",
+        "Striga and dodder",
+        "Orobanche and striga",
+        "Mistletoe and dodder"
+      ],
+      "correctAnswer": "Dodder and orobanche"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The recommended control for noug parasitic weeds is to",
+      "options": [
+        "Uproot and burn them early",
+        "Spray them after they have set seed",
+        "Bury them after harvest",
+        "Grow with cereal crops"
+      ],
+      "correctAnswer": "Uproot and burn them early"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "High rainfall reduces cotton quality because the lint",
+      "options": [
+        "Becomes discolored",
+        "Fails to form bolls",
+        "Seeds fail to germinate",
+        "Stems become too tall"
+      ],
+      "correctAnswer": "Becomes discolored"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Cotton seeds are treated with acid in order to",
+      "options": [
+        "Remove hairs on seed",
+        "Kill insects inside seed",
+        "Increase seed weight",
+        "Improve seed color"
+      ],
+      "correctAnswer": "Remove hairs on seed"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Cotton is ready for harvest when",
+      "options": [
+        "Half the plants' bolls burst",
+        "All leaves have fallen off",
+        "One third of pods are yellow",
+        "Bolls remain fully closed"
+      ],
+      "correctAnswer": "Half the plants' bolls burst"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The fiber of sisal is obtained from the",
+      "options": [
+        "Leaf",
+        "Stem",
+        "Root",
+        "Seed"
+      ],
+      "correctAnswer": "Leaf"
+    }
+  ]
+}

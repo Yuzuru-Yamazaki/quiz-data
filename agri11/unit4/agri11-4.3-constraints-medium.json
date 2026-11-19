@@ -1,0 +1,197 @@
+{
+  "title": "4.3 Constraints and Mitigation (Medium)",
+  "description": "Effects of feed, genetic, disease, traditional and socio-economic constraints and how to reduce them",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "constraints",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Feed shortage directly reduces animal",
+      "options": [
+        "Productivity, fertility",
+        "Colour and flavour",
+        "Horn and hoof growth",
+        "Wool crimp only"
+      ],
+      "correctAnswer": "Productivity, fertility"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Expanding commercial feed production relies on",
+      "options": [
+        "Improved grasses, legumes",
+        "Natural pasture grazing only",
+        "Crop residues only",
+        "Kitchen waste only"
+      ],
+      "correctAnswer": "Improved grasses, legumes"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Young and succulent grass is used at the",
+      "options": [
+        "30% flowering stage",
+        "50% flowering stage",
+        "70% flowering stage",
+        "100% flowering stage"
+      ],
+      "correctAnswer": "30% flowering stage"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Mixing chopped mature grass with molasses improves",
+      "options": [
+        "Feed quality",
+        "Feed colour",
+        "Feed odour",
+        "Feed weight"
+      ],
+      "correctAnswer": "Feed quality"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Local breeds are valued because they are",
+      "options": [
+        "Well adapted locally",
+        "Highly productive",
+        "Resistant to no disease",
+        "Dependent on concentrates"
+      ],
+      "correctAnswer": "Well adapted locally"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Local breeds can survive and produce on",
+      "options": [
+        "Low quality feed",
+        "Cold dry weather",
+        "Salty drinking water",
+        "High stocking density"
+      ],
+      "correctAnswer": "Low quality feed"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Indigenous animals are known for quality in terms of",
+      "options": [
+        "Yolk colour, milk fat, meat taste",
+        "Egg size, wool length, hide thickness",
+        "Milk yield, growth rate, fertility",
+        "Feed conversion, calving rate, docility"
+      ],
+      "correctAnswer": "Yolk colour, milk fat, meat taste"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Genetic improvement of local stock is done by crossing with",
+      "options": [
+        "Exotic breeds",
+        "Local breeds",
+        "Wild species",
+        "Related genera"
+      ],
+      "correctAnswer": "Exotic breeds"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Animal diseases hamper",
+      "options": [
+        "Export market development",
+        "Feed production and supply",
+        "Labour supply",
+        "Land tenure"
+      ],
+      "correctAnswer": "Export market development"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Disease prevention includes",
+      "options": [
+        "Feeding and isolation",
+        "Overstocking and mixing",
+        "Neglecting vaccination",
+        "Selling sick animals"
+      ],
+      "correctAnswer": "Feeding and isolation"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "In mixed farming, the major focus is on",
+      "options": [
+        "Draft animals",
+        "Milk animals",
+        "Meat animals",
+        "Wool animals"
+      ],
+      "correctAnswer": "Draft animals"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "In pastoral farming, the main focus is",
+      "options": [
+        "Milk",
+        "Meat",
+        "Wool",
+        "Eggs"
+      ],
+      "correctAnswer": "Milk"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Enhancing knowledge of modern animal production requires",
+      "options": [
+        "Training and credit",
+        "Herd expansion alone",
+        "Grazing reserves only",
+        "Price controls only"
+      ],
+      "correctAnswer": "Training and credit"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Electricity scarcity mainly threatens preservation of",
+      "options": [
+        "Meat, milk and vaccines",
+        "Grain, hay and straw",
+        "Soil, water and air",
+        "Wool, hides and horns"
+      ],
+      "correctAnswer": "Meat, milk and vaccines"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Shortage of transport facilities mainly hampers",
+      "options": [
+        "Movement of livestock",
+        "Supply of veterinary drugs",
+        "Spread of market information",
+        "Provision of extension advice"
+      ],
+      "correctAnswer": "Movement of livestock"
+    }
+  ]
+}

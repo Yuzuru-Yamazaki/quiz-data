@@ -1,0 +1,209 @@
+{
+  "title": "2.1.4 Barley (Medium)",
+  "description": "Barley adaptation, cultural practices, weeds, diseases and harvesting",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "barley",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Barley is grown from about",
+      "options": [
+        "1500 to 3400 m",
+        "500 to 1800 m",
+        "1800 to 2400 m",
+        "2200 to 3000 m"
+      ],
+      "correctAnswer": "1500 to 3400 m"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Barley is best adapted to",
+      "options": [
+        "Cool highland areas",
+        "Hot lowland areas",
+        "Coastal plains",
+        "Desert oases"
+      ],
+      "correctAnswer": "Cool highland areas"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Barley is grown mainly under",
+      "options": [
+        "Rainfed conditions",
+        "Full irrigation",
+        "Greenhouse",
+        "Hydroponics"
+      ],
+      "correctAnswer": "Rainfed conditions"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Barley prefers well-drained",
+      "options": [
+        "Loam soils",
+        "Clay soils",
+        "Sandy soils",
+        "Saline soils"
+      ],
+      "correctAnswer": "Loam soils"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Barley is usually planted by",
+      "options": [
+        "Broadcasting or rows",
+        "Transplanting seedlings",
+        "Dibbling in hills",
+        "Flooding the field"
+      ],
+      "correctAnswer": "Broadcasting or rows"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The barley seed rate is",
+      "options": [
+        "80 to 100 kg/ha",
+        "100 to 125 kg/ha",
+        "150 to 175 kg/ha",
+        "50 to 60 kg/ha"
+      ],
+      "correctAnswer": "80 to 100 kg/ha"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Barley rows are spaced",
+      "options": [
+        "15 cm apart",
+        "18 cm apart",
+        "75 cm apart",
+        "25 cm apart"
+      ],
+      "correctAnswer": "15 cm apart"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Barley fertilizer is applied at",
+      "options": [
+        "41 kg N and 20 kg P",
+        "60 kg N and 26 kg P",
+        "45 kg N and 25 kg P",
+        "32 kg N and 10 kg P"
+      ],
+      "correctAnswer": "41 kg N and 20 kg P"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A common grass weed of barley is",
+      "options": [
+        "Ryegrass",
+        "Rust",
+        "Smut",
+        "Aphids"
+      ],
+      "correctAnswer": "Ryegrass"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Scald and net blotch are barley",
+      "options": [
+        "Fungal diseases",
+        "Viral diseases",
+        "Insect pests",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal diseases"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Barley aphids damage the crop by",
+      "options": [
+        "Sucking sap",
+        "Boring stems",
+        "Cutting roots",
+        "Eating leaves"
+      ],
+      "correctAnswer": "Sucking sap"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Barley cutworms attack",
+      "options": [
+        "Seedlings",
+        "Mature heads",
+        "Stored grain",
+        "Root nodules"
+      ],
+      "correctAnswer": "Seedlings"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Barley is ready for harvest when the",
+      "options": [
+        "Spikes turn yellow",
+        "Leaves turn green",
+        "Roots turn brown",
+        "Grains turn black"
+      ],
+      "correctAnswer": "Spikes turn yellow"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Barley grain is threshed after",
+      "options": [
+        "Sun drying",
+        "Wet soaking",
+        "Chemical treatment",
+        "Fermentation"
+      ],
+      "correctAnswer": "Sun drying"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Barley is a major ingredient in",
+      "options": [
+        "Malt beverages",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
+      ],
+      "correctAnswer": "Malt beverages"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Hulless barley is preferred for poultry because it has",
+      "options": [
+        "Higher energy",
+        "More fiber",
+        "More silica",
+        "Lower protein"
+      ],
+      "correctAnswer": "Higher energy"
+    }
+  ]
+}

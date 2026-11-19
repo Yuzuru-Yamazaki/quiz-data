@@ -1,0 +1,209 @@
+{
+  "title": "2.1.5 Sorghum (Medium)",
+  "description": "Sorghum adaptation, planting, weeds, pests, diseases and harvest",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "sorghum",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Sorghum is well adapted to",
+      "options": [
+        "Hot lowland areas",
+        "Cool highland areas",
+        "Coastal plains",
+        "Frost pockets"
+      ],
+      "correctAnswer": "Hot lowland areas"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The main sorghum growing areas are at",
+      "options": [
+        "400 to 2200 m",
+        "1800 to 3000 m",
+        "2200 to 3000 m",
+        "500 to 1500 m"
+      ],
+      "correctAnswer": "400 to 2200 m"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Sorghum tolerates drought because it has",
+      "options": [
+        "Deep roots",
+        "Broad leaves",
+        "Shallow roots",
+        "Thin stems"
+      ],
+      "correctAnswer": "Deep roots"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Sorghum grows best on",
+      "options": [
+        "Well-drained loam",
+        "Waterlogged clay",
+        "Saline sand",
+        "Rocky slopes"
+      ],
+      "correctAnswer": "Well-drained loam"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Sorghum is planted at the onset of",
+      "options": [
+        "The rains",
+        "The dry season",
+        "The frost period",
+        "The harvest"
+      ],
+      "correctAnswer": "The rains"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The sorghum seed rate is",
+      "options": [
+        "10 to 12 kg/ha",
+        "80 to 100 kg/ha",
+        "100 to 125 kg/ha",
+        "150 to 175 kg/ha"
+      ],
+      "correctAnswer": "10 to 12 kg/ha"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Sorghum rows are spaced",
+      "options": [
+        "75 cm apart",
+        "15 cm apart",
+        "18 cm apart",
+        "25 cm apart"
+      ],
+      "correctAnswer": "75 cm apart"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Sorghum fertilizer is applied at",
+      "options": [
+        "41 kg N and 20 kg P",
+        "60 kg N and 26 kg P",
+        "45 kg N and 25 kg P",
+        "32 kg N and 10 kg P"
+      ],
+      "correctAnswer": "41 kg N and 20 kg P"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Striga is difficult to control because it",
+      "options": [
+        "Attaches to host roots",
+        "Grows on leaves only",
+        "Lives in stored grain",
+        "Attacks only dead plants"
+      ],
+      "correctAnswer": "Attaches to host roots"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Sorghum anthracnose is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Grain mold in sorghum is favored by",
+      "options": [
+        "Wet humid conditions",
+        "Dry cold weather",
+        "Low soil fertility",
+        "Strong sunlight"
+      ],
+      "correctAnswer": "Wet humid conditions"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Sorghum shoot fly damages",
+      "options": [
+        "Young seedlings",
+        "Mature grains",
+        "Stored grain",
+        "Root nodules"
+      ],
+      "correctAnswer": "Young seedlings"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Quelea birds damage sorghum by eating",
+      "options": [
+        "Grain in the head",
+        "Roots in the soil",
+        "Leaves in the shade",
+        "Stems near the base"
+      ],
+      "correctAnswer": "Grain in the head"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Sorghum is ready for harvest when grains are",
+      "options": [
+        "Hard and dry",
+        "Soft and green",
+        "Milky and wet",
+        "Black and moist"
+      ],
+      "correctAnswer": "Hard and dry"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Sorghum stalks are valuable for",
+      "options": [
+        "Fencing and fuel",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
+      ],
+      "correctAnswer": "Fencing and fuel"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Sorghum grain is used in local",
+      "options": [
+        "Beverages",
+        "Pesticides",
+        "Dyes",
+        "Latex"
+      ],
+      "correctAnswer": "Beverages"
+    }
+  ]
+}

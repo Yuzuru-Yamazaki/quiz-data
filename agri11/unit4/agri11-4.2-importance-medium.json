@@ -1,0 +1,197 @@
+{
+  "title": "4.2 Importance of Animal Production (Medium)",
+  "description": "How animal products, by-products and livestock ownership support nutrition, income and culture",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "importance",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Ruminants convert high-fibre feed into",
+      "options": [
+        "Edible food",
+        "Wool fibre",
+        "Draft power",
+        "Leather goods"
+      ],
+      "correctAnswer": "Edible food"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Animal products are rich sources of",
+      "options": [
+        "Fat, minerals, vitamins",
+        "Fibre, water and starch",
+        "Sugar, acid and salt",
+        "Protein, fibre and ash"
+      ],
+      "correctAnswer": "Fat, minerals, vitamins"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Bones turned into adhesives and fats into candles are examples of",
+      "options": [
+        "Raw materials",
+        "Food supply",
+        "Clothing",
+        "Work"
+      ],
+      "correctAnswer": "Raw materials"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Bone meal, fish meal and blood meal are used as",
+      "options": [
+        "Feed protein",
+        "Soil manure",
+        "Cooking fat",
+        "Industrial glue"
+      ],
+      "correctAnswer": "Feed protein"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Cattle herd size traditionally measures",
+      "options": [
+        "Social wealth",
+        "Milk output",
+        "Feed supply",
+        "Disease risk"
+      ],
+      "correctAnswer": "Social wealth"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Selling livestock when feed and water run short reflects",
+      "options": [
+        "Capital accumulation",
+        "Market orientation",
+        "Genetic improvement",
+        "Commercial farming"
+      ],
+      "correctAnswer": "Capital accumulation"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Bullocks and camels draw working machinery such as",
+      "options": [
+        "Ploughs and harrows",
+        "Carts and wagons",
+        "Sledges and rollers",
+        "Drills and threshers"
+      ],
+      "correctAnswer": "Ploughs and harrows"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Feathers from poultry are used in the production of",
+      "options": [
+        "Mattresses and pillows",
+        "Bags and drums",
+        "Candles and soap products",
+        "Ropes and sacks"
+      ],
+      "correctAnswer": "Mattresses and pillows"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Skins and wool used by the cottage industry are",
+      "options": [
+        "Raw materials",
+        "Clothing only",
+        "Food supply",
+        "Animal feed"
+      ],
+      "correctAnswer": "Raw materials"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Chemical extracts from internal organs are used to make",
+      "options": [
+        "Hormones and drugs",
+        "Soap and candles",
+        "Glue and adhesives",
+        "Feed and rations"
+      ],
+      "correctAnswer": "Hormones and drugs"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "More than one third of global food protein comes from",
+      "options": [
+        "Farm animals",
+        "Cereal grains",
+        "Legume seeds",
+        "Root crops"
+      ],
+      "correctAnswer": "Farm animals"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Livestock ownership providing security and insurance is a",
+      "options": [
+        "Socio-economic role",
+        "Nutritional role",
+        "Genetic role",
+        "Veterinary role"
+      ],
+      "correctAnswer": "Socio-economic role"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Traction and transport show that animals provide",
+      "options": [
+        "Services",
+        "Food",
+        "Clothing",
+        "Medicine"
+      ],
+      "correctAnswer": "Services"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Animal by-products used for clothing include",
+      "options": [
+        "Skin, wool and fur",
+        "Milk, meat and eggs",
+        "Blood, bone and hooves",
+        "Fat, horn and teeth"
+      ],
+      "correctAnswer": "Skin, wool and fur"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Draught power from oxen is most directly useful for",
+      "options": [
+        "Crop production",
+        "Milk processing",
+        "Wool spinning",
+        "Honey harvesting"
+      ],
+      "correctAnswer": "Crop production"
+    }
+  ]
+}

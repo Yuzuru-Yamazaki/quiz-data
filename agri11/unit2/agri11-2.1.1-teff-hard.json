@@ -1,0 +1,161 @@
+{
+  "title": "2.1.1 Teff (Hard)",
+  "description": "Reasoning about teff seedbed preparation, risk, drainage and management decisions",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "teff",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Teff seedbed must be smooth because the seed is",
+      "options": [
+        "Very small",
+        "Very large",
+        "Very hard",
+        "Very light"
+      ],
+      "correctAnswer": "Very small"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Broadcasting teff seed followed by driving animals helps to",
+      "options": [
+        "Cover the seeds",
+        "Fertilize the field",
+        "Irrigate the field",
+        "Control weeds"
+      ],
+      "correctAnswer": "Cover the seeds"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Why is teff considered a low-risk crop?",
+      "options": [
+        "Stores well and tolerates pests",
+        "Needs high fertilizer input",
+        "Has very high yield potential",
+        "Requires much irrigation"
+      ],
+      "correctAnswer": "Stores well and tolerates pests"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Teff planted in July/August in highlands is harvested in",
+      "options": [
+        "November/December",
+        "September/October",
+        "January/February",
+        "March/April"
+      ],
+      "correctAnswer": "November/December"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Teff can tolerate excessive moisture but is affected by fungus when",
+      "options": [
+        "Water accumulates in soil",
+        "Soil dries completely",
+        "Frost occurs at night",
+        "Weeds emerge early"
+      ],
+      "correctAnswer": "Water accumulates in soil"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "To reduce teff weed problems, the most important action is",
+      "options": [
+        "Early manual weeding",
+        "Late harvesting",
+        "Deeper planting",
+        "Higher seed rate"
+      ],
+      "correctAnswer": "Early manual weeding"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Row planting of teff at 20 cm is becoming common mainly to improve",
+      "options": [
+        "Better seed placement",
+        "Better grain color",
+        "Higher straw yield",
+        "Higher market price"
+      ],
+      "correctAnswer": "Better seed placement"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Teff requires 4 or 5 cultivations mainly to",
+      "options": [
+        "A smooth, weed-free bed",
+        "Higher soil acidity",
+        "Buried crop residues",
+        "Lower soil moisture"
+      ],
+      "correctAnswer": "A smooth, weed-free bed"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Teff is suitable for people with",
+      "options": [
+        "Gluten allergy",
+        "Iron deficiency",
+        "Low blood sugar",
+        "High blood pressure"
+      ],
+      "correctAnswer": "Gluten allergy"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A teff field with excess water is drained with furrows at",
+      "options": [
+        "3 to 6 m intervals",
+        "10 to 15 m intervals",
+        "20 to 25 m intervals",
+        "1 to 2 m intervals"
+      ],
+      "correctAnswer": "3 to 6 m intervals"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Teff can grow on low fertility soil, but yield still depends on",
+      "options": [
+        "Soil fertility levels",
+        "Only seed color",
+        "Only market price",
+        "Only straw length"
+      ],
+      "correctAnswer": "Soil fertility levels"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Teff straw is valuable because it provides",
+      "options": [
+        "Animal feed",
+        "Cooking oil",
+        "Fiber for cloth",
+        "Sugar for food"
+      ],
+      "correctAnswer": "Animal feed"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "title": "1.3 Status of Crop Production (Medium)",
+  "description": "How technology, land use and inputs shape productivity in Ethiopia and industrialized regions",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "crop-status",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Modern agriculture uses machinery, agrochemicals and",
+      "options": [
+        "Irrigation",
+        "Fallowing",
+        "Rotation",
+        "Bunding"
+      ],
+      "correctAnswer": "Irrigation"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Crop rotation means shifting between",
+      "options": [
+        "Different crops in the different growing seasons",
+        "Planting the same crop on the same land every season",
+        "Only legumes every year",
+        "Fallow and crop alternately"
+      ],
+      "correctAnswer": "Different crops in the different growing seasons"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Fallowing allows soils to",
+      "options": [
+        "Recover",
+        "Erode",
+        "Compact",
+        "Dry out"
+      ],
+      "correctAnswer": "Recover"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Ethiopia's cereal increase from 1961 to 2019 was mainly due to",
+      "options": [
+        "Expanded cultivated area",
+        "Higher yield per hectare",
+        "Improved irrigation",
+        "Reduced drought"
+      ],
+      "correctAnswer": "Expanded cultivated area"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Yield per unit area is mainly limited by",
+      "options": [
+        "Recurrent droughts and climate change",
+        "Improved seed supply to the farmers each year",
+        "Fertilizer application",
+        "Mechanized harvesting"
+      ],
+      "correctAnswer": "Recurrent droughts and climate change"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Food security requires increased yield and",
+      "options": [
+        "Decreased yield variability",
+        "Increased area expansion",
+        "Reduced crop diversity",
+        "Higher post-harvest loss"
+      ],
+      "correctAnswer": "Decreased yield variability"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Low crop yields in Ethiopia are linked to",
+      "options": [
+        "Soil degradation",
+        "High irrigation",
+        "Heavy input use",
+        "Stable rainfall"
+      ],
+      "correctAnswer": "Soil degradation"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Very low levels of irrigation are a",
+      "options": [
+        "Principal factor responsible for low yield",
+        "A direct result of high rainfall in the local area",
+        "Benefit of modern farming",
+        "Cause of soil fertility"
+      ],
+      "correctAnswer": "Principal factor responsible for low yield"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Low use of improved seeds, fertilizers and pesticides is a",
+      "options": [
+        "Yield-limiting factor",
+        "Soil conservation practice",
+        "Modern technology",
+        "Post-harvest method"
+      ],
+      "correctAnswer": "Yield-limiting factor"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Productivity in industrialized agriculture increased due to",
+      "options": [
+        "Industrial technologies",
+        "Traditional tools",
+        "Draft animals",
+        "Shifting cultivation"
+      ],
+      "correctAnswer": "Industrial technologies"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Sub-Saharan agriculture remains low because it relies on",
+      "options": [
+        "Traditional methods with draft animals",
+        "Biotechnology and information technology",
+        "Irrigation and agrochemicals",
+        "Mechanization and improved seeds"
+      ],
+      "correctAnswer": "Traditional methods with draft animals"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The five major Ethiopian crops are teff, wheat, maize, sorghum and",
+      "options": [
+        "Barley",
+        "Rice",
+        "Millet",
+        "Oats"
+      ],
+      "correctAnswer": "Barley"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Ethiopian crop agriculture is described as",
+      "options": [
+        "Complex, with many different agro-ecologies",
+        "Uniform across all the regions of the country",
+        "Limited to one crop type",
+        "Dependent on imports only"
+      ],
+      "correctAnswer": "Complex, with many different agro-ecologies"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The increase in cultivated area was accompanied by some increase in",
+      "options": [
+        "Agricultural inputs",
+        "Crop failures and losses",
+        "Fallow land",
+        "Draft animals"
+      ],
+      "correctAnswer": "Agricultural inputs"
+    }
+  ]
+}

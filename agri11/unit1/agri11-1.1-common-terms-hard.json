@@ -1,0 +1,173 @@
+{
+  "title": "1.1 Common Terms in Crop Production (Hard)",
+  "description": "Applying definitions to scenarios and distinguishing agricultural systems by their land use",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "terms",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which contrast best distinguishes shifting from settled agriculture?",
+      "options": [
+        "Temporary land use versus continuous use",
+        "Crop farming versus livestock keeping systems",
+        "Rainfed versus irrigated farming",
+        "Manual versus machine farming"
+      ],
+      "correctAnswer": "Temporary land use versus continuous use"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Hunter-gatherer plant selection favored predictability and",
+      "options": [
+        "Seasonal distribution",
+        "High input requirement",
+        "Uniform ripening only",
+        "Low transportability"
+      ],
+      "correctAnswer": "Seasonal distribution"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Toxic wild legumes were most likely detoxified by",
+      "options": [
+        "Trial and error",
+        "Scientific testing",
+        "Written recipes",
+        "Market exchange"
+      ],
+      "correctAnswer": "Trial and error"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "A community farms the same plot with manure, bunds and water control. This is",
+      "options": [
+        "Settled agriculture",
+        "Shifting cultivation",
+        "Hunter-gathering",
+        "Nomadic herding"
+      ],
+      "correctAnswer": "Settled agriculture"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which practice best indicates a subsistence orientation?",
+      "options": [
+        "Producing food mainly for the household to use",
+        "Selling most of the output at the local market each year",
+        "Producing for export contracts",
+        "Growing only cash crops"
+      ],
+      "correctAnswer": "Producing food mainly for the household to use"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which feature conflicts most with shifting cultivation?",
+      "options": [
+        "Permanent soil and water conservation works",
+        "Land cleared for cultivation",
+        "Abandonment of the land after only a few years",
+        "Movement to a new plot"
+      ],
+      "correctAnswer": "Permanent soil and water conservation works"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Using legume toxins on arrowheads shows",
+      "options": [
+        "Practical experimentation",
+        "Formal scientific method",
+        "Industrial processing",
+        "Religious instruction"
+      ],
+      "correctAnswer": "Practical experimentation"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Settled agriculture applies manure and fertilizer mainly to",
+      "options": [
+        "Maintain soil nutrients",
+        "Increase labor demand",
+        "Reduce crop diversity",
+        "Prevent seed germination"
+      ],
+      "correctAnswer": "Maintain soil nutrients"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Why is shifting cultivation unlikely in deserts?",
+      "options": [
+        "The land and climate do not favor crop culture",
+        "Soils are too fertile for crops",
+        "Too much rainfall destroys crops",
+        "Poor conditions for crop culture"
+      ],
+      "correctAnswer": "Poor conditions for crop culture"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Subsistence farmers store excess produce mainly to",
+      "options": [
+        "Buffer poor harvests",
+        "Speculate for profit",
+        "Pay taxes in kind",
+        "Feed livestock only"
+      ],
+      "correctAnswer": "Buffer poor harvests"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Calling hunter-gatherers unskilled is misleading because survival required",
+      "options": [
+        "Insight and detailed knowledge of nature",
+        "Simple tools and very little skill for survival",
+        "Large families and slaves",
+        "Metal tools and writing"
+      ],
+      "correctAnswer": "Insight and detailed knowledge of nature"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The shift from hunting to agriculture began with",
+      "options": [
+        "Managing plants and animals in a deliberate way",
+        "Following wild animal herds across the different seasons",
+        "Gathering fruits from forests",
+        "Fishing in rivers and lakes"
+      ],
+      "correctAnswer": "Managing plants and animals in a deliberate way"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Agriculture is described as deliberate because it involves",
+      "options": [
+        "The cultivation of crops and rearing of animals",
+        "Hunting wild animals and collecting wild plants for food",
+        "Fishing and trapping",
+        "Mining and trading"
+      ],
+      "correctAnswer": "The cultivation of crops and rearing of animals"
+    }
+  ]
+}

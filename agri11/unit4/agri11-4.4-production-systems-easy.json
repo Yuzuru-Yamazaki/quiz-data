@@ -1,0 +1,257 @@
+{
+  "title": "4.4 Animal Production Systems (Easy)",
+  "description": "Basic features of extensive, semi-intensive and intensive livestock systems and their key terms",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "production-systems",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The three general types of livestock farming systems are",
+      "options": [
+        "Extensive, semi-intensive, intensive",
+        "Nomadic, ranching and mixed farming",
+        "Pastoral, agro-pastoral, mixed",
+        "Traditional, modern, commercial"
+      ],
+      "correctAnswer": "Extensive, semi-intensive, intensive"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Extensive farming uses",
+      "options": [
+        "Small inputs per land area",
+        "High inputs per land area",
+        "No land at all",
+        "Only purchased feed"
+      ],
+      "correctAnswer": "Small inputs per land area"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Nomads have",
+      "options": [
+        "No permanent home",
+        "A permanent home",
+        "Fixed grazing routes",
+        "Fenced ranches"
+      ],
+      "correctAnswer": "No permanent home"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Transhumance pastoralists have",
+      "options": [
+        "A permanent home",
+        "No permanent home",
+        "Only urban homes",
+        "No livestock at all"
+      ],
+      "correctAnswer": "A permanent home"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Pastoralism is an extreme example of",
+      "options": [
+        "Extensive farming",
+        "Intensive farming",
+        "Mixed farming",
+        "Ranching system"
+      ],
+      "correctAnswer": "Extensive farming"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Ranching is practiced on land that is",
+      "options": [
+        "Fenced or fixed",
+        "Open and common",
+        "Flooded yearly",
+        "Rented monthly"
+      ],
+      "correctAnswer": "Fenced or fixed"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Mixed farming combines",
+      "options": [
+        "Crops and livestock",
+        "Only crops",
+        "Only livestock keeping",
+        "Fish and bees"
+      ],
+      "correctAnswer": "Crops and livestock"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The semi-intensive system lies",
+      "options": [
+        "Between extensive and intensive",
+        "Beyond intensive farming only",
+        "Below extensive farming only",
+        "Outside all farming systems"
+      ],
+      "correctAnswer": "Between extensive and intensive"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Semi-intensive production is usually located",
+      "options": [
+        "Around large towns",
+        "Deep in forests",
+        "On high mountains",
+        "Along ocean shores"
+      ],
+      "correctAnswer": "Around large towns"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Intensive systems are often located near",
+      "options": [
+        "Urban centers",
+        "Remote villages",
+        "Desert wells",
+        "Forest reserves"
+      ],
+      "correctAnswer": "Urban centers"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Intensive production is",
+      "options": [
+        "Market-oriented",
+        "Subsistence only",
+        "Barter-based",
+        "Gift-based"
+      ],
+      "correctAnswer": "Market-oriented"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Animals in intensive systems are often",
+      "options": [
+        "Crossbred or exotic",
+        "Local only",
+        "Wild caught",
+        "Unimproved only"
+      ],
+      "correctAnswer": "Crossbred or exotic"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "A feedlot is used for",
+      "options": [
+        "Fattening for slaughter",
+        "Breeding stock",
+        "Milk production purpose",
+        "Draft training"
+      ],
+      "correctAnswer": "Fattening for slaughter"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The cut and carry system is also called",
+      "options": [
+        "Zero grazing",
+        "Free range",
+        "Open grazing",
+        "Rotational grazing"
+      ],
+      "correctAnswer": "Zero grazing"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "A balanced ration supplies",
+      "options": [
+        "Proper nutrients",
+        "Only water",
+        "Only roughage",
+        "Only minerals"
+      ],
+      "correctAnswer": "Proper nutrients"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Feedlot fattening usually lasts",
+      "options": [
+        "3 to 4 months",
+        "1 to 2 weeks",
+        "6 to 8 months",
+        "12 to 14 months"
+      ],
+      "correctAnswer": "3 to 4 months"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Pasture is land with vegetation used for",
+      "options": [
+        "Grazing animals",
+        "Growing cotton",
+        "Building houses",
+        "Storing grain"
+      ],
+      "correctAnswer": "Grazing animals"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Herbivores feed on",
+      "options": [
+        "Plants",
+        "Meat",
+        "Insects",
+        "Fish"
+      ],
+      "correctAnswer": "Plants"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "A species is a group that can",
+      "options": [
+        "Interbreed, fertile offspring",
+        "Look alike, live together",
+        "Share the same habitat",
+        "Belong to the same breed"
+      ],
+      "correctAnswer": "Interbreed, fertile offspring"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "A breed is a specific group within a",
+      "options": [
+        "Species",
+        "Family",
+        "Order",
+        "Class"
+      ],
+      "correctAnswer": "Species"
+    }
+  ]
+}

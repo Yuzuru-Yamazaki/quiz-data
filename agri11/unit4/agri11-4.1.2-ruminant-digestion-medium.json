@@ -1,0 +1,197 @@
+{
+  "title": "4.1.2 Ruminant and Monogastric Digestion (Medium)",
+  "description": "Functions of each stomach chamber and digestive organ in ruminants, horses and poultry",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "digestion",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Ruminant digestion is more efficient than monogastric digestion at",
+      "options": [
+        "Breaking down fibre",
+        "Chewing soft grain",
+        "Storing fat quickly",
+        "Absorbing water only"
+      ],
+      "correctAnswer": "Breaking down fibre"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Microorganisms inside the rumen",
+      "options": [
+        "Digest feed",
+        "Store water",
+        "Produce bile",
+        "Grind feed"
+      ],
+      "correctAnswer": "Digest feed"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Regurgitation or rumination refers to",
+      "options": [
+        "Chewing cud",
+        "Drinking water",
+        "Swallowing air",
+        "Grinding grain"
+      ],
+      "correctAnswer": "Chewing cud"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The reticulum passes food from the rumen to the",
+      "options": [
+        "Omasum",
+        "Rumen",
+        "Abomasum",
+        "Small intestine"
+      ],
+      "correctAnswer": "Omasum"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The omasum squeezes",
+      "options": [
+        "Water from feed",
+        "Oil from grain",
+        "Gas from blood",
+        "Acid from food"
+      ],
+      "correctAnswer": "Water from feed"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The abomasum passes feed into the",
+      "options": [
+        "Small intestine",
+        "Large intestine",
+        "Rumen",
+        "Omasum"
+      ],
+      "correctAnswer": "Small intestine"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Monogastric animals rely on feed that is",
+      "options": [
+        "Easy to digest",
+        "High in fibre",
+        "Very coarse",
+        "Low in protein"
+      ],
+      "correctAnswer": "Easy to digest"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The horse stomach serves as a",
+      "options": [
+        "Short-term reservoir",
+        "Long-term store",
+        "Fermentation vat",
+        "Grit grinder"
+      ],
+      "correctAnswer": "Short-term reservoir"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The horse cecum is enlarged to",
+      "options": [
+        "Ferment roughage",
+        "Storage of urine",
+        "Absorption of water",
+        "Grinding of grain"
+      ],
+      "correctAnswer": "Ferment roughage"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "In poultry, nutrients are absorbed mainly in the",
+      "options": [
+        "Small intestine",
+        "Crop",
+        "Muscular gizzard",
+        "Ceca"
+      ],
+      "correctAnswer": "Small intestine"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The large intestine of poultry absorbs",
+      "options": [
+        "Water",
+        "Protein",
+        "Fat",
+        "Minerals"
+      ],
+      "correctAnswer": "Water"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The ceca of poultry are",
+      "options": [
+        "Blind sacs",
+        "Long tubes",
+        "Muscular sacs",
+        "Glandular pouches"
+      ],
+      "correctAnswer": "Blind sacs"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Pseudo-ruminant animals lack a",
+      "options": [
+        "Rumen",
+        "Abomasum",
+        "Omasum",
+        "Reticulum"
+      ],
+      "correctAnswer": "Rumen"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Pseudo-ruminants possess the omasum, abomasum and",
+      "options": [
+        "Reticulum",
+        "Rumen",
+        "Crop",
+        "Cecum"
+      ],
+      "correctAnswer": "Reticulum"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The crop can store food for up to",
+      "options": [
+        "12 hours",
+        "2 hours",
+        "24 hours",
+        "30 minutes"
+      ],
+      "correctAnswer": "12 hours"
+    }
+  ]
+}

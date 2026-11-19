@@ -1,0 +1,185 @@
+{
+  "title": "3.3 Sugar Crops: Sugarcane (Medium)",
+  "description": "Sugarcane climate needs, by-product use, fertilizer effects, pest and disease management, and harvest practice",
+  "folder": "School/Grade 11/Agriculture/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit3",
+    "sugar-crops",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Sugarcane requires a long warm season because it is",
+      "options": [
+        "Tropical and subtropical",
+        "Temperate and cool",
+        "Desert and arid only",
+        "Alpine and cold mountain zones"
+      ],
+      "correctAnswer": "Tropical and subtropical"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The green top of sugarcane is directly used as",
+      "options": [
+        "Animal feed",
+        "Paper",
+        "Plastic material",
+        "Ethanol"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Excessive nitrogen application on sugarcane delays",
+      "options": [
+        "Maturity",
+        "Germination",
+        "Rooting",
+        "Flowering"
+      ],
+      "correctAnswer": "Maturity"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The critical weeding periods for sugarcane are",
+      "options": [
+        "3 and 14 weeks",
+        "2 and 8 weeks",
+        "4 and 10 weeks",
+        "6 and 20 weeks"
+      ],
+      "correctAnswer": "3 and 14 weeks"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Major insect pests of sugarcane include",
+      "options": [
+        "Borers, army worms, locusts",
+        "Aphids, weevils, mites",
+        "Thrips, whiteflies, beetles",
+        "Fruit flies, leaf miners"
+      ],
+      "correctAnswer": "Borers, army worms, locusts"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "A common fungal disease of sugarcane is",
+      "options": [
+        "Smut",
+        "Rust",
+        "Blight",
+        "Mildew"
+      ],
+      "correctAnswer": "Smut"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A common bacterial disease of sugarcane is",
+      "options": [
+        "Ratoon stunting",
+        "Leaf rust disease",
+        "Gray leaf spot",
+        "Powdery mildew"
+      ],
+      "correctAnswer": "Ratoon stunting"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "A recommended control for sugarcane smut is",
+      "options": [
+        "Resistant varieties",
+        "Extra nitrogen",
+        "Heavy irrigation",
+        "Deeper planting depth"
+      ],
+      "correctAnswer": "Resistant varieties"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Pre-planting cultivation helps control insect pests by",
+      "options": [
+        "Destroying some insects",
+        "Adding soil nutrients",
+        "Increasing soil moisture",
+        "Cooling the soil surface"
+      ],
+      "correctAnswer": "Destroying some insects"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Before cutting sugarcane stems, harvesters first",
+      "options": [
+        "Remove leaves and top",
+        "Cut stem before leaves",
+        "Burn all green leaves",
+        "Pull plants by roots"
+      ],
+      "correctAnswer": "Remove leaves and top"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Controlled fire is sometimes used in sugarcane harvest to",
+      "options": [
+        "Remove dry leaves",
+        "Kill cane roots",
+        "Dry the stem juice",
+        "Increase sugar content"
+      ],
+      "correctAnswer": "Remove dry leaves"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "In Ethiopia in 2023, the sugar situation was that",
+      "options": [
+        "Demand exceeds production",
+        "Production exceeds demand",
+        "They are exactly equal",
+        "Production fell to zero"
+      ],
+      "correctAnswer": "Demand exceeds production"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Compared with the first harvest, ratoon harvests are",
+      "options": [
+        "Lower than first",
+        "Higher than first",
+        "Equal to first",
+        "Always zero"
+      ],
+      "correctAnswer": "Lower than first"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "New cane plants are planted after the ratoon cycle because",
+      "options": [
+        "Ratoon yields decline",
+        "Cane becomes too tall",
+        "Soil turns to sand",
+        "Rainfall decreases"
+      ],
+      "correctAnswer": "Ratoon yields decline"
+    }
+  ]
+}

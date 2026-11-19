@@ -1,0 +1,185 @@
+{
+  "title": "1.6 Indigenous Knowledge (Hard)",
+  "description": "Interpreting local practices as adaptations and distinguishing indigenous from scientific knowledge",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "indigenous-knowledge",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which feature best distinguishes indigenous from scientific knowledge?",
+      "options": [
+        "It develops from local experience",
+        "It relies on controlled trials",
+        "It is taught in universities",
+        "It is published in journals"
+      ],
+      "correctAnswer": "It develops from local experience"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A farmer predicts rain from insect behavior. This is an example of",
+      "options": [
+        "Indigenous knowledge",
+        "Scientific experiment",
+        "Market information",
+        "Formal extension"
+      ],
+      "correctAnswer": "Indigenous knowledge"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Konso terracing and irrigation together show",
+      "options": [
+        "Adaptation to local conditions",
+        "Dependence on modern inputs",
+        "Rejection of crop farming",
+        "Use of industrial methods"
+      ],
+      "correctAnswer": "Adaptation to local conditions"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The Gumuz view that resources belong to future generations supports",
+      "options": [
+        "Sustainable resource use",
+        "Rapid resource depletion",
+        "Private land sales",
+        "Industrial expansion"
+      ],
+      "correctAnswer": "Sustainable resource use"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A trench around a potato plot in Bale mainly responds to",
+      "options": [
+        "Porcupine damage",
+        "Soil erosion",
+        "Frost damage",
+        "Water logging"
+      ],
+      "correctAnswer": "Porcupine damage"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Moving barns to collect dung is an indigenous strategy for",
+      "options": [
+        "Maintaining soil fertility",
+        "Reducing labor demand",
+        "Controlling livestock disease",
+        "Increasing milk yield"
+      ],
+      "correctAnswer": "Maintaining soil fertility"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which practice addresses both soil fertility and acidity?",
+      "options": [
+        "Using kitchen ash",
+        "Building terraces",
+        "Digging trenches",
+        "Burning smoke"
+      ],
+      "correctAnswer": "Using kitchen ash"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Indigenous knowledge is independent of science but based on",
+      "options": [
+        "Long observation of local conditions",
+        "Short visits by outside researchers to farms",
+        "Imported technology trials",
+        "National statistical surveys"
+      ],
+      "correctAnswer": "Long observation of local conditions"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Why is indigenous knowledge important for natural resource management?",
+      "options": [
+        "It reflects generations of local experience",
+        "It can replace all of the scientific research that is done",
+        "It depends on foreign expertise",
+        "It ignores environmental change"
+      ],
+      "correctAnswer": "It reflects generations of local experience"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The Konso case shows that indigenous practices can",
+      "options": [
+        "Reduce erosion and maintain soil quality",
+        "Increase erosion and deplete soil",
+        "Replace all rainfall with irrigation",
+        "Eliminate the need for cropping"
+      ],
+      "correctAnswer": "Reduce erosion and maintain soil quality"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Beliefs and traditions help communities to",
+      "options": [
+        "Preserve and communicate knowledge",
+        "Replace practical farming skills",
+        "Prevent all innovation",
+        "Discourage observation"
+      ],
+      "correctAnswer": "Preserve and communicate knowledge"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Using smoke against frost relies on",
+      "options": [
+        "Local experience with microclimate",
+        "Laboratory measurement of frost",
+        "National weather forecasts",
+        "Imported frost blankets"
+      ],
+      "correctAnswer": "Local experience with microclimate"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which pair is correctly matched?",
+      "options": [
+        "Gumuz-Yamba belief",
+        "Konso-porcupine trench",
+        "Bale-kitchen ash",
+        "Gondar-terracing"
+      ],
+      "correctAnswer": "Gumuz-Yamba belief"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Indigenous knowledge often arises where farmers have",
+      "options": [
+        "Small landholdings",
+        "Large estates",
+        "Modern machinery",
+        "Formal training"
+      ],
+      "correctAnswer": "Small landholdings"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "title": "4.2 Importance of Animal Production (Hard)",
+  "description": "Applying livestock roles to scenarios involving nutrition, economics, by-products and culture",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "importance",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The 34% protein share and 65% livelihood share respectively describe",
+      "options": [
+        "Nutrition and livelihood",
+        "Work and clothing",
+        "Genetics and feed",
+        "Animal health and export trade"
+      ],
+      "correctAnswer": "Nutrition and livelihood"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Contributing 45 to 48% of agricultural GDP and 16 to 19% of exports shows livestock's",
+      "options": [
+        "Economic importance",
+        "Cultural importance",
+        "Nutritional importance",
+        "Environmental importance"
+      ],
+      "correctAnswer": "Economic importance"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "A farmer uses oxen for ploughing, manure for soil and milk for the family. This shows",
+      "options": [
+        "Mixed farming benefits",
+        "Pastoral mobility",
+        "Intensive feedlot system",
+        "Ranching profit"
+      ],
+      "correctAnswer": "Mixed farming benefits"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which set contains only animal by-products used as feed?",
+      "options": [
+        "Bone, fish, blood meal",
+        "Wool, skin, fur",
+        "Candles, soap, glue",
+        "Hormones, drugs, vaccines"
+      ],
+      "correctAnswer": "Bone, fish, blood meal"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Selling cattle only when cash is needed shows livestock as",
+      "options": [
+        "Capital storage",
+        "Draft power source",
+        "Protein supply",
+        "Export commodity"
+      ],
+      "correctAnswer": "Capital storage"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which two roles are directly non-food?",
+      "options": [
+        "Traction and clothing",
+        "Milk and meat",
+        "Eggs and honey products",
+        "Blood and bone"
+      ],
+      "correctAnswer": "Traction and clothing"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A 16 to 19% share of export earnings suggests livestock is",
+      "options": [
+        "A major earner",
+        "A minor earner",
+        "A declining sector",
+        "A local activity"
+      ],
+      "correctAnswer": "A major earner"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Using cattle dung to improve soil fertility links livestock to",
+      "options": [
+        "Crop production",
+        "Transport services",
+        "Medicine making",
+        "Honey production"
+      ],
+      "correctAnswer": "Crop production"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Animal traction mainly reduces dependence on",
+      "options": [
+        "Manual labour",
+        "Animal feed",
+        "Veterinary care",
+        "Market prices"
+      ],
+      "correctAnswer": "Manual labour"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A pastoralist keeping very large herds mainly seeks",
+      "options": [
+        "Capital and security",
+        "Meat for daily use",
+        "Milk for sale only",
+        "Draft for cropping"
+      ],
+      "correctAnswer": "Capital and security"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which by-product pair is correctly matched to its use?",
+      "options": [
+        "Bone glue",
+        "Feather soap",
+        "Fat mattress",
+        "Skin candle"
+      ],
+      "correctAnswer": "Bone glue"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Manure raises crop yield mainly by improving",
+      "options": [
+        "Soil fertility",
+        "Seed quality",
+        "Rainfall amount",
+        "Pest resistance"
+      ],
+      "correctAnswer": "Soil fertility"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Calling meat a by-product in mixed farming follows because priority goes to",
+      "options": [
+        "Draft and milk",
+        "Meat and eggs",
+        "Wool and skins",
+        "Honey and wax"
+      ],
+      "correctAnswer": "Draft and milk"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which practice is socio-cultural rather than economic?",
+      "options": [
+        "Herd size shows status",
+        "Milk sold at market",
+        "Oxen hired for ploughing",
+        "Manure sold as fertilizer"
+      ],
+      "correctAnswer": "Herd size shows status"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Feeding slaughter residues to monogastric animals mainly illustrates",
+      "options": [
+        "Recycling by-products",
+        "Genetic improvement",
+        "Disease control",
+        "Market expansion"
+      ],
+      "correctAnswer": "Recycling by-products"
+    }
+  ]
+}

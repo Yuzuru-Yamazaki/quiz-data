@@ -1,0 +1,209 @@
+{
+  "title": "2.2.2 Field Pea (Easy)",
+  "description": "Importance, adaptation and basic production facts of field pea",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "field-pea",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Field pea is a",
+      "options": [
+        "Pulse crop",
+        "Cereal crop",
+        "Oil crop",
+        "Fiber crop"
+      ],
+      "correctAnswer": "Pulse crop"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Field pea is mainly grown for its",
+      "options": [
+        "Seeds",
+        "Roots",
+        "Leaves",
+        "Stems"
+      ],
+      "correctAnswer": "Seeds"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Field pea is a",
+      "options": [
+        "Cool season crop",
+        "Warm season crop",
+        "Tropical crop",
+        "Dry season crop"
+      ],
+      "correctAnswer": "Cool season crop"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Field pea is mainly grown in the",
+      "options": [
+        "Highlands",
+        "Lowlands",
+        "Deserts",
+        "Coasts"
+      ],
+      "correctAnswer": "Highlands"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Field pea seeds are rich in",
+      "options": [
+        "Protein",
+        "Oil",
+        "Starch",
+        "Fiber"
+      ],
+      "correctAnswer": "Protein"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Field pea plants fix",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Calcium"
+      ],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Field pea is rotated with",
+      "options": [
+        "Cereals",
+        "Oil crops",
+        "Fiber crops",
+        "Root crops"
+      ],
+      "correctAnswer": "Cereals"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Field pea row spacing is usually",
+      "options": [
+        "30 cm",
+        "15 cm",
+        "75 cm",
+        "40 cm"
+      ],
+      "correctAnswer": "30 cm"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Field pea planting depth is",
+      "options": [
+        "5 to 7 cm",
+        "2 to 3 cm",
+        "10 to 12 cm",
+        "1 to 2 cm"
+      ],
+      "correctAnswer": "5 to 7 cm"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The average field pea yield is",
+      "options": [
+        "15 to 20 quintals/ha",
+        "20 to 30 quintals/ha",
+        "40 to 50 quintals/ha",
+        "5 to 8 quintals/ha"
+      ],
+      "correctAnswer": "15 to 20 quintals/ha"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Field pea is harvested when pods turn",
+      "options": [
+        "Yellow",
+        "Green",
+        "Black",
+        "White"
+      ],
+      "correctAnswer": "Yellow"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Powdery mildew is a field pea",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Field pea rust is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Field pea aphids damage the crop by",
+      "options": [
+        "Sucking sap",
+        "Boring pods",
+        "Cutting roots",
+        "Eating leaves"
+      ],
+      "correctAnswer": "Sucking sap"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Bruchids attack stored field pea",
+      "options": [
+        "Seeds",
+        "Roots",
+        "Leaves",
+        "Pods"
+      ],
+      "correctAnswer": "Seeds"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Field pea straw is used as",
+      "options": [
+        "Animal feed",
+        "Cooking oil",
+        "Textile fiber",
+        "Building stone"
+      ],
+      "correctAnswer": "Animal feed"
+    }
+  ]
+}

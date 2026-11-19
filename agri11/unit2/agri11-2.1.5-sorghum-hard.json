@@ -1,0 +1,197 @@
+{
+  "title": "2.1.5 Sorghum (Hard)",
+  "description": "Explaining sorghum adaptation, striga control and pest and harvest decisions",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "sorghum",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Sorghum survives drought better than maize mainly because sorghum has",
+      "options": [
+        "Deep roots and waxy leaves",
+        "Shallow roots and broad leaves",
+        "Thin stems and soft grain",
+        "Long awns and husks"
+      ],
+      "correctAnswer": "Deep roots and waxy leaves"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Striga is a serious sorghum weed because it",
+      "options": [
+        "Parasitizes the crop roots",
+        "Competes only for light",
+        "Attacks stored grain",
+        "Grows after harvest"
+      ],
+      "correctAnswer": "Parasitizes the crop roots"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "A farmer wants to reduce striga. A useful practice is",
+      "options": [
+        "Crop rotation and hand pulling",
+        "Flooding the field all year",
+        "Deep burial of seeds",
+        "Planting closer spacing"
+      ],
+      "correctAnswer": "Crop rotation and hand pulling"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Sorghum is preferred in hot lowlands because it is",
+      "options": [
+        "Drought tolerant",
+        "Frost tolerant",
+        "Water loving",
+        "Shade loving"
+      ],
+      "correctAnswer": "Drought tolerant"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Sorghum grain is used for injera and porridge, while stalks are used for",
+      "options": [
+        "Fencing and fuel",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
+      ],
+      "correctAnswer": "Fencing and fuel"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "A sorghum field is attacked by quelea birds. The damage occurs on the",
+      "options": [
+        "Grain head",
+        "Root system",
+        "Lower stem",
+        "Leaf surface"
+      ],
+      "correctAnswer": "Grain head"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Sorghum smut, rust and anthracnose are",
+      "options": [
+        "Fungal diseases",
+        "Viral diseases",
+        "Insect pests",
+        "Nutrient disorders"
+      ],
+      "correctAnswer": "Fungal diseases"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Sorghum stalk borer and shoot fly are",
+      "options": [
+        "Insect pests",
+        "Fungal diseases",
+        "Viral diseases",
+        "Weed species"
+      ],
+      "correctAnswer": "Insect pests"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Sorghum is harvested when grains are hard and dry to",
+      "options": [
+        "Reduce grain moisture",
+        "Increase grain size",
+        "Improve stalk color",
+        "Kill weed seeds"
+      ],
+      "correctAnswer": "Reduce grain moisture"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A farmer plants sorghum at 75 cm rows and 25 cm within rows to",
+      "options": [
+        "Get proper plant stand",
+        "Reduce fertilizer need",
+        "Increase stalk length",
+        "Delay crop maturity"
+      ],
+      "correctAnswer": "Get proper plant stand"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Sorghum is a good feed because it provides",
+      "options": [
+        "Grain and stover",
+        "Oil and fiber",
+        "Sugar and syrup",
+        "Latex and resin"
+      ],
+      "correctAnswer": "Grain and stover"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "A farmer in a dry lowland has poor sandy soil. Sorghum is a good choice because it",
+      "options": [
+        "Tolerates drought and poor soil",
+        "Needs much water and rich soil",
+        "Grows only in cool highlands",
+        "Requires flooding every season"
+      ],
+      "correctAnswer": "Tolerates drought and poor soil"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Grain mold in sorghum mainly reduces",
+      "options": [
+        "Grain quality",
+        "Stalk height",
+        "Root depth",
+        "Leaf color"
+      ],
+      "correctAnswer": "Grain quality"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Sorghum can be grown in areas too hot for",
+      "options": [
+        "Barley and wheat",
+        "Maize and rice",
+        "Teff and millet",
+        "Faba and pea"
+      ],
+      "correctAnswer": "Barley and wheat"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Striga seeds can remain dormant in soil for many",
+      "options": [
+        "Years",
+        "Days",
+        "Weeks",
+        "Hours"
+      ],
+      "correctAnswer": "Years"
+    }
+  ]
+}

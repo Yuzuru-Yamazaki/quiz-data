@@ -1,0 +1,209 @@
+{
+  "title": "2.1.2 Maize (Medium)",
+  "description": "Maize management practices, pests, diseases and maturity indicators",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "maize",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The maize husk protects the seeds from rain and",
+      "options": [
+        "Birds",
+        "Insects",
+        "Wind",
+        "Frost"
+      ],
+      "correctAnswer": "Birds"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Maize can be harvested late because it",
+      "options": [
+        "Stays on the cob",
+        "Dries very fast",
+        "Has a hard husk",
+        "Stores without drying"
+      ],
+      "correctAnswer": "Stays on the cob"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Fresh maize is also used as",
+      "options": [
+        "Animal feed",
+        "Industrial oil",
+        "Textile fiber",
+        "Cooking fuel"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Maize is planted as a monocrop or mixed with",
+      "options": [
+        "Legumes and teff",
+        "Cotton and sisal",
+        "Barley and oats",
+        "Sugarcane and beet"
+      ],
+      "correctAnswer": "Legumes and teff"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Loam soils for maize should be",
+      "options": [
+        "Well drained",
+        "Water logged",
+        "Very sandy",
+        "Highly saline"
+      ],
+      "correctAnswer": "Well drained"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Maize soil is usually plowed",
+      "options": [
+        "2 or 3 times",
+        "Once only",
+        "4 or 5 times",
+        "6 or 7 times"
+      ],
+      "correctAnswer": "2 or 3 times"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The spacing between maize seeds in a row is",
+      "options": [
+        "25 cm",
+        "20 cm",
+        "40 cm",
+        "10 cm"
+      ],
+      "correctAnswer": "25 cm"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Manual weeding in maize is done",
+      "options": [
+        "2 to 3 times",
+        "Once only",
+        "4 to 5 times",
+        "6 to 7 times"
+      ],
+      "correctAnswer": "2 to 3 times"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Pre-emergence herbicides are applied",
+      "options": [
+        "Before weeds emerge",
+        "After weeds emerge",
+        "After maize harvest",
+        "At flowering stage"
+      ],
+      "correctAnswer": "Before weeds emerge"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Army worm is a maize",
+      "options": [
+        "Insect pest",
+        "Fungal disease",
+        "Viral disease",
+        "Weed species"
+      ],
+      "correctAnswer": "Insect pest"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Gray leaf spot is a maize",
+      "options": [
+        "Fungal disease",
+        "Insect pest",
+        "Viral disease",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Strike virus is a maize",
+      "options": [
+        "Viral disease",
+        "Insect pest",
+        "Fungal disease",
+        "Weed species"
+      ],
+      "correctAnswer": "Viral disease"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Early maturing maize varieties reach harvest in",
+      "options": [
+        "3 months",
+        "5 months",
+        "4 months",
+        "6 months"
+      ],
+      "correctAnswer": "3 months"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "At harvest, maize grain moisture is about",
+      "options": [
+        "25%",
+        "13%",
+        "30%",
+        "20%"
+      ],
+      "correctAnswer": "25%"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The black layer that signals maize maturity is at the",
+      "options": [
+        "Bottom tip",
+        "Top tip",
+        "Middle",
+        "Husk edge"
+      ],
+      "correctAnswer": "Bottom tip"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Earthing up in maize is done about",
+      "options": [
+        "A month after planting",
+        "A week after planting",
+        "At flowering time",
+        "After harvest"
+      ],
+      "correctAnswer": "A month after planting"
+    }
+  ]
+}

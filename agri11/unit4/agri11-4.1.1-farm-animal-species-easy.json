@@ -1,0 +1,197 @@
+{
+  "title": "4.1.1 Farm Animal Species (Easy)",
+  "description": "Basic farm animal species in Ethiopia, scientific names, breeds and primary products",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "farm-animals",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Domestication is the",
+      "options": [
+        "Taming wild animals for use",
+        "Rearing animals in the wild",
+        "Selective hunting of wild herds",
+        "Movement of herds to pasture"
+      ],
+      "correctAnswer": "Taming wild animals for use"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Domesticated animals are animals that have been",
+      "options": [
+        "Bred to live alongside humans",
+        "Captured and kept in public zoos",
+        "Hunted for food in forests",
+        "Raised only for research"
+      ],
+      "correctAnswer": "Bred to live alongside humans"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Most familiar farm animals were domesticated between",
+      "options": [
+        "8000 and 2500 BC",
+        "1000 and 500 BC",
+        "5000 and 4000 AD",
+        "200 and 100 BC"
+      ],
+      "correctAnswer": "8000 and 2500 BC"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Farm animals in Ethiopia are composed of mammal, avian and",
+      "options": [
+        "Honeybee species",
+        "Reptile species",
+        "Amphibian species",
+        "Fish species"
+      ],
+      "correctAnswer": "Honeybee species"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Cattle belong to the genus",
+      "options": [
+        "Bos",
+        "Ovis",
+        "Capra",
+        "Camelus"
+      ],
+      "correctAnswer": "Bos"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Humped cattle commonly found in tropical countries are",
+      "options": [
+        "Bos indicus",
+        "Bos taurus",
+        "Ovis aries",
+        "Capra hircus"
+      ],
+      "correctAnswer": "Bos indicus"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Sheep belong to the genus",
+      "options": [
+        "Ovis",
+        "Bos",
+        "Capra",
+        "Camelus"
+      ],
+      "correctAnswer": "Ovis"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Goats belong to the species",
+      "options": [
+        "Capra hircus",
+        "Ovis aries",
+        "Bos taurus",
+        "Camelus dromedary"
+      ],
+      "correctAnswer": "Capra hircus"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The Dromedary camel has how many humps?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "None"
+      ],
+      "correctAnswer": "One"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The Bactrian camel has how many humps?",
+      "options": [
+        "Two",
+        "One",
+        "Three",
+        "None"
+      ],
+      "correctAnswer": "Two"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Layers are raised mainly for",
+      "options": [
+        "Eggs",
+        "Meat",
+        "Milk",
+        "Wool"
+      ],
+      "correctAnswer": "Eggs"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Broilers are raised mainly for",
+      "options": [
+        "Meat",
+        "Eggs",
+        "Milk",
+        "Wool"
+      ],
+      "correctAnswer": "Meat"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "A honeybee colony is composed of",
+      "options": [
+        "Worker, queen, drone",
+        "Worker, queen, larva",
+        "Queen, drone, pupa",
+        "Worker, drone, egg"
+      ],
+      "correctAnswer": "Worker, queen, drone"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Drone bees are",
+      "options": [
+        "Male",
+        "Female",
+        "Workers",
+        "Queens"
+      ],
+      "correctAnswer": "Male"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The fastest growing area of animal food production is",
+      "options": [
+        "Fish farming",
+        "Poultry farming",
+        "Dairy farming",
+        "Beef farming"
+      ],
+      "correctAnswer": "Fish farming"
+    }
+  ]
+}

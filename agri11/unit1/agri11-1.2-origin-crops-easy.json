@@ -1,0 +1,185 @@
+{
+  "title": "1.2 Origin of Domesticated Crops (Easy)",
+  "description": "Hunter-gatherer food selection, early domestication and the origins of agriculture",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "origins",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The exact place and time agriculture began",
+      "options": [
+        "Cannot be known",
+        "Is known precisely",
+        "Was recorded in writing",
+        "Is fixed at 8000 BC"
+      ],
+      "correctAnswer": "Cannot be known"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Animals were first domesticated mainly for",
+      "options": [
+        "Food production",
+        "Non-food materials",
+        "Religious rituals",
+        "Transport power"
+      ],
+      "correctAnswer": "Food production"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Later animal breeding aimed to produce",
+      "options": [
+        "Non-food materials",
+        "Food production",
+        "Religious use",
+        "Wild release"
+      ],
+      "correctAnswer": "Non-food materials"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Hunter-gatherers selected plants mainly as",
+      "options": [
+        "Food sources",
+        "Medicine only",
+        "Building material",
+        "Fuel only"
+      ],
+      "correctAnswer": "Food sources"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which wild grain was consumed by hunter-gatherers?",
+      "options": [
+        "Wild rice",
+        "Rice",
+        "Wheat",
+        "Maize"
+      ],
+      "correctAnswer": "Wild rice"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which wild grain is named in the handout?",
+      "options": [
+        "Wild oats",
+        "Oats",
+        "Barley",
+        "Millet"
+      ],
+      "correctAnswer": "Wild oats"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Legumes used by hunter-gatherers are known to have been",
+      "options": [
+        "Toxic",
+        "Sweet",
+        "Bitter",
+        "Tasteless"
+      ],
+      "correctAnswer": "Toxic"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Root crops were widely used by hunter-gatherers in the",
+      "options": [
+        "Tropical region",
+        "Arctic region",
+        "Desert region",
+        "Polar region"
+      ],
+      "correctAnswer": "Tropical region"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Hunter-gatherers used which plants as sources of oil?",
+      "options": [
+        "Coconut, oil palm and olive trees",
+        "Coconut, wheat and rice grain crops",
+        "Olive, barley and oats",
+        "Palm, maize and teff"
+      ],
+      "correctAnswer": "Coconut, oil palm and olive trees"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Religion may have influenced agriculture through the keeping of",
+      "options": [
+        "Particular animals and particular plants",
+        "Only certain wild animals kept for their food",
+        "Only grain crops",
+        "Only draft animals"
+      ],
+      "correctAnswer": "Particular animals and particular plants"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "A desirable feature of plants selected by hunter-gatherers was",
+      "options": [
+        "Climatic tolerance",
+        "Metal tools",
+        "Writing systems",
+        "Irrigation canals"
+      ],
+      "correctAnswer": "Climatic tolerance"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Hunter-gatherers also selected plants with",
+      "options": [
+        "Good flavour and grain size",
+        "Very high fertilizer needs each season",
+        "Short storage life",
+        "Late maturity"
+      ],
+      "correctAnswer": "Good flavour and grain size"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The selection of plants as food sources influenced their",
+      "options": [
+        "Domestication",
+        "Irrigation",
+        "Fertilization",
+        "Mechanization"
+      ],
+      "correctAnswer": "Domestication"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Poison extracted from toxic legumes was",
+      "options": [
+        "Used on arrowheads",
+        "Sold in markets",
+        "Fed to animals",
+        "Used as manure"
+      ],
+      "correctAnswer": "Used on arrowheads"
+    }
+  ]
+}

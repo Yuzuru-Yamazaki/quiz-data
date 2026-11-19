@@ -1,0 +1,257 @@
+{
+  "title": "1.4 Classification of Crop Plants (Easy)",
+  "description": "Crop categories, monocots and dicots, oil, fiber, forage crops and C3 versus C4 plants",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "classification",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The four major categories of crop plants are",
+      "options": [
+        "Food, oil, fiber, sugar",
+        "Food, feed, fuel, fiber",
+        "Cereal, pulse, root, oil",
+        "Grain, forage, fiber, sugar"
+      ],
+      "correctAnswer": "Food, oil, fiber, sugar"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The three most important food crops globally by production volume are",
+      "options": [
+        "Wheat, rice, maize",
+        "Rice, maize, teff",
+        "Maize, barley, oats",
+        "Wheat, sorghum, rice"
+      ],
+      "correctAnswer": "Wheat, rice, maize"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which crop ranks first in area of production in Ethiopia?",
+      "options": [
+        "Teff",
+        "Wheat",
+        "Maize",
+        "Barley"
+      ],
+      "correctAnswer": "Teff"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Monocot crops store food primarily in their",
+      "options": [
+        "Endosperm",
+        "Cotyledons",
+        "Roots",
+        "Leaves"
+      ],
+      "correctAnswer": "Endosperm"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Dicot crops store food in their",
+      "options": [
+        "Cotyledons",
+        "Endosperm",
+        "Stems",
+        "Roots"
+      ],
+      "correctAnswer": "Cotyledons"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Monocot seeds contain",
+      "options": [
+        "One cotyledon",
+        "Two cotyledons",
+        "No cotyledon",
+        "Three cotyledons"
+      ],
+      "correctAnswer": "One cotyledon"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Dicot seeds contain",
+      "options": [
+        "Two cotyledons",
+        "One cotyledon",
+        "No cotyledon",
+        "Three cotyledons"
+      ],
+      "correctAnswer": "Two cotyledons"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "A cotyledon is a",
+      "options": [
+        "Seed leaf",
+        "Root tip",
+        "Stem node",
+        "Flower bud"
+      ],
+      "correctAnswer": "Seed leaf"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The endosperm provides nutrition mainly as",
+      "options": [
+        "Starch",
+        "Oil",
+        "Fiber",
+        "Ash"
+      ],
+      "correctAnswer": "Starch"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Which are major oil crops?",
+      "options": [
+        "Sesame and sunflower",
+        "Teff and barley",
+        "Cotton and sisal",
+        "Sugarcane and beet"
+      ],
+      "correctAnswer": "Sesame and sunflower"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Cotton lint is most important for",
+      "options": [
+        "Cloth-making",
+        "Rope-making",
+        "Paper-making",
+        "Oil extraction"
+      ],
+      "correctAnswer": "Cloth-making"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The hard vegetable fiber jute is used for",
+      "options": [
+        "Ropes",
+        "Cloth",
+        "Paper",
+        "Oil"
+      ],
+      "correctAnswer": "Ropes"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Forage crops are plants used as food for",
+      "options": [
+        "Livestock",
+        "Humans",
+        "Pests",
+        "Soil microbes"
+      ],
+      "correctAnswer": "Livestock"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Alfalfa is a",
+      "options": [
+        "Forage crop",
+        "Oil crop",
+        "Fiber crop",
+        "Sugar crop"
+      ],
+      "correctAnswer": "Forage crop"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "In C3 plants, the first stable carbon compound has",
+      "options": [
+        "3 carbons",
+        "4 carbons",
+        "2 carbons",
+        "5 carbons"
+      ],
+      "correctAnswer": "3 carbons"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "In C4 plants, the first stable carbon compound has",
+      "options": [
+        "4 carbons",
+        "3 carbons",
+        "2 carbons",
+        "5 carbons"
+      ],
+      "correctAnswer": "4 carbons"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Which is a C3 crop?",
+      "options": [
+        "Wheat",
+        "Maize",
+        "Sorghum",
+        "Sugarcane"
+      ],
+      "correctAnswer": "Wheat"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Which is a C4 crop?",
+      "options": [
+        "Maize",
+        "Wheat",
+        "Barley",
+        "Teff"
+      ],
+      "correctAnswer": "Maize"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Which is a sugar crop?",
+      "options": [
+        "Sugarcane",
+        "Cotton",
+        "Sesame",
+        "Alfalfa"
+      ],
+      "correctAnswer": "Sugarcane"
+    },
+    {
+      "id": 20,
+      "anki": true,
+      "question": "Cereals are",
+      "options": [
+        "Grasses cultivated for grain",
+        "Legumes that are grown for seed",
+        "Roots grown for starch",
+        "Fibers grown for cloth"
+      ],
+      "correctAnswer": "Grasses cultivated for grain"
+    }
+  ]
+}

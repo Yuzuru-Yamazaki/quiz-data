@@ -1,0 +1,245 @@
+{
+  "title": "1.4 Classification of Crop Plants (Medium)",
+  "description": "Comparing crop groups, seed storage, oil composition and photosynthetic types",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "classification",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Monocot crops include",
+      "options": [
+        "Cereals",
+        "Legumes",
+        "Oil seeds",
+        "Root crops"
+      ],
+      "correctAnswer": "Cereals"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Dicot grain crops include",
+      "options": [
+        "Legumes and oil seeds",
+        "Cereals and grasses",
+        "Roots and tubers",
+        "Sugarcane and beet"
+      ],
+      "correctAnswer": "Legumes and oil seeds"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Compared with cereals, dicot grains are high in",
+      "options": [
+        "Protein and oil",
+        "Starch and fiber",
+        "Sugar and water",
+        "Ash and fiber"
+      ],
+      "correctAnswer": "Protein and oil"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "A weakness of dicot protein is that it is low in certain",
+      "options": [
+        "Essential amino acids",
+        "Total protein content",
+        "Oil content",
+        "Carbohydrate content"
+      ],
+      "correctAnswer": "Essential amino acids"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The top food crops are ranked globally by",
+      "options": [
+        "Volume of production",
+        "Area of cultivation",
+        "Market price",
+        "Export value"
+      ],
+      "correctAnswer": "Volume of production"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Oil crops are grown to extract oil from their",
+      "options": [
+        "Seeds",
+        "Leaves",
+        "Roots",
+        "Stems"
+      ],
+      "correctAnswer": "Seeds"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Plant oils supply the essential fatty acids",
+      "options": [
+        "Linoleic and alpha-linolenic",
+        "Oleic acid and stearic acid types",
+        "Palmitic and butyric",
+        "Arachidic and lauric"
+      ],
+      "correctAnswer": "Linoleic and alpha-linolenic"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Oils supply vitamins",
+      "options": [
+        "A, K, D and E",
+        "B, C and K",
+        "A, B and C",
+        "C, D and E"
+      ],
+      "correctAnswer": "A, K, D and E"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Triglycerides are composed of glycerine and",
+      "options": [
+        "Three fatty acids",
+        "Two fatty acids",
+        "Four fatty acids",
+        "One fatty acid"
+      ],
+      "correctAnswer": "Three fatty acids"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Cotton fibers are used to manufacture",
+      "options": [
+        "Sewing threads and cloth",
+        "Ropes, sacks and packaging",
+        "Paper and boards",
+        "Oil and soap"
+      ],
+      "correctAnswer": "Sewing threads and cloth"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Fibers from plant barks are often used for",
+      "options": [
+        "Packaging materials",
+        "Sewing threads and cloth",
+        "Cooking oil",
+        "Animal feed"
+      ],
+      "correctAnswer": "Packaging materials"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Forage crops are selected for protein, fiber and",
+      "options": [
+        "Nutrients",
+        "Color",
+        "Flavor",
+        "Aroma"
+      ],
+      "correctAnswer": "Nutrients"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "C4 plants are more efficient in",
+      "options": [
+        "Water use",
+        "Seed size",
+        "Oil content",
+        "Fiber length"
+      ],
+      "correctAnswer": "Water use"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "C3 photosynthesis increases with",
+      "options": [
+        "Higher CO2 levels",
+        "Lower CO2 levels",
+        "Higher soil pH",
+        "Lower temperature"
+      ],
+      "correctAnswer": "Higher CO2 levels"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "C4 plants accumulate CO2 inside the",
+      "options": [
+        "Chloroplast",
+        "Mitochondrion",
+        "Vacuole",
+        "Nucleus"
+      ],
+      "correctAnswer": "Chloroplast"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Examples of C4 plants include",
+      "options": [
+        "Sorghum, maize, sugarcane",
+        "Wheat, barley, teff and oats",
+        "Soybean, groundnut",
+        "Sweet potato, clover"
+      ],
+      "correctAnswer": "Sorghum, maize, sugarcane"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Forage grasses include",
+      "options": [
+        "Elephant, Desho, Rhodes",
+        "Wheat, barley, teff",
+        "Sesame, sunflower",
+        "Cotton, jute, hemp"
+      ],
+      "correctAnswer": "Elephant, Desho, Rhodes"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Forage legumes include",
+      "options": [
+        "Alfalfa, clovers, Leucaena",
+        "Maize, sorghum, millet",
+        "Cotton, sisal, jute",
+        "Teff, wheat, barley"
+      ],
+      "correctAnswer": "Alfalfa, clovers, Leucaena"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "Plant fibers used for clothing come mainly from",
+      "options": [
+        "Cotton lint",
+        "Sugarcane",
+        "Maize",
+        "Sesame"
+      ],
+      "correctAnswer": "Cotton lint"
+    }
+  ]
+}

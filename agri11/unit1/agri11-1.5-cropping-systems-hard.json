@@ -1,0 +1,185 @@
+{
+  "title": "1.5 Cropping Systems (Hard)",
+  "description": "Identifying cropping systems from field descriptions and reasoning about their trade-offs",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "cropping-systems",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "A farm grows only maize every year. This is",
+      "options": [
+        "Mono cropping",
+        "Mixed cropping",
+        "Crop rotation",
+        "Relay planting"
+      ],
+      "correctAnswer": "Mono cropping"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Maize and beans planted in alternating rows in the same season is",
+      "options": [
+        "Intercropping",
+        "Relay planting",
+        "Crop rotation",
+        "Mono cropping"
+      ],
+      "correctAnswer": "Intercropping"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Beans planted into a maize field before the maize is harvested is",
+      "options": [
+        "Relay planting",
+        "Intercropping",
+        "Rotation",
+        "Fallowing"
+      ],
+      "correctAnswer": "Relay planting"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Teff followed by faba bean followed by wheat on one plot is",
+      "options": [
+        "Crop rotation",
+        "Mixed cropping",
+        "Intercropping",
+        "Mono cropping"
+      ],
+      "correctAnswer": "Crop rotation"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which system best reduces the risk of total crop failure?",
+      "options": [
+        "Mixed cropping",
+        "Mono cropping",
+        "Continuous cropping",
+        "Single variety planting"
+      ],
+      "correctAnswer": "Mixed cropping"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which system most allows uniform management?",
+      "options": [
+        "Mono cropping",
+        "Mixed cropping",
+        "Intercropping",
+        "Relay planting"
+      ],
+      "correctAnswer": "Mono cropping"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A major limitation of crop rotation is that it may select for",
+      "options": [
+        "Resistant weeds and diseases",
+        "More fertile soils over a long time",
+        "Higher seed quality",
+        "Better water use"
+      ],
+      "correctAnswer": "Resistant weeds and diseases"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Intercropping reduces erosion mainly by providing",
+      "options": [
+        "Better soil cover",
+        "More fertilizer",
+        "Deeper plowing",
+        "Taller shelters"
+      ],
+      "correctAnswer": "Better soil cover"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which pair correctly matches system and practice?",
+      "options": [
+        "Relay-second crop later",
+        "Rotation-two crops together",
+        "Intercrop-one crop only",
+        "Mono-two crops at once"
+      ],
+      "correctAnswer": "Relay-second crop later"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Legumes in a rotation fix",
+      "options": [
+        "Atmospheric nitrogen",
+        "Soil phosphorus",
+        "Atmospheric carbon",
+        "Soil potassium"
+      ],
+      "correctAnswer": "Atmospheric nitrogen"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "In mixed cropping, pests spread",
+      "options": [
+        "Less rapidly than in mono cropping",
+        "More rapidly than in mono cropping",
+        "Only between the two crops",
+        "Just as rapidly as in mono cropping"
+      ],
+      "correctAnswer": "Less rapidly than in mono cropping"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "A farmer plants maize and sorghum together to spread risk. This is",
+      "options": [
+        "Mixed cropping",
+        "Crop rotation",
+        "Relay planting",
+        "Mono cropping"
+      ],
+      "correctAnswer": "Mixed cropping"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Which system is most associated with large commercial production?",
+      "options": [
+        "Mono cropping",
+        "Mixed cropping",
+        "Relay planting",
+        "Subsistence farming"
+      ],
+      "correctAnswer": "Mono cropping"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Which sequence describes relay planting?",
+      "options": [
+        "First crop grows alone, second is added",
+        "Two crops planted at the same time",
+        "Two crops alternate between seasons",
+        "One crop replaced by another after harvest"
+      ],
+      "correctAnswer": "First crop grows alone, second is added"
+    }
+  ]
+}

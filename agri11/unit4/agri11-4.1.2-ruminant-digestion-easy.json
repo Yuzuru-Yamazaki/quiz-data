@@ -1,0 +1,197 @@
+{
+  "title": "4.1.2 Ruminant and Monogastric Digestion (Easy)",
+  "description": "Basic digestive anatomy of ruminants, horses and poultry, including stomach chambers and their names",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "digestion",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Ruminant animals have how many stomach chambers?",
+      "options": [
+        "Four",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correctAnswer": "Four"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The first and largest stomach chamber of a ruminant is the",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correctAnswer": "Rumen"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The true stomach of a ruminant is the",
+      "options": [
+        "Abomasum",
+        "Rumen",
+        "Reticulum",
+        "Omasum"
+      ],
+      "correctAnswer": "Abomasum"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The honeycomb chamber of the ruminant stomach is the",
+      "options": [
+        "Reticulum",
+        "Rumen",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correctAnswer": "Reticulum"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The chamber called many plies is the",
+      "options": [
+        "Omasum",
+        "Rumen",
+        "Reticulum",
+        "Abomasum"
+      ],
+      "correctAnswer": "Omasum"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The reticulorumen is formed by the",
+      "options": [
+        "Rumen and reticulum",
+        "Omasum and abomasum",
+        "Rumen and omasum",
+        "Reticulum and abomasum"
+      ],
+      "correctAnswer": "Rumen and reticulum"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The rumen is a fermentation vat that digests",
+      "options": [
+        "Cellulose",
+        "Protein",
+        "Starch",
+        "Fat"
+      ],
+      "correctAnswer": "Cellulose"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Monogastric animals have",
+      "options": [
+        "One stomach",
+        "Four stomachs",
+        "Two stomachs",
+        "Three stomachs"
+      ],
+      "correctAnswer": "One stomach"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Examples of monogastric animals are",
+      "options": [
+        "Horses and poultry",
+        "Cattle and sheep",
+        "Goats and camels",
+        "Sheep and goats"
+      ],
+      "correctAnswer": "Horses and poultry"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Examples of ruminant animals are",
+      "options": [
+        "Cows, sheep, goats",
+        "Horses, pigs, poultry",
+        "Camels, pigs, horses",
+        "Fish, bees, poultry"
+      ],
+      "correctAnswer": "Cows, sheep, goats"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The cecum of a horse helps to",
+      "options": [
+        "Ferment roughage",
+        "Store urine",
+        "Grind grain",
+        "Absorb water"
+      ],
+      "correctAnswer": "Ferment roughage"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The crop of a chicken is located at the",
+      "options": [
+        "Base of the neck",
+        "Under the liver",
+        "End of the colon",
+        "Inside the gizzard"
+      ],
+      "correctAnswer": "Base of the neck"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The proventriculus produces",
+      "options": [
+        "Acid and enzymes",
+        "Grit and mucus",
+        "Water and salts",
+        "Bile and waste"
+      ],
+      "correctAnswer": "Acid and enzymes"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "The gizzard is a",
+      "options": [
+        "Muscular stomach",
+        "Glandular stomach",
+        "Storage pouch",
+        "Blind sac"
+      ],
+      "correctAnswer": "Muscular stomach"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The vent is the",
+      "options": [
+        "External cloaca opening",
+        "Internal fold of crop",
+        "Opening of proventriculus",
+        "End of the esophagus"
+      ],
+      "correctAnswer": "External cloaca opening"
+    }
+  ]
+}

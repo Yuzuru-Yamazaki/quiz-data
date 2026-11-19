@@ -1,0 +1,137 @@
+{
+  "title": "2.1 Cereal Crops: General (Hard)",
+  "description": "Applying site selection, controlled inputs and annual crop characteristics to farm decisions",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "cereals",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "A farmer selects a crop for a given field. The first consideration should be",
+      "options": [
+        "Crop needs and site quality",
+        "Current market demand",
+        "Available family labor",
+        "Government subsidy level"
+      ],
+      "correctAnswer": "Crop needs and site quality"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which factors can the farmer manipulate?",
+      "options": [
+        "Planting date and fertilizer",
+        "Rainfall and locust invasion",
+        "Unexpected frost and hail",
+        "National market prices"
+      ],
+      "correctAnswer": "Planting date and fertilizer"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Field crops differ from tree crops because field crops are",
+      "options": [
+        "Annuals with one-season cycles",
+        "Perennials producing many years",
+        "Biennials flowering in year two",
+        "Perennials harvested once only"
+      ],
+      "correctAnswer": "Annuals with one-season cycles"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Irrigating to supplement rainfall is an example of",
+      "options": [
+        "Controlled input use",
+        "Uncontrolled weather",
+        "Post-harvest practice",
+        "Land preparation"
+      ],
+      "correctAnswer": "Controlled input use"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Applying lime is most appropriate when the soil is",
+      "options": [
+        "Too acidic",
+        "Too sandy",
+        "Too dry",
+        "Too saline"
+      ],
+      "correctAnswer": "Too acidic"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Appropriate planting time is important because it",
+      "options": [
+        "Matches crop to weather",
+        "Raises market prices",
+        "Reduces land preparation",
+        "Eliminates all pests"
+      ],
+      "correctAnswer": "Matches crop to weather"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A crop fails after an unexpected early end to rains. This shows",
+      "options": [
+        "Some factors cannot be controlled",
+        "All factors are manageable",
+        "Irrigation is always available",
+        "Planting date is irrelevant"
+      ],
+      "correctAnswer": "Some factors cannot be controlled"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which input and purpose are correctly matched?",
+      "options": [
+        "Fertilizer-nutrients",
+        "Lime-soil texture",
+        "Irrigation-pest control",
+        "Seed rate-planting date"
+      ],
+      "correctAnswer": "Fertilizer-nutrients"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Choosing a crop that fits the selected soil is important because",
+      "options": [
+        "Crops differ in soil needs",
+        "All crops need same soil",
+        "Soil does not affect yield",
+        "Only climate matters"
+      ],
+      "correctAnswer": "Crops differ in soil needs"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "After planting, management includes pest control and",
+      "options": [
+        "Harvest timing",
+        "Land clearing",
+        "Seed selection",
+        "Site selection"
+      ],
+      "correctAnswer": "Harvest timing"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "title": "2.1.2 Maize (Easy)",
+  "description": "Origin, uses, planting, fertilization and harvest facts for maize",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "maize",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Maize most likely originated in",
+      "options": [
+        "Central America",
+        "Southern Africa",
+        "Eastern Asia",
+        "Northern Europe"
+      ],
+      "correctAnswer": "Central America"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Maize seeds are covered by a",
+      "options": [
+        "Husk",
+        "Glume",
+        "Pod",
+        "Shell"
+      ],
+      "correctAnswer": "Husk"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "A useful harvest trait of mature maize is that the seeds",
+      "options": [
+        "Stay on the cob",
+        "Fall to the ground",
+        "Split open",
+        "Sprout early"
+      ],
+      "correctAnswer": "Stay on the cob"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Maize residues are used in rural areas as",
+      "options": [
+        "Firewood",
+        "Fertilizer",
+        "Animal feed",
+        "Construction"
+      ],
+      "correctAnswer": "Firewood"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Industry uses maize to produce starch and",
+      "options": [
+        "Oil",
+        "Fiber",
+        "Sugar",
+        "Latex"
+      ],
+      "correctAnswer": "Oil"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Suitable altitudes for maize are",
+      "options": [
+        "500 to 2400 m",
+        "1800 to 3000 m",
+        "2200 to 3000 m",
+        "500 to 1500 m"
+      ],
+      "correctAnswer": "500 to 2400 m"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "In Ethiopia, maize yield per unit area is the",
+      "options": [
+        "Highest among cereals",
+        "Lowest among cereals",
+        "Same as teff",
+        "Same as barley"
+      ],
+      "correctAnswer": "Highest among cereals"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Maize ranks second to teff in",
+      "options": [
+        "Area of production",
+        "Yield per hectare",
+        "Seed size",
+        "Export value"
+      ],
+      "correctAnswer": "Area of production"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The most common maize planting time is",
+      "options": [
+        "March to April",
+        "June to July",
+        "July to August",
+        "September to October"
+      ],
+      "correctAnswer": "March to April"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Maize seed sowing depth is",
+      "options": [
+        "5 to 7 cm",
+        "2 to 3 cm",
+        "8 to 10 cm",
+        "1 to 2 cm"
+      ],
+      "correctAnswer": "5 to 7 cm"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Maize row spacing is usually",
+      "options": [
+        "75 cm between rows",
+        "25 cm between rows",
+        "40 cm between rows",
+        "20 cm between rows"
+      ],
+      "correctAnswer": "75 cm between rows"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The usual fertilizer rate for maize is",
+      "options": [
+        "41 kg N and 20 kg P",
+        "60 kg N and 26 kg P",
+        "45 kg N and 25 kg P",
+        "32 kg N and 10 kg P"
+      ],
+      "correctAnswer": "41 kg N and 20 kg P"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Earthing up around maize reduces",
+      "options": [
+        "Lodging",
+        "Wilting",
+        "Rust",
+        "Smut"
+      ],
+      "correctAnswer": "Lodging"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Maize is ready for harvest when seeds show",
+      "options": [
+        "Black layer at seed tip",
+        "Yellow leaves at the base",
+        "Dry husk turning white",
+        "Stems becoming hollow"
+      ],
+      "correctAnswer": "Black layer at seed tip"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "For safe storage, maize grain moisture should be",
+      "options": [
+        "13% or lower",
+        "25% or lower",
+        "30% or lower",
+        "20% or lower"
+      ],
+      "correctAnswer": "13% or lower"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "The average national yield of maize is",
+      "options": [
+        "32.5 quintals/ha",
+        "24.5 quintals/ha",
+        "14.6 quintals/ha",
+        "19 quintals/ha"
+      ],
+      "correctAnswer": "32.5 quintals/ha"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "A common insect pest of maize is",
+      "options": [
+        "Stalk borer",
+        "Boll weevil",
+        "Shoot fly",
+        "Leaf miner"
+      ],
+      "correctAnswer": "Stalk borer"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Atrazine is used as a",
+      "options": [
+        "Pre-emergence herbicide",
+        "Post-emergence herbicide",
+        "Fungicide spray",
+        "Insecticide dust"
+      ],
+      "correctAnswer": "Pre-emergence herbicide"
+    },
+    {
+      "id": 19,
+      "anki": true,
+      "question": "2,4-D is used as a",
+      "options": [
+        "Post-emergence herbicide",
+        "Pre-emergence herbicide",
+        "Fungal disease",
+        "Viral disease"
+      ],
+      "correctAnswer": "Post-emergence herbicide"
+    }
+  ]
+}

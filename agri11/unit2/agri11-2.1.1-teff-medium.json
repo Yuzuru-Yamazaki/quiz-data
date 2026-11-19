@@ -1,0 +1,185 @@
+{
+  "title": "2.1.1 Teff (Medium)",
+  "description": "Teff land preparation, planting, fertilization, weed control and harvesting",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "teff",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Teff can grow in low fertility soils and in areas with",
+      "options": [
+        "Moisture shortage",
+        "Heavy frost",
+        "Saline water",
+        "Water logging only"
+      ],
+      "correctAnswer": "Moisture shortage"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The major teff producing areas are at",
+      "options": [
+        "1500 to 2800 m",
+        "500 to 1500 m",
+        "1800 to 3000 m",
+        "2200 to 3000 m"
+      ],
+      "correctAnswer": "1500 to 2800 m"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "For teff, the soil is usually cultivated",
+      "options": [
+        "4 or 5 times",
+        "Once only",
+        "2 or 3 times",
+        "6 or 7 times"
+      ],
+      "correctAnswer": "4 or 5 times"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Animals are driven on the surface to achieve a",
+      "options": [
+        "Smooth seedbed",
+        "Deep furrow",
+        "Rough surface",
+        "Raised bed"
+      ],
+      "correctAnswer": "Smooth seedbed"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Row planting of teff uses a spacing of",
+      "options": [
+        "20 cm between rows",
+        "25 cm between rows",
+        "40 cm between rows",
+        "75 cm between rows"
+      ],
+      "correctAnswer": "20 cm between rows"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Shallow furrows at 3 to 6 m intervals are made to drain",
+      "options": [
+        "Excess moisture",
+        "Irrigation water",
+        "Soil nutrients",
+        "Weed seeds"
+      ],
+      "correctAnswer": "Excess moisture"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The usual fertilizer rate for teff is",
+      "options": [
+        "60 kg N and 26 kg P",
+        "41 kg N and 20 kg P",
+        "45 kg N and 25 kg P",
+        "32 kg N and 10 kg P"
+      ],
+      "correctAnswer": "60 kg N and 26 kg P"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Teff competes poorly with weeds at the",
+      "options": [
+        "Early seedling stage",
+        "Late tillering stage",
+        "Flowering stage",
+        "Harvest stage"
+      ],
+      "correctAnswer": "Early seedling stage"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The herbicide 2,4-D is used to control",
+      "options": [
+        "Broad leaf weeds",
+        "Grassy weeds only",
+        "All insect pests",
+        "Fungal diseases"
+      ],
+      "correctAnswer": "Broad leaf weeds"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Teff is ready for harvest when stems and panicle turn",
+      "options": [
+        "Yellow",
+        "Green",
+        "Brown",
+        "Black"
+      ],
+      "correctAnswer": "Yellow"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Early weeding is important in teff because the crop",
+      "options": [
+        "Weak against weeds",
+        "Grows very slowly",
+        "Needs more fertilizer",
+        "Attracts many pests"
+      ],
+      "correctAnswer": "Weak against weeds"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Fungal diseases in teff are favored by",
+      "options": [
+        "Excess water in the soil",
+        "Dry and windy weather",
+        "Low soil fertility",
+        "High soil temperature"
+      ],
+      "correctAnswer": "Excess water in the soil"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Teff can be stored for a long time and is less affected by",
+      "options": [
+        "Pests and diseases",
+        "Drought and frost",
+        "Flood and hail",
+        "Soil erosion"
+      ],
+      "correctAnswer": "Pests and diseases"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Teff is considered a reliable crop with",
+      "options": [
+        "Low levels of risk",
+        "High market price",
+        "Very high yield",
+        "Short growing season"
+      ],
+      "correctAnswer": "Low levels of risk"
+    }
+  ]
+}

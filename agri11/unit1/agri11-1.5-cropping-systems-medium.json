@@ -1,0 +1,185 @@
+{
+  "title": "1.5 Cropping Systems (Medium)",
+  "description": "Advantages, risks and management requirements of the main cropping systems",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "cropping-systems",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Mono cropping enables farmers to use",
+      "options": [
+        "Uniform management",
+        "Crop diversity",
+        "Risk spreading",
+        "Nutrient balance"
+      ],
+      "correctAnswer": "Uniform management"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Mixed cropping helps to break the cycle of",
+      "options": [
+        "Pests and diseases",
+        "Soil moisture levels",
+        "Nutrient loss",
+        "Farm labor"
+      ],
+      "correctAnswer": "Pests and diseases"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Intercropping is a type of",
+      "options": [
+        "Mixed cropping",
+        "Mono cropping",
+        "Crop rotation",
+        "Fallowing"
+      ],
+      "correctAnswer": "Mixed cropping"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Relay planting reduces",
+      "options": [
+        "The risk of total crop failure",
+        "The need for improved seed supply",
+        "The use of fertilizer",
+        "The length of the season"
+      ],
+      "correctAnswer": "The risk of total crop failure"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "A possible disadvantage of crop rotation is",
+      "options": [
+        "Resistant diseases and weeds",
+        "Improved soil fertility levels",
+        "Lower pest damage",
+        "Higher yields always"
+      ],
+      "correctAnswer": "Resistant diseases and weeds"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Changing climates may be a challenge to",
+      "options": [
+        "Crop rotation",
+        "Mono cropping only",
+        "Relay planting only",
+        "Intercropping only"
+      ],
+      "correctAnswer": "Crop rotation"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Including legumes in a rotation improves",
+      "options": [
+        "Soil fertility",
+        "Soil acidity",
+        "Seed dormancy",
+        "Weed density"
+      ],
+      "correctAnswer": "Soil fertility"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Mono cropping tends to reduce",
+      "options": [
+        "Soil fertility",
+        "Crop uniformity",
+        "Labor efficiency",
+        "Market supply"
+      ],
+      "correctAnswer": "Soil fertility"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Mixed cropping helps to spread",
+      "options": [
+        "Production risk",
+        "Improved seed",
+        "Chemical use",
+        "Machinery"
+      ],
+      "correctAnswer": "Production risk"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Crop rotation is especially useful for controlling",
+      "options": [
+        "Soil-borne pests",
+        "Air pollution",
+        "Seed size",
+        "Market prices"
+      ],
+      "correctAnswer": "Soil-borne pests"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Intercropping cereal with legume can improve",
+      "options": [
+        "Cereal yield",
+        "Cereal color",
+        "Seed weight",
+        "Grain hardness"
+      ],
+      "correctAnswer": "Cereal yield"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Relay planting mainly avoids dependence on",
+      "options": [
+        "One crop only",
+        "One field only",
+        "One season only",
+        "One market"
+      ],
+      "correctAnswer": "One crop only"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Mono cropping increases the efficiency of",
+      "options": [
+        "Planting and harvesting",
+        "Crop rotation",
+        "Pest control",
+        "Soil and water conservation"
+      ],
+      "correctAnswer": "Planting and harvesting"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Mixed cropping uses soil nutrients, water and light",
+      "options": [
+        "More efficiently",
+        "Less efficiently",
+        "Not at all",
+        "Only at night"
+      ],
+      "correctAnswer": "More efficiently"
+    }
+  ]
+}

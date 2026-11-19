@@ -1,0 +1,233 @@
+{
+  "title": "4.4 Animal Production Systems (Medium)",
+  "description": "Comparing extensive forms, mixed farming, semi-intensive and intensive practices",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "production-systems",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Extensive productivity is lower because feed depends on",
+      "options": [
+        "Climate and pasture",
+        "Purchased ration",
+        "Veterinary care",
+        "Market price"
+      ],
+      "correctAnswer": "Climate and pasture"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Compared with intensive farming, extensive growth is",
+      "options": [
+        "Slower, later maturity",
+        "Faster, earlier maturity",
+        "Same as intensive",
+        "Faster, later maturity"
+      ],
+      "correctAnswer": "Slower, later maturity"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Extensive farming requires less",
+      "options": [
+        "Labour per unit area",
+        "Land per animal",
+        "Feed per herd",
+        "Capital per herd"
+      ],
+      "correctAnswer": "Labour per unit area"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Pastoralists move their animals to obtain",
+      "options": [
+        "Pasture after rainfall",
+        "Urban market access",
+        "Veterinary services",
+        "Breeding programs"
+      ],
+      "correctAnswer": "Pasture after rainfall"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Nomadic movement is usually",
+      "options": [
+        "Random and unplanned",
+        "Fixed and seasonal",
+        "Planned around markets",
+        "Set by government"
+      ],
+      "correctAnswer": "Random and unplanned"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Nomadism is mainly found in",
+      "options": [
+        "Arid and semi-arid areas",
+        "Humid forest zone regions",
+        "Highland valleys",
+        "Coastal wetlands"
+      ],
+      "correctAnswer": "Arid and semi-arid areas"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Transhumance is characterized by movement that is",
+      "options": [
+        "Seasonal and recurring",
+        "Random and permanent",
+        "Urban and daily",
+        "Only in droughts"
+      ],
+      "correctAnswer": "Seasonal and recurring"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Transhumance makes use of distant pasture during the",
+      "options": [
+        "Rainy season",
+        "Dry season",
+        "Harvest time",
+        "Winter only"
+      ],
+      "correctAnswer": "Rainy season"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "In agro-pastoral systems, crops are produced for",
+      "options": [
+        "Subsistence and market",
+        "Subsistence production only",
+        "Market only",
+        "Feed only"
+      ],
+      "correctAnswer": "Subsistence and market"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Ranching is considered a modern alternative to",
+      "options": [
+        "Pastoralism",
+        "Intensive farming",
+        "Mixed farming",
+        "Zero grazing"
+      ],
+      "correctAnswer": "Pastoralism"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Ranching is mainly aimed at",
+      "options": [
+        "Cash income and profit",
+        "Family subsistence",
+        "Manure only",
+        "Draft power"
+      ],
+      "correctAnswer": "Cash income and profit"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Mixed farming is",
+      "options": [
+        "Subsistence-oriented",
+        "Profit-maximizing",
+        "Export-oriented",
+        "Market-specialized"
+      ],
+      "correctAnswer": "Subsistence-oriented"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Equines in mixed farming are mainly used for",
+      "options": [
+        "Transport",
+        "Milk production",
+        "Meat",
+        "Wool"
+      ],
+      "correctAnswer": "Transport"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Compared with extensive farming, semi-intensive production has",
+      "options": [
+        "Higher than extensive",
+        "Lower than extensive",
+        "Equal to extensive",
+        "Absent in extensive"
+      ],
+      "correctAnswer": "Higher than extensive"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "In semi-intensive systems, surplus production is",
+      "options": [
+        "Sold for income",
+        "Fed to animals",
+        "Left to rot",
+        "Given as gifts"
+      ],
+      "correctAnswer": "Sold for income"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Intensive systems supplement animal feed with",
+      "options": [
+        "Protein, mineral, vitamin",
+        "Fibre, water and ash",
+        "Straw, hay and husk material",
+        "Sand, grit and salt"
+      ],
+      "correctAnswer": "Protein, mineral, vitamin"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Examples of intensive farming include",
+      "options": [
+        "Pig, broiler, feedlot, dairy",
+        "Nomad, rancher, mixed, pastoral",
+        "Transhumance, agro-pastoral",
+        "Zero grazing and free range"
+      ],
+      "correctAnswer": "Pig, broiler, feedlot, dairy"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "In zero grazing, fresh grass is",
+      "options": [
+        "Cut and carried daily",
+        "Grazed freely all day",
+        "Stored for a season",
+        "Burned before feeding"
+      ],
+      "correctAnswer": "Cut and carried daily"
+    }
+  ]
+}

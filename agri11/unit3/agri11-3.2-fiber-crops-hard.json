@@ -1,0 +1,137 @@
+{
+  "title": "3.2 Fiber Crops: Cotton and Sisal (Hard)",
+  "description": "Quantitative and integrated reasoning on cotton and sisal establishment, harvest timing and fiber quality",
+  "folder": "School/Grade 11/Agriculture/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit3",
+    "fiber-crops",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "A cotton field is 50 m wide and rows are 1 m apart. The number of rows is",
+      "options": [
+        "50",
+        "25",
+        "100",
+        "500"
+      ],
+      "correctAnswer": "50"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "A cotton row is 100 m long with plants 30 cm apart. The number of plants in the row is about",
+      "options": [
+        "333",
+        "100",
+        "30",
+        "3000"
+      ],
+      "correctAnswer": "333"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "After the first harvest, sisal leaves can be harvested",
+      "options": [
+        "Annually",
+        "Twice yearly",
+        "Every two years",
+        "Only once more"
+      ],
+      "correctAnswer": "Annually"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The correct sequence of sisal fiber processing is",
+      "options": [
+        "Scrape, wash, dry, brush",
+        "Wash, scrape, brush, dry",
+        "Dry, scrape, wash, brush",
+        "Brush, dry, wash, scrape"
+      ],
+      "correctAnswer": "Scrape, wash, dry, brush"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Sisal grows in the altitude range from",
+      "options": [
+        "Sea level to 1800 m",
+        "1200 to 2000 m",
+        "1800 to 3000 m",
+        "500 to 1500 meters above sea level"
+      ],
+      "correctAnswer": "Sea level to 1800 m"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "To prevent lint discoloration, cotton should be grown in",
+      "options": [
+        "Warm dry areas",
+        "Heavily irrigated fields",
+        "High rainfall areas",
+        "Waterlogged lowlands"
+      ],
+      "correctAnswer": "Warm dry areas"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Cotton seed is treated with acid mainly to",
+      "options": [
+        "Remove fuzz for sowing",
+        "Protect from fungi",
+        "Increase oil content",
+        "Speed up the germination process"
+      ],
+      "correctAnswer": "Remove fuzz for sowing"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which pair correctly matches fiber crop and plant part?",
+      "options": [
+        "Cotton boll, sisal leaf",
+        "Cotton leaf, sisal boll",
+        "Cotton root, sisal stem",
+        "Cotton stem, sisal seed"
+      ],
+      "correctAnswer": "Cotton boll, sisal leaf"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "A cotton field has 60 percent of plants with burst bolls. The crop is",
+      "options": [
+        "Ready for harvest",
+        "Wait for all bolls",
+        "Too early to harvest",
+        "Already too late"
+      ],
+      "correctAnswer": "Ready for harvest"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Integrated weed control in cotton combines",
+      "options": [
+        "Manual plus chemical",
+        "Only manual weeding",
+        "Only chemical spraying",
+        "No control needed"
+      ],
+      "correctAnswer": "Manual plus chemical"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "title": "2.2.3 Haricot Bean (Medium)",
+  "description": "Haricot bean agronomy, fertilization, pests, diseases and harvesting",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "haricot-bean",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Haricot bean is adapted to",
+      "options": [
+        "Warm lowland areas",
+        "Cool highland areas",
+        "Coastal plains",
+        "Frost pockets"
+      ],
+      "correctAnswer": "Warm lowland areas"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "The main haricot bean areas are at",
+      "options": [
+        "1000 to 2200 m",
+        "1800 to 3000 m",
+        "2200 to 3000 m",
+        "400 to 1000 m"
+      ],
+      "correctAnswer": "1000 to 2200 m"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Haricot bean grows best on",
+      "options": [
+        "Well-drained loam",
+        "Waterlogged clay",
+        "Saline sand",
+        "Rocky slopes"
+      ],
+      "correctAnswer": "Well-drained loam"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Haricot bean is sensitive to",
+      "options": [
+        "Waterlogging",
+        "Sunlight",
+        "Wind",
+        "Frost"
+      ],
+      "correctAnswer": "Waterlogging"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Haricot bean rows are spaced",
+      "options": [
+        "40 cm apart",
+        "15 cm apart",
+        "75 cm apart",
+        "30 cm apart"
+      ],
+      "correctAnswer": "40 cm apart"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Haricot bean is planted at a depth of",
+      "options": [
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "correctAnswer": "5 cm"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Haricot bean needs less nitrogen fertilizer because it",
+      "options": [
+        "Fixes nitrogen",
+        "Grows very fast",
+        "Has deep roots",
+        "Needs less water"
+      ],
+      "correctAnswer": "Fixes nitrogen"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Haricot bean is weeded",
+      "options": [
+        "2 to 3 times",
+        "Once only",
+        "4 to 5 times",
+        "6 to 7 times"
+      ],
+      "correctAnswer": "2 to 3 times"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Anthracnose is favored by",
+      "options": [
+        "Wet humid weather",
+        "Dry cold weather",
+        "Low soil fertility",
+        "Strong sunlight"
+      ],
+      "correctAnswer": "Wet humid weather"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Haricot bean rust is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Haricot bean aphids are controlled by",
+      "options": [
+        "Insecticides",
+        "Fungicides",
+        "Herbicides",
+        "Nematicides"
+      ],
+      "correctAnswer": "Insecticides"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Bruchids damage haricot bean mainly in",
+      "options": [
+        "Storage",
+        "The field",
+        "The seedbed",
+        "The nursery"
+      ],
+      "correctAnswer": "Storage"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Haricot bean is harvested when pods are",
+      "options": [
+        "Dry and brown",
+        "Green and soft",
+        "Milky and wet",
+        "Black and hard"
+      ],
+      "correctAnswer": "Dry and brown"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Haricot bean straw is used as",
+      "options": [
+        "Animal feed",
+        "Cooking oil",
+        "Textile fiber",
+        "Building stone"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The average haricot bean yield is",
+      "options": [
+        "15 to 20 quintals/ha",
+        "20 to 30 quintals/ha",
+        "40 to 50 quintals/ha",
+        "5 to 8 quintals/ha"
+      ],
+      "correctAnswer": "15 to 20 quintals/ha"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Haricot bean rotation improves the yield of the following",
+      "options": [
+        "Cereal crop",
+        "Oil crop",
+        "Fiber crop",
+        "Root crop"
+      ],
+      "correctAnswer": "Cereal crop"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "Haricot bean is important as a",
+      "options": [
+        "Cash crop",
+        "Fiber crop",
+        "Oil crop",
+        "Fodder crop"
+      ],
+      "correctAnswer": "Cash crop"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "Haricot bean green pods are used as",
+      "options": [
+        "Vegetables",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
+      ],
+      "correctAnswer": "Vegetables"
+    }
+  ]
+}

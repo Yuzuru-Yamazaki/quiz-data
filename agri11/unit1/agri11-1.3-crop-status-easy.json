@@ -1,0 +1,209 @@
+{
+  "title": "1.3 Status of Crop Production (Easy)",
+  "description": "Basic facts on agricultural development, technological eras and Ethiopian crop production",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "crop-status",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Agriculture provides society with",
+      "options": [
+        "Food and other goods",
+        "Only raw materials",
+        "Only animal feed",
+        "Only export crops"
+      ],
+      "correctAnswer": "Food and other goods"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Crop production is mainly determined by crop type and",
+      "options": [
+        "Environment",
+        "Market price",
+        "Farmer age",
+        "Land title"
+      ],
+      "correctAnswer": "Environment"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Primitive agricultural tools had",
+      "options": [
+        "Low efficiency",
+        "High efficiency",
+        "No cost",
+        "Long life"
+      ],
+      "correctAnswer": "Low efficiency"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "One of the first technological changes was the transfer of work to",
+      "options": [
+        "Draft animals",
+        "Machines",
+        "Hired labor",
+        "Irrigation"
+      ],
+      "correctAnswer": "Draft animals"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Draft animals were used to plough land and",
+      "options": [
+        "Transported materials",
+        "Processed grain for the market",
+        "Stored harvest",
+        "Controlled pests"
+      ],
+      "correctAnswer": "Transported materials"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Agricultural machinery reduced",
+      "options": [
+        "Labour requirement",
+        "Crop yield",
+        "Seed quality",
+        "Soil fertility"
+      ],
+      "correctAnswer": "Labour requirement"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "The Mechanical Era covered",
+      "options": [
+        "1930 to 1950",
+        "1950 to 1970",
+        "1970 to present",
+        "1900 to 1930"
+      ],
+      "correctAnswer": "1930 to 1950"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The Chemical Era covered",
+      "options": [
+        "1950 to 1970",
+        "1930 to 1950",
+        "1970 to present",
+        "1900 to 1930"
+      ],
+      "correctAnswer": "1950 to 1970"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The Biotechnology and Information Technology Era began in",
+      "options": [
+        "1970 to present",
+        "1930 to 1950",
+        "1950 to 1970",
+        "1900 to 1930"
+      ],
+      "correctAnswer": "1970 to present"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Ethiopia has about how much arable land?",
+      "options": [
+        "51 million hectares",
+        "20 million hectares",
+        "75 million hectares",
+        "64 million hectares"
+      ],
+      "correctAnswer": "51 million hectares"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "What share of Ethiopia's arable land is cultivated?",
+      "options": [
+        "About 20%",
+        "About 50%",
+        "About 75%",
+        "About 64%"
+      ],
+      "correctAnswer": "About 20%"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The five major crops occupy about what share of cultivated area?",
+      "options": [
+        "75%",
+        "64%",
+        "20%",
+        "51%"
+      ],
+      "correctAnswer": "75%"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "The five major grain crops supply about what share of calories?",
+      "options": [
+        "64%",
+        "75%",
+        "20%",
+        "51%"
+      ],
+      "correctAnswer": "64%"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Cereals are grasses cultivated for their",
+      "options": [
+        "Grains",
+        "Roots",
+        "Leaves",
+        "Fibers"
+      ],
+      "correctAnswer": "Grains"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Modern agriculture includes",
+      "options": [
+        "Crop rotation",
+        "Continuous cropping",
+        "Monoculture only",
+        "Shifting only"
+      ],
+      "correctAnswer": "Crop rotation"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Fallowing leaves land free of crops for",
+      "options": [
+        "2 or 3 seasons",
+        "1 season",
+        "5 or 6 seasons",
+        "10 seasons"
+      ],
+      "correctAnswer": "2 or 3 seasons"
+    }
+  ]
+}

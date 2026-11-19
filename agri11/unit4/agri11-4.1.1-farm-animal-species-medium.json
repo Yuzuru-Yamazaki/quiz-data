@@ -1,0 +1,197 @@
+{
+  "title": "4.1.1 Farm Animal Species (Medium)",
+  "description": "Comparing cattle types, products of sheep, goats, camels and poultry, and roles of honeybees",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "farm-animals",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Bos indicus cattle are commonly found in",
+      "options": [
+        "Tropical countries",
+        "Temperate zones",
+        "Polar regions",
+        "Desert oases only"
+      ],
+      "correctAnswer": "Tropical countries"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Bos taurus cattle are commonly found in",
+      "options": [
+        "Temperate zones",
+        "Tropical countries",
+        "Arid lowlands only",
+        "Coastal swamps"
+      ],
+      "correctAnswer": "Temperate zones"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Cattle hides are processed into",
+      "options": [
+        "Leather",
+        "Wool",
+        "Mohair",
+        "Silk"
+      ],
+      "correctAnswer": "Leather"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Hair from the Angora goat is used to make",
+      "options": [
+        "Mohair",
+        "Wool",
+        "Cashmere",
+        "Cotton"
+      ],
+      "correctAnswer": "Mohair"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Camels can feed on thorny bushes because they have",
+      "options": [
+        "Thick tough lips",
+        "Broad flat hooves",
+        "Long woolly coats",
+        "Short soft muzzles"
+      ],
+      "correctAnswer": "Thick tough lips"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Camels are called ships of the desert because of their",
+      "options": [
+        "Adaptation to dry areas",
+        "Speed over long distances",
+        "Heavy milk production",
+        "Ability to swim well"
+      ],
+      "correctAnswer": "Adaptation to dry areas"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Poultry are monogastric, meaning they have a",
+      "options": [
+        "Single stomach",
+        "Four stomachs",
+        "Two stomachs",
+        "No stomach"
+      ],
+      "correctAnswer": "Single stomach"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Chicken are omnivorous, meaning they eat",
+      "options": [
+        "Plants and animals",
+        "Only plant matter",
+        "Only animal matter",
+        "Only mineral grit"
+      ],
+      "correctAnswer": "Plants and animals"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Broilers are usually slaughtered at",
+      "options": [
+        "6 to 8 weeks",
+        "3 to 4 weeks",
+        "12 to 16 weeks",
+        "6 to 8 months"
+      ],
+      "correctAnswer": "6 to 8 weeks"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Bees rely on flowers for",
+      "options": [
+        "Pollen and nectar",
+        "Leaves and stems",
+        "Seeds and roots",
+        "Bark and sap"
+      ],
+      "correctAnswer": "Pollen and nectar"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The queen bee is",
+      "options": [
+        "Reproductive, larger",
+        "Sterile and smaller",
+        "Male with large eyes",
+        "Worker with no sting"
+      ],
+      "correctAnswer": "Reproductive, larger"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Drone bees are the colony's",
+      "options": [
+        "Male reproductive bees",
+        "Female worker bees",
+        "Egg-laying queens",
+        "Sterile worker bees"
+      ],
+      "correctAnswer": "Male reproductive bees"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Fish farming is the",
+      "options": [
+        "Fastest growing food sector",
+        "Slowest growing food sector",
+        "Declining food sector",
+        "Smallest food sector"
+      ],
+      "correctAnswer": "Fastest growing food sector"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Sheep are raised for",
+      "options": [
+        "Meat, wool, skin",
+        "Meat, milk, eggs",
+        "Wool, eggs, honey",
+        "Milk, honey, silk"
+      ],
+      "correctAnswer": "Meat, wool, skin"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Goats browse on",
+      "options": [
+        "Shoots, twigs and leaves",
+        "Roots, tubers and bulbs",
+        "Seeds, grains and husks",
+        "Fish, insects and grubs"
+      ],
+      "correctAnswer": "Shoots, twigs and leaves"
+    }
+  ]
+}

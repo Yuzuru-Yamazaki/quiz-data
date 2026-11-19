@@ -1,0 +1,161 @@
+{
+  "title": "1.2 Origin of Domesticated Crops (Hard)",
+  "description": "Inferring selection pressures, religious influence and the nature of the agricultural transition",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "origins",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which statement about agricultural origins is best supported?",
+      "options": [
+        "The exact place and time remain unknown",
+        "It began in one single known location on earth",
+        "It was a single sudden event",
+        "It spread from Ethiopia only"
+      ],
+      "correctAnswer": "The exact place and time remain unknown"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Selection for ease of harvest and transport most likely promoted",
+      "options": [
+        "Domestication",
+        "Irrigation",
+        "Crop rotation",
+        "Fertilization"
+      ],
+      "correctAnswer": "Domestication"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The use of toxic legumes suggests hunter-gatherers were",
+      "options": [
+        "Skilled experimenters",
+        "Advanced farmers",
+        "Metal workers",
+        "Written historians"
+      ],
+      "correctAnswer": "Skilled experimenters"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "The agricultural transition took long because it required",
+      "options": [
+        "Deliberate learning and gradual adaptation",
+        "A single technological leap forward by farmers",
+        "Government planning",
+        "Large-scale migration"
+      ],
+      "correctAnswer": "Deliberate learning and gradual adaptation"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Which plant trait would be least useful in hunter-gatherer selection?",
+      "options": [
+        "Hard to transport",
+        "Widely available",
+        "Easily harvested",
+        "Good flavour"
+      ],
+      "correctAnswer": "Hard to transport"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Religion's likely role in domestication was through",
+      "options": [
+        "The selective keeping of sacred animals and plants",
+        "Mass production of crops and animals for export markets",
+        "Irrigation of temple fields",
+        "Use of metal ploughs"
+      ],
+      "correctAnswer": "The selective keeping of sacred animals and plants"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "A plant that is predictable and seasonally available would be",
+      "options": [
+        "Preferred as a reliable food source",
+        "Rejected as an important source of food",
+        "Grown only for fiber",
+        "Left for wild animals"
+      ],
+      "correctAnswer": "Preferred as a reliable food source"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Which evidence best supports deliberate plant use by hunter-gatherers?",
+      "options": [
+        "Detoxified legumes used as a regular food",
+        "Scattered remains of wild fruits in the local caves",
+        "Simple stone tools",
+        "Seasonal cave shelters"
+      ],
+      "correctAnswer": "Detoxified legumes used as a regular food"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "The phrase evolution of agricultural economies implies",
+      "options": [
+        "Gradual change over time",
+        "Sudden collapse of farming",
+        "Return to hunting only",
+        "One-time invention"
+      ],
+      "correctAnswer": "Gradual change over time"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Suitable grain size was useful to hunter-gatherers because it aided",
+      "options": [
+        "Harvest and processing",
+        "Resistance to most pests",
+        "Drought tolerance",
+        "Soil fertility"
+      ],
+      "correctAnswer": "Harvest and processing"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which trait combination best fits a plant selected by hunter-gatherers?",
+      "options": [
+        "Easy to harvest and widely available",
+        "High yield but very high input requirements",
+        "Late maturity, shattering",
+        "Toxic seed, hard transport"
+      ],
+      "correctAnswer": "Easy to harvest and widely available"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Detoxifying wild legumes for food shows",
+      "options": [
+        "Successful adaptation to local resources",
+        "Dependence on imported food supplies from abroad",
+        "Rejection of plant foods",
+        "Use of industrial methods"
+      ],
+      "correctAnswer": "Successful adaptation to local resources"
+    }
+  ]
+}

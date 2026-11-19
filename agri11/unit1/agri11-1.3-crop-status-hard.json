@@ -1,0 +1,185 @@
+{
+  "title": "1.3 Status of Crop Production (Hard)",
+  "description": "Interpreting productivity trends, technology eras and structural limits to Ethiopian crop yield",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "crop-status",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Biotechnology and information technology define the era from",
+      "options": [
+        "1970 to present",
+        "1930 to 1950",
+        "1950 to 1970",
+        "1900 to 1930"
+      ],
+      "correctAnswer": "1970 to present"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Agricultural machinery allows an individual farmer to",
+      "options": [
+        "Operate a large farm",
+        "Avoid all labor",
+        "Abandon rotation",
+        "Ignore soil conservation"
+      ],
+      "correctAnswer": "Operate a large farm"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Low productivity per hectare despite area expansion suggests",
+      "options": [
+        "Limited intensification of production",
+        "Land is already fully utilized by farmers",
+        "Inputs are excessive",
+        "Droughts are absent"
+      ],
+      "correctAnswer": "Limited intensification of production"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which factor pair are both principal causes of low yield?",
+      "options": [
+        "Soil degradation together with low irrigation",
+        "High input use together with full irrigation water",
+        "Improved seeds and fertilizer",
+        "Crop rotation and fallowing"
+      ],
+      "correctAnswer": "Soil degradation together with low irrigation"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Why can area expansion alone fail to ensure food security?",
+      "options": [
+        "Yield per unit area may remain low",
+        "Farmers refuse to expand",
+        "Markets can absorb all of the produce",
+        "Rainfall becomes reliable"
+      ],
+      "correctAnswer": "Yield per unit area may remain low"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "The use of draft animals increased the",
+      "options": [
+        "Efficiency of land preparation",
+        "Crop diversity across the whole farm",
+        "Soil acidity",
+        "Post-harvest loss"
+      ],
+      "correctAnswer": "Efficiency of land preparation"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Which set reflects modern yield-enhancing technology?",
+      "options": [
+        "Machinery, agrochemicals and irrigation water",
+        "Fallowing, shifting, grazing",
+        "Hand tools, manure and rainfed crop farming systems",
+        "Burning, clearing, hunting"
+      ],
+      "correctAnswer": "Machinery, agrochemicals and irrigation water"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The claim that yield per unit area stayed flat is supported by",
+      "options": [
+        "Limited yield evidence",
+        "Rapid yield growth",
+        "Complete yield data",
+        "Rising irrigation"
+      ],
+      "correctAnswer": "Limited yield evidence"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Crop production is determined by environment and",
+      "options": [
+        "Crop type",
+        "Market type",
+        "Farmer type",
+        "Tool type"
+      ],
+      "correctAnswer": "Crop type"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "With 51 million ha arable and 20% cultivated, cultivated land is about",
+      "options": [
+        "10.2 million ha",
+        "20.4 million ha",
+        "5.1 million ha",
+        "25.5 million ha"
+      ],
+      "correctAnswer": "10.2 million ha"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Which practice belongs to modern rather than primitive agriculture?",
+      "options": [
+        "Biotechnology",
+        "Draft animals",
+        "Hand tools",
+        "Shifting cultivation"
+      ],
+      "correctAnswer": "Biotechnology"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Machinery, agrochemicals and biotechnology characterize",
+      "options": [
+        "Modern agriculture",
+        "Primitive agriculture",
+        "Shifting cultivation",
+        "Subsistence farming"
+      ],
+      "correctAnswer": "Modern agriculture"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Ethiopia's five major crops occupy about",
+      "options": [
+        "Three quarters of the cultivated area",
+        "About one fifth of all the cultivated area",
+        "Half of cultivated area",
+        "One tenth of cultivated area"
+      ],
+      "correctAnswer": "Three quarters of the cultivated area"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A strategy to stabilize food supply should combine higher yield with",
+      "options": [
+        "Lower yield variability",
+        "Larger cultivated area",
+        "More fallow land",
+        "Fewer inputs"
+      ],
+      "correctAnswer": "Lower yield variability"
+    }
+  ]
+}

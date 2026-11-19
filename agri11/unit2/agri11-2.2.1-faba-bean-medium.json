@@ -1,0 +1,209 @@
+{
+  "title": "2.2.1 Faba Bean (Medium)",
+  "description": "Faba bean agronomy, fertilization, pests, diseases and harvesting",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "faba-bean",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Faba bean is adapted to",
+      "options": [
+        "Cool highland areas",
+        "Hot lowland areas",
+        "Coastal plains",
+        "Desert oases"
+      ],
+      "correctAnswer": "Cool highland areas"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Faba bean grows best on",
+      "options": [
+        "Well-drained loam",
+        "Waterlogged clay",
+        "Saline sand",
+        "Rocky slopes"
+      ],
+      "correctAnswer": "Well-drained loam"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The faba bean seedbed should be",
+      "options": [
+        "Fine and well drained",
+        "Rough and waterlogged",
+        "Flooded and puddled",
+        "Dry and compacted"
+      ],
+      "correctAnswer": "Fine and well drained"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Faba bean is planted at a depth of",
+      "options": [
+        "5 to 8 cm",
+        "2 to 3 cm",
+        "10 to 12 cm",
+        "1 to 2 cm"
+      ],
+      "correctAnswer": "5 to 8 cm"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Faba bean rows are spaced",
+      "options": [
+        "40 cm apart",
+        "15 cm apart",
+        "75 cm apart",
+        "18 cm apart"
+      ],
+      "correctAnswer": "40 cm apart"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Faba bean needs less nitrogen fertilizer because it",
+      "options": [
+        "Fixes nitrogen",
+        "Grows very fast",
+        "Has deep roots",
+        "Needs less water"
+      ],
+      "correctAnswer": "Fixes nitrogen"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Faba bean is weeded",
+      "options": [
+        "2 to 3 times",
+        "Once only",
+        "4 to 5 times",
+        "6 to 7 times"
+      ],
+      "correctAnswer": "2 to 3 times"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Chocolate spot is favored by",
+      "options": [
+        "Humid weather",
+        "Dry heat",
+        "Frost",
+        "Saline soil"
+      ],
+      "correctAnswer": "Humid weather"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Faba bean rust is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Faba bean aphids are controlled by",
+      "options": [
+        "Insecticides",
+        "Fungicides",
+        "Herbicides",
+        "Nematicides"
+      ],
+      "correctAnswer": "Insecticides"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Bruchids damage faba bean mainly in",
+      "options": [
+        "Storage",
+        "The field",
+        "The seedbed",
+        "The nursery"
+      ],
+      "correctAnswer": "Storage"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Faba bean is harvested when pods are",
+      "options": [
+        "Black and dry",
+        "Green and soft",
+        "Milky and wet",
+        "White and hard"
+      ],
+      "correctAnswer": "Black and dry"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Faba bean straw is used as",
+      "options": [
+        "Animal feed",
+        "Cooking oil",
+        "Textile fiber",
+        "Building stone"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Faba bean can be used as a",
+      "options": [
+        "Green manure",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
+      ],
+      "correctAnswer": "Green manure"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The average faba bean yield is",
+      "options": [
+        "20 to 30 quintals/ha",
+        "10 to 15 quintals/ha",
+        "40 to 50 quintals/ha",
+        "5 to 8 quintals/ha"
+      ],
+      "correctAnswer": "20 to 30 quintals/ha"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Faba bean rotation improves the yield of the following",
+      "options": [
+        "Cereal crop",
+        "Oil crop",
+        "Fiber crop",
+        "Root crop"
+      ],
+      "correctAnswer": "Cereal crop"
+    }
+  ]
+}

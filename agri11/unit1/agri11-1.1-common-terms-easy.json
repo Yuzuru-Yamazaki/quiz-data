@@ -1,0 +1,185 @@
+{
+  "title": "1.1 Common Terms in Crop Production (Easy)",
+  "description": "Definitions of agriculture, shifting cultivation, settled agriculture and subsistence farming",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "terms",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Agriculture is defined as the",
+      "options": [
+        "Deliberate cultivation of crops and rearing of animals",
+        "The hunting of wild animals and gathering of plants for food",
+        "Clearing forest and shifting to new land each season",
+        "Producing only crops for household use"
+      ],
+      "correctAnswer": "Deliberate cultivation of crops and rearing of animals"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Before agriculture, societies survived by",
+      "options": [
+        "Hunting and gathering",
+        "Crop and livestock farming",
+        "Trade and craftsmanship",
+        "Fishing and mining"
+      ],
+      "correctAnswer": "Hunting and gathering"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Hunter-gatherers remain mainly in areas with",
+      "options": [
+        "Land and climate unsuited to crops",
+        "Highly fertile and well-watered land",
+        "Dense urban and industrial zones",
+        "Modern irrigation schemes"
+      ],
+      "correctAnswer": "Land and climate unsuited to crops"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Shifting cultivation clears land and cultivates it for",
+      "options": [
+        "A few years and then abandoning it",
+        "Many years of continuous cropping without rest",
+        "One season only then selling",
+        "A few years then irrigating"
+      ],
+      "correctAnswer": "A few years and then abandoning it"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Settled agriculture uses the same plot of land",
+      "options": [
+        "Continuously for a very long period of time",
+        "For one or two seasons only",
+        "Only during the rainy season of every single year",
+        "Until the soil is exhausted"
+      ],
+      "correctAnswer": "Continuously for a very long period of time"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Settled agriculture is more advanced than",
+      "options": [
+        "The traditional system of shifting cultivation",
+        "Subsistence crop farming",
+        "Large scale commercial plantation farming systems",
+        "Irrigated rice cultivation"
+      ],
+      "correctAnswer": "The traditional system of shifting cultivation"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Subsistence farming produces crops and livestock sufficient for",
+      "options": [
+        "Household use only",
+        "Local market sale",
+        "National export",
+        "Industrial processing"
+      ],
+      "correctAnswer": "Household use only"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "The major aim of subsistence farming is",
+      "options": [
+        "Own consumption",
+        "Maximum profit",
+        "Export earnings",
+        "Market surplus"
+      ],
+      "correctAnswer": "Own consumption"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Excess subsistence output may be",
+      "options": [
+        "Stored or sold",
+        "Always wasted",
+        "Given to the state",
+        "Left in the field"
+      ],
+      "correctAnswer": "Stored or sold"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Early shifting cultivation required clearing",
+      "options": [
+        "Trees and vegetation",
+        "Only grass cover",
+        "Only crop residues",
+        "Only stones and rocks"
+      ],
+      "correctAnswer": "Trees and vegetation"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Settled agriculture commonly uses",
+      "options": [
+        "Manure and fertilizer",
+        "Only rainfall",
+        "Only hand tools",
+        "Only family labor"
+      ],
+      "correctAnswer": "Manure and fertilizer"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Crop and livestock production gradually became the major",
+      "options": [
+        "Means of survival",
+        "Form of religion",
+        "Source of conflict",
+        "Type of hunting"
+      ],
+      "correctAnswer": "Means of survival"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Poisonous substances from toxic legumes were used as",
+      "options": [
+        "Arrow poisons",
+        "Food flavoring",
+        "Animal fodder",
+        "Fuel for fire"
+      ],
+      "correctAnswer": "Arrow poisons"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Wild onions and sweet potatoes were important food for",
+      "options": [
+        "Hunter-gatherers",
+        "Commercial farmers",
+        "Pastoral nomads",
+        "Urban traders"
+      ],
+      "correctAnswer": "Hunter-gatherers"
+    }
+  ]
+}

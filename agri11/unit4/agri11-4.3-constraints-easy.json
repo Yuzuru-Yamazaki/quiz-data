@@ -1,0 +1,197 @@
+{
+  "title": "4.3 Constraints and Mitigation (Easy)",
+  "description": "Main constraints to animal production in Ethiopia and their basic mitigation strategies",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "constraints",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "The major constraint affecting animal production in Ethiopia is",
+      "options": [
+        "Feed shortage",
+        "Land shortage",
+        "Labour shortage",
+        "Water surplus"
+      ],
+      "correctAnswer": "Feed shortage"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Feed shortage in Ethiopia is a problem of",
+      "options": [
+        "Quantity and quality",
+        "Colour and taste",
+        "Price and market",
+        "Storage and transport"
+      ],
+      "correctAnswer": "Quantity and quality"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The main feed resources in Ethiopia are",
+      "options": [
+        "Natural pasture, residues",
+        "Improved grasses, legumes",
+        "Formulated feeds, silage",
+        "Industrial by-products"
+      ],
+      "correctAnswer": "Natural pasture, residues"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Natural pasture and crop residues supply what share of annual feed?",
+      "options": [
+        "Over 90%",
+        "About 50%",
+        "Over 70%",
+        "About 30%"
+      ],
+      "correctAnswer": "Over 90%"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The crude protein content of natural pasture and crop residues is",
+      "options": [
+        "3 to 6%",
+        "10 to 15%",
+        "20 to 25%",
+        "30 to 35%"
+      ],
+      "correctAnswer": "3 to 6%"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Which is a major animal disease?",
+      "options": [
+        "Anthrax",
+        "Rust",
+        "Smut",
+        "Blight"
+      ],
+      "correctAnswer": "Anthrax"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Newcastle disease affects",
+      "options": [
+        "Poultry",
+        "Cattle",
+        "Sheep",
+        "Camels"
+      ],
+      "correctAnswer": "Poultry"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "CBPP stands for",
+      "options": [
+        "Contagious bovine pleuropneumonia",
+        "Common bovine parasitic pneumonia",
+        "Contagious bacterial pulmonary plague",
+        "Chronic bovine pulmonary poisoning"
+      ],
+      "correctAnswer": "Contagious bovine pleuropneumonia"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Internal and external parasites are additional",
+      "options": [
+        "Burdens",
+        "Benefits",
+        "Feeds",
+        "Breeds"
+      ],
+      "correctAnswer": "Burdens"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A key preventive practice against animal disease is",
+      "options": [
+        "Vaccination",
+        "Overstocking",
+        "Starvation",
+        "Inbreeding"
+      ],
+      "correctAnswer": "Vaccination"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "The traditional production system mainly uses",
+      "options": [
+        "Local breeds",
+        "Exotic breeds",
+        "Crossbred stock",
+        "Hybrid poultry"
+      ],
+      "correctAnswer": "Local breeds"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "In mixed farming, meat production is considered",
+      "options": [
+        "A byproduct",
+        "The main goal",
+        "Not produced",
+        "The only product"
+      ],
+      "correctAnswer": "A byproduct"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Pastoralists sell livestock when feed and water are short because of",
+      "options": [
+        "Weak business awareness",
+        "Strong market links",
+        "Modern record keeping",
+        "High credit access"
+      ],
+      "correctAnswer": "Weak business awareness"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Holding livestock and selling when the need arises is a form of",
+      "options": [
+        "Capital accumulation",
+        "Milk processing activity",
+        "Wool grading",
+        "Egg collection"
+      ],
+      "correctAnswer": "Capital accumulation"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which is a socio-economic constraint?",
+      "options": [
+        "Weak extension services",
+        "Good infrastructure",
+        "Cheap credit access",
+        "Strong market information"
+      ],
+      "correctAnswer": "Weak extension services"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "title": "4.4 Animal Production Systems (Hard)",
+  "description": "Classifying systems by inputs, orientation, mobility and housing, with applied farm scenarios",
+  "folder": "School/Grade 11/Agriculture/Unit 4",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit4",
+    "production-systems",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Which system has the highest stocking density?",
+      "options": [
+        "Intensive",
+        "Extensive",
+        "Pastoral",
+        "Ranching"
+      ],
+      "correctAnswer": "Intensive"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Which system is subsistence-oriented?",
+      "options": [
+        "Mixed farming",
+        "Intensive dairy",
+        "Commercial feedlot",
+        "Broiler production"
+      ],
+      "correctAnswer": "Mixed farming"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Which system is market-oriented?",
+      "options": [
+        "Intensive farming",
+        "Nomadism",
+        "Transhumance",
+        "Mixed subsistence"
+      ],
+      "correctAnswer": "Intensive farming"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Which livestock system is correctly matched to its land use?",
+      "options": [
+        "Transhumance-permanent home",
+        "Nomad-permanent home",
+        "Ranching-open common land",
+        "Pastoralism-fixed fences"
+      ],
+      "correctAnswer": "Transhumance-permanent home"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "The main reason extensive output is lower is",
+      "options": [
+        "Low inputs per land area",
+        "High inputs per land area",
+        "High stocking density",
+        "Balanced ration feeding"
+      ],
+      "correctAnswer": "Low inputs per land area"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Keeping large herds under pastoralism mainly aims to",
+      "options": [
+        "Spread risk",
+        "Raise output per animal",
+        "Improve breed quality",
+        "Maximize milk per cow"
+      ],
+      "correctAnswer": "Spread risk"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Transhumance herders return each year to their",
+      "options": [
+        "Permanent home",
+        "Rainy pasture",
+        "Urban market",
+        "Dry-season well"
+      ],
+      "correctAnswer": "Permanent home"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "In mixed farming, manure mainly",
+      "options": [
+        "Improves soil fertility",
+        "Feeds the family",
+        "Provides transport services",
+        "Controls pests"
+      ],
+      "correctAnswer": "Improves soil fertility"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Which feed set is typical of mixed farming?",
+      "options": [
+        "Teff, barley, wheat straw",
+        "Balanced commercial ration",
+        "Silage and hay only",
+        "Fish and blood meal"
+      ],
+      "correctAnswer": "Teff, barley, wheat straw"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Semi-intensive farms cluster around towns mainly for",
+      "options": [
+        "Market access",
+        "Cheap land",
+        "Cool climate",
+        "Free fodder"
+      ],
+      "correctAnswer": "Market access"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Intensive farms use crossbred or exotic animals to",
+      "options": [
+        "Raise output",
+        "Cut labour",
+        "Save feed",
+        "Avoid markets"
+      ],
+      "correctAnswer": "Raise output"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "A feedlot is best classified as",
+      "options": [
+        "Intensive system",
+        "Extensive system",
+        "Semi-intensive",
+        "Pastoral system"
+      ],
+      "correctAnswer": "Intensive system"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Ranching differs from pastoralism mainly by having",
+      "options": [
+        "Fixed boundaries",
+        "Herd mobility",
+        "No labour input",
+        "No market sales"
+      ],
+      "correctAnswer": "Fixed boundaries"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "A farm keeps cows for milk, sheep for meat, grows hay and uses manure. This is",
+      "options": [
+        "Mixed farming",
+        "Nomadism",
+        "Ranching enterprise",
+        "Feedlot"
+      ],
+      "correctAnswer": "Mixed farming"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Which pair is correctly matched?",
+      "options": [
+        "Feedlot-fattening",
+        "Pasture-housing",
+        "Ranching-nomadism",
+        "Zero grazing-free range"
+      ],
+      "correctAnswer": "Feedlot-fattening"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "High output in the intensive system depends most on",
+      "options": [
+        "High inputs",
+        "Large land area",
+        "Low labour",
+        "Natural pasture"
+      ],
+      "correctAnswer": "High inputs"
+    },
+    {
+      "id": 17,
+      "anki": true,
+      "question": "The term for feed supplying proper nutrients for a specific purpose is",
+      "options": [
+        "Balanced ration",
+        "Feed additive",
+        "Roughage mix",
+        "Concentrate"
+      ],
+      "correctAnswer": "Balanced ration"
+    },
+    {
+      "id": 18,
+      "anki": true,
+      "question": "A species differs from a breed because a species can",
+      "options": [
+        "Interbreed fertilely",
+        "Look alike visually",
+        "Share a common name",
+        "Live in one area"
+      ],
+      "correctAnswer": "Interbreed fertilely"
+    }
+  ]
+}

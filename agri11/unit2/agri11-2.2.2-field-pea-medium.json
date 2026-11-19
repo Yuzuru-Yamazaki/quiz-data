@@ -1,0 +1,209 @@
+{
+  "title": "2.2.2 Field Pea (Medium)",
+  "description": "Field pea agronomy, fertilization, pests, diseases and harvesting",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "field-pea",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Field pea is adapted to",
+      "options": [
+        "Cool highland areas",
+        "Hot lowland areas",
+        "Coastal plains",
+        "Desert oases"
+      ],
+      "correctAnswer": "Cool highland areas"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Field pea grows best on",
+      "options": [
+        "Well-drained loam",
+        "Waterlogged clay",
+        "Saline sand",
+        "Rocky slopes"
+      ],
+      "correctAnswer": "Well-drained loam"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "The field pea seedbed should be",
+      "options": [
+        "Fine and well drained",
+        "Rough and waterlogged",
+        "Flooded and puddled",
+        "Dry and compacted"
+      ],
+      "correctAnswer": "Fine and well drained"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Field pea is planted at a depth of",
+      "options": [
+        "5 to 7 cm",
+        "2 to 3 cm",
+        "10 to 12 cm",
+        "1 to 2 cm"
+      ],
+      "correctAnswer": "5 to 7 cm"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Field pea rows are spaced",
+      "options": [
+        "30 cm apart",
+        "15 cm apart",
+        "75 cm apart",
+        "40 cm apart"
+      ],
+      "correctAnswer": "30 cm apart"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Field pea needs less nitrogen fertilizer because it",
+      "options": [
+        "Fixes nitrogen",
+        "Grows very fast",
+        "Has deep roots",
+        "Needs less water"
+      ],
+      "correctAnswer": "Fixes nitrogen"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Field pea is weeded",
+      "options": [
+        "2 to 3 times",
+        "Once only",
+        "4 to 5 times",
+        "6 to 7 times"
+      ],
+      "correctAnswer": "2 to 3 times"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Powdery mildew is favored by",
+      "options": [
+        "Humid weather",
+        "Dry heat",
+        "Frost",
+        "Saline soil"
+      ],
+      "correctAnswer": "Humid weather"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Field pea rust is a",
+      "options": [
+        "Fungal disease",
+        "Viral disease",
+        "Insect pest",
+        "Weed species"
+      ],
+      "correctAnswer": "Fungal disease"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Field pea aphids are controlled by",
+      "options": [
+        "Insecticides",
+        "Fungicides",
+        "Herbicides",
+        "Nematicides"
+      ],
+      "correctAnswer": "Insecticides"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Bruchids damage field pea mainly in",
+      "options": [
+        "Storage",
+        "The field",
+        "The seedbed",
+        "The nursery"
+      ],
+      "correctAnswer": "Storage"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Field pea is harvested when pods are",
+      "options": [
+        "Yellow and dry",
+        "Green and soft",
+        "Milky and wet",
+        "Black and hard"
+      ],
+      "correctAnswer": "Yellow and dry"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Field pea straw is used as",
+      "options": [
+        "Animal feed",
+        "Cooking oil",
+        "Textile fiber",
+        "Building stone"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Field pea can be used as a",
+      "options": [
+        "Green manure",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
+      ],
+      "correctAnswer": "Green manure"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The average field pea yield is",
+      "options": [
+        "15 to 20 quintals/ha",
+        "20 to 30 quintals/ha",
+        "40 to 50 quintals/ha",
+        "5 to 8 quintals/ha"
+      ],
+      "correctAnswer": "15 to 20 quintals/ha"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Field pea rotation improves the yield of the following",
+      "options": [
+        "Cereal crop",
+        "Oil crop",
+        "Fiber crop",
+        "Root crop"
+      ],
+      "correctAnswer": "Cereal crop"
+    }
+  ]
+}

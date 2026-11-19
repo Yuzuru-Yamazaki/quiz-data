@@ -1,0 +1,197 @@
+{
+  "title": "1.5 Cropping Systems (Easy)",
+  "description": "Definitions and basic advantages of mono cropping, mixed cropping, intercropping, relay planting and rotation",
+  "folder": "School/Grade 11/Agriculture/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit1",
+    "cropping-systems",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "A cropping system refers to the types and sequences of crops and the",
+      "options": [
+        "Practices used to grow them",
+        "Prices in the market",
+        "Tools used for harvest",
+        "Types of livestock kept"
+      ],
+      "correctAnswer": "Practices used to grow them"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Mono cropping is growing",
+      "options": [
+        "A single crop type",
+        "Two or more crops",
+        "Only legumes",
+        "Only cereals"
+      ],
+      "correctAnswer": "A single crop type"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Mono cropping is commonly practiced in",
+      "options": [
+        "Large commercial farms",
+        "Small home gardens",
+        "Mixed subsistence farms",
+        "Pastoral systems"
+      ],
+      "correctAnswer": "Large commercial farms"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Mixed cropping is growing",
+      "options": [
+        "Two or more crops simultaneously",
+        "One single crop type at any one time",
+        "Crops in different years",
+        "Crops after harvest"
+      ],
+      "correctAnswer": "Two or more crops simultaneously"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Intercropping is the planting of more than one crop in",
+      "options": [
+        "Regular rows at the same time",
+        "Separate fields each season",
+        "Rows after the first harvest",
+        "Random patches over years"
+      ],
+      "correctAnswer": "Regular rows at the same time"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Relay planting plants the second crop after the first crop has",
+      "options": [
+        "Grown alone for a period",
+        "Been harvested fully",
+        "Had its soil plowed",
+        "Reached full maturity"
+      ],
+      "correctAnswer": "Grown alone for a period"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Crop rotation is growing different species",
+      "options": [
+        "Sequentially on the same plot",
+        "Together on the same plot",
+        "On separate farms each year",
+        "Only in the dry season"
+      ],
+      "correctAnswer": "Sequentially on the same plot"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "A disadvantage of mono cropping is",
+      "options": [
+        "Risk of total crop failure",
+        "Uniform crop management practices",
+        "Efficient harvesting",
+        "Easy planting"
+      ],
+      "correctAnswer": "Risk of total crop failure"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Mono cropping also results in reduced",
+      "options": [
+        "Soil fertility",
+        "Crop uniformity",
+        "Harvest speed",
+        "Market demand"
+      ],
+      "correctAnswer": "Soil fertility"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Mixed cropping reduces the risk of",
+      "options": [
+        "Total yield loss",
+        "Soil erosion",
+        "Pest attack",
+        "Labor shortage"
+      ],
+      "correctAnswer": "Total yield loss"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Intercropping often combines cereals with",
+      "options": [
+        "Legumes",
+        "Oil crops",
+        "Fiber crops",
+        "Root crops"
+      ],
+      "correctAnswer": "Legumes"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Relay and intercropping systems reduce",
+      "options": [
+        "Soil erosion",
+        "Crop yield",
+        "Seed quality",
+        "Market price"
+      ],
+      "correctAnswer": "Soil erosion"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "One objective of crop rotation is improving",
+      "options": [
+        "Soil fertility",
+        "Seed color",
+        "Fruit size",
+        "Plant height"
+      ],
+      "correctAnswer": "Soil fertility"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Crop rotation helps control some",
+      "options": [
+        "Pests and diseases",
+        "Soil types",
+        "Seasonal rainfall patterns",
+        "Farm tools"
+      ],
+      "correctAnswer": "Pests and diseases"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "Mixed cropping allows more efficient use of nutrients, water and",
+      "options": [
+        "Light radiation",
+        "Farm machinery",
+        "Market credit",
+        "Storage space"
+      ],
+      "correctAnswer": "Light radiation"
+    }
+  ]
+}

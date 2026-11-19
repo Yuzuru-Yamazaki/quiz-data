@@ -1,0 +1,185 @@
+{
+  "title": "2.1.3 Wheat (Hard)",
+  "description": "Applying wheat quality, agronomy, pest and harvest knowledge to farm situations",
+  "folder": "School/Grade 11/Agriculture/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "agriculture",
+    "grade11",
+    "unit2",
+    "wheat",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "anki": true,
+      "question": "Wheat planted in June and harvested in October is a",
+      "options": [
+        "Cool season crop",
+        "Warm season crop",
+        "Perennial crop",
+        "Dry season crop"
+      ],
+      "correctAnswer": "Cool season crop"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Why is durum wheat preferred for pasta?",
+      "options": [
+        "Hard endosperm makes strong dough",
+        "Soft endosperm makes weak dough",
+        "Husk protects the grain",
+        "Straw is used for bedding"
+      ],
+      "correctAnswer": "Hard endosperm makes strong dough"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Bread wheat is used for cakes and cookies because it has",
+      "options": [
+        "Soft endosperm",
+        "Hard endosperm",
+        "Red grain",
+        "Long awns"
+      ],
+      "correctAnswer": "Soft endosperm"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "A farmer chooses wheat over teff mainly because wheat has a",
+      "options": [
+        "Lower market price",
+        "Higher market price",
+        "Shorter growing season",
+        "Better storage life"
+      ],
+      "correctAnswer": "Lower market price"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Wheat sown at 18 cm rows and 100-125 kg/ha aims to",
+      "options": [
+        "Achieve proper plant population",
+        "Reduce the fertilizer requirement",
+        "Increase the straw length",
+        "Delay the crop maturity"
+      ],
+      "correctAnswer": "Achieve proper plant population"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Wild oat and ryegrass in wheat are",
+      "options": [
+        "Weeds",
+        "Diseases",
+        "Insects",
+        "Viruses"
+      ],
+      "correctAnswer": "Weeds"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Wheat rust and smut are both",
+      "options": [
+        "Fungal diseases",
+        "Viral diseases",
+        "Insect pests",
+        "Nutrient disorders"
+      ],
+      "correctAnswer": "Fungal diseases"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Wheat stem sawfly and wheat gall midge are",
+      "options": [
+        "Insect pests",
+        "Fungal diseases",
+        "Viral diseases",
+        "Weed species"
+      ],
+      "correctAnswer": "Insect pests"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Wheat is sun-dried before threshing to",
+      "options": [
+        "Reduce grain moisture",
+        "Increase grain size",
+        "Improve straw color",
+        "Kill all weed seeds"
+      ],
+      "correctAnswer": "Reduce grain moisture"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "A wheat crop turns yellow and is ready to harvest. Delaying harvest may cause",
+      "options": [
+        "Grain shattering",
+        "More tillering",
+        "New leaf growth",
+        "Root expansion"
+      ],
+      "correctAnswer": "Grain shattering"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Wheat is mainly produced during the",
+      "options": [
+        "Main rainy season",
+        "Dry season",
+        "Harvest season",
+        "Frost season"
+      ],
+      "correctAnswer": "Main rainy season"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Wheat is commonly grown in Oromia, Amhara, SNNP and",
+      "options": [
+        "Tigray",
+        "Somali",
+        "Afar",
+        "Gambella"
+      ],
+      "correctAnswer": "Tigray"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Wheat responds strongly to fertilizer, especially",
+      "options": [
+        "Nitrogen",
+        "Lime",
+        "Sulfur",
+        "Boron"
+      ],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Wheat seed should be sown at the onset of",
+      "options": [
+        "The main rains",
+        "The dry season",
+        "The harvest period",
+        "The frost period"
+      ],
+      "correctAnswer": "The main rains"
+    }
+  ]
+}
