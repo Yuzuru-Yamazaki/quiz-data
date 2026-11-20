@@ -1,0 +1,237 @@
+{
+  "title": "1.2 Food and Nutrition Security",
+  "description": "Food availability, nutrition, crop production and the fight against hunger. Hard level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 1",
+    "food and nutrition security",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Undernutrition: A lack of reliable access to enough affordable nutritious food",
+        "Fortification: Measures used to reduce losses caused by insect and disease pests",
+        "Soil fertility: A material added to soil to supply essential plant nutrients",
+        "Food security: A situation where all people have access to sufficient safe food"
+      ],
+      "correctAnswer": "Food security: A situation where all people have access to sufficient safe food"
+    },
+    {
+      "id": 2,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Post-harvest loss: A material added to soil to supply essential plant nutrients",
+        "Self-sufficiency: A situation where all people have access to sufficient safe food",
+        "Food preservation: Measures used to reduce losses caused by insect and disease pests",
+        "Food insecurity: A lack of reliable access to enough affordable nutritious food"
+      ],
+      "correctAnswer": "Food insecurity: A lack of reliable access to enough affordable nutritious food"
+    },
+    {
+      "id": 3,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Fortification: The ability of soil to supply nutrients needed by crops",
+        "Malnutrition: A condition caused by an unbalanced or inadequate diet",
+        "Food security: The controlled supply of water to crops in dry periods",
+        "Pest control: Growing several crop species rather than a single crop"
+      ],
+      "correctAnswer": "Malnutrition: A condition caused by an unbalanced or inadequate diet"
+    },
+    {
+      "id": 4,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Undernutrition: A condition of insufficient intake of energy or nutrients",
+        "Soil fertility: Adding nutrients to food to improve its nutritional value",
+        "Food insecurity: Processing food to slow spoilage and extend its shelf life",
+        "Self-sufficiency: Adding nutrients to food to improve its nutritional value"
+      ],
+      "correctAnswer": "Undernutrition: A condition of insufficient intake of energy or nutrients"
+    },
+    {
+      "id": 5,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Food preservation: The controlled supply of water to crops in dry periods",
+        "Agricultural extension: A condition caused by an unbalanced or inadequate diet",
+        "Micronutrient deficiency: A shortage of vitamins or minerals needed for health",
+        "Crop diversification: The controlled supply of water to crops in dry periods"
+      ],
+      "correctAnswer": "Micronutrient deficiency: A shortage of vitamins or minerals needed for health"
+    },
+    {
+      "id": 6,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Pest control: A situation where all people have access to sufficient safe food",
+        "Staple crop: A crop that supplies a major share of people daily calories",
+        "Food safety: A material added to soil to supply essential plant nutrients",
+        "Malnutrition: A lack of reliable access to enough affordable nutritious food"
+      ],
+      "correctAnswer": "Staple crop: A crop that supplies a major share of people daily calories"
+    },
+    {
+      "id": 7,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Crop diversification: Growing several crop species rather than a single crop",
+        "Agricultural extension: A condition caused by an unbalanced or inadequate diet",
+        "Food preservation: The ability of soil to supply nutrients needed by crops",
+        "Micronutrient deficiency: The controlled supply of water to crops in dry periods"
+      ],
+      "correctAnswer": "Crop diversification: Growing several crop species rather than a single crop"
+    },
+    {
+      "id": 8,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Food preservation: Processing food to slow spoilage and extend its shelf life",
+        "Food supply chain: A material added to soil to supply essential plant nutrients",
+        "Post-harvest loss: The ability of a community to produce most of its own food",
+        "Dietary diversity: A crop that supplies a major share of people daily calories"
+      ],
+      "correctAnswer": "Food preservation: Processing food to slow spoilage and extend its shelf life"
+    },
+    {
+      "id": 9,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Food safety: The ability of soil to supply nutrients needed by crops",
+        "Fertilizer: A condition caused by an unbalanced or inadequate diet",
+        "Staple crop: Growing several crop species rather than a single crop",
+        "Irrigation: The controlled supply of water to crops in dry periods"
+      ],
+      "correctAnswer": "Irrigation: The controlled supply of water to crops in dry periods"
+    },
+    {
+      "id": 10,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Undernutrition: Practices that keep food free from harmful contaminants",
+        "Soil fertility: The ability of soil to supply nutrients needed by crops",
+        "Self-sufficiency: The sequence of steps that moves food from farm to plate",
+        "Food insecurity: A service that teaches farmers improved farming methods"
+      ],
+      "correctAnswer": "Soil fertility: The ability of soil to supply nutrients needed by crops"
+    },
+    {
+      "id": 11,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Irrigation: A lack of reliable access to enough affordable nutritious food",
+        "Staple crop: A situation where all people have access to sufficient safe food",
+        "Fertilizer: A material added to soil to supply essential plant nutrients",
+        "Food safety: Measures used to reduce losses caused by insect and disease pests"
+      ],
+      "correctAnswer": "Fertilizer: A material added to soil to supply essential plant nutrients"
+    },
+    {
+      "id": 12,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Food security: A lack of reliable access to enough affordable nutritious food",
+        "Food security: A situation where all people have access to sufficient safe food",
+        "Malnutrition: A situation where all people have access to sufficient safe food",
+        "Pest control: Measures used to reduce losses caused by insect and disease pests"
+      ],
+      "correctAnswer": "Pest control: Measures used to reduce losses caused by insect and disease pests"
+    },
+    {
+      "id": 13,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Food preservation: Consuming a wide range of foods across food groups",
+        "Dietary diversity: Food supplied to communities facing acute shortages",
+        "Food supply chain: A shortage of vitamins or minerals needed for health",
+        "Post-harvest loss: Food lost between the field and the final consumer"
+      ],
+      "correctAnswer": "Post-harvest loss: Food lost between the field and the final consumer"
+    },
+    {
+      "id": 14,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Staple crop: Growing several crop species rather than a single crop",
+        "Food aid: Food supplied to communities facing acute shortages",
+        "Fertilizer: A condition caused by an unbalanced or inadequate diet",
+        "Irrigation: A shortage of vitamins or minerals needed for health"
+      ],
+      "correctAnswer": "Food aid: Food supplied to communities facing acute shortages"
+    },
+    {
+      "id": 15,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Food preservation: A crop that supplies a major share of people daily calories",
+        "Post-harvest loss: A crop that supplies a major share of people daily calories",
+        "Dietary diversity: A material added to soil to supply essential plant nutrients",
+        "Self-sufficiency: The ability of a community to produce most of its own food"
+      ],
+      "correctAnswer": "Self-sufficiency: The ability of a community to produce most of its own food"
+    },
+    {
+      "id": 16,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Post-harvest loss: Food supplied to communities facing acute shortages",
+        "Food preservation: Food lost between the field and the final consumer",
+        "Dietary diversity: Consuming a wide range of foods across food groups",
+        "Food supply chain: A shortage of vitamins or minerals needed for health"
+      ],
+      "correctAnswer": "Dietary diversity: Consuming a wide range of foods across food groups"
+    },
+    {
+      "id": 17,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Staple crop: The ability of soil to supply nutrients needed by crops",
+        "Food safety: Practices that keep food free from harmful contaminants",
+        "Pest control: The sequence of steps that moves food from farm to plate",
+        "Malnutrition: A service that teaches farmers improved farming methods"
+      ],
+      "correctAnswer": "Food safety: Practices that keep food free from harmful contaminants"
+    },
+    {
+      "id": 18,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Soil fertility: The ability of a community to produce most of its own food",
+        "Undernutrition: Processing food to slow spoilage and extend its shelf life",
+        "Food security: A condition of insufficient intake of energy or nutrients",
+        "Fortification: Adding nutrients to food to improve its nutritional value"
+      ],
+      "correctAnswer": "Fortification: Adding nutrients to food to improve its nutritional value"
+    },
+    {
+      "id": 19,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Micronutrient deficiency: The ability of soil to supply nutrients needed by crops",
+        "Crop diversification: Practices that keep food free from harmful contaminants",
+        "Food preservation: The sequence of steps that moves food from farm to plate",
+        "Agricultural extension: A service that teaches farmers improved farming methods"
+      ],
+      "correctAnswer": "Agricultural extension: A service that teaches farmers improved farming methods"
+    },
+    {
+      "id": 20,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Post-harvest loss: Adding nutrients to food to improve its nutritional value",
+        "Food supply chain: The sequence of steps that moves food from farm to plate",
+        "Food preservation: A condition of insufficient intake of energy or nutrients",
+        "Dietary diversity: Processing food to slow spoilage and extend its shelf life"
+      ],
+      "correctAnswer": "Food supply chain: The sequence of steps that moves food from farm to plate"
+    }
+  ]
+}

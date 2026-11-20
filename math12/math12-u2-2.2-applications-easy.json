@@ -19,9 +19,9 @@
       "question": "The derivative of a function at a point gives the ...",
       "options": [
         "slope of the tangent line",
-        "area under the curve",
-        "length of the curve",
-        "y-intercept"
+        "the cost function",
+        "$t = 1$ and $t = 3$",
+        "the derivative at that point"
       ],
       "correctAnswer": "slope of the tangent line"
     },
@@ -29,10 +29,10 @@
       "id": 2,
       "question": "At a local maximum or minimum, the derivative $f'(x)$ equals ...",
       "options": [
+        "$f''(x)$",
+        "$x = 1$",
         "0",
-        "1",
-        "$x$",
-        "infinity"
+        "velocity"
       ],
       "correctAnswer": "0"
     },
@@ -40,10 +40,10 @@
       "id": 3,
       "question": "A function is increasing on an interval when ...",
       "options": [
-        "$f'(x) > 0$",
         "$f'(x) < 0$",
+        "displacement",
         "$f'(x) = 0$",
-        "$f'(x) = 1$"
+        "$f'(x) > 0$"
       ],
       "correctAnswer": "$f'(x) > 0$"
     },
@@ -51,10 +51,10 @@
       "id": 4,
       "question": "A function is decreasing on an interval when ...",
       "options": [
+        "displacement",
         "$f'(x) < 0$",
-        "$f'(x) > 0$",
         "$f'(x) = 0$",
-        "$f'(x) = 1$"
+        "$f'(x) > 0$"
       ],
       "correctAnswer": "$f'(x) < 0$"
     },
@@ -62,10 +62,10 @@
       "id": 5,
       "question": "A critical point of a function occurs where ...",
       "options": [
+        "$f'(x) < 0$",
+        "displacement",
         "$f'(x) = 0$",
-        "$f(x) = 0$",
-        "$f''(x) = 0$",
-        "$x = 0$"
+        "$f'(x) > 0$"
       ],
       "correctAnswer": "$f'(x) = 0$"
     },
@@ -73,10 +73,10 @@
       "id": 6,
       "question": "Velocity is the derivative of ...",
       "options": [
+        "$y = 2x - 1$",
         "displacement",
-        "acceleration",
-        "force",
-        "mass"
+        "$f'(x) < 0$",
+        "$f'(x) > 0$"
       ],
       "correctAnswer": "displacement"
     },
@@ -84,10 +84,10 @@
       "id": 7,
       "question": "Acceleration is the derivative of ...",
       "options": [
-        "velocity",
-        "displacement",
-        "momentum",
-        "time"
+        "$f'(x) > 0$",
+        "$f'(x) < 0$",
+        "$f'(x) = 0$",
+        "velocity"
       ],
       "correctAnswer": "velocity"
     },
@@ -96,9 +96,9 @@
       "question": "Marginal cost is the derivative of ...",
       "options": [
         "the cost function",
-        "the revenue function",
-        "the profit function",
-        "the demand function"
+        "$x < -1$ or $x > 1$",
+        "slope of the tangent line",
+        "$t = 1$ and $t = 3$"
       ],
       "correctAnswer": "the cost function"
     },
@@ -106,10 +106,10 @@
       "id": 9,
       "question": "The second derivative of $f(x)$ is denoted by ...",
       "options": [
+        "$f'(x) < 0$",
+        "$f'(x) > 0$",
         "$f''(x)$",
-        "$f^2(x)$",
-        "$f'(2x)$",
-        "$2f'(x)$"
+        "$f'(x) = 0$"
       ],
       "correctAnswer": "$f''(x)$"
     },
@@ -117,12 +117,12 @@
       "id": 10,
       "question": "The slope of the tangent line to a curve at a point equals ...",
       "options": [
-        "the derivative at that point",
-        "the function value at that point",
-        "the second derivative",
-        "the area under the curve"
+        "$t = 1$ and $t = 3$",
+        "$x = 1$ and $x = -1$",
+        "slope of the tangent line",
+        "the derivative"
       ],
-      "correctAnswer": "the derivative at that point"
+      "correctAnswer": "the derivative"
     }
   ]
 }

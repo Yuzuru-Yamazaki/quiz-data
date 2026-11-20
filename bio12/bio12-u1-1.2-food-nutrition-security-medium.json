@@ -1,0 +1,237 @@
+{
+  "title": "1.2 Food and Nutrition Security",
+  "description": "Food availability, nutrition, crop production and the fight against hunger. Medium level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 1",
+    "food and nutrition security",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term matches this description? A situation where all people have access to sufficient safe food",
+      "options": [
+        "Undernutrition",
+        "Food security",
+        "Fortification",
+        "Soil fertility"
+      ],
+      "correctAnswer": "Food security"
+    },
+    {
+      "id": 2,
+      "question": "Which term matches this description? A lack of reliable access to enough affordable nutritious food",
+      "options": [
+        "Post-harvest loss",
+        "Food preservation",
+        "Food insecurity",
+        "Self-sufficiency"
+      ],
+      "correctAnswer": "Food insecurity"
+    },
+    {
+      "id": 3,
+      "question": "Which term matches this description? A condition caused by an unbalanced or inadequate diet",
+      "options": [
+        "Malnutrition",
+        "Pest control",
+        "Food security",
+        "Fortification"
+      ],
+      "correctAnswer": "Malnutrition"
+    },
+    {
+      "id": 4,
+      "question": "Which term matches this description? A condition of insufficient intake of energy or nutrients",
+      "options": [
+        "Self-sufficiency",
+        "Undernutrition",
+        "Food insecurity",
+        "Soil fertility"
+      ],
+      "correctAnswer": "Undernutrition"
+    },
+    {
+      "id": 5,
+      "question": "Which term matches this description? A shortage of vitamins or minerals needed for health",
+      "options": [
+        "Micronutrient deficiency",
+        "Intergenerational equity",
+        "Crop diversification",
+        "Agricultural extension"
+      ],
+      "correctAnswer": "Micronutrient deficiency"
+    },
+    {
+      "id": 6,
+      "question": "Which term matches this description? A crop that supplies a major share of people daily calories",
+      "options": [
+        "Malnutrition",
+        "Staple crop",
+        "Pest control",
+        "Food safety"
+      ],
+      "correctAnswer": "Staple crop"
+    },
+    {
+      "id": 7,
+      "question": "Which term matches this description? Growing several crop species rather than a single crop",
+      "options": [
+        "Food preservation",
+        "Agricultural extension",
+        "Micronutrient deficiency",
+        "Crop diversification"
+      ],
+      "correctAnswer": "Crop diversification"
+    },
+    {
+      "id": 8,
+      "question": "Which term matches this description? Processing food to slow spoilage and extend its shelf life",
+      "options": [
+        "Post-harvest loss",
+        "Dietary diversity",
+        "Food preservation",
+        "Food supply chain"
+      ],
+      "correctAnswer": "Food preservation"
+    },
+    {
+      "id": 9,
+      "question": "Which term matches this description? The controlled supply of water to crops in dry periods",
+      "options": [
+        "Irrigation",
+        "Staple crop",
+        "Food safety",
+        "Fertilizer"
+      ],
+      "correctAnswer": "Irrigation"
+    },
+    {
+      "id": 10,
+      "question": "Which term matches this description? The ability of soil to supply nutrients needed by crops",
+      "options": [
+        "Food insecurity",
+        "Self-sufficiency",
+        "Undernutrition",
+        "Soil fertility"
+      ],
+      "correctAnswer": "Soil fertility"
+    },
+    {
+      "id": 11,
+      "question": "Which term matches this description? A material added to soil to supply essential plant nutrients",
+      "options": [
+        "Fertilizer",
+        "Food safety",
+        "Staple crop",
+        "Irrigation"
+      ],
+      "correctAnswer": "Fertilizer"
+    },
+    {
+      "id": 12,
+      "question": "Which term matches this description? Measures used to reduce losses caused by insect and disease pests",
+      "options": [
+        "Fortification",
+        "Food security",
+        "Malnutrition",
+        "Pest control"
+      ],
+      "correctAnswer": "Pest control"
+    },
+    {
+      "id": 13,
+      "question": "Which term matches this description? Food lost between the field and the final consumer",
+      "options": [
+        "Food preservation",
+        "Post-harvest loss",
+        "Dietary diversity",
+        "Food supply chain"
+      ],
+      "correctAnswer": "Post-harvest loss"
+    },
+    {
+      "id": 14,
+      "question": "Which term matches this description? Food supplied to communities facing acute shortages",
+      "options": [
+        "Fertilizer",
+        "Food aid",
+        "Irrigation",
+        "Staple crop"
+      ],
+      "correctAnswer": "Food aid"
+    },
+    {
+      "id": 15,
+      "question": "Which term matches this description? The ability of a community to produce most of its own food",
+      "options": [
+        "Post-harvest loss",
+        "Self-sufficiency",
+        "Dietary diversity",
+        "Food preservation"
+      ],
+      "correctAnswer": "Self-sufficiency"
+    },
+    {
+      "id": 16,
+      "question": "Which term matches this description? Consuming a wide range of foods across food groups",
+      "options": [
+        "Dietary diversity",
+        "Food supply chain",
+        "Food preservation",
+        "Post-harvest loss"
+      ],
+      "correctAnswer": "Dietary diversity"
+    },
+    {
+      "id": 17,
+      "question": "Which term matches this description? Practices that keep food free from harmful contaminants",
+      "options": [
+        "Malnutrition",
+        "Staple crop",
+        "Food safety",
+        "Pest control"
+      ],
+      "correctAnswer": "Food safety"
+    },
+    {
+      "id": 18,
+      "question": "Which term matches this description? Adding nutrients to food to improve its nutritional value",
+      "options": [
+        "Fortification",
+        "Food security",
+        "Soil fertility",
+        "Undernutrition"
+      ],
+      "correctAnswer": "Fortification"
+    },
+    {
+      "id": 19,
+      "question": "Which term matches this description? A service that teaches farmers improved farming methods",
+      "options": [
+        "Food preservation",
+        "Agricultural extension",
+        "Crop diversification",
+        "Micronutrient deficiency"
+      ],
+      "correctAnswer": "Agricultural extension"
+    },
+    {
+      "id": 20,
+      "question": "Which term matches this description? The sequence of steps that moves food from farm to plate",
+      "options": [
+        "Dietary diversity",
+        "Food preservation",
+        "Post-harvest loss",
+        "Food supply chain"
+      ],
+      "correctAnswer": "Food supply chain"
+    }
+  ]
+}

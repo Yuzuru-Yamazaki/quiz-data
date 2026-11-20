@@ -19,9 +19,9 @@
       "question": "How much does 2000 birr become after 3 years at 5% compound interest per year?",
       "options": [
         "2315.25",
-        "2300",
-        "2210.50",
-        "2410"
+        "$A = P(1+r)^n$",
+        "$A = P(1-r)^n$",
+        "$I = Prt$"
       ],
       "correctAnswer": "2315.25"
     },
@@ -30,9 +30,9 @@
       "question": "A salary starts at 6000 birr and increases by 400 birr each year. What is the total earned over 5 years?",
       "options": [
         "34000",
-        "32000",
-        "36000",
-        "30000"
+        "$I = Prt$",
+        "1.05",
+        "2315.25"
       ],
       "correctAnswer": "34000"
     },
@@ -40,10 +40,10 @@
       "id": 3,
       "question": "A population of 5000 grows by 2% each year. What is the population after 3 years?",
       "options": [
-        "5306.04",
-        "5300",
-        "5200",
-        "5400"
+        "$A = P(1+r)^n$",
+        "$A = P(1-r)^n$",
+        "$I = Prt$",
+        "5306.04"
       ],
       "correctAnswer": "5306.04"
     },
@@ -51,10 +51,10 @@
       "id": 4,
       "question": "A car worth 800000 birr depreciates by 15% each year. What is its value after 2 years?",
       "options": [
+        "$A = P(1-r)^n$",
         "578000",
-        "560000",
-        "680000",
-        "600000"
+        "$I = Prt$",
+        "$A = P(1+r)^n$"
       ],
       "correctAnswer": "578000"
     },
@@ -63,9 +63,9 @@
       "question": "Monthly deposits start at 100 birr and rise by 50 birr each month for 12 months. What is the total deposited?",
       "options": [
         "4500",
-        "4200",
-        "4800",
-        "3600"
+        "2315.25",
+        "$I = Prt$",
+        "1.05"
       ],
       "correctAnswer": "4500"
     },
@@ -73,10 +73,10 @@
       "id": 6,
       "question": "A radioactive sample of 80 g decays with a half-life of one year. How much remains after 3 years?",
       "options": [
+        "1.05",
         "10 g",
-        "20 g",
-        "40 g",
-        "5 g"
+        "$I = Prt$",
+        "2315.25"
       ],
       "correctAnswer": "10 g"
     },
@@ -84,10 +84,10 @@
       "id": 7,
       "question": "A bacteria culture of 100 doubles every hour. What is the count after 4 hours?",
       "options": [
+        "$I = Prt$",
         "1600",
-        "800",
-        "400",
-        "3200"
+        "1.05",
+        "2315.25"
       ],
       "correctAnswer": "1600"
     },
@@ -95,10 +95,10 @@
       "id": 8,
       "question": "For the same principal, rate, and time, compound interest is generally ... simple interest.",
       "options": [
+        "arithmetic growth",
+        "geometric sequence",
         "greater than",
-        "less than",
-        "equal to",
-        "unrelated to"
+        "$A = P(1+r)^n$"
       ],
       "correctAnswer": "greater than"
     },
@@ -107,9 +107,9 @@
       "question": "How much does 5000 birr become after 2 years at 8% compound interest per year?",
       "options": [
         "5832",
-        "5800",
-        "5400",
-        "5900"
+        "2315.25",
+        "$I = Prt$",
+        "1.05"
       ],
       "correctAnswer": "5832"
     },
@@ -117,10 +117,10 @@
       "id": 10,
       "question": "How much does 10000 birr become after 2 years at 10% compound interest per year?",
       "options": [
-        "12100",
-        "12000",
-        "11000",
-        "12200"
+        "1.05",
+        "2315.25",
+        "$I = Prt$",
+        "12100"
       ],
       "correctAnswer": "12100"
     }

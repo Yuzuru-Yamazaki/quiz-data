@@ -1,0 +1,237 @@
+{
+  "title": "2.5 Viruses",
+  "description": "Viral structure, replication cycles, host dependence and virus-related concepts. Hard level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "viruses",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Capsid: A surface protein that helps a virus attach to host cells",
+        "Prion: A viral cycle that ends with destruction of the host cell",
+        "Virion: The time between infection and the appearance of symptoms",
+        "Virus: A non-cellular infectious agent that requires a host cell"
+      ],
+      "correctAnswer": "Virus: A non-cellular infectious agent that requires a host cell"
+    },
+    {
+      "id": 2,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Envelope: A non-cellular infectious agent that requires a host cell",
+        "Virion: A viral cycle in which viral DNA integrates into the host genome",
+        "Viroid: A living cell that a virus infects and uses for replication",
+        "Capsid: The protein coat that surrounds the genetic material of a virus"
+      ],
+      "correctAnswer": "Capsid: The protein coat that surrounds the genetic material of a virus"
+    },
+    {
+      "id": 3,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Retrovirus: An infectious misfolded protein that can cause disease",
+        "Envelope: A lipid layer surrounding the capsid of some viruses",
+        "Host cell: A small infectious RNA molecule without a protein coat",
+        "Prophage: A state in which a virus remains dormant in the host"
+      ],
+      "correctAnswer": "Envelope: A lipid layer surrounding the capsid of some viruses"
+    },
+    {
+      "id": 4,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Nucleic acid: The DNA or RNA that makes up the viral genome",
+        "Viral vector: An enzyme that makes DNA from an RNA template",
+        "Bacteriophage: A modified virus used to deliver genes into cells",
+        "Spike protein: A modified virus used to deliver genes into cells"
+      ],
+      "correctAnswer": "Nucleic acid: The DNA or RNA that makes up the viral genome"
+    },
+    {
+      "id": 5,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Envelope: The process by which a virus makes copies of itself",
+        "Capsid: The process by which a virus makes copies of itself",
+        "Virion: A complete infectious virus particle outside a cell",
+        "Viroid: A medicine that inhibits the replication of viruses"
+      ],
+      "correctAnswer": "Virion: A complete infectious virus particle outside a cell"
+    },
+    {
+      "id": 6,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Lytic cycle: A non-cellular infectious agent that requires a host cell",
+        "Host cell: A living cell that a virus infects and uses for replication",
+        "Retrovirus: The protein coat that surrounds the genetic material of a virus",
+        "Replication: A viral cycle in which viral DNA integrates into the host genome"
+      ],
+      "correctAnswer": "Host cell: A living cell that a virus infects and uses for replication"
+    },
+    {
+      "id": 7,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Replication: The process by which a virus makes copies of itself",
+        "Lytic cycle: A complete infectious virus particle outside a cell",
+        "Viral vector: A lipid layer surrounding the capsid of some viruses",
+        "Nucleic acid: A medicine that inhibits the replication of viruses"
+      ],
+      "correctAnswer": "Replication: The process by which a virus makes copies of itself"
+    },
+    {
+      "id": 8,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Lytic cycle: A viral cycle that ends with destruction of the host cell",
+        "Viral vector: The time between infection and the appearance of symptoms",
+        "Replication: A non-cellular infectious agent that requires a host cell",
+        "Nucleic acid: A surface protein that helps a virus attach to host cells"
+      ],
+      "correctAnswer": "Lytic cycle: A viral cycle that ends with destruction of the host cell"
+    },
+    {
+      "id": 9,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antiviral drug: A non-cellular infectious agent that requires a host cell",
+        "Incubation period: The protein coat that surrounds the genetic material of a virus",
+        "Reverse transcriptase: A living cell that a virus infects and uses for replication",
+        "Lysogenic cycle: A viral cycle in which viral DNA integrates into the host genome"
+      ],
+      "correctAnswer": "Lysogenic cycle: A viral cycle in which viral DNA integrates into the host genome"
+    },
+    {
+      "id": 10,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Envelope: A non-cellular infectious agent that requires a host cell",
+        "Prophage: Viral DNA that is integrated into a bacterial chromosome",
+        "Retrovirus: A surface protein that helps a virus attach to host cells",
+        "Host cell: A viral cycle that ends with destruction of the host cell"
+      ],
+      "correctAnswer": "Prophage: Viral DNA that is integrated into a bacterial chromosome"
+    },
+    {
+      "id": 11,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Spike protein: A modified virus used to deliver genes into cells",
+        "Viral latency: A complete infectious virus particle outside a cell",
+        "Bacteriophage: A virus that specifically infects bacterial cells",
+        "Antiviral drug: The process by which a virus makes copies of itself"
+      ],
+      "correctAnswer": "Bacteriophage: A virus that specifically infects bacterial cells"
+    },
+    {
+      "id": 12,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Lytic cycle: An enzyme that makes DNA from an RNA template",
+        "Nucleic acid: A virus that specifically infects bacterial cells",
+        "Replication: The DNA or RNA that makes up the viral genome",
+        "Retrovirus: An RNA virus that copies its genome into DNA"
+      ],
+      "correctAnswer": "Retrovirus: An RNA virus that copies its genome into DNA"
+    },
+    {
+      "id": 13,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Malnutrition: A condition caused by an unbalanced or inadequate diet",
+        "Lysogenic cycle: A virus that specifically infects bacterial cells",
+        "Antiviral drug: A modified virus used to deliver genes into cells",
+        "Reverse transcriptase: An enzyme that makes DNA from an RNA template"
+      ],
+      "correctAnswer": "Reverse transcriptase: An enzyme that makes DNA from an RNA template"
+    },
+    {
+      "id": 14,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antiviral drug: The time between infection and the appearance of symptoms",
+        "Spike protein: A surface protein that helps a virus attach to host cells",
+        "Viral latency: A viral cycle that ends with destruction of the host cell",
+        "Bacteriophage: A non-cellular infectious agent that requires a host cell"
+      ],
+      "correctAnswer": "Spike protein: A surface protein that helps a virus attach to host cells"
+    },
+    {
+      "id": 15,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Reverse transcriptase: A non-cellular infectious agent that requires a host cell",
+        "Lysogenic cycle: A viral cycle that ends with destruction of the host cell",
+        "Antiviral drug: A surface protein that helps a virus attach to host cells",
+        "Incubation period: The time between infection and the appearance of symptoms"
+      ],
+      "correctAnswer": "Incubation period: The time between infection and the appearance of symptoms"
+    },
+    {
+      "id": 16,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Spike protein: A small infectious RNA molecule without a protein coat",
+        "Bacteriophage: A lipid layer surrounding the capsid of some viruses",
+        "Viral latency: A state in which a virus remains dormant in the host",
+        "Antiviral drug: An infectious misfolded protein that can cause disease"
+      ],
+      "correctAnswer": "Viral latency: A state in which a virus remains dormant in the host"
+    },
+    {
+      "id": 17,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Nucleic acid: A virus that specifically infects bacterial cells",
+        "Viral vector: A modified virus used to deliver genes into cells",
+        "Spike protein: The process by which a virus makes copies of itself",
+        "Bacteriophage: A complete infectious virus particle outside a cell"
+      ],
+      "correctAnswer": "Viral vector: A modified virus used to deliver genes into cells"
+    },
+    {
+      "id": 18,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Envelope: A non-cellular infectious agent that requires a host cell",
+        "Virion: Viral DNA that is integrated into a bacterial chromosome",
+        "Capsid: An infectious misfolded protein that can cause disease",
+        "Viroid: A small infectious RNA molecule without a protein coat"
+      ],
+      "correctAnswer": "Viroid: A small infectious RNA molecule without a protein coat"
+    },
+    {
+      "id": 19,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Virus: A small infectious RNA molecule without a protein coat",
+        "Capsid: Viral DNA that is integrated into a bacterial chromosome",
+        "Virion: A non-cellular infectious agent that requires a host cell",
+        "Prion: An infectious misfolded protein that can cause disease"
+      ],
+      "correctAnswer": "Prion: An infectious misfolded protein that can cause disease"
+    },
+    {
+      "id": 20,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Incubation period: The process by which a virus makes copies of itself",
+        "Antiviral drug: A medicine that inhibits the replication of viruses",
+        "Lysogenic cycle: A complete infectious virus particle outside a cell",
+        "Reverse transcriptase: A lipid layer surrounding the capsid of some viruses"
+      ],
+      "correctAnswer": "Antiviral drug: A medicine that inhibits the replication of viruses"
+    }
+  ]
+}

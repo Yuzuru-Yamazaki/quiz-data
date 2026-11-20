@@ -1,0 +1,237 @@
+{
+  "title": "2.5 Viruses",
+  "description": "Viral structure, replication cycles, host dependence and virus-related concepts. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "viruses",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Virus?",
+      "options": [
+        "The time between infection and the appearance of symptoms",
+        "A viral cycle that ends with destruction of the host cell",
+        "A surface protein that helps a virus attach to host cells",
+        "A non-cellular infectious agent that requires a host cell"
+      ],
+      "correctAnswer": "A non-cellular infectious agent that requires a host cell"
+    },
+    {
+      "id": 2,
+      "question": "What is Capsid?",
+      "options": [
+        "A viral cycle in which viral DNA integrates into the host genome",
+        "A non-cellular infectious agent that requires a host cell",
+        "A living cell that a virus infects and uses for replication",
+        "The protein coat that surrounds the genetic material of a virus"
+      ],
+      "correctAnswer": "The protein coat that surrounds the genetic material of a virus"
+    },
+    {
+      "id": 3,
+      "question": "What is Envelope?",
+      "options": [
+        "A state in which a virus remains dormant in the host",
+        "An infectious misfolded protein that can cause disease",
+        "A small infectious RNA molecule without a protein coat",
+        "A lipid layer surrounding the capsid of some viruses"
+      ],
+      "correctAnswer": "A lipid layer surrounding the capsid of some viruses"
+    },
+    {
+      "id": 4,
+      "question": "What is Nucleic acid?",
+      "options": [
+        "An enzyme that makes DNA from an RNA template",
+        "A virus that specifically infects bacterial cells",
+        "The DNA or RNA that makes up the viral genome",
+        "A modified virus used to deliver genes into cells"
+      ],
+      "correctAnswer": "The DNA or RNA that makes up the viral genome"
+    },
+    {
+      "id": 5,
+      "question": "What is Virion?",
+      "options": [
+        "The process by which a virus makes copies of itself",
+        "A medicine that inhibits the replication of viruses",
+        "A complete infectious virus particle outside a cell",
+        "A lipid layer surrounding the capsid of some viruses"
+      ],
+      "correctAnswer": "A complete infectious virus particle outside a cell"
+    },
+    {
+      "id": 6,
+      "question": "What is Host cell?",
+      "options": [
+        "A non-cellular infectious agent that requires a host cell",
+        "A living cell that a virus infects and uses for replication",
+        "A viral cycle in which viral DNA integrates into the host genome",
+        "The protein coat that surrounds the genetic material of a virus"
+      ],
+      "correctAnswer": "A living cell that a virus infects and uses for replication"
+    },
+    {
+      "id": 7,
+      "question": "What is Replication?",
+      "options": [
+        "The process by which a virus makes copies of itself",
+        "A lipid layer surrounding the capsid of some viruses",
+        "A medicine that inhibits the replication of viruses",
+        "A complete infectious virus particle outside a cell"
+      ],
+      "correctAnswer": "The process by which a virus makes copies of itself"
+    },
+    {
+      "id": 8,
+      "question": "What is Lytic cycle?",
+      "options": [
+        "A non-cellular infectious agent that requires a host cell",
+        "A viral cycle that ends with destruction of the host cell",
+        "The time between infection and the appearance of symptoms",
+        "A surface protein that helps a virus attach to host cells"
+      ],
+      "correctAnswer": "A viral cycle that ends with destruction of the host cell"
+    },
+    {
+      "id": 9,
+      "question": "What is Lysogenic cycle?",
+      "options": [
+        "A viral cycle in which viral DNA integrates into the host genome",
+        "A living cell that a virus infects and uses for replication",
+        "A situation where all people have access to sufficient safe food",
+        "The protein coat that surrounds the genetic material of a virus"
+      ],
+      "correctAnswer": "A viral cycle in which viral DNA integrates into the host genome"
+    },
+    {
+      "id": 10,
+      "question": "What is Prophage?",
+      "options": [
+        "A viral cycle that ends with destruction of the host cell",
+        "Viral DNA that is integrated into a bacterial chromosome",
+        "A surface protein that helps a virus attach to host cells",
+        "A non-cellular infectious agent that requires a host cell"
+      ],
+      "correctAnswer": "Viral DNA that is integrated into a bacterial chromosome"
+    },
+    {
+      "id": 11,
+      "question": "What is Bacteriophage?",
+      "options": [
+        "The process by which a virus makes copies of itself",
+        "A complete infectious virus particle outside a cell",
+        "A modified virus used to deliver genes into cells",
+        "A virus that specifically infects bacterial cells"
+      ],
+      "correctAnswer": "A virus that specifically infects bacterial cells"
+    },
+    {
+      "id": 12,
+      "question": "What is Retrovirus?",
+      "options": [
+        "An enzyme that makes DNA from an RNA template",
+        "The DNA or RNA that makes up the viral genome",
+        "An RNA virus that copies its genome into DNA",
+        "A virus that specifically infects bacterial cells"
+      ],
+      "correctAnswer": "An RNA virus that copies its genome into DNA"
+    },
+    {
+      "id": 13,
+      "question": "What is Reverse transcriptase?",
+      "options": [
+        "An enzyme that makes DNA from an RNA template",
+        "The DNA or RNA that makes up the viral genome",
+        "A modified virus used to deliver genes into cells",
+        "A virus that specifically infects bacterial cells"
+      ],
+      "correctAnswer": "An enzyme that makes DNA from an RNA template"
+    },
+    {
+      "id": 14,
+      "question": "What is Spike protein?",
+      "options": [
+        "A non-cellular infectious agent that requires a host cell",
+        "The time between infection and the appearance of symptoms",
+        "A viral cycle that ends with destruction of the host cell",
+        "A surface protein that helps a virus attach to host cells"
+      ],
+      "correctAnswer": "A surface protein that helps a virus attach to host cells"
+    },
+    {
+      "id": 15,
+      "question": "What is Incubation period?",
+      "options": [
+        "The time between infection and the appearance of symptoms",
+        "A non-cellular infectious agent that requires a host cell",
+        "A viral cycle that ends with destruction of the host cell",
+        "A surface protein that helps a virus attach to host cells"
+      ],
+      "correctAnswer": "The time between infection and the appearance of symptoms"
+    },
+    {
+      "id": 16,
+      "question": "What is Viral latency?",
+      "options": [
+        "A state in which a virus remains dormant in the host",
+        "A small infectious RNA molecule without a protein coat",
+        "An infectious misfolded protein that can cause disease",
+        "A lipid layer surrounding the capsid of some viruses"
+      ],
+      "correctAnswer": "A state in which a virus remains dormant in the host"
+    },
+    {
+      "id": 17,
+      "question": "What is Viral vector?",
+      "options": [
+        "A complete infectious virus particle outside a cell",
+        "The process by which a virus makes copies of itself",
+        "A modified virus used to deliver genes into cells",
+        "A virus that specifically infects bacterial cells"
+      ],
+      "correctAnswer": "A modified virus used to deliver genes into cells"
+    },
+    {
+      "id": 18,
+      "question": "What is Viroid?",
+      "options": [
+        "Viral DNA that is integrated into a bacterial chromosome",
+        "A non-cellular infectious agent that requires a host cell",
+        "A small infectious RNA molecule without a protein coat",
+        "An infectious misfolded protein that can cause disease"
+      ],
+      "correctAnswer": "A small infectious RNA molecule without a protein coat"
+    },
+    {
+      "id": 19,
+      "question": "What is Prion?",
+      "options": [
+        "An infectious misfolded protein that can cause disease",
+        "A non-cellular infectious agent that requires a host cell",
+        "Viral DNA that is integrated into a bacterial chromosome",
+        "A small infectious RNA molecule without a protein coat"
+      ],
+      "correctAnswer": "An infectious misfolded protein that can cause disease"
+    },
+    {
+      "id": 20,
+      "question": "What is Antiviral drug?",
+      "options": [
+        "A medicine that inhibits the replication of viruses",
+        "A complete infectious virus particle outside a cell",
+        "The process by which a virus makes copies of itself",
+        "A lipid layer surrounding the capsid of some viruses"
+      ],
+      "correctAnswer": "A medicine that inhibits the replication of viruses"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "title": "2.7 Modes of Disease Transmission and Prevention",
+  "description": "How pathogens spread, the chain of infection and the main prevention measures. Hard level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "disease transmission and prevention",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Isolation: The provision of clean water and safe waste disposal",
+        "Zoonosis: The time between infection and the start of symptoms",
+        "Incubation: Transmission through physical touching between people",
+        "Pathogen: A microorganism capable of causing disease in a host"
+      ],
+      "correctAnswer": "Pathogen: A microorganism capable of causing disease in a host"
+    },
+    {
+      "id": 2,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Airborne transmission: The administration of a vaccine to produce protective immunity",
+        "Droplet transmission: Separation of people who may have been exposed to a pathogen",
+        "Protective equipment: Separation of people who are already infected with a disease",
+        "Infectious disease: A disease caused by a pathogen that can spread between hosts"
+      ],
+      "correctAnswer": "Infectious disease: A disease caused by a pathogen that can spread between hosts"
+    },
+    {
+      "id": 3,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Herd immunity: The time between infection and the start of symptoms",
+        "Transmission: The spread of a pathogen from one host to another",
+        "Disinfection: A microorganism capable of causing disease in a host",
+        "Hand hygiene: An organism that carries a pathogen between hosts"
+      ],
+      "correctAnswer": "Transmission: The spread of a pathogen from one host to another"
+    },
+    {
+      "id": 4,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Direct contact: Transmission through physical touching between people",
+        "Contagious period: Cleaning hands to remove pathogens and prevent spread",
+        "Infectious disease: The complete removal or killing of all microbial life",
+        "Droplet transmission: Spread via tiny particles that remain suspended in air"
+      ],
+      "correctAnswer": "Direct contact: Transmission through physical touching between people"
+    },
+    {
+      "id": 5,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Infectious disease: Clothing or equipment worn to reduce exposure to pathogens",
+        "Protective equipment: The time during which an infected person can spread disease",
+        "Droplet transmission: Spread through respiratory droplets from coughs or sneezes",
+        "Airborne transmission: The time during which an infected person can spread disease"
+      ],
+      "correctAnswer": "Droplet transmission: Spread through respiratory droplets from coughs or sneezes"
+    },
+    {
+      "id": 6,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Infectious disease: An inanimate object that carries and transfers pathogens",
+        "Airborne transmission: Spread via tiny particles that remain suspended in air",
+        "Droplet transmission: Protection of a population when many people are immune",
+        "Protective equipment: The process that kills pathogens on non-living surfaces"
+      ],
+      "correctAnswer": "Airborne transmission: Spread via tiny particles that remain suspended in air"
+    },
+    {
+      "id": 7,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Fomite: An inanimate object that carries and transfers pathogens",
+        "Vector: An infectious disease transmitted from animals to humans",
+        "Zoonosis: Clothing or equipment worn to reduce exposure to pathogens",
+        "Pathogen: Spread through respiratory droplets from coughs or sneezes"
+      ],
+      "correctAnswer": "Fomite: An inanimate object that carries and transfers pathogens"
+    },
+    {
+      "id": 8,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Vector: An organism that carries a pathogen between hosts",
+        "Zoonosis: The time between infection and the start of symptoms",
+        "Fomite: The spread of a pathogen from one host to another",
+        "Pathogen: The time between infection and the start of symptoms"
+      ],
+      "correctAnswer": "Vector: An organism that carries a pathogen between hosts"
+    },
+    {
+      "id": 9,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Incubation: Clothing or equipment worn to reduce exposure to pathogens",
+        "Pathogen: An inanimate object that carries and transfers pathogens",
+        "Isolation: Spread through respiratory droplets from coughs or sneezes",
+        "Zoonosis: An infectious disease transmitted from animals to humans"
+      ],
+      "correctAnswer": "Zoonosis: An infectious disease transmitted from animals to humans"
+    },
+    {
+      "id": 10,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Quarantine: A microorganism capable of causing disease in a host",
+        "Incubation: The time between infection and the start of symptoms",
+        "Vaccination: Transmission through physical touching between people",
+        "Sanitation: Transmission through physical touching between people"
+      ],
+      "correctAnswer": "Incubation: The time between infection and the start of symptoms"
+    },
+    {
+      "id": 11,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Infectious disease: Separation of people who may have been exposed to a pathogen",
+        "Droplet transmission: Separation of people who may have been exposed to a pathogen",
+        "Contagious period: The time during which an infected person can spread disease",
+        "Protective equipment: Separation of people who are already infected with a disease"
+      ],
+      "correctAnswer": "Contagious period: The time during which an infected person can spread disease"
+    },
+    {
+      "id": 12,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Sanitation: Separation of people who are already infected with a disease",
+        "Vaccination: A disease caused by a pathogen that can spread between hosts",
+        "Incubation: A disease caused by a pathogen that can spread between hosts",
+        "Quarantine: Separation of people who may have been exposed to a pathogen"
+      ],
+      "correctAnswer": "Quarantine: Separation of people who may have been exposed to a pathogen"
+    },
+    {
+      "id": 13,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Incubation: A disease caused by a pathogen that can spread between hosts",
+        "Quarantine: The administration of a vaccine to produce protective immunity",
+        "Sanitation: The administration of a vaccine to produce protective immunity",
+        "Isolation: Separation of people who are already infected with a disease"
+      ],
+      "correctAnswer": "Isolation: Separation of people who are already infected with a disease"
+    },
+    {
+      "id": 14,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Food supply chain: The sequence of steps that moves food from farm to plate",
+        "Vaccination: The administration of a vaccine to produce protective immunity",
+        "Hand hygiene: Separation of people who may have been exposed to a pathogen",
+        "Transmission: A disease caused by a pathogen that can spread between hosts"
+      ],
+      "correctAnswer": "Vaccination: The administration of a vaccine to produce protective immunity"
+    },
+    {
+      "id": 15,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Transmission: Transmission through physical touching between people",
+        "Disinfection: The complete removal or killing of all microbial life",
+        "Herd immunity: Spread via tiny particles that remain suspended in air",
+        "Hand hygiene: Cleaning hands to remove pathogens and prevent spread"
+      ],
+      "correctAnswer": "Hand hygiene: Cleaning hands to remove pathogens and prevent spread"
+    },
+    {
+      "id": 16,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Quarantine: The time between infection and the start of symptoms",
+        "Incubation: A microorganism capable of causing disease in a host",
+        "Sanitation: The provision of clean water and safe waste disposal",
+        "Vaccination: Transmission through physical touching between people"
+      ],
+      "correctAnswer": "Sanitation: The provision of clean water and safe waste disposal"
+    },
+    {
+      "id": 17,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Droplet transmission: The time during which an infected person can spread disease",
+        "Protective equipment: Clothing or equipment worn to reduce exposure to pathogens",
+        "Infectious disease: Spread through respiratory droplets from coughs or sneezes",
+        "Airborne transmission: The time during which an infected person can spread disease"
+      ],
+      "correctAnswer": "Protective equipment: Clothing or equipment worn to reduce exposure to pathogens"
+    },
+    {
+      "id": 18,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Contagious period: An inanimate object that carries and transfers pathogens",
+        "Direct contact: The process that kills pathogens on non-living surfaces",
+        "Sterilisation: Spread via tiny particles that remain suspended in air",
+        "Herd immunity: Protection of a population when many people are immune"
+      ],
+      "correctAnswer": "Herd immunity: Protection of a population when many people are immune"
+    },
+    {
+      "id": 19,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Herd immunity: Transmission through physical touching between people",
+        "Direct contact: Cleaning hands to remove pathogens and prevent spread",
+        "Contagious period: Spread via tiny particles that remain suspended in air",
+        "Sterilisation: The complete removal or killing of all microbial life"
+      ],
+      "correctAnswer": "Sterilisation: The complete removal or killing of all microbial life"
+    },
+    {
+      "id": 20,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Hand hygiene: An infectious disease transmitted from animals to humans",
+        "Disinfection: The process that kills pathogens on non-living surfaces",
+        "Transmission: An inanimate object that carries and transfers pathogens",
+        "Herd immunity: Spread through respiratory droplets from coughs or sneezes"
+      ],
+      "correctAnswer": "Disinfection: The process that kills pathogens on non-living surfaces"
+    }
+  ]
+}

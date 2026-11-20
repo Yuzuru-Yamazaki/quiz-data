@@ -1,0 +1,237 @@
+{
+  "title": "1.4 Applications in Biotechnology",
+  "description": "Genetic engineering, DNA techniques and the industrial and medical uses of biology. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 1",
+    "applications in biotechnology",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Biotechnology?",
+      "options": [
+        "The use of microorganisms to remove pollutants from the environment",
+        "An organism that carries a gene introduced from another species",
+        "Microbial metabolism used to produce foods and industrial chemicals",
+        "The use of biological systems to develop products and processes"
+      ],
+      "correctAnswer": "The use of biological systems to develop products and processes"
+    },
+    {
+      "id": 2,
+      "question": "What is Genetic engineering?",
+      "options": [
+        "The use of biological systems to develop products and processes",
+        "Microbial metabolism used to produce foods and industrial chemicals",
+        "An organism that carries a gene introduced from another species",
+        "Direct manipulation of an organism DNA using laboratory tools"
+      ],
+      "correctAnswer": "Direct manipulation of an organism DNA using laboratory tools"
+    },
+    {
+      "id": 3,
+      "question": "What is Recombinant DNA?",
+      "options": [
+        "Determining the exact order of bases in a DNA molecule",
+        "A biological preparation that builds immunity to a disease",
+        "A method that amplifies small DNA samples into many copies",
+        "DNA formed by joining sequences from different sources"
+      ],
+      "correctAnswer": "DNA formed by joining sequences from different sources"
+    },
+    {
+      "id": 4,
+      "question": "What is Gene cloning?",
+      "options": [
+        "Using microorganisms to make drugs that kill bacteria",
+        "DNA formed by joining sequences from different sources",
+        "Producing many identical copies of a particular gene",
+        "Determining the exact order of bases in a DNA molecule"
+      ],
+      "correctAnswer": "Producing many identical copies of a particular gene"
+    },
+    {
+      "id": 5,
+      "question": "What is PCR?",
+      "options": [
+        "A biological preparation that builds immunity to a disease",
+        "Growing cells or tissues in a controlled laboratory medium",
+        "A method that amplifies small DNA samples into many copies",
+        "A lab method that separates DNA fragments according to size"
+      ],
+      "correctAnswer": "A method that amplifies small DNA samples into many copies"
+    },
+    {
+      "id": 6,
+      "question": "What is Gel electrophoresis?",
+      "options": [
+        "A fuel made from biological material such as crops or algae",
+        "A lab method that separates DNA fragments according to size",
+        "Treating disease by introducing functional genes into cells",
+        "A carrier used to deliver genetic material into a host cell"
+      ],
+      "correctAnswer": "A lab method that separates DNA fragments according to size"
+    },
+    {
+      "id": 7,
+      "question": "What is DNA sequencing?",
+      "options": [
+        "Determining the exact order of bases in a DNA molecule",
+        "A biological preparation that builds immunity to a disease",
+        "A method that amplifies small DNA samples into many copies",
+        "DNA formed by joining sequences from different sources"
+      ],
+      "correctAnswer": "Determining the exact order of bases in a DNA molecule"
+    },
+    {
+      "id": 8,
+      "question": "What is Genome?",
+      "options": [
+        "Producing many identical copies of a particular gene",
+        "The complete set of genetic material of an organism",
+        "DNA formed by joining sequences from different sources",
+        "Using microorganisms to make drugs that kill bacteria"
+      ],
+      "correctAnswer": "The complete set of genetic material of an organism"
+    },
+    {
+      "id": 9,
+      "question": "What is Plasmid?",
+      "options": [
+        "A small circular DNA molecule used to carry genes into cells",
+        "An organism or cell that is genetically identical to another",
+        "Direct manipulation of an organism DNA using laboratory tools",
+        "The use of enzymes to speed up specific industrial reactions"
+      ],
+      "correctAnswer": "A small circular DNA molecule used to carry genes into cells"
+    },
+    {
+      "id": 10,
+      "question": "What is Vector?",
+      "options": [
+        "Treating disease by introducing functional genes into cells",
+        "A carrier used to deliver genetic material into a host cell",
+        "A fuel made from biological material such as crops or algae",
+        "A lab method that separates DNA fragments according to size"
+      ],
+      "correctAnswer": "A carrier used to deliver genetic material into a host cell"
+    },
+    {
+      "id": 11,
+      "question": "What is Transgenic organism?",
+      "options": [
+        "The use of microorganisms to remove pollutants from the environment",
+        "Microbial metabolism used to produce foods and industrial chemicals",
+        "The use of biological systems to develop products and processes",
+        "An organism that carries a gene introduced from another species"
+      ],
+      "correctAnswer": "An organism that carries a gene introduced from another species"
+    },
+    {
+      "id": 12,
+      "question": "What is Gene therapy?",
+      "options": [
+        "A carrier used to deliver genetic material into a host cell",
+        "A lab method that separates DNA fragments according to size",
+        "Treating disease by introducing functional genes into cells",
+        "A fuel made from biological material such as crops or algae"
+      ],
+      "correctAnswer": "Treating disease by introducing functional genes into cells"
+    },
+    {
+      "id": 13,
+      "question": "What is Vaccine?",
+      "options": [
+        "A biological preparation that builds immunity to a disease",
+        "A method that amplifies small DNA samples into many copies",
+        "A lab method that separates DNA fragments according to size",
+        "Growing cells or tissues in a controlled laboratory medium"
+      ],
+      "correctAnswer": "A biological preparation that builds immunity to a disease"
+    },
+    {
+      "id": 14,
+      "question": "What is Antibiotic production?",
+      "options": [
+        "DNA formed by joining sequences from different sources",
+        "A method that amplifies small DNA samples into many copies",
+        "Determining the exact order of bases in a DNA molecule",
+        "Using microorganisms to make drugs that kill bacteria"
+      ],
+      "correctAnswer": "Using microorganisms to make drugs that kill bacteria"
+    },
+    {
+      "id": 15,
+      "question": "What is Enzyme technology?",
+      "options": [
+        "The use of enzymes to speed up specific industrial reactions",
+        "A small circular DNA molecule used to carry genes into cells",
+        "An organism or cell that is genetically identical to another",
+        "Direct manipulation of an organism DNA using laboratory tools"
+      ],
+      "correctAnswer": "The use of enzymes to speed up specific industrial reactions"
+    },
+    {
+      "id": 16,
+      "question": "What is Fermentation?",
+      "options": [
+        "Microbial metabolism used to produce foods and industrial chemicals",
+        "The use of biological systems to develop products and processes",
+        "An organism that carries a gene introduced from another species",
+        "The use of microorganisms to remove pollutants from the environment"
+      ],
+      "correctAnswer": "Microbial metabolism used to produce foods and industrial chemicals"
+    },
+    {
+      "id": 17,
+      "question": "What is Biofuel?",
+      "options": [
+        "A carrier used to deliver genetic material into a host cell",
+        "Treating disease by introducing functional genes into cells",
+        "A fuel made from biological material such as crops or algae",
+        "A lab method that separates DNA fragments according to size"
+      ],
+      "correctAnswer": "A fuel made from biological material such as crops or algae"
+    },
+    {
+      "id": 18,
+      "question": "What is Bioremediation?",
+      "options": [
+        "The use of biological systems to develop products and processes",
+        "An organism that carries a gene introduced from another species",
+        "The use of microorganisms to remove pollutants from the environment",
+        "Microbial metabolism used to produce foods and industrial chemicals"
+      ],
+      "correctAnswer": "The use of microorganisms to remove pollutants from the environment"
+    },
+    {
+      "id": 19,
+      "question": "What is Tissue culture?",
+      "options": [
+        "Growing cells or tissues in a controlled laboratory medium",
+        "A lab method that separates DNA fragments according to size",
+        "A biological preparation that builds immunity to a disease",
+        "A method that amplifies small DNA samples into many copies"
+      ],
+      "correctAnswer": "Growing cells or tissues in a controlled laboratory medium"
+    },
+    {
+      "id": 20,
+      "question": "What is Clone?",
+      "options": [
+        "An organism or cell that is genetically identical to another",
+        "A small circular DNA molecule used to carry genes into cells",
+        "The use of enzymes to speed up specific industrial reactions",
+        "Direct manipulation of an organism DNA using laboratory tools"
+      ],
+      "correctAnswer": "An organism or cell that is genetically identical to another"
+    }
+  ]
+}

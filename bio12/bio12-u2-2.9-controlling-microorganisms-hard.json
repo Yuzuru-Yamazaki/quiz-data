@@ -1,0 +1,237 @@
+{
+  "title": "2.9 Controlling Microorganisms",
+  "description": "Physical, chemical and behavioural methods used to kill or inhibit microbes. Hard level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "controlling microorganisms",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Refrigeration: The ability of a microbe to withstand a control method",
+        "Antibacterial: Heating liquids briefly to kill harmful microorganisms",
+        "Pasteurisation: The process that kills pathogens on non-living surfaces",
+        "Sterilisation: The complete removal or killing of all microbial life"
+      ],
+      "correctAnswer": "Sterilisation: The complete removal or killing of all microbial life"
+    },
+    {
+      "id": 2,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Refrigeration: Practices that prevent contamination by unwanted microbes",
+        "Sterilisation: A chemical applied to living tissue to inhibit microbes",
+        "Antibacterial: A substance added to food to prevent microbial spoilage",
+        "Disinfection: The process that kills pathogens on non-living surfaces"
+      ],
+      "correctAnswer": "Disinfection: The process that kills pathogens on non-living surfaces"
+    },
+    {
+      "id": 3,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Filtration: Practices that prevent contamination by unwanted microbes",
+        "Antiseptic: A chemical applied to living tissue to inhibit microbes",
+        "Antifungal: A substance added to food to prevent microbial spoilage",
+        "Antibiotic: The process that kills pathogens on non-living surfaces"
+      ],
+      "correctAnswer": "Antiseptic: A chemical applied to living tissue to inhibit microbes"
+    },
+    {
+      "id": 4,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antibiotic: A compound produced by microbes that inhibits other microbes",
+        "Antiseptic: Slowing microbial growth by keeping food at low temperatures",
+        "Antifungal: A device that uses pressurised steam to sterilise materials",
+        "Filtration: Slowing microbial growth by keeping food at low temperatures"
+      ],
+      "correctAnswer": "Antibiotic: A compound produced by microbes that inhibits other microbes"
+    },
+    {
+      "id": 5,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Pasteurisation: Stopping microbial growth by turning water into ice",
+        "Sterilisation: An agent that suppresses the replication of viruses",
+        "Antibacterial: An agent that kills or stops the growth of bacteria",
+        "Refrigeration: Using high temperatures to kill all microbial forms"
+      ],
+      "correctAnswer": "Antibacterial: An agent that kills or stops the growth of bacteria"
+    },
+    {
+      "id": 6,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Filtration: An agent that suppresses the replication of viruses",
+        "Antifungal: An agent that kills or stops the growth of fungi",
+        "Antiseptic: Drawing water out of microbes by making food salty",
+        "Antibiotic: An agent that kills or stops the growth of bacteria"
+      ],
+      "correctAnswer": "Antifungal: An agent that kills or stops the growth of fungi"
+    },
+    {
+      "id": 7,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antiviral: An agent that suppresses the replication of viruses",
+        "Autoclave: An agent that kills or stops the growth of bacteria",
+        "Antibiotic: Stopping microbial growth by turning water into ice",
+        "Antiseptic: Using high temperatures to kill all microbial forms"
+      ],
+      "correctAnswer": "Antiviral: An agent that suppresses the replication of viruses"
+    },
+    {
+      "id": 8,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Heat sterilisation: Using high temperatures to kill all microbial forms",
+        "Chemical preservative: Stopping microbial growth by turning water into ice",
+        "Sugar preservation: An agent that kills or stops the growth of bacteria",
+        "Ultraviolet radiation: An agent that suppresses the replication of viruses"
+      ],
+      "correctAnswer": "Heat sterilisation: Using high temperatures to kill all microbial forms"
+    },
+    {
+      "id": 9,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antibiotic: Removing microbes by passing a liquid through a fine filter",
+        "Antiviral: Removing microbes by passing a liquid through a fine filter",
+        "Antiseptic: Using high sugar concentrations to inhibit microbial growth",
+        "Autoclave: A device that uses pressurised steam to sterilise materials"
+      ],
+      "correctAnswer": "Autoclave: A device that uses pressurised steam to sterilise materials"
+    },
+    {
+      "id": 10,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Aseptic technique: The ability of a microbe to withstand a control method",
+        "Pasteurisation: Heating liquids briefly to kill harmful microorganisms",
+        "Sugar preservation: A chemical applied to living tissue to inhibit microbes",
+        "Heat sterilisation: The process that kills pathogens on non-living surfaces"
+      ],
+      "correctAnswer": "Pasteurisation: Heating liquids briefly to kill harmful microorganisms"
+    },
+    {
+      "id": 11,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antiseptic: A device that uses pressurised steam to sterilise materials",
+        "Antibiotic: Using high sugar concentrations to inhibit microbial growth",
+        "Filtration: Removing microbes by passing a liquid through a fine filter",
+        "Antifungal: A compound produced by microbes that inhibits other microbes"
+      ],
+      "correctAnswer": "Filtration: Removing microbes by passing a liquid through a fine filter"
+    },
+    {
+      "id": 12,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Heat sterilisation: The complete removal or killing of all microbial life",
+        "Sugar preservation: Heating liquids briefly to kill harmful microorganisms",
+        "Chemical preservative: Removing water to stop microbial growth and survival",
+        "Ultraviolet radiation: Light used to damage microbial DNA and kill microbes"
+      ],
+      "correctAnswer": "Ultraviolet radiation: Light used to damage microbial DNA and kill microbes"
+    },
+    {
+      "id": 13,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Salting: Light used to damage microbial DNA and kill microbes",
+        "Freezing: The complete removal or killing of all microbial life",
+        "Antiviral: Heating liquids briefly to kill harmful microorganisms",
+        "Drying: Removing water to stop microbial growth and survival"
+      ],
+      "correctAnswer": "Drying: Removing water to stop microbial growth and survival"
+    },
+    {
+      "id": 14,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Pasteurisation: Removing microbes by passing a liquid through a fine filter",
+        "Refrigeration: Slowing microbial growth by keeping food at low temperatures",
+        "Antibacterial: A device that uses pressurised steam to sterilise materials",
+        "Sterilisation: A compound produced by microbes that inhibits other microbes"
+      ],
+      "correctAnswer": "Refrigeration: Slowing microbial growth by keeping food at low temperatures"
+    },
+    {
+      "id": 15,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antiviral: An agent that kills or stops the growth of bacteria",
+        "Autoclave: An agent that suppresses the replication of viruses",
+        "Antiseptic: Using high temperatures to kill all microbial forms",
+        "Freezing: Stopping microbial growth by turning water into ice"
+      ],
+      "correctAnswer": "Freezing: Stopping microbial growth by turning water into ice"
+    },
+    {
+      "id": 16,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antiviral: Using high temperatures to kill all microbial forms",
+        "Freezing: An agent that kills or stops the growth of bacteria",
+        "Salting: Drawing water out of microbes by making food salty",
+        "Autoclave: Using high temperatures to kill all microbial forms"
+      ],
+      "correctAnswer": "Salting: Drawing water out of microbes by making food salty"
+    },
+    {
+      "id": 17,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Heat sterilisation: A device that uses pressurised steam to sterilise materials",
+        "Sugar preservation: Using high sugar concentrations to inhibit microbial growth",
+        "Chemical preservative: A compound produced by microbes that inhibits other microbes",
+        "Ultraviolet radiation: Removing microbes by passing a liquid through a fine filter"
+      ],
+      "correctAnswer": "Sugar preservation: Using high sugar concentrations to inhibit microbial growth"
+    },
+    {
+      "id": 18,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Sugar preservation: Practices that prevent contamination by unwanted microbes",
+        "Heat sterilisation: A chemical applied to living tissue to inhibit microbes",
+        "Ultraviolet radiation: The process that kills pathogens on non-living surfaces",
+        "Chemical preservative: A substance added to food to prevent microbial spoilage"
+      ],
+      "correctAnswer": "Chemical preservative: A substance added to food to prevent microbial spoilage"
+    },
+    {
+      "id": 19,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Heat sterilisation: A device that uses pressurised steam to sterilise materials",
+        "Sugar preservation: Removing microbes by passing a liquid through a fine filter",
+        "Ultraviolet radiation: Using high sugar concentrations to inhibit microbial growth",
+        "Aseptic technique: Practices that prevent contamination by unwanted microbes"
+      ],
+      "correctAnswer": "Aseptic technique: Practices that prevent contamination by unwanted microbes"
+    },
+    {
+      "id": 20,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antibiotic: The process that kills pathogens on non-living surfaces",
+        "Resistance: The ability of a microbe to withstand a control method",
+        "Antiseptic: Heating liquids briefly to kill harmful microorganisms",
+        "Antifungal: A chemical applied to living tissue to inhibit microbes"
+      ],
+      "correctAnswer": "Resistance: The ability of a microbe to withstand a control method"
+    }
+  ]
+}

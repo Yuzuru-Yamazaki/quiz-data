@@ -1,0 +1,237 @@
+{
+  "title": "2.2 Archaea",
+  "description": "The separate domain of archaea, their distinct biochemistry and extreme habitats. Hard level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "archaea",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Halophile: Archaea that live in close association with other organisms",
+        "S-layer: Archaea that live in close association with other organisms",
+        "Salt lake: Respiration that uses an electron acceptor other than oxygen",
+        "Archaea: A domain of single-celled organisms distinct from bacteria"
+      ],
+      "correctAnswer": "Archaea: A domain of single-celled organisms distinct from bacteria"
+    },
+    {
+      "id": 2,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Thermophile: Archaea that live in close association with other organisms",
+        "Acidophile: A domain of single-celled organisms distinct from bacteria",
+        "Archaellum: A crystalline protein layer forming the outer cell covering",
+        "Methanogen: An archaeon that produces methane as a metabolic product"
+      ],
+      "correctAnswer": "Methanogen: An archaeon that produces methane as a metabolic product"
+    },
+    {
+      "id": 3,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Methanogen: An organism adapted to permanently cold environments",
+        "Halophile: An organism that thrives in very salty environments",
+        "Phylogeny: Archaea that live in the digestive tract of animals",
+        "Salt lake: A whip-like appendage that archaea use for movement"
+      ],
+      "correctAnswer": "Halophile: An organism that thrives in very salty environments"
+    },
+    {
+      "id": 4,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Thermophile: An organism that grows best at high temperatures",
+        "Ether lipid: An organism that grows in highly acidic conditions",
+        "Gut archaea: A membrane lipid with ether links found in archaea",
+        "Psychrophile: An organism that thrives in very salty environments"
+      ],
+      "correctAnswer": "Thermophile: An organism that grows best at high temperatures"
+    },
+    {
+      "id": 5,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Thermophile: A whip-like appendage that archaea use for movement",
+        "Methanogen: A membrane lipid with ether links found in archaea",
+        "Acidophile: An organism that grows in highly acidic conditions",
+        "Archaellum: An organism that thrives in very salty environments"
+      ],
+      "correctAnswer": "Acidophile: An organism that grows in highly acidic conditions"
+    },
+    {
+      "id": 6,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Methanogenesis: A cell wall that lacks the polymer found in bacteria",
+        "Psychrophile: An organism adapted to permanently cold environments",
+        "Extremophile: A cell wall that lacks the polymer found in bacteria",
+        "Soil archaea: An organism living in conditions extreme for most life"
+      ],
+      "correctAnswer": "Psychrophile: An organism adapted to permanently cold environments"
+    },
+    {
+      "id": 7,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Archaellum: A whip-like appendage that archaea use for movement",
+        "Methanogen: An organism that thrives in very salty environments",
+        "Thermophile: An organism adapted to permanently cold environments",
+        "Acidophile: Archaea that live in the digestive tract of animals"
+      ],
+      "correctAnswer": "Archaellum: A whip-like appendage that archaea use for movement"
+    },
+    {
+      "id": 8,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Ether lipid: A membrane lipid with ether links found in archaea",
+        "Psychrophile: A whip-like appendage that archaea use for movement",
+        "Thermophile: An organism that grows in highly acidic conditions",
+        "Gut archaea: An organism that thrives in very salty environments"
+      ],
+      "correctAnswer": "Ether lipid: A membrane lipid with ether links found in archaea"
+    },
+    {
+      "id": 9,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Salt lake: Archaea that inhabit soil and participate in nutrient cycles",
+        "Archaea: Archaea that live in close association with other organisms",
+        "Halophile: Respiration that uses an electron acceptor other than oxygen",
+        "S-layer: A crystalline protein layer forming the outer cell covering"
+      ],
+      "correctAnswer": "S-layer: A crystalline protein layer forming the outer cell covering"
+    },
+    {
+      "id": 10,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Anaerobic respiration: An organism adapted to permanently cold environments",
+        "Non-peptidoglycan wall: A cell wall that lacks the polymer found in bacteria",
+        "Natural reserve: A protected area set aside to conserve species and habitats",
+        "Symbiotic archaea: An organism living in conditions extreme for most life"
+      ],
+      "correctAnswer": "Non-peptidoglycan wall: A cell wall that lacks the polymer found in bacteria"
+    },
+    {
+      "id": 11,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Psychrophile: The metabolic pathway by which archaea produce methane",
+        "Soil archaea: A body of water with salinity far higher than seawater",
+        "Extremophile: An organism living in conditions extreme for most life",
+        "Methanogenesis: A seafloor opening that releases hot mineral-rich water"
+      ],
+      "correctAnswer": "Extremophile: An organism living in conditions extreme for most life"
+    },
+    {
+      "id": 12,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Symbiotic archaea: A crystalline protein layer forming the outer cell covering",
+        "Hydrothermal vent: Archaea that live in close association with other organisms",
+        "Non-peptidoglycan wall: Archaea that inhabit soil and participate in nutrient cycles",
+        "Anaerobic respiration: Respiration that uses an electron acceptor other than oxygen"
+      ],
+      "correctAnswer": "Anaerobic respiration: Respiration that uses an electron acceptor other than oxygen"
+    },
+    {
+      "id": 13,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Symbiotic archaea: An organism living in conditions extreme for most life",
+        "Hydrothermal vent: A body of water with salinity far higher than seawater",
+        "Anaerobic respiration: A seafloor opening that releases hot mineral-rich water",
+        "Methanogenesis: The metabolic pathway by which archaea produce methane"
+      ],
+      "correctAnswer": "Methanogenesis: The metabolic pathway by which archaea produce methane"
+    },
+    {
+      "id": 14,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Non-peptidoglycan wall: Archaea that inhabit soil and participate in nutrient cycles",
+        "Symbiotic archaea: Archaea that live in close association with other organisms",
+        "Anaerobic respiration: Archaea that inhabit soil and participate in nutrient cycles",
+        "Hydrothermal vent: A crystalline protein layer forming the outer cell covering"
+      ],
+      "correctAnswer": "Symbiotic archaea: Archaea that live in close association with other organisms"
+    },
+    {
+      "id": 15,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Symbiotic archaea: The study of evolutionary relationships among organisms",
+        "Anaerobic respiration: The highest taxonomic rank in biological classification",
+        "Non-peptidoglycan wall: An archaeon that produces methane as a metabolic product",
+        "Hydrothermal vent: A seafloor opening that releases hot mineral-rich water"
+      ],
+      "correctAnswer": "Hydrothermal vent: A seafloor opening that releases hot mineral-rich water"
+    },
+    {
+      "id": 16,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Phylogeny: The metabolic pathway by which archaea produce methane",
+        "Halophile: An organism living in conditions extreme for most life",
+        "Salt lake: A body of water with salinity far higher than seawater",
+        "Methanogen: A seafloor opening that releases hot mineral-rich water"
+      ],
+      "correctAnswer": "Salt lake: A body of water with salinity far higher than seawater"
+    },
+    {
+      "id": 17,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Thermophile: An organism that thrives in very salty environments",
+        "Gut archaea: Archaea that live in the digestive tract of animals",
+        "Psychrophile: An organism that thrives in very salty environments",
+        "Ether lipid: A whip-like appendage that archaea use for movement"
+      ],
+      "correctAnswer": "Gut archaea: Archaea that live in the digestive tract of animals"
+    },
+    {
+      "id": 18,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Methanogenesis: Archaea that live in close association with other organisms",
+        "Extremophile: A crystalline protein layer forming the outer cell covering",
+        "Psychrophile: Respiration that uses an electron acceptor other than oxygen",
+        "Soil archaea: Archaea that inhabit soil and participate in nutrient cycles"
+      ],
+      "correctAnswer": "Soil archaea: Archaea that inhabit soil and participate in nutrient cycles"
+    },
+    {
+      "id": 19,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Halophile: A seafloor opening that releases hot mineral-rich water",
+        "Salt lake: The highest taxonomic rank in biological classification",
+        "Methanogen: A seafloor opening that releases hot mineral-rich water",
+        "Phylogeny: The study of evolutionary relationships among organisms"
+      ],
+      "correctAnswer": "Phylogeny: The study of evolutionary relationships among organisms"
+    },
+    {
+      "id": 20,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "S-layer: The study of evolutionary relationships among organisms",
+        "Domain: The highest taxonomic rank in biological classification",
+        "Archaea: A seafloor opening that releases hot mineral-rich water",
+        "Halophile: An archaeon that produces methane as a metabolic product"
+      ],
+      "correctAnswer": "Domain: The highest taxonomic rank in biological classification"
+    }
+  ]
+}

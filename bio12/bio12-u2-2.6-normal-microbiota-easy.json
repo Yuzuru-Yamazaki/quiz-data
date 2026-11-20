@@ -1,0 +1,237 @@
+{
+  "title": "2.6 Normal Microbiota",
+  "description": "The beneficial microbial communities of the body and how they protect health. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "normal microbiota",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Normal microbiota?",
+      "options": [
+        "A close and long-term interaction between different species",
+        "A community of microbes attached to a surface in a sticky matrix",
+        "A relationship where one organism benefits and the other is unharmed",
+        "The community of microbes that normally lives on and in the body"
+      ],
+      "correctAnswer": "The community of microbes that normally lives on and in the body"
+    },
+    {
+      "id": 2,
+      "question": "What is Commensalism?",
+      "options": [
+        "The community of microbes that normally lives on and in the body",
+        "A parasitic disease caused by blood flukes and spread through snails",
+        "A community of microbes attached to a surface in a sticky matrix",
+        "A relationship where one organism benefits and the other is unharmed"
+      ],
+      "correctAnswer": "A relationship where one organism benefits and the other is unharmed"
+    },
+    {
+      "id": 3,
+      "question": "What is Mutualism?",
+      "options": [
+        "A substance that feeds beneficial microbes in the gut",
+        "Food transformed by the action of beneficial microbes",
+        "A harmful imbalance in the normal microbial community",
+        "A relationship in which both organisms gain benefits"
+      ],
+      "correctAnswer": "A relationship in which both organisms gain benefits"
+    },
+    {
+      "id": 4,
+      "question": "What is Symbiosis?",
+      "options": [
+        "A live microbe that provides a health benefit when consumed",
+        "The community of microbes that normally lives on and in the body",
+        "A close and long-term interaction between different species",
+        "A community of microbes attached to a surface in a sticky matrix"
+      ],
+      "correctAnswer": "A close and long-term interaction between different species"
+    },
+    {
+      "id": 5,
+      "question": "What is Skin flora?",
+      "options": [
+        "A microbe that causes disease when host defences are weak",
+        "Beneficial microbes preventing pathogens from establishing",
+        "The microorganisms that normally live on the skin surface",
+        "A close and long-term interaction between different species"
+      ],
+      "correctAnswer": "The microorganisms that normally live on the skin surface"
+    },
+    {
+      "id": 6,
+      "question": "What is Gut flora?",
+      "options": [
+        "A harmful imbalance in the normal microbial community",
+        "The microorganisms that inhabit the digestive tract",
+        "A substance that feeds beneficial microbes in the gut",
+        "A relationship in which both organisms gain benefits"
+      ],
+      "correctAnswer": "The microorganisms that inhabit the digestive tract"
+    },
+    {
+      "id": 7,
+      "question": "What is Oral flora?",
+      "options": [
+        "The community of microbes that lives in the mouth",
+        "A relationship in which both organisms gain benefits",
+        "The microorganisms that inhabit the digestive tract",
+        "The microbial community that colonises the vagina"
+      ],
+      "correctAnswer": "The community of microbes that lives in the mouth"
+    },
+    {
+      "id": 8,
+      "question": "What is Vaginal flora?",
+      "options": [
+        "The community of microbes that lives in the mouth",
+        "The microbial community that colonises the vagina",
+        "A relationship in which both organisms gain benefits",
+        "The microorganisms that inhabit the digestive tract"
+      ],
+      "correctAnswer": "The microbial community that colonises the vagina"
+    },
+    {
+      "id": 9,
+      "question": "What is Probiotic?",
+      "options": [
+        "A live microbe that provides a health benefit when consumed",
+        "The community of microbes that normally lives on and in the body",
+        "A community of microbes attached to a surface in a sticky matrix",
+        "A close and long-term interaction between different species"
+      ],
+      "correctAnswer": "A live microbe that provides a health benefit when consumed"
+    },
+    {
+      "id": 10,
+      "question": "What is Prebiotic?",
+      "options": [
+        "Food transformed by the action of beneficial microbes",
+        "A substance that feeds beneficial microbes in the gut",
+        "Normal microbes that help train the host immune system",
+        "A harmful imbalance in the normal microbial community"
+      ],
+      "correctAnswer": "A substance that feeds beneficial microbes in the gut"
+    },
+    {
+      "id": 11,
+      "question": "What is Pathogen?",
+      "options": [
+        "The microorganisms that inhabit the digestive tract",
+        "The microbial community that colonises the vagina",
+        "The community of microbes that lives in the mouth",
+        "A microorganism that causes disease in its host"
+      ],
+      "correctAnswer": "A microorganism that causes disease in its host"
+    },
+    {
+      "id": 12,
+      "question": "What is Opportunistic pathogen?",
+      "options": [
+        "Beneficial microbes preventing pathogens from establishing",
+        "The microorganisms that normally live on the skin surface",
+        "A microbe that causes disease when host defences are weak",
+        "A close and long-term interaction between different species"
+      ],
+      "correctAnswer": "A microbe that causes disease when host defences are weak"
+    },
+    {
+      "id": 13,
+      "question": "What is Competitive exclusion?",
+      "options": [
+        "Beneficial microbes preventing pathogens from establishing",
+        "A close and long-term interaction between different species",
+        "The community of microbes that normally lives on and in the body",
+        "A live microbe that provides a health benefit when consumed"
+      ],
+      "correctAnswer": "Beneficial microbes preventing pathogens from establishing"
+    },
+    {
+      "id": 14,
+      "question": "What is Colonisation resistance?",
+      "options": [
+        "A body location that normally contains no microorganisms",
+        "A microbe that causes disease when host defences are weak",
+        "The microorganisms that normally live on the skin surface",
+        "The ability of normal flora to resist invading pathogens"
+      ],
+      "correctAnswer": "The ability of normal flora to resist invading pathogens"
+    },
+    {
+      "id": 15,
+      "question": "What is Dysbiosis?",
+      "options": [
+        "A harmful imbalance in the normal microbial community",
+        "A substance that feeds beneficial microbes in the gut",
+        "Food transformed by the action of beneficial microbes",
+        "Normal microbes that help train the host immune system"
+      ],
+      "correctAnswer": "A harmful imbalance in the normal microbial community"
+    },
+    {
+      "id": 16,
+      "question": "What is Sterile site?",
+      "options": [
+        "A body location that normally contains no microorganisms",
+        "The microorganisms that normally live on the skin surface",
+        "A microbe that causes disease when host defences are weak",
+        "The ability of normal flora to resist invading pathogens"
+      ],
+      "correctAnswer": "A body location that normally contains no microorganisms"
+    },
+    {
+      "id": 17,
+      "question": "What is Biofilm?",
+      "options": [
+        "A relationship where one organism benefits and the other is unharmed",
+        "A close and long-term interaction between different species",
+        "A community of microbes attached to a surface in a sticky matrix",
+        "The community of microbes that normally lives on and in the body"
+      ],
+      "correctAnswer": "A community of microbes attached to a surface in a sticky matrix"
+    },
+    {
+      "id": 18,
+      "question": "What is Fermented food?",
+      "options": [
+        "A harmful imbalance in the normal microbial community",
+        "Normal microbes that help train the host immune system",
+        "Food transformed by the action of beneficial microbes",
+        "A substance that feeds beneficial microbes in the gut"
+      ],
+      "correctAnswer": "Food transformed by the action of beneficial microbes"
+    },
+    {
+      "id": 19,
+      "question": "What is Immune stimulation?",
+      "options": [
+        "Normal microbes that help train the host immune system",
+        "A body location that normally contains no microorganisms",
+        "The ability of normal flora to resist invading pathogens",
+        "Gut microbes that synthesise vitamins used by the host"
+      ],
+      "correctAnswer": "Normal microbes that help train the host immune system"
+    },
+    {
+      "id": 20,
+      "question": "What is Vitamin synthesis?",
+      "options": [
+        "Gut microbes that synthesise vitamins used by the host",
+        "Normal microbes that help train the host immune system",
+        "The ability of normal flora to resist invading pathogens",
+        "A body location that normally contains no microorganisms"
+      ],
+      "correctAnswer": "Gut microbes that synthesise vitamins used by the host"
+    }
+  ]
+}

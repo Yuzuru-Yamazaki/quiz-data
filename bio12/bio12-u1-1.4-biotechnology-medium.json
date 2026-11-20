@@ -1,0 +1,237 @@
+{
+  "title": "1.4 Applications in Biotechnology",
+  "description": "Genetic engineering, DNA techniques and the industrial and medical uses of biology. Medium level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 1",
+    "applications in biotechnology",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term matches this description? The use of biological systems to develop products and processes",
+      "options": [
+        "Bioremediation",
+        "Biotechnology",
+        "DNA sequencing",
+        "Tissue culture"
+      ],
+      "correctAnswer": "Biotechnology"
+    },
+    {
+      "id": 2,
+      "question": "Which term matches this description? Direct manipulation of an organism DNA using laboratory tools",
+      "options": [
+        "Antibiotic production",
+        "Transgenic organism",
+        "Genetic engineering",
+        "Gel electrophoresis"
+      ],
+      "correctAnswer": "Genetic engineering"
+    },
+    {
+      "id": 3,
+      "question": "Which term matches this description? DNA formed by joining sequences from different sources",
+      "options": [
+        "Recombinant DNA",
+        "Enzyme technology",
+        "Genetic engineering",
+        "Gel electrophoresis"
+      ],
+      "correctAnswer": "Recombinant DNA"
+    },
+    {
+      "id": 4,
+      "question": "Which term matches this description? Producing many identical copies of a particular gene",
+      "options": [
+        "Biotechnology",
+        "Gene cloning",
+        "Fermentation",
+        "Gene therapy"
+      ],
+      "correctAnswer": "Gene cloning"
+    },
+    {
+      "id": 5,
+      "question": "Which term matches this description? A method that amplifies small DNA samples into many copies",
+      "options": [
+        "PCR",
+        "Vector",
+        "Genome",
+        "Clone"
+      ],
+      "correctAnswer": "PCR"
+    },
+    {
+      "id": 6,
+      "question": "Which term matches this description? A lab method that separates DNA fragments according to size",
+      "options": [
+        "Transgenic organism",
+        "Gel electrophoresis",
+        "Antibiotic production",
+        "Genetic engineering"
+      ],
+      "correctAnswer": "Gel electrophoresis"
+    },
+    {
+      "id": 7,
+      "question": "Which term matches this description? Determining the exact order of bases in a DNA molecule",
+      "options": [
+        "Recombinant DNA",
+        "Bioremediation",
+        "Tissue culture",
+        "DNA sequencing"
+      ],
+      "correctAnswer": "DNA sequencing"
+    },
+    {
+      "id": 8,
+      "question": "Which term matches this description? The complete set of genetic material of an organism",
+      "options": [
+        "Vector",
+        "Plasmid",
+        "Genome",
+        "Vaccine"
+      ],
+      "correctAnswer": "Genome"
+    },
+    {
+      "id": 9,
+      "question": "Which term matches this description? A small circular DNA molecule used to carry genes into cells",
+      "options": [
+        "Plasmid",
+        "Biofuel",
+        "Gene cloning",
+        "Vaccine"
+      ],
+      "correctAnswer": "Plasmid"
+    },
+    {
+      "id": 10,
+      "question": "Which term matches this description? A carrier used to deliver genetic material into a host cell",
+      "options": [
+        "Plasmid",
+        "Vaccine",
+        "Genome",
+        "Vector"
+      ],
+      "correctAnswer": "Vector"
+    },
+    {
+      "id": 11,
+      "question": "Which term matches this description? An organism that carries a gene introduced from another species",
+      "options": [
+        "Transgenic organism",
+        "Antibiotic production",
+        "Gel electrophoresis",
+        "Genetic engineering"
+      ],
+      "correctAnswer": "Transgenic organism"
+    },
+    {
+      "id": 12,
+      "question": "Which term matches this description? Treating disease by introducing functional genes into cells",
+      "options": [
+        "Biotechnology",
+        "Fermentation",
+        "Gene cloning",
+        "Gene therapy"
+      ],
+      "correctAnswer": "Gene therapy"
+    },
+    {
+      "id": 13,
+      "question": "Which term matches this description? A biological preparation that builds immunity to a disease",
+      "options": [
+        "Plasmid",
+        "Vaccine",
+        "Biofuel",
+        "Gene cloning"
+      ],
+      "correctAnswer": "Vaccine"
+    },
+    {
+      "id": 14,
+      "question": "Which term matches this description? Using microorganisms to make drugs that kill bacteria",
+      "options": [
+        "Environmental justice",
+        "Antibiotic production",
+        "Genetic engineering",
+        "Transgenic organism"
+      ],
+      "correctAnswer": "Antibiotic production"
+    },
+    {
+      "id": 15,
+      "question": "Which term matches this description? The use of enzymes to speed up specific industrial reactions",
+      "options": [
+        "Gel electrophoresis",
+        "Enzyme technology",
+        "Transgenic organism",
+        "Genetic engineering"
+      ],
+      "correctAnswer": "Enzyme technology"
+    },
+    {
+      "id": 16,
+      "question": "Which term matches this description? Microbial metabolism used to produce foods and industrial chemicals",
+      "options": [
+        "Fermentation",
+        "Biotechnology",
+        "Gene cloning",
+        "Gene therapy"
+      ],
+      "correctAnswer": "Fermentation"
+    },
+    {
+      "id": 17,
+      "question": "Which term matches this description? A fuel made from biological material such as crops or algae",
+      "options": [
+        "Vaccine",
+        "Plasmid",
+        "Biofuel",
+        "Gene cloning"
+      ],
+      "correctAnswer": "Biofuel"
+    },
+    {
+      "id": 18,
+      "question": "Which term matches this description? The use of microorganisms to remove pollutants from the environment",
+      "options": [
+        "Bioremediation",
+        "DNA sequencing",
+        "Recombinant DNA",
+        "Tissue culture"
+      ],
+      "correctAnswer": "Bioremediation"
+    },
+    {
+      "id": 19,
+      "question": "Which term matches this description? Growing cells or tissues in a controlled laboratory medium",
+      "options": [
+        "Recombinant DNA",
+        "Tissue culture",
+        "Bioremediation",
+        "DNA sequencing"
+      ],
+      "correctAnswer": "Tissue culture"
+    },
+    {
+      "id": 20,
+      "question": "Which term matches this description? An organism or cell that is genetically identical to another",
+      "options": [
+        "Plasmid",
+        "Genome",
+        "Vector",
+        "Clone"
+      ],
+      "correctAnswer": "Clone"
+    }
+  ]
+}

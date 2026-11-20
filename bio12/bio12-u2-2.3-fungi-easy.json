@@ -1,0 +1,237 @@
+{
+  "title": "2.3 Fungi",
+  "description": "Fungal structure, reproduction, nutrition and the roles of yeasts, moulds and mushrooms. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "fungi",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Fungus?",
+      "options": [
+        "A symbiosis between a fungus and an alga or cyanobacterium",
+        "A form of asexual reproduction where a new cell outgrows the parent",
+        "The interconnected network of hyphae forming a fungal body",
+        "A eukaryotic organism that absorbs nutrients from its surroundings"
+      ],
+      "correctAnswer": "A eukaryotic organism that absorbs nutrients from its surroundings"
+    },
+    {
+      "id": 2,
+      "question": "What is Hypha?",
+      "options": [
+        "A tough polysaccharide that strengthens fungal cell walls",
+        "A symbiosis between a fungus and an alga or cyanobacterium",
+        "The interconnected network of hyphae forming a fungal body",
+        "A thread-like filament that makes up the body of a fungus"
+      ],
+      "correctAnswer": "A thread-like filament that makes up the body of a fungus"
+    },
+    {
+      "id": 3,
+      "question": "What is Mycelium?",
+      "options": [
+        "A symbiosis between a fungus and an alga or cyanobacterium",
+        "A eukaryotic organism that absorbs nutrients from its surroundings",
+        "An organism that feeds on dead and decaying organic matter",
+        "The interconnected network of hyphae forming a fungal body"
+      ],
+      "correctAnswer": "The interconnected network of hyphae forming a fungal body"
+    },
+    {
+      "id": 4,
+      "question": "What is Chitin?",
+      "options": [
+        "A thread-like filament that makes up the body of a fungus",
+        "The interconnected network of hyphae forming a fungal body",
+        "A tough polysaccharide that strengthens fungal cell walls",
+        "A symbiosis between a fungus and an alga or cyanobacterium"
+      ],
+      "correctAnswer": "A tough polysaccharide that strengthens fungal cell walls"
+    },
+    {
+      "id": 5,
+      "question": "What is Septum?",
+      "options": [
+        "A fungal hypha with no cross-walls and many nuclei",
+        "The fruiting body of a fungus that produces spores",
+        "A cross-wall dividing a hypha into separate cells",
+        "A fungus that obtains nutrients from a living host"
+      ],
+      "correctAnswer": "A cross-wall dividing a hypha into separate cells"
+    },
+    {
+      "id": 6,
+      "question": "What is Coenocytic?",
+      "options": [
+        "A symbiotic association between fungi and plant roots",
+        "A fungal hypha with no cross-walls and many nuclei",
+        "A fungus that obtains nutrients from a living host",
+        "The fruiting body of a fungus that produces spores"
+      ],
+      "correctAnswer": "A fungal hypha with no cross-walls and many nuclei"
+    },
+    {
+      "id": 7,
+      "question": "What is Spore?",
+      "options": [
+        "A reproductive cell that can develop into a new fungus",
+        "Fungi release enzymes to digest food before absorption",
+        "A fungus that grows as a network of hyphae on surfaces",
+        "A unicellular fungus that reproduces mainly by budding"
+      ],
+      "correctAnswer": "A reproductive cell that can develop into a new fungus"
+    },
+    {
+      "id": 8,
+      "question": "What is Sporangium?",
+      "options": [
+        "A thread-like filament that makes up the body of a fungus",
+        "A sac-like structure in which fungal spores are produced",
+        "The interconnected network of hyphae forming a fungal body",
+        "A tough polysaccharide that strengthens fungal cell walls"
+      ],
+      "correctAnswer": "A sac-like structure in which fungal spores are produced"
+    },
+    {
+      "id": 9,
+      "question": "What is Budding?",
+      "options": [
+        "A form of asexual reproduction where a new cell outgrows the parent",
+        "Microbial metabolism used to produce foods and industrial chemicals",
+        "A symbiosis between a fungus and an alga or cyanobacterium",
+        "A eukaryotic organism that absorbs nutrients from its surroundings"
+      ],
+      "correctAnswer": "A form of asexual reproduction where a new cell outgrows the parent"
+    },
+    {
+      "id": 10,
+      "question": "What is Conidium?",
+      "options": [
+        "A cross-wall dividing a hypha into separate cells",
+        "An asexual spore produced at the tip of a hypha",
+        "A fungal hypha with no cross-walls and many nuclei",
+        "A fungus that can exist as either yeast or mould"
+      ],
+      "correctAnswer": "An asexual spore produced at the tip of a hypha"
+    },
+    {
+      "id": 11,
+      "question": "What is Yeast?",
+      "options": [
+        "Fungi release enzymes to digest food before absorption",
+        "A fungus that grows as a network of hyphae on surfaces",
+        "A reproductive cell that can develop into a new fungus",
+        "A unicellular fungus that reproduces mainly by budding"
+      ],
+      "correctAnswer": "A unicellular fungus that reproduces mainly by budding"
+    },
+    {
+      "id": 12,
+      "question": "What is Mould?",
+      "options": [
+        "A unicellular fungus that reproduces mainly by budding",
+        "A reproductive cell that can develop into a new fungus",
+        "A fungus that grows as a network of hyphae on surfaces",
+        "Fungi release enzymes to digest food before absorption"
+      ],
+      "correctAnswer": "A fungus that grows as a network of hyphae on surfaces"
+    },
+    {
+      "id": 13,
+      "question": "What is Mushroom?",
+      "options": [
+        "The fruiting body of a fungus that produces spores",
+        "A fungal hypha with no cross-walls and many nuclei",
+        "A symbiotic association between fungi and plant roots",
+        "A fungus that obtains nutrients from a living host"
+      ],
+      "correctAnswer": "The fruiting body of a fungus that produces spores"
+    },
+    {
+      "id": 14,
+      "question": "What is Mycorrhiza?",
+      "options": [
+        "The scientific study of fungi and their relationships",
+        "A unicellular fungus that reproduces mainly by budding",
+        "A reproductive cell that can develop into a new fungus",
+        "A symbiotic association between fungi and plant roots"
+      ],
+      "correctAnswer": "A symbiotic association between fungi and plant roots"
+    },
+    {
+      "id": 15,
+      "question": "What is Lichen?",
+      "options": [
+        "A symbiosis between a fungus and an alga or cyanobacterium",
+        "The interconnected network of hyphae forming a fungal body",
+        "An organism that feeds on dead and decaying organic matter",
+        "A eukaryotic organism that absorbs nutrients from its surroundings"
+      ],
+      "correctAnswer": "A symbiosis between a fungus and an alga or cyanobacterium"
+    },
+    {
+      "id": 16,
+      "question": "What is Saprophyte?",
+      "options": [
+        "An organism that feeds on dead and decaying organic matter",
+        "A symbiosis between a fungus and an alga or cyanobacterium",
+        "A eukaryotic organism that absorbs nutrients from its surroundings",
+        "The interconnected network of hyphae forming a fungal body"
+      ],
+      "correctAnswer": "An organism that feeds on dead and decaying organic matter"
+    },
+    {
+      "id": 17,
+      "question": "What is Parasitic fungus?",
+      "options": [
+        "The fruiting body of a fungus that produces spores",
+        "A symbiotic association between fungi and plant roots",
+        "A fungus that obtains nutrients from a living host",
+        "A fungal hypha with no cross-walls and many nuclei"
+      ],
+      "correctAnswer": "A fungus that obtains nutrients from a living host"
+    },
+    {
+      "id": 18,
+      "question": "What is Enzyme secretion?",
+      "options": [
+        "A unicellular fungus that reproduces mainly by budding",
+        "A fungus that grows as a network of hyphae on surfaces",
+        "Fungi release enzymes to digest food before absorption",
+        "A reproductive cell that can develop into a new fungus"
+      ],
+      "correctAnswer": "Fungi release enzymes to digest food before absorption"
+    },
+    {
+      "id": 19,
+      "question": "What is Dimorphic fungus?",
+      "options": [
+        "A fungus that can exist as either yeast or mould",
+        "The fruiting body of a fungus that produces spores",
+        "A fungal hypha with no cross-walls and many nuclei",
+        "A cross-wall dividing a hypha into separate cells"
+      ],
+      "correctAnswer": "A fungus that can exist as either yeast or mould"
+    },
+    {
+      "id": 20,
+      "question": "What is Mycology?",
+      "options": [
+        "The scientific study of fungi and their relationships",
+        "A symbiotic association between fungi and plant roots",
+        "A reproductive cell that can develop into a new fungus",
+        "A unicellular fungus that reproduces mainly by budding"
+      ],
+      "correctAnswer": "The scientific study of fungi and their relationships"
+    }
+  ]
+}

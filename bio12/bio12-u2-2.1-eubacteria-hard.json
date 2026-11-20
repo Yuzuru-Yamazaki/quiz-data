@@ -1,0 +1,237 @@
+{
+  "title": "2.1 Eubacteria",
+  "description": "True bacteria: prokaryotic structure, cell wall, shapes, reproduction and metabolism. Hard level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "eubacteria",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Heterotroph: Bacteria that retain crystal violet stain in the Gram test",
+        "Prokaryote: Bacteria that grow in environments where oxygen is absent",
+        "Peptidoglycan: Bacteria that lose crystal violet and take the counterstain",
+        "Eubacteria: The domain of true bacteria with peptidoglycan cell walls"
+      ],
+      "correctAnswer": "Eubacteria: The domain of true bacteria with peptidoglycan cell walls"
+    },
+    {
+      "id": 2,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Peptidoglycan: The domain of true bacteria with peptidoglycan cell walls",
+        "Eubacteria: Asexual reproduction in which one cell splits into two",
+        "Heterotroph: An organism that synthesises its own organic compounds",
+        "Prokaryote: An organism whose cells lack a membrane-bound nucleus"
+      ],
+      "correctAnswer": "Prokaryote: An organism whose cells lack a membrane-bound nucleus"
+    },
+    {
+      "id": 3,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Binary fission: Bacteria that use oxygen to release energy from food",
+        "Peptidoglycan: A polymer that strengthens most bacterial cell walls",
+        "Gram-negative: An organism whose cells lack a membrane-bound nucleus",
+        "Gram-positive: Bacteria that use oxygen to release energy from food"
+      ],
+      "correctAnswer": "Peptidoglycan: A polymer that strengthens most bacterial cell walls"
+    },
+    {
+      "id": 4,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Gram-positive: Bacteria that retain crystal violet stain in the Gram test",
+        "Peptidoglycan: Bacteria that lose crystal violet and take the counterstain",
+        "Gram-negative: The irregular region of a bacterial cell that holds its DNA",
+        "Binary fission: Bacteria with a spherical cell shape, often forming clusters"
+      ],
+      "correctAnswer": "Gram-positive: Bacteria that retain crystal violet stain in the Gram test"
+    },
+    {
+      "id": 5,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Binary fission: A sticky outer covering that helps bacteria avoid drying out",
+        "Peptidoglycan: The irregular region of a bacterial cell that holds its DNA",
+        "Gram-negative: Bacteria that lose crystal violet and take the counterstain",
+        "Gram-positive: Bacteria with a spherical cell shape, often forming clusters"
+      ],
+      "correctAnswer": "Gram-negative: Bacteria that lose crystal violet and take the counterstain"
+    },
+    {
+      "id": 6,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Plasmid: Short hair-like structures that help bacteria attach to surfaces",
+        "Cocci: Bacteria with a spherical cell shape, often forming clusters",
+        "Bacilli: A sticky outer covering that helps bacteria avoid drying out",
+        "Capsule: A small circular DNA molecule separate from the main chromosome"
+      ],
+      "correctAnswer": "Cocci: Bacteria with a spherical cell shape, often forming clusters"
+    },
+    {
+      "id": 7,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Bacilli: Bacteria with a rod-like shape that may form chains",
+        "Capsule: A whip-like structure used by bacteria for movement",
+        "Spirilla: A cell structure that carries out protein synthesis",
+        "Plasmid: A dormant structure formed by bacteria under stress"
+      ],
+      "correctAnswer": "Bacilli: Bacteria with a rod-like shape that may form chains"
+    },
+    {
+      "id": 8,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Spirilla: Bacteria with a rigid spiral shape and flagella",
+        "Flagellum: An organism that obtains food from other organisms",
+        "Nucleoid: An organism that obtains food from other organisms",
+        "Ribosome: Bacteria with a rod-like shape that may form chains"
+      ],
+      "correctAnswer": "Spirilla: Bacteria with a rigid spiral shape and flagella"
+    },
+    {
+      "id": 9,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Eubacteria: A cell structure that carries out protein synthesis",
+        "Endospore: Bacteria with a rod-like shape that may form chains",
+        "Autotroph: A dormant structure formed by bacteria under stress",
+        "Flagellum: A whip-like structure used by bacteria for movement"
+      ],
+      "correctAnswer": "Flagellum: A whip-like structure used by bacteria for movement"
+    },
+    {
+      "id": 10,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Cocci: A small circular DNA molecule separate from the main chromosome",
+        "Pili: Short hair-like structures that help bacteria attach to surfaces",
+        "Capsule: A small circular DNA molecule separate from the main chromosome",
+        "Bacilli: Bacteria with a spherical cell shape, often forming clusters"
+      ],
+      "correctAnswer": "Pili: Short hair-like structures that help bacteria attach to surfaces"
+    },
+    {
+      "id": 11,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Bacilli: Bacteria with a spherical cell shape, often forming clusters",
+        "Plasmid: Short hair-like structures that help bacteria attach to surfaces",
+        "Capsule: A sticky outer covering that helps bacteria avoid drying out",
+        "Spirilla: Short hair-like structures that help bacteria attach to surfaces"
+      ],
+      "correctAnswer": "Capsule: A sticky outer covering that helps bacteria avoid drying out"
+    },
+    {
+      "id": 12,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Autotroph: A whip-like structure used by bacteria for movement",
+        "Eubacteria: A cell structure that carries out protein synthesis",
+        "Flagellum: Bacteria with a rod-like shape that may form chains",
+        "Endospore: A dormant structure formed by bacteria under stress"
+      ],
+      "correctAnswer": "Endospore: A dormant structure formed by bacteria under stress"
+    },
+    {
+      "id": 13,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Aerobic bacteria: An organism that synthesises its own organic compounds",
+        "Anaerobic bacteria: The domain of true bacteria with peptidoglycan cell walls",
+        "Peptidoglycan: Bacteria that grow in environments where oxygen is absent",
+        "Binary fission: Asexual reproduction in which one cell splits into two"
+      ],
+      "correctAnswer": "Binary fission: Asexual reproduction in which one cell splits into two"
+    },
+    {
+      "id": 14,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Spirilla: A sticky outer covering that helps bacteria avoid drying out",
+        "Plasmid: A small circular DNA molecule separate from the main chromosome",
+        "Capsule: Bacteria with a spherical cell shape, often forming clusters",
+        "Bacilli: Short hair-like structures that help bacteria attach to surfaces"
+      ],
+      "correctAnswer": "Plasmid: A small circular DNA molecule separate from the main chromosome"
+    },
+    {
+      "id": 15,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Spirilla: Bacteria that lose crystal violet and take the counterstain",
+        "Ribosome: Bacteria with a spherical cell shape, often forming clusters",
+        "Flagellum: A sticky outer covering that helps bacteria avoid drying out",
+        "Nucleoid: The irregular region of a bacterial cell that holds its DNA"
+      ],
+      "correctAnswer": "Nucleoid: The irregular region of a bacterial cell that holds its DNA"
+    },
+    {
+      "id": 16,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Nucleoid: A whip-like structure used by bacteria for movement",
+        "Spirilla: Bacteria with a rod-like shape that may form chains",
+        "Ribosome: A cell structure that carries out protein synthesis",
+        "Flagellum: A dormant structure formed by bacteria under stress"
+      ],
+      "correctAnswer": "Ribosome: A cell structure that carries out protein synthesis"
+    },
+    {
+      "id": 17,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Flagellum: Asexual reproduction in which one cell splits into two",
+        "Autotroph: An organism that synthesises its own organic compounds",
+        "Eubacteria: Bacteria that grow in environments where oxygen is absent",
+        "Endospore: The domain of true bacteria with peptidoglycan cell walls"
+      ],
+      "correctAnswer": "Autotroph: An organism that synthesises its own organic compounds"
+    },
+    {
+      "id": 18,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Gram-negative: A dormant structure formed by bacteria under stress",
+        "Gram-positive: A whip-like structure used by bacteria for movement",
+        "Peptidoglycan: Bacteria with a rod-like shape that may form chains",
+        "Heterotroph: An organism that obtains food from other organisms"
+      ],
+      "correctAnswer": "Heterotroph: An organism that obtains food from other organisms"
+    },
+    {
+      "id": 19,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Anaerobic bacteria: A polymer that strengthens most bacterial cell walls",
+        "Binary fission: An organism whose cells lack a membrane-bound nucleus",
+        "Peptidoglycan: Asexual reproduction in which one cell splits into two",
+        "Aerobic bacteria: Bacteria that use oxygen to release energy from food"
+      ],
+      "correctAnswer": "Aerobic bacteria: Bacteria that use oxygen to release energy from food"
+    },
+    {
+      "id": 20,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Food preservation: Processing food to slow spoilage and extend its shelf life",
+        "Anaerobic bacteria: Bacteria that grow in environments where oxygen is absent",
+        "Aerobic bacteria: The domain of true bacteria with peptidoglycan cell walls",
+        "Peptidoglycan: Bacteria that lose crystal violet and take the counterstain"
+      ],
+      "correctAnswer": "Anaerobic bacteria: Bacteria that grow in environments where oxygen is absent"
+    }
+  ]
+}

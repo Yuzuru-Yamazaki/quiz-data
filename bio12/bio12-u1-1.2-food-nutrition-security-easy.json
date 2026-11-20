@@ -1,0 +1,237 @@
+{
+  "title": "1.2 Food and Nutrition Security",
+  "description": "Food availability, nutrition, crop production and the fight against hunger. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 1",
+    "food and nutrition security",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Food security?",
+      "options": [
+        "A material added to soil to supply essential plant nutrients",
+        "Measures used to reduce losses caused by insect and disease pests",
+        "A lack of reliable access to enough affordable nutritious food",
+        "A situation where all people have access to sufficient safe food"
+      ],
+      "correctAnswer": "A situation where all people have access to sufficient safe food"
+    },
+    {
+      "id": 2,
+      "question": "What is Food insecurity?",
+      "options": [
+        "A situation where all people have access to sufficient safe food",
+        "A material added to soil to supply essential plant nutrients",
+        "Measures used to reduce losses caused by insect and disease pests",
+        "A lack of reliable access to enough affordable nutritious food"
+      ],
+      "correctAnswer": "A lack of reliable access to enough affordable nutritious food"
+    },
+    {
+      "id": 3,
+      "question": "What is Malnutrition?",
+      "options": [
+        "Growing several crop species rather than a single crop",
+        "The ability of soil to supply nutrients needed by crops",
+        "The controlled supply of water to crops in dry periods",
+        "A condition caused by an unbalanced or inadequate diet"
+      ],
+      "correctAnswer": "A condition caused by an unbalanced or inadequate diet"
+    },
+    {
+      "id": 4,
+      "question": "What is Undernutrition?",
+      "options": [
+        "Adding nutrients to food to improve its nutritional value",
+        "Processing food to slow spoilage and extend its shelf life",
+        "A condition of insufficient intake of energy or nutrients",
+        "The ability of a community to produce most of its own food"
+      ],
+      "correctAnswer": "A condition of insufficient intake of energy or nutrients"
+    },
+    {
+      "id": 5,
+      "question": "What is Micronutrient deficiency?",
+      "options": [
+        "A condition caused by an unbalanced or inadequate diet",
+        "Growing several crop species rather than a single crop",
+        "A shortage of vitamins or minerals needed for health",
+        "The controlled supply of water to crops in dry periods"
+      ],
+      "correctAnswer": "A shortage of vitamins or minerals needed for health"
+    },
+    {
+      "id": 6,
+      "question": "What is Staple crop?",
+      "options": [
+        "A situation where all people have access to sufficient safe food",
+        "A crop that supplies a major share of people daily calories",
+        "A lack of reliable access to enough affordable nutritious food",
+        "A material added to soil to supply essential plant nutrients"
+      ],
+      "correctAnswer": "A crop that supplies a major share of people daily calories"
+    },
+    {
+      "id": 7,
+      "question": "What is Crop diversification?",
+      "options": [
+        "Growing several crop species rather than a single crop",
+        "The ability of soil to supply nutrients needed by crops",
+        "The controlled supply of water to crops in dry periods",
+        "A condition caused by an unbalanced or inadequate diet"
+      ],
+      "correctAnswer": "Growing several crop species rather than a single crop"
+    },
+    {
+      "id": 8,
+      "question": "What is Food preservation?",
+      "options": [
+        "The ability of a community to produce most of its own food",
+        "Processing food to slow spoilage and extend its shelf life",
+        "A material added to soil to supply essential plant nutrients",
+        "A crop that supplies a major share of people daily calories"
+      ],
+      "correctAnswer": "Processing food to slow spoilage and extend its shelf life"
+    },
+    {
+      "id": 9,
+      "question": "What is Irrigation?",
+      "options": [
+        "The controlled supply of water to crops in dry periods",
+        "Growing several crop species rather than a single crop",
+        "The ability of soil to supply nutrients needed by crops",
+        "A condition caused by an unbalanced or inadequate diet"
+      ],
+      "correctAnswer": "The controlled supply of water to crops in dry periods"
+    },
+    {
+      "id": 10,
+      "question": "What is Soil fertility?",
+      "options": [
+        "A service that teaches farmers improved farming methods",
+        "The ability of soil to supply nutrients needed by crops",
+        "The sequence of steps that moves food from farm to plate",
+        "Practices that keep food free from harmful contaminants"
+      ],
+      "correctAnswer": "The ability of soil to supply nutrients needed by crops"
+    },
+    {
+      "id": 11,
+      "question": "What is Fertilizer?",
+      "options": [
+        "Measures used to reduce losses caused by insect and disease pests",
+        "A situation where all people have access to sufficient safe food",
+        "A lack of reliable access to enough affordable nutritious food",
+        "A material added to soil to supply essential plant nutrients"
+      ],
+      "correctAnswer": "A material added to soil to supply essential plant nutrients"
+    },
+    {
+      "id": 12,
+      "question": "What is Pest control?",
+      "options": [
+        "A lack of reliable access to enough affordable nutritious food",
+        "A situation where all people have access to sufficient safe food",
+        "Measures used to reduce losses caused by insect and disease pests",
+        "A eukaryotic organism that absorbs nutrients from its surroundings"
+      ],
+      "correctAnswer": "Measures used to reduce losses caused by insect and disease pests"
+    },
+    {
+      "id": 13,
+      "question": "What is Post-harvest loss?",
+      "options": [
+        "Food lost between the field and the final consumer",
+        "Consuming a wide range of foods across food groups",
+        "A shortage of vitamins or minerals needed for health",
+        "Food supplied to communities facing acute shortages"
+      ],
+      "correctAnswer": "Food lost between the field and the final consumer"
+    },
+    {
+      "id": 14,
+      "question": "What is Food aid?",
+      "options": [
+        "A shortage of vitamins or minerals needed for health",
+        "Growing several crop species rather than a single crop",
+        "A condition caused by an unbalanced or inadequate diet",
+        "Food supplied to communities facing acute shortages"
+      ],
+      "correctAnswer": "Food supplied to communities facing acute shortages"
+    },
+    {
+      "id": 15,
+      "question": "What is Self-sufficiency?",
+      "options": [
+        "The ability of a community to produce most of its own food",
+        "Processing food to slow spoilage and extend its shelf life",
+        "A crop that supplies a major share of people daily calories",
+        "A material added to soil to supply essential plant nutrients"
+      ],
+      "correctAnswer": "The ability of a community to produce most of its own food"
+    },
+    {
+      "id": 16,
+      "question": "What is Dietary diversity?",
+      "options": [
+        "Consuming a wide range of foods across food groups",
+        "Food supplied to communities facing acute shortages",
+        "A shortage of vitamins or minerals needed for health",
+        "Food lost between the field and the final consumer"
+      ],
+      "correctAnswer": "Consuming a wide range of foods across food groups"
+    },
+    {
+      "id": 17,
+      "question": "What is Food safety?",
+      "options": [
+        "A service that teaches farmers improved farming methods",
+        "The sequence of steps that moves food from farm to plate",
+        "Practices that keep food free from harmful contaminants",
+        "The ability of soil to supply nutrients needed by crops"
+      ],
+      "correctAnswer": "Practices that keep food free from harmful contaminants"
+    },
+    {
+      "id": 18,
+      "question": "What is Fortification?",
+      "options": [
+        "Processing food to slow spoilage and extend its shelf life",
+        "The ability of a community to produce most of its own food",
+        "Adding nutrients to food to improve its nutritional value",
+        "A condition of insufficient intake of energy or nutrients"
+      ],
+      "correctAnswer": "Adding nutrients to food to improve its nutritional value"
+    },
+    {
+      "id": 19,
+      "question": "What is Agricultural extension?",
+      "options": [
+        "A service that teaches farmers improved farming methods",
+        "The sequence of steps that moves food from farm to plate",
+        "Practices that keep food free from harmful contaminants",
+        "The ability of soil to supply nutrients needed by crops"
+      ],
+      "correctAnswer": "A service that teaches farmers improved farming methods"
+    },
+    {
+      "id": 20,
+      "question": "What is Food supply chain?",
+      "options": [
+        "The sequence of steps that moves food from farm to plate",
+        "A condition of insufficient intake of energy or nutrients",
+        "Adding nutrients to food to improve its nutritional value",
+        "Processing food to slow spoilage and extend its shelf life"
+      ],
+      "correctAnswer": "The sequence of steps that moves food from farm to plate"
+    }
+  ]
+}

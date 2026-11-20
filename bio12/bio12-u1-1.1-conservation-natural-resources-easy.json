@@ -1,0 +1,237 @@
+{
+  "title": "1.1 Application in Conservation of Natural Resources",
+  "description": "Renewable and non-renewable resources, biodiversity, protected areas and conservation methods. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 1",
+    "conservation of natural resources",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Renewable resource?",
+      "options": [
+        "A protected area dedicated to the safety of wild animals",
+        "The sustainable use and protection of natural resources",
+        "A natural resource that forms far slower than it is used",
+        "A natural resource that can replenish itself over time"
+      ],
+      "correctAnswer": "A natural resource that can replenish itself over time"
+    },
+    {
+      "id": 2,
+      "question": "What is Non-renewable resource?",
+      "options": [
+        "A protected area dedicated to the safety of wild animals",
+        "A species likely to become endangered in the near future",
+        "Protecting species within the ecosystems where they live",
+        "A natural resource that forms far slower than it is used"
+      ],
+      "correctAnswer": "A natural resource that forms far slower than it is used"
+    },
+    {
+      "id": 3,
+      "question": "What is Biodiversity?",
+      "options": [
+        "Conserving threatened species outside their natural habitats",
+        "A store of seeds preserved to maintain plant genetic diversity",
+        "A facility that stores genetic material of crops and wildlife",
+        "The variety of life at genetic, species and ecosystem levels"
+      ],
+      "correctAnswer": "The variety of life at genetic, species and ecosystem levels"
+    },
+    {
+      "id": 4,
+      "question": "What is Conservation?",
+      "options": [
+        "A natural resource that forms far slower than it is used",
+        "A protected area dedicated to the safety of wild animals",
+        "The sustainable use and protection of natural resources",
+        "Protecting species within the ecosystems where they live"
+      ],
+      "correctAnswer": "The sustainable use and protection of natural resources"
+    },
+    {
+      "id": 5,
+      "question": "What is Sustainable use?",
+      "options": [
+        "Using a resource faster than it can naturally recover",
+        "A natural resource that can replenish itself over time",
+        "Using resources at a rate that allows natural renewal",
+        "The sustainable use and protection of natural resources"
+      ],
+      "correctAnswer": "Using resources at a rate that allows natural renewal"
+    },
+    {
+      "id": 6,
+      "question": "What is Natural reserve?",
+      "options": [
+        "Conserving threatened species outside their natural habitats",
+        "A protected area set aside to conserve species and habitats",
+        "The variety of life at genetic, species and ecosystem levels",
+        "The introduction of harmful substances into the environment"
+      ],
+      "correctAnswer": "A protected area set aside to conserve species and habitats"
+    },
+    {
+      "id": 7,
+      "question": "What is National park?",
+      "options": [
+        "A protected area managed mainly for ecosystem conservation",
+        "The introduction of harmful substances into the environment",
+        "A protected area set aside to conserve species and habitats",
+        "The destruction or fragmentation of a species natural home"
+      ],
+      "correctAnswer": "A protected area managed mainly for ecosystem conservation"
+    },
+    {
+      "id": 8,
+      "question": "What is Wildlife sanctuary?",
+      "options": [
+        "A natural resource that forms far slower than it is used",
+        "A protected area dedicated to the safety of wild animals",
+        "A species likely to become endangered in the near future",
+        "Protecting species within the ecosystems where they live"
+      ],
+      "correctAnswer": "A protected area dedicated to the safety of wild animals"
+    },
+    {
+      "id": 9,
+      "question": "What is Ex-situ conservation?",
+      "options": [
+        "Conserving threatened species outside their natural habitats",
+        "A facility that stores genetic material of crops and wildlife",
+        "A store of seeds preserved to maintain plant genetic diversity",
+        "The variety of life at genetic, species and ecosystem levels"
+      ],
+      "correctAnswer": "Conserving threatened species outside their natural habitats"
+    },
+    {
+      "id": 10,
+      "question": "What is In-situ conservation?",
+      "options": [
+        "A protected area dedicated to the safety of wild animals",
+        "Protecting species within the ecosystems where they live",
+        "A species likely to become endangered in the near future",
+        "A natural resource that forms far slower than it is used"
+      ],
+      "correctAnswer": "Protecting species within the ecosystems where they live"
+    },
+    {
+      "id": 11,
+      "question": "What is Gene bank?",
+      "options": [
+        "Conserving threatened species outside their natural habitats",
+        "The variety of life at genetic, species and ecosystem levels",
+        "A store of seeds preserved to maintain plant genetic diversity",
+        "A facility that stores genetic material of crops and wildlife"
+      ],
+      "correctAnswer": "A facility that stores genetic material of crops and wildlife"
+    },
+    {
+      "id": 12,
+      "question": "What is Seed bank?",
+      "options": [
+        "A lack of reliable access to enough affordable nutritious food",
+        "A facility that stores genetic material of crops and wildlife",
+        "A store of seeds preserved to maintain plant genetic diversity",
+        "Conserving threatened species outside their natural habitats"
+      ],
+      "correctAnswer": "A store of seeds preserved to maintain plant genetic diversity"
+    },
+    {
+      "id": 13,
+      "question": "What is Endangered species?",
+      "options": [
+        "A species with a high risk of extinction in the wild",
+        "Replanting trees in an area that has been deforested",
+        "Using a resource faster than it can naturally recover",
+        "Using resources at a rate that allows natural renewal"
+      ],
+      "correctAnswer": "A species with a high risk of extinction in the wild"
+    },
+    {
+      "id": 14,
+      "question": "What is Threatened species?",
+      "options": [
+        "A natural resource that forms far slower than it is used",
+        "Protecting species within the ecosystems where they live",
+        "A protected area dedicated to the safety of wild animals",
+        "A species likely to become endangered in the near future"
+      ],
+      "correctAnswer": "A species likely to become endangered in the near future"
+    },
+    {
+      "id": 15,
+      "question": "What is Extinction?",
+      "options": [
+        "The permanent disappearance of a species from Earth",
+        "A benefit people obtain from functioning ecosystems",
+        "A species with a high risk of extinction in the wild",
+        "Replanting trees in an area that has been deforested"
+      ],
+      "correctAnswer": "The permanent disappearance of a species from Earth"
+    },
+    {
+      "id": 16,
+      "question": "What is Habitat loss?",
+      "options": [
+        "The destruction or fragmentation of a species natural home",
+        "A protected area set aside to conserve species and habitats",
+        "The introduction of harmful substances into the environment",
+        "A protected area managed mainly for ecosystem conservation"
+      ],
+      "correctAnswer": "The destruction or fragmentation of a species natural home"
+    },
+    {
+      "id": 17,
+      "question": "What is Overexploitation?",
+      "options": [
+        "A natural resource that can replenish itself over time",
+        "The sustainable use and protection of natural resources",
+        "Using a resource faster than it can naturally recover",
+        "Using resources at a rate that allows natural renewal"
+      ],
+      "correctAnswer": "Using a resource faster than it can naturally recover"
+    },
+    {
+      "id": 18,
+      "question": "What is Pollution?",
+      "options": [
+        "The variety of life at genetic, species and ecosystem levels",
+        "Conserving threatened species outside their natural habitats",
+        "The introduction of harmful substances into the environment",
+        "A protected area set aside to conserve species and habitats"
+      ],
+      "correctAnswer": "The introduction of harmful substances into the environment"
+    },
+    {
+      "id": 19,
+      "question": "What is Reforestation?",
+      "options": [
+        "Replanting trees in an area that has been deforested",
+        "Using a resource faster than it can naturally recover",
+        "Using resources at a rate that allows natural renewal",
+        "A species with a high risk of extinction in the wild"
+      ],
+      "correctAnswer": "Replanting trees in an area that has been deforested"
+    },
+    {
+      "id": 20,
+      "question": "What is Ecosystem service?",
+      "options": [
+        "A benefit people obtain from functioning ecosystems",
+        "The permanent disappearance of a species from Earth",
+        "A species with a high risk of extinction in the wild",
+        "Replanting trees in an area that has been deforested"
+      ],
+      "correctAnswer": "A benefit people obtain from functioning ecosystems"
+    }
+  ]
+}

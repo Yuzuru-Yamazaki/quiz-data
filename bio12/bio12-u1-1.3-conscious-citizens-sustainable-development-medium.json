@@ -1,0 +1,237 @@
+{
+  "title": "1.3 Creating Conscious Citizens and Sustainable Development",
+  "description": "Environmental ethics, civic participation and the principles of sustainable development. Medium level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 1",
+    "conscious citizens and sustainable development",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term matches this description? Development that meets present needs without harming future generations",
+      "options": [
+        "Sustainable consumption",
+        "Sustainable development",
+        "Environmental education",
+        "Community participation"
+      ],
+      "correctAnswer": "Sustainable development"
+    },
+    {
+      "id": 2,
+      "question": "Which term matches this description? A person aware of social and environmental responsibilities",
+      "options": [
+        "Environmental ethics",
+        "Ecological literacy",
+        "Conscious citizen",
+        "Critical thinking"
+      ],
+      "correctAnswer": "Conscious citizen"
+    },
+    {
+      "id": 3,
+      "question": "Which term matches this description? Moral principles guiding human conduct toward the natural world",
+      "options": [
+        "Environmental ethics",
+        "Pollution prevention",
+        "Environmental justice",
+        "Sustainable development"
+      ],
+      "correctAnswer": "Environmental ethics"
+    },
+    {
+      "id": 4,
+      "question": "Which term matches this description? Participation of citizens in community and public affairs",
+      "options": [
+        "Public awareness",
+        "Civic engagement",
+        "Carbon footprint",
+        "Waste management"
+      ],
+      "correctAnswer": "Civic engagement"
+    },
+    {
+      "id": 5,
+      "question": "Which term matches this description? Learning that builds awareness of environmental issues",
+      "options": [
+        "Environmental education",
+        "Community participation",
+        "Sustainable consumption",
+        "Sustainable development"
+      ],
+      "correctAnswer": "Environmental education"
+    },
+    {
+      "id": 6,
+      "question": "Which term matches this description? The collection, treatment and disposal of waste materials",
+      "options": [
+        "Carbon footprint",
+        "Waste management",
+        "Public awareness",
+        "Civic engagement"
+      ],
+      "correctAnswer": "Waste management"
+    },
+    {
+      "id": 7,
+      "question": "Which term matches this description? Processing used materials so they can be made into new products",
+      "options": [
+        "Green economy",
+        "Composting",
+        "Volunteerism",
+        "Recycling"
+      ],
+      "correctAnswer": "Recycling"
+    },
+    {
+      "id": 8,
+      "question": "Which term matches this description? Decomposing organic waste into a nutrient-rich soil amendment",
+      "options": [
+        "Volunteerism",
+        "Green economy",
+        "Composting",
+        "Policy advocacy"
+      ],
+      "correctAnswer": "Composting"
+    },
+    {
+      "id": 9,
+      "question": "Which term matches this description? Stopping waste at its source instead of cleaning it later",
+      "options": [
+        "Pollution prevention",
+        "Environmental justice",
+        "Sustainable development",
+        "Environmental ethics"
+      ],
+      "correctAnswer": "Pollution prevention"
+    },
+    {
+      "id": 10,
+      "question": "Which term matches this description? The total greenhouse gases emitted by an activity or person",
+      "options": [
+        "Waste management",
+        "Public awareness",
+        "Civic engagement",
+        "Carbon footprint"
+      ],
+      "correctAnswer": "Carbon footprint"
+    },
+    {
+      "id": 11,
+      "question": "Which term matches this description? An economy that improves well-being while reducing environmental risk",
+      "options": [
+        "Green economy",
+        "Waste management",
+        "Civic engagement",
+        "Policy advocacy"
+      ],
+      "correctAnswer": "Green economy"
+    },
+    {
+      "id": 12,
+      "question": "Which term matches this description? Using goods and services in ways that limit environmental harm",
+      "options": [
+        "Community participation",
+        "Environmental education",
+        "Sustainable development",
+        "Sustainable consumption"
+      ],
+      "correctAnswer": "Sustainable consumption"
+    },
+    {
+      "id": 13,
+      "question": "Which term matches this description? Involvement of local people in decisions affecting their lives",
+      "options": [
+        "Sustainable development",
+        "Community participation",
+        "Environmental education",
+        "Sustainable consumption"
+      ],
+      "correctAnswer": "Community participation"
+    },
+    {
+      "id": 14,
+      "question": "Which term matches this description? Fair treatment of all people regarding environmental burdens",
+      "options": [
+        "Environmental education",
+        "Environmental justice",
+        "Sustainable development",
+        "Sustainable consumption"
+      ],
+      "correctAnswer": "Environmental justice"
+    },
+    {
+      "id": 15,
+      "question": "Which term matches this description? The extent to which people understand an issue and its causes",
+      "options": [
+        "Waste management",
+        "Public awareness",
+        "Carbon footprint",
+        "Civic engagement"
+      ],
+      "correctAnswer": "Public awareness"
+    },
+    {
+      "id": 16,
+      "question": "Which term matches this description? Activity aimed at influencing public policy and decisions",
+      "options": [
+        "Policy advocacy",
+        "Carbon footprint",
+        "Civic engagement",
+        "Waste management"
+      ],
+      "correctAnswer": "Policy advocacy"
+    },
+    {
+      "id": 17,
+      "question": "Which term matches this description? Unpaid work done to benefit the community or environment",
+      "options": [
+        "Policy advocacy",
+        "Green economy",
+        "Volunteerism",
+        "Civic engagement"
+      ],
+      "correctAnswer": "Volunteerism"
+    },
+    {
+      "id": 18,
+      "question": "Which term matches this description? Evaluating evidence and arguments before forming a judgment",
+      "options": [
+        "Critical thinking",
+        "Conscious citizen",
+        "Environmental ethics",
+        "Ecological literacy"
+      ],
+      "correctAnswer": "Critical thinking"
+    },
+    {
+      "id": 19,
+      "question": "Which term matches this description? Fairness in resource use between present and future generations",
+      "options": [
+        "Micronutrient deficiency",
+        "Intergenerational equity",
+        "Environmental education",
+        "Sustainable development"
+      ],
+      "correctAnswer": "Intergenerational equity"
+    },
+    {
+      "id": 20,
+      "question": "Which term matches this description? Understanding the ecological systems that sustain human life",
+      "options": [
+        "Environmental justice",
+        "Environmental ethics",
+        "Pollution prevention",
+        "Ecological literacy"
+      ],
+      "correctAnswer": "Ecological literacy"
+    }
+  ]
+}

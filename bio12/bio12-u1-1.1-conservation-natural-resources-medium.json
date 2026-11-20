@@ -1,0 +1,237 @@
+{
+  "title": "1.1 Application in Conservation of Natural Resources",
+  "description": "Renewable and non-renewable resources, biodiversity, protected areas and conservation methods. Medium level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 1",
+    "conservation of natural resources",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term matches this description? A natural resource that can replenish itself over time",
+      "options": [
+        "Endangered species",
+        "Renewable resource",
+        "Wildlife sanctuary",
+        "Threatened species"
+      ],
+      "correctAnswer": "Renewable resource"
+    },
+    {
+      "id": 2,
+      "question": "Which term matches this description? A natural resource that forms far slower than it is used",
+      "options": [
+        "Agricultural extension",
+        "In-situ conservation",
+        "Non-renewable resource",
+        "Ex-situ conservation"
+      ],
+      "correctAnswer": "Non-renewable resource"
+    },
+    {
+      "id": 3,
+      "question": "Which term matches this description? The variety of life at genetic, species and ecosystem levels",
+      "options": [
+        "Biodiversity",
+        "Conservation",
+        "Habitat loss",
+        "National park"
+      ],
+      "correctAnswer": "Biodiversity"
+    },
+    {
+      "id": 4,
+      "question": "Which term matches this description? The sustainable use and protection of natural resources",
+      "options": [
+        "National park",
+        "Conservation",
+        "Habitat loss",
+        "Biodiversity"
+      ],
+      "correctAnswer": "Conservation"
+    },
+    {
+      "id": 5,
+      "question": "Which term matches this description? Using resources at a rate that allows natural renewal",
+      "options": [
+        "Sustainable use",
+        "Ecosystem service",
+        "Overexploitation",
+        "Natural reserve"
+      ],
+      "correctAnswer": "Sustainable use"
+    },
+    {
+      "id": 6,
+      "question": "Which term matches this description? A protected area set aside to conserve species and habitats",
+      "options": [
+        "Overexploitation",
+        "Natural reserve",
+        "Ecosystem service",
+        "Sustainable use"
+      ],
+      "correctAnswer": "Natural reserve"
+    },
+    {
+      "id": 7,
+      "question": "Which term matches this description? A protected area managed mainly for ecosystem conservation",
+      "options": [
+        "Natural reserve",
+        "Reforestation",
+        "Sustainable use",
+        "National park"
+      ],
+      "correctAnswer": "National park"
+    },
+    {
+      "id": 8,
+      "question": "Which term matches this description? A protected area dedicated to the safety of wild animals",
+      "options": [
+        "Renewable resource",
+        "Endangered species",
+        "Wildlife sanctuary",
+        "Threatened species"
+      ],
+      "correctAnswer": "Wildlife sanctuary"
+    },
+    {
+      "id": 9,
+      "question": "Which term matches this description? Conserving threatened species outside their natural habitats",
+      "options": [
+        "Ex-situ conservation",
+        "Non-renewable resource",
+        "Renewable resource",
+        "In-situ conservation"
+      ],
+      "correctAnswer": "Ex-situ conservation"
+    },
+    {
+      "id": 10,
+      "question": "Which term matches this description? Protecting species within the ecosystems where they live",
+      "options": [
+        "Non-renewable resource",
+        "Renewable resource",
+        "Ex-situ conservation",
+        "In-situ conservation"
+      ],
+      "correctAnswer": "In-situ conservation"
+    },
+    {
+      "id": 11,
+      "question": "Which term matches this description? A facility that stores genetic material of crops and wildlife",
+      "options": [
+        "Gene bank",
+        "Extinction",
+        "Pollution",
+        "Seed bank"
+      ],
+      "correctAnswer": "Gene bank"
+    },
+    {
+      "id": 12,
+      "question": "Which term matches this description? A store of seeds preserved to maintain plant genetic diversity",
+      "options": [
+        "Extinction",
+        "Pollution",
+        "Gene bank",
+        "Seed bank"
+      ],
+      "correctAnswer": "Seed bank"
+    },
+    {
+      "id": 13,
+      "question": "Which term matches this description? A species with a high risk of extinction in the wild",
+      "options": [
+        "Renewable resource",
+        "Endangered species",
+        "Wildlife sanctuary",
+        "Threatened species"
+      ],
+      "correctAnswer": "Endangered species"
+    },
+    {
+      "id": 14,
+      "question": "Which term matches this description? A species likely to become endangered in the near future",
+      "options": [
+        "Wildlife sanctuary",
+        "Threatened species",
+        "Renewable resource",
+        "Endangered species"
+      ],
+      "correctAnswer": "Threatened species"
+    },
+    {
+      "id": 15,
+      "question": "Which term matches this description? The permanent disappearance of a species from Earth",
+      "options": [
+        "Conservation",
+        "Extinction",
+        "Habitat loss",
+        "Biodiversity"
+      ],
+      "correctAnswer": "Extinction"
+    },
+    {
+      "id": 16,
+      "question": "Which term matches this description? The destruction or fragmentation of a species natural home",
+      "options": [
+        "Habitat loss",
+        "National park",
+        "Biodiversity",
+        "Conservation"
+      ],
+      "correctAnswer": "Habitat loss"
+    },
+    {
+      "id": 17,
+      "question": "Which term matches this description? Using a resource faster than it can naturally recover",
+      "options": [
+        "Renewable resource",
+        "Ecosystem service",
+        "Overexploitation",
+        "Wildlife sanctuary"
+      ],
+      "correctAnswer": "Overexploitation"
+    },
+    {
+      "id": 18,
+      "question": "Which term matches this description? The introduction of harmful substances into the environment",
+      "options": [
+        "Pollution",
+        "Gene bank",
+        "Extinction",
+        "Seed bank"
+      ],
+      "correctAnswer": "Pollution"
+    },
+    {
+      "id": 19,
+      "question": "Which term matches this description? Replanting trees in an area that has been deforested",
+      "options": [
+        "Natural reserve",
+        "Reforestation",
+        "Sustainable use",
+        "National park"
+      ],
+      "correctAnswer": "Reforestation"
+    },
+    {
+      "id": 20,
+      "question": "Which term matches this description? A benefit people obtain from functioning ecosystems",
+      "options": [
+        "Endangered species",
+        "Renewable resource",
+        "Wildlife sanctuary",
+        "Ecosystem service"
+      ],
+      "correctAnswer": "Ecosystem service"
+    }
+  ]
+}
