@@ -1,0 +1,237 @@
+{
+  "title": "2.8 Uses of Microorganisms",
+  "description": "Food, industrial, medical and environmental applications of microbes. Hard level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "uses of microorganisms",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Organic acid: A methane-rich fuel made by anaerobic digestion of waste",
+        "Bread making: Microbes used to make industrial enzymes such as amylase",
+        "Biopesticide: Protein produced from cultured microbes for food or feed",
+        "Fermentation: Microbial metabolism used to produce foods and chemicals"
+      ],
+      "correctAnswer": "Fermentation: Microbial metabolism used to produce foods and chemicals"
+    },
+    {
+      "id": 2,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Biofuel: Using microbes to break down organic matter in sewage",
+        "Brewing: A food containing live microbes that benefit health",
+        "Vinegar: Using microbes to decompose organic waste into humus",
+        "Yoghurt: A dairy food made by bacterial fermentation of milk"
+      ],
+      "correctAnswer": "Yoghurt: A dairy food made by bacterial fermentation of milk"
+    },
+    {
+      "id": 3,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Brewing: The use of microorganisms to remove pollutants from the environment",
+        "Cheese: A dairy product formed by curdling milk with microbes and rennet",
+        "Yoghurt: The use of microorganisms to extract metals from low-grade ores",
+        "Biogas: The use of microorganisms to remove pollutants from the environment"
+      ],
+      "correctAnswer": "Cheese: A dairy product formed by curdling milk with microbes and rennet"
+    },
+    {
+      "id": 4,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Bread making: Using yeast to produce carbon dioxide that raises dough",
+        "Fermentation: Microbes used to make industrial enzymes such as amylase",
+        "Organic acid: Microbes used to make industrial enzymes such as amylase",
+        "Biopesticide: A methane-rich fuel made by anaerobic digestion of waste"
+      ],
+      "correctAnswer": "Bread making: Using yeast to produce carbon dioxide that raises dough"
+    },
+    {
+      "id": 5,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Biofuel: A dairy product formed by curdling milk with microbes and rennet",
+        "Yoghurt: A chemical such as citric acid made by microbial fermentation",
+        "Brewing: Using yeast to convert sugars into alcohol and carbon dioxide",
+        "Vinegar: The use of microorganisms to extract metals from low-grade ores"
+      ],
+      "correctAnswer": "Brewing: Using yeast to convert sugars into alcohol and carbon dioxide"
+    },
+    {
+      "id": 6,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Biofuel: Using microbes to decompose organic waste into humus",
+        "Vinegar: A sour liquid made by bacteria oxidising ethanol",
+        "Yoghurt: A food containing live microbes that benefit health",
+        "Brewing: A food containing live microbes that benefit health"
+      ],
+      "correctAnswer": "Vinegar: A sour liquid made by bacteria oxidising ethanol"
+    },
+    {
+      "id": 7,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antibiotic: A compound produced by microbes that inhibits other microbes",
+        "Composting: Using yeast to convert sugars into alcohol and carbon dioxide",
+        "Fermentation: The use of microorganisms to extract metals from low-grade ores",
+        "Bioleaching: A chemical such as citric acid made by microbial fermentation"
+      ],
+      "correctAnswer": "Antibiotic: A compound produced by microbes that inhibits other microbes"
+    },
+    {
+      "id": 8,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Enzyme production: Microbes used to make industrial enzymes such as amylase",
+        "Wastewater treatment: Protein produced from cultured microbes for food or feed",
+        "Vaccine production: Microbial metabolism used to produce foods and chemicals",
+        "Single-cell protein: A methane-rich fuel made by anaerobic digestion of waste"
+      ],
+      "correctAnswer": "Enzyme production: Microbes used to make industrial enzymes such as amylase"
+    },
+    {
+      "id": 9,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Biopesticide: A dairy product formed by curdling milk with microbes and rennet",
+        "Fermentation: Using yeast to convert sugars into alcohol and carbon dioxide",
+        "Bread making: The use of microorganisms to extract metals from low-grade ores",
+        "Organic acid: A chemical such as citric acid made by microbial fermentation"
+      ],
+      "correctAnswer": "Organic acid: A chemical such as citric acid made by microbial fermentation"
+    },
+    {
+      "id": 10,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Single-cell protein: A microbial preparation used to control agricultural pests",
+        "Vaccine production: Cultivating microbes to produce materials used in vaccines",
+        "Enzyme production: A compound produced by microbes that inhibits other microbes",
+        "Wastewater treatment: A fuel made from biological material such as crops or algae"
+      ],
+      "correctAnswer": "Vaccine production: Cultivating microbes to produce materials used in vaccines"
+    },
+    {
+      "id": 11,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Yoghurt: A compound produced by microbes that inhibits other microbes",
+        "Brewing: A chemical such as citric acid made by microbial fermentation",
+        "Biofuel: A fuel made from biological material such as crops or algae",
+        "Vinegar: A chemical such as citric acid made by microbial fermentation"
+      ],
+      "correctAnswer": "Biofuel: A fuel made from biological material such as crops or algae"
+    },
+    {
+      "id": 12,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Yoghurt: Microbes used to make industrial enzymes such as amylase",
+        "Brewing: Protein produced from cultured microbes for food or feed",
+        "Cheese: Microbial metabolism used to produce foods and chemicals",
+        "Biogas: A methane-rich fuel made by anaerobic digestion of waste"
+      ],
+      "correctAnswer": "Biogas: A methane-rich fuel made by anaerobic digestion of waste"
+    },
+    {
+      "id": 13,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antibiotic: Using microbes to break down organic matter in sewage",
+        "Bioleaching: Using yeast to produce carbon dioxide that raises dough",
+        "Fermentation: Using microbes to break down organic matter in sewage",
+        "Composting: Using microbes to decompose organic waste into humus"
+      ],
+      "correctAnswer": "Composting: Using microbes to decompose organic waste into humus"
+    },
+    {
+      "id": 14,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Vaccine production: Using yeast to convert sugars into alcohol and carbon dioxide",
+        "Bioremediation: The use of microorganisms to remove pollutants from the environment",
+        "Enzyme production: The use of microorganisms to extract metals from low-grade ores",
+        "Environmental justice: Fair treatment of all people regarding environmental burdens"
+      ],
+      "correctAnswer": "Bioremediation: The use of microorganisms to remove pollutants from the environment"
+    },
+    {
+      "id": 15,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Single-cell protein: Using yeast to produce carbon dioxide that raises dough",
+        "Vaccine production: Microbial metabolism used to produce foods and chemicals",
+        "Enzyme production: Using yeast to produce carbon dioxide that raises dough",
+        "Wastewater treatment: Using microbes to break down organic matter in sewage"
+      ],
+      "correctAnswer": "Wastewater treatment: Using microbes to break down organic matter in sewage"
+    },
+    {
+      "id": 16,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Bread making: The use of microorganisms to remove pollutants from the environment",
+        "Fermentation: A dairy product formed by curdling milk with microbes and rennet",
+        "Bioleaching: The use of microorganisms to extract metals from low-grade ores",
+        "Organic acid: Using yeast to convert sugars into alcohol and carbon dioxide"
+      ],
+      "correctAnswer": "Bioleaching: The use of microorganisms to extract metals from low-grade ores"
+    },
+    {
+      "id": 17,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Bioremediation: A dairy food made by bacterial fermentation of milk",
+        "Probiotic food: A food containing live microbes that benefit health",
+        "Vaccine production: Using microbes to break down organic matter in sewage",
+        "Enzyme production: Using microbes to decompose organic waste into humus"
+      ],
+      "correctAnswer": "Probiotic food: A food containing live microbes that benefit health"
+    },
+    {
+      "id": 18,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Enzyme production: A methane-rich fuel made by anaerobic digestion of waste",
+        "Vaccine production: Microbes used to make industrial enzymes such as amylase",
+        "Wastewater treatment: Microbial metabolism used to produce foods and chemicals",
+        "Single-cell protein: Protein produced from cultured microbes for food or feed"
+      ],
+      "correctAnswer": "Single-cell protein: Protein produced from cultured microbes for food or feed"
+    },
+    {
+      "id": 19,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Antibiotic: Microbial metabolism used to produce foods and chemicals",
+        "Composting: Microbes used to make industrial enzymes such as amylase",
+        "Bioleaching: A methane-rich fuel made by anaerobic digestion of waste",
+        "Biosensor: A device that uses microbes to detect specific chemicals"
+      ],
+      "correctAnswer": "Biosensor: A device that uses microbes to detect specific chemicals"
+    },
+    {
+      "id": 20,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Bread making: A fuel made from biological material such as crops or algae",
+        "Biopesticide: A microbial preparation used to control agricultural pests",
+        "Fermentation: Cultivating microbes to produce materials used in vaccines",
+        "Organic acid: A compound produced by microbes that inhibits other microbes"
+      ],
+      "correctAnswer": "Biopesticide: A microbial preparation used to control agricultural pests"
+    }
+  ]
+}

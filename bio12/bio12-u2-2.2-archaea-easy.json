@@ -1,0 +1,237 @@
+{
+  "title": "2.2 Archaea",
+  "description": "The separate domain of archaea, their distinct biochemistry and extreme habitats. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "archaea",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Archaea?",
+      "options": [
+        "Respiration that uses an electron acceptor other than oxygen",
+        "A crystalline protein layer forming the outer cell covering",
+        "Archaea that live in close association with other organisms",
+        "A domain of single-celled organisms distinct from bacteria"
+      ],
+      "correctAnswer": "A domain of single-celled organisms distinct from bacteria"
+    },
+    {
+      "id": 2,
+      "question": "What is Methanogen?",
+      "options": [
+        "A domain of single-celled organisms distinct from bacteria",
+        "Archaea that live in close association with other organisms",
+        "A crystalline protein layer forming the outer cell covering",
+        "An archaeon that produces methane as a metabolic product"
+      ],
+      "correctAnswer": "An archaeon that produces methane as a metabolic product"
+    },
+    {
+      "id": 3,
+      "question": "What is Halophile?",
+      "options": [
+        "A whip-like appendage that archaea use for movement",
+        "An organism adapted to permanently cold environments",
+        "Archaea that live in the digestive tract of animals",
+        "An organism that thrives in very salty environments"
+      ],
+      "correctAnswer": "An organism that thrives in very salty environments"
+    },
+    {
+      "id": 4,
+      "question": "What is Thermophile?",
+      "options": [
+        "An organism that grows in highly acidic conditions",
+        "A membrane lipid with ether links found in archaea",
+        "An organism that grows best at high temperatures",
+        "An organism that thrives in very salty environments"
+      ],
+      "correctAnswer": "An organism that grows best at high temperatures"
+    },
+    {
+      "id": 5,
+      "question": "What is Acidophile?",
+      "options": [
+        "A membrane lipid with ether links found in archaea",
+        "An organism that thrives in very salty environments",
+        "An organism that grows in highly acidic conditions",
+        "A whip-like appendage that archaea use for movement"
+      ],
+      "correctAnswer": "An organism that grows in highly acidic conditions"
+    },
+    {
+      "id": 6,
+      "question": "What is Psychrophile?",
+      "options": [
+        "The metabolic pathway by which archaea produce methane",
+        "An organism adapted to permanently cold environments",
+        "An organism living in conditions extreme for most life",
+        "A cell wall that lacks the polymer found in bacteria"
+      ],
+      "correctAnswer": "An organism adapted to permanently cold environments"
+    },
+    {
+      "id": 7,
+      "question": "What is Archaellum?",
+      "options": [
+        "A whip-like appendage that archaea use for movement",
+        "An organism adapted to permanently cold environments",
+        "Archaea that live in the digestive tract of animals",
+        "An organism that thrives in very salty environments"
+      ],
+      "correctAnswer": "A whip-like appendage that archaea use for movement"
+    },
+    {
+      "id": 8,
+      "question": "What is Ether lipid?",
+      "options": [
+        "An organism that grows in highly acidic conditions",
+        "A membrane lipid with ether links found in archaea",
+        "A whip-like appendage that archaea use for movement",
+        "An organism that thrives in very salty environments"
+      ],
+      "correctAnswer": "A membrane lipid with ether links found in archaea"
+    },
+    {
+      "id": 9,
+      "question": "What is S-layer?",
+      "options": [
+        "A crystalline protein layer forming the outer cell covering",
+        "Respiration that uses an electron acceptor other than oxygen",
+        "Archaea that inhabit soil and participate in nutrient cycles",
+        "Archaea that live in close association with other organisms"
+      ],
+      "correctAnswer": "A crystalline protein layer forming the outer cell covering"
+    },
+    {
+      "id": 10,
+      "question": "What is Non-peptidoglycan wall?",
+      "options": [
+        "An organism living in conditions extreme for most life",
+        "A cell wall that lacks the polymer found in bacteria",
+        "The metabolic pathway by which archaea produce methane",
+        "An organism adapted to permanently cold environments"
+      ],
+      "correctAnswer": "A cell wall that lacks the polymer found in bacteria"
+    },
+    {
+      "id": 11,
+      "question": "What is Extremophile?",
+      "options": [
+        "A seafloor opening that releases hot mineral-rich water",
+        "A body of water with salinity far higher than seawater",
+        "The metabolic pathway by which archaea produce methane",
+        "An organism living in conditions extreme for most life"
+      ],
+      "correctAnswer": "An organism living in conditions extreme for most life"
+    },
+    {
+      "id": 12,
+      "question": "What is Anaerobic respiration?",
+      "options": [
+        "A crystalline protein layer forming the outer cell covering",
+        "Archaea that inhabit soil and participate in nutrient cycles",
+        "Respiration that uses an electron acceptor other than oxygen",
+        "Archaea that live in close association with other organisms"
+      ],
+      "correctAnswer": "Respiration that uses an electron acceptor other than oxygen"
+    },
+    {
+      "id": 13,
+      "question": "What is Methanogenesis?",
+      "options": [
+        "The metabolic pathway by which archaea produce methane",
+        "An organism living in conditions extreme for most life",
+        "A seafloor opening that releases hot mineral-rich water",
+        "A body of water with salinity far higher than seawater"
+      ],
+      "correctAnswer": "The metabolic pathway by which archaea produce methane"
+    },
+    {
+      "id": 14,
+      "question": "What is Symbiotic archaea?",
+      "options": [
+        "A crystalline protein layer forming the outer cell covering",
+        "Archaea that inhabit soil and participate in nutrient cycles",
+        "Respiration that uses an electron acceptor other than oxygen",
+        "Archaea that live in close association with other organisms"
+      ],
+      "correctAnswer": "Archaea that live in close association with other organisms"
+    },
+    {
+      "id": 15,
+      "question": "What is Hydrothermal vent?",
+      "options": [
+        "A seafloor opening that releases hot mineral-rich water",
+        "The study of evolutionary relationships among organisms",
+        "The highest taxonomic rank in biological classification",
+        "An archaeon that produces methane as a metabolic product"
+      ],
+      "correctAnswer": "A seafloor opening that releases hot mineral-rich water"
+    },
+    {
+      "id": 16,
+      "question": "What is Salt lake?",
+      "options": [
+        "A body of water with salinity far higher than seawater",
+        "The metabolic pathway by which archaea produce methane",
+        "A seafloor opening that releases hot mineral-rich water",
+        "An organism living in conditions extreme for most life"
+      ],
+      "correctAnswer": "A body of water with salinity far higher than seawater"
+    },
+    {
+      "id": 17,
+      "question": "What is Gut archaea?",
+      "options": [
+        "A whip-like appendage that archaea use for movement",
+        "An organism adapted to permanently cold environments",
+        "Archaea that live in the digestive tract of animals",
+        "An organism that thrives in very salty environments"
+      ],
+      "correctAnswer": "Archaea that live in the digestive tract of animals"
+    },
+    {
+      "id": 18,
+      "question": "What is Soil archaea?",
+      "options": [
+        "A crystalline protein layer forming the outer cell covering",
+        "Archaea that live in close association with other organisms",
+        "Archaea that inhabit soil and participate in nutrient cycles",
+        "Respiration that uses an electron acceptor other than oxygen"
+      ],
+      "correctAnswer": "Archaea that inhabit soil and participate in nutrient cycles"
+    },
+    {
+      "id": 19,
+      "question": "What is Phylogeny?",
+      "options": [
+        "The study of evolutionary relationships among organisms",
+        "An archaeon that produces methane as a metabolic product",
+        "The highest taxonomic rank in biological classification",
+        "A seafloor opening that releases hot mineral-rich water"
+      ],
+      "correctAnswer": "The study of evolutionary relationships among organisms"
+    },
+    {
+      "id": 20,
+      "question": "What is Domain?",
+      "options": [
+        "The highest taxonomic rank in biological classification",
+        "A seafloor opening that releases hot mineral-rich water",
+        "The study of evolutionary relationships among organisms",
+        "An archaeon that produces methane as a metabolic product"
+      ],
+      "correctAnswer": "The highest taxonomic rank in biological classification"
+    }
+  ]
+}

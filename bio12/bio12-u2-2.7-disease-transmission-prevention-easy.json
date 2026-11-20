@@ -1,0 +1,237 @@
+{
+  "title": "2.7 Modes of Disease Transmission and Prevention",
+  "description": "How pathogens spread, the chain of infection and the main prevention measures. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "disease transmission and prevention",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Pathogen?",
+      "options": [
+        "Transmission through physical touching between people",
+        "The time between infection and the start of symptoms",
+        "The provision of clean water and safe waste disposal",
+        "A microorganism capable of causing disease in a host"
+      ],
+      "correctAnswer": "A microorganism capable of causing disease in a host"
+    },
+    {
+      "id": 2,
+      "question": "What is Infectious disease?",
+      "options": [
+        "Separation of people who may have been exposed to a pathogen",
+        "The administration of a vaccine to produce protective immunity",
+        "Separation of people who are already infected with a disease",
+        "A disease caused by a pathogen that can spread between hosts"
+      ],
+      "correctAnswer": "A disease caused by a pathogen that can spread between hosts"
+    },
+    {
+      "id": 3,
+      "question": "What is Transmission?",
+      "options": [
+        "An organism that carries a pathogen between hosts",
+        "The time between infection and the start of symptoms",
+        "A microorganism capable of causing disease in a host",
+        "The spread of a pathogen from one host to another"
+      ],
+      "correctAnswer": "The spread of a pathogen from one host to another"
+    },
+    {
+      "id": 4,
+      "question": "What is Direct contact?",
+      "options": [
+        "Cleaning hands to remove pathogens and prevent spread",
+        "The complete removal or killing of all microbial life",
+        "Transmission through physical touching between people",
+        "Spread via tiny particles that remain suspended in air"
+      ],
+      "correctAnswer": "Transmission through physical touching between people"
+    },
+    {
+      "id": 5,
+      "question": "What is Droplet transmission?",
+      "options": [
+        "Clothing or equipment worn to reduce exposure to pathogens",
+        "The time during which an infected person can spread disease",
+        "Spread through respiratory droplets from coughs or sneezes",
+        "A disease caused by a pathogen that can spread between hosts"
+      ],
+      "correctAnswer": "Spread through respiratory droplets from coughs or sneezes"
+    },
+    {
+      "id": 6,
+      "question": "What is Airborne transmission?",
+      "options": [
+        "An inanimate object that carries and transfers pathogens",
+        "Spread via tiny particles that remain suspended in air",
+        "The process that kills pathogens on non-living surfaces",
+        "Protection of a population when many people are immune"
+      ],
+      "correctAnswer": "Spread via tiny particles that remain suspended in air"
+    },
+    {
+      "id": 7,
+      "question": "What is Fomite?",
+      "options": [
+        "An inanimate object that carries and transfers pathogens",
+        "Clothing or equipment worn to reduce exposure to pathogens",
+        "Spread through respiratory droplets from coughs or sneezes",
+        "An infectious disease transmitted from animals to humans"
+      ],
+      "correctAnswer": "An inanimate object that carries and transfers pathogens"
+    },
+    {
+      "id": 8,
+      "question": "What is Vector?",
+      "options": [
+        "The spread of a pathogen from one host to another",
+        "An organism that carries a pathogen between hosts",
+        "The time between infection and the start of symptoms",
+        "A microorganism capable of causing disease in a host"
+      ],
+      "correctAnswer": "An organism that carries a pathogen between hosts"
+    },
+    {
+      "id": 9,
+      "question": "What is Zoonosis?",
+      "options": [
+        "An infectious disease transmitted from animals to humans",
+        "Spread through respiratory droplets from coughs or sneezes",
+        "Clothing or equipment worn to reduce exposure to pathogens",
+        "An inanimate object that carries and transfers pathogens"
+      ],
+      "correctAnswer": "An infectious disease transmitted from animals to humans"
+    },
+    {
+      "id": 10,
+      "question": "What is Incubation?",
+      "options": [
+        "The provision of clean water and safe waste disposal",
+        "The time between infection and the start of symptoms",
+        "Transmission through physical touching between people",
+        "A microorganism capable of causing disease in a host"
+      ],
+      "correctAnswer": "The time between infection and the start of symptoms"
+    },
+    {
+      "id": 11,
+      "question": "What is Contagious period?",
+      "options": [
+        "Separation of people who are already infected with a disease",
+        "Separation of people who may have been exposed to a pathogen",
+        "A disease caused by a pathogen that can spread between hosts",
+        "The time during which an infected person can spread disease"
+      ],
+      "correctAnswer": "The time during which an infected person can spread disease"
+    },
+    {
+      "id": 12,
+      "question": "What is Quarantine?",
+      "options": [
+        "Separation of people who are already infected with a disease",
+        "A disease caused by a pathogen that can spread between hosts",
+        "Separation of people who may have been exposed to a pathogen",
+        "The administration of a vaccine to produce protective immunity"
+      ],
+      "correctAnswer": "Separation of people who may have been exposed to a pathogen"
+    },
+    {
+      "id": 13,
+      "question": "What is Isolation?",
+      "options": [
+        "Separation of people who are already infected with a disease",
+        "A disease caused by a pathogen that can spread between hosts",
+        "The administration of a vaccine to produce protective immunity",
+        "Separation of people who may have been exposed to a pathogen"
+      ],
+      "correctAnswer": "Separation of people who are already infected with a disease"
+    },
+    {
+      "id": 14,
+      "question": "What is Vaccination?",
+      "options": [
+        "A store of seeds preserved to maintain plant genetic diversity",
+        "Separation of people who are already infected with a disease",
+        "Separation of people who may have been exposed to a pathogen",
+        "The administration of a vaccine to produce protective immunity"
+      ],
+      "correctAnswer": "The administration of a vaccine to produce protective immunity"
+    },
+    {
+      "id": 15,
+      "question": "What is Hand hygiene?",
+      "options": [
+        "Cleaning hands to remove pathogens and prevent spread",
+        "Transmission through physical touching between people",
+        "The complete removal or killing of all microbial life",
+        "Spread via tiny particles that remain suspended in air"
+      ],
+      "correctAnswer": "Cleaning hands to remove pathogens and prevent spread"
+    },
+    {
+      "id": 16,
+      "question": "What is Sanitation?",
+      "options": [
+        "The provision of clean water and safe waste disposal",
+        "The time between infection and the start of symptoms",
+        "Transmission through physical touching between people",
+        "A microorganism capable of causing disease in a host"
+      ],
+      "correctAnswer": "The provision of clean water and safe waste disposal"
+    },
+    {
+      "id": 17,
+      "question": "What is Protective equipment?",
+      "options": [
+        "The time during which an infected person can spread disease",
+        "A disease caused by a pathogen that can spread between hosts",
+        "Clothing or equipment worn to reduce exposure to pathogens",
+        "Spread through respiratory droplets from coughs or sneezes"
+      ],
+      "correctAnswer": "Clothing or equipment worn to reduce exposure to pathogens"
+    },
+    {
+      "id": 18,
+      "question": "What is Herd immunity?",
+      "options": [
+        "The process that kills pathogens on non-living surfaces",
+        "An inanimate object that carries and transfers pathogens",
+        "Protection of a population when many people are immune",
+        "Spread via tiny particles that remain suspended in air"
+      ],
+      "correctAnswer": "Protection of a population when many people are immune"
+    },
+    {
+      "id": 19,
+      "question": "What is Sterilisation?",
+      "options": [
+        "The complete removal or killing of all microbial life",
+        "Spread via tiny particles that remain suspended in air",
+        "Cleaning hands to remove pathogens and prevent spread",
+        "Transmission through physical touching between people"
+      ],
+      "correctAnswer": "The complete removal or killing of all microbial life"
+    },
+    {
+      "id": 20,
+      "question": "What is Disinfection?",
+      "options": [
+        "The process that kills pathogens on non-living surfaces",
+        "An inanimate object that carries and transfers pathogens",
+        "An infectious disease transmitted from animals to humans",
+        "Spread through respiratory droplets from coughs or sneezes"
+      ],
+      "correctAnswer": "The process that kills pathogens on non-living surfaces"
+    }
+  ]
+}

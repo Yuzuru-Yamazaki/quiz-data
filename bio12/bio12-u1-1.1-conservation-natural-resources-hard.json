@@ -1,0 +1,237 @@
+{
+  "title": "1.1 Application in Conservation of Natural Resources",
+  "description": "Renewable and non-renewable resources, biodiversity, protected areas and conservation methods. Hard level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 1",
+    "conservation of natural resources",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Endangered species: A natural resource that forms far slower than it is used",
+        "Wildlife sanctuary: The sustainable use and protection of natural resources",
+        "Threatened species: A protected area dedicated to the safety of wild animals",
+        "Renewable resource: A natural resource that can replenish itself over time"
+      ],
+      "correctAnswer": "Renewable resource: A natural resource that can replenish itself over time"
+    },
+    {
+      "id": 2,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Gel electrophoresis: A lab method that separates DNA fragments according to size",
+        "Ex-situ conservation: A protected area dedicated to the safety of wild animals",
+        "In-situ conservation: A species likely to become endangered in the near future",
+        "Non-renewable resource: A natural resource that forms far slower than it is used"
+      ],
+      "correctAnswer": "Non-renewable resource: A natural resource that forms far slower than it is used"
+    },
+    {
+      "id": 3,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "National park: A store of seeds preserved to maintain plant genetic diversity",
+        "Biodiversity: The variety of life at genetic, species and ecosystem levels",
+        "Habitat loss: A facility that stores genetic material of crops and wildlife",
+        "Conservation: Conserving threatened species outside their natural habitats"
+      ],
+      "correctAnswer": "Biodiversity: The variety of life at genetic, species and ecosystem levels"
+    },
+    {
+      "id": 4,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Conservation: The sustainable use and protection of natural resources",
+        "Biodiversity: A natural resource that forms far slower than it is used",
+        "Habitat loss: A protected area dedicated to the safety of wild animals",
+        "National park: Protecting species within the ecosystems where they live"
+      ],
+      "correctAnswer": "Conservation: The sustainable use and protection of natural resources"
+    },
+    {
+      "id": 5,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Ecosystem service: The sustainable use and protection of natural resources",
+        "Natural reserve: Using a resource faster than it can naturally recover",
+        "Sustainable use: Using resources at a rate that allows natural renewal",
+        "Overexploitation: A natural resource that can replenish itself over time"
+      ],
+      "correctAnswer": "Sustainable use: Using resources at a rate that allows natural renewal"
+    },
+    {
+      "id": 6,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Ecosystem service: Conserving threatened species outside their natural habitats",
+        "Natural reserve: A protected area set aside to conserve species and habitats",
+        "Sustainable use: The introduction of harmful substances into the environment",
+        "Overexploitation: The variety of life at genetic, species and ecosystem levels"
+      ],
+      "correctAnswer": "Natural reserve: A protected area set aside to conserve species and habitats"
+    },
+    {
+      "id": 7,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "National park: A protected area managed mainly for ecosystem conservation",
+        "Reforestation: The destruction or fragmentation of a species natural home",
+        "Natural reserve: The introduction of harmful substances into the environment",
+        "Sustainable use: A protected area set aside to conserve species and habitats"
+      ],
+      "correctAnswer": "National park: A protected area managed mainly for ecosystem conservation"
+    },
+    {
+      "id": 8,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Wildlife sanctuary: A protected area dedicated to the safety of wild animals",
+        "Threatened species: A natural resource that forms far slower than it is used",
+        "Renewable resource: A natural resource that forms far slower than it is used",
+        "Endangered species: Protecting species within the ecosystems where they live"
+      ],
+      "correctAnswer": "Wildlife sanctuary: A protected area dedicated to the safety of wild animals"
+    },
+    {
+      "id": 9,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Renewable resource: A store of seeds preserved to maintain plant genetic diversity",
+        "In-situ conservation: The variety of life at genetic, species and ecosystem levels",
+        "Non-renewable resource: A facility that stores genetic material of crops and wildlife",
+        "Ex-situ conservation: Conserving threatened species outside their natural habitats"
+      ],
+      "correctAnswer": "Ex-situ conservation: Conserving threatened species outside their natural habitats"
+    },
+    {
+      "id": 10,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Ex-situ conservation: A natural resource that forms far slower than it is used",
+        "In-situ conservation: Protecting species within the ecosystems where they live",
+        "Renewable resource: A species likely to become endangered in the near future",
+        "Non-renewable resource: A protected area dedicated to the safety of wild animals"
+      ],
+      "correctAnswer": "In-situ conservation: Protecting species within the ecosystems where they live"
+    },
+    {
+      "id": 11,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Seed bank: The variety of life at genetic, species and ecosystem levels",
+        "Pollution: The variety of life at genetic, species and ecosystem levels",
+        "Gene bank: A facility that stores genetic material of crops and wildlife",
+        "Extinction: Conserving threatened species outside their natural habitats"
+      ],
+      "correctAnswer": "Gene bank: A facility that stores genetic material of crops and wildlife"
+    },
+    {
+      "id": 12,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "National park: A protected area managed mainly for ecosystem conservation",
+        "Extinction: Conserving threatened species outside their natural habitats",
+        "Gene bank: The variety of life at genetic, species and ecosystem levels",
+        "Seed bank: A store of seeds preserved to maintain plant genetic diversity"
+      ],
+      "correctAnswer": "Seed bank: A store of seeds preserved to maintain plant genetic diversity"
+    },
+    {
+      "id": 13,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Renewable resource: Replanting trees in an area that has been deforested",
+        "Wildlife sanctuary: Using resources at a rate that allows natural renewal",
+        "Threatened species: Using a resource faster than it can naturally recover",
+        "Endangered species: A species with a high risk of extinction in the wild"
+      ],
+      "correctAnswer": "Endangered species: A species with a high risk of extinction in the wild"
+    },
+    {
+      "id": 14,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Endangered species: Protecting species within the ecosystems where they live",
+        "Threatened species: A species likely to become endangered in the near future",
+        "Wildlife sanctuary: Protecting species within the ecosystems where they live",
+        "Renewable resource: A natural resource that forms far slower than it is used"
+      ],
+      "correctAnswer": "Threatened species: A species likely to become endangered in the near future"
+    },
+    {
+      "id": 15,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Biodiversity: A benefit people obtain from functioning ecosystems",
+        "Conservation: A species with a high risk of extinction in the wild",
+        "Habitat loss: Replanting trees in an area that has been deforested",
+        "Extinction: The permanent disappearance of a species from Earth"
+      ],
+      "correctAnswer": "Extinction: The permanent disappearance of a species from Earth"
+    },
+    {
+      "id": 16,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Conservation: A protected area set aside to conserve species and habitats",
+        "Biodiversity: A protected area managed mainly for ecosystem conservation",
+        "Habitat loss: The destruction or fragmentation of a species natural home",
+        "National park: The introduction of harmful substances into the environment"
+      ],
+      "correctAnswer": "Habitat loss: The destruction or fragmentation of a species natural home"
+    },
+    {
+      "id": 17,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Ecosystem service: Using resources at a rate that allows natural renewal",
+        "Overexploitation: Using a resource faster than it can naturally recover",
+        "Wildlife sanctuary: The sustainable use and protection of natural resources",
+        "Renewable resource: The sustainable use and protection of natural resources"
+      ],
+      "correctAnswer": "Overexploitation: Using a resource faster than it can naturally recover"
+    },
+    {
+      "id": 18,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Extinction: Conserving threatened species outside their natural habitats",
+        "Seed bank: The variety of life at genetic, species and ecosystem levels",
+        "Gene bank: A protected area set aside to conserve species and habitats",
+        "Pollution: The introduction of harmful substances into the environment"
+      ],
+      "correctAnswer": "Pollution: The introduction of harmful substances into the environment"
+    },
+    {
+      "id": 19,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "National park: A species with a high risk of extinction in the wild",
+        "Sustainable use: Using a resource faster than it can naturally recover",
+        "Natural reserve: Using a resource faster than it can naturally recover",
+        "Reforestation: Replanting trees in an area that has been deforested"
+      ],
+      "correctAnswer": "Reforestation: Replanting trees in an area that has been deforested"
+    },
+    {
+      "id": 20,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Wildlife sanctuary: A species with a high risk of extinction in the wild",
+        "Ecosystem service: A benefit people obtain from functioning ecosystems",
+        "Renewable resource: The permanent disappearance of a species from Earth",
+        "Endangered species: Replanting trees in an area that has been deforested"
+      ],
+      "correctAnswer": "Ecosystem service: A benefit people obtain from functioning ecosystems"
+    }
+  ]
+}

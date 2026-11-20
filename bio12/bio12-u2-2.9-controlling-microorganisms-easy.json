@@ -1,0 +1,237 @@
+{
+  "title": "2.9 Controlling Microorganisms",
+  "description": "Physical, chemical and behavioural methods used to kill or inhibit microbes. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "controlling microorganisms",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Sterilisation?",
+      "options": [
+        "The process that kills pathogens on non-living surfaces",
+        "Heating liquids briefly to kill harmful microorganisms",
+        "The ability of a microbe to withstand a control method",
+        "The complete removal or killing of all microbial life"
+      ],
+      "correctAnswer": "The complete removal or killing of all microbial life"
+    },
+    {
+      "id": 2,
+      "question": "What is Disinfection?",
+      "options": [
+        "A chemical applied to living tissue to inhibit microbes",
+        "Practices that prevent contamination by unwanted microbes",
+        "A substance added to food to prevent microbial spoilage",
+        "The process that kills pathogens on non-living surfaces"
+      ],
+      "correctAnswer": "The process that kills pathogens on non-living surfaces"
+    },
+    {
+      "id": 3,
+      "question": "What is Antiseptic?",
+      "options": [
+        "The process that kills pathogens on non-living surfaces",
+        "Practices that prevent contamination by unwanted microbes",
+        "A substance added to food to prevent microbial spoilage",
+        "A chemical applied to living tissue to inhibit microbes"
+      ],
+      "correctAnswer": "A chemical applied to living tissue to inhibit microbes"
+    },
+    {
+      "id": 4,
+      "question": "What is Antibiotic?",
+      "options": [
+        "Slowing microbial growth by keeping food at low temperatures",
+        "A device that uses pressurised steam to sterilise materials",
+        "A compound produced by microbes that inhibits other microbes",
+        "Removing microbes by passing a liquid through a fine filter"
+      ],
+      "correctAnswer": "A compound produced by microbes that inhibits other microbes"
+    },
+    {
+      "id": 5,
+      "question": "What is Antibacterial?",
+      "options": [
+        "An agent that suppresses the replication of viruses",
+        "Using high temperatures to kill all microbial forms",
+        "An agent that kills or stops the growth of bacteria",
+        "Stopping microbial growth by turning water into ice"
+      ],
+      "correctAnswer": "An agent that kills or stops the growth of bacteria"
+    },
+    {
+      "id": 6,
+      "question": "What is Antifungal?",
+      "options": [
+        "An agent that suppresses the replication of viruses",
+        "An agent that kills or stops the growth of fungi",
+        "An agent that kills or stops the growth of bacteria",
+        "Drawing water out of microbes by making food salty"
+      ],
+      "correctAnswer": "An agent that kills or stops the growth of fungi"
+    },
+    {
+      "id": 7,
+      "question": "What is Antiviral?",
+      "options": [
+        "An agent that suppresses the replication of viruses",
+        "Stopping microbial growth by turning water into ice",
+        "Using high temperatures to kill all microbial forms",
+        "An agent that kills or stops the growth of bacteria"
+      ],
+      "correctAnswer": "An agent that suppresses the replication of viruses"
+    },
+    {
+      "id": 8,
+      "question": "What is Heat sterilisation?",
+      "options": [
+        "An agent that kills or stops the growth of bacteria",
+        "Using high temperatures to kill all microbial forms",
+        "Stopping microbial growth by turning water into ice",
+        "An agent that suppresses the replication of viruses"
+      ],
+      "correctAnswer": "Using high temperatures to kill all microbial forms"
+    },
+    {
+      "id": 9,
+      "question": "What is Autoclave?",
+      "options": [
+        "A device that uses pressurised steam to sterilise materials",
+        "Using high sugar concentrations to inhibit microbial growth",
+        "A compound produced by microbes that inhibits other microbes",
+        "Removing microbes by passing a liquid through a fine filter"
+      ],
+      "correctAnswer": "A device that uses pressurised steam to sterilise materials"
+    },
+    {
+      "id": 10,
+      "question": "What is Pasteurisation?",
+      "options": [
+        "The process that kills pathogens on non-living surfaces",
+        "Heating liquids briefly to kill harmful microorganisms",
+        "A chemical applied to living tissue to inhibit microbes",
+        "The ability of a microbe to withstand a control method"
+      ],
+      "correctAnswer": "Heating liquids briefly to kill harmful microorganisms"
+    },
+    {
+      "id": 11,
+      "question": "What is Filtration?",
+      "options": [
+        "A compound produced by microbes that inhibits other microbes",
+        "Using high sugar concentrations to inhibit microbial growth",
+        "A device that uses pressurised steam to sterilise materials",
+        "Removing microbes by passing a liquid through a fine filter"
+      ],
+      "correctAnswer": "Removing microbes by passing a liquid through a fine filter"
+    },
+    {
+      "id": 12,
+      "question": "What is Ultraviolet radiation?",
+      "options": [
+        "The complete removal or killing of all microbial life",
+        "Removing water to stop microbial growth and survival",
+        "Light used to damage microbial DNA and kill microbes",
+        "Heating liquids briefly to kill harmful microorganisms"
+      ],
+      "correctAnswer": "Light used to damage microbial DNA and kill microbes"
+    },
+    {
+      "id": 13,
+      "question": "What is Drying?",
+      "options": [
+        "Removing water to stop microbial growth and survival",
+        "Light used to damage microbial DNA and kill microbes",
+        "Heating liquids briefly to kill harmful microorganisms",
+        "The complete removal or killing of all microbial life"
+      ],
+      "correctAnswer": "Removing water to stop microbial growth and survival"
+    },
+    {
+      "id": 14,
+      "question": "What is Refrigeration?",
+      "options": [
+        "A compound produced by microbes that inhibits other microbes",
+        "Removing microbes by passing a liquid through a fine filter",
+        "A device that uses pressurised steam to sterilise materials",
+        "Slowing microbial growth by keeping food at low temperatures"
+      ],
+      "correctAnswer": "Slowing microbial growth by keeping food at low temperatures"
+    },
+    {
+      "id": 15,
+      "question": "What is Freezing?",
+      "options": [
+        "Stopping microbial growth by turning water into ice",
+        "An agent that kills or stops the growth of bacteria",
+        "An agent that suppresses the replication of viruses",
+        "Using high temperatures to kill all microbial forms"
+      ],
+      "correctAnswer": "Stopping microbial growth by turning water into ice"
+    },
+    {
+      "id": 16,
+      "question": "What is Salting?",
+      "options": [
+        "Drawing water out of microbes by making food salty",
+        "An agent that suppresses the replication of viruses",
+        "Using high temperatures to kill all microbial forms",
+        "An agent that kills or stops the growth of bacteria"
+      ],
+      "correctAnswer": "Drawing water out of microbes by making food salty"
+    },
+    {
+      "id": 17,
+      "question": "What is Sugar preservation?",
+      "options": [
+        "Removing microbes by passing a liquid through a fine filter",
+        "A compound produced by microbes that inhibits other microbes",
+        "Using high sugar concentrations to inhibit microbial growth",
+        "A device that uses pressurised steam to sterilise materials"
+      ],
+      "correctAnswer": "Using high sugar concentrations to inhibit microbial growth"
+    },
+    {
+      "id": 18,
+      "question": "What is Chemical preservative?",
+      "options": [
+        "A chemical applied to living tissue to inhibit microbes",
+        "Practices that prevent contamination by unwanted microbes",
+        "A substance added to food to prevent microbial spoilage",
+        "The process that kills pathogens on non-living surfaces"
+      ],
+      "correctAnswer": "A substance added to food to prevent microbial spoilage"
+    },
+    {
+      "id": 19,
+      "question": "What is Aseptic technique?",
+      "options": [
+        "Practices that prevent contamination by unwanted microbes",
+        "Using high sugar concentrations to inhibit microbial growth",
+        "Removing microbes by passing a liquid through a fine filter",
+        "A device that uses pressurised steam to sterilise materials"
+      ],
+      "correctAnswer": "Practices that prevent contamination by unwanted microbes"
+    },
+    {
+      "id": 20,
+      "question": "What is Resistance?",
+      "options": [
+        "The ability of a microbe to withstand a control method",
+        "Heating liquids briefly to kill harmful microorganisms",
+        "The process that kills pathogens on non-living surfaces",
+        "A chemical applied to living tissue to inhibit microbes"
+      ],
+      "correctAnswer": "The ability of a microbe to withstand a control method"
+    }
+  ]
+}

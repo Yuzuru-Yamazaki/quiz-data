@@ -1,0 +1,237 @@
+{
+  "title": "2.8 Uses of Microorganisms",
+  "description": "Food, industrial, medical and environmental applications of microbes. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "uses of microorganisms",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Fermentation?",
+      "options": [
+        "Protein produced from cultured microbes for food or feed",
+        "Microbes used to make industrial enzymes such as amylase",
+        "A methane-rich fuel made by anaerobic digestion of waste",
+        "Microbial metabolism used to produce foods and chemicals"
+      ],
+      "correctAnswer": "Microbial metabolism used to produce foods and chemicals"
+    },
+    {
+      "id": 2,
+      "question": "What is Yoghurt?",
+      "options": [
+        "A food containing live microbes that benefit health",
+        "Using microbes to break down organic matter in sewage",
+        "Using microbes to decompose organic waste into humus",
+        "A dairy food made by bacterial fermentation of milk"
+      ],
+      "correctAnswer": "A dairy food made by bacterial fermentation of milk"
+    },
+    {
+      "id": 3,
+      "question": "What is Cheese?",
+      "options": [
+        "The use of microorganisms to remove pollutants from the environment",
+        "Using yeast to convert sugars into alcohol and carbon dioxide",
+        "The use of microorganisms to extract metals from low-grade ores",
+        "A dairy product formed by curdling milk with microbes and rennet"
+      ],
+      "correctAnswer": "A dairy product formed by curdling milk with microbes and rennet"
+    },
+    {
+      "id": 4,
+      "question": "What is Bread making?",
+      "options": [
+        "Microbial metabolism used to produce foods and chemicals",
+        "Microbes used to make industrial enzymes such as amylase",
+        "Using yeast to produce carbon dioxide that raises dough",
+        "A methane-rich fuel made by anaerobic digestion of waste"
+      ],
+      "correctAnswer": "Using yeast to produce carbon dioxide that raises dough"
+    },
+    {
+      "id": 5,
+      "question": "What is Brewing?",
+      "options": [
+        "A chemical such as citric acid made by microbial fermentation",
+        "The use of microorganisms to extract metals from low-grade ores",
+        "Using yeast to convert sugars into alcohol and carbon dioxide",
+        "A dairy product formed by curdling milk with microbes and rennet"
+      ],
+      "correctAnswer": "Using yeast to convert sugars into alcohol and carbon dioxide"
+    },
+    {
+      "id": 6,
+      "question": "What is Vinegar?",
+      "options": [
+        "Using microbes to decompose organic waste into humus",
+        "A sour liquid made by bacteria oxidising ethanol",
+        "A food containing live microbes that benefit health",
+        "A dairy food made by bacterial fermentation of milk"
+      ],
+      "correctAnswer": "A sour liquid made by bacteria oxidising ethanol"
+    },
+    {
+      "id": 7,
+      "question": "What is Antibiotic?",
+      "options": [
+        "A compound produced by microbes that inhibits other microbes",
+        "The use of microorganisms to extract metals from low-grade ores",
+        "A chemical such as citric acid made by microbial fermentation",
+        "Using yeast to convert sugars into alcohol and carbon dioxide"
+      ],
+      "correctAnswer": "A compound produced by microbes that inhibits other microbes"
+    },
+    {
+      "id": 8,
+      "question": "What is Enzyme production?",
+      "options": [
+        "Microbial metabolism used to produce foods and chemicals",
+        "Microbes used to make industrial enzymes such as amylase",
+        "Protein produced from cultured microbes for food or feed",
+        "A methane-rich fuel made by anaerobic digestion of waste"
+      ],
+      "correctAnswer": "Microbes used to make industrial enzymes such as amylase"
+    },
+    {
+      "id": 9,
+      "question": "What is Organic acid?",
+      "options": [
+        "A chemical such as citric acid made by microbial fermentation",
+        "The use of microorganisms to extract metals from low-grade ores",
+        "A dairy product formed by curdling milk with microbes and rennet",
+        "Using yeast to convert sugars into alcohol and carbon dioxide"
+      ],
+      "correctAnswer": "A chemical such as citric acid made by microbial fermentation"
+    },
+    {
+      "id": 10,
+      "question": "What is Vaccine production?",
+      "options": [
+        "A fuel made from biological material such as crops or algae",
+        "Cultivating microbes to produce materials used in vaccines",
+        "A compound produced by microbes that inhibits other microbes",
+        "A microbial preparation used to control agricultural pests"
+      ],
+      "correctAnswer": "Cultivating microbes to produce materials used in vaccines"
+    },
+    {
+      "id": 11,
+      "question": "What is Biofuel?",
+      "options": [
+        "A chemical such as citric acid made by microbial fermentation",
+        "Using yeast to convert sugars into alcohol and carbon dioxide",
+        "A compound produced by microbes that inhibits other microbes",
+        "A fuel made from biological material such as crops or algae"
+      ],
+      "correctAnswer": "A fuel made from biological material such as crops or algae"
+    },
+    {
+      "id": 12,
+      "question": "What is Biogas?",
+      "options": [
+        "Microbes used to make industrial enzymes such as amylase",
+        "Microbial metabolism used to produce foods and chemicals",
+        "A methane-rich fuel made by anaerobic digestion of waste",
+        "Protein produced from cultured microbes for food or feed"
+      ],
+      "correctAnswer": "A methane-rich fuel made by anaerobic digestion of waste"
+    },
+    {
+      "id": 13,
+      "question": "What is Composting?",
+      "options": [
+        "Using microbes to decompose organic waste into humus",
+        "Using microbes to break down organic matter in sewage",
+        "Microbial metabolism used to produce foods and chemicals",
+        "Using yeast to produce carbon dioxide that raises dough"
+      ],
+      "correctAnswer": "Using microbes to decompose organic waste into humus"
+    },
+    {
+      "id": 14,
+      "question": "What is Bioremediation?",
+      "options": [
+        "A dairy product formed by curdling milk with microbes and rennet",
+        "Microbial metabolism used to produce foods and industrial chemicals",
+        "The use of microorganisms to extract metals from low-grade ores",
+        "The use of microorganisms to remove pollutants from the environment"
+      ],
+      "correctAnswer": "The use of microorganisms to remove pollutants from the environment"
+    },
+    {
+      "id": 15,
+      "question": "What is Wastewater treatment?",
+      "options": [
+        "Using microbes to break down organic matter in sewage",
+        "Using yeast to produce carbon dioxide that raises dough",
+        "Microbial metabolism used to produce foods and chemicals",
+        "Microbes used to make industrial enzymes such as amylase"
+      ],
+      "correctAnswer": "Using microbes to break down organic matter in sewage"
+    },
+    {
+      "id": 16,
+      "question": "What is Bioleaching?",
+      "options": [
+        "The use of microorganisms to extract metals from low-grade ores",
+        "The use of microorganisms to remove pollutants from the environment",
+        "Using yeast to convert sugars into alcohol and carbon dioxide",
+        "A dairy product formed by curdling milk with microbes and rennet"
+      ],
+      "correctAnswer": "The use of microorganisms to extract metals from low-grade ores"
+    },
+    {
+      "id": 17,
+      "question": "What is Probiotic food?",
+      "options": [
+        "Using microbes to decompose organic waste into humus",
+        "Using microbes to break down organic matter in sewage",
+        "A food containing live microbes that benefit health",
+        "A dairy food made by bacterial fermentation of milk"
+      ],
+      "correctAnswer": "A food containing live microbes that benefit health"
+    },
+    {
+      "id": 18,
+      "question": "What is Single-cell protein?",
+      "options": [
+        "Microbes used to make industrial enzymes such as amylase",
+        "A methane-rich fuel made by anaerobic digestion of waste",
+        "Protein produced from cultured microbes for food or feed",
+        "Microbial metabolism used to produce foods and chemicals"
+      ],
+      "correctAnswer": "Protein produced from cultured microbes for food or feed"
+    },
+    {
+      "id": 19,
+      "question": "What is Biosensor?",
+      "options": [
+        "A device that uses microbes to detect specific chemicals",
+        "A methane-rich fuel made by anaerobic digestion of waste",
+        "Microbes used to make industrial enzymes such as amylase",
+        "Microbial metabolism used to produce foods and chemicals"
+      ],
+      "correctAnswer": "A device that uses microbes to detect specific chemicals"
+    },
+    {
+      "id": 20,
+      "question": "What is Biopesticide?",
+      "options": [
+        "A microbial preparation used to control agricultural pests",
+        "Cultivating microbes to produce materials used in vaccines",
+        "A fuel made from biological material such as crops or algae",
+        "A compound produced by microbes that inhibits other microbes"
+      ],
+      "correctAnswer": "A microbial preparation used to control agricultural pests"
+    }
+  ]
+}

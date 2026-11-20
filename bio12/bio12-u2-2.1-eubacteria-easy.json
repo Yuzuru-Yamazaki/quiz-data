@@ -1,0 +1,237 @@
+{
+  "title": "2.1 Eubacteria",
+  "description": "True bacteria: prokaryotic structure, cell wall, shapes, reproduction and metabolism. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "eubacteria",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Eubacteria?",
+      "options": [
+        "Bacteria that lose crystal violet and take the counterstain",
+        "Bacteria that grow in environments where oxygen is absent",
+        "Bacteria that retain crystal violet stain in the Gram test",
+        "The domain of true bacteria with peptidoglycan cell walls"
+      ],
+      "correctAnswer": "The domain of true bacteria with peptidoglycan cell walls"
+    },
+    {
+      "id": 2,
+      "question": "What is Prokaryote?",
+      "options": [
+        "Asexual reproduction in which one cell splits into two",
+        "The domain of true bacteria with peptidoglycan cell walls",
+        "An organism that synthesises its own organic compounds",
+        "An organism whose cells lack a membrane-bound nucleus"
+      ],
+      "correctAnswer": "An organism whose cells lack a membrane-bound nucleus"
+    },
+    {
+      "id": 3,
+      "question": "What is Peptidoglycan?",
+      "options": [
+        "Bacteria that use oxygen to release energy from food",
+        "Asexual reproduction in which one cell splits into two",
+        "An organism whose cells lack a membrane-bound nucleus",
+        "A polymer that strengthens most bacterial cell walls"
+      ],
+      "correctAnswer": "A polymer that strengthens most bacterial cell walls"
+    },
+    {
+      "id": 4,
+      "question": "What is Gram-positive?",
+      "options": [
+        "Bacteria that lose crystal violet and take the counterstain",
+        "The irregular region of a bacterial cell that holds its DNA",
+        "Bacteria that retain crystal violet stain in the Gram test",
+        "Bacteria with a spherical cell shape, often forming clusters"
+      ],
+      "correctAnswer": "Bacteria that retain crystal violet stain in the Gram test"
+    },
+    {
+      "id": 5,
+      "question": "What is Gram-negative?",
+      "options": [
+        "The irregular region of a bacterial cell that holds its DNA",
+        "Bacteria with a spherical cell shape, often forming clusters",
+        "Bacteria that lose crystal violet and take the counterstain",
+        "A sticky outer covering that helps bacteria avoid drying out"
+      ],
+      "correctAnswer": "Bacteria that lose crystal violet and take the counterstain"
+    },
+    {
+      "id": 6,
+      "question": "What is Cocci?",
+      "options": [
+        "Short hair-like structures that help bacteria attach to surfaces",
+        "Bacteria with a spherical cell shape, often forming clusters",
+        "A small circular DNA molecule separate from the main chromosome",
+        "A sticky outer covering that helps bacteria avoid drying out"
+      ],
+      "correctAnswer": "Bacteria with a spherical cell shape, often forming clusters"
+    },
+    {
+      "id": 7,
+      "question": "What is Bacilli?",
+      "options": [
+        "Bacteria with a rod-like shape that may form chains",
+        "A cell structure that carries out protein synthesis",
+        "A dormant structure formed by bacteria under stress",
+        "A whip-like structure used by bacteria for movement"
+      ],
+      "correctAnswer": "Bacteria with a rod-like shape that may form chains"
+    },
+    {
+      "id": 8,
+      "question": "What is Spirilla?",
+      "options": [
+        "An organism that obtains food from other organisms",
+        "Bacteria with a rigid spiral shape and flagella",
+        "A whip-like structure used by bacteria for movement",
+        "Bacteria with a rod-like shape that may form chains"
+      ],
+      "correctAnswer": "Bacteria with a rigid spiral shape and flagella"
+    },
+    {
+      "id": 9,
+      "question": "What is Flagellum?",
+      "options": [
+        "A whip-like structure used by bacteria for movement",
+        "A dormant structure formed by bacteria under stress",
+        "A cell structure that carries out protein synthesis",
+        "Bacteria with a rod-like shape that may form chains"
+      ],
+      "correctAnswer": "A whip-like structure used by bacteria for movement"
+    },
+    {
+      "id": 10,
+      "question": "What is Pili?",
+      "options": [
+        "A situation where all people have access to sufficient safe food",
+        "Short hair-like structures that help bacteria attach to surfaces",
+        "A sticky outer covering that helps bacteria avoid drying out",
+        "A small circular DNA molecule separate from the main chromosome"
+      ],
+      "correctAnswer": "Short hair-like structures that help bacteria attach to surfaces"
+    },
+    {
+      "id": 11,
+      "question": "What is Capsule?",
+      "options": [
+        "Short hair-like structures that help bacteria attach to surfaces",
+        "A small circular DNA molecule separate from the main chromosome",
+        "Bacteria with a spherical cell shape, often forming clusters",
+        "A sticky outer covering that helps bacteria avoid drying out"
+      ],
+      "correctAnswer": "A sticky outer covering that helps bacteria avoid drying out"
+    },
+    {
+      "id": 12,
+      "question": "What is Endospore?",
+      "options": [
+        "A whip-like structure used by bacteria for movement",
+        "Bacteria with a rod-like shape that may form chains",
+        "A dormant structure formed by bacteria under stress",
+        "A cell structure that carries out protein synthesis"
+      ],
+      "correctAnswer": "A dormant structure formed by bacteria under stress"
+    },
+    {
+      "id": 13,
+      "question": "What is Binary fission?",
+      "options": [
+        "Asexual reproduction in which one cell splits into two",
+        "An organism that synthesises its own organic compounds",
+        "Bacteria that grow in environments where oxygen is absent",
+        "The domain of true bacteria with peptidoglycan cell walls"
+      ],
+      "correctAnswer": "Asexual reproduction in which one cell splits into two"
+    },
+    {
+      "id": 14,
+      "question": "What is Plasmid?",
+      "options": [
+        "Short hair-like structures that help bacteria attach to surfaces",
+        "A sticky outer covering that helps bacteria avoid drying out",
+        "Bacteria with a spherical cell shape, often forming clusters",
+        "A small circular DNA molecule separate from the main chromosome"
+      ],
+      "correctAnswer": "A small circular DNA molecule separate from the main chromosome"
+    },
+    {
+      "id": 15,
+      "question": "What is Nucleoid?",
+      "options": [
+        "The irregular region of a bacterial cell that holds its DNA",
+        "Bacteria that lose crystal violet and take the counterstain",
+        "Bacteria with a spherical cell shape, often forming clusters",
+        "A sticky outer covering that helps bacteria avoid drying out"
+      ],
+      "correctAnswer": "The irregular region of a bacterial cell that holds its DNA"
+    },
+    {
+      "id": 16,
+      "question": "What is Ribosome?",
+      "options": [
+        "A cell structure that carries out protein synthesis",
+        "A whip-like structure used by bacteria for movement",
+        "A dormant structure formed by bacteria under stress",
+        "Bacteria with a rod-like shape that may form chains"
+      ],
+      "correctAnswer": "A cell structure that carries out protein synthesis"
+    },
+    {
+      "id": 17,
+      "question": "What is Autotroph?",
+      "options": [
+        "The domain of true bacteria with peptidoglycan cell walls",
+        "Bacteria that grow in environments where oxygen is absent",
+        "An organism that synthesises its own organic compounds",
+        "Asexual reproduction in which one cell splits into two"
+      ],
+      "correctAnswer": "An organism that synthesises its own organic compounds"
+    },
+    {
+      "id": 18,
+      "question": "What is Heterotroph?",
+      "options": [
+        "A whip-like structure used by bacteria for movement",
+        "A dormant structure formed by bacteria under stress",
+        "An organism that obtains food from other organisms",
+        "Bacteria with a rod-like shape that may form chains"
+      ],
+      "correctAnswer": "An organism that obtains food from other organisms"
+    },
+    {
+      "id": 19,
+      "question": "What is Aerobic bacteria?",
+      "options": [
+        "Bacteria that use oxygen to release energy from food",
+        "Asexual reproduction in which one cell splits into two",
+        "An organism whose cells lack a membrane-bound nucleus",
+        "A polymer that strengthens most bacterial cell walls"
+      ],
+      "correctAnswer": "Bacteria that use oxygen to release energy from food"
+    },
+    {
+      "id": 20,
+      "question": "What is Anaerobic bacteria?",
+      "options": [
+        "Bacteria that grow in environments where oxygen is absent",
+        "The domain of true bacteria with peptidoglycan cell walls",
+        "Bacteria that retain crystal violet stain in the Gram test",
+        "Bacteria that lose crystal violet and take the counterstain"
+      ],
+      "correctAnswer": "Bacteria that grow in environments where oxygen is absent"
+    }
+  ]
+}

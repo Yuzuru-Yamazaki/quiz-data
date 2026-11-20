@@ -18,10 +18,10 @@
       "id": 1,
       "question": "How much does 1000 birr become after 2 years at 10% compound interest per year?",
       "options": [
+        "$I = Prt$",
+        "1.05",
         "1210",
-        "1200",
-        "1100",
-        "1220"
+        "2315.25"
       ],
       "correctAnswer": "1210"
     },
@@ -29,10 +29,10 @@
       "id": 2,
       "question": "A machine worth 5000 birr depreciates by 20% in one year. What is its value after one year?",
       "options": [
+        "1.05",
+        "$I = Prt$",
         "4000",
-        "4500",
-        "4800",
-        "3800"
+        "2315.25"
       ],
       "correctAnswer": "4000"
     },
@@ -41,9 +41,9 @@
       "question": "A salary starts at 5000 birr and rises by 500 birr each year. What is the salary in the 5th year?",
       "options": [
         "7000",
-        "7500",
-        "6500",
-        "8000"
+        "$I = Prt$",
+        "1.05",
+        "2315.25"
       ],
       "correctAnswer": "7000"
     },
@@ -52,9 +52,9 @@
       "question": "A population of 2000 grows by 5% each year. What is the population after 2 years?",
       "options": [
         "2205",
-        "2200",
-        "2100",
-        "2300"
+        "1.05",
+        "2315.25",
+        "$I = Prt$"
       ],
       "correctAnswer": "2205"
     },
@@ -63,9 +63,9 @@
       "question": "A student saves 100 birr every month for 12 months. How much is saved in total?",
       "options": [
         "1200",
-        "1100",
-        "1300",
-        "1000"
+        "2315.25",
+        "1.05",
+        "$I = Prt$"
       ],
       "correctAnswer": "1200"
     },
@@ -73,10 +73,10 @@
       "id": 6,
       "question": "What is the simple interest on 1000 birr at 5% per year for 3 years?",
       "options": [
+        "1.05",
+        "2315.25",
         "150",
-        "50",
-        "300",
-        "1150"
+        "$I = Prt$"
       ],
       "correctAnswer": "150"
     },
@@ -84,10 +84,10 @@
       "id": 7,
       "question": "The compound interest earned is calculated as ...",
       "options": [
-        "$A - P$",
-        "$P - A$",
-        "$P + A$",
-        "$A \\cdot P$"
+        "$A = P(1+r)^n$",
+        "$I = Prt$",
+        "$A = P(1-r)^n$",
+        "$A - P$"
       ],
       "correctAnswer": "$A - P$"
     },
@@ -95,10 +95,10 @@
       "id": 8,
       "question": "The value of an item after $n$ years of depreciation at rate $r$ is ...",
       "options": [
+        "arithmetic growth",
         "$P(1-r)^n$",
-        "$P(1+r)^n$",
-        "$P(1+rn)$",
-        "$P - rn$"
+        "geometric sequence",
+        "$A = P(1+r)^n$"
       ],
       "correctAnswer": "$P(1-r)^n$"
     },
@@ -106,10 +106,10 @@
       "id": 9,
       "question": "A 10% annual growth rate corresponds to a growth factor of ...",
       "options": [
+        "$I = Prt$",
         "1.1",
-        "0.1",
-        "1.01",
-        "0.9"
+        "1.05",
+        "2315.25"
       ],
       "correctAnswer": "1.1"
     },
@@ -117,10 +117,10 @@
       "id": 10,
       "question": "A fixed yearly salary increase is best modelled by ...",
       "options": [
-        "an arithmetic sequence",
-        "a geometric sequence",
-        "a harmonic sequence",
-        "an infinite series"
+        "the principal plus the interest",
+        "arithmetic growth",
+        "geometric sequence",
+        "an arithmetic sequence"
       ],
       "correctAnswer": "an arithmetic sequence"
     }

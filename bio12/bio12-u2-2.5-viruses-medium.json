@@ -1,0 +1,237 @@
+{
+  "title": "2.5 Viruses",
+  "description": "Viral structure, replication cycles, host dependence and virus-related concepts. Medium level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "viruses",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term matches this description? A non-cellular infectious agent that requires a host cell",
+      "options": [
+        "Capsid",
+        "Virus",
+        "Prion",
+        "Virion"
+      ],
+      "correctAnswer": "Virus"
+    },
+    {
+      "id": 2,
+      "question": "Which term matches this description? The protein coat that surrounds the genetic material of a virus",
+      "options": [
+        "Envelope",
+        "Viroid",
+        "Capsid",
+        "Virion"
+      ],
+      "correctAnswer": "Capsid"
+    },
+    {
+      "id": 3,
+      "question": "Which term matches this description? A lipid layer surrounding the capsid of some viruses",
+      "options": [
+        "Envelope",
+        "Prophage",
+        "Host cell",
+        "Retrovirus"
+      ],
+      "correctAnswer": "Envelope"
+    },
+    {
+      "id": 4,
+      "question": "Which term matches this description? The DNA or RNA that makes up the viral genome",
+      "options": [
+        "Spike protein",
+        "Nucleic acid",
+        "Bacteriophage",
+        "Viral vector"
+      ],
+      "correctAnswer": "Nucleic acid"
+    },
+    {
+      "id": 5,
+      "question": "Which term matches this description? A complete infectious virus particle outside a cell",
+      "options": [
+        "Virion",
+        "Envelope",
+        "Viroid",
+        "Capsid"
+      ],
+      "correctAnswer": "Virion"
+    },
+    {
+      "id": 6,
+      "question": "Which term matches this description? A living cell that a virus infects and uses for replication",
+      "options": [
+        "Replication",
+        "Host cell",
+        "Lytic cycle",
+        "Retrovirus"
+      ],
+      "correctAnswer": "Host cell"
+    },
+    {
+      "id": 7,
+      "question": "Which term matches this description? The process by which a virus makes copies of itself",
+      "options": [
+        "Viral vector",
+        "Lytic cycle",
+        "Nucleic acid",
+        "Replication"
+      ],
+      "correctAnswer": "Replication"
+    },
+    {
+      "id": 8,
+      "question": "Which term matches this description? A viral cycle that ends with destruction of the host cell",
+      "options": [
+        "Replication",
+        "Nucleic acid",
+        "Lytic cycle",
+        "Viral vector"
+      ],
+      "correctAnswer": "Lytic cycle"
+    },
+    {
+      "id": 9,
+      "question": "Which term matches this description? A viral cycle in which viral DNA integrates into the host genome",
+      "options": [
+        "Lysogenic cycle",
+        "Reverse transcriptase",
+        "Antiviral drug",
+        "Incubation period"
+      ],
+      "correctAnswer": "Lysogenic cycle"
+    },
+    {
+      "id": 10,
+      "question": "Which term matches this description? Viral DNA that is integrated into a bacterial chromosome",
+      "options": [
+        "Host cell",
+        "Retrovirus",
+        "Envelope",
+        "Prophage"
+      ],
+      "correctAnswer": "Prophage"
+    },
+    {
+      "id": 11,
+      "question": "Which term matches this description? A virus that specifically infects bacterial cells",
+      "options": [
+        "Bacteriophage",
+        "Antiviral drug",
+        "Viral latency",
+        "Spike protein"
+      ],
+      "correctAnswer": "Bacteriophage"
+    },
+    {
+      "id": 12,
+      "question": "Which term matches this description? An RNA virus that copies its genome into DNA",
+      "options": [
+        "Nucleic acid",
+        "Lytic cycle",
+        "Replication",
+        "Retrovirus"
+      ],
+      "correctAnswer": "Retrovirus"
+    },
+    {
+      "id": 13,
+      "question": "Which term matches this description? An enzyme that makes DNA from an RNA template",
+      "options": [
+        "Incubation period",
+        "Reverse transcriptase",
+        "Lysogenic cycle",
+        "Environmental justice"
+      ],
+      "correctAnswer": "Reverse transcriptase"
+    },
+    {
+      "id": 14,
+      "question": "Which term matches this description? A surface protein that helps a virus attach to host cells",
+      "options": [
+        "Viral latency",
+        "Spike protein",
+        "Bacteriophage",
+        "Antiviral drug"
+      ],
+      "correctAnswer": "Spike protein"
+    },
+    {
+      "id": 15,
+      "question": "Which term matches this description? The time between infection and the appearance of symptoms",
+      "options": [
+        "Lysogenic cycle",
+        "Incubation period",
+        "Antiviral drug",
+        "Reverse transcriptase"
+      ],
+      "correctAnswer": "Incubation period"
+    },
+    {
+      "id": 16,
+      "question": "Which term matches this description? A state in which a virus remains dormant in the host",
+      "options": [
+        "Viral latency",
+        "Antiviral drug",
+        "Bacteriophage",
+        "Spike protein"
+      ],
+      "correctAnswer": "Viral latency"
+    },
+    {
+      "id": 17,
+      "question": "Which term matches this description? A modified virus used to deliver genes into cells",
+      "options": [
+        "Bacteriophage",
+        "Nucleic acid",
+        "Viral vector",
+        "Spike protein"
+      ],
+      "correctAnswer": "Viral vector"
+    },
+    {
+      "id": 18,
+      "question": "Which term matches this description? A small infectious RNA molecule without a protein coat",
+      "options": [
+        "Viroid",
+        "Capsid",
+        "Envelope",
+        "Virion"
+      ],
+      "correctAnswer": "Viroid"
+    },
+    {
+      "id": 19,
+      "question": "Which term matches this description? An infectious misfolded protein that can cause disease",
+      "options": [
+        "Virion",
+        "Prion",
+        "Capsid",
+        "Virus"
+      ],
+      "correctAnswer": "Prion"
+    },
+    {
+      "id": 20,
+      "question": "Which term matches this description? A medicine that inhibits the replication of viruses",
+      "options": [
+        "Reverse transcriptase",
+        "Lysogenic cycle",
+        "Incubation period",
+        "Antiviral drug"
+      ],
+      "correctAnswer": "Antiviral drug"
+    }
+  ]
+}

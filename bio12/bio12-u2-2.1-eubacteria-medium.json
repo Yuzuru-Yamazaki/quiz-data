@@ -1,0 +1,237 @@
+{
+  "title": "2.1 Eubacteria",
+  "description": "True bacteria: prokaryotic structure, cell wall, shapes, reproduction and metabolism. Medium level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "eubacteria",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term matches this description? The domain of true bacteria with peptidoglycan cell walls",
+      "options": [
+        "Heterotroph",
+        "Eubacteria",
+        "Prokaryote",
+        "Peptidoglycan"
+      ],
+      "correctAnswer": "Eubacteria"
+    },
+    {
+      "id": 2,
+      "question": "Which term matches this description? An organism whose cells lack a membrane-bound nucleus",
+      "options": [
+        "Peptidoglycan",
+        "Heterotroph",
+        "Prokaryote",
+        "Eubacteria"
+      ],
+      "correctAnswer": "Prokaryote"
+    },
+    {
+      "id": 3,
+      "question": "Which term matches this description? A polymer that strengthens most bacterial cell walls",
+      "options": [
+        "Peptidoglycan",
+        "Gram-positive",
+        "Gram-negative",
+        "Binary fission"
+      ],
+      "correctAnswer": "Peptidoglycan"
+    },
+    {
+      "id": 4,
+      "question": "Which term matches this description? Bacteria that retain crystal violet stain in the Gram test",
+      "options": [
+        "Binary fission",
+        "Gram-positive",
+        "Gram-negative",
+        "Peptidoglycan"
+      ],
+      "correctAnswer": "Gram-positive"
+    },
+    {
+      "id": 5,
+      "question": "Which term matches this description? Bacteria that lose crystal violet and take the counterstain",
+      "options": [
+        "Gram-negative",
+        "Binary fission",
+        "Gram-positive",
+        "Peptidoglycan"
+      ],
+      "correctAnswer": "Gram-negative"
+    },
+    {
+      "id": 6,
+      "question": "Which term matches this description? Bacteria with a spherical cell shape, often forming clusters",
+      "options": [
+        "Capsule",
+        "Cocci",
+        "Plasmid",
+        "Bacilli"
+      ],
+      "correctAnswer": "Cocci"
+    },
+    {
+      "id": 7,
+      "question": "Which term matches this description? Bacteria with a rod-like shape that may form chains",
+      "options": [
+        "Spirilla",
+        "Capsule",
+        "Plasmid",
+        "Bacilli"
+      ],
+      "correctAnswer": "Bacilli"
+    },
+    {
+      "id": 8,
+      "question": "Which term matches this description? Bacteria with a rigid spiral shape and flagella",
+      "options": [
+        "Nucleoid",
+        "Ribosome",
+        "Spirilla",
+        "Flagellum"
+      ],
+      "correctAnswer": "Spirilla"
+    },
+    {
+      "id": 9,
+      "question": "Which term matches this description? A whip-like structure used by bacteria for movement",
+      "options": [
+        "Flagellum",
+        "Autotroph",
+        "Eubacteria",
+        "Endospore"
+      ],
+      "correctAnswer": "Flagellum"
+    },
+    {
+      "id": 10,
+      "question": "Which term matches this description? Short hair-like structures that help bacteria attach to surfaces",
+      "options": [
+        "Bacilli",
+        "Capsule",
+        "Cocci",
+        "Pili"
+      ],
+      "correctAnswer": "Pili"
+    },
+    {
+      "id": 11,
+      "question": "Which term matches this description? A sticky outer covering that helps bacteria avoid drying out",
+      "options": [
+        "Capsule",
+        "Spirilla",
+        "Plasmid",
+        "Bacilli"
+      ],
+      "correctAnswer": "Capsule"
+    },
+    {
+      "id": 12,
+      "question": "Which term matches this description? A dormant structure formed by bacteria under stress",
+      "options": [
+        "Eubacteria",
+        "Autotroph",
+        "Flagellum",
+        "Endospore"
+      ],
+      "correctAnswer": "Endospore"
+    },
+    {
+      "id": 13,
+      "question": "Which term matches this description? Asexual reproduction in which one cell splits into two",
+      "options": [
+        "Aerobic bacteria",
+        "Binary fission",
+        "Anaerobic bacteria",
+        "Peptidoglycan"
+      ],
+      "correctAnswer": "Binary fission"
+    },
+    {
+      "id": 14,
+      "question": "Which term matches this description? A small circular DNA molecule separate from the main chromosome",
+      "options": [
+        "Capsule",
+        "Plasmid",
+        "Bacilli",
+        "Spirilla"
+      ],
+      "correctAnswer": "Plasmid"
+    },
+    {
+      "id": 15,
+      "question": "Which term matches this description? The irregular region of a bacterial cell that holds its DNA",
+      "options": [
+        "Ribosome",
+        "Nucleoid",
+        "Flagellum",
+        "Spirilla"
+      ],
+      "correctAnswer": "Nucleoid"
+    },
+    {
+      "id": 16,
+      "question": "Which term matches this description? A cell structure that carries out protein synthesis",
+      "options": [
+        "Ribosome",
+        "Flagellum",
+        "Spirilla",
+        "Nucleoid"
+      ],
+      "correctAnswer": "Ribosome"
+    },
+    {
+      "id": 17,
+      "question": "Which term matches this description? An organism that synthesises its own organic compounds",
+      "options": [
+        "Endospore",
+        "Flagellum",
+        "Autotroph",
+        "Eubacteria"
+      ],
+      "correctAnswer": "Autotroph"
+    },
+    {
+      "id": 18,
+      "question": "Which term matches this description? An organism that obtains food from other organisms",
+      "options": [
+        "Heterotroph",
+        "Peptidoglycan",
+        "Gram-negative",
+        "Gram-positive"
+      ],
+      "correctAnswer": "Heterotroph"
+    },
+    {
+      "id": 19,
+      "question": "Which term matches this description? Bacteria that use oxygen to release energy from food",
+      "options": [
+        "Peptidoglycan",
+        "Aerobic bacteria",
+        "Binary fission",
+        "Anaerobic bacteria"
+      ],
+      "correctAnswer": "Aerobic bacteria"
+    },
+    {
+      "id": 20,
+      "question": "Which term matches this description? Bacteria that grow in environments where oxygen is absent",
+      "options": [
+        "Renewable resource",
+        "Aerobic bacteria",
+        "Binary fission",
+        "Anaerobic bacteria"
+      ],
+      "correctAnswer": "Anaerobic bacteria"
+    }
+  ]
+}

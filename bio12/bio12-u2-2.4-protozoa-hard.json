@@ -1,0 +1,237 @@
+{
+  "title": "2.4 Protozoa",
+  "description": "Single-celled eukaryotic protists, their movement, feeding, life stages and reproduction. Hard level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "protozoa",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Flagellum: A protozoan that derives nutrients from a living host",
+        "Pseudopod: A short hair-like structure that beats to move a cell",
+        "Sarcodine: A protozoan that lives independently in soil or water",
+        "Protozoan: A unicellular eukaryote that feeds on organic matter"
+      ],
+      "correctAnswer": "Protozoan: A unicellular eukaryote that feeds on organic matter"
+    },
+    {
+      "id": 2,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Sarcodine: A protozoan that derives nutrients from a living host",
+        "Protozoan: A short hair-like structure that beats to move a cell",
+        "Flagellum: A short hair-like structure that beats to move a cell",
+        "Pseudopod: A temporary extension of the cell used for movement"
+      ],
+      "correctAnswer": "Pseudopod: A temporary extension of the cell used for movement"
+    },
+    {
+      "id": 3,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Protozoan: The process of forming a protective wall around a cell",
+        "Cilium: A short hair-like structure that beats to move a cell",
+        "Ciliate: A protozoan that lives independently in soil or water",
+        "Nucleus: A protozoan that derives nutrients from a living host"
+      ],
+      "correctAnswer": "Cilium: A short hair-like structure that beats to move a cell"
+    },
+    {
+      "id": 4,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Flagellum: A long whip-like appendage that propels the cell forward",
+        "Protozoan: A protozoan covered with rows of cilia used for movement",
+        "Pseudopod: A form of asexual reproduction producing two equal cells",
+        "Sarcodine: The process of engulfing solid food particles into a cell"
+      ],
+      "correctAnswer": "Flagellum: A long whip-like appendage that propels the cell forward"
+    },
+    {
+      "id": 5,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Multiple fission: A unicellular eukaryote that feeds on organic matter",
+        "Phagocytosis: The emergence of a protozoan from its resting cyst",
+        "Trophozoite: The active feeding stage of a protozoan life cycle",
+        "Binary fission: A temporary extension of the cell used for movement"
+      ],
+      "correctAnswer": "Trophozoite: The active feeding stage of a protozoan life cycle"
+    },
+    {
+      "id": 6,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Ciliate: The process of engulfing solid food particles into a cell",
+        "Cyst: A resting stage that helps a protozoan survive harsh conditions",
+        "Cilium: A protozoan that forms spores and lacks locomotory structures",
+        "Nucleus: Asexual reproduction producing many daughter cells at once"
+      ],
+      "correctAnswer": "Cyst: A resting stage that helps a protozoan survive harsh conditions"
+    },
+    {
+      "id": 7,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Phagocytosis: The process of engulfing solid food particles into a cell",
+        "Binary fission: Asexual reproduction producing many daughter cells at once",
+        "Amoeboid movement: A resting stage that helps a protozoan survive harsh conditions",
+        "Multiple fission: A protozoan that forms spores and lacks locomotory structures"
+      ],
+      "correctAnswer": "Phagocytosis: The process of engulfing solid food particles into a cell"
+    },
+    {
+      "id": 8,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Contractile vacuole: A structure that expels excess water from a cell",
+        "Amoeboid movement: The active feeding stage of a protozoan life cycle",
+        "Parasitic protozoan: A protozoan that moves using one or more flagella",
+        "Free-living protozoan: A protozoan that moves and feeds using pseudopods"
+      ],
+      "correctAnswer": "Contractile vacuole: A structure that expels excess water from a cell"
+    },
+    {
+      "id": 9,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Pseudopod: A protozoan covered with rows of cilia used for movement",
+        "Ciliate: Movement using temporary extensions of the cell surface",
+        "Protozoan: A long whip-like appendage that propels the cell forward",
+        "Nucleus: The membrane-bound organelle that contains the cell DNA"
+      ],
+      "correctAnswer": "Nucleus: The membrane-bound organelle that contains the cell DNA"
+    },
+    {
+      "id": 10,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Contractile vacuole: The membrane-bound organelle that contains the cell DNA",
+        "Amoeboid movement: Movement using temporary extensions of the cell surface",
+        "Free-living protozoan: A protozoan covered with rows of cilia used for movement",
+        "Parasitic protozoan: A long whip-like appendage that propels the cell forward"
+      ],
+      "correctAnswer": "Amoeboid movement: Movement using temporary extensions of the cell surface"
+    },
+    {
+      "id": 11,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Nucleus: A long whip-like appendage that propels the cell forward",
+        "Protozoan: A form of asexual reproduction producing two equal cells",
+        "Ciliate: A protozoan covered with rows of cilia used for movement",
+        "Pseudopod: The process of engulfing solid food particles into a cell"
+      ],
+      "correctAnswer": "Ciliate: A protozoan covered with rows of cilia used for movement"
+    },
+    {
+      "id": 12,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Excystment: The active feeding stage of a protozoan life cycle",
+        "Trophozoite: The emergence of a protozoan from its resting cyst",
+        "Encystment: A protozoan that moves and feeds using pseudopods",
+        "Flagellate: A protozoan that moves using one or more flagella"
+      ],
+      "correctAnswer": "Flagellate: A protozoan that moves using one or more flagella"
+    },
+    {
+      "id": 13,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Protozoan: A protozoan that moves using one or more flagella",
+        "Pseudopod: The active feeding stage of a protozoan life cycle",
+        "Flagellum: The emergence of a protozoan from its resting cyst",
+        "Sarcodine: A protozoan that moves and feeds using pseudopods"
+      ],
+      "correctAnswer": "Sarcodine: A protozoan that moves and feeds using pseudopods"
+    },
+    {
+      "id": 14,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Flagellum: The process of engulfing solid food particles into a cell",
+        "Sporozoan: A protozoan that forms spores and lacks locomotory structures",
+        "Pseudopod: Asexual reproduction producing many daughter cells at once",
+        "Protozoan: A resting stage that helps a protozoan survive harsh conditions"
+      ],
+      "correctAnswer": "Sporozoan: A protozoan that forms spores and lacks locomotory structures"
+    },
+    {
+      "id": 15,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Contractile vacuole: A short hair-like structure that beats to move a cell",
+        "Free-living protozoan: The process of forming a protective wall around a cell",
+        "Amoeboid movement: The process of forming a protective wall around a cell",
+        "Parasitic protozoan: A protozoan that derives nutrients from a living host"
+      ],
+      "correctAnswer": "Parasitic protozoan: A protozoan that derives nutrients from a living host"
+    },
+    {
+      "id": 16,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Parasitic protozoan: The process of forming a protective wall around a cell",
+        "Contractile vacuole: A short hair-like structure that beats to move a cell",
+        "Free-living protozoan: A protozoan that lives independently in soil or water",
+        "Natural reserve: A protected area set aside to conserve species and habitats"
+      ],
+      "correctAnswer": "Free-living protozoan: A protozoan that lives independently in soil or water"
+    },
+    {
+      "id": 17,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Multiple fission: A long whip-like appendage that propels the cell forward",
+        "Binary fission: A form of asexual reproduction producing two equal cells",
+        "Contractile vacuole: The process of engulfing solid food particles into a cell",
+        "Amoeboid movement: A protozoan covered with rows of cilia used for movement"
+      ],
+      "correctAnswer": "Binary fission: A form of asexual reproduction producing two equal cells"
+    },
+    {
+      "id": 18,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Parasitic protozoan: The process of engulfing solid food particles into a cell",
+        "Contractile vacuole: A resting stage that helps a protozoan survive harsh conditions",
+        "Amoeboid movement: A protozoan that forms spores and lacks locomotory structures",
+        "Multiple fission: Asexual reproduction producing many daughter cells at once"
+      ],
+      "correctAnswer": "Multiple fission: Asexual reproduction producing many daughter cells at once"
+    },
+    {
+      "id": 19,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Flagellate: The membrane-bound organelle that contains the cell DNA",
+        "Excystment: Movement using temporary extensions of the cell surface",
+        "Trophozoite: A long whip-like appendage that propels the cell forward",
+        "Encystment: The process of forming a protective wall around a cell"
+      ],
+      "correctAnswer": "Encystment: The process of forming a protective wall around a cell"
+    },
+    {
+      "id": 20,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "Encystment: A temporary extension of the cell used for movement",
+        "Excystment: The emergence of a protozoan from its resting cyst",
+        "Flagellate: The active feeding stage of a protozoan life cycle",
+        "Trophozoite: A unicellular eukaryote that feeds on organic matter"
+      ],
+      "correctAnswer": "Excystment: The emergence of a protozoan from its resting cyst"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "title": "2.10 Renowned Microbiologists in Ethiopia",
+  "description": "Aklilu Lemma, endod, Ethiopian research institutes and infectious-disease work. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "ethiopian microbiologists",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Aklilu Lemma?",
+      "options": [
+        "An Ethiopian research institute dedicated to infectious diseases",
+        "Teaching communities how infections spread and can be prevented",
+        "The Ethiopian Public Health Institute, which leads outbreak work",
+        "Ethiopian scientist who discovered endod kills bilharzia snails"
+      ],
+      "correctAnswer": "Ethiopian scientist who discovered endod kills bilharzia snails"
+    },
+    {
+      "id": 2,
+      "question": "What is Endod?",
+      "options": [
+        "A parasitic disease caused by blood flukes and spread through snails",
+        "A person who systematically investigates nature to build knowledge",
+        "The Armauer Hansen Research Institute, which studies infectious disease",
+        "Soapberry plant whose berries kill the snails that spread bilharzia"
+      ],
+      "correctAnswer": "Soapberry plant whose berries kill the snails that spread bilharzia"
+    },
+    {
+      "id": 3,
+      "question": "What is Schistosomiasis?",
+      "options": [
+        "The Armauer Hansen Research Institute, which studies infectious disease",
+        "A person who systematically investigates nature to build knowledge",
+        "Soapberry plant whose berries kill the snails that spread bilharzia",
+        "A parasitic disease caused by blood flukes and spread through snails"
+      ],
+      "correctAnswer": "A parasitic disease caused by blood flukes and spread through snails"
+    },
+    {
+      "id": 4,
+      "question": "What is Bilharzia?",
+      "options": [
+        "Continuous monitoring of disease patterns in a population",
+        "The work of identifying the source and spread of a disease",
+        "The common Ethiopian name for the disease schistosomiasis",
+        "A facility that identifies the pathogen causing an illness"
+      ],
+      "correctAnswer": "The common Ethiopian name for the disease schistosomiasis"
+    },
+    {
+      "id": 5,
+      "question": "What is Blood fluke?",
+      "options": [
+        "The branch of biology that studies parasitic organisms",
+        "The science of protecting and improving community health",
+        "A parasitic worm that causes schistosomiasis in humans",
+        "The scientific study of microorganisms and their effects"
+      ],
+      "correctAnswer": "A parasitic worm that causes schistosomiasis in humans"
+    },
+    {
+      "id": 6,
+      "question": "What is EPHI?",
+      "options": [
+        "Soapberry plant whose berries kill the snails that spread bilharzia",
+        "The Ethiopian Public Health Institute, which leads outbreak work",
+        "A person who systematically investigates nature to build knowledge",
+        "An Ethiopian research institute dedicated to infectious diseases"
+      ],
+      "correctAnswer": "The Ethiopian Public Health Institute, which leads outbreak work"
+    },
+    {
+      "id": 7,
+      "question": "What is AHRI?",
+      "options": [
+        "The Armauer Hansen Research Institute, which studies infectious disease",
+        "Development that meets present needs without harming future generations",
+        "Soapberry plant whose berries kill the snails that spread bilharzia",
+        "A parasitic disease caused by blood flukes and spread through snails"
+      ],
+      "correctAnswer": "The Armauer Hansen Research Institute, which studies infectious disease"
+    },
+    {
+      "id": 8,
+      "question": "What is Aklilu Lemma Institute?",
+      "options": [
+        "The Ethiopian Public Health Institute, which leads outbreak work",
+        "An Ethiopian research institute dedicated to infectious diseases",
+        "Soapberry plant whose berries kill the snails that spread bilharzia",
+        "A person who systematically investigates nature to build knowledge"
+      ],
+      "correctAnswer": "An Ethiopian research institute dedicated to infectious diseases"
+    },
+    {
+      "id": 9,
+      "question": "What is Disease surveillance?",
+      "options": [
+        "Continuous monitoring of disease patterns in a population",
+        "The work of identifying the source and spread of a disease",
+        "A facility that identifies the pathogen causing an illness",
+        "The common Ethiopian name for the disease schistosomiasis"
+      ],
+      "correctAnswer": "Continuous monitoring of disease patterns in a population"
+    },
+    {
+      "id": 10,
+      "question": "What is Outbreak investigation?",
+      "options": [
+        "Understanding of remedies and practices held by communities",
+        "The work of identifying the source and spread of a disease",
+        "Work aimed at producing vaccines against infectious diseases",
+        "A facility that identifies the pathogen causing an illness"
+      ],
+      "correctAnswer": "The work of identifying the source and spread of a disease"
+    },
+    {
+      "id": 11,
+      "question": "What is Diagnostic laboratory?",
+      "options": [
+        "Work aimed at producing vaccines against infectious diseases",
+        "Understanding of remedies and practices held by communities",
+        "The work of identifying the source and spread of a disease",
+        "A facility that identifies the pathogen causing an illness"
+      ],
+      "correctAnswer": "A facility that identifies the pathogen causing an illness"
+    },
+    {
+      "id": 12,
+      "question": "What is Vaccine research?",
+      "options": [
+        "Ethiopian scientist who discovered endod kills bilharzia snails",
+        "An organisation devoted to systematic scientific investigation",
+        "Work aimed at producing vaccines against infectious diseases",
+        "Teaching communities how infections spread and can be prevented"
+      ],
+      "correctAnswer": "Work aimed at producing vaccines against infectious diseases"
+    },
+    {
+      "id": 13,
+      "question": "What is Public health?",
+      "options": [
+        "The science of protecting and improving community health",
+        "The scientific study of microorganisms and their effects",
+        "The common Ethiopian name for the disease schistosomiasis",
+        "The study of how diseases are distributed in populations"
+      ],
+      "correctAnswer": "The science of protecting and improving community health"
+    },
+    {
+      "id": 14,
+      "question": "What is Microbiology?",
+      "options": [
+        "The science of protecting and improving community health",
+        "The common Ethiopian name for the disease schistosomiasis",
+        "The study of how diseases are distributed in populations",
+        "The scientific study of microorganisms and their effects"
+      ],
+      "correctAnswer": "The scientific study of microorganisms and their effects"
+    },
+    {
+      "id": 15,
+      "question": "What is Parasitology?",
+      "options": [
+        "The branch of biology that studies parasitic organisms",
+        "A parasitic worm that causes schistosomiasis in humans",
+        "The science of protecting and improving community health",
+        "The scientific study of microorganisms and their effects"
+      ],
+      "correctAnswer": "The branch of biology that studies parasitic organisms"
+    },
+    {
+      "id": 16,
+      "question": "What is Epidemiology?",
+      "options": [
+        "The study of how diseases are distributed in populations",
+        "The scientific study of microorganisms and their effects",
+        "The common Ethiopian name for the disease schistosomiasis",
+        "The science of protecting and improving community health"
+      ],
+      "correctAnswer": "The study of how diseases are distributed in populations"
+    },
+    {
+      "id": 17,
+      "question": "What is Local knowledge?",
+      "options": [
+        "An organisation devoted to systematic scientific investigation",
+        "Ethiopian scientist who discovered endod kills bilharzia snails",
+        "Understanding of remedies and practices held by communities",
+        "Work aimed at producing vaccines against infectious diseases"
+      ],
+      "correctAnswer": "Understanding of remedies and practices held by communities"
+    },
+    {
+      "id": 18,
+      "question": "What is Health education?",
+      "options": [
+        "The Ethiopian Public Health Institute, which leads outbreak work",
+        "An Ethiopian research institute dedicated to infectious diseases",
+        "Teaching communities how infections spread and can be prevented",
+        "Ethiopian scientist who discovered endod kills bilharzia snails"
+      ],
+      "correctAnswer": "Teaching communities how infections spread and can be prevented"
+    },
+    {
+      "id": 19,
+      "question": "What is Research institute?",
+      "options": [
+        "An organisation devoted to systematic scientific investigation",
+        "The Ethiopian Public Health Institute, which leads outbreak work",
+        "Teaching communities how infections spread and can be prevented",
+        "Ethiopian scientist who discovered endod kills bilharzia snails"
+      ],
+      "correctAnswer": "An organisation devoted to systematic scientific investigation"
+    },
+    {
+      "id": 20,
+      "question": "What is Scientist?",
+      "options": [
+        "A person who systematically investigates nature to build knowledge",
+        "Soapberry plant whose berries kill the snails that spread bilharzia",
+        "A parasitic disease caused by blood flukes and spread through snails",
+        "The Armauer Hansen Research Institute, which studies infectious disease"
+      ],
+      "correctAnswer": "A person who systematically investigates nature to build knowledge"
+    }
+  ]
+}

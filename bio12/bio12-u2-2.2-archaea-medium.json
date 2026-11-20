@@ -1,0 +1,237 @@
+{
+  "title": "2.2 Archaea",
+  "description": "The separate domain of archaea, their distinct biochemistry and extreme habitats. Medium level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "archaea",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term matches this description? A domain of single-celled organisms distinct from bacteria",
+      "options": [
+        "Halophile",
+        "Archaea",
+        "S-layer",
+        "Salt lake"
+      ],
+      "correctAnswer": "Archaea"
+    },
+    {
+      "id": 2,
+      "question": "Which term matches this description? An archaeon that produces methane as a metabolic product",
+      "options": [
+        "Thermophile",
+        "Archaellum",
+        "Methanogen",
+        "Acidophile"
+      ],
+      "correctAnswer": "Methanogen"
+    },
+    {
+      "id": 3,
+      "question": "Which term matches this description? An organism that thrives in very salty environments",
+      "options": [
+        "Halophile",
+        "Salt lake",
+        "Phylogeny",
+        "Methanogen"
+      ],
+      "correctAnswer": "Halophile"
+    },
+    {
+      "id": 4,
+      "question": "Which term matches this description? An organism that grows best at high temperatures",
+      "options": [
+        "Psychrophile",
+        "Thermophile",
+        "Gut archaea",
+        "Ether lipid"
+      ],
+      "correctAnswer": "Thermophile"
+    },
+    {
+      "id": 5,
+      "question": "Which term matches this description? An organism that grows in highly acidic conditions",
+      "options": [
+        "Acidophile",
+        "Thermophile",
+        "Archaellum",
+        "Methanogen"
+      ],
+      "correctAnswer": "Acidophile"
+    },
+    {
+      "id": 6,
+      "question": "Which term matches this description? An organism adapted to permanently cold environments",
+      "options": [
+        "Soil archaea",
+        "Psychrophile",
+        "Methanogenesis",
+        "Extremophile"
+      ],
+      "correctAnswer": "Psychrophile"
+    },
+    {
+      "id": 7,
+      "question": "Which term matches this description? A whip-like appendage that archaea use for movement",
+      "options": [
+        "Thermophile",
+        "Methanogen",
+        "Acidophile",
+        "Archaellum"
+      ],
+      "correctAnswer": "Archaellum"
+    },
+    {
+      "id": 8,
+      "question": "Which term matches this description? A membrane lipid with ether links found in archaea",
+      "options": [
+        "Thermophile",
+        "Gut archaea",
+        "Ether lipid",
+        "Psychrophile"
+      ],
+      "correctAnswer": "Ether lipid"
+    },
+    {
+      "id": 9,
+      "question": "Which term matches this description? A crystalline protein layer forming the outer cell covering",
+      "options": [
+        "S-layer",
+        "Halophile",
+        "Salt lake",
+        "Archaea"
+      ],
+      "correctAnswer": "S-layer"
+    },
+    {
+      "id": 10,
+      "question": "Which term matches this description? A cell wall that lacks the polymer found in bacteria",
+      "options": [
+        "Non-renewable resource",
+        "Hydrothermal vent",
+        "Anaerobic respiration",
+        "Non-peptidoglycan wall"
+      ],
+      "correctAnswer": "Non-peptidoglycan wall"
+    },
+    {
+      "id": 11,
+      "question": "Which term matches this description? An organism living in conditions extreme for most life",
+      "options": [
+        "Extremophile",
+        "Methanogenesis",
+        "Soil archaea",
+        "Psychrophile"
+      ],
+      "correctAnswer": "Extremophile"
+    },
+    {
+      "id": 12,
+      "question": "Which term matches this description? Respiration that uses an electron acceptor other than oxygen",
+      "options": [
+        "Hydrothermal vent",
+        "Symbiotic archaea",
+        "Non-peptidoglycan wall",
+        "Anaerobic respiration"
+      ],
+      "correctAnswer": "Anaerobic respiration"
+    },
+    {
+      "id": 13,
+      "question": "Which term matches this description? The metabolic pathway by which archaea produce methane",
+      "options": [
+        "Symbiotic archaea",
+        "Methanogenesis",
+        "Hydrothermal vent",
+        "Anaerobic respiration"
+      ],
+      "correctAnswer": "Methanogenesis"
+    },
+    {
+      "id": 14,
+      "question": "Which term matches this description? Archaea that live in close association with other organisms",
+      "options": [
+        "Anaerobic respiration",
+        "Symbiotic archaea",
+        "Hydrothermal vent",
+        "Non-peptidoglycan wall"
+      ],
+      "correctAnswer": "Symbiotic archaea"
+    },
+    {
+      "id": 15,
+      "question": "Which term matches this description? A seafloor opening that releases hot mineral-rich water",
+      "options": [
+        "Anaerobic respiration",
+        "Hydrothermal vent",
+        "Non-peptidoglycan wall",
+        "Symbiotic archaea"
+      ],
+      "correctAnswer": "Hydrothermal vent"
+    },
+    {
+      "id": 16,
+      "question": "Which term matches this description? A body of water with salinity far higher than seawater",
+      "options": [
+        "Salt lake",
+        "Methanogen",
+        "Halophile",
+        "Phylogeny"
+      ],
+      "correctAnswer": "Salt lake"
+    },
+    {
+      "id": 17,
+      "question": "Which term matches this description? Archaea that live in the digestive tract of animals",
+      "options": [
+        "Ether lipid",
+        "Thermophile",
+        "Gut archaea",
+        "Psychrophile"
+      ],
+      "correctAnswer": "Gut archaea"
+    },
+    {
+      "id": 18,
+      "question": "Which term matches this description? Archaea that inhabit soil and participate in nutrient cycles",
+      "options": [
+        "Soil archaea",
+        "Psychrophile",
+        "Methanogenesis",
+        "Extremophile"
+      ],
+      "correctAnswer": "Soil archaea"
+    },
+    {
+      "id": 19,
+      "question": "Which term matches this description? The study of evolutionary relationships among organisms",
+      "options": [
+        "Methanogen",
+        "Phylogeny",
+        "Salt lake",
+        "Halophile"
+      ],
+      "correctAnswer": "Phylogeny"
+    },
+    {
+      "id": 20,
+      "question": "Which term matches this description? The highest taxonomic rank in biological classification",
+      "options": [
+        "Halophile",
+        "Archaea",
+        "S-layer",
+        "Domain"
+      ],
+      "correctAnswer": "Domain"
+    }
+  ]
+}

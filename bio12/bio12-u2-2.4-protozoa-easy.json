@@ -1,0 +1,237 @@
+{
+  "title": "2.4 Protozoa",
+  "description": "Single-celled eukaryotic protists, their movement, feeding, life stages and reproduction. Easy level, 20 questions.",
+  "folder": "School/Grade 12/Biology/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "biology",
+    "grade 12",
+    "unit 2",
+    "protozoa",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Protozoan?",
+      "options": [
+        "A protozoan that lives independently in soil or water",
+        "A short hair-like structure that beats to move a cell",
+        "A protozoan that derives nutrients from a living host",
+        "A unicellular eukaryote that feeds on organic matter"
+      ],
+      "correctAnswer": "A unicellular eukaryote that feeds on organic matter"
+    },
+    {
+      "id": 2,
+      "question": "What is Pseudopod?",
+      "options": [
+        "A unicellular eukaryote that feeds on organic matter",
+        "A protozoan that derives nutrients from a living host",
+        "A short hair-like structure that beats to move a cell",
+        "A temporary extension of the cell used for movement"
+      ],
+      "correctAnswer": "A temporary extension of the cell used for movement"
+    },
+    {
+      "id": 3,
+      "question": "What is Cilium?",
+      "options": [
+        "A protozoan that derives nutrients from a living host",
+        "The process of forming a protective wall around a cell",
+        "A protozoan that lives independently in soil or water",
+        "A short hair-like structure that beats to move a cell"
+      ],
+      "correctAnswer": "A short hair-like structure that beats to move a cell"
+    },
+    {
+      "id": 4,
+      "question": "What is Flagellum?",
+      "options": [
+        "A protozoan covered with rows of cilia used for movement",
+        "A form of asexual reproduction producing two equal cells",
+        "A long whip-like appendage that propels the cell forward",
+        "The process of engulfing solid food particles into a cell"
+      ],
+      "correctAnswer": "A long whip-like appendage that propels the cell forward"
+    },
+    {
+      "id": 5,
+      "question": "What is Trophozoite?",
+      "options": [
+        "The emergence of a protozoan from its resting cyst",
+        "A temporary extension of the cell used for movement",
+        "The active feeding stage of a protozoan life cycle",
+        "A unicellular eukaryote that feeds on organic matter"
+      ],
+      "correctAnswer": "The active feeding stage of a protozoan life cycle"
+    },
+    {
+      "id": 6,
+      "question": "What is Cyst?",
+      "options": [
+        "Moral principles guiding human conduct toward the natural world",
+        "A resting stage that helps a protozoan survive harsh conditions",
+        "Asexual reproduction producing many daughter cells at once",
+        "A protozoan that forms spores and lacks locomotory structures"
+      ],
+      "correctAnswer": "A resting stage that helps a protozoan survive harsh conditions"
+    },
+    {
+      "id": 7,
+      "question": "What is Phagocytosis?",
+      "options": [
+        "The process of engulfing solid food particles into a cell",
+        "A resting stage that helps a protozoan survive harsh conditions",
+        "A protozoan that forms spores and lacks locomotory structures",
+        "Asexual reproduction producing many daughter cells at once"
+      ],
+      "correctAnswer": "The process of engulfing solid food particles into a cell"
+    },
+    {
+      "id": 8,
+      "question": "What is Contractile vacuole?",
+      "options": [
+        "A protozoan that moves using one or more flagella",
+        "A structure that expels excess water from a cell",
+        "The active feeding stage of a protozoan life cycle",
+        "A protozoan that moves and feeds using pseudopods"
+      ],
+      "correctAnswer": "A structure that expels excess water from a cell"
+    },
+    {
+      "id": 9,
+      "question": "What is Nucleus?",
+      "options": [
+        "The membrane-bound organelle that contains the cell DNA",
+        "A long whip-like appendage that propels the cell forward",
+        "A protozoan covered with rows of cilia used for movement",
+        "Movement using temporary extensions of the cell surface"
+      ],
+      "correctAnswer": "The membrane-bound organelle that contains the cell DNA"
+    },
+    {
+      "id": 10,
+      "question": "What is Amoeboid movement?",
+      "options": [
+        "A long whip-like appendage that propels the cell forward",
+        "Movement using temporary extensions of the cell surface",
+        "A protozoan covered with rows of cilia used for movement",
+        "The membrane-bound organelle that contains the cell DNA"
+      ],
+      "correctAnswer": "Movement using temporary extensions of the cell surface"
+    },
+    {
+      "id": 11,
+      "question": "What is Ciliate?",
+      "options": [
+        "The process of engulfing solid food particles into a cell",
+        "A form of asexual reproduction producing two equal cells",
+        "A long whip-like appendage that propels the cell forward",
+        "A protozoan covered with rows of cilia used for movement"
+      ],
+      "correctAnswer": "A protozoan covered with rows of cilia used for movement"
+    },
+    {
+      "id": 12,
+      "question": "What is Flagellate?",
+      "options": [
+        "The active feeding stage of a protozoan life cycle",
+        "A protozoan that moves and feeds using pseudopods",
+        "A protozoan that moves using one or more flagella",
+        "The emergence of a protozoan from its resting cyst"
+      ],
+      "correctAnswer": "A protozoan that moves using one or more flagella"
+    },
+    {
+      "id": 13,
+      "question": "What is Sarcodine?",
+      "options": [
+        "A protozoan that moves and feeds using pseudopods",
+        "A protozoan that moves using one or more flagella",
+        "The emergence of a protozoan from its resting cyst",
+        "The active feeding stage of a protozoan life cycle"
+      ],
+      "correctAnswer": "A protozoan that moves and feeds using pseudopods"
+    },
+    {
+      "id": 14,
+      "question": "What is Sporozoan?",
+      "options": [
+        "A resting stage that helps a protozoan survive harsh conditions",
+        "The process of engulfing solid food particles into a cell",
+        "Asexual reproduction producing many daughter cells at once",
+        "A protozoan that forms spores and lacks locomotory structures"
+      ],
+      "correctAnswer": "A protozoan that forms spores and lacks locomotory structures"
+    },
+    {
+      "id": 15,
+      "question": "What is Parasitic protozoan?",
+      "options": [
+        "A protozoan that derives nutrients from a living host",
+        "A short hair-like structure that beats to move a cell",
+        "A protozoan that lives independently in soil or water",
+        "The process of forming a protective wall around a cell"
+      ],
+      "correctAnswer": "A protozoan that derives nutrients from a living host"
+    },
+    {
+      "id": 16,
+      "question": "What is Free-living protozoan?",
+      "options": [
+        "A protozoan that lives independently in soil or water",
+        "A protozoan that derives nutrients from a living host",
+        "The process of forming a protective wall around a cell",
+        "A short hair-like structure that beats to move a cell"
+      ],
+      "correctAnswer": "A protozoan that lives independently in soil or water"
+    },
+    {
+      "id": 17,
+      "question": "What is Binary fission?",
+      "options": [
+        "A protozoan covered with rows of cilia used for movement",
+        "The process of engulfing solid food particles into a cell",
+        "A form of asexual reproduction producing two equal cells",
+        "A long whip-like appendage that propels the cell forward"
+      ],
+      "correctAnswer": "A form of asexual reproduction producing two equal cells"
+    },
+    {
+      "id": 18,
+      "question": "What is Multiple fission?",
+      "options": [
+        "A resting stage that helps a protozoan survive harsh conditions",
+        "The process of engulfing solid food particles into a cell",
+        "Asexual reproduction producing many daughter cells at once",
+        "A protozoan that forms spores and lacks locomotory structures"
+      ],
+      "correctAnswer": "Asexual reproduction producing many daughter cells at once"
+    },
+    {
+      "id": 19,
+      "question": "What is Encystment?",
+      "options": [
+        "The process of forming a protective wall around a cell",
+        "A long whip-like appendage that propels the cell forward",
+        "Movement using temporary extensions of the cell surface",
+        "The membrane-bound organelle that contains the cell DNA"
+      ],
+      "correctAnswer": "The process of forming a protective wall around a cell"
+    },
+    {
+      "id": 20,
+      "question": "What is Excystment?",
+      "options": [
+        "The emergence of a protozoan from its resting cyst",
+        "The active feeding stage of a protozoan life cycle",
+        "A temporary extension of the cell used for movement",
+        "A unicellular eukaryote that feeds on organic matter"
+      ],
+      "correctAnswer": "The emergence of a protozoan from its resting cyst"
+    }
+  ]
+}
