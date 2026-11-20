@@ -13,10 +13,10 @@
     {
       "question": "Carl Linnaeus is best known for developing which system?",
       "options": [
-        "Cell theory",
+        "Kingdom, Class, Phylum, Order, Family, Genus, Species",
         "Binomial nomenclature and hierarchical classification",
-        "Five-kingdom classification",
-        "Theory of evolution"
+        "It is the only lens that can be used with a wet mount",
+        "It could break the slide or damage the objective lens"
       ],
       "correctAnswer": "Binomial nomenclature and hierarchical classification",
       "explanation": "Linnaeus created the system of binomial nomenclature (two-part scientific names) and the hierarchical classification system.",
@@ -73,10 +73,10 @@
     {
       "question": "Before Linnaeus, what method was commonly used to name organisms?",
       "options": [
-        "DNA barcoding",
-        "Number codes",
+        "Because animals bring seeds from other areas",
+        "Ponds are saltwater and lakes are freshwater",
         "Polynomial names with many descriptive words",
-        "Binomial nomenclature"
+        "Substances that give food colour and flavour"
       ],
       "correctAnswer": "Polynomial names with many descriptive words",
       "explanation": "Before Linnaeus, organisms were given long polynomial names (many words describing features), which were inconsistent and cumbersome.",
@@ -85,10 +85,10 @@
     {
       "question": "Linnaeus classified organisms primarily based on:",
       "options": [
-        "DNA sequences",
-        "Geographic distribution",
-        "Genetic analysis",
-        "Physical similarities and structures"
+        "Eggs to be released into the oviduct",
+        "Physical similarities and structures",
+        "Cells are found in all living things",
+        "Vitamin C-rich foods such as oranges"
       ],
       "correctAnswer": "Physical similarities and structures",
       "explanation": "Linnaeus used visible physical characteristics (morphology) such as flower parts, body structures, and reproductive organs to classify organisms.",
@@ -109,10 +109,10 @@
     {
       "question": "Professor Sebsebe Demissew is known for his work on:",
       "options": [
-        "Ethiopian mammals",
-        "Fungal classification",
-        "Ethiopian flora and plant taxonomy",
-        "Marine biology"
+        "To make the experiment take longer",
+        "Synthetic vitamin supplements only",
+        "Only in plant cells and some algae",
+        "Ethiopian flora and plant taxonomy"
       ],
       "correctAnswer": "Ethiopian flora and plant taxonomy",
       "explanation": "Sebsebe Demissew is a renowned Ethiopian botanist who has extensively studied and classified Ethiopian plants.",
@@ -133,10 +133,10 @@
     {
       "question": "Linnaeus's classification system was based on which feature for plants?",
       "options": [
-        "Root structure",
-        "Stem type",
-        "Leaf shape",
-        "Flower parts and reproductive structures (stamens and pistils)"
+        "To control the movement of substances into and out of the cell",
+        "Cells have been observed arising spontaneously in laboratories",
+        "Flower parts and reproductive structures (stamens and pistils)",
+        "Autotrophic, multicellular, and having cell walls of cellulose"
       ],
       "correctAnswer": "Flower parts and reproductive structures (stamens and pistils)",
       "explanation": "Linnaeus classified plants based on the number and arrangement of their reproductive parts, particularly stamens and pistils.",
@@ -157,10 +157,10 @@
     {
       "question": "How did Linnaeus group animals in his classification system?",
       "options": [
-        "By habitat only",
+        "It requires energy (ATP) to move substances against their concentration gradient",
         "By features such as body structure, number of limbs, and method of reproduction",
-        "By diet only",
-        "By color"
+        "Swelling of the legs and abdomen, dry or flaky skin, and changes in hair colour",
+        "Light refraction in the eye, leverage in bones, and fluid dynamics in blood flow"
       ],
       "correctAnswer": "By features such as body structure, number of limbs, and method of reproduction",
       "explanation": "Linnaeus classified animals based on observable physical characteristics and reproductive methods.",
@@ -169,10 +169,10 @@
     {
       "question": "The Linnaean system is considered a:",
       "options": [
-        "Molecular classification system",
-        "Artificial classification system based on observable features",
-        "Ecological classification system",
-        "Evolutionary classification system"
+        "To connect the body tube to the base for carrying and support",
+        "Cell theory remains a fundamental unifying concept in biology",
+        "A group of epithelial cells surrounding a developing egg cell",
+        "Artificial classification system based on observable features"
       ],
       "correctAnswer": "Artificial classification system based on observable features",
       "explanation": "Linnaeus's system is called artificial because it groups organisms based on a few selected physical features rather than evolutionary relationships.",
@@ -181,9 +181,9 @@
     {
       "question": "Which Ethiopian taxonomist has studied the flora of the Simien Mountains extensively?",
       "options": [
-        "Abebe Getahun",
-        "Tesfaye Awas",
         "Ensermu Kelbessa",
+        "An untested idea",
+        "Abebe Getahun",
         "Melesse Maryo"
       ],
       "correctAnswer": "Ensermu Kelbessa",
@@ -253,10 +253,10 @@
     {
       "question": "Linnaeus believed that species were:",
       "options": [
-        "Resulting from natural selection",
-        "Evolving over time",
+        "Place the container under your nose",
+        "Hybrids of other species",
         "Fixed and unchanging since creation",
-        "Hybrids of other species"
+        "Resulting from natural selection"
       ],
       "correctAnswer": "Fixed and unchanging since creation",
       "explanation": "Linnaeus held a creationist view that species were divinely created and fixed, a view later challenged by evolutionary theory.",
@@ -265,10 +265,10 @@
     {
       "question": "What is the main limitation of the Linnaean classification system?",
       "options": [
-        "It is too complex",
-        "It has too many categories",
+        "Both have cell walls made of the same material",
         "It does not reflect evolutionary relationships",
-        "It uses Latin names"
+        "Mosses growing on a newly exposed rock surface",
+        "They possess all seven characteristics of life"
       ],
       "correctAnswer": "It does not reflect evolutionary relationships",
       "explanation": "Linnaeus's system groups organisms by physical similarity rather than evolutionary ancestry, which modern cladistics improves upon.",
@@ -278,9 +278,9 @@
       "question": "Linnaeus's original classification of humans placed them in which group?",
       "options": [
         "Anthropomorpha",
-        "Primates",
+        "Mammalia",
         "Quadrupeds",
-        "Mammalia"
+        "It kills sperm"
       ],
       "correctAnswer": "Anthropomorpha",
       "explanation": "Linnaeus originally placed humans in the order Anthropomorpha (meaning man-like), alongside monkeys and apes, later renamed Primates.",

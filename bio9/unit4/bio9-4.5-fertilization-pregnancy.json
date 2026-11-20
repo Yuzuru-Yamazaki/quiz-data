@@ -25,10 +25,10 @@
     {
       "question": "Fertilization typically occurs in which part of the female reproductive system?",
       "options": [
-        "Uterus",
+        "Processed packaged foods",
+        "Provides energy to sperm",
         "Fallopian tube (oviduct)",
-        "Ovary",
-        "Vagina"
+        "Running away from danger"
       ],
       "correctAnswer": "Fallopian tube (oviduct)",
       "explanation": "Fertilization occurs in the oviduct (fallopian tube), where the sperm meets the egg.",
@@ -37,10 +37,10 @@
     {
       "question": "At the moment of fertilization, what happens?",
       "options": [
+        "Genus capitalized, species in lowercase, both italicized or underlined",
+        "All known evidence shows that cells only arise from pre-existing cells",
         "The male nucleus of the sperm fuses with the female nucleus of the egg",
-        "The egg splits into two",
-        "The sperm enters the uterus",
-        "The zygote implants in the uterus"
+        "Storage of water, nutrients, and waste; maintenance of turgor pressure"
       ],
       "correctAnswer": "The male nucleus of the sperm fuses with the female nucleus of the egg",
       "explanation": "The sperm enters the cytoplasm of the egg and the male nucleus fuses with the female nucleus — this is the moment of fertilization.",
@@ -133,9 +133,9 @@
     {
       "question": "The placenta is attached to the embryo by the:",
       "options": [
-        "Amnion",
-        "Umbilical cord",
         "Cervix",
+        "Umbilical cord",
+        "Amniotic fluid",
         "Oviduct"
       ],
       "correctAnswer": "Umbilical cord",
@@ -145,10 +145,10 @@
     {
       "question": "The main function of the placenta is to:",
       "options": [
-        "Produce eggs",
-        "Store waste products",
+        "Monera, Protista, Fungi, Plantae, Animalia",
+        "A solution that contains no solutes at all",
         "Provide oxygen and nutrients to the embryo",
-        "Produce amniotic fluid"
+        "An unfertilized egg develops into an adult"
       ],
       "correctAnswer": "Provide oxygen and nutrients to the embryo",
       "explanation": "Oxygen and nutrients such as glucose and amino acids pass across the placenta from the mother's blood to the embryo's bloodstream.",
@@ -157,8 +157,8 @@
     {
       "question": "In the placenta, the blood of the mother and the embryo:",
       "options": [
-        "Mix together completely",
-        "Mix only during labor",
+        "The organ of intercourse and the birth canal",
+        "It does not show all characteristics of life",
         "Are separated by a thick wall with no exchange",
         "Do not mix; exchange occurs across membranes"
       ],
@@ -170,8 +170,8 @@
       "question": "Which substance passes from the embryo's blood to the mother's blood through the placenta?",
       "options": [
         "Amino acids",
+        "Prostate gland",
         "Glucose",
-        "Oxygen",
         "Carbon dioxide"
       ],
       "correctAnswer": "Carbon dioxide",
@@ -193,10 +193,10 @@
     {
       "question": "Fraternal (dizygotic) twins:",
       "options": [
-        "Are always the same sex",
-        "Always share one placenta",
-        "Do not resemble each other more than other siblings",
-        "Resemble each other exactly"
+        "To distribute weight evenly and prevent dropping it",
+        "Has both plant-like and animal-like characteristics",
+        "Offspring are genetically different from the parent",
+        "Do not resemble each other more than other siblings"
       ],
       "correctAnswer": "Do not resemble each other more than other siblings",
       "explanation": "Fraternal twins do not resemble each other any more than other children born separately in the same family.",
@@ -205,10 +205,10 @@
     {
       "question": "Identical twins are always:",
       "options": [
-        "Born with separate placentas",
         "Fraternal",
+        "Of the same sex",
         "Of opposite sexes",
-        "Of the same sex"
+        "Ovulatory phase"
       ],
       "correctAnswer": "Of the same sex",
       "explanation": "Identical twins are strikingly alike and always of the same sex.",
@@ -229,10 +229,10 @@
     {
       "question": "Neural tube defects (NTDs) are birth defects of the brain and spine that can be prevented by:",
       "options": [
-        "Calcium supplementation",
-        "Vitamin C supplementation",
+        "Nutritious traditional foods such as teff-based dishes",
+        "The movement of water across a semi-permeable membrane",
         "Folic acid supplementation before and during pregnancy",
-        "Iron supplementation"
+        "All living organisms are composed of one or more cells"
       ],
       "correctAnswer": "Folic acid supplementation before and during pregnancy",
       "explanation": "Women should take folic acid-rich foods before and during pregnancy to prevent neural tube defects.",
@@ -241,10 +241,10 @@
     {
       "question": "For fertilization to be possible, intercourse should occur:",
       "options": [
-        "Only on the day of ovulation",
         "Within the 4-day fertile window around ovulation",
-        "Any time during the menstrual cycle",
-        "Only after ovulation is confirmed"
+        "Ask the teacher for instructions before starting",
+        "Point the open end away from yourself and others",
+        "An experiment conducted without any measurements"
       ],
       "correctAnswer": "Within the 4-day fertile window around ovulation",
       "explanation": "There is only a short period of about 4 days each month when fertilization might occur, based on egg and sperm survival.",

@@ -15,10 +15,10 @@
       "anki": true,
       "question": "According to the textbook, how does physics improve the quality of life?",
       "options": [
-        "By making transportation vehicles unnecessary",
-        "By removing the need for doctors in hospitals",
+        "To advance science, engineering, and innovation throughout the world for the benefit of all, and in doing so serve society",
+        "To advance science, engineering, and innovation throughout the world for the benefit of all in the situation described",
         "By providing the basic understanding necessary for developing new instrumentation and techniques for medical applications",
-        "By replacing all other sciences in schools"
+        "To promote active participation in the design and implementation of the physics curriculum in the situation described"
       ],
       "correctAnswer": "By providing the basic understanding necessary for developing new instrumentation and techniques for medical applications"
     },
@@ -27,10 +27,10 @@
       "anki": true,
       "question": "Which of the following is a medical application made possible by physics?",
       "options": [
-        "Television",
+        "Mobile phone",
         "Computer tomography (CT)",
-        "Space shuttle",
-        "Mobile phone"
+        "Opposite over hypotenuse",
+        "Space shuttle"
       ],
       "correctAnswer": "Computer tomography (CT)"
     },
@@ -64,9 +64,9 @@
       "question": "Which of the following techniques is associated with medical imaging?",
       "options": [
         "Positron emission tomography (PET)",
-        "Bridge building",
-        "Airport construction",
-        "Vehicle design"
+        "Exoplanet imaging and spectroscopy",
+        "Agriculture, forestry, and fishing",
+        "Combining perpendicular components"
       ],
       "correctAnswer": "Positron emission tomography (PET)"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Laser surgery became possible because physics provided what?",
       "options": [
-        "The basic understanding necessary for new medical techniques",
-        "Better farming methods",
-        "Cheaper raw materials",
-        "Faster postal services"
+        "Electricity, magnetism, semiconductors, and electromagnetism",
+        "Underground laboratory used for gravitational wave detection",
+        "Inspect how we are feeling and how our thoughts are operating",
+        "The basic understanding necessary for new medical techniques"
       ],
       "correctAnswer": "The basic understanding necessary for new medical techniques"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "According to the textbook, which vehicles require the help of physics experts to be constructed?",
       "options": [
-        "Bicycles and skateboards",
-        "Wagons, carts, and sleds",
-        "Boats made from logs",
-        "Automobiles, airplanes, and space shuttles"
+        "Chemistry, biology, geology, and astronomy",
+        "To increase the number of physics teachers",
+        "Automobiles, airplanes, and space shuttles",
+        "By replacing all other sciences in schools"
       ],
       "correctAnswer": "Automobiles, airplanes, and space shuttles"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "Computers, smartphones, TVs, and radios all operate on principles of physics such as which of the following?",
       "options": [
-        "Grammar, spelling, and punctuation",
-        "Farming, fishing, and herding",
         "Electricity, magnetism, semiconductors, and electromagnetism",
-        "Painting, drawing, and sculpting"
+        "Underground laboratory used for gravitational wave detection",
+        "The basic understanding necessary for new medical techniques",
+        "Inspect how we are feeling and how our thoughts are operating"
       ],
       "correctAnswer": "Electricity, magnetism, semiconductors, and electromagnetism"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "The working of everyday electronic devices relies most directly on which of the following?",
       "options": [
-        "The laws of literature",
+        "cos inverse of Ry over Rx",
         "The principles of physics",
-        "The customs of society",
-        "The rules of grammar"
+        "The laws of literature",
+        "The customs of society"
       ],
       "correctAnswer": "The principles of physics"
     },
@@ -160,9 +160,9 @@
       "question": "Physics is useful for military purposes mainly in what way?",
       "options": [
         "Informing the design of weapons",
+        "It proved that stars emit light",
         "Distributing food supplies",
-        "Training soldiers in sports",
-        "Organizing army parades"
+        "Training soldiers in sports"
       ],
       "correctAnswer": "Informing the design of weapons"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "How does physics contribute to economic development?",
       "options": [
-        "By encouraging people to live in rural areas",
+        "Conferences on physics education and exchange of scientific information",
         "By enabling new technologies that boost a country's economy and industry",
-        "By increasing the number of public holidays",
-        "By reducing the need for education"
+        "An organized group of persons associated together for scientific purposes",
+        "Higher atmospheric pressure at higher altitude lowers the boiling point"
       ],
       "correctAnswer": "By enabling new technologies that boost a country's economy and industry"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "Physics is described in the textbook as the foundation of which other sciences?",
       "options": [
-        "Literature, languages, and philosophy",
-        "History, civics, and economics",
         "Chemistry, biology, geology, and astronomy",
-        "Painting, music, and dance"
+        "History, civics, and economics",
+        "Literature, languages, and philosophy",
+        "Design and conduct a controlled experiment"
       ],
       "correctAnswer": "Chemistry, biology, geology, and astronomy"
     },
@@ -303,9 +303,9 @@
       "anki": true,
       "question": "Electricity and magnetism, as explained by physics, are the basis of which industry?",
       "options": [
+        "A regional physics group",
         "The electronics industry",
         "The textile industry",
-        "The food industry",
         "The clothing industry"
       ],
       "correctAnswer": "The electronics industry"
@@ -315,10 +315,10 @@
       "anki": true,
       "question": "Motion and energy are phenomena that physics explains, and this knowledge helps engineers construct what?",
       "options": [
-        "Trading companies",
-        "Musical bands",
         "Transportation vehicles",
-        "Sports teams"
+        "Musical bands",
+        "Paying teacher salaries",
+        "Trading companies"
       ],
       "correctAnswer": "Transportation vehicles"
     },
@@ -339,10 +339,10 @@
       "anki": true,
       "question": "Which statement best summarizes the importance of physics to society?",
       "options": [
-        "Physics is only useful for building weapons",
-        "Physics has no effect on everyday life",
-        "Physics is only important inside laboratories",
-        "Physics improves quality of life and drives technology and economic development"
+        "To promote active participation in the design and implementation of the physics curriculum",
+        "An ordered series of steps to acquire knowledge based on experimental evidence",
+        "Physics improves quality of life and drives technology and economic development",
+        "As an organized group of persons associated together for scientific purposes"
       ],
       "correctAnswer": "Physics improves quality of life and drives technology and economic development"
     }

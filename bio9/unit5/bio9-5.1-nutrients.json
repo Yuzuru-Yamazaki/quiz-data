@@ -13,12 +13,12 @@
     {
       "question": "What is food?",
       "options": [
-        "Any liquid that contains vitamins",
-        "Only substances that come from animals",
-        "Any substance that is eaten, drunk, or taken into the body to sustain life, provide energy, promote growth, and repair tissues",
-        "Only plant-based materials consumed for energy"
+        "Any substance that is eaten, drunk, or taken into the body to sustain life, provide energy, promote growth",
+        "All living things are composed of cells, cells are the basic unit of life, all cells come from pre-existing cells",
+        "A disease that occurs when a person does not have enough of one particular nutrient and suffers health problems as a result",
+        "A hypothesis is a testable prediction, while a theory is a well-supported explanation supported by extensive evidence"
       ],
-      "answer": "Any substance that is eaten, drunk, or taken into the body to sustain life, provide energy, promote growth, and repair tissues"
+      "answer": "Any substance that is eaten, drunk, or taken into the body to sustain life, provide energy, promote growth"
     },
     {
       "question": "Which of the following is NOT a reason why food is important for living things?",
@@ -33,10 +33,10 @@
     {
       "question": "What is nutrition?",
       "options": [
-        "The process of eating only vegetables",
-        "The process of digesting proteins only",
-        "The study of minerals in the body",
-        "The process of taking in food and converting it into energy and other vital nutrients required for life"
+        "Cell → Organ → Tissue → Organ System → Organism → Community → Population → Ecosystem → Biosphere → Biome",
+        "The movement of water across a selectively permeable membrane from a dilute to a concentrated solution",
+        "The process of taking in food and converting it into energy and other vital nutrients required for life",
+        "Cell → Tissue → Organ → Organ System → Organism → Population → Community → Ecosystem → Biome → Biosphere"
       ],
       "answer": "The process of taking in food and converting it into energy and other vital nutrients required for life"
     },
@@ -63,10 +63,10 @@
     {
       "question": "What are nutrients?",
       "options": [
+        "The shrinkage of the cell membrane away from the cell wall in a plant cell due to water loss",
+        "The coverslip would float and the specimen could move; water might spill onto the microscope",
         "Chemical substances found in food that the body uses for growth, energy, and staying healthy",
-        "Substances that give food colour and flavour",
-        "Waste products eliminated from the body",
-        "Only the vitamins found in fruits"
+        "The movement of particles from an area of high concentration to an area of low concentration"
       ],
       "answer": "Chemical substances found in food that the body uses for growth, energy, and staying healthy"
     },
@@ -93,10 +93,10 @@
     {
       "question": "The best sources of carbohydrates include:",
       "options": [
-        "Potatoes, bread, maize, rice, and cereals",
+        "By avoiding all contact with other people",
         "Butter, cheese, and animal fat",
-        "Meat, fish, and eggs",
-        "Oranges, lemons, and grapefruit"
+        "Oranges, lemons, and grapefruit",
+        "Potatoes, bread, maize, rice, and cereals"
       ],
       "answer": "Potatoes, bread, maize, rice, and cereals"
     },
@@ -113,20 +113,20 @@
     {
       "question": "What elements make up proteins?",
       "options": [
+        "It has no effect on the nervous system",
         "Carbon, hydrogen, oxygen, and nitrogen",
-        "Carbon, oxygen, and nitrogen only",
-        "Carbon, hydrogen, and oxygen only",
-        "Hydrogen, oxygen, and nitrogen only"
+        "Hydrogen, oxygen, and nitrogen only",
+        "Carbon, hydrogen, and oxygen only"
       ],
       "answer": "Carbon, hydrogen, oxygen, and nitrogen"
     },
     {
       "question": "Which of the following is a good source of proteins from plants?",
       "options": [
-        "Butter and cheese",
-        "Potatoes and rice",
         "Beans, chickpeas, soy beans, and nuts",
-        "Oranges and lemons"
+        "Changing menstrual products regularly",
+        "They are removed by white blood cells",
+        "To receive the experimental treatment"
       ],
       "answer": "Beans, chickpeas, soy beans, and nuts"
     },
@@ -143,9 +143,9 @@
     {
       "question": "What is the main difference between fats and oils based on their physical state at room temperature?",
       "options": [
-        "Both are liquid at room temperature",
-        "Both are solid at room temperature",
         "Fats are solid and oils are liquid at room temperature",
+        "Folic acid supplementation before and during pregnancy",
+        "Permanent, though sometimes reversible by microsurgery",
         "Fats are liquid and oils are solid at room temperature"
       ],
       "answer": "Fats are solid and oils are liquid at room temperature"
@@ -153,10 +153,10 @@
     {
       "question": "Fats are mainly obtained from which type of source?",
       "options": [
-        "Plant sources such as fruits",
         "Animal sources such as meat, milk, cheese, butter, and egg yolk",
-        "Mineral sources such as rocks",
-        "Synthetic sources produced in laboratories"
+        "Follow proper waste disposal guidelines provided by the teacher",
+        "A single cell that can grow up to several centimeters in length",
+        "To prevent it from catching fire or getting caught in equipment"
       ],
       "answer": "Animal sources such as meat, milk, cheese, butter, and egg yolk"
     },
@@ -183,10 +183,10 @@
     {
       "question": "What is the primary function of calcium in the human body?",
       "options": [
-        "Regulating thyroid gland function",
-        "Carrying oxygen in the blood",
+        "A variety of locally available nutrient-dense foods in the right proportions",
         "Building teeth and bones, muscle contraction, and nerve impulse transmission",
-        "Providing energy for cells"
+        "Through direct exchange of body fluids such as blood, semen, and breast milk",
+        "States whether the hypothesis is supported or rejected based on the evidence"
       ],
       "answer": "Building teeth and bones, muscle contraction, and nerve impulse transmission"
     },
@@ -213,40 +213,40 @@
     {
       "question": "What are the best sources of iodine?",
       "options": [
-        "Milk and cheese",
-        "Oranges and lemons",
         "Red meat and liver",
-        "Iodized salt and seafood"
+        "Montane forest ecosystem",
+        "Iodized salt and seafood",
+        "Oranges and lemons"
       ],
       "answer": "Iodized salt and seafood"
     },
     {
       "question": "What is the role of water in the human body?",
       "options": [
-        "It builds muscle tissue",
+        "Through direct exchange of body fluids such as blood, semen, and breast milk",
+        "To be certain that the observed effect is caused by the independent variable",
         "It acts as a solvent and transport medium for substances throughout the body",
-        "It stores genetic information",
-        "It provides energy for metabolism"
+        "To separate the nucleus from the cytoplasm and control passage of substances"
       ],
       "answer": "It acts as a solvent and transport medium for substances throughout the body"
     },
     {
       "question": "What is dietary fibre and why is it important?",
       "options": [
-        "A type of protein that builds muscles",
+        "A disease caused by disease-causing organisms that can be transmitted from person to person",
+        "They contain their own DNA and reproduce independently within the cell, similar to bacteria",
         "The indigestible part of plants that helps prevent constipation and keeps the colon healthy",
-        "A vitamin that boosts the immune system",
-        "A mineral that strengthens bones"
+        "It contains very large, multinucleated cells that challenge the definition of a single cell"
       ],
       "answer": "The indigestible part of plants that helps prevent constipation and keeps the colon healthy"
     },
     {
       "question": "A balanced diet is defined as:",
       "options": [
-        "A diet that includes only one type of food group",
+        "To provide a universal name recognized worldwide regardless of language",
         "A diet that contains all nutrients in the correct amount and proportion",
-        "A diet that contains only carbohydrates",
-        "A diet that excludes all fats"
+        "A membrane that surrounds the nucleus; it controls entry to the nucleus",
+        "The movement of particles against a concentration gradient using energy"
       ],
       "answer": "A diet that contains all nutrients in the correct amount and proportion"
     },

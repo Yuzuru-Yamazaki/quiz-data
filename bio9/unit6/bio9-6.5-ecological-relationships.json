@@ -24,12 +24,12 @@
     {
       "question": "When two or more organisms compete for the same limited resource, such as food or space, this is called:",
       "options": [
-        "Mutualism",
-        "Predation",
         "Parasitism",
-        "Competition"
+        "Competition",
+        "Tobacco use",
+        "Predation"
       ],
-      "answer": 3,
+      "answer": 1,
       "anki": true
     },
     {
@@ -79,23 +79,23 @@
     {
       "question": "In which type of symbiotic relationship does one organism benefit while the other is neither helped nor harmed?",
       "options": [
-        "Mutualism",
         "Commensalism",
+        "Robert Hooke",
         "Parasitism",
         "Predation"
       ],
-      "answer": 1,
+      "answer": 0,
       "anki": true
     },
     {
       "question": "Barnacles attaching to a whale, where the barnacles get transport and the whale is unaffected, is an example of:",
       "options": [
-        "Parasitism",
         "Commensalism",
-        "Mutualism",
-        "Predation"
+        "Predation",
+        "Parasitism",
+        "Release eggs"
       ],
-      "answer": 1,
+      "answer": 0,
       "anki": true
     },
     {
@@ -123,12 +123,12 @@
     {
       "question": "What is the correct order of a food chain starting from the energy source?",
       "options": [
-        "decomposer → producer → consumer",
-        "consumer → producer → decomposer",
-        "secondary consumer → primary consumer → producer",
-        "producer → primary consumer → secondary consumer → tertiary consumer"
+        "Subtract the objective magnification from the eyepiece magnification",
+        "Egestion removes undigested food, excretion removes metabolic wastes",
+        "producer → primary consumer → secondary consumer → tertiary consumer",
+        "Prokaryotes can be unicellular, and all eukaryotes are multicellular"
       ],
-      "answer": 3,
+      "answer": 2,
       "anki": true
     },
     {
@@ -178,10 +178,10 @@
     {
       "question": "What happens to approximately 90% of the energy at each trophic level?",
       "options": [
-        "It is passed to the next trophic level",
+        "Cells have been observed arising spontaneously in laboratories",
         "It is lost as heat, used for metabolism, or remains undigested",
-        "It is stored as fat",
-        "It is converted to light energy"
+        "To control the movement of substances into and out of the cell",
+        "A theory is a prediction, while a hypothesis is an explanation"
       ],
       "answer": 1,
       "anki": true
@@ -212,9 +212,9 @@
       "question": "In the food chain grass → grasshopper → frog → snake, the frog is a:",
       "options": [
         "Secondary consumer",
-        "Producer",
-        "Primary consumer",
-        "Tertiary consumer"
+        "Father of Genetics",
+        "Tertiary consumer",
+        "Primary consumer"
       ],
       "answer": 0,
       "anki": true
@@ -222,12 +222,12 @@
     {
       "question": "Why are food chains usually limited to 3 to 5 trophic levels?",
       "options": [
-        "Because energy decreases at each level, leaving insufficient energy beyond level 5",
-        "Because decomposers consume all remaining energy",
-        "Because there are not enough species",
-        "Because top predators live longer"
+        "Place specimen on slide, add a drop of water or stain, lower coverslip at an angle",
+        "Prokaryotes are always unicellular; eukaryotes can be unicellular or multicellular",
+        "Raised blood pressure, increased blood glucose, elevated blood lipids, and obesity",
+        "Because energy decreases at each level, leaving insufficient energy beyond level 5"
       ],
-      "answer": 0,
+      "answer": 3,
       "anki": true
     },
     {

@@ -78,10 +78,10 @@
       "anki": true,
       "question": "The main reason barley is roasted before eating is to improve",
       "options": [
-        "Flavor and digestibility",
         "Color and seed weight",
-        "Moisture and seed size",
-        "Husk and grain color"
+        "Flavor and digestibility",
+        "Fruit flies, leaf miners",
+        "Moisture and seed size"
       ],
       "correctAnswer": "Flavor and digestibility"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Barley should be harvested when the spikes are yellow to avoid",
       "options": [
+        "Invest in inputs",
         "Grain shattering",
-        "More tillering",
-        "New leaf growth",
-        "Root expansion"
+        "Root expansion",
+        "New leaf growth"
       ],
       "correctAnswer": "Grain shattering"
     },
@@ -151,9 +151,9 @@
       "question": "Barley seed is sown at 80-100 kg/ha to",
       "options": [
         "Establish good plant stand",
-        "Reduce fertilizer need",
+        "Soil does not affect yield",
         "Increase straw length",
-        "Delay crop maturity"
+        "Reduce fertilizer need"
       ],
       "correctAnswer": "Establish good plant stand"
     },
@@ -162,10 +162,10 @@
       "anki": true,
       "question": "Barley is threshed after sun drying mainly to",
       "options": [
+        "Improve straw color",
         "Reduce grain moisture",
         "Increase grain size",
-        "Improve straw color",
-        "Kill weed seeds"
+        "Reducing labor demand"
       ],
       "correctAnswer": "Reduce grain moisture"
     },

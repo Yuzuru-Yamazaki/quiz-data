@@ -61,10 +61,10 @@
       "id": 5,
       "question": "What is seafloor spreading?",
       "options": [
-        "The creation of new oceanic crust at mid-ocean ridges",
         "The destruction of crust at subduction zones",
-        "The sliding of plates past each other",
-        "The melting of continental ice sheets"
+        "Large displacements accumulate over millions of years",
+        "The creation of new oceanic crust at mid-ocean ridges",
+        "A ridge forms on land; a rift forms only in the ocean"
       ],
       "correctAnswer": "The creation of new oceanic crust at mid-ocean ridges"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "Which feature is a modern example of continental divergence?",
       "options": [
-        "The Mid-Atlantic Ridge",
+        "Abundant rainfall everywhere",
+        "The East African Rift Valley",
         "The San Andreas Fault",
-        "The Himalayan Range",
-        "The East African Rift Valley"
+        "The Mid-Atlantic Ridge"
       ],
       "correctAnswer": "The East African Rift Valley"
     },
@@ -106,9 +106,9 @@
       "question": "What happens to crust along a transform fault?",
       "options": [
         "It is neither created nor destroyed",
-        "It is completely destroyed",
-        "It is newly created",
-        "It turns into magma"
+        "Warm oceans stop atmospheric motion",
+        "It proved that continents are fixed",
+        "It is completely destroyed"
       ],
       "correctAnswer": "It is neither created nor destroyed"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What ultimately drives plate motion according to most geoscientists?",
       "options": [
-        "Ocean wave energy",
         "Convection currents in the mantle",
-        "Wind friction",
-        "The gravitational pull of the moon"
+        "Global warming happens in one day",
+        "The gravitational pull of the moon",
+        "It fixes all climates permanently"
       ],
       "correctAnswer": "Convection currents in the mantle"
     }

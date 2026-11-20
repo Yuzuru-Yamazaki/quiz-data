@@ -90,10 +90,10 @@
       "anki": true,
       "question": "In Ethiopia, maize yield per unit area is the",
       "options": [
-        "Highest among cereals",
         "Lowest among cereals",
-        "Same as teff",
-        "Same as barley"
+        "Same as barley",
+        "Highest among cereals",
+        "Manure and fertilizer"
       ],
       "correctAnswer": "Highest among cereals"
     },
@@ -104,7 +104,7 @@
       "options": [
         "Area of production",
         "Yield per hectare",
-        "Seed size",
+        "High credit access",
         "Export value"
       ],
       "correctAnswer": "Area of production"
@@ -234,10 +234,10 @@
       "anki": true,
       "question": "2,4-D is used as a",
       "options": [
-        "Post-emergence herbicide",
+        "Increasing soil moisture",
         "Pre-emergence herbicide",
-        "Fungal disease",
-        "Viral disease"
+        "Post-emergence herbicide",
+        "Fungal disease"
       ],
       "correctAnswer": "Post-emergence herbicide"
     }

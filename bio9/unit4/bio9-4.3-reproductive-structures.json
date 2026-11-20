@@ -25,10 +25,10 @@
     {
       "question": "The testes are housed in the scrotum because:",
       "options": [
-        "It is closer to the penis",
+        "Making the body defend against disease-causing organisms",
+        "To distribute heat evenly when heating a beaker or flask",
         "A lower temperature is needed for viable sperm formation",
-        "It provides protection from injury",
-        "It allows easier blood flow"
+        "A hypothesis is a proven fact, while a theory is a guess"
       ],
       "correctAnswer": "A lower temperature is needed for viable sperm formation",
       "explanation": "The scrotum suspends the testes outside the abdominal cavity, providing a slightly lower temperature required for viable sperm formation.",
@@ -37,10 +37,10 @@
     {
       "question": "Sperm are produced in which part of the testis?",
       "options": [
-        "Vas deferens",
-        "Seminiferous tubules",
         "Seminal vesicles",
-        "Epididymis"
+        "Seminiferous tubules",
+        "Bacteria and viruses",
+        "Vas deferens"
       ],
       "correctAnswer": "Seminiferous tubules",
       "explanation": "Each testis is composed of numerous seminiferous tubules in which the sperm develop.",
@@ -73,10 +73,10 @@
     {
       "question": "The urethra in males carries:",
       "options": [
-        "Only semen",
-        "Only urine",
         "Both sperm and urine",
-        "Only sperm"
+        "Heat only the bottom",
+        "Only sperm",
+        "Only urine"
       ],
       "correctAnswer": "Both sperm and urine",
       "explanation": "The vas deferens joins the urethra, a duct that carries both sperm and urinary products through the penis.",
@@ -97,10 +97,10 @@
     {
       "question": "The prostate gland produces secretions that:",
       "options": [
-        "Provide energy for sperm",
-        "Lubricate the penis",
-        "Kill bacteria in the urethra",
-        "Raise the pH of the female reproductive tract"
+        "The practice of training with heavy equipment",
+        "Raise the pH of the female reproductive tract",
+        "They remain normal — no net movement of water",
+        "Vesicles store water; vacuoles store proteins"
       ],
       "correctAnswer": "Raise the pH of the female reproductive tract",
       "explanation": "The prostate gland produces alkaline secretions that help raise the pH of the female reproductive tract, making it more hospitable to sperm.",
@@ -109,10 +109,10 @@
     {
       "question": "The bulbourethral glands secrete a fluid that:",
       "options": [
-        "Provides energy to sperm",
-        "Helps sperm penetrate the egg",
         "Lubricates the urethra and clears residual urine",
-        "Thickens the uterine lining"
+        "It is replicated to produce two identical copies",
+        "An experiment that does not require a hypothesis",
+        "Low height-for-age due to chronic undernutrition"
       ],
       "correctAnswer": "Lubricates the urethra and clears residual urine",
       "explanation": "Bulbourethral glands secrete a lubricating mucus into the urethra that helps clear residual urine.",
@@ -121,10 +121,10 @@
     {
       "question": "Semen is composed of:",
       "options": [
+        "To smother small fires or wrap around a person whose clothing is on fire",
         "Sperm mixed with secretions from the seminal vesicles and prostate gland",
-        "Only sperm",
-        "Sperm and urine",
-        "Only fluids from the prostate"
+        "A statement that describes a consistent and universal natural phenomenon",
+        "Movement of $Na^+$ ions out of a cell against the concentration gradient"
       ],
       "correctAnswer": "Sperm mixed with secretions from the seminal vesicles and prostate gland",
       "explanation": "Semen is a mix of sperm, proteins, nutrients, ions, and signalling molecules from accessory glands.",
@@ -145,10 +145,10 @@
     {
       "question": "The head of a sperm cell contains:",
       "options": [
-        "Flagellum",
-        "Mitochondria",
+        "Nourishing fluid",
         "Genetic material and enzymes",
-        "Nourishing fluid"
+        "Take home leftover chemicals",
+        "Follicular secretion hormone"
       ],
       "correctAnswer": "Genetic material and enzymes",
       "explanation": "The sperm head is packed with genetic material and covered by enzymes that help it penetrate an egg.",
@@ -157,10 +157,10 @@
     {
       "question": "The midpiece of a sperm cell contains many:",
       "options": [
-        "Mitochondria",
+        "Marine ocean",
+        "Enzymes",
         "Flagella",
-        "Nuclei",
-        "Enzymes"
+        "Mitochondria"
       ],
       "correctAnswer": "Mitochondria",
       "explanation": "The midsection contains many mitochondria that supply the energy required for flagellar movement.",
@@ -181,8 +181,8 @@
     {
       "question": "The main sex hormones produced by the ovaries are:",
       "options": [
+        "It does not require energy",
         "Testosterone and estrogen",
-        "FSH and LH",
         "Progesterone and FSH",
         "Estrogens and progesterone"
       ],
@@ -193,10 +193,10 @@
     {
       "question": "The hollow tube that connects the ovary to the uterus is the:",
       "options": [
-        "Urethra",
-        "Cervix",
-        "Vagina",
-        "Oviduct (fallopian tube)"
+        "Oviduct (fallopian tube)",
+        "It is difficult to clean",
+        "They are equally diverse",
+        "Soil disappears entirely"
       ],
       "correctAnswer": "Oviduct (fallopian tube)",
       "explanation": "Adjacent to each ovary is an oviduct, a hollow tube that connects the ovary to the uterus.",
@@ -205,10 +205,10 @@
     {
       "question": "The uterus is a hollow, pear-shaped organ that is specialized for:",
       "options": [
+        "A diet that excludes all fats",
+        "Producing hormones",
         "Housing the developing embryo",
-        "Fertilization",
-        "Producing eggs",
-        "Producing hormones"
+        "Helps sperm penetrate the egg"
       ],
       "correctAnswer": "Housing the developing embryo",
       "explanation": "The uterus is specialized for housing the embryo during its intrauterine existence.",
@@ -229,10 +229,10 @@
     {
       "question": "The vagina serves as:",
       "options": [
-        "The storage site for eggs",
+        "Preventing implantation of a fertilized ovum",
         "The organ of intercourse and the birth canal",
-        "The site of fertilization",
-        "The site of egg production"
+        "It does not show all characteristics of life",
+        "Do not mix; exchange occurs across membranes"
       ],
       "correctAnswer": "The organ of intercourse and the birth canal",
       "explanation": "The vagina extends from the cervix to the body's surface and is the organ of intercourse and the birth canal.",
@@ -241,9 +241,9 @@
     {
       "question": "The external female genitals include the:",
       "options": [
-        "Ovaries and fallopian tubes",
+        "It only moves large molecules",
         "Endometrium and myometrium",
-        "Cervix and uterus",
+        "Ovaries and fallopian tubes",
         "Labia majora and labia minora"
       ],
       "correctAnswer": "Labia majora and labia minora",
@@ -265,10 +265,10 @@
     {
       "question": "The oviducts are lined with cilia that function to:",
       "options": [
-        "Secrete hormones",
-        "Produce eggs",
+        "Evolutionary classification system",
+        "Offspring take too long to develop",
         "Propel the egg away from the ovary",
-        "Prevent sperm entry"
+        "Saprophytic or parasitic lifestyle"
       ],
       "correctAnswer": "Propel the egg away from the ovary",
       "explanation": "The uterine tubes are lined with cilia for propelling the egg away from the ovary from which it was released.",

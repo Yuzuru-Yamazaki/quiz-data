@@ -42,10 +42,10 @@
       "anki": true,
       "question": "How does user presence control compare between Augmented Reality and Virtual Reality?",
       "options": [
-        "AR users control their real presence while VR users are system-controlled",
-        "VR users control physical weather while AR users are system-controlled",
         "AR users are controlled by computer code while VR users control reality",
-        "Both AR and VR users experience complete paralysis of motor control"
+        "AR users control their real presence while VR users are system-controlled",
+        "A suite of antivirus utilities scanning desktop computers for email worms",
+        "VR users control physical weather while AR users are system-controlled"
       ],
       "correctAnswer": "AR users control their real presence while VR users are system-controlled"
     },
@@ -79,8 +79,8 @@
       "question": "Why is Augmented Reality considered partially immersive rather than fully immersive?",
       "options": [
         "Because users remain conscious and observant of their physical surroundings",
+        "Replace medical school coursework with commercial entertainment video games",
         "Because AR software shuts down after sixty seconds of continuous runtime",
-        "Because AR displays only display two-dimensional black-and-white lines",
         "Because users cannot interact with any virtual objects shown on screens"
       ],
       "correctAnswer": "Because users remain conscious and observant of their physical surroundings"

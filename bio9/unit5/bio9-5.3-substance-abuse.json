@@ -13,30 +13,30 @@
     {
       "question": "What is a drug?",
       "options": [
-        "Only illegal substances that cause hallucinations",
-        "Any substance taken into the body that changes or affects chemical reactions in the body",
-        "Any food that provides energy",
-        "Only medicines prescribed by doctors"
+        "It binds permanently with hemoglobin, reducing the amount of oxygen carried in the blood",
+        "It is the semi-fluid medium inside the nucleus that contains chromatin and the nucleolus",
+        "Place the specimen on a slide, add a drop of water, and gently lower a coverslip over it",
+        "Any substance taken into the body that changes or affects chemical reactions in the body"
       ],
       "answer": "Any substance taken into the body that changes or affects chemical reactions in the body"
     },
     {
       "question": "What is substance abuse?",
       "options": [
-        "Taking medicine as prescribed by a doctor",
+        "How organs function, how diseases develop, and how to maintain health",
         "Using legal or illegal drugs in the wrong way or in excessive amounts",
-        "Drinking only water for hydration",
-        "Eating a balanced diet"
+        "To protect the objective lens and keep the specimen flat and in place",
+        "Sampling and studying the distribution of organisms in a defined area"
       ],
       "answer": "Using legal or illegal drugs in the wrong way or in excessive amounts"
     },
     {
       "question": "Which of the following is classified as a stimulant?",
       "options": [
-        "Heroin",
+        "Cell membrane (plasma membrane)",
         "Cocaine, caffeine, and nicotine",
-        "Alcohol",
-        "Morphine"
+        "A new follicle begins to mature",
+        "A doctor who performs surgeries"
       ],
       "answer": "Cocaine, caffeine, and nicotine"
     },
@@ -83,10 +83,10 @@
     {
       "question": "What is tar?",
       "options": [
-        "A compound that causes addiction",
         "A black sticky substance found in cigarette smoke that collects in the lungs and can cause chronic bronchitis and lung cancer",
-        "A stimulant that increases heart rate",
-        "A colourless gas that binds to hemoglobin"
+        "Any substance that is eaten, drunk, or taken into the body to sustain life, provide energy, promote growth, and repair tissues",
+        "Simple diffusion moves substances through the lipid bilayer directly; facilitated diffusion uses protein channels or carriers",
+        "A disease that occurs when a person does not have enough of one particular nutrient and suffers health problems as a result"
       ],
       "answer": "A black sticky substance found in cigarette smoke that collects in the lungs and can cause chronic bronchitis and lung cancer"
     },
@@ -94,29 +94,29 @@
       "question": "What disease is caused by the accumulation of tar in the bronchioles, leading to excess mucus and breathing difficulty?",
       "options": [
         "Chronic bronchitis",
-        "Emphysema",
         "Lung cancer",
-        "Asthma"
+        "Emphysema",
+        "To measure liquids"
       ],
       "answer": "Chronic bronchitis"
     },
     {
       "question": "How does carbon monoxide from cigarette smoke affect the body?",
       "options": [
-        "It strengthens the immune system",
-        "It increases lung capacity",
-        "It stimulates the production of red blood cells",
-        "It binds permanently with hemoglobin, reducing the amount of oxygen carried in the blood"
+        "Place the specimen on a slide, add a drop of water, and gently lower a coverslip over it",
+        "It binds permanently with hemoglobin, reducing the amount of oxygen carried in the blood",
+        "Any substance taken into the body that changes or affects chemical reactions in the body",
+        "It is the semi-fluid medium inside the nucleus that contains chromatin and the nucleolus"
       ],
       "answer": "It binds permanently with hemoglobin, reducing the amount of oxygen carried in the blood"
     },
     {
       "question": "What is the role of nicotine in cigarette smoking?",
       "options": [
-        "It destroys lung tissue",
-        "It blocks oxygen transport",
-        "It causes chronic bronchitis",
-        "It is a stimulant that produces addiction"
+        "Two separate eggs fertilized by two sperm",
+        "Intracellular digestion and waste removal",
+        "It is a stimulant that produces addiction",
+        "Identifying suspects through DNA analysis"
       ],
       "answer": "It is a stimulant that produces addiction"
     },
@@ -143,20 +143,20 @@
     {
       "question": "What effect does alcohol have on the nervous system?",
       "options": [
-        "It slows down the transmission of nerve impulses",
         "It has no effect on the nervous system",
-        "It speeds up nerve impulses",
-        "It improves coordination"
+        "It slows down the transmission of nerve impulses",
+        "Lubricates the urethra and clears residual urine",
+        "To hold and support apparatus during experiments"
       ],
       "answer": "It slows down the transmission of nerve impulses"
     },
     {
       "question": "Long-term heavy consumption of alcohol can lead to which liver condition?",
       "options": [
-        "Hepatitis A",
-        "Liver cancer",
         "Fatty liver disease only",
-        "Cirrhosis (scarring of the liver)"
+        "Involves complex gamete formation",
+        "Cirrhosis (scarring of the liver)",
+        "Cells can be created artificially"
       ],
       "answer": "Cirrhosis (scarring of the liver)"
     },
@@ -183,10 +183,10 @@
     {
       "question": "What is the psychoactive component in cannabis?",
       "options": [
-        "Cathinone",
-        "Tetrahydrocannabinol (THC)",
-        "Nicotine",
-        "Caffeine"
+        "The medium power objective",
+        "Wash your hands thoroughly",
+        "Through contaminated water",
+        "Tetrahydrocannabinol (THC)"
       ],
       "answer": "Tetrahydrocannabinol (THC)"
     },
@@ -194,9 +194,9 @@
       "question": "What is doping in sports?",
       "options": [
         "The use of prohibited medications, drugs, or treatments to improve athletic performance",
-        "A diet plan for athletes",
-        "The use of legal supplements approved by sports authorities",
-        "The practice of training with heavy equipment"
+        "It binds permanently with hemoglobin, reducing the amount of oxygen carried in the blood",
+        "It is the semi-fluid medium inside the nucleus that contains chromatin and the nucleolus",
+        "A woman's temperature rises by about 0.5 degrees Celsius during or soon after ovulation"
       ],
       "answer": "The use of prohibited medications, drugs, or treatments to improve athletic performance"
     },
@@ -213,20 +213,20 @@
     {
       "question": "Which of the following is a consequence of drug addiction?",
       "options": [
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
         "Financial problems, family breakdown, and loss of job",
-        "Increased productivity at work",
-        "Improved physical health",
-        "Better social relationships"
+        "Lactobacillus (a bacterium used in yogurt production)",
+        "It could break the slide or damage the objective lens"
       ],
       "answer": "Financial problems, family breakdown, and loss of job"
     },
     {
       "question": "Khat chewing can lead to which health problem?",
       "options": [
-        "Stronger teeth",
-        "Improved digestion",
+        "They show none of the characteristics of life",
         "Gastritis, peptic ulcer, and loss of appetite",
-        "Better eyesight"
+        "Protect endangered species and their habitats",
+        "They are the only foods available in Ethiopia"
       ],
       "answer": "Gastritis, peptic ulcer, and loss of appetite"
     },

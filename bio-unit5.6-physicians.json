@@ -25,10 +25,10 @@
       "id": 2,
       "question": "What was Prof. Asrat Woldeyes described as?",
       "options": [
-        "The first distinguished Ethiopian physician",
-        "The first distinguished Ethiopian pediatrician",
-        "The first distinguished Ethiopian cardiologist",
-        "The first distinguished Ethiopian surgeon and professor of medicine"
+        "Proximal convoluted tubule, loop of Henle, distal convoluted tubule",
+        "The first distinguished Ethiopian surgeon and professor of medicine",
+        "Cellulose fibres that run in different directions to boost strength",
+        "Mostly brightly coloured to attract pollinating agents like insects"
       ],
       "correctAnswer": "The first distinguished Ethiopian surgeon and professor of medicine"
     },
@@ -47,8 +47,8 @@
       "id": 4,
       "question": "Where is Edinburgh University located?",
       "options": [
+        "5 litres",
         "Scotland",
-        "Wales",
         "England",
         "Ireland"
       ],
@@ -69,9 +69,9 @@
       "id": 6,
       "question": "Where did Prof. Asrat Woldeyes spend most of his surgical career?",
       "options": [
-        "European hospitals",
-        "Addis Ababa's two main hospitals",
+        "The tip did not respond to light",
         "Rural Ethiopian hospitals",
+        "Addis Ababa's two main hospitals",
         "Hospitals in northern Ethiopia"
       ],
       "correctAnswer": "Addis Ababa's two main hospitals"
@@ -81,9 +81,9 @@
       "question": "At which university was Prof. Asrat Woldeyes a professor of medicine?",
       "options": [
         "Gondar University",
-        "Haramaya University",
         "Addis Ababa University",
-        "Jimma University"
+        "The color of organisms",
+        "Haramaya University"
       ],
       "correctAnswer": "Addis Ababa University"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "Where was Dr. Widad KidaneMariam born?",
       "options": [
-        "Sudan",
+        "Palestine",
         "Ethiopia",
         "Lebanon",
-        "Palestine"
+        "No effect"
       ],
       "correctAnswer": "Palestine"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "During what event was Dr. Widad KidaneMariam born in Palestine?",
       "options": [
-        "The Italian occupation of Ethiopia",
-        "World War I",
-        "The British mandate",
-        "The Arab-Israeli war"
+        "It is polar and dissolves in water",
+        "Energy required to freeze a liquid",
+        "Because ammonium is more available",
+        "The Italian occupation of Ethiopia"
       ],
       "correctAnswer": "The Italian occupation of Ethiopia"
     },
@@ -135,10 +135,10 @@
       "id": 12,
       "question": "At which university did Dr. Widad KidaneMariam study medicine?",
       "options": [
-        "American University of Beirut",
-        "University of Khartoum",
         "Addis Ababa University",
-        "Cairo University"
+        "Only from underground springs",
+        "University of Khartoum",
+        "American University of Beirut"
       ],
       "correctAnswer": "American University of Beirut"
     },
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "The American University of Beirut is located in which country?",
       "options": [
+        "Mitosis",
+        "Jordan",
         "Lebanon",
-        "Egypt",
-        "Syria",
-        "Jordan"
+        "Syria"
       ],
       "correctAnswer": "Lebanon"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What significant first did Dr. Widad KidaneMariam achieve?",
       "options": [
-        "First female medical practitioner in Ethiopia",
-        "First female professor in Ethiopia",
         "First female hospital director in Ethiopia",
-        "First female surgeon in Ethiopia"
+        "Anatomy, Pathology, Physiology, and Neurology",
+        "First female medical practitioner in Ethiopia",
+        "First female professor in Ethiopia"
       ],
       "correctAnswer": "First female medical practitioner in Ethiopia"
     },
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "What position did Dr. Widad KidaneMariam hold in the Ministry of Health?",
       "options": [
+        "In waterlogged soils (anoxic), layers of sediments in lakes and oceans",
+        "Chemotherapy, sometimes followed by radiation and stem-cell transplant",
         "Topmost physician administrator in charge of medical services division",
-        "Director of Nursing",
-        "Minister of Health",
-        "Head of Pharmacy"
+        "Addition of excessive $CO_2$ into the atmosphere due to human activity"
       ],
       "correctAnswer": "Topmost physician administrator in charge of medical services division"
     },
@@ -201,10 +201,10 @@
       "id": 18,
       "question": "For which organization did Dr. Widad KidaneMariam volunteer as the first Ethiopian gynecologist?",
       "options": [
-        "World Health Organization",
-        "Red Cross",
         "Doctors Without Borders",
-        "Swedish Save the Children Fund"
+        "Both ends face the ion equally",
+        "Swedish Save the Children Fund",
+        "World Health Organization"
       ],
       "correctAnswer": "Swedish Save the Children Fund"
     },
@@ -213,9 +213,9 @@
       "question": "What association did Dr. Widad KidaneMariam help establish as a founding organizer?",
       "options": [
         "First Ethiopian Family Planning Association",
-        "Ethiopian Medical Association",
-        "Ethiopian Red Cross Society",
-        "Ethiopian Nurses Association"
+        "When lung pressure is less than atmospheric",
+        "A complex web of interconnected food chains",
+        "A cycle involving only biological processes"
       ],
       "correctAnswer": "First Ethiopian Family Planning Association"
     },
@@ -223,10 +223,10 @@
       "id": 20,
       "question": "For whom did Dr. Widad KidaneMariam organize Maternal and Child services?",
       "options": [
+        "A flower that has only sepals and petals",
+        "Stretch, greatly increasing surface area",
         "The homeless in Addis Ababa Municipality",
-        "University students",
-        "Government employees",
-        "Rural communities"
+        "They do not exist in significant numbers"
       ],
       "correctAnswer": "The homeless in Addis Ababa Municipality"
     },
@@ -234,10 +234,10 @@
       "id": 21,
       "question": "In which city municipality did Dr. Widad KidaneMariam establish Maternal and Child services for the homeless?",
       "options": [
-        "Dire Dawa",
         "Bahir Dar",
-        "Addis Ababa",
-        "Gondar"
+        "Repair them",
+        "Dire Dawa",
+        "Addis Ababa"
       ],
       "correctAnswer": "Addis Ababa"
     },
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "The history of medicine in Ethiopia begins much earlier and the number of physicians has increased over time. What are Prof. Asrat Woldeyes and Dr. Widad KidaneMariam described as?",
       "options": [
-        "Founders of Ethiopian medicine",
-        "Foreign-trained Ethiopian doctors",
-        "The only Ethiopian doctors of their time",
-        "Two of the most renowned pioneer Ethiopian physicians"
+        "A rare condition caused by abnormal copper metabolism",
+        "The movement of chromosomes during cell division only",
+        "Two of the most renowned pioneer Ethiopian physicians",
+        "Evaporation of sweat uses latent heat of vaporization"
       ],
       "correctAnswer": "Two of the most renowned pioneer Ethiopian physicians"
     }

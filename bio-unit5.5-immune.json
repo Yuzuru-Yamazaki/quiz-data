@@ -14,10 +14,10 @@
       "id": 1,
       "question": "How is immunity defined?",
       "options": [
-        "The body's ability to produce hormones",
-        "The body's ability to circulate blood",
-        "The body's ability to digest food",
-        "The body's ability to prevent the invasion of pathogens"
+        "In the cytoplasm of other cells and extracellular fluid",
+        "The body's ability to prevent the invasion of pathogens",
+        "It grows and starts the cycle the mother cell underwent",
+        "Podocarpus falcatus (Zigba) and Juniperus procera (Tid)"
       ],
       "correctAnswer": "The body's ability to prevent the invasion of pathogens"
     },
@@ -25,10 +25,10 @@
       "id": 2,
       "question": "Against what types of organisms does the immune system defend?",
       "options": [
-        "Only parasites",
-        "Only viruses",
-        "Only bacteria",
-        "Viruses, bacteria, fungal infections, and parasites"
+        "The type of ecosystem and the particular food chain",
+        "No, plants cannot directly use atmospheric nitrogen",
+        "Viruses, bacteria, fungal infections, and parasites",
+        "Xylem and phloem arranged in a ring around the pith"
       ],
       "correctAnswer": "Viruses, bacteria, fungal infections, and parasites"
     },
@@ -47,10 +47,10 @@
       "id": 4,
       "question": "What are the two types of immune systems?",
       "options": [
-        "Specific and non-specific",
-        "Innate and adaptive (acquired)",
         "Natural and artificial",
-        "Active and passive"
+        "Cough and difficulty breathing",
+        "Innate and adaptive (acquired)",
+        "Specific and non-specific"
       ],
       "correctAnswer": "Innate and adaptive (acquired)"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "What type of lines of defense does innate immunity have?",
       "options": [
+        "Tap-roots and fibrous roots",
         "Non-specific and changing",
-        "Specific and unchanging",
         "Non-specific and unchanging",
-        "Specific and changing"
+        "Specific and unchanging"
       ],
       "correctAnswer": "Non-specific and unchanging"
     },
@@ -114,9 +114,9 @@
       "question": "What specialized cells identify and remove foreign compounds found in organs, tissues, blood, and lymph?",
       "options": [
         "White blood cells",
+        "Red blood cells",
         "Epithelial cells",
-        "Platelets",
-        "Red blood cells"
+        "Blood transfusion"
       ],
       "correctAnswer": "White blood cells"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "When is adaptive (acquired) immunity formed?",
       "options": [
+        "A field of science used to study ecosystems",
         "After an initial reaction to a new pathogen",
-        "At birth",
-        "Only after age 5",
-        "Before birth"
+        "Cost effective, non-toxic, and eco-friendly",
+        "A cycle involving only biological processes"
       ],
       "correctAnswer": "After an initial reaction to a new pathogen"
     },
@@ -135,10 +135,10 @@
       "id": 12,
       "question": "What is vaccination based on?",
       "options": [
-        "Acquired immunity",
+        "Large and central",
         "Passive immunity",
-        "Natural immunity",
-        "Innate immunity"
+        "Acquired immunity",
+        "Natural immunity"
       ],
       "correctAnswer": "Acquired immunity"
     },
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "What is the process through which signature antibodies or T cell receptors remember each infection called?",
       "options": [
-        "Immune tolerance",
+        "A bone in the larynx",
+        "Immune activation",
         "Immunological memory",
-        "Immune suppression",
-        "Immune activation"
+        "Immune suppression"
       ],
       "correctAnswer": "Immunological memory"
     },
@@ -267,10 +267,10 @@
       "id": 24,
       "question": "What type of cell is a phagocyte?",
       "options": [
-        "A cell that presents antigens",
+        "The higher the $pH$, the lower the hydrogen ion concentration",
         "A cell that engulfs and digests cellular debris and pathogens",
-        "A cell that produces antibodies",
-        "A cell that produces hormones"
+        "Using what you have learned in biology for practical purposes",
+        "A common condition in individuals with an iron-deficient diet"
       ],
       "correctAnswer": "A cell that engulfs and digests cellular debris and pathogens"
     },
@@ -278,10 +278,10 @@
       "id": 25,
       "question": "What chemical signal causes neutrophils to be promptly recruited to the site of injury or infection?",
       "options": [
-        "Lymphokine",
         "Interleukin-8",
+        "Heart failure",
         "Histamine",
-        "Cytokine"
+        "Lymphokine"
       ],
       "correctAnswer": "Interleukin-8"
     },
@@ -289,10 +289,10 @@
       "id": 26,
       "question": "Where are neutrophils ordinarily located?",
       "options": [
-        "Bone marrow",
-        "Tissues",
         "Lymph nodes",
-        "The bloodstream"
+        "Ischemic stroke",
+        "The bloodstream",
+        "Bone marrow"
       ],
       "correctAnswer": "The bloodstream"
     },
@@ -300,10 +300,10 @@
       "id": 27,
       "question": "Macrophages play a role in which immune systems?",
       "options": [
-        "Neither",
-        "Only innate",
         "Only adaptive",
-        "Both innate and adaptive"
+        "Both innate and adaptive",
+        "It makes water insoluble",
+        "Proteins and sugars only"
       ],
       "correctAnswer": "Both innate and adaptive"
     },
@@ -312,9 +312,9 @@
       "question": "What are targets of macrophages?",
       "options": [
         "Foreign chemicals, pathogenic bacteria, and cancer cells",
-        "Only bacteria",
-        "Only fungi",
-        "Only viruses"
+        "They may not securely anchor themselves like other cells",
+        "They might not be able to communicate with healthy cells",
+        "Food storage and help in internal translocation of water"
       ],
       "correctAnswer": "Foreign chemicals, pathogenic bacteria, and cancer cells"
     },
@@ -322,10 +322,10 @@
       "id": 29,
       "question": "What cells do macrophages stimulate to respond to pathogens?",
       "options": [
-        "Red blood cells",
-        "Skin cells",
-        "Platelets",
-        "Lymphocytes and other immune cells"
+        "First female professor in Ethiopia",
+        "Lymphocytes and other immune cells",
+        "Complex organic matter is built up",
+        "Both biotic and abiotic components"
       ],
       "correctAnswer": "Lymphocytes and other immune cells"
     },
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "What type of cells serve as intermediaries between the innate and adaptive immune systems?",
       "options": [
-        "B cells",
+        "Dendritic cells",
         "Macrophages",
         "Neutrophils",
-        "Dendritic cells"
+        "The same number"
       ],
       "correctAnswer": "Dendritic cells"
     },
@@ -344,10 +344,10 @@
       "id": 31,
       "question": "Where are dendritic cells frequently found?",
       "options": [
-        "In bone marrow",
+        "Commercial fertilizers or other chemicals",
+        "Accumulation of mucus due to slowed cilia",
         "In tissues that contact the outside world",
-        "In the bloodstream",
-        "In the thymus"
+        "Concentrated nitric acid followed by NaOH"
       ],
       "correctAnswer": "In tissues that contact the outside world"
     },
@@ -377,10 +377,10 @@
       "id": 34,
       "question": "What is another name for antibodies?",
       "options": [
-        "Antigens",
+        "Lymphokines",
+        "The centrosomes",
         "Immunoglobulins",
-        "Cytokines",
-        "Lymphokines"
+        "Cytokines"
       ],
       "correctAnswer": "Immunoglobulins"
     },

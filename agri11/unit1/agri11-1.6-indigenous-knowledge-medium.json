@@ -54,10 +54,10 @@
       "anki": true,
       "question": "The Gumuz view natural resources as sources of livelihood for",
       "options": [
-        "Past, present and future generations",
+        "Crop diversity across the whole farm",
         "Only the present generation of local people",
-        "Only past generations",
-        "Only future generations"
+        "Past, present and future generations",
+        "Replace all rainfall with irrigation"
       ],
       "correctAnswer": "Past, present and future generations"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "Konso irrigation supplements",
       "options": [
+        "Coconut, wheat and rice grain crops",
         "Unpredictable and variable rainfall",
-        "Fertilizer application by the local farmers",
-        "Improved seed supply",
-        "Farm machinery use"
+        "More fertile soils over a long time",
+        "Fertilizer application by the local farmers"
       ],
       "correctAnswer": "Unpredictable and variable rainfall"
     },
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "Moving barns between farmlands helps Gondar farmers obtain",
       "options": [
-        "Cow dung for fertilizer",
+        "Wood for construction",
         "Water for irrigation",
-        "Fodder for animals",
-        "Wood for construction"
+        "Imported frost blankets",
+        "Cow dung for fertilizer"
       ],
       "correctAnswer": "Cow dung for fertilizer"
     },
@@ -115,9 +115,9 @@
       "question": "Smoke is used to reduce frost damage in",
       "options": [
         "Highland areas",
-        "Lowland areas",
         "Coastal areas",
-        "Desert areas"
+        "Lowland areas",
+        "Building stone"
       ],
       "correctAnswer": "Highland areas"
     },
@@ -138,9 +138,9 @@
       "anki": true,
       "question": "Communities understand their environment through",
       "options": [
+        "Parasitizes the crop roots",
         "Observation and experience",
         "Laboratory experiments",
-        "Formal textbooks",
         "Government reports"
       ],
       "correctAnswer": "Observation and experience"
@@ -150,9 +150,9 @@
       "anki": true,
       "question": "The Gumuz belief that resources are a blessing of Yamba shows",
       "options": [
+        "A commercial market view in the situation de",
         "A cultural relationship with nature",
-        "A formal scientific management model of nature",
-        "A commercial market view",
+        "A formal scientific management model of natu",
         "An industrial production view"
       ],
       "correctAnswer": "A cultural relationship with nature"
@@ -162,10 +162,10 @@
       "anki": true,
       "question": "Trenches around potato plots in Bale respond to",
       "options": [
-        "Wild animal damage",
-        "Soil salinity",
         "Weed competition",
-        "Seed shortage"
+        "Seed shortage",
+        "Wild animal damage",
+        "Crop residues only"
       ],
       "correctAnswer": "Wild animal damage"
     },
@@ -175,9 +175,9 @@
       "question": "Indigenous knowledge often addresses",
       "options": [
         "Small landholdings and social settings",
+        "Traditional methods with draft animals",
         "Very large commercial farming estates only",
-        "National export targets",
-        "International markets"
+        "Producing only crops for household use"
       ],
       "correctAnswer": "Small landholdings and social settings"
     }

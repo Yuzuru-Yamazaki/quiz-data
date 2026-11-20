@@ -26,10 +26,10 @@
     {
       "question": "What process do producers use to trap solar energy?",
       "options": [
-        "Decomposition",
+        "Squamous cells",
         "Transpiration",
         "Photosynthesis",
-        "Respiration"
+        "Decomposition"
       ],
       "correctAnswer": "Photosynthesis",
       "id": 2
@@ -48,10 +48,10 @@
     {
       "question": "Which of the following can be recycled within an ecosystem?",
       "options": [
-        "Energy",
-        "Heat energy",
-        "Solar radiation",
-        "Nutrients in food (organic matter)"
+        "When the cell membrane breaks down",
+        "It catalyzes biochemical reactions",
+        "Nutrients in food (organic matter)",
+        "A living organism's genetic makeup"
       ],
       "correctAnswer": "Nutrients in food (organic matter)",
       "id": 4
@@ -59,10 +59,10 @@
     {
       "question": "How do nutrients in food behave in an ecosystem?",
       "options": [
-        "They only flow in one direction",
+        "Duplicated genetic materials of the mother cell",
+        "Synthesis of haemoglobin, collagen, and elastin",
         "They are used once and lost forever",
-        "They recycle and are reused over and over again",
-        "They are destroyed after use"
+        "They recycle and are reused over and over again"
       ],
       "correctAnswer": "They recycle and are reused over and over again",
       "id": 5
@@ -70,10 +70,10 @@
     {
       "question": "What two processes result in the recycling of nutrients in an ecosystem?",
       "options": [
-        "Photosynthesis and respiration",
-        "Evaporation and condensation",
+        "The stage of cell division where chromosomes separate",
         "Composition (synthesis) and decomposition (breakdown)",
-        "Nitrogen fixation and denitrification"
+        "The movement of chromosomes during cell division only",
+        "Evaporation of sweat uses latent heat of vaporization"
       ],
       "correctAnswer": "Composition (synthesis) and decomposition (breakdown)",
       "id": 6
@@ -81,10 +81,10 @@
     {
       "question": "What do plants synthesize from simple inorganic matter?",
       "options": [
-        "Water",
-        "Food (organic matter)",
-        "Minerals",
-        "Carbon dioxide"
+        "Fleshy and store food",
+        "Carbon dioxide",
+        "The genetic parentage",
+        "Food (organic matter)"
       ],
       "correctAnswer": "Food (organic matter)",
       "id": 7
@@ -93,9 +93,9 @@
       "question": "Which organisms obtain energy by breaking down organic matter from dead producers and consumers?",
       "options": [
         "Fungi and other decomposers",
-        "Carnivores",
-        "Producers",
-        "Herbivores"
+        "When blood pressure is high",
+        "In the large intestine only",
+        "Several pieces of cartilage"
       ],
       "correctAnswer": "Fungi and other decomposers",
       "id": 8
@@ -103,9 +103,9 @@
     {
       "question": "What key nutrients do decomposers return to the soil?",
       "options": [
-        "Only oxygen",
-        "Only carbon",
+        "An increase in rainfall",
         "Only phosphorus",
+        "Only carbon",
         "Nutrients like nitrogen"
       ],
       "correctAnswer": "Nutrients like nitrogen",
@@ -114,10 +114,10 @@
     {
       "question": "As energy flows from one trophic level to the next, what happens to the amount of energy?",
       "options": [
-        "It doubles",
+        "It stays the same",
         "It successively declines",
         "It increases",
-        "It stays the same"
+        "Only sexual reproduction"
       ],
       "correctAnswer": "It successively declines",
       "id": 10
@@ -136,10 +136,10 @@
     {
       "question": "What happens to about 90% of the energy in grass that a cow eats?",
       "options": [
+        "Chemotherapy, sometimes followed by radiation and stem-cell transplant",
         "It is lost as heat, used for activities, or removed as undigested food",
-        "It is passed to the next consumer",
-        "It is converted to muscle",
-        "It is stored as fat"
+        "It will die because of disruption of food transport through the phloem",
+        "Addition of excessive $CO_2$ into the atmosphere due to human activity"
       ],
       "correctAnswer": "It is lost as heat, used for activities, or removed as undigested food",
       "id": 12
@@ -169,10 +169,10 @@
     {
       "question": "What is an ecological pyramid?",
       "options": [
-        "A method of farming",
-        "A type of food chain",
-        "A physical structure built in ecosystems",
-        "A graphical representation of feeding relationships in the form of a pyramid"
+        "Thin-walled oval or rounded loosely arranged cells with intercellular spaces",
+        "A graphical representation of feeding relationships in the form of a pyramid",
+        "To kill the cells and stop metabolic activity, and to break down the cuticle",
+        "It insulates the water beneath and minimizes freezing of large water amounts"
       ],
       "correctAnswer": "A graphical representation of feeding relationships in the form of a pyramid",
       "id": 15
@@ -181,9 +181,9 @@
       "question": "What is used to construct an ecological pyramid?",
       "options": [
         "Horizontal bars",
-        "Circles",
+        "Triangles only",
         "Vertical lines",
-        "Triangles only"
+        "Reducing sugars"
       ],
       "correctAnswer": "Horizontal bars",
       "id": 16
@@ -191,10 +191,10 @@
     {
       "question": "What does each horizontal bar in an ecological pyramid represent?",
       "options": [
-        "The amount of sunlight",
-        "A different ecosystem",
         "Organisms of a specific trophic level",
-        "A single organism"
+        "It helps them locate mineral deposits",
+        "Carbon, nitrogen, and phosphorus only",
+        "DNA replication and protein synthesis"
       ],
       "correctAnswer": "Organisms of a specific trophic level",
       "id": 17
@@ -224,9 +224,9 @@
     {
       "question": "Which trophic level is at the top of an ecological pyramid?",
       "options": [
+        "Aorta, vena cava, venules",
         "The highest trophic level",
-        "Producers",
-        "Decomposers",
+        "Plant and animal fixation",
         "Primary consumers"
       ],
       "correctAnswer": "The highest trophic level",
@@ -235,10 +235,10 @@
     {
       "question": "How many types of ecological pyramids are there?",
       "options": [
+        "0.04%",
         "Five",
-        "Four",
         "Three",
-        "Two"
+        "Four"
       ],
       "correctAnswer": "Three",
       "id": 21
@@ -257,10 +257,10 @@
     {
       "question": "The pyramid of energy is always which shape?",
       "options": [
-        "Irregular",
-        "Inverted",
-        "Spherical",
-        "Upright and narrowing sharply from base to top"
+        "Passively (without spending additional energy)",
+        "Upright and narrowing sharply from base to top",
+        "It has had minimal impact on genetics research",
+        "They descended over time from common ancestors"
       ],
       "correctAnswer": "Upright and narrowing sharply from base to top",
       "id": 23
@@ -268,10 +268,10 @@
     {
       "question": "Why is the pyramid of energy always upright?",
       "options": [
+        "Due to the difficulty of isolating a single microscopic species",
         "Because there is commonly 90% energy loss at each trophic level",
-        "Because energy increases at each level",
-        "Because producers have less energy",
-        "Because consumers produce energy"
+        "Excessive use of synthetic N fertilizer in agricultural systems",
+        "It helps protein synthesis by providing a source of amino acids"
       ],
       "correctAnswer": "Because there is commonly 90% energy loss at each trophic level",
       "id": 24
@@ -291,9 +291,9 @@
       "question": "What is biomass?",
       "options": [
         "The weight of living organic matter contained or assimilated to the body of an organism per unit time",
-        "The total number of organisms",
-        "The amount of water in an organism",
-        "The total energy of an organism"
+        "It is taken up by plant roots and much of it flows into oceans or infiltrates the soil as groundwater",
+        "Their ability to move from one place to another and their characteristics as herbs, shrubs, and trees",
+        "In the form of fertilizers obtained by mining phosphate rocks and applying them in agricultural lands"
       ],
       "correctAnswer": "The weight of living organic matter contained or assimilated to the body of an organism per unit time",
       "id": 26
@@ -301,10 +301,10 @@
     {
       "question": "What does the length of the bar in an ecological pyramid show?",
       "options": [
-        "The speed of energy transfer",
-        "The size of individual organisms",
+        "Skeletal muscle action, respiratory movement, and smooth muscle contraction",
         "The amount of energy, biomass, or number of organisms at each trophic level",
-        "The age of organisms"
+        "A swelling due to accumulation of food materials translocated from the leaf",
+        "Energy (instantly liberates energy) needed for various activities of a cell"
       ],
       "correctAnswer": "The amount of energy, biomass, or number of organisms at each trophic level",
       "id": 27
@@ -323,9 +323,9 @@
     {
       "question": "What determines whether a pyramid of biomass or number is upright or inverted?",
       "options": [
-        "The temperature",
-        "The color of organisms",
-        "The season",
+        "The side chain that varies in different amino acids",
+        "They kill the host organism by causing cytotoxicity",
+        "A flower that does not have either stamen or pistil",
         "The type of ecosystem and the particular food chain"
       ],
       "correctAnswer": "The type of ecosystem and the particular food chain",
@@ -337,7 +337,7 @@
         "Chlorella (green algae)",
         "Tilapia (fish)",
         "Daphnia (zooplankton)",
-        "Water plants"
+        "They produce more mucus"
       ],
       "correctAnswer": "Chlorella (green algae)",
       "id": 30
@@ -367,10 +367,10 @@
     {
       "question": "In the idealized pyramid of energy in Figure 6.5, how much sunlight energy is shown at the base?",
       "options": [
-        "100,000 J",
         "1,000,000 J",
-        "10,000 J",
-        "1,000 J"
+        "100,000 J",
+        "Hard palate",
+        "10,000 J"
       ],
       "correctAnswer": "1,000,000 J",
       "id": 33
@@ -378,10 +378,10 @@
     {
       "question": "Why is the number of trophic levels usually limited to 3 or 4?",
       "options": [
-        "Because there is no more space in the ecosystem",
-        "Because predators eat all prey",
-        "Because energy decreases at each level and eventually insufficient energy remains",
-        "Because organisms cannot survive longer"
+        "Environmental observation and finding solutions to maintain the balance of nature",
+        "By processes that continuously take it from and release it back to the atmosphere",
+        "The application of the knowledge of biological science to criminal and civil laws",
+        "Because energy decreases at each level and eventually insufficient energy remains"
       ],
       "correctAnswer": "Because energy decreases at each level and eventually insufficient energy remains",
       "id": 34
@@ -400,10 +400,10 @@
     {
       "question": "Ecological pyramids can also be constructed to represent which two other aspects at each trophic level?",
       "options": [
+        "Speed and strength",
         "Biomass or number of organisms",
-        "Age and sex",
-        "Color and size",
-        "Speed and strength"
+        "Long chains of repeating units",
+        "An animal that feeds on plants"
       ],
       "correctAnswer": "Biomass or number of organisms",
       "id": 36
@@ -413,8 +413,8 @@
       "options": [
         "Decomposers",
         "Plants (producers)",
-        "Herbivores",
-        "Carnivores"
+        "Carnivores",
+        "Ethiopian wildlife"
       ],
       "correctAnswer": "Plants (producers)",
       "id": 37
@@ -423,9 +423,9 @@
       "question": "What happens to energy that is not assimilated as biomass when a herbivore eats a producer?",
       "options": [
         "It is lost as heat and used for activities",
-        "It multiplies",
-        "It returns to the producer",
-        "It is stored indefinitely"
+        "Ascending, transverse, descending, sigmoid",
+        "T cells, B cells, and natural killer cells",
+        "Expensive and harmful chemical fertilizers"
       ],
       "correctAnswer": "It is lost as heat and used for activities",
       "id": 38

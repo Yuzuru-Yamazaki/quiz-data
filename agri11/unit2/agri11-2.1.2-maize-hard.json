@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Why can maize remain in the field longer than wheat?",
       "options": [
-        "It stays on the cob",
-        "It has no husk",
+        "It needs no drying",
+        "Omasum and abomasum",
         "It matures earlier",
-        "It needs no drying"
+        "It stays on the cob"
       ],
       "correctAnswer": "It stays on the cob"
     },
@@ -42,10 +42,10 @@
       "anki": true,
       "question": "Planting maize at 75 cm between rows and 25 cm within rows describes",
       "options": [
+        "Seed rate only",
         "Planting spacing",
-        "Planting depth",
-        "Fertilizer rate",
-        "Seed rate only"
+        "Feeds the family",
+        "Fertilizer rate"
       ],
       "correctAnswer": "Planting spacing"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Harvesting maize at 25% moisture and drying to 13% aims to",
       "options": [
+        "Mineral content only",
+        "Reduce plant height",
         "Improve storage life",
-        "Increase seed size",
-        "Improve husk color",
-        "Reduce plant height"
+        "Improve husk color"
       ],
       "correctAnswer": "Improve storage life"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "Which herbicide timing is correct?",
       "options": [
-        "Atrazine before weed emergence",
         "Atrazine after weed emergence",
+        "Perennials harvested once only",
         "2,4-D before weed emergence",
-        "2,4-D at maize harvest"
+        "Atrazine before weed emergence"
       ],
       "correctAnswer": "Atrazine before weed emergence"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Maize is mixed with haricot bean mainly because the legume can",
       "options": [
-        "Improve soil nitrogen",
         "Shade the maize crop",
+        "Improve soil nitrogen",
         "Reduce maize height",
-        "Attract more pests"
+        "Rough cloddy seed bed"
       ],
       "correctAnswer": "Improve soil nitrogen"
     },
@@ -139,8 +139,8 @@
       "question": "Maize leads in yield per unit area but ranks second in",
       "options": [
         "Production area",
+        "High irrigation",
         "Market price",
-        "Seed size",
         "Labor demand"
       ],
       "correctAnswer": "Production area"

@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Why do boreal forests enhance warming at high latitudes?",
       "options": [
+        "It explains rock ages and fossil distribution patterns",
+        "Most conclusive data came from the Southern Hemisphere",
         "They absorb more solar energy than snow-covered tundra",
-        "They reflect more sunlight than snow",
-        "They produce no carbon dioxide",
-        "They prevent all decomposition"
+        "Protecting forests, soils and oceans that store carbon"
       ],
       "correctAnswer": "They absorb more solar energy than snow-covered tundra"
     },
@@ -28,9 +28,9 @@
       "id": 2,
       "question": "How much more solar energy can boreal forests absorb than snow-covered tundra?",
       "options": [
-        "Up to ten times less",
         "Up to three times as much",
         "Exactly the same amount",
+        "Farming without any water",
         "Up to one third as much"
       ],
       "correctAnswer": "Up to three times as much"
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "How can warming create a feedback loop through soil?",
       "options": [
-        "Frozen soil becomes permanent",
-        "Soil stops holding any nutrients",
         "Faster decomposition releases more carbon dioxide into the air",
-        "Roots stop absorbing water"
+        "A fracture forms and one limb is pushed forward over the other",
+        "It shows a long-term rise in global land and ocean temperature",
+        "Warming is small in any year and significant only over decades"
       ],
       "correctAnswer": "Faster decomposition releases more carbon dioxide into the air"
     },
@@ -62,9 +62,9 @@
       "question": "How does warming affect rainfall in lower latitudes?",
       "options": [
         "More frequent droughts and unpredictable rainfall",
-        "Perfectly uniform rainfall",
-        "Permanent rainfall all year",
-        "A complete halt to precipitation"
+        "Adaptation that takes place before impacts appear",
+        "A cooler, darker magnetic storm region on the Sun",
+        "Whether greenhouse gas emissions continue to rise"
       ],
       "correctAnswer": "More frequent droughts and unpredictable rainfall"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Why can intense rainfall stress agriculture even when annual totals are unchanged?",
       "options": [
-        "Rain becomes gentler and more frequent",
-        "Rain falls in heavier spells with longer dry periods",
-        "Rain stops entirely in winter",
-        "Rainfall becomes snow everywhere"
+        "Through emerging diseases and changes in food supply",
+        "The direction of their relative motion at the margin",
+        "Climate is measured in hours; weather over centuries",
+        "Rain falls in heavier spells with longer dry periods"
       ],
       "correctAnswer": "Rain falls in heavier spells with longer dry periods"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What causes the remaining half of sea level rise besides melting ice?",
       "options": [
-        "Growth of coral reefs",
+        "Tectonic uplift of continents",
         "River sediment deposition",
-        "Expansion of oceans as they warm",
-        "Tectonic uplift of continents"
+        "A change in one city for one day",
+        "Expansion of oceans as they warm"
       ],
       "correctAnswer": "Expansion of oceans as they warm"
     },
@@ -106,9 +106,9 @@
       "question": "How can sea level rise affect coastal groundwater?",
       "options": [
         "Saltwater can contaminate freshwater supplies",
-        "Groundwater becomes fresher",
-        "Groundwater disappears entirely",
-        "Groundwater turns into magma"
+        "Species respond after conditions have changed",
+        "They showed the continents evolved separately",
+        "It extends beneath part of the Atlantic Ocean"
       ],
       "correctAnswer": "Saltwater can contaminate freshwater supplies"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What might happen to Arctic summer sea ice by mid-century?",
       "options": [
-        "It will cover the whole Arctic Ocean",
+        "Continental crust forms a separate layer above the plates",
+        "They have moved relative to each other over geologic time",
         "It may shrink to less than 10 percent of the Arctic Ocean",
-        "It will expand to twice its area",
-        "It will move to the Antarctic"
+        "Many independent observations point in the same direction"
       ],
       "correctAnswer": "It may shrink to less than 10 percent of the Arctic Ocean"
     }

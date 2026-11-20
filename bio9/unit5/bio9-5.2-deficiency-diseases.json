@@ -13,10 +13,10 @@
     {
       "question": "What is a deficiency disease?",
       "options": [
-        "A disease that is inherited from parents",
-        "A disease caused by a pathogen such as a virus or bacteria",
+        "Simple diffusion moves substances through the lipid bilayer directly; facilitated diffusion uses protein channels or carriers",
+        "Any substance that is eaten, drunk, or taken into the body to sustain life, provide energy, promote growth, and repair tissues",
         "A disease that occurs when a person does not have enough of one particular nutrient and suffers health problems as a result",
-        "A disease caused by physical injury"
+        "A black sticky substance found in cigarette smoke that collects in the lungs and can cause chronic bronchitis and lung cancer"
       ],
       "answer": "A disease that occurs when a person does not have enough of one particular nutrient and suffers health problems as a result"
     },
@@ -33,10 +33,10 @@
     {
       "question": "What are the main symptoms of scurvy?",
       "options": [
-        "Thin arms and legs with little muscle",
-        "Dry skin and swelling of the abdomen",
-        "Deformed bones in the legs",
-        "Bleeding under the skin, bleeding gums, and poor healing of wounds"
+        "A population is one species; a community includes multiple species",
+        "Multiply the eyepiece magnification by the objective magnification",
+        "Bleeding under the skin, bleeding gums, and poor healing of wounds",
+        "It allows some substances to pass through while restricting others"
       ],
       "answer": "Bleeding under the skin, bleeding gums, and poor healing of wounds"
     },
@@ -53,10 +53,10 @@
     {
       "question": "What is a characteristic symptom of rickets?",
       "options": [
+        "Mosses growing on a newly exposed rock surface",
         "Deformed or soft bones in the legs of children",
-        "Night blindness",
-        "Bleeding gums",
-        "Dry and flaky skin"
+        "Waft the fumes toward your nose with your hand",
+        "It does not reflect evolutionary relationships"
       ],
       "answer": "Deformed or soft bones in the legs of children"
     },
@@ -113,10 +113,10 @@
     {
       "question": "What are the symptoms of anemia?",
       "options": [
-        "Swelling of the neck",
-        "Dry and flaky skin",
-        "Feeling weak, tired, and irritable",
-        "Deformed bones and teeth"
+        "Synthetic vitamin supplements only",
+        "Deformed bones and teeth",
+        "Ethiopian flora and plant taxonomy",
+        "Feeling weak, tired, and irritable"
       ],
       "answer": "Feeling weak, tired, and irritable"
     },
@@ -143,40 +143,40 @@
     {
       "question": "Which of the following is a symptom of kwashiorkor?",
       "options": [
-        "Deformed bones in the legs",
-        "Bleeding gums and poor wound healing",
-        "Thin arms and legs with an old-looking face",
-        "Swelling of the legs and abdomen, dry or flaky skin, and changes in hair colour"
+        "Light refraction in the eye, leverage in bones, and fluid dynamics in blood flow",
+        "It requires energy (ATP) to move substances against their concentration gradient",
+        "Swelling of the legs and abdomen, dry or flaky skin, and changes in hair colour",
+        "By features such as body structure, number of limbs, and method of reproduction"
       ],
       "answer": "Swelling of the legs and abdomen, dry or flaky skin, and changes in hair colour"
     },
     {
       "question": "Marasmus is caused by a deficiency of which nutrient?",
       "options": [
-        "Carbohydrates (energy)",
-        "Vitamin D",
-        "Protein",
-        "Iron"
+        "The respiratory system",
+        "Through sexual contact",
+        "Only produced at night",
+        "Carbohydrates (energy)"
       ],
       "answer": "Carbohydrates (energy)"
     },
     {
       "question": "What are the physical signs of marasmus?",
       "options": [
-        "Bleeding gums",
-        "Bowed legs",
+        "Non-reproductive traits that distinguish males and females",
+        "To increase contrast and make cell structures more visible",
         "Thin arms and legs, little muscle, and an old-looking face",
-        "Swollen abdomen and flaky skin"
+        "A disease caused by a pathogen such as a virus or bacteria"
       ],
       "answer": "Thin arms and legs, little muscle, and an old-looking face"
     },
     {
       "question": "What is malnutrition?",
       "options": [
-        "Only the overconsumption of food",
         "The insufficient, excessive, or imbalanced consumption of nutrients that leads to health problems",
-        "A disease caused by bacterial infection",
-        "Only the lack of protein in the diet"
+        "Unicellular organisms consist of a single cell, while multicellular organisms consist of many cells",
+        "Through respiratory droplets released when an infected person breathes, talks, coughs, or sneezes",
+        "Through detection, screening, treatment, and palliative care, as well as healthy lifestyle choices"
       ],
       "answer": "The insufficient, excessive, or imbalanced consumption of nutrients that leads to health problems"
     },
@@ -184,29 +184,29 @@
       "question": "Which of the following is a form of undernutrition?",
       "options": [
         "Wasting (low weight-for-height)",
-        "High cholesterol",
-        "Obesity",
-        "Overweight"
+        "World Health Organization (WHO)",
+        "Watch a classmate and copy them",
+        "It digests waste in the nucleus"
       ],
       "answer": "Wasting (low weight-for-height)"
     },
     {
       "question": "Stunting in children is defined as:",
       "options": [
-        "Excessive weight gain",
+        "A diet that includes only one type of food group",
         "Low weight-for-height due to recent weight loss",
-        "Low weight-for-age",
-        "Low height-for-age due to chronic undernutrition"
+        "Low height-for-age due to chronic undernutrition",
+        "Within the 4-day fertile window around ovulation"
       ],
       "answer": "Low height-for-age due to chronic undernutrition"
     },
     {
       "question": "What is obesity?",
       "options": [
-        "A condition caused by vitamin deficiency",
-        "A disease caused by bacterial infection",
         "A condition caused by an imbalance between energy intake and energy expenditure, resulting in excess body fat",
-        "A disease caused by lack of protein"
+        "All living things are composed of cells, cells are the basic unit of life, all cells come from pre-existing cells",
+        "A disease that is not caused by pathogens; it may be caused by malnutrition, chemical effects, or genetic factors",
+        "They bind to specific substances and use ATP to move them across the membrane against the concentration gradient"
       ],
       "answer": "A condition caused by an imbalance between energy intake and energy expenditure, resulting in excess body fat"
     },
@@ -223,9 +223,9 @@
     {
       "question": "Which of the following is a health risk associated with obesity?",
       "options": [
-        "Scurvy",
-        "Rickets",
-        "Kwashiorkor",
+        "secondary consumer → primary consumer → producer",
+        "An experiment that does not require a hypothesis",
+        "An experiment conducted without any measurements",
         "Heart disease, high blood pressure, and diabetes"
       ],
       "answer": "Heart disease, high blood pressure, and diabetes"
@@ -233,20 +233,20 @@
     {
       "question": "Which food is a rich source of iron and can help prevent anemia?",
       "options": [
-        "Red meat, liver, and Tikur teff",
-        "Iodized salt",
-        "Milk and cheese",
-        "Oranges and lemons"
+        "By taking antibiotics regularly",
+        "World Anti-Doping Agency (WADA)",
+        "To control what enters the cell",
+        "Red meat, liver, and Tikur teff"
       ],
       "answer": "Red meat, liver, and Tikur teff"
     },
     {
       "question": "Vitamin D helps in the absorption of which minerals through the gut wall?",
       "options": [
-        "Magnesium and zinc",
         "Calcium and phosphorus",
-        "Sodium and potassium",
-        "Iron and iodine"
+        "Magnesium and zinc",
+        "Surgical complications",
+        "Sodium and potassium"
       ],
       "answer": "Calcium and phosphorus"
     }

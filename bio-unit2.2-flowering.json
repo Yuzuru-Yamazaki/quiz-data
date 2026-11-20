@@ -14,10 +14,10 @@
       "id": 1,
       "question": "With what features is the concept of a plant widely associated?",
       "options": [
-        "Only roots and leaves",
-        "Only leaves and fruits",
-        "Only stems and flowers",
-        "Flowers, root, stem and leaves having transporting vessels"
+        "Ability to respond to stimuli (changes in the environment)",
+        "Flowers, root, stem and leaves having transporting vessels",
+        "Mixed with garlic to treat asthma, used to treat gastritis",
+        "Growth hormone (GH) and follicle-stimulating hormone (FSH)"
       ],
       "correctAnswer": "Flowers, root, stem and leaves having transporting vessels"
     },
@@ -26,9 +26,9 @@
       "question": "What are mosses and liverworts classified as?",
       "options": [
         "Flowering plants",
+        "Vascular plants",
         "Non-vascular plants",
-        "Gymnosperms",
-        "Vascular plants"
+        "Higher salt intakes"
       ],
       "correctAnswer": "Non-vascular plants"
     },
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "What do non-vascular plants lack?",
       "options": [
-        "Roots",
-        "Chlorophyll",
-        "Leaves",
-        "A transporting system or conducting vessels"
+        "When lung pressure is less than atmospheric",
+        "They always carry out normal cell functions",
+        "A transporting system or conducting vessels",
+        "The oceans, atmosphere, land, and organisms"
       ],
       "correctAnswer": "A transporting system or conducting vessels"
     },
@@ -47,10 +47,10 @@
       "id": 4,
       "question": "What is a characteristic of non-vascular plants regarding their size?",
       "options": [
-        "They are medium-sized",
-        "They are generally tall",
-        "They can grow to any height",
-        "They are generally small with limited height"
+        "They are generally small with limited height",
+        "COPD (Chronic Obstructive Pulmonary Disease)",
+        "It is replaced by adventitious fibrous roots",
+        "The order of consuming or eating one another"
       ],
       "correctAnswer": "They are generally small with limited height"
     },
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "Where are non-vascular plants restricted to?",
       "options": [
-        "Dry and sunny areas",
-        "Sandy deserts",
         "Moist and shaded areas",
-        "High mountain tops"
+        "Circular double strand",
+        "High mountain tops",
+        "Dry and sunny areas"
       ],
       "correctAnswer": "Moist and shaded areas"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "Do lower plants produce seeds, flowers and fruits?",
       "options": [
-        "They produce only seeds",
-        "They produce only flowers",
-        "They produce all three",
-        "They are seedless and do not have flowers and fruits"
+        "Which antigens are on the surface of red blood cells",
+        "Thick mucus blocks receptors on the nasal epithelium",
+        "They are seedless and do not have flowers and fruits",
+        "They exhibit double fertilization, forming endosperm"
       ],
       "correctAnswer": "They are seedless and do not have flowers and fruits"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "What structures do gymnosperms have?",
       "options": [
+        "Psychology, sociology, and economics",
         "Well-developed root, stem and leaves",
-        "Flowers and fruits",
-        "Only roots",
-        "Only stems and leaves"
+        "Potassium is primarily extracellular",
+        "Seed is a flower and fruit is a stem"
       ],
       "correctAnswer": "Well-developed root, stem and leaves"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "How are seeds in gymnosperm cones described?",
       "options": [
+        "Without cover (naked seeds)",
         "Surrounded by flesh",
-        "Covered by fruit",
         "Enclosed in a pod",
-        "Without cover (naked seeds)"
+        "Plant breeding and genetics"
       ],
       "correctAnswer": "Without cover (naked seeds)"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What feature distinguishes angiosperms from gymnosperms?",
       "options": [
-        "Angiosperms have cones",
-        "Angiosperms have naked seeds",
         "Angiosperms have flowers and produce seeds within a fruit",
-        "Angiosperms lack vascular tissue"
+        "It can reach nearby water bodies and cause eutrophication",
+        "$6CO_{2} + 6H_{2}O \\rightarrow C_{6}H_{12}O_{6} + 6O_{2}$",
+        "$C_{6}H_{12}O_{6} + 6O_{2} \\rightarrow 6CO_{2} + 6H_{2}O$"
       ],
       "correctAnswer": "Angiosperms have flowers and produce seeds within a fruit"
     },
@@ -135,9 +135,9 @@
       "id": 12,
       "question": "What are gymnosperm seeds produced in their cone described as?",
       "options": [
+        "Carbon dioxide and oxygen",
         "Enclosed in a fruit",
         "Covered with flesh",
-        "Wrapped in a pod",
         "Naked seeds without cover"
       ],
       "correctAnswer": "Naked seeds without cover"

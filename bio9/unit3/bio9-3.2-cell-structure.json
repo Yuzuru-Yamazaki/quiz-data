@@ -13,10 +13,10 @@
     {
       "question": "What is the function of the cell membrane?",
       "options": [
-        "To carry out protein synthesis",
-        "To provide structural support and protection",
+        "Flush your eyes at the eyewash station for at least 15 minutes",
+        "Autotrophic, multicellular, and having cell walls of cellulose",
         "To control the movement of substances into and out of the cell",
-        "To store genetic material"
+        "Cells have been observed arising spontaneously in laboratories"
       ],
       "answer": 2,
       "explanation": "The cell (plasma) membrane is selectively permeable, regulating what enters and exits the cell."
@@ -35,65 +35,65 @@
     {
       "question": "What is the primary function of the nucleus?",
       "options": [
+        "Divide the objective magnification by the eyepiece magnification",
+        "All follicles in the ovaries have been released or disintegrated",
         "Storage of genetic material (DNA) and control of cell activities",
-        "Lipid synthesis",
-        "Energy production",
-        "Protein synthesis"
+        "By improving crop yields and developing disease-resistant plants"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "The nucleus contains the cell's DNA and controls all cellular activities including growth, metabolism, and reproduction."
     },
     {
       "question": "Where are ribosomes located in the cell?",
       "options": [
-        "Only inside the nucleus",
-        "Only on the rough ER",
-        "Free in the cytoplasm and attached to the rough ER",
-        "Only in the Golgi apparatus"
+        "Notify the teacher immediately as mercury is toxic",
+        "To observe small details of specimens in the field",
+        "Growth of plants on a newly formed volcanic island",
+        "Free in the cytoplasm and attached to the rough ER"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Ribosomes can be found free-floating in the cytoplasm or attached to the rough endoplasmic reticulum."
     },
     {
       "question": "What is the function of ribosomes?",
       "options": [
         "DNA replication",
-        "Lipid synthesis",
-        "ATP production",
-        "Protein synthesis"
+        "Aquatic ecosystem",
+        "Protein synthesis",
+        "Lipid synthesis"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Ribosomes are the sites of protein synthesis, where amino acids are assembled into proteins."
     },
     {
       "question": "Which organelle modifies, sorts, and packages proteins for transport?",
       "options": [
-        "Golgi apparatus",
-        "Lysosome",
+        "Rough ER",
         "Smooth ER",
-        "Rough ER"
+        "Podocarpus tree",
+        "Golgi apparatus"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "The Golgi apparatus (Golgi body) modifies proteins, sorts them, and packages them into vesicles for transport within or outside the cell."
     },
     {
       "question": "What is the difference between rough ER and smooth ER?",
       "options": [
+        "They promote healthy eating habits, design nutritional programs, and advise communities on balanced diets",
         "Rough ER has ribosomes attached and synthesizes proteins; smooth ER lacks ribosomes and synthesizes lipids",
-        "Rough ER produces energy, smooth ER produces proteins",
-        "There is no difference",
-        "Rough ER is found in plants, smooth ER is found in animals"
+        "Tissue → Cell → Organ → Organ System → Organism → Population → Community → Biome → Ecosystem → Biosphere",
+        "A condition caused by an imbalance between energy intake and energy expenditure, resulting in excess body fat"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Rough ER has ribosomes on its surface and is involved in protein synthesis; smooth ER lacks ribosomes and is involved in lipid and steroid synthesis."
     },
     {
       "question": "What is the function of lysosomes?",
       "options": [
-        "Energy production",
+        "Using scented products for better hygiene",
         "Intracellular digestion and waste removal",
-        "Protein synthesis",
-        "Photosynthesis"
+        "Agricultural expansion and climate change",
+        "Thicken and encourage blood vessel growth"
       ],
       "answer": 1,
       "explanation": "Lysosomes contain digestive enzymes that break down waste materials, old organelles, and foreign invaders."
@@ -112,45 +112,45 @@
     {
       "question": "What is the function of the cell wall in plant cells?",
       "options": [
+        "Do not mix; exchange occurs across membranes",
+        "Preventing implantation of a fertilized ovum",
         "To provide structural support and protection",
-        "To produce energy",
-        "To control substance movement into the cell",
-        "To store genetic material"
+        "To control substance movement into the cell"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "The cell wall is a rigid layer outside the cell membrane that provides structural support, protection, and maintains cell shape."
     },
     {
       "question": "What is the main component of the plant cell wall?",
       "options": [
-        "Protein",
-        "Chitin",
         "Cellulose",
-        "Lipids"
+        "Taye Kufa",
+        "Lipids",
+        "Protein"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "The primary structural component of plant cell walls is cellulose, a complex carbohydrate."
     },
     {
       "question": "What is the function of the large central vacuole in plant cells?",
       "options": [
-        "Cell division",
-        "Protein synthesis",
-        "Energy production",
-        "Storage of water, nutrients, and waste; maintenance of turgor pressure"
+        "Genus capitalized, species in lowercase, both italicized or underlined",
+        "It shrinks and crenates (becomes shriveled) as water leaves by osmosis",
+        "Storage of water, nutrients, and waste; maintenance of turgor pressure",
+        "A self-cleaning organ that should only be rinsed externally with water"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "The central vacuole stores water and nutrients, maintains turgor pressure (which supports the plant), and stores waste products."
     },
     {
       "question": "What is the nucleolus and what is its function?",
       "options": [
-        "A membrane that surrounds the nucleus; it controls entry to the nucleus",
-        "A dense region inside the nucleus where rRNA is synthesized and ribosome subunits are assembled",
-        "The fluid inside the nucleus",
-        "A type of organelle that produces energy"
+        "Vesicles are small membrane-bound sacs for transport; vacuoles are larger storage compartments",
+        "An organism that carries a disease-causing organism and transmits it from one person to another",
+        "Direct contact with a patient, contaminated water or food, insect bites, and sexual intercourse",
+        "A dense region inside the nucleus where rRNA is synthesized and ribosome subunits are assembled"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "The nucleolus is a dense region within the nucleus where ribosomal RNA (rRNA) is synthesized and ribosome subunits are assembled."
     },
     {
@@ -178,9 +178,9 @@
     {
       "question": "What is the function of the nuclear membrane (nuclear envelope)?",
       "options": [
-        "To carry out protein synthesis",
-        "To store genetic material",
-        "To produce ribosomes",
+        "Building teeth and bones, muscle contraction, and nerve impulse transmission",
+        "It acts as a solvent and transport medium for substances throughout the body",
+        "States whether the hypothesis is supported or rejected based on the evidence",
         "To separate the nucleus from the cytoplasm and control passage of substances"
       ],
       "answer": 3,
@@ -189,67 +189,67 @@
     {
       "question": "Which of the following organelles is surrounded by a double membrane?",
       "options": [
+        "Mitochondrion",
         "Ribosome",
-        "Vacuole",
-        "Lysosome",
-        "Mitochondrion"
+        "Invertebrates",
+        "Lysosome"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Mitochondria have a double membrane structure — an outer membrane and an inner membrane with folds called cristae."
     },
     {
       "question": "What is the function of the smooth endoplasmic reticulum?",
       "options": [
-        "Intracellular digestion",
-        "ATP production",
-        "Lipid and steroid synthesis, detoxification, and calcium storage",
-        "Protein synthesis"
+        "By improving crop yields and developing disease-resistant plants",
+        "All follicles in the ovaries have been released or disintegrated",
+        "Storage of genetic material (DNA) and control of cell activities",
+        "Lipid and steroid synthesis, detoxification, and calcium storage"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Smooth ER is involved in lipid and steroid hormone synthesis, detoxification of drugs and poisons, and calcium ion storage."
     },
     {
       "question": "Where are chloroplasts found?",
       "options": [
-        "Only in bacteria",
-        "Only in animal cells",
         "Only in plant cells and some algae",
-        "In all eukaryotic cells"
+        "The cell is the basic unit of life",
+        "In all eukaryotic cells",
+        "Standing water with aquatic plants"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Chloroplasts are found in plant cells and some algae (eukaryotic photosynthetic organisms), but not in animal cells or bacteria."
     },
     {
       "question": "What is the outer boundary of an animal cell called?",
       "options": [
-        "Capsule",
         "Cell membrane (plasma membrane)",
-        "Cell wall",
-        "Nuclear membrane"
+        "Growth of new cells and tissues",
+        "To control what enters the cell",
+        "It digests waste in the nucleus"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Animal cells are bounded by the cell (plasma) membrane — they do not have a cell wall."
     },
     {
       "question": "What is chromatin?",
       "options": [
-        "A type of organelle",
+        "To evaluate the quality and validity of research before publication",
+        "To stain the nucleus and other organelles, making them more visible",
         "The DNA-protein complex that makes up chromosomes during interphase",
-        "The fluid inside the nucleus",
-        "The membrane around the nucleus"
+        "Through airborne droplets when an infected person coughs or sneezes"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Chromatin is the complex of DNA and proteins (histones) found in the nucleus during interphase; it condenses to form chromosomes during cell division."
     },
     {
       "question": "What is the main function of the rough endoplasmic reticulum?",
       "options": [
-        "Waste digestion",
-        "ATP production",
-        "Lipid synthesis",
-        "Protein synthesis and processing (folding and modification)"
+        "A population includes abiotic factors; a community does not",
+        "Protein synthesis and processing (folding and modification)",
+        "Vesicles are found only in plants; vacuoles only in animals",
+        "To control the amount of light passing through the specimen"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "The rough ER, with ribosomes attached to its surface, synthesizes proteins and modifies them (e.g., folding, adding carbohydrate groups)."
     },
     {
@@ -266,23 +266,23 @@
     {
       "question": "What is the structure of the cell membrane described by the fluid mosaic model?",
       "options": [
-        "A rigid, unchanging layer of proteins",
-        "A phospholipid bilayer with embedded proteins that can move laterally",
-        "A mesh of cellulose fibers",
-        "A single layer of lipids with no proteins"
+        "In the nucleoid region (a region of the cytoplasm without a membrane)",
+        "Addressing micronutrient deficiencies through locally available foods",
+        "To protect the objective lens and keep the specimen flat and in place",
+        "A phospholipid bilayer with embedded proteins that can move laterally"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "The fluid mosaic model describes the cell membrane as a dynamic phospholipid bilayer with proteins embedded within it, allowing lateral movement."
     },
     {
       "question": "What is the function of the cytoplasm?",
       "options": [
-        "To store genetic material",
         "To provide a medium for chemical reactions and support for organelles",
-        "To synthesize proteins",
-        "To control what enters the cell"
+        "Sampling and studying the distribution of organisms in a defined area",
+        "A phospholipid bilayer with embedded proteins that can move laterally",
+        "To organize organisms into groups for easier study and identification"
       ],
-      "answer": 1,
+      "answer": 0,
       "explanation": "Cytoplasm is the site of many metabolic reactions and provides a medium in which organelles are suspended and materials can be transported."
     },
     {
@@ -299,10 +299,10 @@
     {
       "question": "What is the space inside the inner mitochondrial membrane called?",
       "options": [
-        "Nucleoplasm",
+        "Clear discharge only",
         "Mitochondrial matrix",
-        "Stroma",
-        "Cytosol"
+        "Nucleoplasm",
+        "Seminiferous tubules"
       ],
       "answer": 1,
       "explanation": "The mitochondrial matrix is the fluid-filled space inside the inner membrane where the Krebs cycle takes place."
@@ -321,10 +321,10 @@
     {
       "question": "What is the function of the nucleoplasm?",
       "options": [
-        "It digests waste in the nucleus",
-        "It is the site of protein synthesis",
+        "It binds permanently with hemoglobin, reducing the amount of oxygen carried in the blood",
+        "Place the specimen on a slide, add a drop of water, and gently lower a coverslip over it",
         "It is the semi-fluid medium inside the nucleus that contains chromatin and the nucleolus",
-        "It produces energy for the nucleus"
+        "Any substance taken into the body that changes or affects chemical reactions in the body"
       ],
       "answer": 2,
       "explanation": "Nucleoplasm is the semi-fluid substance within the nuclear membrane, containing chromatin, the nucleolus, and various dissolved substances."
@@ -332,9 +332,9 @@
     {
       "question": "What is the difference between a vesicle and a vacuole?",
       "options": [
-        "There is no difference",
-        "Vesicles are found only in plants; vacuoles only in animals",
-        "Vesicles store water; vacuoles store proteins",
+        "An organism that carries a disease-causing organism and transmits it from one person to another",
+        "It would wilt because the soil becomes hypertonic, causing water to leave the roots by osmosis",
+        "They help improve public health by promoting balanced diets and preventing deficiency diseases",
         "Vesicles are small membrane-bound sacs for transport; vacuoles are larger storage compartments"
       ],
       "answer": 3,

@@ -30,10 +30,10 @@
       "anki": true,
       "question": "The nitrogen fixed by pulses becomes available to the next crop after",
       "options": [
-        "Residues decompose",
         "Seeds germinate",
         "Pods are formed",
-        "Roots are cut"
+        "Residues decompose",
+        "It matures earlier"
       ],
       "correctAnswer": "Residues decompose"
     },
@@ -54,9 +54,9 @@
       "anki": true,
       "question": "Pulses should be grown on well-drained soils because they are sensitive to",
       "options": [
-        "Waterlogging",
+        "Weed density",
         "Sunlight",
-        "Wind",
+        "Waterlogging",
         "Frost"
       ],
       "correctAnswer": "Waterlogging"
@@ -67,9 +67,9 @@
       "question": "A farmer wants to reduce nitrogen fertilizer for the next cereal. The best preceding crop is",
       "options": [
         "Faba bean",
-        "Maize",
-        "Wheat",
-        "Barley"
+        "Barley",
+        "Cellulose",
+        "Wheat"
       ],
       "correctAnswer": "Faba bean"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "Pulse crops are important in Ethiopia mainly because they provide",
       "options": [
-        "Protein and soil nitrogen",
-        "Oil and textile fiber",
         "Sugar and starch foods",
-        "Timber and cooking fuel"
+        "Timber and cooking fuel",
+        "Protein and soil nitrogen",
+        "By-product industrial use"
       ],
       "correctAnswer": "Protein and soil nitrogen"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Pulse root nodules are formed by",
       "options": [
-        "Rhizobium bacteria",
         "Mycorrhizal fungi",
-        "Nematode larvae",
-        "Viral particles"
+        "Viral particles",
+        "Rhizobium bacteria",
+        "Weeds emerge early"
       ],
       "correctAnswer": "Rhizobium bacteria"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "A farmer includes pulses in rotation to",
       "options": [
-        "Improve soil and income",
-        "Increase soil erosion",
         "Reduce crop diversity",
-        "Deplete soil nitrogen"
+        "Deplete soil nitrogen",
+        "Improve soil and income",
+        "A crop cut twice yearly"
       ],
       "correctAnswer": "Improve soil and income"
     },
@@ -150,10 +150,10 @@
       "anki": true,
       "question": "Pulse crops are called poor man's meat because they are rich in",
       "options": [
+        "Starch",
         "Protein",
-        "Fat",
         "Sugar",
-        "Starch"
+        "B and C"
       ],
       "correctAnswer": "Protein"
     },
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "A farmer notices that cereal yields are higher after a pulse. The main reason is",
       "options": [
+        "Genetic improvement",
+        "More soil moisture",
         "Added soil nitrogen",
-        "Less soil erosion",
-        "Better seed color",
-        "More soil moisture"
+        "Better seed color"
       ],
       "correctAnswer": "Added soil nitrogen"
     },
@@ -186,9 +186,9 @@
       "anki": true,
       "question": "Pulses are usually rotated with cereals to break",
       "options": [
-        "Pest and disease cycles",
+        "Seeds fail to germinate",
         "Seed dormancy cycles",
-        "Soil color patterns",
+        "Pest and disease cycles",
         "Wind erosion patterns"
       ],
       "correctAnswer": "Pest and disease cycles"

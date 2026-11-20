@@ -15,10 +15,10 @@
       "anki": true,
       "question": "Back-end development focuses on which aspect of web development?",
       "options": [
+        "A program that manages input and output devices",
         "The layout of headings and paragraphs",
-        "The server-side of websites or web applications",
-        "The client-side user interface",
-        "The visual styling of web pages"
+        "Every 20 seconds, blink 20 times for 20 minutes",
+        "The server-side of websites or web applications"
       ],
       "correctAnswer": "The server-side of websites or web applications"
     },
@@ -27,10 +27,10 @@
       "anki": true,
       "question": "Back-end developers handle the behind-the-scenes functionality that deals with which of the following?",
       "options": [
+        "A designer who only creates visual mockups",
+        "Image optimization and compression",
         "Keyboard navigation and accessibility",
-        "Colors, fonts and spacing",
-        "Data processing, storage and communication",
-        "Image optimization and compression"
+        "Data processing, storage and communication"
       ],
       "correctAnswer": "Data processing, storage and communication"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "Node.js is used by back-end developers as which of the following?",
       "options": [
-        "A front-end styling language",
-        "A web browser",
-        "A database management system",
-        "A server-side programming language or runtime"
+        "A server-side programming language or runtime",
+        "A connector used for a standard monitor cable",
+        "They are always fitted inside the system unit",
+        "Encryption and secure communication protocols"
       ],
       "correctAnswer": "A server-side programming language or runtime"
     },
@@ -88,9 +88,9 @@
       "question": "What is the role of APIs in back-end development?",
       "options": [
         "They allow different software systems to communicate with each other",
-        "They store images and media files",
-        "They define the visual layout of a page",
-        "They style and format HTML elements"
+        "Independently or with specialized front-end and back-end developers",
+        "More flexible with input/output, smaller size, and better performance",
+        "Report it to your IT department or system administrator immediately"
       ],
       "correctAnswer": "They allow different software systems to communicate with each other"
     },
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "Express.js is a back-end framework associated with which of the following?",
       "options": [
-        "Node.js",
-        "PHP",
+        "Clients",
         "Ruby",
-        "Java"
+        "Java",
+        "Node.js"
       ],
       "correctAnswer": "Node.js"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "Why do back-end developers write tests for server-side code?",
       "options": [
-        "To create responsive layouts",
-        "To style HTML elements",
-        "To optimize image file sizes",
-        "To ensure the reliability and stability of the code"
+        "To ensure the reliability and stability of the code",
+        "Providing audio signals for multimedia applications",
+        "To prevent overheating caused by restricted airflow",
+        "Scalability, security and performance optimizations"
       ],
       "correctAnswer": "To ensure the reliability and stability of the code"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "Integrating payment gateways, email services or social media APIs is an example of which back-end activity?",
       "options": [
+        "User research and usability testing",
         "Cross-browser compatibility",
-        "Responsive design",
-        "Semantic markup",
-        "Integration of third-party services"
+        "Integration of third-party services",
+        "Problem solving and troubleshooting"
       ],
       "correctAnswer": "Integration of third-party services"
     }

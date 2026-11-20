@@ -13,10 +13,10 @@
     {
       "question": "What are inorganic ions?",
       "options": [
+        "A device that magnifies objects or organisms too small to be seen with the naked eye",
         "Charged entities because they are atoms with unshared electrons in their outer shell",
-        "Molecules containing carbon and hydrogen",
-        "Neutral atoms with full outer shells",
-        "Large organic polymers"
+        "The study of microscopic organisms or microbes that cannot be seen by the unaided eye",
+        "Because the energy expenditure for $NH_4$ assimilation is much lower than for $NO_3$"
       ],
       "answerIndex": 1,
       "correctAnswer": "Charged entities because they are atoms with unshared electrons in their outer shell",
@@ -25,10 +25,10 @@
     {
       "question": "What are the two forms in which inorganic ions are found in living bodies?",
       "options": [
+        "Cytoplasm, inter-cellular fluid, blood, cerebrospinal fluid, and other body fluids",
         "Free and dissolved in the cytoplasm and associated with complex organic substances",
-        "Crystalline and amorphous",
-        "Liquid and plasma",
-        "Solid and gaseous"
+        "A path that includes biological, geological, and chemical processes forming cycles",
+        "Couples of one maternal and one paternal chromosome paired up during fertilization"
       ],
       "answerIndex": 1,
       "correctAnswer": "Free and dissolved in the cytoplasm and associated with complex organic substances",
@@ -38,9 +38,9 @@
       "question": "What happens if there are variations in inorganic ion concentrations inside the human body?",
       "options": [
         "Only positive effects occur",
-        "They can have catastrophic implications",
-        "No noticeable effects",
-        "The body adapts immediately"
+        "The body adapts immediately",
+        "Both male and female cones on one plant",
+        "They can have catastrophic implications"
       ],
       "answerIndex": 3,
       "correctAnswer": "They can have catastrophic implications",
@@ -61,10 +61,10 @@
     {
       "question": "How are inorganic ions classified based on daily dietary requirement?",
       "options": [
-        "Organic and inorganic",
-        "Soluble and insoluble",
+        "Macro-nutrients and micro-nutrients",
         "Essential and non-essential",
-        "Macro-nutrients and micro-nutrients"
+        "Vitamin D, bile acids, and hormones",
+        "The two nasal cavities or the mouth"
       ],
       "answerIndex": 3,
       "correctAnswer": "Macro-nutrients and micro-nutrients",
@@ -85,10 +85,10 @@
     {
       "question": "Where are hydrogen ions released in the cells?",
       "options": [
-        "Only in the nucleus",
+        "Only in the mitochondria",
         "During various metabolic processes",
         "Only during cell division",
-        "Only in the mitochondria"
+        "Roots that spread near the surface"
       ],
       "answerIndex": 0,
       "correctAnswer": "During various metabolic processes",
@@ -97,10 +97,10 @@
     {
       "question": "In which body fluids are hydrogen ions found?",
       "options": [
-        "Only in cerebrospinal fluid",
-        "Only in the nucleus",
         "Cytoplasm, inter-cellular fluid, blood, cerebrospinal fluid, and other body fluids",
-        "Only in blood"
+        "Free and dissolved in the cytoplasm and associated with complex organic substances",
+        "Couples of one maternal and one paternal chromosome paired up during fertilization",
+        "A path that includes biological, geological, and chemical processes forming cycles"
       ],
       "answerIndex": 2,
       "correctAnswer": "Cytoplasm, inter-cellular fluid, blood, cerebrospinal fluid, and other body fluids",
@@ -133,10 +133,10 @@
     {
       "question": "What is the relationship between $pH$ value and hydrogen ion concentration?",
       "options": [
-        "The higher the $pH$, the higher the hydrogen ion concentration",
-        "The higher the $pH$, the lower the hydrogen ion concentration",
         "$pH$ and hydrogen ion concentration are identical",
-        "There is no relationship"
+        "The higher the $pH$, the lower the hydrogen ion concentration",
+        "The higher the $pH$, the higher the hydrogen ion concentration",
+        "Using what you have learned in biology for practical purposes"
       ],
       "answerIndex": 0,
       "correctAnswer": "The higher the $pH$, the lower the hydrogen ion concentration",
@@ -145,9 +145,9 @@
     {
       "question": "What is the ranking of sodium ions among positively charged ions in the body?",
       "options": [
-        "Second most important",
         "Third most important",
-        "Most important",
+        "Second most important",
+        "A type of root nodule",
         "Least important"
       ],
       "answerIndex": 3,
@@ -157,10 +157,10 @@
     {
       "question": "Where is the concentration of sodium ions higher?",
       "options": [
-        "In extracellular fluids",
+        "In cell cytoplasm",
         "Only in the nucleus",
-        "Equal in both",
-        "In cell cytoplasm"
+        "They only form a zygote",
+        "In extracellular fluids"
       ],
       "answerIndex": 3,
       "correctAnswer": "In extracellular fluids",
@@ -229,10 +229,10 @@
     {
       "question": "How do potassium ions compare to sodium ions in terms of cellular location?",
       "options": [
+        "Potassium is only found in blood",
+        "The first distinguished Ethiopian physician",
         "Potassium is primarily extracellular",
-        "Potassium is only found in bones",
-        "Potassium is the major intracellular cation",
-        "Potassium is only found in blood"
+        "Potassium is the major intracellular cation"
       ],
       "answerIndex": 3,
       "correctAnswer": "Potassium is the major intracellular cation",
@@ -253,10 +253,10 @@
     {
       "question": "Which foods are abundant sources of potassium?",
       "options": [
-        "Butter and cheese",
         "Bananas, oranges, potatoes, chicken, and liver",
-        "Fish and seaweeds",
-        "Rice and bread"
+        "A long protein fiber extending from centrioles",
+        "That fossils were remains of ancient organisms",
+        "Thorax compression and elastic recoil of lungs"
       ],
       "answerIndex": 3,
       "correctAnswer": "Bananas, oranges, potatoes, chicken, and liver",
@@ -289,10 +289,10 @@
     {
       "question": "Where is calcium mainly present in the body?",
       "options": [
-        "In nerve cells",
         "In bones and teeth",
-        "In muscle tissue",
-        "In blood plasma"
+        "More than 10 years",
+        "In blood plasma",
+        "In muscle tissue"
       ],
       "answerIndex": 3,
       "correctAnswer": "In bones and teeth",
@@ -313,10 +313,10 @@
     {
       "question": "Which foods are ideal sources of calcium?",
       "options": [
-        "Milk and milk products",
-        "Bread and pasta",
+        "No, most are unable to",
         "Red meat and poultry",
-        "Citrus fruits"
+        "Milk and milk products",
+        "Bread and pasta"
       ],
       "answerIndex": 2,
       "correctAnswer": "Milk and milk products",
@@ -325,9 +325,9 @@
     {
       "question": "How much of our body weight does calcium make up?",
       "options": [
-        "1 to 1.5 kg",
-        "5 kg",
+        "1,000,000 J",
         "3 kg",
+        "1 to 1.5 kg",
         "0.5 kg"
       ],
       "answerIndex": 1,
@@ -361,10 +361,10 @@
     {
       "question": "What type of charge do phosphate ions carry?",
       "options": [
+        "Negatively charged",
         "Positively charged",
         "Both positive and negative",
-        "Neutral",
-        "Negatively charged"
+        "Neutral in the situation described"
       ],
       "answerIndex": 1,
       "correctAnswer": "Negatively charged",
@@ -373,10 +373,10 @@
     {
       "question": "How much phosphate does the body of an average man contain?",
       "options": [
-        "2 Kg",
         "500 grams",
-        "Around 1 Kg",
-        "100 grams"
+        "Water vapor",
+        "100 grams",
+        "Around 1 Kg"
       ],
       "answerIndex": 3,
       "correctAnswer": "Around 1 Kg",
@@ -385,10 +385,10 @@
     {
       "question": "Where are most phosphate ions found in the body?",
       "options": [
-        "In the liver",
+        "It triggers the production of antibodies",
         "Combined with calcium in bones and teeth",
-        "In muscle tissue",
-        "Free in the blood"
+        "Amino group, carboxyl group, and R group",
+        "Biotic (living) and abiotic (non-living)"
       ],
       "answerIndex": 3,
       "correctAnswer": "Combined with calcium in bones and teeth",
@@ -433,10 +433,10 @@
     {
       "question": "Where are chloride ions primarily present?",
       "options": [
-        "In the nucleus",
-        "In bones",
         "In extracellular fluids",
-        "Inside cells"
+        "Inside cells",
+        "In the nucleus",
+        "To increase cell volume"
       ],
       "answerIndex": 0,
       "correctAnswer": "In extracellular fluids",
@@ -458,9 +458,9 @@
       "question": "In what form are chloride ions usually taken in the diet?",
       "options": [
         "As magnesium chloride",
-        "As calcium chloride",
+        "As potassium chloride",
         "As NaCl present in cooked food",
-        "As potassium chloride"
+        "Frederick Hopkins in the 1900s"
       ],
       "answerIndex": 2,
       "correctAnswer": "As NaCl present in cooked food",
@@ -469,10 +469,10 @@
     {
       "question": "What is the role of chloride ions in the stomach?",
       "options": [
+        "Energy released during cellular respiration is harvested and stored as ATP",
         "They are required to make hydrochloric acid (HCl) present in gastric juice",
-        "They digest carbohydrates",
-        "They absorb vitamins",
-        "They produce bile"
+        "The bending did not occur in the tip but in the elongating part just below",
+        "Bacteria in their rumens secrete the enzyme cellulase to degrade cellulose"
       ],
       "answerIndex": 3,
       "correctAnswer": "They are required to make hydrochloric acid (HCl) present in gastric juice",
@@ -481,10 +481,10 @@
     {
       "question": "What enzyme is activated by chloride ions?",
       "options": [
-        "Trypsin",
-        "Pepsin",
         "Salivary amylase",
-        "Lipase"
+        "Lipase",
+        "Trypsin",
+        "10 to 15 percent"
       ],
       "answerIndex": 3,
       "correctAnswer": "Salivary amylase",
@@ -517,10 +517,10 @@
     {
       "question": "Which foods are sources of iron?",
       "options": [
-        "Rice and wheat",
+        "$CO_{2} + H_{2}O \\rightarrow C_{6}H_{12}O_{6} + O_{2}$",
         "Legumes, red meat, liver, spinach, pumpkin seeds, fish",
-        "Oranges and lemons",
-        "Milk and cheese"
+        "No, they do not shade their leaves in winter or summer",
+        "Cohesion due to hydrogen bonds between water molecules"
       ],
       "answerIndex": 3,
       "correctAnswer": "Legumes, red meat, liver, spinach, pumpkin seeds, fish",
@@ -529,10 +529,10 @@
     {
       "question": "What is the role of iron as a component of haemoglobin and myoglobin?",
       "options": [
-        "Production of hormones",
-        "Digestion of fats",
         "Transport of oxygen and carbon dioxide",
-        "Regulation of body temperature"
+        "Contract, pulling the ribs down and in",
+        "Regulation of body temperature",
+        "Thymine, uracil, guanine, and cytosine"
       ],
       "answerIndex": 3,
       "correctAnswer": "Transport of oxygen and carbon dioxide",
@@ -541,10 +541,10 @@
     {
       "question": "What is the role of iron in the electron transport chain?",
       "options": [
-        "It is a vitamin",
         "It is an essential component of cytochromes",
-        "It is a carbohydrate",
-        "It is a hormone"
+        "The discovery of Mendel's work and his laws",
+        "They always carry out normal cell functions",
+        "Cost effective, non-toxic, and eco-friendly"
       ],
       "answerIndex": 0,
       "correctAnswer": "It is an essential component of cytochromes",
@@ -553,10 +553,10 @@
     {
       "question": "What is iron-deficiency anemia?",
       "options": [
+        "Using what you have learned in biology for practical purposes",
+        "Crop yield, ensure food security, and sustainable agriculture",
         "A common condition in individuals with an iron-deficient diet",
-        "A genetic disorder",
-        "Abnormal iron deposits in the liver",
-        "Excess iron in the body"
+        "A cell that engulfs and digests cellular debris and pathogens"
       ],
       "answerIndex": 0,
       "correctAnswer": "A common condition in individuals with an iron-deficient diet",
@@ -565,9 +565,9 @@
     {
       "question": "What is hemosiderosis?",
       "options": [
-        "Abnormal calcium deposits",
-        "Iron deficiency",
-        "Excess copper in the body",
+        "From the soil through the nitrogen cycle",
+        "Oxygen, carbon, nitrogen, and phosphorus",
+        "Provide oxygen and remove carbon dioxide",
         "Characterized by excess iron in the body"
       ],
       "answerIndex": 0,
@@ -577,10 +577,10 @@
     {
       "question": "What is hemochromatosis?",
       "options": [
-        "Thyroid disorder",
-        "Excess copper in the body",
+        "The transfer of pollen grains from the anther of a stamen to the stigma of the pistil",
+        "By serving as an alternative to synthetic N fertilizer and mitigating $N_2O$ emissions",
         "A condition where abnormal iron deposits form in the liver, spleen, skin, and pancreas",
-        "Iron deficiency anemia"
+        "He is the first Sub-Saharan African scientist elected in the Societys 357-year history"
       ],
       "answerIndex": 3,
       "correctAnswer": "A condition where abnormal iron deposits form in the liver, spleen, skin, and pancreas",
@@ -601,10 +601,10 @@
     {
       "question": "Which foods are sources of copper?",
       "options": [
+        "Primary or tap root, lateral or branch roots, root hairs and root cap",
         "Shellfish, seeds and nuts, organ meats, wheat, whole-grain, chocolate",
-        "Oranges and apples",
-        "Milk and yogurt",
-        "Rice and bread"
+        "Water requires more energy to break its hydrogen bonds before boiling",
+        "Abnormal copper deposition causing hepatic cirrhosis and brain damage"
       ],
       "answerIndex": 1,
       "correctAnswer": "Shellfish, seeds and nuts, organ meats, wheat, whole-grain, chocolate",
@@ -613,10 +613,10 @@
     {
       "question": "What is copper needed for in the body?",
       "options": [
-        "Digestion of proteins",
+        "Testing a leaf for starch using iodine solution",
+        "They are insoluble in water and pushed together",
         "Synthesis of haemoglobin, collagen, and elastin",
-        "Absorption of vitamin C",
-        "Storage of fat"
+        "Yes, it is a natural part of Earth's atmosphere"
       ],
       "answerIndex": 2,
       "correctAnswer": "Synthesis of haemoglobin, collagen, and elastin",
@@ -625,10 +625,10 @@
     {
       "question": "What is Wilson disease?",
       "options": [
+        "By thin moderately branching roots growing from stems",
+        "A condition caused by abnormal iron metabolism",
         "A rare condition caused by abnormal copper metabolism",
-        "A calcium deficiency disease",
-        "A thyroid disorder",
-        "A condition caused by abnormal iron metabolism"
+        "The most prestigious environmental prize in the world"
       ],
       "answerIndex": 1,
       "correctAnswer": "A rare condition caused by abnormal copper metabolism",
@@ -637,10 +637,10 @@
     {
       "question": "What are the effects of Wilson disease on the liver and brain?",
       "options": [
-        "Calcium deposits",
-        "Potassium deficiency",
-        "Abnormal copper deposition causing hepatic cirrhosis and brain damage",
-        "Excess iron storage"
+        "Chemical molecules made of phosphoric acid, sugars, and organic bases",
+        "Phosphate ions from soil, water, and rock to plants and aquatic algae",
+        "Shellfish, seeds and nuts, organ meats, wheat, whole-grain, chocolate",
+        "Abnormal copper deposition causing hepatic cirrhosis and brain damage"
       ],
       "answerIndex": 3,
       "correctAnswer": "Abnormal copper deposition causing hepatic cirrhosis and brain damage",
@@ -661,10 +661,10 @@
     {
       "question": "Where is iodine naturally found?",
       "options": [
-        "Only in plants",
-        "In the earth's soil and ocean waters",
-        "Only in ocean water",
-        "Only in the atmosphere"
+        "Anemia, jaundice, and enlarged liver",
+        "Watson, Crick, Wilkins, and Franklin",
+        "An orderly fashion like normal cells",
+        "In the earth's soil and ocean waters"
       ],
       "answerIndex": 2,
       "correctAnswer": "In the earth's soil and ocean waters",
@@ -697,10 +697,10 @@
     {
       "question": "Where is the thyroid gland located?",
       "options": [
-        "In the chest cavity",
-        "In the abdomen",
         "At the base of the front of the neck",
-        "Behind the kidneys"
+        "The molecule turns away from the ion",
+        "Returning nutrients to the ecosystem",
+        "From illuminated side to shaded side"
       ],
       "answerIndex": 2,
       "correctAnswer": "At the base of the front of the neck",
@@ -709,10 +709,10 @@
     {
       "question": "What do thyroid hormones control?",
       "options": [
-        "Only digestion",
-        "Metabolism and heart health",
         "Only bone growth",
-        "Only vision"
+        "Lymphatic vessels and veins",
+        "Metabolism and heart health",
+        "Phosphate to phosphorus gas"
       ],
       "answerIndex": 1,
       "correctAnswer": "Metabolism and heart health",
@@ -721,10 +721,10 @@
     {
       "question": "What happens when iodine is lacking in the diet?",
       "options": [
-        "Thyroid hormone production can decrease",
         "The thyroid gland disappears",
-        "Thyroid hormone production increases",
-        "No effect on thyroid"
+        "Because organisms cannot survive longer",
+        "Thyroid hormone production can decrease",
+        "Thyroid hormone production increases"
       ],
       "answerIndex": 1,
       "correctAnswer": "Thyroid hormone production can decrease",
@@ -745,10 +745,10 @@
     {
       "question": "What is goiter?",
       "options": [
-        "A type of cancer",
-        "A deficiency of iron",
+        "An enlarged thyroid gland",
         "An excess of calcium",
-        "An enlarged thyroid gland"
+        "2 to 3 million per second",
+        "A deficiency of iron"
       ],
       "answerIndex": 0,
       "correctAnswer": "An enlarged thyroid gland",
@@ -793,9 +793,9 @@
     {
       "question": "What is the role of hydrochloric acid (HCl) in the stomach besides digesting proteins?",
       "options": [
-        "It produces vitamins",
-        "It digests carbohydrates",
-        "It absorbs water",
+        "Anatomy, Pathology, Physiology, and Neurology",
+        "The study of genetic variation in populations",
+        "Interphase, prophase, metaphase, and anaphase",
         "It kills bacteria and other pathogens in food"
       ],
       "answerIndex": 1,
@@ -805,10 +805,10 @@
     {
       "question": "Where is the 1% of calcium found outside bones and teeth located?",
       "options": [
+        "They may not be able to carry out normal cell functions",
+        "Podocarpus falcatus (Zigba) and Juniperus procera (Tid)",
         "In the cytoplasm of other cells and extracellular fluid",
-        "In the nerves only",
-        "In the muscles only",
-        "In the blood only"
+        "It grows and starts the cycle the mother cell underwent"
       ],
       "answerIndex": 0,
       "correctAnswer": "In the cytoplasm of other cells and extracellular fluid",
@@ -817,10 +817,10 @@
     {
       "question": "What are chloride ions involved in maintaining?",
       "options": [
-        "Only muscle contraction",
         "Osmotic pressure, fluid balance, and acid-base balance",
-        "Only blood pressure",
-        "Only nerve conduction"
+        "Cohesion due to hydrogen bonds between water molecules",
+        "Absorbing water and minerals close to the soil surface",
+        "Food, shelter, clothing, medicine, ornament, and tools"
       ],
       "answerIndex": 1,
       "correctAnswer": "Osmotic pressure, fluid balance, and acid-base balance",
@@ -829,10 +829,10 @@
     {
       "question": "What is the role of iron in white blood cells?",
       "options": [
-        "It is a component of the peroxidase enzyme, a lysosomal enzyme for killing bacteria",
-        "It produces energy",
-        "It is a component of the antibody",
-        "It helps in cell division"
+        "Diverse groups of biomolecules insoluble in water but soluble in non-polar solvents",
+        "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap",
+        "Active transport where living phloem cells use energy obtained by metabolic process",
+        "It is a component of the peroxidase enzyme, a lysosomal enzyme for killing bacteria"
       ],
       "answerIndex": 0,
       "correctAnswer": "It is a component of the peroxidase enzyme, a lysosomal enzyme for killing bacteria",

@@ -111,10 +111,10 @@
       "anki": true,
       "question": "The magnitude of the resultant is",
       "options": [
+        "A quantum key can be duplicated freely",
         "The root of Rx squared plus Ry squared",
-        "Rx + Ry",
-        "Rx - Ry",
-        "The root of Rx squared minus Ry squared"
+        "The root of Rx squared minus Ry squared",
+        "Weather forecasting and climate models"
       ],
       "correctAnswer": "The root of Rx squared plus Ry squared"
     },

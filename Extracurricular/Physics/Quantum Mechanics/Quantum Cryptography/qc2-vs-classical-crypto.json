@@ -16,10 +16,10 @@
       "anki": true,
       "question": "In classical cryptography, the main task of an encryption algorithm is to",
       "options": [
-        "authenticate the sender of the message",
+        "were measured in any basis, with mismatched ones later corrected by Alice",
+        "completely random, while the pair's joint results are strongly correlated",
         "convert a plaintext into a ciphertext that cannot be read without the key",
-        "make the ciphertext the same length as the plaintext",
-        "compress the message to reduce its storage size"
+        "a source that sends one photon of each pair to Alice and the other to Bob"
       ],
       "correctAnswer": "convert a plaintext into a ciphertext that cannot be read without the key"
     },
@@ -29,9 +29,9 @@
       "question": "The Vernam one-time pad achieves perfect secrecy only if",
       "options": [
         "the key is a secret but short string that is easy to distribute",
-        "the key is truly random, at least as long as the message, and never reused",
-        "the key is reused many times but is kept confidential forever",
-        "the key is derived from the plaintext with a secure hash function"
+        "the key is derived from the plaintext with a secure hash function",
+        "leaves the state as the original superposition, but now with a known value",
+        "the key is truly random, at least as long as the message, and never reused"
       ],
       "correctAnswer": "the key is truly random, at least as long as the message, and never reused"
     },
@@ -40,10 +40,10 @@
       "anki": true,
       "question": "Why is the one-time pad perfectly secure?",
       "options": [
-        "the encryption algorithm is faster than any known classical attack",
+        "the four states are not mutually orthogonal, and a measurement that distinguishes non-orthogonal states inevitably disturbs them",
+        "with ideal devices the observed correlations are the entangled ones, so a departure from them can only come from outside interference",
         "every plaintext of that length is consistent with the same ciphertext, so the ciphertext carries no information about the plaintext",
-        "the key is stored inside a tamper-resistant hardware module",
-        "the key can only be computed from the ciphertext with great difficulty"
+        "A qubit can be a coherent superposition of $|0\\rangle$ and $|1\\rangle$, whereas a classical bit is always exactly $0$ or exactly $1$"
       ],
       "correctAnswer": "every plaintext of that length is consistent with the same ciphertext, so the ciphertext carries no information about the plaintext"
     },
@@ -52,10 +52,10 @@
       "anki": true,
       "question": "The main practical weakness of the one-time pad is",
       "options": [
-        "the difficulty of distributing a key as long as the message",
-        "its vulnerability to frequency analysis",
-        "the slowness of the encryption operation",
-        "its reliance on a shared secret key"
+        "It conveys that the lack of response was deeply meaningful.",
+        "private, so that Eve cannot read the announced bases at all",
+        "their security follows directly from the no-cloning theorem",
+        "the difficulty of distributing a key as long as the message"
       ],
       "correctAnswer": "the difficulty of distributing a key as long as the message"
     },
@@ -64,10 +64,10 @@
       "anki": true,
       "question": "Frequency analysis breaks classical substitution ciphers because",
       "options": [
-        "the cipher key is usually a word taken from a dictionary",
-        "the ciphertext is always shorter than the plaintext",
+        "proof that a message was sent by a particular sender and has not been altered",
         "the ciphertext preserves the statistical frequencies of the plaintext symbols",
-        "the cipher is a linear map that Gaussian elimination inverts"
+        "ordinary optical amplifiers can restore the photon count without adding noise",
+        "quantum mechanics can never be verified experimentally to arbitrary precision"
       ],
       "correctAnswer": "the ciphertext preserves the statistical frequencies of the plaintext symbols"
     },
@@ -76,10 +76,10 @@
       "anki": true,
       "question": "Public-key cryptography solves a problem that symmetric cryptography cannot solve by",
       "options": [
+        "an eavesdropper cannot impersonate one of the two parties during the public exchange of bases and error data",
         "allowing two parties to establish a shared secret over a public channel, with no prior private key exchange",
-        "removing the need for randomness in key generation",
-        "making the encryption one-time and information-theoretically secure",
-        "eliminating the need for authentication certificates"
+        "The theorem applies to arbitrary unknown superpositions, not to states that are already known basis states",
+        "predictable basis choices would let an adversary know which measurements to make in order to avoid detection"
       ],
       "correctAnswer": "allowing two parties to establish a shared secret over a public channel, with no prior private key exchange"
     },
@@ -88,10 +88,10 @@
       "anki": true,
       "question": "The security of RSA rests on",
       "options": [
-        "the one-wayness of a cryptographic hash function",
-        "the difficulty of computing discrete logarithms",
+        "authenticated, so that Eve cannot impersonate Alice or Bob during sifting",
         "the practical difficulty of factoring a large product of two large primes",
-        "the unpredictability of a randomly chosen prime"
+        "convert a plaintext into a ciphertext that cannot be read without the key",
+        "$|0\\rangle$ with probability $1/2$ and $|1\\rangle$ with probability $1/2$"
       ],
       "correctAnswer": "the practical difficulty of factoring a large product of two large primes"
     },
@@ -100,10 +100,10 @@
       "anki": true,
       "question": "Which statement about RSA key sizes is correct?",
       "options": [
-        "RSA key size has no influence on the security of the scheme",
-        "larger moduli make factoring easier because more candidate factors become available",
-        "RSA with a 2048-bit modulus is already known to be broken and cannot be deployed",
-        "larger moduli make factoring harder, which is why recommended RSA key sizes have grown over the decades"
+        "the ability to initialise, manipulate and read out qubits, together with isolation from the environment",
+        "larger moduli make factoring harder, which is why recommended RSA key sizes have grown over the decades",
+        "chain of repeaters that each share entanglement with their neighbours to extend entanglement end to end",
+        "testing whether the observed correlations violate a Bell inequality for more than one pair of settings"
       ],
       "correctAnswer": "larger moduli make factoring harder, which is why recommended RSA key sizes have grown over the decades"
     },
@@ -112,10 +112,10 @@
       "anki": true,
       "question": "Shor's algorithm threatens public-key cryptography because it",
       "options": [
-        "searches an unsorted list of $N$ items in $\\sqrt{N}$ steps",
-        "brute-forces a symmetric key faster than Grover's search can",
         "factors large integers and computes discrete logarithms in polynomial time on a quantum computer",
-        "simulates a large classical computer exactly, with no advantage of its own"
+        "hashes the remaining bits so that Eve's information about them is reduced to a negligible amount",
+        "they are physically equivalent, since every measurement outcome probability is identical for both",
+        "close the locality and detection loopholes, otherwise the violation can be explained classically"
       ],
       "correctAnswer": "factors large integers and computes discrete logarithms in polynomial time on a quantum computer"
     },
@@ -124,10 +124,10 @@
       "anki": true,
       "question": "Grover's algorithm improves unstructured search over $N$ candidates by",
       "options": [
+        "reducing the number of queries to a polynomial in $N$",
         "reducing the number of queries from about $N$ to about $\\sqrt{N}$",
         "increasing the number of required queries by a factor of $\\sqrt{N}$",
-        "giving a constant-factor speedup of exactly $2$",
-        "reducing the number of queries to a polynomial in $N$"
+        "abort the run, since the key bits can no longer be assumed secret"
       ],
       "correctAnswer": "reducing the number of queries from about $N$ to about $\\sqrt{N}$"
     },
@@ -136,10 +136,10 @@
       "anki": true,
       "question": "If Grover's algorithm is applied to a $k$-bit symmetric cipher key, the effective brute-force security becomes",
       "options": [
+        "roughly $2^{k/2}$ candidate keys, i.e. about $k/2$ bits of security",
         "roughly $2^{2k}$ candidate keys, i.e. $2k$ bits of security",
-        "unchanged at $2^k$ candidates, since Grover's algorithm needs the key to be public",
-        "negligible, because Grover's algorithm breaks any symmetric cipher in a few thousand operations",
-        "roughly $2^{k/2}$ candidate keys, i.e. about $k/2$ bits of security"
+        "were measured in the basis matching the one in which they were sent",
+        "the impossibility of generating random numbers quantum mechanically"
       ],
       "correctAnswer": "roughly $2^{k/2}$ candidate keys, i.e. about $k/2$ bits of security"
     },
@@ -148,10 +148,10 @@
       "anki": true,
       "question": "The usual response to Grover's algorithm is to",
       "options": [
-        "reduce the block size of the cipher",
+        "replace random keys with a fixed key agreed once and used forever",
+        "The school reduced its electricity purchases after installing solar panels.",
         "double the symmetric key length, for example moving from AES-128 to AES-256",
-        "switch to a one-time pad of the same key length",
-        "replace random keys with a fixed key agreed once and used forever"
+        "must measure in one of the three bases, which changes the sifted key length"
       ],
       "correctAnswer": "double the symmetric key length, for example moving from AES-128 to AES-256"
     },
@@ -160,10 +160,10 @@
       "anki": true,
       "question": "A cipher is said to be information-theoretically secure when",
       "options": [
-        "the algorithm has been formally proven free of implementation errors",
-        "the key is long enough to make brute force impractical",
-        "breaking it would require more computing power than is available today",
-        "the information an eavesdropper can obtain is bounded by a computable quantity no matter how much computing power is used"
+        "two non-orthogonal bases are needed, so that no measurement can identify the basis without introducing detectable errors",
+        "any attempt to gain information about a quantum state disturbs it, and the disturbance appears as errors in the shared key",
+        "the information an eavesdropper can obtain is bounded by a computable quantity no matter how much computing power is used",
+        "its security can be established from observed correlations alone, without trusting the internal operation of the devices"
       ],
       "correctAnswer": "the information an eavesdropper can obtain is bounded by a computable quantity no matter how much computing power is used"
     },
@@ -172,10 +172,10 @@
       "anki": true,
       "question": "In its ideal form, quantum cryptography differs from classical public-key cryptography because its security",
       "options": [
-        "uses much longer keys than any classical scheme",
+        "information-theoretic, resting on the laws of quantum physics rather than on computational hardness",
+        "produces one definite outcome, and the state after the measurement is the corresponding basis state",
         "follows from the laws of physics rather than from the current difficulty of a computational problem",
-        "requires no generation of random numbers at all",
-        "allows information to be transmitted faster than light"
+        "must interact with the entangled photons, which breaks the correlations tested by Bell's inequality"
       ],
       "correctAnswer": "follows from the laws of physics rather than from the current difficulty of a computational problem"
     },
@@ -184,10 +184,10 @@
       "anki": true,
       "question": "A quantum channel allows something a classical channel cannot, namely",
       "options": [
-        "faster-than-light transfer of information",
-        "unlimited bandwidth regardless of the distance involved",
+        "proved that a quantum state can be copied with fidelity above the classical limit",
+        "The result is always $|0\\rangle$, because a superposition forces the zero outcome",
         "transmitting a quantum state whose measurement statistics can reveal interception",
-        "simultaneous transmission to an unlimited number of recipients"
+        "Both are reversible, so any measurement can be undone by applying a Hadamard gate"
       ],
       "correctAnswer": "transmitting a quantum state whose measurement statistics can reveal interception"
     },
@@ -196,9 +196,9 @@
       "anki": true,
       "question": "A QKD system actually produces",
       "options": [
-        "a digital signature certifying the sender's identity",
-        "a quantum computer that performs the encryption",
+        "destroys the state so completely that no further measurement is possible",
         "the plaintext message itself, delivered without any classical cipher",
+        "every experiment that tests Bell's inequality must support local realism",
         "a shared secret key, which the users then use with a conventional cipher"
       ],
       "correctAnswer": "a shared secret key, which the users then use with a conventional cipher"
@@ -208,9 +208,9 @@
       "anki": true,
       "question": "In QKD, the classical channel is required to be authenticated so that",
       "options": [
-        "the two parties can certify that their devices have not been tampered with",
-        "the measured error rate can be driven below the security threshold",
-        "the key material itself can be sent over the classical channel",
+        "allowing two parties to establish a shared secret over a public channel, with no prior private key exchange",
+        "predictable basis choices would let an adversary know which measurements to make in order to avoid detection",
+        "The theorem applies to arbitrary unknown superpositions, not to states that are already known basis states",
         "an eavesdropper cannot impersonate one of the two parties during the public exchange of bases and error data"
       ],
       "correctAnswer": "an eavesdropper cannot impersonate one of the two parties during the public exchange of bases and error data"
@@ -220,22 +220,22 @@
       "anki": true,
       "question": "Why is QKD expected to resist attacks by future quantum computers while RSA does not?",
       "options": [
-        "QKD keys are additionally encrypted with a quantum-resistant cipher",
-        "QKD networks are isolated from the public internet",
-        "QKD security is based on physical principles rather than computational hardness, and can be proven secure even against unbounded computation",
-        "QKD devices can detect and automatically reverse any quantum attack"
+        "left unauthenticated, since the quantum channel already provides authentication",
+        "Four: $|\\Phi^+\\rangle$, $|\\Phi^-\\rangle$, $|\\Psi^+\\rangle$ and $|\\Psi^-\\rangle$",
+        "computational, resting on the difficulty of a problem such as integer factoring",
+        "QKD security is based on physical principles rather than computational hardness"
       ],
-      "correctAnswer": "QKD security is based on physical principles rather than computational hardness, and can be proven secure even against unbounded computation"
+      "correctAnswer": "QKD security is based on physical principles rather than computational hardness"
     },
     {
       "id": 19,
       "anki": true,
       "question": "Which statement about the difficulty of integer factoring is correct?",
       "options": [
-        "factoring large integers is easy classically but slow on a quantum computer",
-        "factoring is already in polynomial time classically, so quantum computers add nothing",
-        "factoring is proven to require time exponential in the number of digits",
-        "no polynomial-time classical algorithm is known, but Shor's algorithm provides one on a quantum computer"
+        "a random choice from three bases, two of which supply the key and one of which is used for the Bell test",
+        "no polynomial-time classical algorithm is known, but Shor's algorithm provides one on a quantum computer",
+        "deploying hybrid classical and post-quantum key exchange, so security holds if either scheme is unbroken",
+        "photons cannot be amplified without adding noise, so losses must be compensated by entanglement swapping"
       ],
       "correctAnswer": "no polynomial-time classical algorithm is known, but Shor's algorithm provides one on a quantum computer"
     },
@@ -244,10 +244,10 @@
       "anki": true,
       "question": "Quantum computers threaten the Diffie-Hellman key exchange through",
       "options": [
-        "measurement-induced collapse of the shared secret",
         "brute force over a small number of pre-shared values",
-        "Grover's search over the group elements",
-        "Shor's algorithm applied to the discrete logarithm problem"
+        "Shor's algorithm applied to the discrete logarithm problem",
+        "measurement-induced collapse of the shared secret",
+        "the sifted key must be regenerated at every few kilometres"
       ],
       "correctAnswer": "Shor's algorithm applied to the discrete logarithm problem"
     },
@@ -256,10 +256,10 @@
       "anki": true,
       "question": "Post-quantum cryptography differs from quantum cryptography because it",
       "options": [
-        "transmits key material over quantum channels",
-        "uses the same qubit hardware as QKD systems",
-        "guarantees information-theoretic security against every future attack",
-        "runs on ordinary computers using classical algorithms designed to resist quantum attacks"
+        "The experiment was repeated three times, each trial produced slightly different results,",
+        "the assumption that a cryptographic hash function has no practical preimage or collision",
+        "runs on ordinary computers using classical algorithms designed to resist quantum attacks",
+        "The experiment was repeated three times; each trial produced slightly different results."
       ],
       "correctAnswer": "runs on ordinary computers using classical algorithms designed to resist quantum attacks"
     },
@@ -269,9 +269,9 @@
       "question": "A source of true unpredictability is essential in quantum key generation because",
       "options": [
         "predictable basis choices would let an adversary know which measurements to make in order to avoid detection",
-        "classical random number generators are far too slow to keep up with the qubit rate",
-        "quantum measurement always consumes randomness as a resource",
-        "a deterministic generator cannot be implemented in hardware"
+        "allowing two parties to establish a shared secret over a public channel, with no prior private key exchange",
+        "The theorem applies to arbitrary unknown superpositions, not to states that are already known basis states",
+        "an eavesdropper cannot impersonate one of the two parties during the public exchange of bases and error data"
       ],
       "correctAnswer": "predictable basis choices would let an adversary know which measurements to make in order to avoid detection"
     }

@@ -13,12 +13,12 @@
     {
       "question": "What is the gradual and predictable change in the species composition of an ecosystem over time called?",
       "options": [
-        "Natural selection",
-        "Evolution",
+        "Ecological succession",
         "Adaptation",
-        "Ecological succession"
+        "Not composed of cells",
+        "Natural selection"
       ],
-      "answer": 3,
+      "answer": 0,
       "anki": true
     },
     {
@@ -35,12 +35,12 @@
     {
       "question": "Which type of succession occurs in an area where a disturbance has removed an existing community but left soil intact?",
       "options": [
+        "Pioneer succession",
         "Primary succession",
         "Secondary succession",
-        "Pioneer succession",
-        "Climax succession"
+        "Both male and female"
       ],
-      "answer": 1,
+      "answer": 2,
       "anki": true
     },
     {
@@ -68,34 +68,34 @@
     {
       "question": "How do pioneer species like lichens contribute to soil formation?",
       "options": [
-        "They absorb nutrients from the air only",
-        "They bring soil from other areas",
+        "They are closely related and share a recent common ancestor",
         "They secrete acids that break down rock into soil particles",
-        "They produce large amounts of leaves"
-      ],
-      "answer": 2,
-      "anki": true
-    },
-    {
-      "question": "Which group of organisms typically follows lichens and mosses in primary succession?",
-      "options": [
-        "Shrubs",
-        "Small grasses and herbs",
-        "Climax community",
-        "Large trees"
+        "Vesicles are found only in plants; vacuoles only in animals",
+        "The use of legal supplements approved by sports authorities"
       ],
       "answer": 1,
       "anki": true
     },
     {
+      "question": "Which group of organisms typically follows lichens and mosses in primary succession?",
+      "options": [
+        "Climax community",
+        "Large trees",
+        "Ingestive heterotrophic",
+        "Small grasses and herbs"
+      ],
+      "answer": 3,
+      "anki": true
+    },
+    {
       "question": "What is the correct sequence of seres in primary succession on bare rock?",
       "options": [
+        "Shrubs → grasses → mosses → lichens → trees",
         "Lichens and mosses → grasses → shrubs → trees",
         "Trees → shrubs → grasses → lichens → mosses",
-        "Grasses → lichens → trees → shrubs",
-        "Shrubs → grasses → mosses → lichens → trees"
+        "An experiment where all variables are changed"
       ],
-      "answer": 0,
+      "answer": 1,
       "anki": true
     },
     {
@@ -134,10 +134,10 @@
     {
       "question": "Which of the following is an example of primary succession?",
       "options": [
-        "Plant regrowth after a flood",
         "Regrowth after an abandoned farm field",
+        "Iodine-rich foods such as iodized salt and seafood",
         "Growth of plants on a newly formed volcanic island",
-        "Regrowth after a forest fire"
+        "No visible structures because they are transparent"
       ],
       "answer": 2,
       "anki": true
@@ -145,10 +145,10 @@
     {
       "question": "Which of the following is an example of secondary succession?",
       "options": [
-        "Colonization of bare rock by lichens",
         "Mosses growing on a newly exposed rock surface",
+        "Pulling the penis out before ejaculation",
         "Regrowth of a forest after deforestation",
-        "Growth on newly cooled lava"
+        "Colonization of bare rock by lichens"
       ],
       "answer": 2,
       "anki": true
@@ -168,8 +168,8 @@
       "question": "Which of the following is a characteristic of a climax community?",
       "options": [
         "It is the first stage of succession",
+        "To treat minor injuries such as cuts and burns",
         "It consists only of pioneer species",
-        "It has low biodiversity",
         "It is stable and changes very little over time"
       ],
       "answer": 3,
@@ -179,11 +179,11 @@
       "question": "In a tropical region, what type of climax community is most likely to develop?",
       "options": [
         "Grassland",
-        "Tundra",
         "Tropical rainforest",
-        "Desert"
+        "Parasitic nutrition",
+        "Surgical procedures"
       ],
-      "answer": 2,
+      "answer": 1,
       "anki": true
     },
     {
@@ -222,23 +222,23 @@
     {
       "question": "What happens to biodiversity during the process of ecological succession?",
       "options": [
+        "Animals are heterotrophic and capable of movement",
         "It generally increases until the climax community",
-        "It increases and then decreases",
-        "It remains constant throughout",
-        "It decreases steadily"
+        "Greater ability to adapt to changing environments",
+        "Only illegal substances that cause hallucinations"
       ],
-      "answer": 0,
+      "answer": 1,
       "anki": true
     },
     {
       "question": "Which of the following is an example of a human activity that can initiate secondary succession?",
       "options": [
-        "Painting a house",
         "Planting a garden",
-        "Building a dam",
-        "Abandoning farmland"
+        "Theory of evolution",
+        "Abandoning farmland",
+        "Painting a house"
       ],
-      "answer": 3,
+      "answer": 2,
       "anki": true
     },
     {
@@ -255,23 +255,23 @@
     {
       "question": "What happens to soil depth and quality as succession progresses from pioneer to climax community?",
       "options": [
-        "Soil depth and quality increase",
-        "Soil depth decreases",
         "Soil disappears entirely",
-        "Soil quality remains the same"
+        "Soil quality remains the same",
+        "Obesity and unhealthy lifestyle",
+        "Soil depth and quality increase"
       ],
-      "answer": 0,
+      "answer": 3,
       "anki": true
     },
     {
       "question": "Which of the following best describes the difference between primary and secondary succession?",
       "options": [
+        "By understanding ecosystems and protecting biodiversity",
         "Primary occurs in forests; secondary occurs in deserts",
         "Secondary occurs only in aquatic ecosystems",
-        "Primary starts without soil; secondary starts with soil",
-        "Primary is faster than secondary"
+        "Primary starts without soil; secondary starts with soil"
       ],
-      "answer": 2,
+      "answer": 3,
       "anki": true
     }
   ]

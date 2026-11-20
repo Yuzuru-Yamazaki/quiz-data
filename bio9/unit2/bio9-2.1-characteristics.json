@@ -50,9 +50,9 @@
       "question": "The ability of organisms to detect and respond to changes in their environment is called:",
       "options": [
         "Sensitivity",
-        "Growth",
         "Movement",
-        "Nutrition"
+        "Nutrition",
+        "Sperm cells"
       ],
       "correctAnswer": "Sensitivity",
       "explanation": "Sensitivity (also called irritability) allows organisms to respond to stimuli such as light, temperature, and sound.",
@@ -73,10 +73,10 @@
     {
       "question": "The process by which living organisms produce offspring of the same kind is called:",
       "options": [
-        "Nutrition",
+        "Excretion",
         "Reproduction",
         "Respiration",
-        "Excretion"
+        "Tuberculosis"
       ],
       "correctAnswer": "Reproduction",
       "explanation": "Reproduction ensures the continuation of species and can be sexual or asexual.",
@@ -110,9 +110,9 @@
       "question": "What distinguishes living things from non-living things?",
       "options": [
         "They possess all seven characteristics of life",
-        "They are made of atoms",
-        "They have mass",
-        "They occupy space"
+        "Both have cell walls made of the same material",
+        "A spiral-shaped bacterium (Treponema pallidum)",
+        "Are separated by a thick wall with no exchange"
       ],
       "correctAnswer": "They possess all seven characteristics of life",
       "explanation": "Living things exhibit all seven life processes (MRSGREN), while non-living things may show some but not all.",
@@ -145,9 +145,9 @@
     {
       "question": "Plants show movement primarily through:",
       "options": [
-        "Flying in air",
-        "Swimming in water",
         "Growth movements such as tropisms",
+        "The cells would be stained better",
+        "Using a condom during intercourse",
         "Running away from danger"
       ],
       "correctAnswer": "Growth movements such as tropisms",
@@ -157,10 +157,10 @@
     {
       "question": "The process by which plants make their own food using sunlight is called:",
       "options": [
-        "Digestion",
-        "Photosynthesis",
+        "Female workers",
+        "Fermentation",
         "Respiration",
-        "Fermentation"
+        "Photosynthesis"
       ],
       "correctAnswer": "Photosynthesis",
       "explanation": "Photosynthesis is the process by which green plants use sunlight, carbon dioxide, and water to produce glucose and oxygen.",
@@ -181,10 +181,10 @@
     {
       "question": "What is the difference between egestion and excretion?",
       "options": [
-        "Both remove only solid wastes",
+        "By developing better crop varieties and improving livestock breeding",
         "Excretion removes undigested food, egestion removes metabolic wastes",
         "Egestion removes undigested food, excretion removes metabolic wastes",
-        "They are the same process"
+        "Prokaryotes can be unicellular, and all eukaryotes are multicellular"
       ],
       "correctAnswer": "Egestion removes undigested food, excretion removes metabolic wastes",
       "explanation": "Egestion is the removal of undigested food (faeces), while excretion removes metabolic wastes like urea and carbon dioxide.",
@@ -193,10 +193,10 @@
     {
       "question": "Which characteristic is essential for the continuation of a species over generations?",
       "options": [
-        "Movement",
-        "Growth",
         "Nutrition",
-        "Reproduction"
+        "Reproduction",
+        "Liver cancer",
+        "Movement"
       ],
       "correctAnswer": "Reproduction",
       "explanation": "Without reproduction, species would become extinct because individuals eventually die.",
@@ -207,7 +207,7 @@
       "options": [
         "Not be able to release energy from food",
         "Become more sensitive to stimuli",
-        "Continue to grow normally",
+        "All cells arise from pre-existing cells",
         "Still reproduce successfully"
       ],
       "correctAnswer": "Not be able to release energy from food",
@@ -217,10 +217,10 @@
     {
       "question": "Which statement about non-living things is correct?",
       "options": [
-        "They show all characteristics of life",
-        "They show none of the characteristics of life",
         "They grow and reproduce like living things",
-        "They may show some life characteristics but not all"
+        "They show none of the characteristics of life",
+        "They may show some life characteristics but not all",
+        "Asexual reproduction always produces more offspring"
       ],
       "correctAnswer": "They may show some life characteristics but not all",
       "explanation": "Non-living things may show one or two life processes (e.g., crystals grow) but do not exhibit all seven characteristics.",
@@ -242,9 +242,9 @@
       "question": "Which of the following is an example of sensitivity in plants?",
       "options": [
         "A sunflower turning toward sunlight",
-        "A tree growing taller",
-        "Leaves falling in autumn",
-        "A plant producing seeds"
+        "A disease caused by genetic factors",
+        "A plant producing seeds",
+        "Leaves falling in autumn"
       ],
       "correctAnswer": "A sunflower turning toward sunlight",
       "explanation": "Turning toward sunlight (phototropism) is a response to a stimulus, demonstrating sensitivity.",
@@ -278,8 +278,8 @@
       "question": "Which process in living things is the opposite of respiration?",
       "options": [
         "Excretion",
+        "Casual hugging",
         "Photosynthesis",
-        "Movement",
         "Digestion"
       ],
       "correctAnswer": "Photosynthesis",
@@ -289,10 +289,10 @@
     {
       "question": "Why is a car not considered a living thing even though it moves?",
       "options": [
-        "It uses fuel",
-        "It can carry passengers",
-        "It has an engine",
-        "It does not show all characteristics of life"
+        "Because animals bring seeds from other areas",
+        "To provide structural support and protection",
+        "It does not show all characteristics of life",
+        "They can photosynthesize and are autotrophic"
       ],
       "correctAnswer": "It does not show all characteristics of life",
       "explanation": "A car may show movement but it does not respire, grow, reproduce, excrete, or show sensitivity, so it lacks most life characteristics.",
@@ -301,9 +301,9 @@
     {
       "question": "What happens to the growth of a living organism when it reaches maturity?",
       "options": [
+        "Within the 4-day fertile window around ovulation",
         "It continues growing at the same rate forever",
-        "It starts shrinking",
-        "Growth stops completely at maturity",
+        "Point the open end away from yourself and others",
         "Growth slows down but cell replacement continues"
       ],
       "correctAnswer": "Growth slows down but cell replacement continues",

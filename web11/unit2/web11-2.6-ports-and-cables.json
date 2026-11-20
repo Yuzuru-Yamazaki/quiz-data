@@ -15,10 +15,10 @@
       "anki": true,
       "question": "What is the main purpose of computer ports and cables?",
       "options": [
-        "To permanently store the operating system",
+        "They are equipped to handle and process electronic waste in an environmentally friendly manner",
         "To connect devices and peripherals and facilitate data transfer, power supply and communication",
-        "To increase the amount of RAM in a computer",
-        "To cool the internal components of a computer"
+        "A powerful electronic device that can perform various tasks, process data, and execute instructions",
+        "A subsystem that transfers data between computer components inside a computer or between computers"
       ],
       "correctAnswer": "To connect devices and peripherals and facilitate data transfer, power supply and communication"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "What does HDMI stand for?",
       "options": [
+        "High-Density Memory Interface",
         "Hard-Drive Management Interface",
-        "High-Definition Monitor Input",
-        "High-Definition Multimedia Interface",
-        "High-Density Memory Interface"
+        "USB 2.0, USB 3.0, USB 3.1, and USB-C",
+        "High-Definition Multimedia Interface"
       ],
       "correctAnswer": "High-Definition Multimedia Interface"
     },
@@ -64,9 +64,9 @@
       "question": "HDMI ports are primarily used to connect computers to which type of device?",
       "options": [
         "External displays such as monitors, TVs and projectors",
-        "Headphones and microphones",
-        "Power outlets and surge protectors",
-        "Wired networks and the internet"
+        "It is a parallel bus that shares the same set of wires",
+        "A. Permanent instructions such as boot-up instructions",
+        "Designing interfaces to implementing server-side logic"
       ],
       "correctAnswer": "External displays such as monitors, TVs and projectors"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "Which signals does an HDMI port transmit to allow seamless multimedia playback?",
       "options": [
-        "Only digital data signals",
-        "Only analog audio signals",
         "High-quality audio and video signals",
-        "Only power signals"
+        "Only analog audio signals",
+        "Only digital data signals",
+        "B. Increased efficiency and accuracy"
       ],
       "correctAnswer": "High-quality audio and video signals"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Which video interface supports high-resolution video and audio and can also carry data signals?",
       "options": [
-        "VGA",
-        "Ethernet",
+        "DVI",
         "DisplayPort",
-        "DVI"
+        "Ethernet",
+        "3.5mm ports"
       ],
       "correctAnswer": "DisplayPort"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "What is the main use of an Ethernet port?",
       "options": [
-        "Connecting headphones and microphones",
-        "Wired network connections to LANs and the internet",
+        "B. Millions or billions of instructions per second",
+        "Connecting external monitors and projectors",
         "Connecting the computer to a power source",
-        "Connecting external monitors and projectors"
+        "Wired network connections to LANs and the internet"
       ],
       "correctAnswer": "Wired network connections to LANs and the internet"
     },
@@ -135,9 +135,9 @@
       "anki": true,
       "question": "Audio ports on computers are typically which type of jack?",
       "options": [
-        "HDMI jacks",
         "RJ-45 jacks",
         "USB-C jacks",
+        "Thunderbolt ports",
         "3.5mm audio jacks"
       ],
       "correctAnswer": "3.5mm audio jacks"
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "What does DVI stand for?",
       "options": [
-        "Digital Video Input",
+        "Authentication protocols",
         "Direct Visual Input",
-        "Digital Visual Interface",
-        "Display Video Interface"
+        "Display Video Interface",
+        "Digital Visual Interface"
       ],
       "correctAnswer": "Digital Visual Interface"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "DVI ports can support which signals?",
       "options": [
-        "Only analog signals",
-        "Only audio signals",
+        "Only digital signals",
         "Both analog and digital signals",
-        "Only digital signals"
+        "Wired networks and the internet",
+        "Only analog signals"
       ],
       "correctAnswer": "Both analog and digital signals"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "Thunderbolt ports are high-speed ports that can transmit which signals?",
       "options": [
-        "Only analog video signals",
-        "Only power signals",
         "Only audio signals",
-        "Both data and video signals"
+        "Both data and video signals",
+        "By never changing job roles",
+        "Only analog video signals"
       ],
       "correctAnswer": "Both data and video signals"
     },
@@ -231,20 +231,20 @@
       "anki": true,
       "question": "True or False: Ethernet cables such as Cat5e and Cat6 are examples of common cable types.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 20,
       "anki": true,
       "question": "True or False: The availability of specific ports and cables can vary depending on the computer model and its intended use.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     }
   ]
 }

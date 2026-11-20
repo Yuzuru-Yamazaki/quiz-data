@@ -113,7 +113,7 @@
     {
       "question": "The process by which energy is transferred from plants through a chain of organisms is known as what?",
       "options": [
-        "Decomposition",
+        "Breathing and gas exchange",
         "The water cycle",
         "The food chain or food web",
         "Photosynthesis"
@@ -124,10 +124,10 @@
     {
       "question": "What does a food chain represent?",
       "options": [
-        "Climate patterns",
+        "A vital nutrient like nitrogen and phosphorus for plant growth",
         "Nutritive interaction among biotic components of the ecosystem",
-        "The water cycle",
-        "Abiotic factors in an ecosystem"
+        "They serve as a storage reserve for amino acids and metal ions",
+        "Amino group, carboxylic acid group, hydrogen atom, and R group"
       ],
       "correctAnswer": "Nutritive interaction among biotic components of the ecosystem",
       "id": 11
@@ -146,10 +146,10 @@
     {
       "question": "From where to where does energy flow in a food chain?",
       "options": [
-        "From decomposers to producers",
+        "A cup-shaped chamber surrounding the glomerulus",
         "From the sun to producers and then to consumers",
-        "From herbivores to carnivores only",
-        "From consumers to producers"
+        "Because there is no more space in the ecosystem",
+        "They are insoluble in water and pushed together"
       ],
       "correctAnswer": "From the sun to producers and then to consumers",
       "id": 13
@@ -157,10 +157,10 @@
     {
       "question": "Where are plants (producers) positioned in a food chain?",
       "options": [
-        "At the base or beginning",
+        "Blood entering the aorta",
+        "In the middle",
         "At multiple positions",
-        "At the top",
-        "In the middle"
+        "At the base or beginning"
       ],
       "correctAnswer": "At the base or beginning",
       "id": 14
@@ -168,10 +168,10 @@
     {
       "question": "What is a trophic level?",
       "options": [
-        "The type of food an organism eats",
-        "The amount of energy in an organism",
-        "The habitat of an organism",
-        "The position of an organism in an order of receiving energy"
+        "The position of an organism in an order of receiving energy",
+        "Behavior, internal and external structure, and reproduction",
+        "Between biotic (living) and abiotic (non-living) components",
+        "Small, single molecular units that combine to form polymers"
       ],
       "correctAnswer": "The position of an organism in an order of receiving energy",
       "id": 15
@@ -179,10 +179,10 @@
     {
       "question": "How many trophic levels do food chains usually range from?",
       "options": [
-        "1 to 3 or 4",
         "7 to 10",
-        "1 to 2",
-        "5 to 6"
+        "5 to 6",
+        "Dean of Law",
+        "1 to 3 or 4"
       ],
       "correctAnswer": "1 to 3 or 4",
       "id": 16
@@ -223,10 +223,10 @@
     {
       "question": "What is a feeding level?",
       "options": [
-        "The method of hunting",
+        "The amount of food an organism eats",
         "The order of consuming or eating one another",
-        "The type of food available in an ecosystem",
-        "The amount of food an organism eats"
+        "Prophase, metaphase, anaphase, and telophase",
+        "The type of food available in an ecosystem"
       ],
       "correctAnswer": "The order of consuming or eating one another",
       "id": 20
@@ -256,9 +256,9 @@
     {
       "question": "An omnivorous animal occupies how many positions in the food chain?",
       "options": [
-        "More than one position",
-        "Only one position",
         "No fixed position",
+        "The nucleotides of DNA",
+        "More than one position",
         "Exactly two positions"
       ],
       "correctAnswer": "More than one position",
@@ -267,10 +267,10 @@
     {
       "question": "What is a food web?",
       "options": [
-        "A diagram of plant growth",
         "An interconnected food chain that makes interwoven or web-like structures",
-        "A method of hunting",
-        "A single path of energy flow"
+        "Yes, as long as there is sufficient $H^+$ and ATP from the light reaction",
+        "Carbon's ability to form large and complex molecules via covalent bonding",
+        "The use of living organisms or their products for the welfare of humanity"
       ],
       "correctAnswer": "An interconnected food chain that makes interwoven or web-like structures",
       "id": 24
@@ -278,9 +278,9 @@
     {
       "question": "What type of energy flow does a food web exhibit?",
       "options": [
-        "Multidirectional",
-        "Cyclical",
+        "Only after age 5",
         "Unidirectional",
+        "Multidirectional",
         "No energy flow"
       ],
       "correctAnswer": "Multidirectional",
@@ -290,9 +290,9 @@
       "question": "How does a food chain differ from a food web in terms of paths?",
       "options": [
         "Food chain follows a single path, food web follows multiple paths",
-        "Both follow multiple paths",
+        "Elongated dead cells joined end to end to form continuous vessels",
         "Food chain follows multiple paths, food web follows a single path",
-        "Both follow single paths"
+        "Rainfall at a distance or melting ice or snow from high mountains"
       ],
       "correctAnswer": "Food chain follows a single path, food web follows multiple paths",
       "id": 26
@@ -322,9 +322,9 @@
     {
       "question": "What is the second trophic level organism in Figure 6.2 of the textbook?",
       "options": [
-        "Grass",
-        "Frog",
         "Grasshopper",
+        "In the pith",
+        "Grass",
         "Eagle"
       ],
       "correctAnswer": "Grasshopper",
@@ -378,8 +378,8 @@
       "question": "In Figure 6.1, what does C2 stand for?",
       "options": [
         "Tertiary carnivore",
+        "Their large flowers",
         "Secondary consumer",
-        "Primary carnivore",
         "Secondary carnivore"
       ],
       "correctAnswer": "Secondary carnivore",

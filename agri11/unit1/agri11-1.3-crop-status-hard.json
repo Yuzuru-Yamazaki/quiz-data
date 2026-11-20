@@ -18,9 +18,9 @@
       "anki": true,
       "question": "Biotechnology and information technology define the era from",
       "options": [
-        "1970 to present",
-        "1930 to 1950",
+        "Every two years",
         "1950 to 1970",
+        "1970 to present",
         "1900 to 1930"
       ],
       "correctAnswer": "1970 to present"
@@ -42,10 +42,10 @@
       "anki": true,
       "question": "Low productivity per hectare despite area expansion suggests",
       "options": [
-        "Limited intensification of production",
+        "Contagious bacterial pulmonary plague",
         "Land is already fully utilized by farmers",
-        "Inputs are excessive",
-        "Droughts are absent"
+        "Required for the practice of religion",
+        "Limited intensification of production"
       ],
       "correctAnswer": "Limited intensification of production"
     },
@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Which factor pair are both principal causes of low yield?",
       "options": [
+        "Only certain wild animals kept for their food",
         "Soil degradation together with low irrigation",
         "High input use together with full irrigation water",
-        "Improved seeds and fertilizer",
-        "Crop rotation and fallowing"
+        "Uniform across all the regions of the country"
       ],
       "correctAnswer": "Soil degradation together with low irrigation"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "The use of draft animals increased the",
       "options": [
-        "Efficiency of land preparation",
+        "Requires flooding every season",
         "Crop diversity across the whole farm",
-        "Soil acidity",
-        "Post-harvest loss"
+        "Alpine and cold mountain zones",
+        "Efficiency of land preparation"
       ],
       "correctAnswer": "Efficiency of land preparation"
     },
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "Which set reflects modern yield-enhancing technology?",
       "options": [
-        "Machinery, agrochemicals and irrigation water",
-        "Fallowing, shifting, grazing",
+        "Crop farming versus livestock keeping systems",
         "Hand tools, manure and rainfed crop farming systems",
-        "Burning, clearing, hunting"
+        "Machinery, agrochemicals and irrigation water",
+        "Soil degradation together with low irrigation"
       ],
       "correctAnswer": "Machinery, agrochemicals and irrigation water"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "The claim that yield per unit area stayed flat is supported by",
       "options": [
-        "Limited yield evidence",
-        "Rapid yield growth",
         "Complete yield data",
-        "Rising irrigation"
+        "Limited yield evidence",
+        "Only chemical spraying",
+        "Rapid yield growth"
       ],
       "correctAnswer": "Limited yield evidence"
     },
@@ -162,10 +162,10 @@
       "anki": true,
       "question": "Ethiopia's five major crops occupy about",
       "options": [
-        "Three quarters of the cultivated area",
+        "One tenth of cultivated area",
+        "Egg size, wool length, hide thickness",
         "About one fifth of all the cultivated area",
-        "Half of cultivated area",
-        "One tenth of cultivated area"
+        "Three quarters of the cultivated area"
       ],
       "correctAnswer": "Three quarters of the cultivated area"
     },
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "A strategy to stabilize food supply should combine higher yield with",
       "options": [
-        "Lower yield variability",
         "Larger cultivated area",
         "More fallow land",
-        "Fewer inputs"
+        "60 to 75 kg per hectare",
+        "Lower yield variability"
       ],
       "correctAnswer": "Lower yield variability"
     }

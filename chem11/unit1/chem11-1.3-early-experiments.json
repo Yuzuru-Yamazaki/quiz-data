@@ -51,8 +51,8 @@
       "anki": true,
       "question": "Cathode rays are rays that originate from the:",
       "options": [
-        "charged metal plates",
         "cathode (negative electrode)",
+        "guaranteed in excited states",
         "glass wall of the tube",
         "anode (positive electrode)"
       ],
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "Thomson concluded from his cathode ray experiments that a cathode ray consists of a beam of:",
       "options": [
-        "photons",
-        "neutral particles",
         "negatively charged particles (electrons)",
-        "positively charged particles"
+        "positively charged particles",
+        "the total number of protons and neutrons",
+        "alpha particles passed through gold foil"
       ],
       "correctAnswer": "negatively charged particles (electrons)"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Thomson showed that the characteristics of cathode rays are independent of the:",
       "options": [
-        "material making up the cathode",
+        "temperature of the tube",
+        "have identical quantum numbers",
         "length of the glass tube",
-        "voltage of the source",
-        "temperature of the tube"
+        "material making up the cathode"
       ],
       "correctAnswer": "material making up the cathode"
     },
@@ -124,9 +124,9 @@
       "question": "In 1909, the American physicist who measured the charge of the electron was:",
       "options": [
         "Robert A. Millikan",
-        "Ernest Rutherford",
-        "J.J. Thomson",
-        "James Chadwick"
+        "have the same spin",
+        "James Chadwick",
+        "Ernest Rutherford"
       ],
       "correctAnswer": "Robert A. Millikan"
     },
@@ -136,9 +136,9 @@
       "question": "Millikan measured the charge of the electron by measuring the effect of an electrical field on the rate at which:",
       "options": [
         "charged oil drops fell under the influence of gravity",
-        "alpha particles passed through gold foil",
-        "cathode rays bent in a magnetic field",
-        "gas atoms emitted light"
+        "spherical (spherically symmetrical about the nucleus)",
+        "a positively charged particle identical to the proton",
+        "may be any positive integer, $n = 1, 2, 3, 4, \\dots$"
       ],
       "correctAnswer": "charged oil drops fell under the influence of gravity"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "In Thomson's plum-pudding model, the electrons and protons of the atom were described as:",
       "options": [
+        "the special stability of a half-filled 4p subshell",
         "orbiting the nucleus in circular paths",
-        "clustered at the center of the atom",
         "randomly distributed in a positively charged cloud",
-        "arranged along the x, y, and z axes"
+        "the number of cycles the wave undergoes per second"
       ],
       "correctAnswer": "randomly distributed in a positively charged cloud"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "In 1911, Rutherford tested Thomson's model by aiming positively charged alpha particles at:",
       "options": [
-        "a charged oil drop",
-        "a beryllium target",
+        "were absorbed by the foil",
         "a glass cathode ray tube",
-        "a thin sheet of gold foil"
+        "a thin sheet of gold foil",
+        "a beryllium target"
       ],
       "correctAnswer": "a thin sheet of gold foil"
     },
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "A few of the alpha particles in Rutherford's experiment were deflected so much that they:",
       "options": [
-        "went back in the opposite direction",
+        "$9.109 \\times 10^{-31}$ kg C$^{-1}$",
         "were converted into gamma rays",
-        "stopped moving entirely",
-        "combined with the gold atoms"
+        "combined with the gold atoms",
+        "went back in the opposite direction"
       ],
       "correctAnswer": "went back in the opposite direction"
     },
@@ -255,10 +255,10 @@
       "anki": true,
       "question": "How does the mass of an alpha particle compare with the mass of a hydrogen atom?",
       "options": [
-        "exactly equal",
+        "about half the mass",
         "twice the mass",
-        "about four times the mass",
-        "about half the mass"
+        "the speed of the electron",
+        "about four times the mass"
       ],
       "correctAnswer": "about four times the mass"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "Beta particles are best described as:",
       "options": [
-        "high-energy photons",
+        "alpha particles passed through gold foil",
+        "cause the atoms to lose electrons easily",
         "electrons coming from inside the nucleus",
-        "alpha particles from the nucleus",
-        "neutral particles"
+        "alpha particles from the nucleus"
       ],
       "correctAnswer": "electrons coming from inside the nucleus"
     },
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "Gamma rays are best described as:",
       "options": [
-        "electrons emitted from the nucleus",
-        "negatively charged particles deflected by electric fields",
-        "positively charged particles identical to helium nuclei",
-        "high-energy rays with no charge that are not affected by electric or magnetic fields"
+        "each occupied by a single electron before pairing of electrons of opposite spin occurs",
+        "high-energy rays with no charge that are not affected by electric or magnetic fields",
+        "discontinuous and is emitted or absorbed only in discrete quantities called quanta",
+        "a nuclear particle with a mass almost identical to that of the proton but no electric charge"
       ],
       "correctAnswer": "high-energy rays with no charge that are not affected by electric or magnetic fields"
     },
@@ -291,10 +291,10 @@
       "anki": true,
       "question": "Radioactivity (radioactive decay) is best defined as:",
       "options": [
-        "the splitting of white light into a spectrum",
-        "the emission of light by excited atoms",
         "the spontaneous emission of particles and/or radiation from unstable nuclei",
-        "the deflection of cathode rays in a magnetic field"
+        "the lowest-energy orbital available before entering higher-energy orbitals",
+        "characteristic of the element producing them and used for its identification",
+        "the energy of the electron in the atom is lower than that of a free electron"
       ],
       "correctAnswer": "the spontaneous emission of particles and/or radiation from unstable nuclei"
     },
@@ -303,10 +303,10 @@
       "anki": true,
       "question": "In 1932, James Chadwick showed that when beryllium metal is irradiated with alpha rays, the strongly penetrating radiation produced consists of:",
       "options": [
-        "beta particles",
+        "filled according to random chance",
+        "$A = (A_1 + A_2 + \\dots + A_n)/n$",
         "neutral particles called neutrons",
-        "gamma rays",
-        "new alpha particles"
+        "electric field and magnetic field"
       ],
       "correctAnswer": "neutral particles called neutrons"
     },
@@ -315,12 +315,12 @@
       "anki": true,
       "question": "Which statement best describes the neutron?",
       "options": [
-        "a nuclear particle with a mass almost identical to that of the proton but no electric charge",
-        "a particle whose mass is 1840 times that of the proton",
-        "a positively charged particle identical to the proton",
-        "a particle with one negative charge"
+        "a nuclear particle with a mass almost identical to that of the proton but no electri",
+        "high-energy rays with no charge that are not affected by electric or magnetic fields",
+        "each occupied by a single electron before pairing of electrons of opposite spin occurs",
+        "discontinuous and is emitted or absorbed only in discrete quantities called quanta"
       ],
-      "correctAnswer": "a nuclear particle with a mass almost identical to that of the proton but no electric charge"
+      "correctAnswer": "a nuclear particle with a mass almost identical to that of the proton but no electri"
     }
   ]
 }

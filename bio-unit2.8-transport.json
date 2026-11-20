@@ -14,10 +14,10 @@
       "id": 1,
       "question": "What are the transporting vessels of higher plants collectively called?",
       "options": [
-        "Vascular bundles",
         "Fibres",
-        "Capillaries",
-        "Veins"
+        "Vascular bundles",
+        "Escherichia coli",
+        "Capillaries"
       ],
       "correctAnswer": "Vascular bundles"
     },
@@ -26,9 +26,9 @@
       "question": "What are the two types of transporting vessels in plants?",
       "options": [
         "Xylem and phloem",
-        "Root and stem",
-        "Cortex and pith",
-        "Leaf and flower"
+        "Leaf and flower",
+        "Salivary amylase",
+        "Cortex and pith"
       ],
       "correctAnswer": "Xylem and phloem"
     },
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "What does xylem transport?",
       "options": [
-        "Water and minerals from root to leaf",
+        "The number of heart beats per minute",
         "Food from leaves to roots",
-        "Only water",
-        "Only minerals"
+        "Returning nutrients to the ecosystem",
+        "Water and minerals from root to leaf"
       ],
       "correctAnswer": "Water and minerals from root to leaf"
     },
@@ -47,10 +47,10 @@
       "id": 4,
       "question": "What type of cells make up xylem?",
       "options": [
-        "Living cells arranged end to end",
+        "Using a single adult sheep cell and a process of nuclear transfer",
         "Elongated dead cells joined end to end to form continuous vessels",
-        "Meristematic cells",
-        "Thin-walled parenchyma cells"
+        "They do not respond normally to the cell cycle controlling system",
+        "Nose, larynx, pharynx, trachea, bronchi, bronchioles, and alveoli"
       ],
       "correctAnswer": "Elongated dead cells joined end to end to form continuous vessels"
     },
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "What does phloem transport?",
       "options": [
-        "Water and minerals",
-        "Only minerals",
+        "The stage of preparation where a cell exhibits growth and DNA synthesis",
         "Organic matter (food) manufactured in the leaf to the rest of the plant",
-        "Only water"
+        "Daughter cells receive chromosomes that are the same in number and kind",
+        "A dome-shaped sheet of muscle separating thoracic from abdominal cavity"
       ],
       "correctAnswer": "Organic matter (food) manufactured in the leaf to the rest of the plant"
     },
@@ -92,9 +92,9 @@
       "question": "What substances does phloem transport?",
       "options": [
         "Only amino acids",
+        "Nitrogen and phosphorus",
         "Water and minerals",
-        "Sucrose and amino acids",
-        "Only sucrose"
+        "Sucrose and amino acids"
       ],
       "correctAnswer": "Sucrose and amino acids"
     },
@@ -104,8 +104,8 @@
       "options": [
         "No, only downward",
         "Only horizontally",
-        "No, only upward",
-        "Yes, both up and down"
+        "Yes, both up and down",
+        "The genetic parentage"
       ],
       "correctAnswer": "Yes, both up and down"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "What are sites of food production (sources) and sites of use or storage (sinks) connected by?",
       "options": [
-        "Only xylem",
+        "A living organism's behavior",
         "Translocation through phloem",
-        "Only leaves",
-        "Only roots"
+        "Outside the nuclear membrane",
+        "Olfactory nerves are damaged"
       ],
       "correctAnswer": "Translocation through phloem"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "Why is the stem of sugar cane so sweet?",
       "options": [
-        "It contains more water",
-        "It produces sugar directly",
+        "By identifying the types and numbers of microscopic organisms found in ecosystem samples",
+        "From the non-living environment to living organisms and back to the non-living environment",
         "Sugars synthesized in the leaf are converted to starch and accumulated in storage organs",
-        "It absorbs sugar from soil"
+        "If dried, crushed, and diluted in water they would kill snails at very low concentrations"
       ],
       "correctAnswer": "Sugars synthesized in the leaf are converted to starch and accumulated in storage organs"
     },
@@ -135,10 +135,10 @@
       "id": 12,
       "question": "What are examples of storage organs in plants?",
       "options": [
-        "Only roots",
+        "Because materials are found in limited amounts",
+        "The use of biological knowledge to manage life",
         "Root and stem tubers, leaves, seeds and fruits",
-        "Only fruits",
-        "Only stems"
+        "Bananas, oranges, potatoes, chicken, and liver"
       ],
       "correctAnswer": "Root and stem tubers, leaves, seeds and fruits"
     },
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "How does water from the soil first enter the root?",
       "options": [
-        "Through root hairs, which are elongated single cells",
-        "Through the pericycle",
-        "Through the root cap",
-        "Through the endodermis"
+        "It grows straight because rotation overcomes gravity",
+        "A unit character such as height, body colour, or sex",
+        "The most prestigious agricultural prize in the world",
+        "Through root hairs, which are elongated single cells"
       ],
       "correctAnswer": "Through root hairs, which are elongated single cells"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What do root hairs provide that allows more water to enter the root?",
       "options": [
-        "A thick barrier",
+        "A selective filter",
+        "Liquid droplets only",
         "A waterproof layer",
-        "A large surface area",
-        "A selective filter"
+        "A large surface area"
       ],
       "correctAnswer": "A large surface area"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "How does water pass from cell to cell across the root?",
       "options": [
-        "Only by diffusion",
-        "Only by active transport",
         "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall",
-        "Only by osmosis"
+        "For dual purpose: harvest the legumes as a crop and use fixed nitrogen in soil for non-legume crops",
+        "A field of science used to gather and analyze evidence to establish facts used in a legal scenario",
+        "More auxin on the shaded part of the root inhibits cell elongation compared to the illuminated side"
       ],
       "correctAnswer": "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall"
     },
@@ -190,10 +190,10 @@
       "id": 17,
       "question": "Does water pass actively or passively across the root cells?",
       "options": [
-        "Both actively and passively",
-        "Neither",
-        "Actively (spending energy)",
-        "Passively (without spending additional energy)"
+        "Passively (without spending additional energy)",
+        "After the four stages of mitosis are completed",
+        "Unsaturated ones are solid at room temperature",
+        "Stomach acid from entering the small intestine"
       ],
       "correctAnswer": "Passively (without spending additional energy)"
     },
@@ -202,9 +202,9 @@
       "question": "What is the main force responsible for pulling water from root to leaves through xylem?",
       "options": [
         "Osmotic pressure",
-        "Root pressure",
-        "Transpiration pull",
-        "Capillary action"
+        "Capillary action",
+        "Complement cascade",
+        "Transpiration pull"
       ],
       "correctAnswer": "Transpiration pull"
     },
@@ -212,10 +212,10 @@
       "id": 19,
       "question": "What creates the transpiration pull?",
       "options": [
-        "Wind blowing",
-        "Water evaporating from leaves",
-        "Root absorption",
-        "Soil water pressure"
+        "Four identical daughter cells",
+        "Soil water pressure",
+        "The total number of organisms",
+        "Water evaporating from leaves"
       ],
       "correctAnswer": "Water evaporating from leaves"
     },
@@ -223,10 +223,10 @@
       "id": 20,
       "question": "What helps resist the downward pull of gravity on water in the xylem?",
       "options": [
-        "Active transport",
-        "Osmosis",
-        "Root pressure",
-        "Adhesion of water to the cell wall by hydrogen bonds"
+        "Which antigens are on the surface of red blood cells",
+        "Their narrow needle-shaped leaves with thick cuticle",
+        "Adhesion of water to the cell wall by hydrogen bonds",
+        "A process by which a cell loses its genetic material"
       ],
       "correctAnswer": "Adhesion of water to the cell wall by hydrogen bonds"
     },
@@ -234,10 +234,10 @@
       "id": 21,
       "question": "What helps hold together the column of water within xylem cells?",
       "options": [
-        "Adhesion",
-        "Cohesion due to hydrogen bonds between water molecules",
-        "Gravity",
-        "Root pressure"
+        "No, they do not shade their leaves in winter or summer",
+        "The vein (transporting vessels) and supportive tissues",
+        "Symbiotic nitrogen fixation and non-symbiotic fixation",
+        "Cohesion due to hydrogen bonds between water molecules"
       ],
       "correctAnswer": "Cohesion due to hydrogen bonds between water molecules"
     },
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "In what form do minerals enter the root?",
       "options": [
-        "Ionic (charged) form",
         "Molecular form",
-        "Gaseous form",
-        "Solid form"
+        "Periodontal ligament",
+        "Ionic (charged) form",
+        "Gaseous form"
       ],
       "correctAnswer": "Ionic (charged) form"
     },
@@ -256,10 +256,10 @@
       "id": 23,
       "question": "How are minerals taken up when concentration is higher in plant cells than outside?",
       "options": [
-        "Passively by diffusion",
+        "The atmosphere (air), hydrosphere (water), and lithosphere (soil)",
+        "Food chain follows a single path, food web follows multiple paths",
         "Actively by cell spending energy against a concentration gradient",
-        "By transpiration pull",
-        "By osmosis"
+        "Rainfall at a distance or melting ice or snow from high mountains"
       ],
       "correctAnswer": "Actively by cell spending energy against a concentration gradient"
     },
@@ -278,10 +278,10 @@
       "id": 25,
       "question": "What happens in the ringing experiment?",
       "options": [
-        "The whole stem is cut",
+        "Unilateral stimulus causing unequal production or distribution of growth hormone resulting in unequal growth",
+        "A type of nuclear division where duplicated chromosomes are distributed between two identical daughter cells",
         "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts",
-        "The xylem is removed",
-        "The leaves are removed"
+        "Hydrophilic heads lie in watery solutions outside the membrane, hydrophobic tails form an impermeable layer"
       ],
       "correctAnswer": "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts"
     },
@@ -289,10 +289,10 @@
       "id": 26,
       "question": "What is observed in the upper part of the girdled area after a few days?",
       "options": [
-        "A swelling due to accumulation of food materials translocated from the leaf",
-        "The stem turns green",
-        "The plant dies immediately",
-        "New roots grow"
+        "Skeletal muscle action, respiratory movement, and smooth muscle contraction",
+        "Because glucose would dissolve and compromise the cell's osmotic properties",
+        "The amount of energy, biomass, or number of organisms at each trophic level",
+        "A swelling due to accumulation of food materials translocated from the leaf"
       ],
       "correctAnswer": "A swelling due to accumulation of food materials translocated from the leaf"
     },
@@ -300,10 +300,10 @@
       "id": 27,
       "question": "What are aphids?",
       "options": [
-        "A type of bacteria",
-        "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap",
-        "A type of root nodule",
-        "A type of fungus"
+        "Active transport where living phloem cells use energy obtained by metabolic process",
+        "Water molecules are attracted to ions and polar molecules, causing them to separate",
+        "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia",
+        "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap"
       ],
       "correctAnswer": "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap"
     },
@@ -311,10 +311,10 @@
       "id": 28,
       "question": "What will ultimately happen to a plant that is ringed?",
       "options": [
-        "It will grow faster",
+        "In waterlogged soils (anoxic), layers of sediments in lakes and oceans",
+        "Chemotherapy, sometimes followed by radiation and stem-cell transplant",
         "It will die because of disruption of food transport through the phloem",
-        "It will develop a new phloem layer",
-        "It will produce more fruit"
+        "That all species had been created by God at the beginning of the world"
       ],
       "correctAnswer": "It will die because of disruption of food transport through the phloem"
     },
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "Why does the root of a ringed plant die first?",
       "options": [
-        "Because minerals are not absorbed",
+        "A strip of actively dividing young cells (cambium)",
+        "Glucose, amino acids, water, vitamins, and alcohol",
         "Because supply of food to the root is discontinued",
-        "Because water supply is cut off",
-        "Because oxygen supply is cut off"
+        "They prevent soil erosion by holding soil together"
       ],
       "correctAnswer": "Because supply of food to the root is discontinued"
     },
@@ -345,9 +345,9 @@
       "question": "What type of transport occurs through the phloem?",
       "options": [
         "Active transport where living phloem cells use energy obtained by metabolic process",
-        "Osmosis only",
-        "Diffusion only",
-        "Passive transport"
+        "Water molecules are attracted to ions and polar molecules, causing them to separate",
+        "It is a component of the peroxidase enzyme, a lysosomal enzyme for killing bacteria",
+        "Nitrogen fixation, ammonification, nitrification, assimilation, and denitrification"
       ],
       "correctAnswer": "Active transport where living phloem cells use energy obtained by metabolic process"
     }

@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What did the IPCC Second Assessment Report conclude in 1996?",
       "options": [
+        "It may shrink to less than 10 percent of the Arctic Ocean",
+        "They trap heat and raise air temperatures near the ground",
         "There was a discernible human influence on global climate",
-        "Climate change was entirely natural",
-        "The atmosphere was stable",
-        "Sea levels were falling"
+        "It releases additional carbon dioxide into the atmosphere"
       ],
       "correctAnswer": "There was a discernible human influence on global climate"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Which issues were covered by the Bonn Agreements?",
       "options": [
-        "Only volcanic monitoring",
         "Emissions trading, the CDM, sinks accounting and compliance",
-        "Only ocean shipping routes",
-        "Only school curricula"
+        "Rising at oceanic ridges and descending at subduction zones",
+        "Land areas, especially at northern high latitudes in winter",
+        "The landmasses were connected so the reptile could disperse"
       ],
       "correctAnswer": "Emissions trading, the CDM, sinks accounting and compliance"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "What was a main outcome of COP 10 in Buenos Aires?",
       "options": [
+        "It affects the composition of the atmosphere and oceans",
+        "They raise pastoralist incomes while limiting emissions",
         "A programme of work on adaptation and response measures",
-        "The Kyoto Protocol",
-        "The Paris Agreement",
-        "The First Assessment Report"
+        "They have larger amplitude and travel along the surface"
       ],
       "correctAnswer": "A programme of work on adaptation and response measures"
     },
@@ -73,9 +73,9 @@
       "question": "What kind of targets does the Kyoto Protocol set?",
       "options": [
         "Voluntary emission targets",
-        "Mandatory emission reduction targets",
-        "No emission targets",
-        "Only research targets"
+        "Conduction, convection and radiation",
+        "Continents become smaller every year",
+        "Mandatory emission reduction targets"
       ],
       "correctAnswer": "Mandatory emission reduction targets"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "Which major emitter remained outside the Kyoto Protocol?",
       "options": [
+        "In the late 1960s",
         "France",
-        "Germany",
-        "Japan",
-        "The United States"
+        "The United States",
+        "Germany"
       ],
       "correctAnswer": "The United States"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What does the Paris Agreement ask nations to do?",
       "options": [
-        "Set voluntary emission targets and report progress regularly",
-        "Ban all international travel",
-        "Close all coal mines immediately",
-        "Report only to their own citizens"
+        "Rising at oceanic ridges and descending at subduction zones",
+        "Climate change requires a persistent pattern over many years",
+        "Cost-effective steps consistent with sustainable development",
+        "Set voluntary emission targets and report progress regularly"
       ],
       "correctAnswer": "Set voluntary emission targets and report progress regularly"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which countries pledged to become carbon neutral?",
       "options": [
-        "Brazil, India and China",
+        "Rising beneath continents only",
         "Costa Rica, Iceland and Norway",
-        "Egypt, Sudan and Ethiopia",
-        "Russia, Canada and Australia"
+        "Russia, Canada and Australia",
+        "Egypt, Sudan and Ethiopia"
       ],
       "correctAnswer": "Costa Rica, Iceland and Norway"
     }

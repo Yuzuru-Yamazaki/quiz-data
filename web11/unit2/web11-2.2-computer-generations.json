@@ -39,10 +39,10 @@
       "anki": true,
       "question": "Which of the following describes first generation computers (1940-1959)?",
       "options": [
-        "Increased storage capacity and high-level programming languages",
+        "They are software programs that expand the abilities of a computer",
         "Limited storage capacity, slow speed, and a problem of overheating",
-        "Artificial intelligence and robotics",
-        "Modular design and increased use of microcomputers"
+        "Through self-study, workshops, certifications, or higher education",
+        "Increased storage capacity and high-level programming languages"
       ],
       "correctAnswer": "Limited storage capacity, slow speed, and a problem of overheating"
     },
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "What high-level programming languages appeared during the second generation of computers?",
       "options": [
+        "D. Symbolic logic",
+        "COBOL and FORTRAN",
         "HTML and CSS",
-        "SQL and C#",
-        "Java and Python",
-        "COBOL and FORTRAN"
+        "Java and Python"
       ],
       "correctAnswer": "COBOL and FORTRAN"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "Which improvements were made by second generation computers compared to the first generation?",
       "options": [
+        "Programs that upgrade computers to a newer model for free",
+        "A network connection that links several machines together",
         "Increased storage capacity and reduction in size and heat",
-        "Handheld sizes and touch screens",
-        "Introduction of artificial intelligence",
-        "Room size mainframes and vacuum tubes"
+        "They can potentially contain malware or phishing attempts"
       ],
       "correctAnswer": "Increased storage capacity and reduction in size and heat"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "What circuitry was used in third generation computers (1965-1970)?",
       "options": [
-        "Transistors and diodes",
-        "Superconductor circuits",
+        "A wireless standard for connecting keyboards",
+        "They can increase the monitor's refresh rate",
         "Integrated circuits (semiconductor circuits)",
-        "Vacuum tubes"
+        "Adding a wireless connection to the internet"
       ],
       "correctAnswer": "Integrated circuits (semiconductor circuits)"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "Which features describe third generation computers (1965-1970)?",
       "options": [
-        "Artificial intelligence and robotics",
-        "Increased use of microcomputers",
+        "According to local regulations to prevent environmental contamination",
         "More flexible with input/output, smaller size, and better performance",
-        "Slow speed and limited storage capacity"
+        "A developer versatile in both client-side and server-side development",
+        "Match the cable with one of the video ports on the back of the monitor"
       ],
       "correctAnswer": "More flexible with input/output, smaller size, and better performance"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "What circuitry is used in fourth generation computers (since 1970)?",
       "options": [
+        "Lead, mercury and flame-retardant chemicals",
         "Very large scale integrated (VLSI) circuits",
-        "Vacuum tubes",
-        "Transistors and diodes",
-        "Superconductor circuits"
+        "Ignore it until the next maintenance window",
+        "It prevents any component from being reused"
       ],
       "correctAnswer": "Very large scale integrated (VLSI) circuits"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "Which of the following describes fourth generation computers (since 1970)?",
       "options": [
-        "Limited storage capacity and slow speed",
-        "Artificial intelligence as their main feature",
-        "Problem of overheating and room size design",
-        "Increased storage, modular design versatility and compatibility, and increased use of microcomputers (PCs)"
+        "Increased storage, modular design versatility and compatibility, and increased use of microcomputers (PCs)",
+        "Appropriate and environmentally responsible methods of getting rid of computer equipment and electronic waste",
+        "To protect against data loss in the event of hardware failure, malware attacks or other unforeseen circumstances",
+        "An expansion card that facilitates the input and output of audio signals under control of computer programs"
       ],
       "correctAnswer": "Increased storage, modular design versatility and compatibility, and increased use of microcomputers (PCs)"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "What circuitry is expected in the fifth generation (future) computers?",
       "options": [
-        "Vacuum tubes",
+        "VLSI superconductor circuits",
+        "To the front of the computer",
         "Mechanical switches",
-        "Diodes only",
-        "VLSI superconductor circuits"
+        "Only database administrators"
       ],
       "correctAnswer": "VLSI superconductor circuits"
     },
@@ -171,7 +171,7 @@
       "anki": true,
       "question": "True or False: The first generation of computers used transistors.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
       "correctAnswer": "False"
@@ -181,10 +181,10 @@
       "anki": true,
       "question": "True or False: COBOL and FORTRAN are high-level programming languages that appeared in the second generation of computers.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 16,
@@ -192,9 +192,9 @@
       "question": "True or False: The fourth generation of computers uses very large scale integrated (VLSI) circuits.",
       "options": [
         "False",
-        "True"
+        "True."
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 17,
@@ -202,19 +202,19 @@
       "question": "True or False: Fifth generation (future) computers will be characterized by artificial intelligence and robotics.",
       "options": [
         "False",
-        "True"
+        "True."
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 18,
       "anki": true,
       "question": "What is the overall trend across the generations of computers?",
       "options": [
-        "Each generation is smaller, faster, and more efficient",
-        "Each generation becomes larger and slower",
-        "Each generation uses older circuitry",
-        "Each generation needs more cooling and space"
+        "Computing, telecommunications, and information systems",
+        "It is a parallel bus that shares the same set of wires",
+        "Each generation needs more cooling and space",
+        "Each generation is smaller, faster, and more efficient"
       ],
       "correctAnswer": "Each generation is smaller, faster, and more efficient"
     }

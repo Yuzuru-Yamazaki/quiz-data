@@ -30,10 +30,10 @@
       "anki": true,
       "question": "There are over how many cattle breeds in the world?",
       "options": [
+        "300",
         "1000",
-        "100",
-        "200",
-        "300"
+        "Rice",
+        "200"
       ],
       "correctAnswer": "1000"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "A camel with a single hump is the",
       "options": [
-        "Dromedary",
+        "Caprine",
         "Bactrian",
-        "Bovine",
-        "Caprine"
+        "Thatching",
+        "Dromedary"
       ],
       "correctAnswer": "Dromedary"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "Camels are classified as",
       "options": [
-        "Pseudo-ruminant",
-        "True ruminant",
+        "Attack by birds",
         "Monogastric",
-        "Avian"
+        "True ruminant",
+        "Pseudo-ruminant"
       ],
       "correctAnswer": "Pseudo-ruminant"
     },
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "The stomach of chicken is subdivided into the",
       "options": [
+        "Omasum, abomasum",
         "Proventriculus, gizzard",
-        "Rumen and reticulum",
-        "Crop and cecum",
-        "Omasum, abomasum"
+        "Competes only for light",
+        "Rumen and reticulum"
       ],
       "correctAnswer": "Proventriculus, gizzard"
     },
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "The main economic roles of honeybees are",
       "options": [
-        "Pollination and honey",
-        "Meat and milk",
+        "Seed becomes too hard",
         "Wool and hides",
-        "Eggs and feathers"
+        "Eggs and feathers",
+        "Pollination and honey"
       ],
       "correctAnswer": "Pollination and honey"
     }

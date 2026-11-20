@@ -19,9 +19,9 @@
       "question": "Feed shortage directly reduces animal",
       "options": [
         "Productivity, fertility",
-        "Colour and flavour",
+        "Just one or two seasons",
         "Horn and hoof growth",
-        "Wool crimp only"
+        "Colour and flavour"
       ],
       "correctAnswer": "Productivity, fertility"
     },
@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Mixing chopped mature grass with molasses improves",
       "options": [
-        "Feed quality",
         "Feed colour",
-        "Feed odour",
-        "Feed weight"
+        "Feed weight",
+        "Feed quality",
+        "Nitrosomonas"
       ],
       "correctAnswer": "Feed quality"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "In mixed farming, the major focus is on",
       "options": [
+        "Wool animals",
+        "Rust and smut",
         "Draft animals",
-        "Milk animals",
-        "Meat animals",
-        "Wool animals"
+        "Meat animals"
       ],
       "correctAnswer": "Draft animals"
     },
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "Electricity scarcity mainly threatens preservation of",
       "options": [
-        "Meat, milk and vaccines",
+        "Seeds, grains and husks",
+        "Wool, hides and horns",
         "Grain, hay and straw",
-        "Soil, water and air",
-        "Wool, hides and horns"
+        "Meat, milk and vaccines"
       ],
       "correctAnswer": "Meat, milk and vaccines"
     },

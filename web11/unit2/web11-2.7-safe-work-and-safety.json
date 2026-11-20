@@ -27,10 +27,10 @@
       "anki": true,
       "question": "After finding the monitor's connector cable, what should you do next?",
       "options": [
-        "Match the cable with one of the video ports on the back of the monitor",
-        "Insert a USB device",
-        "Plug the power cord into a surge protector",
-        "Turn on the monitor power button"
+        "To follow the guidelines and ensure compliance with environmental laws",
+        "More flexible with input/output, smaller size, and better performance",
+        "Back straight, feet flat on the floor and wrists in a neutral position",
+        "Match the cable with one of the video ports on the back of the monitor"
       ],
       "correctAnswer": "Match the cable with one of the video ports on the back of the monitor"
     },
@@ -63,9 +63,9 @@
       "anki": true,
       "question": "Safe work conditions and procedures for computer-related work are essential to ensure what?",
       "options": [
-        "Faster internet speeds at the workplace",
-        "Higher screen resolution on all monitors",
-        "Lower electricity bills every month",
+        "A powerful electronic device that can perform various tasks, process data, and execute instructions",
+        "Turning the digital signals produced by the processor into an analog signal understood by the display",
+        "A serial bus interface standard for high-speed communications and isochronous real-time data transfer",
         "The well-being and safety of employees who spend a significant amount of time working with computers"
       ],
       "correctAnswer": "The well-being and safety of employees who spend a significant amount of time working with computers"
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "Why should the workspace be kept clean and organized?",
       "options": [
-        "To improve the monitor's color accuracy",
-        "To reduce the cost of software licenses",
-        "To increase the computer's processing speed",
-        "To prevent tripping hazards and allow easy access to equipment"
+        "A dedicated microprocessor optimized for 3D graphics rendering",
+        "Because the field is constantly evolving with new technologies",
+        "To prevent tripping hazards and allow easy access to equipment",
+        "It is a point-to-point connection of serial links called lanes"
       ],
       "correctAnswer": "To prevent tripping hazards and allow easy access to equipment"
     },
@@ -88,9 +88,9 @@
       "question": "Which guideline helps protect a computer from power surges and outages?",
       "options": [
         "Use surge protectors and uninterruptible power supplies (UPS)",
-        "Use wireless keyboard and mouse",
-        "Use a larger monitor",
-        "Increase the screen brightness"
+        "Leave the data intact so it can be recovered by the next user",
+        "To make layouts adapt and resize automatically across devices",
+        "Proficiency in programming languages and software development"
       ],
       "correctAnswer": "Use surge protectors and uninterruptible power supplies (UPS)"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "Why is it recommended to regularly back up important data?",
       "options": [
-        "To make the computer boot faster",
+        "Securely erase all data using data wiping tools or software that comply with industry standards for data sanitization",
         "To protect against data loss in the event of hardware failure, malware attacks or other unforeseen circumstances",
-        "To reduce the number of cables needed",
-        "To increase the size of the hard drive"
+        "It allows for the proper recycling of individual components and materials like metals, plastics and circuit boards",
+        "It monitors voltage levels and automatically adjusts them to maintain a stable output voltage within a specified range"
       ],
       "correctAnswer": "To protect against data loss in the event of hardware failure, malware attacks or other unforeseen circumstances"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "What should be done to protect a computer from malware and viruses?",
       "options": [
+        "Programs that upgrade computers to a newer model for free",
+        "A network connection that links several machines together",
         "Install and regularly update reputable antivirus software",
-        "Disable all user accounts",
-        "Delete all email messages",
-        "Keep the computer turned off at all times"
+        "They can potentially contain malware or phishing attempts"
       ],
       "correctAnswer": "Install and regularly update reputable antivirus software"
     },
@@ -124,9 +124,9 @@
       "question": "Why should you be cautious when opening email attachments or clicking on links?",
       "options": [
         "They can potentially contain malware or phishing attempts",
-        "They can damage the keyboard",
-        "They can increase the monitor's refresh rate",
-        "They can slow down the printer"
+        "Programs that upgrade computers to a newer model for free",
+        "Install and regularly update reputable antivirus software",
+        "Increased storage capacity and reduction in size and heat"
       ],
       "correctAnswer": "They can potentially contain malware or phishing attempts"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "Which posture is recommended for good ergonomics while working at a computer?",
       "options": [
-        "Back slouched, knees raised and wrists bent downward",
-        "Sitting on the edge of the chair with feet crossed",
         "Back straight, feet flat on the floor and wrists in a neutral position",
-        "Lying back with the monitor at eye level below the desk"
+        "Match the cable with one of the video ports on the back of the monitor",
+        "A developer versatile in both client-side and server-side development",
+        "To follow the guidelines and ensure compliance with environmental laws"
       ],
       "correctAnswer": "Back straight, feet flat on the floor and wrists in a neutral position"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "What does the 20-20-20 rule recommend?",
       "options": [
-        "Every 2 hours, rest for 20 minutes with 20 candles lit",
-        "Every 20 minutes, take 20 steps and drink 20 sips of water",
         "Every 20 minutes, look away from the screen and focus on something 20 feet away for at least 20 seconds",
-        "Every 20 seconds, blink 20 times for 20 minutes"
+        "Increased storage, modular design versatility and compatibility, and increased use of microcomputers (PCs)",
+        "A serial bus interface standard for high-speed communications and isochronous real-time data transfer",
+        "Turning the digital signals produced by the processor into an analog signal understood by the display"
       ],
       "correctAnswer": "Every 20 minutes, look away from the screen and focus on something 20 feet away for at least 20 seconds"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Which display settings are recommended to adjust to reduce eye strain?",
       "options": [
-        "Screen orientation and wallpaper",
-        "Mouse pointer speed and volume",
         "Network IP address and DNS server",
-        "Brightness, contrast and font size"
+        "B. Size, purpose, and capabilities",
+        "Brightness, contrast and font size",
+        "Screen orientation and wallpaper"
       ],
       "correctAnswer": "Brightness, contrast and font size"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "Which of these is an example of a social engineering attack?",
       "options": [
-        "Adjusting the monitor height",
         "Installing a larger hard drive",
         "Phishing attempts or phone scams",
-        "Using a surge protector"
+        "Adjusting the monitor height",
+        "Internet and Computer Technology"
       ],
       "correctAnswer": "Phishing attempts or phone scams"
     },
@@ -208,9 +208,9 @@
       "question": "What should you do if you notice unusual activity or a security breach on your computer or network?",
       "options": [
         "Report it to your IT department or system administrator immediately",
-        "Ignore it until the next maintenance window",
-        "Restart the computer and say nothing",
-        "Share the details on social media"
+        "They are software programs that expand the abilities of a computer",
+        "Limited storage capacity, slow speed, and a problem of overheating",
+        "Independently or with specialized front-end and back-end developers"
       ],
       "correctAnswer": "Report it to your IT department or system administrator immediately"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "What does the PASS method for using a fire extinguisher stand for?",
       "options": [
-        "Push the lever, Aim at the top, Spray, Stop",
-        "Pull the hose, Aim high, Shake, Spray",
         "Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep from side to side",
-        "Point, Alert, Spray, Secure"
+        "To minimize environmental impact, prevent pollution and promote sustainable practices",
+        "A. Ability to accommodate workload changes without significant performance degradation",
+        "By gaining experience, acquiring certifications, and continuously updating their skills"
       ],
       "correctAnswer": "Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep from side to side"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "Why should computer equipment be placed in a well-ventilated area?",
       "options": [
-        "To reduce the monitor's resolution",
-        "To increase the amount of dust collected",
-        "To make the equipment run louder",
-        "To prevent overheating caused by restricted airflow"
+        "To ensure the reliability and stability of the code",
+        "To prevent overheating caused by restricted airflow",
+        "A gradual increase in a computer's processing speed",
+        "To increase the amount of dust collected"
       ],
       "correctAnswer": "To prevent overheating caused by restricted airflow"
     },
@@ -256,26 +256,26 @@
       "question": "True or False: A no-smoking policy helps prevent the risk of fire caused by discarded cigarette butts or ashes near computers.",
       "options": [
         "False",
-        "True"
+        "True."
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 22,
       "anki": true,
       "question": "True or False: Important data backups should be stored off-site or in a secure location to protect against loss in the event of a fire.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 23,
       "anki": true,
       "question": "True or False: Extension cords should be used as much as possible for computer equipment.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
       "correctAnswer": "False"

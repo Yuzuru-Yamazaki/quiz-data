@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Modern agriculture uses machinery, agrochemicals and",
       "options": [
-        "Irrigation",
-        "Fallowing",
+        "Vegetables",
         "Rotation",
-        "Bunding"
+        "Irrigation",
+        "Fallowing"
       ],
       "correctAnswer": "Irrigation"
     },
@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Crop rotation means shifting between",
       "options": [
-        "Different crops in the different growing seasons",
         "Planting the same crop on the same land every season",
-        "Only legumes every year",
-        "Fallow and crop alternately"
+        "Different crops in the different growing seasons",
+        "Many possible reasons developed over a long time",
+        "Dependence on imported food supplies from abroad"
       ],
       "correctAnswer": "Different crops in the different growing seasons"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Yield per unit area is mainly limited by",
       "options": [
-        "Recurrent droughts and climate change",
         "Improved seed supply to the farmers each year",
-        "Fertilizer application",
-        "Mechanized harvesting"
+        "Required for the practice of religion",
+        "Recurrent droughts and climate change",
+        "Limited intensification of production"
       ],
       "correctAnswer": "Recurrent droughts and climate change"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "Food security requires increased yield and",
       "options": [
+        "Higher post-harvest loss",
         "Decreased yield variability",
         "Increased area expansion",
-        "Reduced crop diversity",
-        "Higher post-harvest loss"
+        "Sandy loam that drains fast"
       ],
       "correctAnswer": "Decreased yield variability"
     },
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "Low crop yields in Ethiopia are linked to",
       "options": [
-        "Soil degradation",
-        "High irrigation",
+        "Chews cud always",
         "Heavy input use",
-        "Stable rainfall"
+        "Stable rainfall",
+        "Soil degradation"
       ],
       "correctAnswer": "Soil degradation"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "Very low levels of irrigation are a",
       "options": [
-        "Principal factor responsible for low yield",
         "A direct result of high rainfall in the local area",
-        "Benefit of modern farming",
-        "Cause of soil fertility"
+        "Principal factor responsible for low yield",
+        "Very large commercial farming estates only",
+        "Deliberate learning and gradual adaptation"
       ],
       "correctAnswer": "Principal factor responsible for low yield"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Productivity in industrialized agriculture increased due to",
       "options": [
+        "As common draft animals",
+        "Shifting cultivation",
         "Industrial technologies",
-        "Traditional tools",
-        "Draft animals",
-        "Shifting cultivation"
+        "Traditional tools"
       ],
       "correctAnswer": "Industrial technologies"
     },
@@ -162,10 +162,10 @@
       "anki": true,
       "question": "Ethiopian crop agriculture is described as",
       "options": [
-        "Complex, with many different agro-ecologies",
+        "Continuously for a very long period of time",
         "Uniform across all the regions of the country",
-        "Limited to one crop type",
-        "Dependent on imports only"
+        "High yield but very high input requirements",
+        "Complex, with many different agro-ecologies"
       ],
       "correctAnswer": "Complex, with many different agro-ecologies"
     },

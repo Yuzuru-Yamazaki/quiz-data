@@ -18,10 +18,10 @@
       "anki": true,
       "question": "A cropping system refers to the types and sequences of crops and the",
       "options": [
-        "Practices used to grow them",
-        "Prices in the market",
+        "Types of livestock kept",
         "Tools used for harvest",
-        "Types of livestock kept"
+        "A third of pods turn yellow",
+        "Practices used to grow them"
       ],
       "correctAnswer": "Practices used to grow them"
     },
@@ -30,9 +30,9 @@
       "anki": true,
       "question": "Mono cropping is growing",
       "options": [
-        "A single crop type",
         "Two or more crops",
-        "Only legumes",
+        "A single crop type",
+        "Better grain color",
         "Only cereals"
       ],
       "correctAnswer": "A single crop type"
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Intercropping is the planting of more than one crop in",
       "options": [
-        "Regular rows at the same time",
+        "Harvesting period of the crop",
         "Separate fields each season",
         "Rows after the first harvest",
-        "Random patches over years"
+        "Regular rows at the same time"
       ],
       "correctAnswer": "Regular rows at the same time"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "Relay planting plants the second crop after the first crop has",
       "options": [
+        "Low labour, high capital",
         "Grown alone for a period",
-        "Been harvested fully",
-        "Had its soil plowed",
-        "Reached full maturity"
+        "Reached full maturity",
+        "Been harvested fully"
       ],
       "correctAnswer": "Grown alone for a period"
     },
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "Crop rotation is growing different species",
       "options": [
-        "Sequentially on the same plot",
+        "Beyond intensive farming only",
         "Together on the same plot",
         "On separate farms each year",
-        "Only in the dry season"
+        "Sequentially on the same plot"
       ],
       "correctAnswer": "Sequentially on the same plot"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "A disadvantage of mono cropping is",
       "options": [
+        "Toxic seed, hard transport",
         "Risk of total crop failure",
         "Uniform crop management practices",
-        "Efficient harvesting",
-        "Easy planting"
+        "Efficient harvesting"
       ],
       "correctAnswer": "Risk of total crop failure"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Mixed cropping reduces the risk of",
       "options": [
+        "Less efficiently",
         "Total yield loss",
-        "Soil erosion",
-        "Pest attack",
-        "Labor shortage"
+        "Labor shortage",
+        "Soil erosion"
       ],
       "correctAnswer": "Total yield loss"
     },
@@ -163,9 +163,9 @@
       "question": "One objective of crop rotation is improving",
       "options": [
         "Soil fertility",
-        "Seed color",
-        "Fruit size",
-        "Plant height"
+        "Parasitic weed",
+        "Plant height",
+        "Fruit size"
       ],
       "correctAnswer": "Soil fertility"
     },
@@ -186,10 +186,10 @@
       "anki": true,
       "question": "Mixed cropping allows more efficient use of nutrients, water and",
       "options": [
+        "Ranching system",
+        "Storage space",
         "Light radiation",
-        "Farm machinery",
-        "Market credit",
-        "Storage space"
+        "Farm machinery"
       ],
       "correctAnswer": "Light radiation"
     }

@@ -24,10 +24,10 @@
     {
       "question": "Dr. Melaku Worede is renowned for employing science to benefit which group of people?",
       "options": [
-        "Large agricultural corporations",
-        "Poor farmers",
         "Urban business owners",
-        "Medical researchers"
+        "Digests food",
+        "Medical researchers",
+        "Poor farmers"
       ],
       "correctAnswer": "Poor farmers",
       "id": 2
@@ -47,9 +47,9 @@
       "question": "What award did Dr. Melaku Worede receive in 1989?",
       "options": [
         "The Albert Einstein Award",
-        "The Right Livelihood Award",
-        "The World Food Prize",
-        "The Nobel Peace Prize"
+        "If the sample is cancerous",
+        "The Nobel Peace Prize",
+        "The Right Livelihood Award"
       ],
       "correctAnswer": "The Right Livelihood Award",
       "id": 4
@@ -57,10 +57,10 @@
     {
       "question": "Dr. Melaku Worede was awarded in 1989 for preserving what?",
       "options": [
-        "African cultural traditions",
-        "Ethiopian historical manuscripts",
-        "Ethiopian wildlife habitats",
-        "Ethiopia's genetic wealth by building one of the finest seed conservation centres in the world"
+        "Amino acids containing phenolic or indolic groups like phenylalanine, tyrosine, and tryptophan",
+        "It needs less water, is resistant to drought, and yields more grain than traditional varieties",
+        "Ethiopia's genetic wealth by building one of the finest seed conservation centres in the world",
+        "Two copies of one maternal or paternal chromosome linked by cohesive protein on the centromere"
       ],
       "correctAnswer": "Ethiopia's genetic wealth by building one of the finest seed conservation centres in the world",
       "id": 5
@@ -68,10 +68,10 @@
     {
       "question": "Dr. Melaku Worede played a key role in the establishment of what centre?",
       "options": [
-        "The Ethiopian National Museum",
-        "The African Agricultural Research Centre",
+        "The Ethiopian Institute of Biodiversity",
         "The Plant Genetic Resource Centre in Addis Ababa",
-        "The Ethiopian Institute of Biodiversity"
+        "The African Agricultural Research Centre",
+        "Mechanical injury and entry of harmful organisms"
       ],
       "correctAnswer": "The Plant Genetic Resource Centre in Addis Ababa",
       "id": 6
@@ -101,10 +101,10 @@
     {
       "question": "After retirement, Dr. Melaku Worede developed pioneer work on what type of conservation?",
       "options": [
-        "Forest conservation",
-        "Wildlife conservation",
-        "Water conservation",
-        "Farming based native seed (landrace) conservation, enhancement and utilization"
+        "Farming based native seed (landrace) conservation, enhancement and utilization",
+        "Amount of heat to raise temperature of one gram of water by one degree Celsius",
+        "To remove the green pigment chlorophyll that interferes with the iodine effect",
+        "They prevent water from being easily frozen or boiled, protecting aquatic life"
       ],
       "correctAnswer": "Farming based native seed (landrace) conservation, enhancement and utilization",
       "id": 9
@@ -113,7 +113,7 @@
       "question": "What type of seeds did Dr. Melaku Worede develop and grow, such as durum wheat?",
       "options": [
         "Genetically modified seeds",
-        "Imported foreign seeds",
+        "Seeds stick to bird feathers",
         "Locally adapted native seeds",
         "Hybrid commercial seeds"
       ],
@@ -123,10 +123,10 @@
     {
       "question": "Dr. Melaku Worede grew native seeds like durum wheat without using what?",
       "options": [
-        "Farm tools",
-        "Irrigation",
-        "Manual labor",
-        "Commercial fertilizers or other chemicals"
+        "Only classification and naming of animals",
+        "The study of how life functions in nature",
+        "Commercial fertilizers or other chemicals",
+        "Into classes, orders, genera, and species"
       ],
       "correctAnswer": "Commercial fertilizers or other chemicals",
       "id": 11
@@ -156,10 +156,10 @@
     {
       "question": "What is interphase defined as in the unit summary?",
       "options": [
-        "The stage of cell division where chromosomes separate",
-        "The stage where the nuclear membrane breaks down",
-        "The stage where cytokinesis occurs",
-        "The stage of preparation where a cell exhibits growth and DNA synthesis"
+        "A dome-shaped sheet of muscle separating thoracic from abdominal cavity",
+        "Organic matter (food) manufactured in the leaf to the rest of the plant",
+        "The stage of preparation where a cell exhibits growth and DNA synthesis",
+        "An inactive seed waiting for favourable conditions to start germination"
       ],
       "correctAnswer": "The stage of preparation where a cell exhibits growth and DNA synthesis",
       "id": 14
@@ -167,10 +167,10 @@
     {
       "question": "Cell division is a basic process in all living things where a parent cell divides into cells called what?",
       "options": [
-        "Sister cells",
-        "Parent cells",
         "Mother cells",
-        "Daughter cells"
+        "Parent cells",
+        "Daughter cells",
+        "Equally stable"
       ],
       "correctAnswer": "Daughter cells",
       "id": 15
@@ -178,10 +178,10 @@
     {
       "question": "In multicellular organisms, cell division is a means of growth and what else?",
       "options": [
-        "Producing gametes",
-        "Producing energy",
-        "Storing waste",
-        "Replacing damaged or dead cells"
+        "Ice is denser than liquid water",
+        "It is used in the dark reaction",
+        "Replacing damaged or dead cells",
+        "Cells stop dividing after birth"
       ],
       "correctAnswer": "Replacing damaged or dead cells",
       "id": 16
@@ -189,10 +189,10 @@
     {
       "question": "In unicellular organisms, cell division is equivalent to what?",
       "options": [
-        "Reproduction",
+        "Repair",
+        "Osmosis only",
         "Development",
-        "Growth",
-        "Repair"
+        "Reproduction"
       ],
       "correctAnswer": "Reproduction",
       "id": 17
@@ -200,10 +200,10 @@
     {
       "question": "Mitosis is division of what type of cells to form identical daughter cells?",
       "options": [
+        "By using more energy",
+        "Germ cells",
         "Somatic (body) cells",
-        "Gametes",
-        "Reproductive cells",
-        "Germ cells"
+        "Reproductive cells"
       ],
       "correctAnswer": "Somatic (body) cells",
       "id": 18
@@ -222,9 +222,9 @@
     {
       "question": "What are the four stages of mitosis?",
       "options": [
-        "Interphase, prophase, metaphase, and anaphase",
         "Prophase I, metaphase I, anaphase I, and telophase I",
-        "G1, S, G2, and M",
+        "Chromosomes that have no genetic information",
+        "Interphase, prophase, metaphase, and anaphase",
         "Prophase, metaphase, anaphase, and telophase"
       ],
       "correctAnswer": "Prophase, metaphase, anaphase, and telophase",
@@ -244,10 +244,10 @@
     {
       "question": "The daughter cells produced by meiosis are specifically called what?",
       "options": [
-        "Somatic cells",
-        "Diploid cells",
         "Sex cells or gametes",
-        "Body cells"
+        "Somatic cells",
+        "Only lingual tonsils",
+        "Diploid cells"
       ],
       "correctAnswer": "Sex cells or gametes",
       "id": 22
@@ -299,10 +299,10 @@
     {
       "question": "What is the best analogy given in the textbook for homologous chromosomes?",
       "options": [
-        "A pair of gloves",
-        "A pair of socks",
-        "A set of keys",
-        "A pair of shoes with the same number"
+        "Endocardium, pericardium, myocardium",
+        "The molecule turns away from the ion",
+        "A pair of shoes with the same number",
+        "Psychology, sociology, and economics"
       ],
       "correctAnswer": "A pair of shoes with the same number",
       "id": 27

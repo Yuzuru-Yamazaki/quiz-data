@@ -27,10 +27,10 @@
       "anki": true,
       "question": "A Web Designer uses which of the following to design website elements?",
       "options": [
+        "To speed up the internet connection",
+        "Graphic design tools and principles",
         "Server configuration tools",
-        "Database query languages",
-        "Authentication protocols",
-        "Graphic design tools and principles"
+        "Authentication protocols"
       ],
       "correctAnswer": "Graphic design tools and principles"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "Which web career pathway implements the visual and interactive elements of a website?",
       "options": [
-        "Content Manager",
+        "Mechanical switches",
         "Back-End Developer",
         "Front-End Developer",
-        "Web Designer"
+        "Content Manager"
       ],
       "correctAnswer": "Front-End Developer"
     },
@@ -75,9 +75,9 @@
       "anki": true,
       "question": "Which web career pathway ensures cross-browser compatibility and responsive design?",
       "options": [
+        "D. A storage device",
         "Back-End Developer",
         "Content Manager",
-        "UX Designer",
         "Front-End Developer"
       ],
       "correctAnswer": "Front-End Developer"
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "Which web career pathway possesses knowledge and skills in both front-end and back-end development?",
       "options": [
+        "End-to-end solutions",
         "Back-End Developer",
-        "Web Designer",
-        "Front-End Developer",
-        "Full-Stack Developer"
+        "Full-Stack Developer",
+        "Front-End Developer"
       ],
       "correctAnswer": "Full-Stack Developer"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "Which web career pathway focuses on creating intuitive and user-friendly website experiences?",
       "options": [
+        "Oxygen, nitrogen and hydrogen",
         "Front-End Developer",
-        "Content Manager",
         "User Experience (UX) Designer",
-        "Web Designer"
+        "Only the user interface layer"
       ],
       "correctAnswer": "User Experience (UX) Designer"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "A UX Designer conducts which activities to optimize website usability?",
       "options": [
-        "User research and usability testing",
-        "Server configuration and scaling",
+        "The hard drive and the floppy drive",
         "Payment gateway integration",
-        "Database schema design"
+        "Server configuration and scaling",
+        "User research and usability testing"
       ],
       "correctAnswer": "User research and usability testing"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "A UX Designer uses which tools to design seamless user journeys?",
       "options": [
-        "Wireframing and prototyping tools",
         "Database administration tools",
-        "Version control systems",
-        "Network monitoring tools"
+        "Network monitoring tools",
+        "Only with database administrators",
+        "Wireframing and prototyping tools"
       ],
       "correctAnswer": "Wireframing and prototyping tools"
     },
@@ -195,9 +195,9 @@
       "anki": true,
       "question": "A Content Manager coordinates with which group to publish engaging content?",
       "options": [
-        "Security analysts",
-        "Database administrators",
         "Network administrators",
+        "By working only with old hardware",
+        "Database administrators",
         "Content creators and stakeholders"
       ],
       "correctAnswer": "Content creators and stakeholders"
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "A Content Manager implements which of the following?",
       "options": [
-        "Responsive design frameworks",
-        "Server clustering and load balancing",
         "Encryption and secure communication protocols",
-        "Content management systems and SEO best practices"
+        "Because it is required only once after graduation",
+        "Content management systems and SEO best practices",
+        "To increase the voltage supplied to your computer"
       ],
       "correctAnswer": "Content management systems and SEO best practices"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "Which career pathway specializes in an organization's online buying and selling activities?",
       "options": [
-        "E-commerce specialization",
-        "Website administration",
         "Web project management",
-        "SEO specialization"
+        "Website administration",
+        "Unified Processing Server",
+        "E-commerce specialization"
       ],
       "correctAnswer": "E-commerce specialization"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "True or False: Full-Stack Developers have knowledge and skills in both front-end and back-end development.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     }
   ]
 }

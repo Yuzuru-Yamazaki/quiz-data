@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Agriculture is defined as the",
       "options": [
-        "Deliberate cultivation of crops and rearing of animals",
         "The hunting of wild animals and gathering of plants for food",
+        "Deliberate cultivation of crops and rearing of animals",
         "Clearing forest and shifting to new land each season",
-        "Producing only crops for household use"
+        "Mass production of crops and animals for export markets"
       ],
       "correctAnswer": "Deliberate cultivation of crops and rearing of animals"
     },
@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Shifting cultivation clears land and cultivates it for",
       "options": [
-        "A few years and then abandoning it",
-        "Many years of continuous cropping without rest",
         "One season only then selling",
-        "A few years then irrigating"
+        "A few years and then abandoning it",
+        "A few years then irrigating",
+        "Many years of continuous cropping without r"
       ],
       "correctAnswer": "A few years and then abandoning it"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Settled agriculture uses the same plot of land",
       "options": [
-        "Continuously for a very long period of time",
-        "For one or two seasons only",
         "Only during the rainy season of every single year",
-        "Until the soil is exhausted"
+        "It reflects generations of local experience",
+        "Continuously for a very long period of time",
+        "Fertilizer application by the local farmers"
       ],
       "correctAnswer": "Continuously for a very long period of time"
     },
@@ -79,9 +79,9 @@
       "question": "Settled agriculture is more advanced than",
       "options": [
         "The traditional system of shifting cultivation",
-        "Subsistence crop farming",
-        "Large scale commercial plantation farming systems",
-        "Irrigated rice cultivation"
+        "It began in one single known location on earth",
+        "Abandonment of the land after only a few years",
+        "Large scale commercial plantation farming systems"
       ],
       "correctAnswer": "The traditional system of shifting cultivation"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Settled agriculture commonly uses",
       "options": [
-        "Manure and fertilizer",
-        "Only rainfall",
+        "Legumes and oil seeds",
+        "Only family labor",
         "Only hand tools",
-        "Only family labor"
+        "Manure and fertilizer"
       ],
       "correctAnswer": "Manure and fertilizer"
     },

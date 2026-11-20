@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What does mitigation aim to do?",
       "options": [
-        "Increase greenhouse gas emissions",
+        "It was likely the warmest century in a millennium",
+        "Whether greenhouse gas emissions continue to rise",
         "Reduce greenhouse gas emissions and enhance sinks",
-        "Relocate coastal cities only",
-        "Measure earthquake magnitude"
+        "A long-term increase in Earth average temperature"
       ],
       "correctAnswer": "Reduce greenhouse gas emissions and enhance sinks"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What does adaptation aim to do?",
       "options": [
-        "Stop all emissions immediately",
-        "Increase volcanic activity",
+        "Observations of the atmosphere, land and oceans",
+        "It is the rigid shell broken into moving plates",
         "Alleviate the adverse impacts of climate change",
-        "Change Earth orbit"
+        "Continental crust is thinner than oceanic crust"
       ],
       "correctAnswer": "Alleviate the adverse impacts of climate change"
     },
@@ -83,7 +83,7 @@
       "id": 7,
       "question": "What is growing a wider variety of crops called?",
       "options": [
-        "Monoculture",
+        "A single storm event",
         "Deforestation",
         "Crop diversification",
         "Desertification"
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What is reactive adaptation?",
       "options": [
-        "Adaptation that takes place before impacts appear",
-        "Adaptation planned by governments",
-        "Adaptation in natural ecosystems",
-        "Adaptation that takes place after initial impacts have occurred"
+        "It was the warmest in the instrumental record beginning in 1861",
+        "Adaptation that takes place after initial impacts have occurred",
+        "They store carbon and support economic and ecological functions",
+        "They extend beyond rising temperatures to ecosystems and storms"
       ],
       "correctAnswer": "Adaptation that takes place after initial impacts have occurred"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What is anticipatory adaptation?",
       "options": [
+        "Tropical regions where many developing nations are located",
         "Adaptation that takes place before impacts become apparent",
-        "Adaptation after a drought begins",
-        "Adaptation by individual households",
-        "Adaptation through natural selection"
+        "Ocean and atmosphere circulation that redistributes energy",
+        "It reduces emissions through modern efficient technologies"
       ],
       "correctAnswer": "Adaptation that takes place before impacts become apparent"
     },

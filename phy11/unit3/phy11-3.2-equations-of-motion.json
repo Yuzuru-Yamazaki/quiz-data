@@ -15,10 +15,10 @@
       "anki": true,
       "question": "Which kinematic equation links change in velocity to acceleration?",
       "options": [
+        "Slowing down",
+        "s = half (vi + vf) t",
         "vf = vi + at",
-        "s = vi t + half a times t squared",
-        "vf squared = vi squared + 2as",
-        "s = half (vi + vf) t"
+        "Oral sources"
       ],
       "correctAnswer": "vf = vi + at"
     },
@@ -27,9 +27,9 @@
       "anki": true,
       "question": "Which kinematic equation relates velocity and displacement?",
       "options": [
-        "vf squared = vi squared + 2as",
-        "vf = vi + at",
         "s = vi t + half a times t squared",
+        "Newton's law of gravity alone",
+        "vf squared = vi squared + 2as",
         "s = vf t - half a t squared"
       ],
       "correctAnswer": "vf squared = vi squared + 2as"
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "Which kinematic equation gives displacement from final velocity, acceleration, and time?",
       "options": [
+        "vf squared = vi squared + 2as",
         "s = vf t - half a t squared",
-        "s = vi t + half a times t squared",
-        "vf = vi + at",
-        "vf squared = vi squared + 2as"
+        "The arithmetic sum of sizes",
+        "s = vi t + half a times t squared"
       ],
       "correctAnswer": "s = vf t - half a t squared"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "Given initial velocity, acceleration, and time, the final velocity is found from",
       "options": [
-        "vf = vi + at",
-        "vf squared = vi squared + 2as",
-        "s = vi t + half a times t squared",
-        "s = half (vi + vf) t"
+        "s = half (vi + vf) t",
+        "Analyze data",
+        "Head to head",
+        "vf = vi + at"
       ],
       "correctAnswer": "vf = vi + at"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "Given initial velocity, final velocity, and displacement, the acceleration is found from",
       "options": [
+        "s = vf t - half a t squared",
         "vf squared = vi squared + 2as",
-        "vf = vi + at",
-        "s = vi t + half a times t squared",
-        "s = vf t - half a t squared"
+        "Sum of force and displacement",
+        "s = vi t + half a times t squared"
       ],
       "correctAnswer": "vf squared = vi squared + 2as"
     },
@@ -255,10 +255,10 @@
       "anki": true,
       "question": "When a car brakes to rest, its final velocity is",
       "options": [
+        "2015",
+        "12 s",
         "Zero",
-        "Equal to initial velocity",
-        "Twice the initial velocity",
-        "Half the initial velocity"
+        "Four"
       ],
       "correctAnswer": "Zero"
     },
@@ -268,9 +268,9 @@
       "question": "If acceleration is zero, the displacement in time t is",
       "options": [
         "vi t",
-        "vi t + half a t squared",
-        "half a t squared",
-        "vf t"
+        "12 s",
+        "vf t",
+        "half a t squared"
       ],
       "correctAnswer": "vi t"
     },

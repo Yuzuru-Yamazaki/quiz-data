@@ -129,10 +129,10 @@
       "id": 9,
       "question": "A paragraph argues for later school start times. Which sentence best advances that argument?\n\nWhich sentence most strengthens the argument?",
       "options": [
-        "The school board meets on Tuesdays.",
+        "introduced the notion of a macroscopic superposition such as Schrödinger's cat",
+        "The sum of the probabilities assigned to all the possible measurement outcomes",
         "Adolescents need more sleep, and later starts are linked to better attendance.",
-        "Buses were purchased in 2019.",
-        "Some schools begin at eight o'clock."
+        "give $|0\\rangle$ with probability $1/4$ and $|1\\rangle$ with probability $3/4$"
       ],
       "correctAnswer": "Adolescents need more sleep, and later starts are linked to better attendance.",
       "section": "English",
@@ -171,10 +171,10 @@
       "id": 12,
       "question": "The scientist's explanation was lucid, so even first-year students could follow it.\n\nWhat does 'lucid' most nearly mean?",
       "options": [
+        "Secret and confidential",
         "Technically inaccurate",
         "Clear and easy to understand",
-        "Secret and confidential",
-        "Lengthy and boring"
+        "$(\\frac{2}{3}, \\frac{3}{4}]$"
       ],
       "correctAnswer": "Clear and easy to understand",
       "section": "English",
@@ -185,10 +185,10 @@
       "id": 13,
       "question": "In the novel, the protagonist repeatedly revises a letter she never sends. Critics read this as a sign of her uncertainty about leaving home.\n\nWhich evidence would most strengthen that reading?",
       "options": [
-        "She keeps the letter in a drawer.",
-        "The letter is addressed to her brother.",
+        "a qubit requires four basis values, since $|0\\rangle$ and $|1\\rangle$ are not enough",
         "She crosses out sentences expressing decisiveness and rewrites them with qualifiers.",
-        "She writes the letter on blue paper."
+        "larger moduli make factoring easier because more candidate factors become available",
+        "A qubit can hold many classical bits at once, whereas a classical bit holds only one"
       ],
       "correctAnswer": "She crosses out sentences expressing decisiveness and rewrites them with qualifiers.",
       "section": "English",
@@ -255,10 +255,10 @@
       "id": 18,
       "question": "Bees pollinate many fruit crops. In regions where bee populations have declined, some growers bring in hives during bloom.\n\nWhich inference is supported by the passage?",
       "options": [
-        "Bees no longer pollinate fruit crops.",
-        "Growers use managed hives to make up for fewer wild bees.",
-        "Fruit crops grow without any pollination.",
-        "Bee declines have stopped worldwide."
+        "$|0\\rangle \\to -|1\\rangle$ and $|1\\rangle \\to -|0\\rangle$",
+        "always give the opposite result to the measurement of $A$",
+        "the basis that maximises his chance of a matching outcome",
+        "Growers use managed hives to make up for fewer wild bees."
       ],
       "correctAnswer": "Growers use managed hives to make up for fewer wild bees.",
       "section": "English",
@@ -283,10 +283,10 @@
       "id": 20,
       "question": "The scholar's account is meticulous but occasionally digressive, wandering into details that obscure the main argument.\n\nWhat does 'digressive' most nearly mean?",
       "options": [
-        "Highly original",
+        "No new vertex will land on $B$.",
         "Departing from the main subject",
-        "Brief and direct",
-        "Carefully verified"
+        "Charles Bennett and Artur Ekert",
+        "Artur Ekert and Charles Bennett"
       ],
       "correctAnswer": "Departing from the main subject",
       "section": "English",
@@ -297,10 +297,10 @@
       "id": 21,
       "question": "The article lists three benefits of recycling and then describes one city's recycling program.\n\nWhat is the main purpose of the article?",
       "options": [
-        "To argue that recycling is ineffective",
-        "To compare two different cities",
-        "To tell a fictional story about waste",
-        "To explain recycling benefits and describe a related program"
+        "To explain recycling benefits and describe a related program",
+        "quantum measurement always consumes randomness as a resource",
+        "Bob, who measures one member and forwards the other to Alice",
+        "according to a fixed schedule known to the source in advance"
       ],
       "correctAnswer": "To explain recycling benefits and describe a related program",
       "section": "English",
@@ -339,10 +339,10 @@
       "id": 24,
       "question": "Passage 1: 'The new transit line will reduce congestion by shifting commuters off roads.' Passage 2: 'Transit projects often induce new development that increases total travel demand.'\n\nWhich best describes the relationship between the passages?",
       "options": [
-        "Passage 2 proves the transit line will fail completely.",
-        "Passage 2 confirms every detail of Passage 1.",
-        "Passage 2 discusses an unrelated mode of transport.",
-        "Passage 2 raises a factor that could complicate the prediction in Passage 1."
+        "a shared secret key, which is then used with a conventional symmetric cipher",
+        "Passage 2 raises a factor that could complicate the prediction in Passage 1.",
+        "be able to store exact copies and forward the originals completely unchanged",
+        "two real parameters, the polar angle $\\theta$ and the azimuthal angle $\\phi$"
       ],
       "correctAnswer": "Passage 2 raises a factor that could complicate the prediction in Passage 1.",
       "section": "English",
@@ -354,9 +354,9 @@
       "question": "The historian notes that the treaty was signed in 1867, ratified in 1868, and took effect in 1870, leaving a two-year gap often ignored in summaries.\n\nWhy does the historian emphasize the gap?",
       "options": [
         "To challenge simplified accounts of the treaty's implementation",
-        "To show that ratification was immediate",
-        "To introduce a new treaty signed in 1870",
-        "To argue the treaty was never valid"
+        "It supplies evidence consistent with the argument in Passage 1.",
+        "based on the difficulty of finding preimages of a hash function",
+        "polarisation drift exceeds the birefringence limit of the fibre"
       ],
       "correctAnswer": "To challenge simplified accounts of the treaty's implementation",
       "section": "English",
@@ -367,9 +367,9 @@
       "id": 26,
       "question": "Which sentence uses punctuation correctly?\n\nSelect the correctly punctuated sentence.",
       "options": [
-        "The results, however were inconclusive.",
         "The results however, were inconclusive.",
-        "The results however were inconclusive.",
+        "Convert every statement into a question.",
+        "The results, however were inconclusive.",
         "The results, however, were inconclusive."
       ],
       "correctAnswer": "The results, however, were inconclusive.",
@@ -452,9 +452,9 @@
       "question": "A writer must revise a paragraph to keep its formal tone while shortening it. Which change best achieves this?\n\nWhich revision is most appropriate?",
       "options": [
         "Remove all transitions between sentences.",
-        "Convert every statement into a question.",
         "Add slang to make the passage feel current.",
-        "Replace long phrases with precise formal verbs."
+        "Replace long phrases with precise formal verbs.",
+        "The school stopped buying electricity entirely."
       ],
       "correctAnswer": "Replace long phrases with precise formal verbs.",
       "section": "English",
@@ -465,10 +465,10 @@
       "id": 33,
       "question": "The author wants to place a sentence that explains how the data were gathered. Where should it go?\n\nWhere should the sentence be placed?",
       "options": [
-        "At the very beginning of the essay",
+        "Remove all transitions between sentences.",
         "Before the sentence interpreting the data",
-        "After the concluding sentence",
-        "In the final paragraph only"
+        "At the very beginning of the essay",
+        "After the concluding sentence"
       ],
       "correctAnswer": "Before the sentence interpreting the data",
       "section": "English",
@@ -605,10 +605,10 @@
       "id": 43,
       "question": "A poll finds a proportion of 0.6 with a margin of error of 0.05. What is the confidence interval?",
       "options": [
-        "0.55 to 0.6",
-        "0.6 to 0.65",
+        "$|\\alpha|^2$",
         "0.55 to 0.65",
-        "0.5 to 0.7"
+        "0.6 to 0.65",
+        "0.55 to 0.6"
       ],
       "correctAnswer": "0.55 to 0.65",
       "section": "Math",
@@ -619,8 +619,8 @@
       "id": 44,
       "question": "What does 'nuanced' most nearly mean in the sentence 'The report offered a nuanced view of the policy'?",
       "options": [
-        "Harshly critical",
         "Completely neutral",
+        "$\\frac{29}{36}$ \\quad",
         "Subtly differentiated",
         "Brief and unfinished"
       ],
@@ -633,10 +633,10 @@
       "id": 45,
       "question": "What does 'durable' most nearly mean in the sentence 'The boots proved durable after years of use'?",
       "options": [
-        "Colorful",
         "Long-lasting",
-        "Lightweight",
-        "Expensive"
+        "Expensive",
+        "in addition,",
+        "Lightweight"
       ],
       "correctAnswer": "Long-lasting",
       "section": "English",
@@ -675,10 +675,10 @@
       "id": 48,
       "question": "A lab grew two groups of plants. Group A received standard fertilizer; Group B received the same fertilizer plus a soil additive. Group B produced 18% more biomass.\n\nWhich statement is a supportable inference?",
       "options": [
-        "Fertilizer had no effect on either group.",
-        "Group A received no nutrients.",
         "The additive will increase plant growth in all environments.",
-        "The additive was associated with greater biomass in this experiment."
+        "the key length always decreases when a photon is lost in the channel",
+        "The additive was associated with greater biomass in this experiment.",
+        "the algorithm has been formally proven free of implementation errors"
       ],
       "correctAnswer": "The additive was associated with greater biomass in this experiment.",
       "section": "English",

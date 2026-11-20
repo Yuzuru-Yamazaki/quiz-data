@@ -15,22 +15,22 @@
       "anki": true,
       "question": "What is e-Government?",
       "options": [
-        "The use of information systems to provide electronic services to citizens with the purpose of increasing efficiency, transparency, and citizen participation",
-        "The buying and selling of goods over the Internet",
-        "A form of learning delivered through digital devices",
-        "The practice of caring for patients at a distance"
+        "Business registrations, auto registry, payment of taxes, issuance of birth certificates, and issuance and renewal of identification cards",
+        "Digital devices required to perform core information system functions such as data storage, data processing, and communication",
+        "The use of information systems to provide electronic services to citizens with the purpose of increasing efficiency, transparency",
+        "Patients who were in remote places, far away from local health facilities, or in areas with shortages of medical professionals"
       ],
-      "correctAnswer": "The use of information systems to provide electronic services to citizens with the purpose of increasing efficiency, transparency, and citizen participation"
+      "correctAnswer": "The use of information systems to provide electronic services to citizens with the purpose of increasing efficiency, transparency"
     },
     {
       "id": 2,
       "anki": true,
       "question": "What is a portal?",
       "options": [
-        "A computer that stores employee salaries",
         "A web-based information system that collects information from different sources into a single user interface",
-        "A set of instructions that commands the hardware",
-        "A series of steps followed to achieve a goal"
+        "The operating system, the Database Management System (DBMS), application software, and anti-virus software",
+        "Online training, providing data entry and processing services, Internet Cafe service, and online product sells",
+        "What data should be captured, who should have access to the data, and who should have the privilege to modify data"
       ],
       "correctAnswer": "A web-based information system that collects information from different sources into a single user interface"
     },
@@ -39,10 +39,10 @@
       "anki": true,
       "question": "Which of the following municipal services can be automated and made accessible for citizens over a web portal?",
       "options": [
-        "Farming and harvesting crops",
-        "Building roads and bridges",
-        "Baking bread and cooking meals",
-        "Business registrations, auto registry, payment of taxes, issuance of birth certificates, and issuance and renewal of identification cards"
+        "Automatic Teller Machine (ATM), Mobile Banking, Internet Banking, Credit cards, Debit Cards, Smart Cards in the situation described",
+        "Digital devices required to perform core information system functions such as data storage, data processing in the situation described",
+        "Business registrations, auto registry, payment of taxes, issuance of birth certificates, and issuance and renewal of identification cards",
+        "Patients who were in remote places, far away from local health facilities, or in areas with shortages of medical professionals in the situation de"
       ],
       "correctAnswer": "Business registrations, auto registry, payment of taxes, issuance of birth certificates, and issuance and renewal of identification cards"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "What does the traditional banking service demand of customers?",
       "options": [
-        "Using the Internet to make payments",
-        "Withdrawing cash from an ATM",
+        "Operating at unlimited travel speeds in dense urban pedestrian zones",
         "Going to the bank in person and waiting their turns to get a service",
-        "Checking balances from home"
+        "A robot vacuum cleaner that cleans floors without human intervention",
+        "Open-flame heating braziers placed beneath wooden auditorium benches"
       ],
       "correctAnswer": "Going to the bank in person and waiting their turns to get a service"
     },
@@ -88,9 +88,9 @@
       "question": "What is electronic banking?",
       "options": [
         "A form of technology-based banking service that avoids exchange of cash, checks, or other types of paper documents",
-        "A form of banking that requires customers to visit branches every day",
-        "A form of banking that uses paper receipts only",
-        "A form of banking limited to government offices"
+        "A set of interrelated components working together to collect, process, store, and disseminate information to potential users",
+        "The practice of caring for patients remotely without the caregiver and the patient being in the same physical location",
+        "What data should be captured, who should have access to the data, and who should have the privilege to modify data"
       ],
       "correctAnswer": "A form of technology-based banking service that avoids exchange of cash, checks, or other types of paper documents"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "In the banking sector, IT is mainly associated with which services?",
       "options": [
-        "Checkbooks and passbooks only",
-        "Internet banking, Automated Teller Machine (ATM), and mobile banking",
-        "Postal money orders and telegrams",
-        "Safe deposit boxes and cash registers"
+        "Prohibit gallery visitors from viewing physical exhibits in daylight",
+        "Overriding municipal traffic lights during peak commute travel hours",
+        "Automates the genetic modification of endangered agricultural plants",
+        "Internet banking, Automated Teller Machine (ATM), and mobile banking"
       ],
       "correctAnswer": "Internet banking, Automated Teller Machine (ATM), and mobile banking"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "Which of the following are commonly known e-banking services?",
       "options": [
-        "Postal stamps, envelopes, and parcels",
-        "Paper checks, cashiers, and vaults only",
-        "Automatic Teller Machine (ATM), Mobile Banking, Internet Banking, Credit cards, Debit Cards, Smart Cards, and Electronic Funds Transfer (EFT) System",
-        "Telegrams, faxes, and telex machines"
+        "Business registrations, auto registry, payment of taxes, issuance of birth certificates, and issuance and renewal of identification cards in the situation described",
+        "The use of information systems to provide electronic services to citizens with the purpose of increasing efficiency, transparency, and citizen participation",
+        "The use of information systems to provide electronic services to citizens with the purpose of increasing efficiency, transparency in the situation described",
+        "Automatic Teller Machine (ATM), Mobile Banking, Internet Banking, Credit cards, Debit Cards, Smart Cards, and Electronic Funds Transfer (EFT) System"
       ],
       "correctAnswer": "Automatic Teller Machine (ATM), Mobile Banking, Internet Banking, Credit cards, Debit Cards, Smart Cards, and Electronic Funds Transfer (EFT) System"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "Which of the following is a benefit of e-banking?",
       "options": [
-        "Customers must always visit the bank branch",
         "The cost of operation per unit of services is lower for banks",
-        "Banks must hire more cashiers at branches",
-        "Customers have to wait for long queues"
+        "Replacing grain agriculture with synthetic laboratory pellets",
+        "Conducting oral language examinations in secondary classrooms",
+        "Hospital bed construction, cafeteria catering, and laundering"
       ],
       "correctAnswer": "The cost of operation per unit of services is lower for banks"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "Which of the following is a challenge of e-banking?",
       "options": [
-        "Lower cost of operation for banks",
+        "Network speed",
+        "Large capital",
         "Digital theft",
-        "Easy account balance checking",
-        "Immediate transaction messages"
+        "Daniel Bekele"
       ],
       "correctAnswer": "Digital theft"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "What is e-learning?",
       "options": [
-        "A form of government service delivery",
-        "A form of caring for patients remotely",
-        "A form of banking over the Internet",
-        "A form of learning delivered through the use of digital devices"
+        "The assortment of decorative font typefaces in HTML stylesheets",
+        "A form of learning delivered through the use of digital devices",
+        "Overcoming geographical barriers to access health care services",
+        "In alphabetical dictionaries listing grammatical language terms"
       ],
       "correctAnswer": "A form of learning delivered through the use of digital devices"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Which of the following terms is also used to describe e-learning?",
       "options": [
+        "A meeting of two or more people who are separated by distance using electronic communication",
         "Online learning, virtual learning, distributed learning, and computer-based learning",
-        "Classroom board learning only",
-        "Correspondence via pigeon mail",
-        "Postal learning and telegraph learning"
+        "A technology creating a three-dimensional computer-generated simulated environment",
+        "Interrelated Internet-connected objects exchanging data without human intervention"
       ],
       "correctAnswer": "Online learning, virtual learning, distributed learning, and computer-based learning"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "Which of the following are the main components of e-learning?",
       "options": [
-        "Exams, report cards, and principals",
-        "Chalkboards, chalk, and erasers",
-        "Textbooks, exercise books, and pens",
-        "The Internet, computers or mobile phones, digital learning resources, content developers, and learners"
+        "An individual who creates a new business, bearing most of the risks and enjoying most of the rewards",
+        "The Internet, computers or mobile phones, digital learning resources, content developers, and learners",
+        "Recruitment, demographic, performance management, learning management, and compensation and benefits data",
+        "The operating system, the Database Management System (DBMS), application software, and anti-virus software"
       ],
       "correctAnswer": "The Internet, computers or mobile phones, digital learning resources, content developers, and learners"
     },
@@ -219,9 +219,9 @@
       "anki": true,
       "question": "Which of the following is a disadvantage of e-learning?",
       "options": [
-        "Reduced educational costs",
-        "Access to a variety of educational resources",
-        "Flexibility in learning time",
+        "A system simulating conversation through text or voice commands",
+        "The process of designing, launching, and running a new business",
+        "A physical bulletin board posted in municipal community offices",
         "Physical isolation of students from teachers and other students"
       ],
       "correctAnswer": "Physical isolation of students from teachers and other students"
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "What is e-commerce?",
       "options": [
+        "Stationing armed security personnel outside branch cash vaults",
         "The buying and selling of goods and services over the Internet",
-        "The use of computers in schools only",
-        "The practice of caring for patients remotely",
-        "The provision of banking services by mail"
+        "Total deforestation, slash-and-burn clearing, and wood burning",
+        "Automatic manufacturing of custom replacement electronic goods"
       ],
       "correctAnswer": "The buying and selling of goods and services over the Internet"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "E-commerce is fundamentally which of the following?",
       "options": [
-        "A physical market in the city center",
         "A website deployed over the Internet to handle online transactions",
-        "A paper catalogue delivered by post",
-        "A series of radio advertisements"
+        "Acts as the orbital rocket booster for station orbital adjustments",
+        "Locating objects of focus and showing overlaid digital information",
+        "IT is transforming the way young digital entrepreneurs do business"
       ],
       "correctAnswer": "A website deployed over the Internet to handle online transactions"
     },
@@ -255,10 +255,10 @@
       "anki": true,
       "question": "Which actors are involved in e-commerce transactions?",
       "options": [
-        "Doctors, nurses, and pharmacists",
-        "Farmers, bakers, and barbers only",
+        "Job creation that could help tackle global unemployment",
         "Merchants, buyers or customers, banks, and transporters",
-        "Teachers, students, and librarians"
+        "Using, operating, and maintaining an information system",
+        "A network router directing data packets between subnets"
       ],
       "correctAnswer": "Merchants, buyers or customers, banks, and transporters"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "Avoiding intermediaries in e-commerce allows customers to do what?",
       "options": [
-        "Visit many physical stores",
-        "Wait for seasonal sales only",
-        "Pay higher prices for products",
-        "Buy products directly from manufacturers at a cheaper price avoiding wholesalers and retailers"
+        "Buy products directly from manufacturers at a cheaper price avoiding wholesalers and retailers",
+        "Create and manage an information system that is supportive to the organization's daily activities",
+        "An understanding acquired by further processing and integrating different sets of information",
+        "A meeting of two or more people who are separated by distance using electronic communication"
       ],
       "correctAnswer": "Buy products directly from manufacturers at a cheaper price avoiding wholesalers and retailers"
     },
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "Which of the following is an advantage of e-commerce?",
       "options": [
-        "Limited access to global markets",
         "Higher prices from local merchants",
+        "Decisions about the type of vehicles to buy",
         "Increased bargaining power for the customer",
-        "Extra travel costs for buyers"
+        "Limited access to global markets"
       ],
       "correctAnswer": "Increased bargaining power for the customer"
     },
@@ -291,10 +291,10 @@
       "anki": true,
       "question": "What is telemedicine?",
       "options": [
-        "The practice of selling goods over the Internet",
-        "The practice of teaching students online",
-        "The practice of paying bills through a bank",
-        "The practice of caring for patients remotely without the caregiver and the patient being in the same physical location"
+        "A set of interrelated components working together to collect, process, store, and disseminate information to potential users",
+        "The practice of caring for patients remotely without the caregiver and the patient being in the same physical location",
+        "Digital devices required to perform core information system functions such as data storage, data processing, and communication",
+        "Patients who were in remote places, far away from local health facilities, or in areas with shortages of medical professionals"
       ],
       "correctAnswer": "The practice of caring for patients remotely without the caregiver and the patient being in the same physical location"
     },
@@ -303,10 +303,10 @@
       "anki": true,
       "question": "Telemedicine was originally introduced to treat which group of patients?",
       "options": [
-        "Patients with very small medical bills",
         "Patients who were in remote places, far away from local health facilities, or in areas with shortages of medical professionals",
-        "Patients who prefer paper prescriptions",
-        "Patients who live next to a hospital"
+        "A set of interrelated components working together to collect, process, store, and disseminate information to potential users",
+        "Digital devices required to perform core information system functions such as data storage, data processing, and communication",
+        "Business registrations, auto registry, payment of taxes, issuance of birth certificates, and issuance and renewal of identification cards"
       ],
       "correctAnswer": "Patients who were in remote places, far away from local health facilities, or in areas with shortages of medical professionals"
     },
@@ -315,10 +315,10 @@
       "anki": true,
       "question": "Which of the following is an advantage of telemedicine for patients?",
       "options": [
-        "Waiting months for a doctor appointment",
-        "Overcoming geographical barriers to access health care services",
-        "Visiting clinics in person for every checkup",
-        "Paying more for travel and hotel services"
+        "As binary machine-code commands stored on optical compact discs",
+        "A system simulating conversation through text or voice commands",
+        "Converting assembly language mnemonics into binary machine code",
+        "Overcoming geographical barriers to access health care services"
       ],
       "correctAnswer": "Overcoming geographical barriers to access health care services"
     },
@@ -327,9 +327,9 @@
       "anki": true,
       "question": "What is a teleconference?",
       "options": [
-        "A market where people sell goods online",
-        "A meeting where all participants sit in one room",
-        "A classroom where students use computers",
+        "An understanding acquired by further processing and integrating different sets of information",
+        "Buy products directly from manufacturers at a cheaper price avoiding wholesalers and retailers",
+        "Create and manage an information system that is supportive to the organization's daily activities",
         "A meeting of two or more people who are separated by distance using electronic communication"
       ],
       "correctAnswer": "A meeting of two or more people who are separated by distance using electronic communication"

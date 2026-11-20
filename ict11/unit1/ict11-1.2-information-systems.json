@@ -15,10 +15,10 @@
       "anki": true,
       "question": "What is an information system (IS)?",
       "options": [
-        "A collection of raw facts stored in a notebook",
-        "A series of steps followed to achieve a desired outcome",
+        "The practice of caring for patients remotely without the caregiver and the patient being in the same physical location",
         "A set of interrelated components working together to collect, process, store, and disseminate information to potential users",
-        "A single computer used for playing games"
+        "Patients who were in remote places, far away from local health facilities, or in areas with shortages of medical professionals",
+        "Digital devices required to perform core information system functions such as data storage, data processing, and communication"
       ],
       "correctAnswer": "A set of interrelated components working together to collect, process, store, and disseminate information to potential users"
     },
@@ -27,10 +27,10 @@
       "anki": true,
       "question": "An information system generates different types of information or reports used by employees to do what?",
       "options": [
-        "Accomplish different organizational tasks",
         "Replace all hardware in the organization",
-        "Store raw facts without meaning",
-        "Cancel all organizational meetings"
+        "Accomplish different organizational tasks",
+        "Cancel all organizational meetings",
+        "Table, line graph, bar graph, or formulas"
       ],
       "correctAnswer": "Accomplish different organizational tasks"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "A school information system captures student data about which types of assessments?",
       "options": [
-        "Only final examinations",
+        "A series of steps followed to achieve a goal",
         "Quizzes, assignments, and final examinations",
-        "Only attendance records",
-        "Only sports activities"
+        "Visiting clinics in person for every checkup",
+        "Disconnect the organization from the network"
       ],
       "correctAnswer": "Quizzes, assignments, and final examinations"
     },
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "In the school example, each subject's mark is used to calculate what?",
       "options": [
-        "The size of the library",
-        "The price of school uniforms",
+        "Formats storage partitions into contiguous file blocks",
+        "Emulate human experts to solve complex domain problems",
         "The average mark of students and rank them accordingly",
-        "The number of school buildings"
+        "Both AR and VR eliminate all visual sensory perception"
       ],
       "correctAnswer": "The average mark of students and rank them accordingly"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "Which of the following are the five major components of information systems?",
       "options": [
-        "Monitors, keyboards, printers, scanners, and speakers",
-        "Tables, graphs, charts, formulas, and numbers",
+        "The volume of user content is too vast for human moderation",
         "Hardware, software, data/information, people, and procedure",
-        "Internet, cameras, cables, walls, and roofs"
+        "Monitors, keyboards, printers, scanners, and speakers",
+        "I repaired my own bicycle, so I can fix my friend's bicycle"
       ],
       "correctAnswer": "Hardware, software, data/information, people, and procedure"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "What does the hardware component of an information system include?",
       "options": [
-        "The salary structure of the employees",
-        "The training programs given to employees",
-        "Policies and methods to be followed in using a system",
-        "Digital devices required to perform core information system functions such as data storage, data processing, and communication"
+        "Digital devices required to perform core information system functions such as data storage, data processing, and communication",
+        "A set of interrelated components working together to collect, process, store, and disseminate information to potential users",
+        "Patients who were in remote places, far away from local health facilities, or in areas with shortages of medical professionals",
+        "Business registrations, auto registry, payment of taxes, issuance of birth certificates, and issuance and renewal of identification cards"
       ],
       "correctAnswer": "Digital devices required to perform core information system functions such as data storage, data processing, and communication"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "Communication among the disparate parts of an information system is facilitated through which networks?",
       "options": [
-        "Electricity and water networks",
+        "Monochrome CRT display monitors mounted on individual folding desks",
+        "By processing user data to deliver personalized product suggestions",
         "Telecommunication networks that include wired and wireless networks",
-        "Postal and courier networks",
-        "Railway and road networks"
+        "A legacy technology operating exclusively in administrative offices"
       ],
       "correctAnswer": "Telecommunication networks that include wired and wireless networks"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "What is software?",
       "options": [
-        "A physical part of the computer system",
+        "The automated transmission of pharmacy bills across internet banking apps",
         "A set of instructions that commands the computer hardware to do something",
-        "A series of steps followed to achieve a goal",
-        "A digital device used for data storage"
+        "Exempts students from passing standard curriculum examination assessments",
+        "A popular Internet-based taxi-hailing service used by thousands of people"
       ],
       "correctAnswer": "A set of instructions that commands the computer hardware to do something"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "Which of the following is included in the software component of an information system?",
       "options": [
+        "A web-based information system that collects information from different sources into a single user interface",
         "The operating system, the Database Management System (DBMS), application software, and anti-virus software",
-        "Keyboards, mice, and monitors",
-        "Training programs for employees",
-        "Policies and methods to use a system"
+        "Online training, providing data entry and processing services, Internet Cafe service, and online product sells",
+        "Recruitment, demographic, performance management, learning management, and compensation and benefits data"
       ],
       "correctAnswer": "The operating system, the Database Management System (DBMS), application software, and anti-virus software"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "The various types of data that organizations collect on a regular basis must be stored where?",
       "options": [
-        "In a locked cabinet",
+        "In the memory of the manager",
         "In a computer database for later use",
-        "In a paper notebook only",
-        "In the memory of the manager"
+        "IT is removing jobs from the economy",
+        "In a paper notebook only"
       ],
       "correctAnswer": "In a computer database for later use"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "According to the text, data or information is a critical resource or asset that must be handled in what way?",
       "options": [
-        "Kept secret from managers",
         "Properly managed by the information system",
-        "Sold to competitors",
-        "Ignored by the organization"
+        "Microeconomics, Political Science, and Law",
+        "An isolated sensory deprivation experience",
+        "Mechanical Physics, Chemistry, and Geology"
       ],
       "correctAnswer": "Properly managed by the information system"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "Information systems require qualified or trained people with knowledge to do what?",
       "options": [
-        "Replace all software with paper",
-        "Reduce the number of departments",
+        "It causes severe electrical blackouts across municipal power distribution grids",
+        "A global network of academic libraries cataloging historical paper manuscripts",
         "Operate the technologies and identify new data that must be captured and stored",
-        "Close the organization's offices"
+        "Evidence-based decisions to retain, promote, transfer, or terminate an employee"
       ],
       "correctAnswer": "Operate the technologies and identify new data that must be captured and stored"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Technical people who have specialized knowledge of the information system are responsible to do what?",
       "options": [
-        "Create and manage an information system that is supportive to the organization's daily activities",
-        "Disconnect the organization from the network",
-        "Avoid using the information system",
-        "Delete all the data from the database"
+        "Recruitment, demographic, performance management, learning management, and compensation and benefits data",
+        "The Internet, computers or mobile phones, digital learning resources, content developers, and learners",
+        "An individual who creates a new business, bearing most of the risks and enjoying most of the rewards",
+        "Create and manage an information system that is supportive to the organization's daily activities"
       ],
       "correctAnswer": "Create and manage an information system that is supportive to the organization's daily activities"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "What is a procedure?",
       "options": [
-        "A database that stores employee data",
-        "A set of instructions that commands the hardware",
-        "A digital device used for communication",
-        "A series of steps followed to achieve a desired outcome or goal"
+        "Compiling high-level programming scripts into machine bytecodes",
+        "Overcoming geographical barriers to access health care services",
+        "A series of steps followed to achieve a desired outcome or goal",
+        "Data at Rest: terabytes to exabytes of existing data to process"
       ],
       "correctAnswer": "A series of steps followed to achieve a desired outcome or goal"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "Procedures are the policies and methods to be followed in doing what?",
       "options": [
+        "Job creation that could help tackle global unemployment",
         "Using, operating, and maintaining an information system",
-        "Buying products over the Internet",
-        "Hiring transport vehicles",
-        "Designing office furniture"
+        "A business that uses IT as a platform to run a business",
+        "Server computer, desktop computer, laptop, and networks"
       ],
       "correctAnswer": "Using, operating, and maintaining an information system"
     },
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "Which of the following is clarified by clear procedures in an organization?",
       "options": [
-        "The number of parking spaces",
+        "The practice of caring for patients remotely without the caregiver and the patient being in the same physical location",
         "What data should be captured, who should have access to the data, and who should have the privilege to modify data",
-        "The brand of computers to buy",
-        "The color of the office walls"
+        "A form of technology-based banking service that avoids exchange of cash, checks, or other types of paper documents",
+        "A set of interrelated components working together to collect, process, store, and disseminate information to potential users"
       ],
       "correctAnswer": "What data should be captured, who should have access to the data, and who should have the privilege to modify data"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "Which kinds of data are stored in the database of a typical HRIS?",
       "options": [
-        "Only customer complaint data",
+        "Online training, providing data entry and processing services, Internet Cafe service, and online product sells",
+        "The operating system, the Database Management System (DBMS), application software, and anti-virus software",
         "Recruitment, demographic, performance management, learning management, and compensation and benefits data",
-        "Only weather and climate data",
-        "Only sales and marketing data"
+        "A web-based information system that collects information from different sources into a single user interface"
       ],
       "correctAnswer": "Recruitment, demographic, performance management, learning management, and compensation and benefits data"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "Recruitment data in an HRIS includes which of the following?",
       "options": [
-        "Employees' monthly salary only",
-        "Electricity bills of the office",
-        "Office furniture inventory",
-        "Applicant's Curriculum Vitae and the number of candidates"
+        "Applicant's Curriculum Vitae and the number of candidates",
+        "Mathematically proven theorems derived from pure calculus",
+        "Immediate legal verification of client identity passports",
+        "By replacing cargo container ships with autonomous drones"
       ],
       "correctAnswer": "Applicant's Curriculum Vitae and the number of candidates"
     },
@@ -255,10 +255,10 @@
       "anki": true,
       "question": "Demographic data in an HRIS includes which of the following?",
       "options": [
-        "The list of company vehicles",
-        "The menu of the company cafeteria",
-        "The weather forecast for the week",
-        "Employee ID, name, date of birth, gender, position, and residence"
+        "Secondary school lecture halls, library rooms, and study cubicles",
+        "Restarting the operating system to clear temporary browser caches",
+        "Employee ID, name, date of birth, gender, position, and residence",
+        "They train on sample data to construct predictive decision models"
       ],
       "correctAnswer": "Employee ID, name, date of birth, gender, position, and residence"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "Performance management data in an HRIS refers to which of the following?",
       "options": [
-        "The telephone numbers of clients",
-        "The price of office supplies",
-        "Feedback, ratings, and achievements of employees",
-        "The number of computers in the office"
+        "My friend is not at work, so she must be at home",
+        "A compiler, interpreter, assembler, and debugger",
+        "The number of computers in the office",
+        "Feedback, ratings, and achievements of employees"
       ],
       "correctAnswer": "Feedback, ratings, and achievements of employees"
     },
@@ -291,10 +291,10 @@
       "anki": true,
       "question": "Compensation and benefits data in an HRIS includes which of the following?",
       "options": [
-        "The performance records of employees",
-        "The training programs of employees",
+        "A collection of raw facts stored in a notebook",
         "Employee's salary structure and other benefits",
-        "The number of job candidates"
+        "The training programs of employees",
+        "The performance records of employees"
       ],
       "correctAnswer": "Employee's salary structure and other benefits"
     },
@@ -303,10 +303,10 @@
       "anki": true,
       "question": "Which infrastructural resources are used in a Human Resource Information System?",
       "options": [
+        "By encrypting publication archives using numeric hashes",
         "Server computer, desktop computer, laptop, and networks",
-        "Projectors, whiteboards, and markers",
-        "Generators, batteries, and cables",
-        "Bicycles, trolleys, and wheelbarrows"
+        "Merchants, buyers or customers, banks, and transporters",
+        "A network router directing data packets between subnets"
       ],
       "correctAnswer": "Server computer, desktop computer, laptop, and networks"
     },
@@ -339,10 +339,10 @@
       "anki": true,
       "question": "Performance management software helps the organization to make what kind of decisions?",
       "options": [
-        "Decisions about the type of vehicles to buy",
-        "Decisions about the menu of the cafeteria",
+        "A global network of academic libraries cataloging historical paper manuscripts",
         "Evidence-based decisions to retain, promote, transfer, or terminate an employee",
-        "Decisions about the color of the office"
+        "Operate the technologies and identify new data that must be captured and stored",
+        "It causes severe electrical blackouts across municipal power distribution grids"
       ],
       "correctAnswer": "Evidence-based decisions to retain, promote, transfer, or terminate an employee"
     }

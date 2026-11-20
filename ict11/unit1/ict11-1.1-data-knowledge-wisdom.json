@@ -27,10 +27,10 @@
       "anki": true,
       "question": "Which of the following is considered data?",
       "options": [
-        "A monthly sales report",
-        "A student's average mark",
-        "A wise decision about a business",
-        "100"
+        "100",
+        "Age",
+        "Name",
+        "AOL"
       ],
       "correctAnswer": "100"
     },
@@ -75,9 +75,9 @@
       "anki": true,
       "question": "What is information?",
       "options": [
-        "A set of instructions for the computer",
-        "The highest level of human understanding",
+        "Language Compiler, Linker, and Bytecode Interpreter",
         "Data processed in a meaningful way to the end users",
+        "The highest level of human understanding",
         "Raw facts that give no meaning on their own"
       ],
       "correctAnswer": "Data processed in a meaningful way to the end users"
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "In which forms can information be represented?",
       "options": [
-        "Codes and passwords only",
-        "Table, line graph, bar graph, or formulas",
-        "Sounds and smells only",
-        "Numbers, texts, and images only"
+        "Pneumatic gauges, odometers, and whistles",
+        "Audio conferencing and video conferencing",
+        "Numbers, texts, and images only",
+        "Table, line graph, bar graph, or formulas"
       ],
       "correctAnswer": "Table, line graph, bar graph, or formulas"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "What is knowledge?",
       "options": [
-        "Raw facts that give no meaning on their own",
-        "A form of banking service",
         "An understanding acquired by further processing and integrating different sets of information",
-        "Data put into a table"
+        "Create and manage an information system that is supportive to the organization's daily activities",
+        "Buy products directly from manufacturers at a cheaper price avoiding wholesalers and retailers",
+        "A meeting of two or more people who are separated by distance using electronic communication"
       ],
       "correctAnswer": "An understanding acquired by further processing and integrating different sets of information"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "When you tell a child how to ride a bicycle, what are you giving the child?",
       "options": [
-        "Wisdom",
+        "Information",
         "Salary",
         "Hardware",
-        "Information"
+        "Stabilizers"
       ],
       "correctAnswer": "Information"
     },
@@ -159,9 +159,9 @@
       "anki": true,
       "question": "When a child applies information in riding a bicycle and acquires the necessary skills, the information becomes what?",
       "options": [
-        "Knowledge",
+        "Curiosity",
         "Evidence",
-        "Data",
+        "Knowledge",
         "Traffic"
       ],
       "correctAnswer": "Knowledge"
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Knowledge is acquired by integrating information from which of the following sources?",
       "options": [
+        "Interrelated Internet-connected objects exchanging data without human intervention",
         "Reading books, engaging in different activities, and discussing with other people",
-        "Only from reading books",
-        "Only from tests",
-        "Only from observing"
+        "Operate the technologies and identify new data that must be captured and stored",
+        "A technology creating a three-dimensional computer-generated simulated environment"
       ],
       "correctAnswer": "Reading books, engaging in different activities, and discussing with other people"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "Knowledge is the capability to think and act in order to do what?",
       "options": [
+        "Flatbed scanners, laser printers, and mice",
         "Solve a problem or accomplish a given task",
-        "Store data in a computer",
-        "Print documents",
-        "Make a phone call"
+        "Properly managed by the information system",
+        "IT limits young businesses to local buyers"
       ],
       "correctAnswer": "Solve a problem or accomplish a given task"
     },
@@ -196,7 +196,7 @@
       "question": "The ability to read this textbook or maintain a computer is an example of what?",
       "options": [
         "Currency",
-        "Data",
+        "The 1940s",
         "Payroll",
         "Knowledge"
       ],
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "What is wisdom?",
       "options": [
-        "The ability to make wise decisions and judgments using one's knowledge",
-        "A series of steps to achieve a goal",
-        "The physical parts of an information system",
-        "Raw facts stored in a database"
+        "The development of high-voltage transmission cables for power stations",
+        "Social media platforms operate without connected server infrastructure",
+        "Using diverse algorithms to turn massive raw data into useful insights",
+        "The ability to make wise decisions and judgments using one's knowledge"
       ],
       "correctAnswer": "The ability to make wise decisions and judgments using one's knowledge"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "Wisdom is the highest level of what?",
       "options": [
-        "Computer memory",
-        "Network speed",
+        "Cisco Packet Tracer",
+        "Database design",
         "Human understanding",
-        "Database design"
+        "Computer memory"
       ],
       "correctAnswer": "Human understanding"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "Wisdom is associated with good judgment and what?",
       "options": [
-        "Actions that delete files",
-        "Actions that contribute to living well",
         "Actions that increase data",
-        "Actions that cancel signals"
+        "Actions that contribute to living well",
+        "Actions that cancel signals",
+        "A physical part of the computer system"
       ],
       "correctAnswer": "Actions that contribute to living well"
     },
@@ -255,9 +255,9 @@
       "anki": true,
       "question": "According to the text, wisdom is like which of the following?",
       "options": [
+        "Higher prices from local merchants",
         "Keys, screens, and mouses",
         "Love, intelligence, and politeness",
-        "Data, text, and images",
         "Hate, ignorance, and rudeness"
       ],
       "correctAnswer": "Love, intelligence, and politeness"
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "Which thinking types are included in wisdom?",
       "options": [
-        "Only fast and slow thinking",
-        "Only group and pair thinking",
+        "Policies and methods to be followed in using a system",
+        "Monitors, keyboards, printers, scanners, and speakers",
         "Intuitive, logical, creative, and collective thinking",
-        "Only numerical and visual thinking"
+        "Regulates current flow between motherboard components"
       ],
       "correctAnswer": "Intuitive, logical, creative, and collective thinking"
     },
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "Data, information, knowledge, and wisdom can be arranged in which of the following ways?",
       "options": [
-        "In a hierarchy with wisdom at the bottom",
-        "Randomly with no order",
-        "In a hierarchy with data at the bottom and wisdom at the top",
-        "In a circle with no order"
+        "Risk management to identify and mitigate operational hazards",
+        "Manual bookkeeping using paper journals and ledger notebooks",
+        "Both AR and VR provide completely non-immersive environments",
+        "In a hierarchy with data at the bottom and wisdom at the top"
       ],
       "correctAnswer": "In a hierarchy with data at the bottom and wisdom at the top"
     },
@@ -315,10 +315,10 @@
       "anki": true,
       "question": "In the difference section, data is described as anything represented as what?",
       "options": [
-        "Sounds and movies only",
         "Rules and patterns only",
-        "Tables and graphs only",
-        "Numbers, texts, and images"
+        "Microsoft Excel and Access",
+        "Numbers, texts, and images",
+        "Tables and graphs only"
       ],
       "correctAnswer": "Numbers, texts, and images"
     },
@@ -328,9 +328,9 @@
       "question": "When we say that +251********* is a person's phone number, the data becomes what?",
       "options": [
         "Information",
-        "Wisdom",
-        "Hardware",
-        "Procedure"
+        "Procedure",
+        "Stabilizers",
+        "Hardware"
       ],
       "correctAnswer": "Information"
     },
@@ -339,9 +339,9 @@
       "anki": true,
       "question": "Which of the following refers to understanding patterns, rules, or other mechanisms that serve as a guide for our future actions?",
       "options": [
-        "Printout",
-        "Data",
+        "The 1970s",
         "Signal",
+        "Printout",
         "Knowledge"
       ],
       "correctAnswer": "Knowledge"

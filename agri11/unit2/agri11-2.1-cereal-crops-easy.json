@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Field crops are grown on a wide scale mainly for",
       "options": [
-        "Human consumption",
-        "Animal feed only",
         "Industrial fiber",
-        "Export markets"
+        "Animal feed only",
+        "Extensive farming",
+        "Human consumption"
       ],
       "correctAnswer": "Human consumption"
     },
@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Field crops are annuals that complete their life cycle in",
       "options": [
-        "A single season",
+        "Late harvesting",
         "Two seasons",
-        "Three years",
-        "Five years"
+        "A single season",
+        "Three years"
       ],
       "correctAnswer": "A single season"
     },
@@ -42,10 +42,10 @@
       "anki": true,
       "question": "The two major groups of field crops are",
       "options": [
-        "Cereals and pulses",
         "Roots and tubers",
-        "Oil and fiber",
-        "Forage and sugar"
+        "Forage and sugar",
+        "25 cm between rows",
+        "Cereals and pulses"
       ],
       "correctAnswer": "Cereals and pulses"
     },
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "The five major cereals produced in Ethiopia are",
       "options": [
-        "Teff, maize, wheat, barley, sorghum",
-        "Teff, rice, wheat, barley, oats",
         "Maize, rice, millet, barley, teff",
-        "Wheat, rice, maize, sorghum, oats"
+        "Teff, maize, wheat, barley, sorghum",
+        "Wheat, rice, maize, sorghum, oats",
+        "One third of leaves, stems and pods"
       ],
       "correctAnswer": "Teff, maize, wheat, barley, sorghum"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "The soil suitable for root crops differs from that for",
       "options": [
-        "Cereal or legume crops",
         "All other crops alike",
         "Only forage grasses",
-        "Only oil crops"
+        "Cereal or legume crops",
+        "Reticulum and abomasum"
       ],
       "correctAnswer": "Cereal or legume crops"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Management practices include appropriate planting time and",
       "options": [
-        "Planting distance",
+        "Credit source",
         "Market price",
-        "Land title",
-        "Credit source"
+        "Planting distance",
+        "Three fatty acids"
       ],
       "correctAnswer": "Planting distance"
     }

@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Animals are driven on the surface to achieve a",
       "options": [
-        "Smooth seedbed",
-        "Deep furrow",
         "Rough surface",
-        "Raised bed"
+        "Egg collection",
+        "Deep furrow",
+        "Smooth seedbed"
       ],
       "correctAnswer": "Smooth seedbed"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Teff is ready for harvest when stems and panicle turn",
       "options": [
-        "Yellow",
-        "Green",
         "Brown",
-        "Black"
+        "2800 m",
+        "Black",
+        "Yellow"
       ],
       "correctAnswer": "Yellow"
     },
@@ -151,9 +151,9 @@
       "question": "Fungal diseases in teff are favored by",
       "options": [
         "Excess water in the soil",
+        "High soil temperature",
         "Dry and windy weather",
-        "Low soil fertility",
-        "High soil temperature"
+        "More nitrogen fertilizer"
       ],
       "correctAnswer": "Excess water in the soil"
     },
@@ -163,9 +163,9 @@
       "question": "Teff can be stored for a long time and is less affected by",
       "options": [
         "Pests and diseases",
-        "Drought and frost",
         "Flood and hail",
-        "Soil erosion"
+        "More soil moisture",
+        "Drought and frost"
       ],
       "correctAnswer": "Pests and diseases"
     },

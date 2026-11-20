@@ -18,9 +18,9 @@
       "anki": true,
       "question": "The primary feed problem in Ethiopia is best summarized as",
       "options": [
+        "Perennials harvested once only",
         "Low quality, seasonal shortage",
         "High protein with over supply",
-        "Low labour, high capital",
         "Poor breeds, weak markets"
       ],
       "correctAnswer": "Low quality, seasonal shortage"
@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Locally adapted but low yielding breeds are improved by",
       "options": [
-        "Crossing with exotic",
         "Pure local breeding",
-        "Wild relatives",
-        "Herd expansion"
+        "Herd expansion",
+        "Soil moisture levels",
+        "Crossing with exotic"
       ],
       "correctAnswer": "Crossing with exotic"
     },
@@ -139,9 +139,9 @@
       "question": "Newcastle disease is prevented mainly by",
       "options": [
         "Vaccination",
+        "Castration",
         "Deworming",
-        "Dipping",
-        "Castration"
+        "The nursery"
       ],
       "correctAnswer": "Vaccination"
     },
@@ -150,10 +150,10 @@
       "anki": true,
       "question": "Pastoralists sell livestock during feed shortage because livestock serve as their",
       "options": [
-        "Savings account",
+        "Cereals-legumes",
+        "Meat source",
         "Draft source",
-        "Milk source",
-        "Meat source"
+        "Savings account"
       ],
       "correctAnswer": "Savings account"
     },

@@ -41,10 +41,10 @@
       "anki": true,
       "question": "How does 3D interactive visualization assist students with complex concepts?",
       "options": [
-        "Reduces conceptual complexity by making abstract structures easier to explore",
+        "Reading historical descriptive manuscripts inside soundproof library cubicles",
         "Exempts students from passing standard curriculum examination assessments",
-        "Translates scientific theories into non-technical conversational slang",
-        "Prevents students from discussing academic topics with course teachers"
+        "Prevents students from discussing academic topics with course teachers",
+        "Reduces conceptual complexity by making abstract structures easier to explore"
       ],
       "correctAnswer": "Reduces conceptual complexity by making abstract structures easier to explore"
     },
@@ -65,9 +65,9 @@
       "anki": true,
       "question": "What social benefit emerges when students connect globally via AR and VR?",
       "options": [
-        "Instills valuable collaborative skills and cross-cultural empathy in learners",
         "Increases commercial rivalry and aggressive competition between institutions",
-        "Encourages social isolationism and detachment from domestic communities",
+        "Instills valuable collaborative skills and cross-cultural empathy in learners",
+        "Reading historical descriptive manuscripts inside soundproof library cubicles",
         "Replaces individual student creativity with standardized automated thinking"
       ],
       "correctAnswer": "Instills valuable collaborative skills and cross-cultural empathy in learners"
@@ -89,8 +89,8 @@
       "anki": true,
       "question": "What is the primary diagnostic advantage of AR tools for medical patients?",
       "options": [
+        "Printing detailed photographic illustrations in high-resolution textbooks",
         "Enables disease diagnosis in a manner that is less invasive and pain-free",
-        "Administers high doses of ionizing radiation during routine checkups",
         "Requires deep surgical incisions before preliminary clinical examination",
         "Isolates patients in sensory deprivation rooms for prolonged recovery"
       ],
@@ -113,10 +113,10 @@
       "anki": true,
       "question": "What is tele-surgery as presented in the healthcare applications section?",
       "options": [
+        "The automated transmission of pharmacy bills across internet banking apps",
         "Surgical operations performed with patient and surgeon in separate locations",
-        "The public broadcast of hospital surgical theaters over local television",
-        "A telephone advisory hotline where patients perform self-guided surgeries",
-        "The automated transmission of pharmacy bills across internet banking apps"
+        "Synthesize physical glassware and chemical test tubes through cloud networks",
+        "A telephone advisory hotline where patients perform self-guided surgeries"
       ],
       "correctAnswer": "Surgical operations performed with patient and surgeon in separate locations"
     },
@@ -137,10 +137,10 @@
       "anki": true,
       "question": "How do art galleries and museums utilize Augmented Reality to engage visitors?",
       "options": [
+        "Surgical operations performed with patient and surgeon in separate locations",
         "Overlay computer-generated historical data and context directly on artifacts",
-        "Auction off exhibited historical treasures to visiting collectors online",
         "Replace ancient oil masterpieces with black-and-white dot matrix prints",
-        "Prohibit gallery visitors from viewing physical exhibits in daylight"
+        "Auction off exhibited historical treasures to visiting collectors online"
       ],
       "correctAnswer": "Overlay computer-generated historical data and context directly on artifacts"
     },
@@ -161,10 +161,10 @@
       "anki": true,
       "question": "What market trend has spurred the rapid expansion of Augmented Reality gaming?",
       "options": [
-        "The surging population of mobile gamers seeking physical-world interaction",
+        "It corrupts computer operating system kernels through network data traffic",
         "The mandatory regulatory requirement for AR software on all smart devices",
         "The total technological obsolescence of home video gaming console boxes",
-        "The elimination of software pricing across digital application stores"
+        "The surging population of mobile gamers seeking physical-world interaction"
       ],
       "correctAnswer": "The surging population of mobile gamers seeking physical-world interaction"
     }

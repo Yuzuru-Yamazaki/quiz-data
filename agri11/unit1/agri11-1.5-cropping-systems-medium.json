@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Mono cropping enables farmers to use",
       "options": [
-        "Uniform management",
-        "Crop diversity",
+        "Nutrient balance",
         "Risk spreading",
-        "Nutrient balance"
+        "Always predictable",
+        "Uniform management"
       ],
       "correctAnswer": "Uniform management"
     },
@@ -42,10 +42,10 @@
       "anki": true,
       "question": "Intercropping is a type of",
       "options": [
-        "Mixed cropping",
-        "Mono cropping",
         "Crop rotation",
-        "Fallowing"
+        "Mono cropping",
+        "Mixed cropping",
+        "Chocolate spot"
       ],
       "correctAnswer": "Mixed cropping"
     },
@@ -90,8 +90,8 @@
       "anki": true,
       "question": "Including legumes in a rotation improves",
       "options": [
+        "Mixed cropping",
         "Soil fertility",
-        "Soil acidity",
         "Seed dormancy",
         "Weed density"
       ],
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Mixed cropping helps to spread",
       "options": [
-        "Production risk",
-        "Improved seed",
         "Chemical use",
-        "Machinery"
+        "Juice from cane",
+        "Production risk",
+        "Improved seed"
       ],
       "correctAnswer": "Production risk"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Crop rotation is especially useful for controlling",
       "options": [
-        "Soil-borne pests",
         "Air pollution",
-        "Seed size",
-        "Market prices"
+        "Hunter-gatherers",
+        "Market prices",
+        "Soil-borne pests"
       ],
       "correctAnswer": "Soil-borne pests"
     },

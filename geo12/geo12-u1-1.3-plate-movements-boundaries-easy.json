@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What happens at a divergent plate boundary?",
       "options": [
-        "Two plates move toward each other",
         "Two plates move away from each other",
-        "Two plates slide past each other",
-        "Two plates sink together"
+        "Two plates move toward each other",
+        "A probability of at least 95 percent",
+        "Two plates slide past each other"
       ],
       "correctAnswer": "Two plates move away from each other"
     },
@@ -75,7 +75,7 @@
         "Divergent boundary",
         "Convergent boundary",
         "Transform boundary",
-        "Passive boundary"
+        "A single hot summer"
       ],
       "correctAnswer": "Convergent boundary"
     },
@@ -105,9 +105,9 @@
       "id": 9,
       "question": "What is created at a divergent boundary beneath the ocean?",
       "options": [
-        "New seafloor",
         "A subduction trench",
-        "A deep ocean basin filled with ash",
+        "1880 to 1900",
+        "New seafloor",
         "A chain of old volcanoes"
       ],
       "correctAnswer": "New seafloor"

@@ -15,10 +15,10 @@
       "anki": true,
       "question": "In 1873, which physicist proposed that light consists of electromagnetic waves?",
       "options": [
-        "Niels Bohr",
-        "Albert Einstein",
+        "Max Planck",
         "James Clerk Maxwell",
-        "Max Planck"
+        "Albert Einstein",
+        "an unlimited number"
       ],
       "correctAnswer": "James Clerk Maxwell"
     },
@@ -39,10 +39,10 @@
       "anki": true,
       "question": "The wavelength ($\\lambda$) of an electromagnetic wave is:",
       "options": [
-        "the number of cycles the wave undergoes per second",
-        "the height of the wave",
+        "atoms contain electrons, protons, and neutrons",
+        "the time for one cycle to pass a point",
         "the distance the wave travels during one cycle",
-        "the time for one cycle to pass a point"
+        "the number of cycles the wave undergoes per second"
       ],
       "correctAnswer": "the distance the wave travels during one cycle"
     },
@@ -51,9 +51,9 @@
       "anki": true,
       "question": "The frequency ($\\nu$) of an electromagnetic wave is the number of cycles the wave undergoes per second and is expressed in units of:",
       "options": [
-        "newtons (N)",
-        "joules (J)",
         "hertz (Hz) or $1/s$",
+        "newtons (N)",
+        "may be any fraction",
         "meters (m)"
       ],
       "correctAnswer": "hertz (Hz) or $1/s$"
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "In the visible spectrum, red light has a wavelength of about 750 nm and violet light a wavelength of about 380 nm. Which color has the longer wavelength?",
       "options": [
-        "red",
+        "violet",
+        "two",
         "both are equal",
-        "neither can be determined",
-        "violet"
+        "red"
       ],
       "correctAnswer": "red"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "In 1900, Max Planck proposed the revolutionary idea that energy, like matter, is:",
       "options": [
-        "never absorbed, only radiated",
+        "each occupied by a single electron before pairing of electrons of opposite spin occurs",
+        "high-energy rays with no charge that are not affected by electric or magnetic fields",
         "discontinuous and is emitted or absorbed only in discrete quantities called quanta",
-        "continuous and infinitely divisible",
-        "always in the form of mechanical work"
+        "a nuclear particle with a mass almost identical to that of the proton but no electric charge"
       ],
       "correctAnswer": "discontinuous and is emitted or absorbed only in discrete quantities called quanta"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "According to quantum theory, energy is always emitted or absorbed through a system in:",
       "options": [
-        "continuous amounts",
-        "multiples of the wavelength",
-        "any fractional multiple of $h\\nu$",
-        "integral multiples of $h\\nu$, such as $h\\nu$, $2h\\nu$, $3h\\nu$"
+        "two electrons, one with $m_s = +1/2$ and one with $m_s = -1/2$",
+        "integral multiples of $h\\nu$, such as $h\\nu$, $2h\\nu$, $3h\\nu$",
+        "its distance from the nucleus (the further, the more energy)",
+        "matter is composed of tiny, indivisible particles called atoms"
       ],
       "correctAnswer": "integral multiples of $h\\nu$, such as $h\\nu$, $2h\\nu$, $3h\\nu$"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "The threshold frequency ($\\nu_o$) in the photoelectric effect is the:",
       "options": [
-        "maximum frequency of light absorbed by a metal",
-        "frequency of the emitted light",
+        "the energy of the electron in the atom is lower than that of a free electron",
+        "discontinuous and is emitted or absorbed only in discrete quantities called quanta",
         "minimum frequency of light required to eject electrons from the metal surface",
-        "frequency of visible light only"
+        "Aufbau (building up) principle, Hund's rule, and Pauli's exclusion principle"
       ],
       "correctAnswer": "minimum frequency of light required to eject electrons from the metal surface"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "In the photoelectric effect, a photon with energy less than $E_o$ (so that $\\nu < \\nu_o$):",
       "options": [
-        "always ejects two electrons",
-        "converts into heat energy",
+        "uniformly spread positive charge like a pudding",
         "cannot remove an electron from the metal surface",
-        "removes an electron with low kinetic energy"
+        "can be measured separately with equal precision",
+        "the same number of neutrons but different protons"
       ],
       "correctAnswer": "cannot remove an electron from the metal surface"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "A photon is best described as:",
       "options": [
-        "a continuous stream of waves",
+        "the plum-pudding model and quantization",
+        "a particle of light or an energy packet",
         "a neutral subatomic particle",
-        "a charged particle in the cathode ray",
-        "a particle of light or an energy packet"
+        "a charged particle in the cathode ray"
       ],
       "correctAnswer": "a particle of light or an energy packet"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "Einstein's equation $E = mc^2$ implies which of the following?",
       "options": [
-        "mass has no relation to energy",
-        "energy moves at constant speed in all media",
-        "energy and mass are always equal in value",
-        "energy has mass"
+        "collector plate",
+        "Democritus only",
+        "energy has mass",
+        "$[Ar]4s^2 3d^5$"
       ],
       "correctAnswer": "energy has mass"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "When an electric discharge passes through hydrogen gas and the emitted light is passed through a prism, the pattern observed is:",
       "options": [
-        "a continuous rainbow like sunlight",
-        "no light at all",
-        "a series of individual lines (an atomic or line spectrum)",
-        "a single broad band of white light"
+        "different numbers of neutrons and different mass numbers",
+        "the wave behavior of matter and the uncertainty principle",
+        "negatively charged particles deflected by electric fields",
+        "a series of individual lines (an atomic or line spectrum)"
       ],
       "correctAnswer": "a series of individual lines (an atomic or line spectrum)"
     },
@@ -255,10 +255,10 @@
       "anki": true,
       "question": "The wavelengths of the lines in an element's emission spectrum are:",
       "options": [
+        "the energy of the electron in the atom is lower than that of a free electron",
+        "Aufbau (building up) principle, Hund's rule, and Pauli's exclusion principle",
         "characteristic of the element producing them and used for its identification",
-        "identical for every element",
-        "the same as those of sunlight",
-        "produced only by metals"
+        "minimum frequency of light required to eject electrons from the metal surface"
       ],
       "correctAnswer": "characteristic of the element producing them and used for its identification"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "According to Bohr's model, the electron in a hydrogen atom travels around the nucleus in a circular orbit, and the energy of the electron is proportional to:",
       "options": [
-        "its spin direction",
-        "the number of protons",
+        "a positive charge equal in magnitude to that of the electron",
+        "philosophical speculation rather than experimental evidence",
         "its distance from the nucleus (the further, the more energy)",
-        "the mass of the nucleus"
+        "two electrons, one with $m_s = +1/2$ and one with $m_s = -1/2$"
       ],
       "correctAnswer": "its distance from the nucleus (the further, the more energy)"
     },
@@ -279,9 +279,9 @@
       "anki": true,
       "question": "Bohr introduced the quantum condition that the angular momentum of the electron ($mvr$) can take only values that are:",
       "options": [
-        "multiples of $2\\pi h$",
         "integral multiples of $h/2\\pi$",
         "arbitrary real numbers",
+        "the intensity of the radiation",
         "integral multiples of $h$"
       ],
       "correctAnswer": "integral multiples of $h/2\\pi$"
@@ -303,9 +303,9 @@
       "anki": true,
       "question": "Bohr showed that the energy of the electron in the hydrogen atom is $E_n = -R_H/n^2$, where $R_H = 2.18 \\times 10^{-18}$ J. The negative sign signifies that:",
       "options": [
-        "the atom emits negative energy",
-        "the energy of the electron is always negative in value",
-        "the electron has no energy",
+        "characteristic of the element producing them and used for its identification",
+        "Aufbau (building up) principle, Hund's rule, and Pauli's exclusion principle",
+        "the spontaneous emission of particles and/or radiation from unstable nuclei",
         "the energy of the electron in the atom is lower than that of a free electron"
       ],
       "correctAnswer": "the energy of the electron in the atom is lower than that of a free electron"

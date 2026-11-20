@@ -16,10 +16,10 @@
       "anki": true,
       "question": "The BB84 protocol was first published in 1984 by",
       "options": [
-        "Artur Ekert and Charles Bennett",
-        "Peter Shor and Charles Bennett",
+        "The town stopped recycling in 2010.",
         "Charles Bennett and Peter Shor",
-        "Charles Bennett and Gilles Brassard"
+        "Charles Bennett and Gilles Brassard",
+        "Artur Ekert and Charles Bennett"
       ],
       "correctAnswer": "Charles Bennett and Gilles Brassard"
     },
@@ -28,10 +28,10 @@
       "anki": true,
       "question": "BB84 is a protocol for",
       "options": [
-        "computing large prime numbers faster than any classical algorithm",
+        "transmitting a quantum state whose measurement statistics can reveal interception",
         "distributing a shared secret key using quantum states sent over a quantum channel",
-        "sending a message directly with unbreakable confidentiality",
-        "producing a tamper-proof digital signature"
+        "proved that a quantum state can be copied with fidelity above the classical limit",
+        "A qubit uses four symbols instead of the two symbols available to a classical bit"
       ],
       "correctAnswer": "distributing a shared secret key using quantum states sent over a quantum channel"
     },
@@ -40,9 +40,9 @@
       "anki": true,
       "question": "In BB84, Alice encodes each random bit using one of four polarisation states. Which set does she use?",
       "options": [
-        "any four mutually orthogonal states of her own choosing",
-        "the rectilinear basis only, at $0^\\circ$ and $90^\\circ$",
-        "the left and right circular polarisation states only",
+        "A state in which the system is classically in two states at once, each with its own definite property",
+        "a sample of their sifted key bits, computing the fraction that disagree (the quantum bit error rate)",
+        "produces one definite outcome, and the state after the measurement is the corresponding basis state",
         "the rectilinear basis ($0^\\circ$ and $90^\\circ$) and the diagonal basis ($45^\\circ$ and $135^\\circ$)"
       ],
       "correctAnswer": "the rectilinear basis ($0^\\circ$ and $90^\\circ$) and the diagonal basis ($45^\\circ$ and $135^\\circ$)"
@@ -112,10 +112,10 @@
       "anki": true,
       "question": "To test for eavesdropping, Alice and Bob publicly compare",
       "options": [
-        "the total energy of the photons they received",
-        "the number of photons their detectors registered",
+        "follows from the laws of physics rather than from the current difficulty of a computational problem",
         "a sample of their sifted key bits, computing the fraction that disagree (the quantum bit error rate)",
-        "the time taken for the photons to arrive"
+        "the rectilinear basis ($0^\\circ$ and $90^\\circ$) and the diagonal basis ($45^\\circ$ and $135^\\circ$)",
+        "probability amplitudes along alternative paths add before squaring, so they can reinforce or cancel"
       ],
       "correctAnswer": "a sample of their sifted key bits, computing the fraction that disagree (the quantum bit error rate)"
     },
@@ -124,10 +124,10 @@
       "anki": true,
       "question": "In ideal single-photon BB84, if the quantum bit error rate exceeds roughly $11\\%$, the correct response is to",
       "options": [
-        "discard only the photons that were lost in the fibre",
-        "abort the run, since the key bits can no longer be assumed secret",
+        "continue and encrypt the remaining bits with a one-time pad",
+        "the encrypted message itself, secure without any classical cipher",
         "continue, since the error rate only affects how long the key is",
-        "continue and encrypt the remaining bits with a one-time pad"
+        "abort the run, since the key bits can no longer be assumed secret"
       ],
       "correctAnswer": "abort the run, since the key bits can no longer be assumed secret"
     },
@@ -136,10 +136,10 @@
       "anki": true,
       "question": "If Eve measures every photon in a random basis and resends it, her presence causes",
       "options": [
-        "no errors at all, because resending produces the original state",
-        "an error rate of about $25\\%$ among the sifted bits, far above the tolerable threshold",
-        "an error rate of $50\\%$ in every run regardless of the basis choice",
-        "an error rate of about $11\\%$, just at the tolerable threshold"
+        "the very high detection efficiency and low loss needed to close the detection loophole",
+        "a source of key material that must be combined with authenticated classical encryption",
+        "Quantum gates are deterministic only when the input state is an eigenstate of the gate",
+        "an error rate of about $25\\%$ among the sifted bits, far above the tolerable threshold"
       ],
       "correctAnswer": "an error rate of about $25\\%$ among the sifted bits, far above the tolerable threshold"
     },
@@ -148,10 +148,10 @@
       "anki": true,
       "question": "Eve cannot simply copy the transmitted photons and measure her copies later because",
       "options": [
-        "the channel destroys the states before any device could intercept them",
+        "RSA with a 2048-bit modulus is already known to be broken and cannot be deployed",
+        "The theorem concerns only the spin of particles, not the polarisation of photons",
         "the no-cloning theorem forbids making a perfect copy of an unknown quantum state",
-        "she would need a full quantum computer to perform the copy",
-        "photons travel too quickly to be copied by any device"
+        "the channel destroys the states before any device could intercept them"
       ],
       "correctAnswer": "the no-cloning theorem forbids making a perfect copy of an unknown quantum state"
     },
@@ -160,10 +160,10 @@
       "anki": true,
       "question": "Eve cannot measure the photons in a way that always reveals their basis, because",
       "options": [
-        "she would need to know the output of Alice's random number generator",
+        "the basis announcements alone reveal no information about the sifted bits, and Eve's disturbances are caught by testing the key",
+        "A qubit can be a coherent superposition of $|0\\rangle$ and $|1\\rangle$, whereas a classical bit is always exactly $0$ or exactly $1$",
         "the four states are not mutually orthogonal, and a measurement that distinguishes non-orthogonal states inevitably disturbs them",
-        "her own basis choice is correlated with Alice's basis choice",
-        "a photon is absorbed if she measures in the wrong basis"
+        "every plaintext of that length is consistent with the same ciphertext, so the ciphertext carries no information about the plaintext"
       ],
       "correctAnswer": "the four states are not mutually orthogonal, and a measurement that distinguishes non-orthogonal states inevitably disturbs them"
     },
@@ -172,10 +172,10 @@
       "anki": true,
       "question": "The central principle behind BB84's eavesdropping detection is",
       "options": [
+        "its security can be established from observed correlations alone, without trusting the internal operation of the devices",
         "any attempt to gain information about a quantum state disturbs it, and the disturbance appears as errors in the shared key",
-        "the key length always decreases when a photon is lost in the channel",
-        "classical light cannot be amplified without adding noise",
-        "photons cannot be stored for longer than a few nanoseconds"
+        "the information an eavesdropper can obtain is bounded by a computable quantity no matter how much computing power is used",
+        "those in the two bases not reserved for the Bell test, keeping the settings that satisfy the required correlation condition"
       ],
       "correctAnswer": "any attempt to gain information about a quantum state disturbs it, and the disturbance appears as errors in the shared key"
     },
@@ -196,10 +196,10 @@
       "anki": true,
       "question": "In BB84, Alice chooses the rectilinear basis and sends the $90^\\circ$ state. With the convention $0^\\circ = 0$ and $90^\\circ = 1$, the bit encoded is",
       "options": [
-        "either $0$ or $1$ with equal probability until Bob measures",
-        "$1$",
-        "$\\tfrac{1}{2}$, since a single photon carries half a bit",
-        "$0$"
+        "$0$",
+        "259",
+        "195",
+        "$1$"
       ],
       "correctAnswer": "$1$"
     },
@@ -208,10 +208,10 @@
       "anki": true,
       "question": "After error checking, the surviving key is usually shortened by classical privacy amplification, which",
       "options": [
-        "pads the key with random bits to hide its length",
-        "repeats the transmission with more photons until the error rate falls",
-        "replaces the key with a fresh one-time pad of the same length",
-        "hashes the remaining bits so that Eve's information about them is reduced to a negligible amount"
+        "close the locality and detection loopholes, otherwise the violation can be explained classically",
+        "shows no interference and no entanglement-like correlation, whereas a coherent superposition does",
+        "hashes the remaining bits so that Eve's information about them is reduced to a negligible amount",
+        "factors large integers and computes discrete logarithms in polynomial time on a quantum computer"
       ],
       "correctAnswer": "hashes the remaining bits so that Eve's information about them is reduced to a negligible amount"
     },
@@ -221,9 +221,9 @@
       "question": "For BB84 to be secure, the classical channel must be",
       "options": [
         "authenticated, so that Eve cannot impersonate Alice or Bob during sifting",
+        "$|0\\rangle$ with probability $1/2$ and $|1\\rangle$ with probability $1/2$",
         "left unauthenticated, since the quantum channel already provides authentication",
-        "private, so that Eve cannot read the announced bases at all",
-        "encrypted with a pre-shared key"
+        "the announcements are encrypted with a pre-shared key before transmission"
       ],
       "correctAnswer": "authenticated, so that Eve cannot impersonate Alice or Bob during sifting"
     },
@@ -232,10 +232,10 @@
       "anki": true,
       "question": "Why is it acceptable for Alice and Bob to announce their bases openly?",
       "options": [
+        "every plaintext of that length is consistent with the same ciphertext, so the ciphertext carries no information about the plaintext",
         "the basis announcements alone reveal no information about the sifted bits, and Eve's disturbances are caught by testing the key",
-        "the announcements are encrypted with a pre-shared key before transmission",
-        "only the bases are ever announced, never the bit values",
-        "the eavesdropper is assumed not to monitor classical channels"
+        "the four states are not mutually orthogonal, and a measurement that distinguishes non-orthogonal states inevitably disturbs them",
+        "A qubit can be a coherent superposition of $|0\\rangle$ and $|1\\rangle$, whereas a classical bit is always exactly $0$ or exactly $1$"
       ],
       "correctAnswer": "the basis announcements alone reveal no information about the sifted bits, and Eve's disturbances are caught by testing the key"
     },
@@ -244,10 +244,10 @@
       "anki": true,
       "question": "A practical implementation of BB84 must use single-photon or weak pulses, because",
       "options": [
+        "multi-photon pulses cannot be modulated fast enough for the key rate",
+        "the two qubits differ in mass, charge or some other measurable property",
         "multi-photon pulses can be attacked by a photon-number-splitting attack",
-        "single-photon states cannot be produced by any laser",
-        "weak pulses avoid the need for single-photon detectors",
-        "multi-photon pulses cannot be modulated fast enough for the key rate"
+        "She argued that the policy was unfair, and she proposed an alternative,"
       ],
       "correctAnswer": "multi-photon pulses can be attacked by a photon-number-splitting attack"
     },
@@ -256,10 +256,10 @@
       "anki": true,
       "question": "The decoy-state method used in real BB84 systems is a technique to",
       "options": [
-        "reduce the dark-count rate of the detectors",
         "defeat photon-number-splitting attacks by varying the intensity of the pulses",
-        "measure the channel loss before sending any key data",
-        "correct for polarisation drift in the fibre"
+        "ordinary optical amplifiers can restore the photon count without adding noise",
+        "quantum mechanics can never be verified experimentally to arbitrary precision",
+        "proof that a message was sent by a particular sender and has not been altered"
       ],
       "correctAnswer": "defeat photon-number-splitting attacks by varying the intensity of the pulses"
     },
@@ -268,10 +268,10 @@
       "anki": true,
       "question": "In BB84 the sifted key consists of the photons that",
       "options": [
-        "were sent using a basis fixed by a public schedule",
-        "were measured in the basis matching the one in which they were sent",
         "were measured in any basis, with mismatched ones later corrected by Alice",
-        "passed through a quantum repeater during transmission"
+        "the impossibility of generating random numbers quantum mechanically",
+        "banks, government data centres and critical infrastructure networks",
+        "were measured in the basis matching the one in which they were sent"
       ],
       "correctAnswer": "were measured in the basis matching the one in which they were sent"
     },
@@ -280,10 +280,10 @@
       "anki": true,
       "question": "A key practical advantage of BB84 over entanglement-based protocols is that it",
       "options": [
-        "works over longer distances without repeaters",
+        "polarisation drift caused by temperature fluctuations and by birefringence in the fibre",
+        "A random mixture in which the system is in an unknown but already fixed classical state",
         "needs no entangled-photon source or pair distribution, only a prepare-and-measure setup",
-        "needs no single-photon source at all",
-        "needs no authenticated classical channel"
+        "The result is $|0\\rangle$ with probability $1/2$ and $|1\\rangle$ with probability $1/2$"
       ],
       "correctAnswer": "needs no entangled-photon source or pair distribution, only a prepare-and-measure setup"
     },
@@ -292,10 +292,10 @@
       "anki": true,
       "question": "A key practical disadvantage of BB84 compared with post-quantum cryptography is that it",
       "options": [
-        "cannot be used over existing optical fibre",
-        "produces keys only at very low rates on short links",
-        "requires the two parties to share a secret key in advance",
-        "requires specialised quantum hardware and a dedicated optical link"
+        "She argued that the policy was unfair she proposed an alternative.",
+        "requires specialised quantum hardware and a dedicated optical link",
+        "Alice, who prepares them and sends them to Bob over a quantum link",
+        "requires the two parties to share a secret key in advance"
       ],
       "correctAnswer": "requires specialised quantum hardware and a dedicated optical link"
     },
@@ -305,9 +305,9 @@
       "question": "BB84's security is described as",
       "options": [
         "information-theoretic, resting on the laws of quantum physics rather than on computational hardness",
-        "conditional, resting on the physical security of the laboratory",
-        "computational, resting on the difficulty of a problem such as integer factoring",
-        "heuristic, supported only by experimental data"
+        "produces one definite outcome, and the state after the measurement is the corresponding basis state",
+        "probability amplitudes along alternative paths add before squaring, so they can reinforce or cancel",
+        "must interact with the entangled photons, which breaks the correlations tested by Bell's inequality"
       ],
       "correctAnswer": "information-theoretic, resting on the laws of quantum physics rather than on computational hardness"
     },
@@ -316,10 +316,10 @@
       "anki": true,
       "question": "Why does BB84 use four states in total rather than just two?",
       "options": [
+        "the information an eavesdropper can obtain is bounded by a computable quantity no matter how much computing power is used",
         "two non-orthogonal bases are needed, so that no measurement can identify the basis without introducing detectable errors",
-        "a qubit requires four basis values, since $|0\\rangle$ and $|1\\rangle$ are not enough",
-        "four states double the key rate achievable on a single channel",
-        "four states give two bits of redundancy per transmitted photon"
+        "its security can be established from observed correlations alone, without trusting the internal operation of the devices",
+        "it has produced standardised algorithms for the post-quantum era, encouraging migration before quantum computers arrive"
       ],
       "correctAnswer": "two non-orthogonal bases are needed, so that no measurement can identify the basis without introducing detectable errors"
     },
@@ -340,10 +340,10 @@
       "anki": true,
       "question": "A deployed QKD system is best described as",
       "options": [
-        "a source of key material that must be combined with authenticated classical encryption",
-        "a device that encrypts the user's data directly with single photons",
-        "a network protocol that removes the need for authentication",
-        "a complete replacement for all conventional encryption"
+        "demonstrated that all quantum correlations can be reproduced by local hidden variables",
+        "an error rate of about $25\\%$ among the sifted bits, far above the tolerable threshold",
+        "single repeater to create a long-distance pair in one step, with no intermediate nodes",
+        "a source of key material that must be combined with authenticated classical encryption"
       ],
       "correctAnswer": "a source of key material that must be combined with authenticated classical encryption"
     }

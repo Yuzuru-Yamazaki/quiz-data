@@ -68,8 +68,8 @@
       "options": [
         "Producing food mainly for the household to use",
         "Selling most of the output at the local market each year",
-        "Producing for export contracts",
-        "Growing only cash crops"
+        "A single technological leap forward by farmers",
+        "A formal scientific management model of nature"
       ],
       "correctAnswer": "Producing food mainly for the household to use"
     },
@@ -79,9 +79,9 @@
       "question": "Which feature conflicts most with shifting cultivation?",
       "options": [
         "Permanent soil and water conservation works",
-        "Land cleared for cultivation",
         "Abandonment of the land after only a few years",
-        "Movement to a new plot"
+        "Fertilizer application by the local farmers",
+        "It reflects generations of local experience"
       ],
       "correctAnswer": "Permanent soil and water conservation works"
     },
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "Using legume toxins on arrowheads shows",
       "options": [
+        "Raw material for industry",
+        "Religious instruction",
         "Practical experimentation",
-        "Formal scientific method",
-        "Industrial processing",
-        "Religious instruction"
+        "Formal scientific method"
       ],
       "correctAnswer": "Practical experimentation"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Calling hunter-gatherers unskilled is misleading because survival required",
       "options": [
-        "Insight and detailed knowledge of nature",
         "Simple tools and very little skill for survival",
-        "Large families and slaves",
-        "Metal tools and writing"
+        "Temporary land use versus continuous use",
+        "Insight and detailed knowledge of nature",
+        "The full capacity of the national system"
       ],
       "correctAnswer": "Insight and detailed knowledge of nature"
     },
@@ -152,8 +152,8 @@
       "options": [
         "Managing plants and animals in a deliberate way",
         "Following wild animal herds across the different seasons",
-        "Gathering fruits from forests",
-        "Fishing in rivers and lakes"
+        "Simple tools and very little skill for survival",
+        "The cultivation of crops and rearing of animals"
       ],
       "correctAnswer": "Managing plants and animals in a deliberate way"
     },
@@ -164,8 +164,8 @@
       "options": [
         "The cultivation of crops and rearing of animals",
         "Hunting wild animals and collecting wild plants for food",
-        "Fishing and trapping",
-        "Mining and trading"
+        "Managing plants and animals in a deliberate way",
+        "Extensive fallowing of the land only every year"
       ],
       "correctAnswer": "The cultivation of crops and rearing of animals"
     }

@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What are the three external causes of climate change?",
       "options": [
-        "Changes in incoming solar radiation, atmospheric composition and Earth surface",
-        "Wind, rain and rivers",
-        "Ocean currents, tides and waves",
-        "Fossils, rocks and soils"
+        "A change in the mean or variability of climate persisting for decades or longer",
+        "Systems that accumulate and store greenhouse gases, such as forests and oceans",
+        "They interact at boundaries to form features such as mountains and earthquakes",
+        "Changes in incoming solar radiation, atmospheric composition and Earth surface"
       ],
       "correctAnswer": "Changes in incoming solar radiation, atmospheric composition and Earth surface"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What are internal causes of climate change?",
       "options": [
-        "Changes in Earth orbit",
+        "It reduces emissions through modern efficient technologies",
         "Ocean and atmosphere circulation that redistributes energy",
-        "Volcanic eruptions",
-        "Burning of fossil fuels"
+        "Tropical regions where many developing nations are located",
+        "Shock waves released by shifting rock during an earthquake"
       ],
       "correctAnswer": "Ocean and atmosphere circulation that redistributes energy"
     },
@@ -42,7 +42,7 @@
         "Alfred Wegener",
         "Charles Darwin",
         "Milutin Milankovitch",
-        "Isaac Newton"
+        "Coastline similarity"
       ],
       "correctAnswer": "Milutin Milankovitch"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What is a sunspot?",
       "options": [
-        "A dark patch on the moon",
-        "A volcano on the ocean floor",
-        "A cooler, darker magnetic storm region on the Sun",
-        "A type of tropical cloud"
+        "Reduce greenhouse gas emissions and enhance sinks",
+        "Adaptation that takes place before impacts appear",
+        "The plate pushes mountains upward without melting",
+        "A cooler, darker magnetic storm region on the Sun"
       ],
       "correctAnswer": "A cooler, darker magnetic storm region on the Sun"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "Which natural event can eject sulfur gases into the stratosphere and cool Earth?",
       "options": [
-        "An earthquake",
-        "A tsunami",
         "A landslide",
+        "An earthquake",
+        "Convergent boundary",
         "A volcanic eruption"
       ],
       "correctAnswer": "A volcanic eruption"
@@ -105,9 +105,9 @@
       "id": 9,
       "question": "What is the primary human cause of climate change over recent decades?",
       "options": [
-        "Burning of fossil fuels",
-        "Planting trees",
         "Building reservoirs",
+        "More frequent blizzards",
+        "Burning of fossil fuels",
         "Using solar panels"
       ],
       "correctAnswer": "Burning of fossil fuels"
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which gas strongly absorbs infrared radiation and warms the lower atmosphere?",
       "options": [
-        "Oxygen",
         "Carbon dioxide",
-        "Nitrogen",
-        "Helium"
+        "Helium",
+        "A volcano vent",
+        "Nitrogen"
       ],
       "correctAnswer": "Carbon dioxide"
     }

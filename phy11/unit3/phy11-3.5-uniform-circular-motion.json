@@ -291,10 +291,10 @@
       "anki": true,
       "question": "For a conical pendulum, the vertical force balance gives",
       "options": [
+        "T = pi over omega",
         "T cos theta = m g",
-        "T sin theta = m g",
         "T = m g",
-        "T cos theta = m v squared over r"
+        "T sin theta = m g"
       ],
       "correctAnswer": "T cos theta = m g"
     },

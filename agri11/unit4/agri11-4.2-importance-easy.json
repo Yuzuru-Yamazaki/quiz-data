@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Animal production is also called",
       "options": [
+        "Cattle ownership",
+        "Animal health",
         "Animal husbandry",
-        "Crop husbandry",
-        "Farm ecology",
-        "Animal health"
+        "Crop husbandry"
       ],
       "correctAnswer": "Animal husbandry"
     },
@@ -43,9 +43,9 @@
       "question": "Draught animals provide",
       "options": [
         "Pulling power",
-        "Milk supply",
         "Meat supply",
-        "Wool supply"
+        "Wool supply",
+        "Animal fodder"
       ],
       "correctAnswer": "Pulling power"
     },
@@ -115,8 +115,8 @@
       "question": "The two most important categories of animal work are",
       "options": [
         "Traction, transport",
-        "Milking, shearing",
         "Feeding, breeding",
+        "Higher soil acidity",
         "Ploughing, sowing"
       ],
       "correctAnswer": "Traction, transport"
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Poultry feathers are used to make",
       "options": [
+        "Share the same habitat",
+        "Hormones and drugs",
         "Mattresses and pillows",
-        "Bags and drums",
-        "Candles and soap",
-        "Hormones and drugs"
+        "Candles and soap"
       ],
       "correctAnswer": "Mattresses and pillows"
     },
@@ -151,9 +151,9 @@
       "question": "Animal bones and hooves are used to make",
       "options": [
         "Adhesives",
-        "Candles",
+        "Bone glue",
         "Soap",
-        "Ink"
+        "Candles"
       ],
       "correctAnswer": "Adhesives"
     },
@@ -163,7 +163,7 @@
       "question": "In traditional society, social wealth is commonly measured by",
       "options": [
         "Cattle ownership",
-        "House size",
+        "Starch and fiber",
         "Crop harvest",
         "Farm tools"
       ],
@@ -186,10 +186,10 @@
       "anki": true,
       "question": "Manure from farm animals improves",
       "options": [
-        "Soil fertility",
+        "Egg collection",
         "Milk yield",
         "Wool quality",
-        "Egg size"
+        "Soil fertility"
       ],
       "correctAnswer": "Soil fertility"
     }

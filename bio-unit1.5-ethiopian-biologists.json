@@ -29,10 +29,10 @@
       "id": 2,
       "question": "Professor Yalemtsehay Mekonnen works in which department at Addis Ababa University?",
       "options": [
+        "The discovery of the circulation of blood",
+        "Water barrier and protection against cold",
         "Department of Biology, Faculty of Science",
-        "Department of Zoology",
-        "Department of Chemistry",
-        "Department of Medicine"
+        "The molecule dissolves the ion completely"
       ],
       "correctAnswer": "Department of Biology, Faculty of Science"
     },
@@ -40,10 +40,10 @@
       "id": 3,
       "question": "How long has Professor Yalemtsehay Mekonnen worked in the Department of Biology at Addis Ababa University?",
       "options": [
-        "The last 30 years",
+        "Sepals and petals",
         "Over 20 years",
         "For 15 years",
-        "Since 1990"
+        "The last 30 years"
       ],
       "correctAnswer": "The last 30 years"
     },
@@ -51,10 +51,10 @@
       "id": 4,
       "question": "Professor Yalemtsehay Mekonnen received her PhD specializing in which field?",
       "options": [
+        "Microbiology",
         "Genetics",
-        "Human physiology",
-        "Botany",
-        "Microbiology"
+        "Simien Mountains",
+        "Human physiology"
       ],
       "correctAnswer": "Human physiology"
     },
@@ -62,10 +62,10 @@
       "id": 5,
       "question": "From which university did Professor Yalemtsehay Mekonnen receive her PhD?",
       "options": [
-        "University of Heidelberg in Germany",
-        "Purdue University",
+        "Males have greater vocal cord folds",
         "University of Cambridge",
-        "Addis Ababa University"
+        "That they are all harmful to humans",
+        "University of Heidelberg in Germany"
       ],
       "correctAnswer": "University of Heidelberg in Germany"
     },
@@ -73,8 +73,8 @@
       "id": 6,
       "question": "One of Professor Yalemtsehay Mekonnen's research areas is the assessment of the impact of which hazards on humans?",
       "options": [
-        "Radiation hazards",
         "Noise pollution hazards",
+        "The length of the molecule",
         "Chemical pesticide hazards",
         "Biological hazards"
       ],
@@ -84,10 +84,10 @@
       "id": 7,
       "question": "Professor Yalemtsehay's research on chemical pesticide hazards covers which areas?",
       "options": [
+        "Determining gene and protein functions, establishing evolutionary relationships, and predicting three-dimensional shapes of proteins",
+        "The complex of living organisms, their physical and chemical environment, and all their interactions in a particular unit of space",
         "Almost all government farms including Upper Awash agricultural farms and private horticultural farms in the Rift Valley region",
-        "Only private farms",
-        "Only government farms in northern Ethiopia",
-        "Only the Rift Valley region"
+        "The cells begin to divide, with some undergoing full cytokinesis and others having prolonged interphase but no further DNA duplication"
       ],
       "correctAnswer": "Almost all government farms including Upper Awash agricultural farms and private horticultural farms in the Rift Valley region"
     },
@@ -95,9 +95,9 @@
       "id": 8,
       "question": "What is the other area of Professor Yalemtsehay Mekonnen's research?",
       "options": [
-        "The study of genetics",
-        "The study of microorganisms",
-        "The study of animal behavior",
+        "Agriculture, nursery work, plant disease, forestry, and poultry",
+        "Thermal energy required to vaporize a liquid from liquid to gas",
+        "Because there is commonly 90% energy loss at each trophic level",
         "The use of plants as medicine against human and animal diseases"
       ],
       "correctAnswer": "The use of plants as medicine against human and animal diseases"
@@ -117,10 +117,10 @@
       "id": 10,
       "question": "Professor Yalemtsehay's research areas include which type of tests on useful plant extracts?",
       "options": [
-        "Only in vivo tests",
+        "Small intestine, large intestine, rectum",
+        "Both hydrogen atoms point toward the ion",
         "In vivo and in vitro physiological tests",
-        "Only in vitro tests",
-        "Chemical analysis tests"
+        "Biotic (living) and abiotic (non-living)"
       ],
       "correctAnswer": "In vivo and in vitro physiological tests"
     },
@@ -128,10 +128,10 @@
       "id": 11,
       "question": "Professor Yalemtsehay has done notable research on medicinal plants especially on which plant?",
       "options": [
+        "The use of biological knowledge to manage life",
+        "The first distinguished Ethiopian pediatrician",
         "Moringa Stenopetala (shiferaw/Alekko Shekatta)",
-        "Ruta chalepensis",
-        "Phytolacca dodecane",
-        "Sorghum"
+        "Root and stem tubers, leaves, seeds and fruits"
       ],
       "correctAnswer": "Moringa Stenopetala (shiferaw/Alekko Shekatta)"
     },
@@ -139,10 +139,10 @@
       "id": 12,
       "question": "Schistosomiasis, also known as Bilharzia, is what type of disease?",
       "options": [
-        "A bacterial disease",
         "A common parasitic disease",
+        "Transfer by the same plant",
         "A genetic disease",
-        "A viral disease"
+        "A bacterial disease"
       ],
       "correctAnswer": "A common parasitic disease"
     },
@@ -161,7 +161,7 @@
       "id": 14,
       "question": "Schistosomiasis is caused by which type of organism?",
       "options": [
-        "Viruses",
+        "Dean of Engineering",
         "Bacteria",
         "Protozoa",
         "Parasitic flatworms"
@@ -172,10 +172,10 @@
       "id": 15,
       "question": "The parasitic flatworms that cause Schistosomiasis spend part of their lifecycle in which organisms?",
       "options": [
+        "Birds",
+        "Low boiling point",
         "Mosquitoes",
-        "Freshwater snails",
-        "Fish",
-        "Birds"
+        "Freshwater snails"
       ],
       "correctAnswer": "Freshwater snails"
     },
@@ -183,10 +183,10 @@
       "id": 16,
       "question": "Once inside a person, where do Schistosomiasis parasites infest?",
       "options": [
-        "Only the lungs",
-        "Only the intestines",
-        "Only the skin",
-        "The blood vessels, liver, kidneys, bladder, and other organs"
+        "The blood vessels, liver, kidneys, bladder, and other organs",
+        "Synthesis of amino acids which are polymerized into proteins",
+        "Ammonifying bacteria (aerobic and anaerobic bacteria, fungi)",
+        "They cannot move by themselves and remain fixed at one place"
       ],
       "correctAnswer": "The blood vessels, liver, kidneys, bladder, and other organs"
     },
@@ -227,10 +227,10 @@
       "id": 20,
       "question": "What did Dr. Aklilu Lemma notice downstream of women washing clothes?",
       "options": [
-        "More fish than usual",
-        "More algae growth",
         "More dead snails than anywhere else",
-        "Cleaner water"
+        "Promotion of industrial development",
+        "She discovered the structure of DNA",
+        "Hydrogen, oxygen, and nitrogen only"
       ],
       "correctAnswer": "More dead snails than anywhere else"
     },
@@ -238,10 +238,10 @@
       "id": 21,
       "question": "What were the women using to make washing suds?",
       "options": [
-        "Lemon juice",
-        "The soapberry called 'Endod' in Amharic (Phytolacca dodecane Dr.a)",
-        "Ash from fires",
-        "Commercial soap"
+        "Free living soil bacteria of the genera Azotobacter and Klebsiella",
+        "A nitrogen-containing base, a pentose sugar, and a phosphate group",
+        "Because homologous chromosomes of male and female parents separate",
+        "The soapberry called 'Endod' in Amharic (Phytolacca dodecane Dr.a)"
       ],
       "correctAnswer": "The soapberry called 'Endod' in Amharic (Phytolacca dodecane Dr.a)"
     },
@@ -260,10 +260,10 @@
       "id": 23,
       "question": "Back in the laboratory, what did Dr. Aklilu Lemma show about Endod berries?",
       "options": [
+        "From the non-living environment to living organisms and back to the non-living environment",
+        "Complex organic matter is broken into simpler and smaller molecules that are then absorbed",
         "If dried, crushed, and diluted in water they would kill snails at very low concentrations",
-        "They had no effect on snails",
-        "They could only kill fish",
-        "They could kill snails at very high concentrations only"
+        "She was awarded a PhD from the University of Cambridge without holding a bachelor's degree"
       ],
       "correctAnswer": "If dried, crushed, and diluted in water they would kill snails at very low concentrations"
     },
@@ -282,10 +282,10 @@
       "id": 25,
       "question": "Which of the following is true about Endod compared to chemical molluscicides?",
       "options": [
-        "It is cheap, well known by local people, and environment friendly as it breaks down naturally within about two days",
-        "It is more expensive",
-        "It is less effective",
-        "It is harmful to humans"
+        "Biologically (mediated by bacteria), non-biologically (atmospheric fixation by lightning), and industrial fixation",
+        "Extracting selected genes from an organism or synthesizing selected genes and inserting them into another organism",
+        "They are food storing tissues essential for the seed embryo until it forms leaf and starts manufacturing its own food",
+        "It is cheap, well known by local people, and environment friendly as it breaks down naturally within about two days"
       ],
       "correctAnswer": "It is cheap, well known by local people, and environment friendly as it breaks down naturally within about two days"
     },
@@ -315,10 +315,10 @@
       "id": 28,
       "question": "Where have Dr. Aklilu Lemma's results been published?",
       "options": [
+        "When the diaphragm contracts",
+        "In journals around the world",
         "Only in medical textbooks",
-        "Only in African journals",
-        "Only in Ethiopian journals",
-        "In journals around the world"
+        "Only in Ethiopian journals"
       ],
       "correctAnswer": "In journals around the world"
     },
@@ -326,10 +326,10 @@
       "id": 29,
       "question": "What did Dr. Aklilu Lemma develop for local communities?",
       "options": [
-        "New medicines for malaria",
-        "Educational scholarships",
-        "New farming techniques",
-        "Programs for local communities to treat their water"
+        "Programs for local communities to treat their water",
+        "A flower that does not have either stamen or pistil",
+        "Xylem and phloem arranged in a ring around the pith",
+        "Monosaccharides, disaccharides, and polysaccharides"
       ],
       "correctAnswer": "Programs for local communities to treat their water"
     },
@@ -337,10 +337,10 @@
       "id": 30,
       "question": "Where is the use of Endod-based molluscicides spreading?",
       "options": [
+        "Only in South America",
         "Throughout Africa and beyond",
         "Only in Ethiopia",
-        "Only in Asia",
-        "Only in South America"
+        "Bending towards the stimulus"
       ],
       "correctAnswer": "Throughout Africa and beyond"
     },
@@ -349,9 +349,9 @@
       "question": "Professor Gebissa Ejeta specializes in which field?",
       "options": [
         "Human physiology",
+        "Environmental science",
         "Plant breeding and genetics",
-        "Microbiology",
-        "Environmental science"
+        "Louis Pasteur, France, 1861"
       ],
       "correctAnswer": "Plant breeding and genetics"
     },
@@ -359,10 +359,10 @@
       "id": 32,
       "question": "On which crop did Professor Gebissa Ejeta do his research?",
       "options": [
+        "Wheat",
+        "T cells",
         "Sorghum",
-        "Teff",
-        "Maize",
-        "Wheat"
+        "Maize"
       ],
       "correctAnswer": "Sorghum"
     },
@@ -370,10 +370,10 @@
       "id": 33,
       "question": "From which university did Professor Gebissa Ejeta get his PhD?",
       "options": [
+        "University of Cambridge",
+        "They had no effect on snails",
         "Purdue University in the USA",
-        "Addis Ababa University",
-        "University of Heidelberg",
-        "University of Cambridge"
+        "University of Heidelberg"
       ],
       "correctAnswer": "Purdue University in the USA"
     },
@@ -381,10 +381,10 @@
       "id": 34,
       "question": "Professor Gebissa Ejeta helped develop Africa's first commercial hybrid strain of which crop?",
       "options": [
-        "Maize",
         "Wheat",
-        "Rice",
-        "Sorghum"
+        "Neutral",
+        "Sorghum",
+        "Maize"
       ],
       "correctAnswer": "Sorghum"
     },
@@ -392,10 +392,10 @@
       "id": 35,
       "question": "What are the characteristics of the sorghum variety developed by Professor Gebissa Ejeta?",
       "options": [
-        "It needs more water but yields more grain",
-        "It is resistant to pests but has lower yield",
+        "Two copies of one maternal or paternal chromosome linked by cohesive protein on the centromere",
+        "Ethiopia's genetic wealth by building one of the finest seed conservation centres in the world",
         "It needs less water, is resistant to drought, and yields more grain than traditional varieties",
-        "It needs the same amount of water but grows faster"
+        "Amino acids containing phenolic or indolic groups like phenylalanine, tyrosine, and tryptophan"
       ],
       "correctAnswer": "It needs less water, is resistant to drought, and yields more grain than traditional varieties"
     },
@@ -447,10 +447,10 @@
       "id": 40,
       "question": "What other award has Professor Gebissa Ejeta received from Ethiopia?",
       "options": [
-        "The Ethiopian Science Award",
         "The National Hero award of Ethiopia",
-        "The Order of the Lion",
-        "The Prime Minister's Award"
+        "The Prime Minister's Award",
+        "$NO_{2} + O_{2} \\rightarrow NO_{3}$",
+        "The Ethiopian Science Award"
       ],
       "correctAnswer": "The National Hero award of Ethiopia"
     },
@@ -469,10 +469,10 @@
       "id": 42,
       "question": "Which schools did Professor Gebissa Ejeta attend before his PhD?",
       "options": [
-        "University of Heidelberg and Purdue University",
-        "Addis Ababa University and Haramaya University",
+        "Help maintain equal air pressure throughout the alveoli and lung",
+        "Movement of water and dissolved nutrients from cortex into xylem",
         "Jimma Agricultural and Technical School and then Alemaya College",
-        "University of Cambridge and Oxford University"
+        "Hydrogen bonds must be broken before molecules can escape as gas"
       ],
       "correctAnswer": "Jimma Agricultural and Technical School and then Alemaya College"
     },
@@ -601,10 +601,10 @@
       "id": 54,
       "question": "Professor Yalemtsehay Mekonnen's research includes advocacy and collaborative work for what purpose?",
       "options": [
-        "Promotion of safe and sustainable use of natural resources",
-        "Promotion of tourism",
-        "Promotion of industrial development",
-        "Promotion of agricultural exports"
+        "Growth hormone (GH) and follicle-stimulating hormone (FSH)",
+        "A rotating instrument that overcomes the effect of gravity",
+        "His contributions to microscopy and applying it to biology",
+        "Promotion of safe and sustainable use of natural resources"
       ],
       "correctAnswer": "Promotion of safe and sustainable use of natural resources"
     },
@@ -612,9 +612,9 @@
       "id": 55,
       "question": "A compound that kills mollusks including snails is called what?",
       "options": [
-        "Pesticide",
         "Fungicide",
         "Molluscicide",
+        "Soil samples",
         "Herbicide"
       ],
       "correctAnswer": "Molluscicide"
@@ -624,9 +624,9 @@
       "question": "According to the text, Professor Yalemtsehay Mekonnen's research covers assessment of health hazards to which groups?",
       "options": [
         "Humans, animals, and the environment",
-        "Only animals",
-        "Only plants",
-        "Only humans"
+        "The management of agricultural farms",
+        "Potassium is primarily extracellular",
+        "From illuminated side to shaded side"
       ],
       "correctAnswer": "Humans, animals, and the environment"
     }

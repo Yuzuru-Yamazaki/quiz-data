@@ -27,10 +27,10 @@
       "anki": true,
       "question": "A proton is a nuclear particle having:",
       "options": [
+        "integral multiples of $h\\nu$, such as $h\\nu$, $2h\\nu$, $3h\\nu$",
         "a positive charge equal in magnitude to that of the electron",
-        "twice the charge of the electron",
-        "no electric charge",
-        "a negative charge equal to that of the electron"
+        "its distance from the nucleus (the further, the more energy)",
+        "philosophical speculation rather than experimental evidence"
       ],
       "correctAnswer": "a positive charge equal in magnitude to that of the electron"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "One atomic mass unit (amu) is defined as:",
       "options": [
-        "$1/12$ the mass of a hydrogen atom",
-        "the mass of an electron",
+        "a particle of light or an energy packet",
         "$1/12$ the mass of an atom of carbon-12",
-        "the mass of a proton"
+        "$1/12$ the mass of a hydrogen atom",
+        "adding all the isotopic masses together"
       ],
       "correctAnswer": "$1/12$ the mass of an atom of carbon-12"
     },
@@ -87,9 +87,9 @@
       "anki": true,
       "question": "Which subatomic particle has an actual charge of $-1.602 \\times 10^{-19}$ C?",
       "options": [
-        "neutron",
-        "proton",
         "photon",
+        "37.5 amu",
+        "neutron",
         "electron"
       ],
       "correctAnswer": "electron"
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "The mass number (A) of an atom equals:",
       "options": [
-        "the total number of protons and neutrons in the nucleus",
-        "the number of protons only",
-        "the number of electrons in the atom",
-        "the number of neutrons only"
+        "the energy of the electron is always negative in value",
+        "positively charged particles identical to helium nuclei",
+        "lend special stability to those electron configurations",
+        "the total number of protons and neutrons in the nucleus"
       ],
       "correctAnswer": "the total number of protons and neutrons in the nucleus"
     },
@@ -160,9 +160,9 @@
       "question": "Isotopes of an element are atoms that have:",
       "options": [
         "the same number of neutrons but different protons",
-        "different numbers of protons",
-        "different atomic numbers",
-        "different numbers of neutrons and different mass numbers"
+        "different numbers of neutrons and different mass numbers",
+        "the chemistry of how atoms combine to form new compounds",
+        "the special stability of a completely filled 3d subshell"
       ],
       "correctAnswer": "different numbers of neutrons and different mass numbers"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "What percentage of naturally occurring carbon atoms have six neutrons ($A = 12$)?",
       "options": [
-        "50.0%",
+        "0.01%",
+        "$1p^2$",
         "1.11%",
-        "98.89%",
-        "0.01%"
+        "98.89%"
       ],
       "correctAnswer": "98.89%"
     },
@@ -219,9 +219,9 @@
       "anki": true,
       "question": "How many naturally occurring isotopes does carbon have?",
       "options": [
-        "one",
-        "four",
-        "two",
+        "the number of protons in the nucleus",
+        "the number of neutrons minus protons",
+        "the electrons in the outermost shell",
         "three ($^{12}$C, $^{13}$C, $^{14}$C)"
       ],
       "correctAnswer": "three ($^{12}$C, $^{13}$C, $^{14}$C)"
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "The average (relative) atomic mass of an element is obtained by:",
       "options": [
-        "averaging the isotopic masses weighted by their fractional abundances",
-        "adding all the isotopic masses together",
-        "dividing the mass number by the atomic number",
-        "taking the mass of the lightest isotope"
+        "the lowest-energy orbital available before entering higher-energy orbitals",
+        "conservation of mass, definite proportions, and multiple proportions",
+        "degenerate (equal in energy), having the same $n$ and $\\ell$ values",
+        "averaging the isotopic masses weighted by their fractional abundances"
       ],
       "correctAnswer": "averaging the isotopic masses weighted by their fractional abundances"
     },
@@ -243,9 +243,9 @@
       "anki": true,
       "question": "For an element with $n$ isotopes of relative masses $A_1, A_2, \\dots, A_n$ and fractional abundances $f_1, f_2, \\dots, f_n$, the average atomic mass is given by:",
       "options": [
-        "$A = (A_1 + A_2 + \\dots + A_n)/n$",
-        "$A = A_1 f_n + A_2 f_{n-1}$",
+        "everyday objects in the macroscopic world",
         "$A = A_1 + A_2 + \\dots + A_n$",
+        "$A = (A_1 + A_2 + \\dots + A_n)/n$",
         "$A = A_1 f_1 + A_2 f_2 + \\dots + A_n f_n$"
       ],
       "correctAnswer": "$A = A_1 f_1 + A_2 f_2 + \\dots + A_n f_n$"

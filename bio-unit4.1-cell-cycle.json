@@ -13,9 +13,9 @@
     {
       "question": "What is a cell cycle?",
       "options": [
-        "The movement of chromosomes during cell division only",
-        "The growth phase of a cell before it dies",
-        "A process by which a cell loses its genetic material",
+        "Embryonic development to mature adulthood, behavior, interactions, food finding, and genetics",
+        "Polypeptides made of long chains of linked amino acids that regulate physiological processes",
+        "To take advantage of all nitrogen fixed and accumulated in the soil and roots of the legumes",
         "A sequence of events in the parent cell distributing genetic materials to form daughter cells"
       ],
       "correctAnswer": "A sequence of events in the parent cell distributing genetic materials to form daughter cells",
@@ -25,9 +25,9 @@
       "question": "What are the two main divisions of the cell cycle?",
       "options": [
         "Prophase and metaphase",
-        "Mitosis and cytokinesis",
         "Interphase and cell division",
-        "G1 phase and G2 phase"
+        "They help in spore formation",
+        "Mitosis and cytokinesis"
       ],
       "correctAnswer": "Interphase and cell division",
       "id": 2
@@ -35,10 +35,10 @@
     {
       "question": "Into how many phases is interphase divided?",
       "options": [
-        "Two",
-        "Three",
         "Five",
-        "Four"
+        "Four",
+        "-COOH",
+        "Three"
       ],
       "correctAnswer": "Three",
       "id": 3
@@ -46,10 +46,10 @@
     {
       "question": "What are the three phases of interphase?",
       "options": [
-        "G1, G2, and M",
+        "Lymph vessels",
         "G1, S, and G2",
         "S, G1, and prophase",
-        "Prophase, metaphase, and anaphase"
+        "G1, G2, and M"
       ],
       "correctAnswer": "G1, S, and G2",
       "id": 4
@@ -79,10 +79,10 @@
     {
       "question": "During the G1 phase, what do cells accumulate as building blocks?",
       "options": [
-        "Carbohydrates and water",
+        "They are much smaller than normal cells",
         "Chromosomal DNA and associated proteins",
-        "ATP and glucose only",
-        "Ribosomal RNA and lipids"
+        "In the amino acid sequences of proteins",
+        "Only from rainfall at the same location"
       ],
       "correctAnswer": "Chromosomal DNA and associated proteins",
       "id": 7
@@ -101,10 +101,10 @@
     {
       "question": "During G1 phase, cells store sufficient energy reserves to complete the task of what?",
       "options": [
-        "Cell membrane formation",
-        "Replicating each chromosome in the nucleus",
-        "Protein degradation",
-        "Cytoplasmic division"
+        "Expensive and harmful chemical fertilizers",
+        "Two haploid ($n$) identical daughter cells",
+        "An animal that feeds only on other animals",
+        "Replicating each chromosome in the nucleus"
       ],
       "correctAnswer": "Replicating each chromosome in the nucleus",
       "id": 9
@@ -156,10 +156,10 @@
     {
       "question": "During the G2 phase, the cell replenishes its energy stores and synthesizes proteins necessary for what?",
       "options": [
-        "Cell membrane repair",
-        "DNA replication",
-        "Chromosome manipulation and movement",
-        "Ribosome production"
+        "Watson, Crick, Wilkins, and Franklin",
+        "Pregnant women and overweight people",
+        "Enzymes, haemoglobin, and antibodies",
+        "Chromosome manipulation and movement"
       ],
       "correctAnswer": "Chromosome manipulation and movement",
       "id": 14
@@ -189,10 +189,10 @@
     {
       "question": "What does cell division include?",
       "options": [
-        "Only nuclear division",
-        "Only cytoplasmic division",
+        "DNA replication followed by protein synthesis",
+        "They can prepare their own food by photosynthesis",
         "Nuclear division followed by cytoplasmic division",
-        "DNA replication followed by protein synthesis"
+        "A naturally occurring biopolymer that is abundant"
       ],
       "correctAnswer": "Nuclear division followed by cytoplasmic division",
       "id": 17
@@ -244,10 +244,10 @@
     {
       "question": "What happens to each daughter cell after the cell cycle completes?",
       "options": [
-        "It fuses with another daughter cell",
-        "It stops all metabolic activities",
-        "It immediately undergoes meiosis",
-        "It grows and starts the cycle the mother cell underwent"
+        "They could kill snails at very high concentrations only",
+        "In the cytoplasm of other cells and extracellular fluid",
+        "It grows and starts the cycle the mother cell underwent",
+        "Podocarpus falcatus (Zigba) and Juniperus procera (Tid)"
       ],
       "correctAnswer": "It grows and starts the cycle the mother cell underwent",
       "id": 22
@@ -277,10 +277,10 @@
     {
       "question": "Cancer occurs as a result of failure in what process?",
       "options": [
-        "Controlling cell division",
+        "Synthetic growth hormones",
         "Cytoplasmic division",
-        "DNA replication",
-        "Protein synthesis"
+        "Protein synthesis",
+        "Controlling cell division"
       ],
       "correctAnswer": "Controlling cell division",
       "id": 25
@@ -288,10 +288,10 @@
     {
       "question": "When can cancer start according to the textbook?",
       "options": [
-        "When the controlling factors over cell division and cell growth fail",
-        "When the cell undergoes meiosis",
-        "When DNA replication occurs too slowly",
-        "When the cell membrane breaks down"
+        "Fatigue, weight loss, frequent infections, easy bleeding or bruising",
+        "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
+        "Hertwig, Kolliker, Weismann (zoologists), and Strasburger (botanist)",
+        "When the controlling factors over cell division and cell growth fail"
       ],
       "correctAnswer": "When the controlling factors over cell division and cell growth fail",
       "id": 26
@@ -332,10 +332,10 @@
     {
       "question": "Which of the following is a characteristic problem of cancer cells?",
       "options": [
-        "They communicate better with healthy cells",
-        "They produce more energy than normal cells",
-        "They divide more slowly than normal cells",
-        "They might not be able to communicate with healthy cells"
+        "They might not be able to communicate with healthy cells",
+        "Warms and moistens incoming air, traps foreign particles",
+        "Food and acid from being regurgitated into the esophagus",
+        "Just below the dermis of the skin and around the kidneys"
       ],
       "correctAnswer": "They might not be able to communicate with healthy cells",
       "id": 30
@@ -354,9 +354,9 @@
     {
       "question": "Why are cancer cells more likely to travel and spread to other parts of the body?",
       "options": [
-        "They reproduce by meiosis",
-        "They are much smaller than normal cells",
-        "They have a stronger cell membrane",
+        "Warms and moistens incoming air, traps foreign particles",
+        "Just below the dermis of the skin and around the kidneys",
+        "A rise in the overall temperature of the earth's surface",
         "They may not securely anchor themselves like other cells"
       ],
       "correctAnswer": "They may not securely anchor themselves like other cells",
@@ -365,10 +365,10 @@
     {
       "question": "What makes cancer cells different from normal cells in terms of cell cycle control?",
       "options": [
+        "Using a single adult sheep cell and a process of nuclear transfer",
         "They do not respond normally to the cell cycle controlling system",
         "They respond normally to the cell cycle controlling system",
-        "They have no cell cycle at all",
-        "They only respond to external signals"
+        "Actively by cell spending energy against a concentration gradient"
       ],
       "correctAnswer": "They do not respond normally to the cell cycle controlling system",
       "id": 33

@@ -26,10 +26,10 @@
       "id": 2,
       "question": "What did Aristotle establish for the first time in biology?",
       "options": [
-        "The germ theory of disease",
-        "The theory of evolution",
         "Species relationships and grouped them correctly",
-        "The structure of DNA"
+        "Pyramid of producers, consumers, and decomposers",
+        "Stem, branches, leaves, buds, flowers and fruits",
+        "To make it firm and ready for iodine application"
       ],
       "correctAnswer": "Species relationships and grouped them correctly"
     },
@@ -37,10 +37,10 @@
       "id": 3,
       "question": "Aristotle classified organisms based on which criteria?",
       "options": [
-        "Their color and size",
-        "Their diet and habitat",
+        "It is taken up by plant roots and much of it flows into oceans or infiltrates the soil as groundwater",
         "Their ability to move from one place to another and their characteristics as herbs, shrubs, and trees",
-        "Their reproductive methods"
+        "The weight of living organic matter contained or assimilated to the body of an organism per unit time",
+        "In the form of fertilizers obtained by mining phosphate rocks and applying them in agricultural lands"
       ],
       "correctAnswer": "Their ability to move from one place to another and their characteristics as herbs, shrubs, and trees"
     },
@@ -59,10 +59,10 @@
       "id": 5,
       "question": "Galen's efforts transformed which field of science?",
       "options": [
-        "Botany",
+        "Ecology",
         "Zoology",
-        "Medical science",
-        "Ecology"
+        "Milk and cheese",
+        "Medical science"
       ],
       "correctAnswer": "Medical science"
     },
@@ -70,10 +70,10 @@
       "id": 6,
       "question": "Which medical specialties did Galen significantly impact?",
       "options": [
-        "Psychiatry and orthopedics",
-        "Pediatrics and dermatology",
-        "Cardiology and ophthalmology",
-        "Anatomy, Pathology, Physiology, and Neurology"
+        "Anatomy, Pathology, Physiology, and Neurology",
+        "$N_{2} \\rightarrow NO_{3} \\rightarrow NO_{2}$",
+        "$CO_{2} + H_{2}O \\rightarrow CH_{2}O + O_{2}$",
+        "$NH_{3} + O_{2} \\rightarrow NO_{2} + 3H + 2e$"
       ],
       "correctAnswer": "Anatomy, Pathology, Physiology, and Neurology"
     },
@@ -114,10 +114,10 @@
       "id": 10,
       "question": "What is Antonie van Leeuwenhoek well renowned for?",
       "options": [
-        "His theory of evolution",
+        "They respond normally to the cell cycle controlling system",
         "His contributions to microscopy and applying it to biology",
-        "His classification system",
-        "His discovery of penicillin"
+        "The chemical reactions that take place in living organisms",
+        "Promotion of safe and sustainable use of natural resources"
       ],
       "correctAnswer": "His contributions to microscopy and applying it to biology"
     },
@@ -136,10 +136,10 @@
       "id": 12,
       "question": "Among Leeuwenhoek's findings using microscopes were which discoveries?",
       "options": [
+        "The nucleus and mitochondria",
+        "The conversion of $N_2$ into ammonia",
         "Bacteria and the vacuole of the cell",
-        "DNA and RNA",
-        "Chromosomes and genes",
-        "The nucleus and mitochondria"
+        "They are all unrelated to each other"
       ],
       "correctAnswer": "Bacteria and the vacuole of the cell"
     },
@@ -159,9 +159,9 @@
       "question": "What professions did Carl Linnaeus hold?",
       "options": [
         "Chemist and mathematician",
+        "Philosopher and geologist",
         "Botanist, physician, and naturalist",
-        "Physicist and astronomer",
-        "Philosopher and geologist"
+        "The National Hero award of Ethiopia"
       ],
       "correctAnswer": "Botanist, physician, and naturalist"
     },
@@ -169,10 +169,10 @@
       "id": 15,
       "question": "What system did Carl Linnaeus devise?",
       "options": [
-        "The germ theory of disease",
-        "The theory of natural selection",
-        "The structure of DNA",
-        "The method for naming, ordering, and classifying creatures"
+        "Flowers, root, stem and leaves having transporting vessels",
+        "$6CO_{2} + 12H_{2}O \\rightarrow C_{6}H_{12}O_{6} + 6O_{2}$",
+        "The method for naming, ordering, and classifying creatures",
+        "His contributions to microscopy and applying it to biology"
       ],
       "correctAnswer": "The method for naming, ordering, and classifying creatures"
     },
@@ -191,10 +191,10 @@
       "id": 17,
       "question": "How did Linnaeus organize living things?",
       "options": [
-        "Into families and tribes",
-        "Into kingdoms and phyla",
-        "Into classes, orders, genera, and species",
-        "Into domains and kingdoms"
+        "Interphase, prophase, metaphase, anaphase",
+        "The Nobel Prize in Physiology or Medicine",
+        "Concentrated nitric acid followed by NaOH",
+        "Into classes, orders, genera, and species"
       ],
       "correctAnswer": "Into classes, orders, genera, and species"
     },
@@ -257,10 +257,10 @@
       "id": 23,
       "question": "What long-held belief was Darwin disputing with his theory?",
       "options": [
+        "It acts like a heat-trapping blanket, absorbing heat and holding it in",
         "That all species had been created by God at the beginning of the world",
-        "That fossils were remains of ancient organisms",
-        "That the Earth was round",
-        "That species could change over time"
+        "Addition of excessive $CO_2$ into the atmosphere due to human activity",
+        "It is lost as heat, used for activities, or removed as undigested food"
       ],
       "correctAnswer": "That all species had been created by God at the beginning of the world"
     },
@@ -268,10 +268,10 @@
       "id": 24,
       "question": "What is the combination of evolution by natural selection with Mendelian genetics called?",
       "options": [
-        "The theory of inheritance",
         "The modern evolutionary synthesis",
-        "The Darwinian revolution",
-        "The genetic revolution"
+        "The theory of inheritance",
+        "A flower that has no floral parts",
+        "The Darwinian revolution"
       ],
       "correctAnswer": "The modern evolutionary synthesis"
     },
@@ -301,10 +301,10 @@
       "id": 27,
       "question": "What terms did Gregor Mendel coin in the process of discovering the laws of inheritance?",
       "options": [
-        "Allele and locus",
+        "Genotype and phenotype",
+        "Phosphorus gas from air to water",
         "'Dominant' and 'recessive' genes",
-        "Homozygous and heterozygous",
-        "Genotype and phenotype"
+        "Homozygous and heterozygous"
       ],
       "correctAnswer": "'Dominant' and 'recessive' genes"
     },
@@ -312,10 +312,10 @@
       "id": 28,
       "question": "When were Mendel's laws rediscovered?",
       "options": [
-        "In the 1850s",
-        "In the 1950s",
-        "At the turn of the 20th century",
-        "At the turn of the 19th century"
+        "At the turn of the 19th century",
+        "They require chemical additives",
+        "They help in flower development",
+        "At the turn of the 20th century"
       ],
       "correctAnswer": "At the turn of the 20th century"
     },
@@ -334,10 +334,10 @@
       "id": 30,
       "question": "What is Louis Pasteur regarded as?",
       "options": [
-        "The father of botany",
         "The father of evolution",
-        "The father of genetics",
-        "The father of medical microbiology"
+        "A tool for measuring water content",
+        "The father of medical microbiology",
+        "The father of genetics"
       ],
       "correctAnswer": "The father of medical microbiology"
     },
@@ -367,9 +367,9 @@
       "id": 33,
       "question": "What process did Louis Pasteur introduce?",
       "options": [
-        "Pasteurization",
+        "Phosphorus gas",
         "Sterilization",
-        "Fermentation",
+        "Pasteurization",
         "Distillation"
       ],
       "correctAnswer": "Pasteurization"
@@ -411,10 +411,10 @@
       "id": 37,
       "question": "Robert Koch was a well-known German physician who pioneered which field?",
       "options": [
-        "Genetics",
+        "Condensation",
         "Microbiology",
-        "Ecology",
-        "Botany"
+        "Genetics",
+        "Ecology"
       ],
       "correctAnswer": "Microbiology"
     },
@@ -423,9 +423,9 @@
       "question": "What is Robert Koch credited as?",
       "options": [
         "The father of microscopy",
+        "The father of modern bacteriology",
         "The father of evolution",
-        "The father of genetics",
-        "The father of modern bacteriology"
+        "Mechanical support and protection"
       ],
       "correctAnswer": "The father of modern bacteriology"
     },
@@ -433,10 +433,10 @@
       "id": 39,
       "question": "Which diseases did Robert Koch pinpoint the precise causal agents of?",
       "options": [
-        "Tuberculosis, cholera, and anthrax",
-        "Malaria, yellow fever, and dengue",
+        "Chromosomes from different parents",
         "HIV, hepatitis, and influenza",
-        "Polio, measles, and mumps"
+        "Malaria, yellow fever, and dengue",
+        "Tuberculosis, cholera, and anthrax"
       ],
       "correctAnswer": "Tuberculosis, cholera, and anthrax"
     },
@@ -445,9 +445,9 @@
       "question": "What did Robert Koch provide experimental support for?",
       "options": [
         "The concept of infectious disease",
-        "The laws of inheritance",
         "The theory of evolution",
-        "The cell theory"
+        "The laws of inheritance",
+        "Albert Szent-Gyorgyi in the 1930s"
       ],
       "correctAnswer": "The concept of infectious disease"
     },
@@ -477,10 +477,10 @@
       "id": 43,
       "question": "What did Jane Goodall discover about chimpanzees?",
       "options": [
+        "Into right and left pulmonary arteries",
         "That they are herbivores and cannot use tools",
-        "That they live solitary lives",
         "That they are omnivores and tool users",
-        "That they are carnivores"
+        "That they live solitary lives"
       ],
       "correctAnswer": "That they are omnivores and tool users"
     },
@@ -488,10 +488,10 @@
       "id": 44,
       "question": "What notable academic achievement did Jane Goodall accomplish?",
       "options": [
-        "She discovered the structure of DNA",
         "She was awarded a PhD from the University of Cambridge without holding a bachelor's degree",
-        "She was the first woman to win the Nobel Prize",
-        "She founded the field of genetics"
+        "Complex organic matter is broken into simpler and smaller molecules that are then absorbed",
+        "Ventilation, external respiration, gas transfer, internal respiration, cellular respiration",
+        "From the non-living environment to living organisms and back to the non-living environment"
       ],
       "correctAnswer": "She was awarded a PhD from the University of Cambridge without holding a bachelor's degree"
     },
@@ -532,10 +532,10 @@
       "id": 48,
       "question": "What technique did Barbara McClintock develop?",
       "options": [
-        "A technique for sequencing DNA",
-        "A technique for cloning mammals",
+        "Free living soil bacteria of the genera Azotobacter and Klebsiella",
         "A technique for identifying and examining chromosomes individually",
-        "A technique for classifying bacteria"
+        "Because homologous chromosomes of male and female parents separate",
+        "The soapberry called 'Endod' in Amharic (Phytolacca dodecane Dr.a)"
       ],
       "correctAnswer": "A technique for identifying and examining chromosomes individually"
     },
@@ -555,9 +555,9 @@
       "question": "What award did Barbara McClintock receive in 1983?",
       "options": [
         "The National Hero award",
-        "The Nobel Prize in Physiology or Medicine",
         "The Nobel Peace Prize",
-        "The World Food Prize"
+        "The World Food Prize",
+        "Department of Zoology"
       ],
       "correctAnswer": "The Nobel Peace Prize"
     },
@@ -565,10 +565,10 @@
       "id": 51,
       "question": "Barbara McClintock is known for her discovery of which phenomenon?",
       "options": [
-        "The germ theory of disease",
+        "By processes that continuously take it from and release it back to the atmosphere",
+        "Transfer between stamen and pistil on one flower or between flowers on one plant",
         "Transposition and how genes could turn their physical characteristics on and off",
-        "The double helix structure of DNA",
-        "Natural selection"
+        "Trophic level is about receiving energy, feeding level is about consuming others"
       ],
       "correctAnswer": "Transposition and how genes could turn their physical characteristics on and off"
     },
@@ -620,10 +620,10 @@
       "id": 56,
       "question": "What does the double helix model of DNA explain?",
       "options": [
+        "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia",
         "How DNA replicates and hereditary information is coded and passed on to descendants",
-        "How proteins are synthesized",
-        "How cells divide",
-        "How organisms evolve"
+        "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap",
+        "Nitrogen fixation, ammonification, nitrification, assimilation, and denitrification"
       ],
       "correctAnswer": "How DNA replicates and hereditary information is coded and passed on to descendants"
     },
@@ -631,10 +631,10 @@
       "id": 57,
       "question": "The discovery of DNA structure has been used in which areas?",
       "options": [
-        "Only in agriculture",
-        "Only in evolutionary biology",
         "Disease diagnosis and treatment, forensics, and more",
-        "Only in forensics"
+        "Through excretion from animals and aquatic organisms",
+        "A process by which a cell loses its genetic material",
+        "Thick mucus blocks receptors on the nasal epithelium"
       ],
       "correctAnswer": "Disease diagnosis and treatment, forensics, and more"
     },
@@ -664,10 +664,10 @@
       "id": 60,
       "question": "How did Wilmut and Campbell clone Dolly?",
       "options": [
-        "Using a single adult sheep cell and a process of nuclear transfer",
-        "Using gene splicing",
-        "Using embryonic stem cells",
-        "Using artificial insemination"
+        "Food chain follows a single path, food web follows multiple paths",
+        "Bacteria, archaea, protists, viruses, microscopic algae and fungi",
+        "The atmosphere (air), hydrosphere (water), and lithosphere (soil)",
+        "Using a single adult sheep cell and a process of nuclear transfer"
       ],
       "correctAnswer": "Using a single adult sheep cell and a process of nuclear transfer"
     },
@@ -686,10 +686,10 @@
       "id": 62,
       "question": "According to the text, what is the current status of human cloning?",
       "options": [
+        "The formation and release of oxygen as a by-product of photosynthesis",
+        "Water requires more energy to break its hydrogen bonds before boiling",
         "It is still not perfect and certainly not ready for human application",
-        "It has been successfully performed on humans",
-        "It is illegal worldwide",
-        "It is perfected and ready for use"
+        "Primary or tap root, lateral or branch roots, root hairs and root cap"
       ],
       "correctAnswer": "It is still not perfect and certainly not ready for human application"
     },

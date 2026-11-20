@@ -24,12 +24,12 @@
     {
       "question": "What is a characteristic feature of the afroalpine biome in Ethiopia?",
       "options": [
-        "Sandy soil with very little vegetation",
-        "High rainfall throughout the year",
         "Tall trees forming a dense canopy",
-        "Low temperatures and high solar radiation"
+        "Sandy soil with very little vegetation",
+        "Low temperatures and high solar radiation",
+        "Two separate eggs fertilized by two sperm"
       ],
-      "answer": 3,
+      "answer": 2,
       "anki": true
     },
     {
@@ -46,12 +46,12 @@
     {
       "question": "Which of the following animals is endemic to the Ethiopian highlands and commonly found in the afroalpine biome?",
       "options": [
-        "Giraffe",
         "Gelada baboon",
-        "Zebra",
+        "Giraffe",
+        "To save space",
         "Elephant"
       ],
-      "answer": 1,
+      "answer": 0,
       "anki": true
     },
     {
@@ -79,34 +79,34 @@
     {
       "question": "Podocarpus is a characteristic tree species found in which Ethiopian biome?",
       "options": [
+        "Building a dam",
         "Montane forest",
         "Savanna",
-        "Afroalpine",
-        "Desert"
+        "Afroalpine"
       ],
-      "answer": 0,
+      "answer": 1,
       "anki": true
     },
     {
       "question": "Which biome covers the largest area of Ethiopia?",
       "options": [
-        "Savanna grassland",
         "Afroalpine",
-        "Desert",
-        "Montane forest"
+        "Savanna grassland",
+        "Montane forest",
+        "Prevent ovulation"
       ],
-      "answer": 0,
+      "answer": 1,
       "anki": true
     },
     {
       "question": "What type of vegetation is dominant in the Ethiopian savanna?",
       "options": [
-        "Grasses and scattered acacia trees",
+        "It automatically focuses the image",
         "Giant lobelia and tussock grasses",
-        "Mosses and lichens",
-        "Coniferous trees"
+        "Developing new surgical techniques",
+        "Grasses and scattered acacia trees"
       ],
-      "answer": 0,
+      "answer": 3,
       "anki": true
     },
     {
@@ -123,12 +123,12 @@
     {
       "question": "Which biome in Ethiopia receives very low rainfall, typically less than 250 mm per year?",
       "options": [
-        "Montane forest",
         "Desert and semi-desert",
         "Savanna grassland",
-        "Afroalpine"
+        "Painful urination only",
+        "Montane forest"
       ],
-      "answer": 1,
+      "answer": 0,
       "anki": true
     },
     {
@@ -156,56 +156,56 @@
     {
       "question": "Lake Tana, the largest lake in Ethiopia, is an example of which type of ecosystem?",
       "options": [
-        "Desert ecosystem",
+        "Montane forest ecosystem",
         "Marine ecosystem",
-        "Aquatic or wetland ecosystem",
-        "Montane forest ecosystem"
+        "The fluid inside the nucleus",
+        "Aquatic or wetland ecosystem"
       ],
-      "answer": 2,
+      "answer": 3,
       "anki": true
     },
     {
       "question": "The Awash River is a major water body in Ethiopia that supports which type of biome?",
       "options": [
-        "Savanna",
         "Aquatic and wetland ecosystem",
-        "Montane forest",
-        "Afroalpine"
+        "High amounts of sugar and fat",
+        "By building irrigation canals",
+        "Only fluids from the prostate"
       ],
-      "answer": 1,
+      "answer": 0,
       "anki": true
     },
     {
       "question": "The mountain nyala is an endemic antelope species found in which Ethiopian biome?",
       "options": [
         "Aquatic ecosystem",
-        "Desert",
-        "Savanna grassland",
-        "Montane forest and afroalpine"
+        "A diet that excludes all fats",
+        "Montane forest and afroalpine",
+        "Savanna grassland"
       ],
-      "answer": 3,
+      "answer": 2,
       "anki": true
     },
     {
       "question": "Which of the following is an endemic bird species found in the afroalpine biome of Ethiopia?",
       "options": [
-        "Penguin",
         "Pelican",
         "Rueppell's chat",
-        "Ostrich"
+        "Ostrich",
+        "Water flow rate"
       ],
-      "answer": 2,
+      "answer": 1,
       "anki": true
     },
     {
       "question": "What type of vegetation is typical of the Ethiopian montane forest?",
       "options": [
-        "Cacti and succulents",
-        "Mosses and lichens on bare rock",
+        "It increases (you see more of the specimen)",
         "Evergreen trees like juniper and podocarpus",
-        "Grasses and scattered acacia"
+        "Mosses and lichens on bare rock",
+        "Malnutrition and micronutrient deficiencies"
       ],
-      "answer": 2,
+      "answer": 1,
       "anki": true
     },
     {
@@ -233,31 +233,31 @@
     {
       "question": "Which biome in Ethiopia is characterized by scattered acacia trees, grasses, and a distinct wet and dry season?",
       "options": [
-        "Montane forest",
         "Afroalpine",
         "Savanna grassland",
-        "Desert"
-      ],
-      "answer": 2,
-      "anki": true
-    },
-    {
-      "question": "What is the main threat to the afroalpine biome in Ethiopia?",
-      "options": [
-        "Overfishing",
-        "Agricultural expansion and climate change",
-        "Coral bleaching",
-        "Oil spills"
+        "Climax succession",
+        "Montane forest"
       ],
       "answer": 1,
       "anki": true
     },
     {
+      "question": "What is the main threat to the afroalpine biome in Ethiopia?",
+      "options": [
+        "Agricultural expansion and climate change",
+        "Monera, Protista, Fungi, Plantae, Archaea",
+        "The group where no measurements are taken",
+        "It proved spontaneous generation of cells"
+      ],
+      "answer": 0,
+      "anki": true
+    },
+    {
       "question": "The endemic Ethiopian wolf primarily feeds on which prey found in the afroalpine?",
       "options": [
-        "Acacia leaves",
-        "Giant lobelia",
-        "Fish",
+        "Processed and packaged foods",
+        "Still reproduce successfully",
+        "Eating only one type of food",
         "Rodents like giant mole rats"
       ],
       "answer": 3,
@@ -266,12 +266,12 @@
     {
       "question": "Which of the following is a characteristic of the Ethiopian desert biome?",
       "options": [
-        "High rainfall throughout the year",
         "Extreme temperature variation between day and night",
-        "Dense forest cover",
-        "Rich organic soil"
+        "Asexual reproduction always produces more offspring",
+        "All living things are composed of one or more cells",
+        "Cover the cervix and stop sperm entering the uterus"
       ],
-      "answer": 1,
+      "answer": 0,
       "anki": true
     }
   ]

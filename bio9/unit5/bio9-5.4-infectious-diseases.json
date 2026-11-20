@@ -13,39 +13,39 @@
     {
       "question": "What is an infectious disease?",
       "options": [
-        "A disease caused by nutritional deficiency",
-        "A disease caused by genetic factors",
         "A disease caused by disease-causing organisms that can be transmitted from person to person",
-        "A disease caused by chemical poisoning"
+        "It contains very large, multinucleated cells that challenge the definition of a single cell",
+        "They contain their own DNA and reproduce independently within the cell, similar to bacteria",
+        "The indigestible part of plants that helps prevent constipation and keeps the colon healthy"
       ],
       "answer": "A disease caused by disease-causing organisms that can be transmitted from person to person"
     },
     {
       "question": "Which of the following are examples of pathogens that cause infectious diseases?",
       "options": [
-        "Only protozoa and fungi",
-        "Only parasites and worms",
-        "Bacteria, viruses, protozoa, and fungi",
-        "Only bacteria and viruses"
+        "It has no effect on the nervous system",
+        "All cells come from pre-existing cells",
+        "They prevent other plants from growing",
+        "Bacteria, viruses, protozoa, and fungi"
       ],
       "answer": "Bacteria, viruses, protozoa, and fungi"
     },
     {
       "question": "Which of the following is a method of transmission for infectious diseases?",
       "options": [
+        "An organism that carries a disease-causing organism and transmits it from one person to another",
         "Direct contact with a patient, contaminated water or food, insect bites, and sexual intercourse",
-        "Only through genetic inheritance",
-        "Only through the air",
-        "Only through blood transfusion"
+        "Vesicles are small membrane-bound sacs for transport; vacuoles are larger storage compartments",
+        "A dense region inside the nucleus where rRNA is synthesized and ribosome subunits are assembled"
       ],
       "answer": "Direct contact with a patient, contaminated water or food, insect bites, and sexual intercourse"
     },
     {
       "question": "What is a vector in the context of infectious diseases?",
       "options": [
-        "A type of vaccine",
-        "A medication used to treat infections",
-        "A protein that fights infection",
+        "Direct contact with a patient, contaminated water or food, insect bites, and sexual intercourse",
+        "Vesicles are small membrane-bound sacs for transport; vacuoles are larger storage compartments",
+        "A dense region inside the nucleus where rRNA is synthesized and ribosome subunits are assembled",
         "An organism that carries a disease-causing organism and transmits it from one person to another"
       ],
       "answer": "An organism that carries a disease-causing organism and transmits it from one person to another"
@@ -53,20 +53,20 @@
     {
       "question": "Tuberculosis (TB) is caused by which pathogen?",
       "options": [
-        "Bacterium called Mycobacterium tuberculosis",
-        "Virus called HIV",
-        "Protozoan called Plasmodium",
-        "Fungus called Candida"
+        "Secondary occurs only in aquatic ecosystems",
+        "Shrubs → grasses → mosses → lichens → trees",
+        "A naming system using only the species name",
+        "Bacterium called Mycobacterium tuberculosis"
       ],
       "answer": "Bacterium called Mycobacterium tuberculosis"
     },
     {
       "question": "How is tuberculosis (TB) primarily transmitted?",
       "options": [
-        "Through sexual contact",
-        "Through contaminated water",
+        "To evaluate the quality and validity of research before publication",
         "Through airborne droplets when an infected person coughs or sneezes",
-        "Through mosquito bites"
+        "The DNA-protein complex that makes up chromosomes during interphase",
+        "To stain the nucleus and other organelles, making them more visible"
       ],
       "answer": "Through airborne droplets when an infected person coughs or sneezes"
     },
@@ -96,67 +96,67 @@
         "Male Anopheles mosquito",
         "Female Aedes mosquito",
         "Female Anopheles mosquito",
-        "Culex mosquito"
+        "Infertility in both sexes"
       ],
       "answer": "Female Anopheles mosquito"
     },
     {
       "question": "Which of the following is a method to control malaria?",
       "options": [
-        "Reducing mosquito populations, avoiding mosquito bites, and using anti-malarial drugs",
-        "Vaccination with BCG",
-        "Taking iron supplements",
-        "Drinking boiled water only"
+        "Pregnant women, nursing mothers, children, athletes, and people living with HIV/AIDS",
+        "Bacterial cell walls are made of cellulose; plant cell walls are made of peptidoglycan",
+        "They are nutrient-dense and help address malnutrition in a culturally acceptable way",
+        "Reducing mosquito populations, avoiding mosquito bites, and using anti-malarial drugs"
       ],
       "answer": "Reducing mosquito populations, avoiding mosquito bites, and using anti-malarial drugs"
     },
     {
       "question": "What does HIV stand for?",
       "options": [
+        "It becomes a law immediately",
         "Human Immunodeficiency Virus",
         "Human Influenza Vaccine",
-        "Hereditary Immune Virus",
-        "Human Infection Virus"
+        "Hereditary Immune Virus"
       ],
       "answer": "Human Immunodeficiency Virus"
     },
     {
       "question": "Which type of cells does HIV primarily infect and destroy?",
       "options": [
+        "A bacterial infectious disease",
         "T-lymphocytes (helper T cells)",
-        "Red blood cells",
-        "B-lymphocytes",
-        "Platelets"
+        "To control the light intensity",
+        "Autotrophic via photosynthesis"
       ],
       "answer": "T-lymphocytes (helper T cells)"
     },
     {
       "question": "How is HIV transmitted?",
       "options": [
-        "Through casual contact like shaking hands",
-        "Through mosquito bites",
-        "Through sharing food utensils",
-        "Through direct exchange of body fluids such as blood, semen, and breast milk"
+        "Through direct exchange of body fluids such as blood, semen, and breast milk",
+        "States whether the hypothesis is supported or rejected based on the evidence",
+        "It acts as a solvent and transport medium for substances throughout the body",
+        "Building teeth and bones, muscle contraction, and nerve impulse transmission"
       ],
       "answer": "Through direct exchange of body fluids such as blood, semen, and breast milk"
     },
     {
       "question": "Cholera is transmitted primarily through:",
       "options": [
-        "Airborne droplets",
-        "Mosquito bites",
-        "Contaminated drinking water and food",
-        "Direct physical contact"
+        "To provide a baseline for comparison",
+        "Reproductive organs present at birth",
+        "Because there are not enough species",
+        "Contaminated drinking water and food"
       ],
       "answer": "Contaminated drinking water and food"
     },
     {
       "question": "What disease is caused by the bacterium Salmonella typhi?",
       "options": [
-        "Cholera",
+        "Malaria",
         "Tuberculosis",
-        "Typhoid fever",
-        "Malaria"
+        "Biology alone",
+        "Typhoid fever"
       ],
       "answer": "Typhoid fever"
     },
@@ -173,29 +173,29 @@
     {
       "question": "How does COVID-19 primarily spread?",
       "options": [
-        "Through mosquito bites",
-        "Through contaminated drinking water",
+        "Through detection, screening, treatment, and palliative care, as well as healthy lifestyle choices",
         "Through respiratory droplets released when an infected person breathes, talks, coughs, or sneezes",
-        "Through blood transfusion"
+        "The insufficient, excessive, or imbalanced consumption of nutrients that leads to health problems",
+        "An organism that carries a disease-causing organism and transmits it from one person to another"
       ],
       "answer": "Through respiratory droplets released when an infected person breathes, talks, coughs, or sneezes"
     },
     {
       "question": "Which of the following is a common symptom of COVID-19?",
       "options": [
+        "Extreme temperature variation between day and night",
+        "All living things are composed of one or more cells",
         "Fever, cough, tiredness, and loss of taste or smell",
-        "Bleeding gums",
-        "Deformed bones",
-        "Swollen abdomen"
+        "To support a wire gauze or apparatus during heating"
       ],
       "answer": "Fever, cough, tiredness, and loss of taste or smell"
     },
     {
       "question": "What is the difference between an epidemic and a pandemic?",
       "options": [
-        "A pandemic is limited to one region",
-        "There is no difference between them",
-        "An epidemic is more severe than a pandemic",
+        "Tobacco use, physical inactivity, harmful use of alcohol, and unhealthy diets",
+        "Prokaryotes are smaller (0.1-5 $\\mu$m), eukaryotes are larger (10-100 $\\mu$m)",
+        "The group that receives the treatment or has the independent variable applied",
         "A pandemic is an epidemic that spreads across multiple countries or worldwide"
       ],
       "answer": "A pandemic is an epidemic that spreads across multiple countries or worldwide"
@@ -204,19 +204,19 @@
       "question": "Vaccination works by:",
       "options": [
         "Making the body defend against disease-causing organisms",
-        "Killing all bacteria in the body",
-        "Providing immediate energy",
-        "Replacing damaged cells"
+        "To mount the specimen for observation under a microscope",
+        "A two-part naming system consisting of genus and species",
+        "A lower temperature is needed for viable sperm formation"
       ],
       "answer": "Making the body defend against disease-causing organisms"
     },
     {
       "question": "Proper waste disposal helps prevent infectious diseases by:",
       "options": [
-        "Increasing oxygen levels in the air",
+        "Binomial nomenclature and hierarchical classification",
+        "Lactobacillus (a bacterium used in yogurt production)",
         "Reducing the breeding sites for pathogens and vectors",
-        "Improving the taste of food",
-        "Providing nutrients to the soil"
+        "It becomes turgid as water enters the cell by osmosis"
       ],
       "answer": "Reducing the breeding sites for pathogens and vectors"
     }

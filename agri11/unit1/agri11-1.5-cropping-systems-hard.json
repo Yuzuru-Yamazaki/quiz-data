@@ -42,9 +42,9 @@
       "anki": true,
       "question": "Beans planted into a maize field before the maize is harvested is",
       "options": [
-        "Relay planting",
         "Intercropping",
-        "Rotation",
+        "Relay planting",
+        "Use clean seed",
         "Fallowing"
       ],
       "correctAnswer": "Relay planting"
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "A major limitation of crop rotation is that it may select for",
       "options": [
-        "Resistant weeds and diseases",
         "More fertile soils over a long time",
-        "Higher seed quality",
-        "Better water use"
+        "Resistant weeds and diseases",
+        "Better water use in the situation des",
+        "Higher seed quality"
       ],
       "correctAnswer": "Resistant weeds and diseases"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "Intercropping reduces erosion mainly by providing",
       "options": [
-        "Better soil cover",
         "More fertilizer",
-        "Deeper plowing",
-        "Taller shelters"
+        "Taller shelters",
+        "District capacity",
+        "Better soil cover"
       ],
       "correctAnswer": "Better soil cover"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Legumes in a rotation fix",
       "options": [
+        "Atmospheric carbon",
         "Atmospheric nitrogen",
         "Soil phosphorus",
-        "Atmospheric carbon",
-        "Soil potassium"
+        "November or December"
       ],
       "correctAnswer": "Atmospheric nitrogen"
     },

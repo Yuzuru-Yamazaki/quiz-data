@@ -17,10 +17,10 @@
       "anki": true,
       "question": "What is Data Science defined as in the curriculum?",
       "options": [
-        "A blend of tools, algorithms, and ML principles to discover hidden patterns",
         "The manual transcription of paper ledger books into spreadsheet documents",
+        "Replaces individual student creativity with standardized automated thinking",
         "The physical manufacturing of silicon wafers for integrated circuit boards",
-        "A diagnostic routine evaluating RAM failures through POST beep sequences"
+        "A blend of tools, algorithms, and ML principles to discover hidden patterns"
       ],
       "correctAnswer": "A blend of tools, algorithms, and ML principles to discover hidden patterns"
     },
@@ -53,10 +53,10 @@
       "anki": true,
       "question": "What is Big Data as defined in the textbook?",
       "options": [
-        "A huge volume of data that cannot be processed using traditional methods",
         "A single database table containing more than one thousand records",
-        "A high-level programming script exceeding ten thousand lines of code",
-        "A magnetic storage disk with capacity greater than one gigabyte"
+        "Small- and medium-sized enterprises (SMEs) in various parts of the world",
+        "A huge volume of data that cannot be processed using traditional methods",
+        "A high-level programming script exceeding ten thousand lines of code"
       ],
       "correctAnswer": "A huge volume of data that cannot be processed using traditional methods"
     },
@@ -77,10 +77,10 @@
       "anki": true,
       "question": "What does the 'Volume' dimension represent in Big Data architecture?",
       "options": [
-        "Data at Rest: terabytes to exabytes of existing data to process",
-        "The amplitude of acoustic audio frequencies during video calls",
+        "The number of characters printed across a single textbook page",
         "The physical thickness of internal hard disk aluminum platters",
-        "The number of characters printed across a single textbook page"
+        "Commercial banking lobbies, customer reception desks, and cafes",
+        "Data at Rest: terabytes to exabytes of existing data to process"
       ],
       "correctAnswer": "Data at Rest: terabytes to exabytes of existing data to process"
     },
@@ -89,10 +89,10 @@
       "anki": true,
       "question": "What does the 'Velocity' dimension represent in Big Data systems?",
       "options": [
-        "Data in Motion: streaming data requiring milliseconds to seconds response",
+        "A set of instructions that commands the computer hardware to do something",
         "The maximum driving speed of autonomous vehicles along highways",
-        "The rotational speed of computer cooling fans in RPM units",
-        "The travel speed of electrical pulses along copper network wires"
+        "The travel speed of electrical pulses along copper network wires",
+        "Data in Motion: streaming data requiring milliseconds to seconds response"
       ],
       "correctAnswer": "Data in Motion: streaming data requiring milliseconds to seconds response"
     },

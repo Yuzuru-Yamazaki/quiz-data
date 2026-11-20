@@ -43,8 +43,8 @@
       "question": "Haricot bean grows best on",
       "options": [
         "Well-drained loam",
+        "Highly productive",
         "Waterlogged clay",
-        "Saline sand",
         "Rocky slopes"
       ],
       "correctAnswer": "Well-drained loam"
@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Haricot bean is sensitive to",
       "options": [
-        "Waterlogging",
+        "Frost",
         "Sunlight",
-        "Wind",
-        "Frost"
+        "Waterlogging",
+        "Market price"
       ],
       "correctAnswer": "Waterlogging"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Haricot bean rust is a",
       "options": [
-        "Fungal disease",
         "Viral disease",
-        "Insect pest",
-        "Weed species"
+        "Weed species",
+        "Wool and skins",
+        "Fungal disease"
       ],
       "correctAnswer": "Fungal disease"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Haricot bean aphids are controlled by",
       "options": [
-        "Insecticides",
-        "Fungicides",
         "Herbicides",
-        "Nematicides"
+        "Nematicides",
+        "South Africa",
+        "Insecticides"
       ],
       "correctAnswer": "Insecticides"
     },
@@ -198,9 +198,9 @@
       "anki": true,
       "question": "Haricot bean rotation improves the yield of the following",
       "options": [
-        "Cereal crop",
-        "Oil crop",
+        "Grind grain",
         "Fiber crop",
+        "Cereal crop",
         "Root crop"
       ],
       "correctAnswer": "Cereal crop"

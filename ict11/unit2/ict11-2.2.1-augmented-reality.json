@@ -77,10 +77,10 @@
       "anki": true,
       "question": "What two functions do display devices serve in an AR application?",
       "options": [
-        "Locating objects of focus and showing overlaid digital information",
-        "Storing relational database records and managing query results",
+        "Compiling high-level programming scripts into machine bytecodes",
         "Balancing voltage spikes and absorbing electrostatic discharge",
-        "Compiling high-level programming scripts into machine bytecodes"
+        "Locating objects of focus and showing overlaid digital information",
+        "Consuming aviation kerosene to accelerate engine combustion ratios"
       ],
       "correctAnswer": "Locating objects of focus and showing overlaid digital information"
     },
@@ -101,10 +101,10 @@
       "anki": true,
       "question": "What image data does AR software calculate after camera capture?",
       "options": [
+        "Network transmission ping latency and data encryption strength",
         "Object measurements, surrounding items, and relative spatial distance",
         "Operating system kernel version, CPU clock rate, and battery age",
-        "Network transmission ping latency and data encryption strength",
-        "Document print formatting margins and paper sheet orientation"
+        "AR operates purely in text spreadsheets while VR displays audio waves"
       ],
       "correctAnswer": "Object measurements, surrounding items, and relative spatial distance"
     },
@@ -113,10 +113,10 @@
       "anki": true,
       "question": "What is the final step in the Augmented Reality processing pipeline?",
       "options": [
-        "Generating virtual information and overlaying it upon the real object",
+        "VR operates in historical archives while AR forecasts economic trends",
+        "Backing up camera image files to an external network storage server",
         "Disconnecting the device camera to conserve internal battery charge",
-        "Restarting the operating system to clear temporary browser caches",
-        "Backing up camera image files to an external network storage server"
+        "Generating virtual information and overlaying it upon the real object"
       ],
       "correctAnswer": "Generating virtual information and overlaying it upon the real object"
     }

@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Which livestock system is correctly matched to its land use?",
       "options": [
-        "Transhumance-permanent home",
-        "Nomad-permanent home",
         "Ranching-open common land",
-        "Pastoralism-fixed fences"
+        "Pastoralism-fixed fences",
+        "Transhumance-permanent home",
+        "It is published in journals"
       ],
       "correctAnswer": "Transhumance-permanent home"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Semi-intensive farms cluster around towns mainly for",
       "options": [
+        "Domestication",
+        "Free fodder",
         "Market access",
-        "Cheap land",
-        "Cool climate",
-        "Free fodder"
+        "Cool climate"
       ],
       "correctAnswer": "Market access"
     },
@@ -162,10 +162,10 @@
       "anki": true,
       "question": "Ranching differs from pastoralism mainly by having",
       "options": [
-        "Fixed boundaries",
-        "Herd mobility",
+        "Weed competition",
         "No labour input",
-        "No market sales"
+        "No market sales",
+        "Fixed boundaries"
       ],
       "correctAnswer": "Fixed boundaries"
     },
@@ -210,10 +210,10 @@
       "anki": true,
       "question": "The term for feed supplying proper nutrients for a specific purpose is",
       "options": [
-        "Balanced ration",
         "Feed additive",
+        "Balanced ration",
         "Roughage mix",
-        "Concentrate"
+        "Latex and resin"
       ],
       "correctAnswer": "Balanced ration"
     },
@@ -222,10 +222,10 @@
       "anki": true,
       "question": "A species differs from a breed because a species can",
       "options": [
-        "Interbreed fertilely",
         "Look alike visually",
         "Share a common name",
-        "Live in one area"
+        "Reduce seed moisture",
+        "Interbreed fertilely"
       ],
       "correctAnswer": "Interbreed fertilely"
     }

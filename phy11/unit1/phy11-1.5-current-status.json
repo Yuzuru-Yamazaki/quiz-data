@@ -39,10 +39,10 @@
       "anki": true,
       "question": "The 2019 Nobel Prize in Physics was awarded for the discovery of exoplanets to:",
       "options": [
-        "Higgs and Englert",
         "Michel Mayor and Didier Queloz",
         "Roger Penrose and Andrea Ghez",
-        "Weiss, Barish and Thorne"
+        "Weiss, Barish and Thorne",
+        "Real size to the diagram width"
       ],
       "correctAnswer": "Michel Mayor and Didier Queloz"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "Why is the discovery of exoplanets significant?",
       "options": [
-        "It detected ripples in spacetime",
-        "It proved that stars emit light",
-        "It explained the greenhouse effect",
-        "It confirmed that planets exist around other stars"
+        "A planet orbiting a star outside our solar system",
+        "Radiation, thermodynamics and atmospheric science",
+        "It confirmed that planets exist around other stars",
+        "A planet in our solar system discovered after 2000"
       ],
       "correctAnswer": "It confirmed that planets exist around other stars"
     },
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "Which project produced the first-ever image of a black hole in 2019?",
       "options": [
+        "A line on the time axis",
+        "Large Hadron Collider",
         "Event Horizon Telescope",
-        "James Webb Space Telescope",
-        "LIGO",
-        "Large Hadron Collider"
+        "James Webb Space Telescope"
       ],
       "correctAnswer": "Event Horizon Telescope"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "The 2020 Nobel Prize in Physics for black hole research was awarded to:",
       "options": [
-        "Higgs and Englert",
+        "The water is heated faster at higher altitudes",
         "Roger Penrose, Reinhard Genzel and Andrea Ghez",
-        "Weiss, Barish and Thorne",
-        "Michel Mayor and Didier Queloz"
+        "Intercepted messages become permanently louder",
+        "A collection of physics textbooks and journals"
       ],
       "correctAnswer": "Roger Penrose, Reinhard Genzel and Andrea Ghez"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "Quantum cryptography makes communication secure using:",
       "options": [
-        "High-energy particle collisions",
-        "The greenhouse effect and atmospheric radiation",
+        "To serve society by advancing science, engineering, and innovation",
         "Quantum entanglement and the no-cloning property of quantum states",
-        "Gravitational lensing of light"
+        "Dome-shaped building with exhibits on science, technology and arts",
+        "Heat water at different altitudes and record the boiling temperature"
       ],
       "correctAnswer": "Quantum entanglement and the no-cloning property of quantum states"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "The Large Hadron Collider (LHC) is located at:",
       "options": [
-        "NASA",
-        "LIGO",
         "CERN",
-        "The Event Horizon Telescope site"
+        "10 m",
+        "LIGO",
+        "NASA"
       ],
       "correctAnswer": "CERN"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "Who won the 2013 Nobel Prize in Physics for the theory of the Higgs mechanism?",
       "options": [
-        "Weiss and Thorne",
         "Penrose and Ghez",
-        "Mayor and Queloz",
-        "Higgs and Englert"
+        "Orbiting a pulsar",
+        "Higgs and Englert",
+        "Mayor and Queloz"
       ],
       "correctAnswer": "Higgs and Englert"
     },
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "Gravitational waves were first directly detected in 2015 by which experiment?",
       "options": [
-        "Large Hadron Collider",
-        "James Webb Space Telescope",
+        "20 m",
         "LIGO",
-        "Event Horizon Telescope"
+        "Zero",
+        "Time"
       ],
       "correctAnswer": "LIGO"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "The greenhouse effect and climate change are explained using physics from fields such as:",
       "options": [
-        "Exoplanet imaging and spectroscopy",
-        "Particle acceleration and hadron collisions",
+        "Radiation, thermodynamics and atmospheric science",
         "Quantum cryptography and entanglement",
-        "Radiation, thermodynamics and atmospheric science"
+        "Particle acceleration and hadron collisions",
+        "A planet orbiting a star outside our solar system"
       ],
       "correctAnswer": "Radiation, thermodynamics and atmospheric science"
     },
@@ -255,10 +255,10 @@
       "anki": true,
       "question": "Which gases trap heat and drive the greenhouse effect?",
       "options": [
-        "Hydrogen and helium",
-        "Oxygen and nitrogen only",
+        "As a collection of scientific instruments",
+        "By listening for gravitational waves only",
         "Carbon dioxide and other greenhouse gases",
-        "Noble gases such as argon"
+        "Gather information by seeing and touching"
       ],
       "correctAnswer": "Carbon dioxide and other greenhouse gases"
     },
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "The James Webb Space Telescope is best described as:",
       "options": [
-        "A gravitational wave detector",
-        "A ground-based radio telescope",
         "The most powerful space telescope, launched as the successor to Hubble",
-        "A particle accelerator in orbit"
+        "Conferences on physics education and exchange of scientific information",
+        "Lower atmospheric pressure at higher altitude lowers the boiling point",
+        "Higher atmospheric pressure at higher altitude lowers the boiling point"
       ],
       "correctAnswer": "The most powerful space telescope, launched as the successor to Hubble"
     },
@@ -303,10 +303,10 @@
       "anki": true,
       "question": "The JWST observes the universe in the infrared part of the spectrum and is cooled to about:",
       "options": [
-        "$-223\\,^\\circ C$",
+        "26.8 m/s squared",
+        "$100\\,^\\circ C$",
         "$-73\\,^\\circ C$",
-        "$0\\,^\\circ C$",
-        "$100\\,^\\circ C$"
+        "$-223\\,^\\circ C$"
       ],
       "correctAnswer": "$-223\\,^\\circ C$"
     },
@@ -327,10 +327,10 @@
       "anki": true,
       "question": "The newly inaugurated Ethiopian Science and Art Museum in Addis Ababa is notable for its:",
       "options": [
-        "Dome-shaped building with exhibits on science, technology and arts",
-        "Pyramid-shaped structure orbiting the Earth",
+        "To serve society by advancing science, engineering, and innovation",
         "Underground laboratory used for gravitational wave detection",
-        "Octagonal building that houses particle accelerators"
+        "Dome-shaped building with exhibits on science, technology and arts",
+        "Quantum entanglement and the no-cloning property of quantum states"
       ],
       "correctAnswer": "Dome-shaped building with exhibits on science, technology and arts"
     },
@@ -339,9 +339,9 @@
       "anki": true,
       "question": "What is a main purpose of the Ethiopian Science and Art Museum?",
       "options": [
-        "To launch satellites into orbit",
+        "Physics is only important inside laboratories",
         "To store the world's largest telescopes",
-        "To host the LHC experiments",
+        "To examine students on the physics curriculum",
         "To popularize science and physics in Ethiopia"
       ],
       "correctAnswer": "To popularize science and physics in Ethiopia"

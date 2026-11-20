@@ -19,8 +19,8 @@
       "question": "Agriculture provides society with",
       "options": [
         "Food and other goods",
+        "Planting seed deeper",
         "Only raw materials",
-        "Only animal feed",
         "Only export crops"
       ],
       "correctAnswer": "Food and other goods"
@@ -55,8 +55,8 @@
       "question": "One of the first technological changes was the transfer of work to",
       "options": [
         "Draft animals",
-        "Machines",
         "Hired labor",
+        "500 to 1500 m",
         "Irrigation"
       ],
       "correctAnswer": "Draft animals"
@@ -79,9 +79,9 @@
       "question": "Agricultural machinery reduced",
       "options": [
         "Labour requirement",
-        "Crop yield",
         "Seed quality",
-        "Soil fertility"
+        "Soil fertility",
+        "Modern agriculture"
       ],
       "correctAnswer": "Labour requirement"
     },
@@ -114,9 +114,9 @@
       "anki": true,
       "question": "The Biotechnology and Information Technology Era began in",
       "options": [
-        "1970 to present",
-        "1930 to 1950",
         "1950 to 1970",
+        "Northern Europe",
+        "1970 to present",
         "1900 to 1930"
       ],
       "correctAnswer": "1970 to present"

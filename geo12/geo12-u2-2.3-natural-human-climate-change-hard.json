@@ -17,9 +17,9 @@
       "id": 1,
       "question": "Why do natural aerosols from wildfires and dust storms cool the surface?",
       "options": [
-        "They prevent sunlight from reaching the ground",
         "They increase the greenhouse effect",
-        "They warm the stratosphere",
+        "They prevent sunlight from reaching the ground",
+        "Beneath an ocean rather than along a coastline",
         "They absorb all infrared radiation"
       ],
       "correctAnswer": "They prevent sunlight from reaching the ground"
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "How do human activities change climate through atmospheric composition?",
       "options": [
-        "By removing all aerosols",
-        "By adding greenhouse gases and aerosols to the atmosphere",
-        "By changing Earth orbital path",
-        "By stopping volcanic eruptions"
+        "It may shrink to less than 10 percent of the Arctic Ocean",
+        "They have moved relative to each other over geologic time",
+        "It releases additional carbon dioxide into the atmosphere",
+        "By adding greenhouse gases and aerosols to the atmosphere"
       ],
       "correctAnswer": "By adding greenhouse gases and aerosols to the atmosphere"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What does extremely likely mean in the 2013 IPCC report?",
       "options": [
-        "A probability of exactly 50 percent",
-        "A probability below 5 percent",
+        "A statement with no probability",
+        "A warm year disproves climate change",
         "A probability of at least 95 percent",
-        "A statement with no probability"
+        "A probability of exactly 50 percent"
       ],
       "correctAnswer": "A probability of at least 95 percent"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "What did the 2013 Fifth Assessment Report conclude?",
       "options": [
-        "Natural cycles explain all warming",
-        "The climate is stable",
-        "Warming began only after 2013",
-        "Human influence is the dominant cause of warming since the mid-twentieth century"
+        "Sudden ground shaking caused by rock masses changing position below the surface",
+        "Human influence is the dominant cause of warming since the mid-twentieth century",
+        "Changes systems undergo in response to climate regardless of any policy or plan",
+        "Mitigation reduces future warming while adaptation reduces current and near-term impacts"
       ],
       "correctAnswer": "Human influence is the dominant cause of warming since the mid-twentieth century"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "Why can city nights be warmer than nearby rural nights?",
       "options": [
+        "It explains rock ages and fossil distribution patterns",
         "Urban surfaces and haze alter the local energy balance",
-        "Cities are closer to the sun",
-        "Rural areas have more pavement",
-        "Cities receive more rainfall"
+        "Implementation of the Marrakesh Accords became central",
+        "They absorb more solar energy than snow-covered tundra"
       ],
       "correctAnswer": "Urban surfaces and haze alter the local energy balance"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "How does albedo change contribute to warming after deforestation?",
       "options": [
-        "Albedo has no effect on temperature",
+        "It eases impacts but does not limit the underlying climate change",
+        "A vent is a crack that builds a plateau; a fissure builds a cone",
         "Altered reflectivity changes the amount of solar energy absorbed",
-        "Deforested land becomes perfectly white",
-        "Albedo controls only wind speed"
+        "Orbital variations help initiate glacial and interglacial periods"
       ],
       "correctAnswer": "Altered reflectivity changes the amount of solar energy absorbed"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "Why are natural and human causes distinguished by mechanism?",
       "options": [
-        "Both use exactly the same mechanisms",
-        "Humans cannot affect the atmosphere",
-        "Natural causes only affect the oceans",
-        "Natural causes can work through all three external mechanisms while humans mainly use two"
+        "Mitigation reduces future warming while adaptation reduces current and near-term impacts",
+        "Ethiopia can adopt modern efficient technologies directly instead of high-emission pathways",
+        "Natural causes can work through all three external mechanisms while humans mainly use two",
+        "A vent is a pipe-like opening that builds a cone; a fissure is a narrow crack that builds a plateau"
       ],
       "correctAnswer": "Natural causes can work through all three external mechanisms while humans mainly use two"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What is the link between Milankovitch cycles and ice ages?",
       "options": [
-        "Orbital variations help initiate glacial and interglacial periods",
-        "They control volcanic eruptions",
-        "They determine ocean salinity",
-        "They cause earthquakes"
+        "Warmer air holds more snow inland while coastal melting increases",
+        "Dark forests absorb more sunlight than snow, accelerating warming",
+        "An increase in desert conditions from overgrazing and cultivation",
+        "Orbital variations help initiate glacial and interglacial periods"
       ],
       "correctAnswer": "Orbital variations help initiate glacial and interglacial periods"
     },

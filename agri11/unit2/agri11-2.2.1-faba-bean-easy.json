@@ -43,9 +43,9 @@
       "question": "Faba bean is mainly grown in the",
       "options": [
         "Highlands",
+        "Cellulose",
         "Lowlands",
-        "Deserts",
-        "Coasts"
+        "Deserts"
       ],
       "correctAnswer": "Highlands"
     },
@@ -67,9 +67,9 @@
       "question": "Faba bean seeds are rich in",
       "options": [
         "Protein",
-        "Oil",
-        "Starch",
-        "Fiber"
+        "Fiber",
+        "Culture",
+        "Starch"
       ],
       "correctAnswer": "Protein"
     },
@@ -175,9 +175,9 @@
       "question": "Chocolate spot is a faba bean",
       "options": [
         "Fungal disease",
-        "Viral disease",
-        "Insect pest",
-        "Weed species"
+        "Weed species",
+        "25 cm by 10 cm",
+        "Viral disease"
       ],
       "correctAnswer": "Fungal disease"
     },
@@ -186,10 +186,10 @@
       "anki": true,
       "question": "Faba bean rust is a",
       "options": [
+        "Weed species",
+        "No land at all",
         "Fungal disease",
-        "Viral disease",
-        "Insect pest",
-        "Weed species"
+        "Viral disease"
       ],
       "correctAnswer": "Fungal disease"
     },

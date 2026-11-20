@@ -15,10 +15,10 @@
       "anki": true,
       "question": "According to the module, what is a computer?",
       "options": [
-        "A powerful electronic device that can perform various tasks, process data, and execute instructions",
-        "A storage device used to keep large amounts of information",
-        "A network connection that links several machines together",
-        "A type of software used to run applications"
+        "The well-being and safety of employees who spend a significant amount of time working with computers",
+        "A subsystem that transfers data between computer components inside a computer or between computers",
+        "Turning the digital signals produced by the processor into an analog signal understood by the display",
+        "A powerful electronic device that can perform various tasks, process data, and execute instructions"
       ],
       "correctAnswer": "A powerful electronic device that can perform various tasks, process data, and execute instructions"
     },
@@ -27,10 +27,10 @@
       "anki": true,
       "question": "What is a peripheral?",
       "options": [
-        "A cable used to connect two computers directly",
-        "A program that controls the operating system",
         "A piece of computer hardware added to a computer in order to expand its abilities",
-        "A type of internal memory found on the motherboard"
+        "Allowing devices to be connected and disconnected without rebooting the computer",
+        "Programs through which manufacturers responsibly collect and recycle their products",
+        "All layers, from the user interface to server-side logic and database management"
       ],
       "correctAnswer": "A piece of computer hardware added to a computer in order to expand its abilities"
     },
@@ -39,8 +39,8 @@
       "anki": true,
       "question": "Which of the following best describes peripherals?",
       "options": [
-        "They are always fitted inside the system unit",
-        "They can only be connected wirelessly",
+        "Communicate over a computer network, either by using cables or wirelessly",
+        "Backups, shared drives among many computers, and expanding hard drive space",
         "They are software programs that expand the abilities of a computer",
         "They are optional in nature, as opposed to hardware that is always required"
       ],
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "What is a bus?",
       "options": [
+        "A powerful electronic device that can perform various tasks, process data, and execute instructions",
         "A subsystem that transfers data between computer components inside a computer or between computers",
-        "A slot used to attach a monitor to the power supply",
-        "A type of removable storage device",
-        "A program that manages input and output devices"
+        "A serial bus interface standard for high-speed communications and isochronous real-time data transfer",
+        "The well-being and safety of employees who spend a significant amount of time working with computers"
       ],
       "correctAnswer": "A subsystem that transfers data between computer components inside a computer or between computers"
     },
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "What are the two types of buses in a computer system?",
       "options": [
-        "Storage buses and power buses",
         "Internal buses and external buses",
-        "Video buses and sound buses",
-        "Serial buses and wireless buses"
+        "Storage buses and power buses",
+        "Serial buses and wireless buses",
+        "Network IP address and DNS server"
       ],
       "correctAnswer": "Internal buses and external buses"
     },
@@ -76,8 +76,8 @@
       "question": "PCI is common in modern PCs. Which technology is succeeding this kind of bus?",
       "options": [
         "PS/2",
-        "AGP",
         "PCI Express",
+        "Diodes only",
         "FireWire"
       ],
       "correctAnswer": "PCI Express"
@@ -87,20 +87,20 @@
       "anki": true,
       "question": "True or False: PCI Express was introduced by Intel in 2004.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 8,
       "anki": true,
       "question": "What typical PCI cards are used in PCs?",
       "options": [
-        "Network cards, sound cards, modems, extra ports, TV tuner cards and disk controllers",
-        "Printers, scanners and webcams",
-        "Video cards, power supplies and speakers",
-        "Keyboards, mice and touch screens"
+        "A sudden flow of electricity between two objects caused by a static charge imbalance",
+        "Programs through which manufacturers responsibly collect and recycle their products",
+        "A. Enhance or expand capabilities by adding/replacing hardware or upgrading software",
+        "Network cards, sound cards, modems, extra ports, TV tuner cards and disk controllers"
       ],
       "correctAnswer": "Network cards, sound cards, modems, extra ports, TV tuner cards and disk controllers"
     },
@@ -121,10 +121,10 @@
       "anki": true,
       "question": "What was PCI Express designed to replace?",
       "options": [
-        "The hard drive and the floppy drive",
-        "The USB and FireWire connections",
-        "The keyboard and the mouse ports",
-        "The general-purpose PCI expansion bus and the AGP graphics card interface"
+        "A. Working efficiently with different hardware, software, or data formats",
+        "Communicate over a computer network, either by using cables or wirelessly",
+        "The general-purpose PCI expansion bus and the AGP graphics card interface",
+        "B. Temporary storage for data and instructions currently being processed"
       ],
       "correctAnswer": "The general-purpose PCI expansion bus and the AGP graphics card interface"
     },
@@ -133,10 +133,10 @@
       "anki": true,
       "question": "Which of the following describes PCI Express?",
       "options": [
-        "It is a wireless standard for connecting peripherals",
-        "It is a port used only for external storage devices",
+        "It is a point-to-point connection of serial links called lanes",
         "It is a parallel bus that shares the same set of wires",
-        "It is a point-to-point connection of serial links called lanes"
+        "Because the field is constantly evolving with new technologies",
+        "It is a wireless standard for connecting peripherals"
       ],
       "correctAnswer": "It is a point-to-point connection of serial links called lanes"
     },
@@ -157,22 +157,22 @@
       "anki": true,
       "question": "What is an AGP (Accelerated Graphics Port)?",
       "options": [
-        "A wireless connection used to link two monitors",
-        "A serial connection used for high-speed data transfer between computers",
-        "A high-speed point-to-point channel for attaching a graphics card to the motherboard, primarily to assist in the acceleration of 3D computer graphics",
-        "A general-purpose bus used to connect printers"
+        "A sudden flow of electricity between two objects caused by a static charge imbalance",
+        "A. Enhance or expand capabilities by adding/replacing hardware or upgrading software",
+        "Network cards, sound cards, modems, extra ports, TV tuner cards and disk controllers",
+        "A high-speed point-to-point channel for attaching a graphics card to the motherboard"
       ],
-      "correctAnswer": "A high-speed point-to-point channel for attaching a graphics card to the motherboard, primarily to assist in the acceleration of 3D computer graphics"
+      "correctAnswer": "A high-speed point-to-point channel for attaching a graphics card to the motherboard"
     },
     {
       "id": 14,
       "anki": true,
       "question": "Which technology has largely replaced AGP over the past years?",
       "options": [
+        "FireWire",
+        "D. Printing",
         "PCI Express",
-        "USB",
-        "PS/2",
-        "FireWire"
+        "PS/2"
       ],
       "correctAnswer": "PCI Express"
     },
@@ -181,10 +181,10 @@
       "anki": true,
       "question": "What is the function of a video card?",
       "options": [
-        "To provide audio signals to speakers",
         "To store data permanently on a hard disk",
-        "To generate and output images to a display",
-        "To connect a computer to a network"
+        "To provide audio signals to speakers",
+        "Data processing, storage and communication",
+        "To generate and output images to a display"
       ],
       "correctAnswer": "To generate and output images to a display"
     },
@@ -193,10 +193,10 @@
       "anki": true,
       "question": "What is the GPU (graphics processing unit) on a video card?",
       "options": [
-        "A connector used for a standard monitor cable",
+        "A dedicated microprocessor optimized for 3D graphics rendering",
         "A basic program that governs the card's operations",
-        "A memory chip used to store images temporarily",
-        "A dedicated microprocessor optimized for 3D graphics rendering"
+        "To prevent tripping hazards and allow easy access to equipment",
+        "Because the field is constantly evolving with new technologies"
       ],
       "correctAnswer": "A dedicated microprocessor optimized for 3D graphics rendering"
     },
@@ -205,10 +205,10 @@
       "anki": true,
       "question": "True or False: If a video card is integrated in the motherboard, it may use the computer's RAM memory.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 18,
@@ -227,10 +227,10 @@
       "anki": true,
       "question": "What is the function of a RAMDAC on a video card?",
       "options": [
-        "Storing images before they are displayed",
-        "Cooling the graphics processing unit",
-        "Turning the digital signals produced by the processor into an analog signal understood by the display",
-        "Connecting multiple monitors wirelessly"
+        "The well-being and safety of employees who spend a significant amount of time working with computers",
+        "A serial bus interface standard for high-speed communications and isochronous real-time data transfer",
+        "A powerful electronic device that can perform various tasks, process data, and execute instructions",
+        "Turning the digital signals produced by the processor into an analog signal understood by the display"
       ],
       "correctAnswer": "Turning the digital signals produced by the processor into an analog signal understood by the display"
     },
@@ -239,10 +239,10 @@
       "anki": true,
       "question": "What is a sound card?",
       "options": [
-        "A card that generates and outputs images to a display",
-        "An expansion card that facilitates the input and output of audio signals under control of computer programs",
-        "A card that provides extra USB ports",
-        "A card that allows computers to communicate over a network"
+        "To protect against data loss in the event of hardware failure, malware attacks or other unforeseen circumstances",
+        "Appropriate and environmentally responsible methods of getting rid of computer equipment and electronic waste",
+        "Increased storage, modular design versatility and compatibility, and increased use of microcomputers (PCs)",
+        "An expansion card that facilitates the input and output of audio signals under control of computer programs"
       ],
       "correctAnswer": "An expansion card that facilitates the input and output of audio signals under control of computer programs"
     },
@@ -251,10 +251,10 @@
       "anki": true,
       "question": "What does a network card allow computers to do?",
       "options": [
-        "Produce sound for multimedia applications",
-        "Provide power to low-consumption devices",
+        "The general-purpose PCI expansion bus and the AGP graphics card interface",
         "Communicate over a computer network, either by using cables or wirelessly",
-        "Display images on multiple monitors"
+        "B. Temporary storage for data and instructions currently being processed",
+        "A. Working efficiently with different hardware, software, or data formats"
       ],
       "correctAnswer": "Communicate over a computer network, either by using cables or wirelessly"
     },
@@ -264,9 +264,9 @@
       "question": "True or False: Every Ethernet network card has a unique 48-bit serial number called a MAC address, which is stored in ROM on the card.",
       "options": [
         "False",
-        "True"
+        "True."
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 23,
@@ -285,10 +285,10 @@
       "anki": true,
       "question": "Which feature of USB improves plug-and-play capabilities?",
       "options": [
-        "Only working while the computer is turned off",
-        "Requiring an external power supply for every device",
         "Allowing devices to be connected and disconnected without rebooting the computer",
-        "Needing a separate driver for each manufacturer"
+        "All layers, from the user interface to server-side logic and database management",
+        "Programs through which manufacturers responsibly collect and recycle their products",
+        "A piece of computer hardware added to a computer in order to expand its abilities"
       ],
       "correctAnswer": "Allowing devices to be connected and disconnected without rebooting the computer"
     },
@@ -309,10 +309,10 @@
       "anki": true,
       "question": "What is FireWire (IEEE 1394), also known as i.LINK for Sony?",
       "options": [
-        "A wireless standard for connecting mice",
-        "An internal bus for connecting memory chips",
-        "A serial bus interface standard for high-speed communications and isochronous real-time data transfer",
-        "A parallel port used only for printers"
+        "The well-being and safety of employees who spend a significant amount of time working with computers",
+        "Every 20 minutes, look away from the screen and focus on something 20 feet away for at least 20 seconds",
+        "Turning the digital signals produced by the processor into an analog signal understood by the display",
+        "A serial bus interface standard for high-speed communications and isochronous real-time data transfer"
       ],
       "correctAnswer": "A serial bus interface standard for high-speed communications and isochronous real-time data transfer"
     },
@@ -333,20 +333,20 @@
       "anki": true,
       "question": "True or False: A PS/2 mouse connected to a PS/2 keyboard port may not be recognized by the computer.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 29,
       "anki": true,
       "question": "Which of the following describes USB flash drives?",
       "options": [
+        "Large, slow and built into the motherboard",
         "Read-only and designed for permanent storage",
-        "Small, fast, removable, rewritable, and long-lasting",
-        "Usable only with an external power supply",
-        "Large, slow and built into the motherboard"
+        "Recycling programs, data wiping and donation options",
+        "Small, fast, removable, rewritable, and long-lasting"
       ],
       "correctAnswer": "Small, fast, removable, rewritable, and long-lasting"
     },
@@ -367,10 +367,10 @@
       "anki": true,
       "question": "What is a popular use of external hard drives?",
       "options": [
+        "A. Working efficiently with different hardware, software, or data formats",
+        "They are optional in nature, as opposed to hardware that is always required",
         "Backups, shared drives among many computers, and expanding hard drive space",
-        "Providing audio signals for multimedia applications",
-        "Adding a wireless connection to the internet",
-        "Generating and outputting images to a display"
+        "Communicate over a computer network, either by using cables or wirelessly"
       ],
       "correctAnswer": "Backups, shared drives among many computers, and expanding hard drive space"
     },
@@ -391,10 +391,10 @@
       "anki": true,
       "question": "Which new popular pointing device may eventually replace the mouse?",
       "options": [
+        "Touch screen",
         "Scanner",
         "Trackball",
-        "Webcam",
-        "Touch screen"
+        "B. Only text"
       ],
       "correctAnswer": "Touch screen"
     },

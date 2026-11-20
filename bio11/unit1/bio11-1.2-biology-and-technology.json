@@ -15,10 +15,10 @@
       "anki": true,
       "question": "Biology is defined as the study of ____.",
       "options": [
-        "the physical features of the earth and its atmosphere",
-        "the interaction of humans with the natural environment",
+        "Maintenance of a temperature slightly lower than core body temperature for normal spermatogenesis",
         "life: the structures, functions, growth, origins, evolution and distribution of living organisms",
-        "the production of devices and tools for scientific investigations"
+        "the rightness or wrongness of using biological discoveries for the health and wellbeing of humans",
+        "have a nervous system, feel painful feelings and emotional stress, and have interests and values"
       ],
       "correctAnswer": "life: the structures, functions, growth, origins, evolution and distribution of living organisms"
     },
@@ -27,12 +27,12 @@
       "anki": true,
       "question": "Technology is defined as ____.",
       "options": [
-        "the application of scientific knowledge, skills, methods and processes for the production of devices and tools for scientific investigations",
-        "the study of living organisms from the simplest to the most complex",
-        "the management of natural resources for human benefit",
-        "the use of biological systems to develop useful products"
+        "The formation of organs from the germ layers during embryonic development",
+        "All vertebrates are cold-blooded while all invertebrates are warm-blooded",
+        "the application of scientific knowledge, skills, methods",
+        "the ability of woodpeckers to absorb repeated impact without brain damage"
       ],
-      "correctAnswer": "the application of scientific knowledge, skills, methods and processes for the production of devices and tools for scientific investigations"
+      "correctAnswer": "the application of scientific knowledge, skills, methods"
     },
     {
       "id": 3,
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "Scientists have imitated the nature of human, animal and plant genes for ____.",
       "options": [
+        "Internal fertilisation + viviparous + metamorphosis present",
+        "the total number of scientific journals published each year",
         "gene engineering and the creation of biosynthetic materials",
-        "designing transport systems",
-        "producing chemical fertilizers",
-        "building irrigation canals"
+        "industrialization and subsequent technological advancements"
       ],
       "correctAnswer": "gene engineering and the creation of biosynthetic materials"
     },
@@ -123,9 +123,9 @@
       "anki": true,
       "question": "Biosynthetic materials are created to ____.",
       "options": [
-        "monitor blood pressure",
-        "detect pregnancy early",
         "repair damaged body tissues",
+        "detect pregnancy early",
+        "climate of the whole region",
         "generate electrical power"
       ],
       "correctAnswer": "repair damaged body tissues"
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "In section 1.2.1, engineers imitated the mound architecture of ____ to design buildings with chimneys.",
       "options": [
-        "bees",
-        "spiders",
+        "sunlight",
         "termites",
-        "ants"
+        "ants",
+        "spiders"
       ],
       "correctAnswer": "termites"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "The noses of bullet trains were designed by imitating the shape of ____ when they dive into water.",
       "options": [
-        "the heads of penguins",
-        "the bills of ducks",
+        "the beaks of kingfishers",
         "the snouts of dolphins",
-        "the beaks of kingfishers"
+        "the heads of penguins",
+        "breeding and vaccination"
       ],
       "correctAnswer": "the beaks of kingfishers"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "The uses of technology in biology are ____.",
       "options": [
-        "the study of the distribution of species through geological periods",
+        "The reproductive strategy and certainty of paternity differ between the two groups",
         "the ways in which technological tools are applied to solve various human problems",
-        "the production of yeast for bread and beer",
-        "the imitation of nature to design new products"
+        "the effects arising from the advancement of biological knowledge and innovations",
+        "It provides better protection of the embryo from desiccation and mechanical damage"
       ],
       "correctAnswer": "the ways in which technological tools are applied to solve various human problems"
     },
@@ -171,9 +171,9 @@
       "anki": true,
       "question": "Biochemical studies are helpful to investigate information on ____.",
       "options": [
-        "the movement of populations across landscapes",
-        "the distribution of species in ecosystems",
         "the chemical components of medicinal plants",
+        "the movement of populations across landscapes",
+        "a negative impact of biology on the natural world",
         "carbohydrates, proteins, lipids and nucleic acids"
       ],
       "correctAnswer": "carbohydrates, proteins, lipids and nucleic acids"
@@ -184,9 +184,9 @@
       "question": "Biomedical studies deal with providing detailed information on ____.",
       "options": [
         "carbohydrates, proteins, lipids and nucleic acids",
-        "the chemical components of medicinal plants",
         "the interactions of humans with the environment",
-        "DNA and amino acid sequences"
+        "the chemical components of medicinal plants",
+        "supply the embryo with oxygen and nutrients"
       ],
       "correctAnswer": "the chemical components of medicinal plants"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "Biophysical studies gather biological information at ____ scales of biological organization.",
       "options": [
-        "molecular, organismic and population",
-        "cellular, tissue and organ",
+        "local, regional and global",
         "individual, community and ecosystem",
-        "local, regional and global"
+        "molecular, organismic and population",
+        "nourishes the embryo from the mother"
       ],
       "correctAnswer": "molecular, organismic and population"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "Biogeographical information is the study of ____.",
       "options": [
-        "the structure of carbohydrates and lipids",
         "the distribution of species along with geographic ecosystems through geological periods",
-        "the metabolic processes of cancer cells",
-        "the chemical composition of medicinal plants"
+        "influence, treat, and control the society and the natural world negatively or positively",
+        "affects the survival of the plant species and the community that depends on the plants",
+        "The physical, natural and material world of life that exists without human intervention"
       ],
       "correctAnswer": "the distribution of species along with geographic ecosystems through geological periods"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "A pregnancy urine test works by detecting the amount of ____.",
       "options": [
-        "hemoglobin",
-        "insulin",
+        "abandon her pups to find new nests",
+        "tiny wasps of the family Cynipidae",
         "Human Chorionic Gonadotropin (HCG)",
-        "glucose"
+        "relaxation of their smooth muscles"
       ],
       "correctAnswer": "Human Chorionic Gonadotropin (HCG)"
     },
@@ -267,8 +267,8 @@
       "anki": true,
       "question": "In a pregnancy urine test, a result showing two lines confirms ____.",
       "options": [
-        "an HIV infection",
         "the existence of pregnancy",
+        "an HIV infection in the situation d",
         "the presence of diabetes",
         "a negative result with no pregnancy"
       ],
@@ -291,10 +291,10 @@
       "anki": true,
       "question": "An HIV test is a detector used to ____.",
       "options": [
-        "detect early pregnancy",
         "measure blood sugar levels",
+        "identify infections with the virus",
         "measure body temperature",
-        "identify infections with the virus"
+        "silkworms of the family Bombycidae"
       ],
       "correctAnswer": "identify infections with the virus"
     },
@@ -315,10 +315,10 @@
       "anki": true,
       "question": "A Computed Tomography (CT) scan is ____.",
       "options": [
-        "a device used to measure body fat",
+        "Vertebrates have a centralized nervous system with a brain and sensory organs",
         "a sophisticated x-ray technology used to take many x-ray pictures of the body",
-        "a tool for collecting geographical data",
-        "a microscope for magnifying cells"
+        "support the discovery of more information in the course of biological studies",
+        "They are covered by a jelly-like substance and must usually be laid in water"
       ],
       "correctAnswer": "a sophisticated x-ray technology used to take many x-ray pictures of the body"
     },
@@ -327,10 +327,10 @@
       "anki": true,
       "question": "A Positron Emission Tomography (PET) scan uses ____.",
       "options": [
-        "sound waves to create images",
+        "Embryo gets continuous nutrition from mother",
         "a special dye containing radioactive tracers",
-        "a needle to sample blood",
-        "a magnet to align body cells"
+        "the chemical composition of medicinal plants",
+        "gives birth to live young offspring directly"
       ],
       "correctAnswer": "a special dye containing radioactive tracers"
     },
@@ -339,10 +339,10 @@
       "anki": true,
       "question": "GPS is a device used to collect ____.",
       "options": [
-        "the amount of HCG in urine",
-        "X-ray pictures of the body",
+        "the process of subjecting animals and plants to various experiments and rigorous tests",
         "biogeographical information on landscape mapping, plants, animals and human movements",
-        "blood sugar readings from the fingertip"
+        "identifying scientific information and imitating biotechnological devices from nature",
+        "They can remain fully active at ambient temperatures far below their core temperature."
       ],
       "correctAnswer": "biogeographical information on landscape mapping, plants, animals and human movements"
     },
@@ -350,10 +350,10 @@
       "anki": true,
       "question": "According to the unit summary, biology is dependent on technology in terms of using devices, likewise technology is dependent on biology in terms of ____.",
       "options": [
-        "producing industrial machines and tools",
-        "manufacturing vehicles and roads",
         "identifying scientific information and imitating biotechnological devices from nature",
-        "designing buildings and bridges"
+        "They can remain fully active at ambient temperatures far below their core temperature.",
+        "biogeographical information on landscape mapping, plants, animals and human movements",
+        "affects the survival of the plant species and the community that depends on the plants"
       ],
       "correctAnswer": "identifying scientific information and imitating biotechnological devices from nature",
       "id": 29
@@ -364,7 +364,7 @@
       "options": [
         "geological maps",
         "mechanical gears",
-        "musical notes",
+        "Bones and cartilage",
         "molecular analogues"
       ],
       "correctAnswer": "molecular analogues",
@@ -398,10 +398,10 @@
       "anki": true,
       "question": "Scientists and engineers imitate nature to innovate, problem solve and ____.",
       "options": [
-        "avoid using technological tools",
+        "ultrasonic echolocation call patterns",
+        "reduce their contact with nature",
         "limit their laboratory experiments",
-        "expand their scientific understanding",
-        "reduce their contact with nature"
+        "expand their scientific understanding"
       ],
       "correctAnswer": "expand their scientific understanding",
       "id": 33
@@ -410,10 +410,10 @@
       "anki": true,
       "question": "The practical application of biotechnological instruments provides required human services and ____.",
       "options": [
-        "replacements for all teachers",
+        "microscopic riblet structure of shark skin",
+        "investigations of new biological questions",
         "entertainment for students only",
-        "destruction of biological samples",
-        "investigations of new biological questions"
+        "destruction of biological samples"
       ],
       "correctAnswer": "investigations of new biological questions",
       "id": 34
@@ -423,9 +423,9 @@
       "question": "Environmental studies is a multidisciplinary system dealing with ____.",
       "options": [
         "the interactions of humans with the environment",
-        "the production of yeast for bread",
         "the sum of techniques used in service delivery",
-        "the classification of animals into vertebrates"
+        "the classification of animals into vertebrates",
+        "lightweight, strong hexagonal structural panels"
       ],
       "correctAnswer": "the interactions of humans with the environment",
       "id": 35
@@ -494,10 +494,10 @@
       "anki": true,
       "question": "A PET scan visualizes and measures changes in metabolic processes and physiological activities like ____.",
       "options": [
-        "blood flow, chemical composition, and absorption",
-        "height, weight, and shoe size",
+        "hair color, eye color, and skin tone",
         "reading speed, writing speed, and typing speed",
-        "hair color, eye color, and skin tone"
+        "They represent the most diverse group of animals",
+        "blood flow, chemical composition, and absorption"
       ],
       "correctAnswer": "blood flow, chemical composition, and absorption",
       "id": 41
@@ -506,10 +506,10 @@
       "anki": true,
       "question": "A CT scan is used to detect and screen for a variety of ____.",
       "options": [
-        "mathematical equations",
+        "stronger building beams",
         "musical instruments",
         "diseases and conditions",
-        "agricultural tools"
+        "mathematical equations"
       ],
       "correctAnswer": "diseases and conditions",
       "id": 42
@@ -518,10 +518,10 @@
       "anki": true,
       "question": "According to the unit summary, biotechnological devices are tools used to solve day-to-day biological tasks and ____.",
       "options": [
-        "replace all living organisms in nature",
-        "prevent students from doing laboratory work",
-        "support the discovery of more information in the course of biological studies",
-        "reduce the need for biological knowledge"
+        "Asexual reproduction is more common among vertebrates than among invertebrates",
+        "Vertebrates have a centralized nervous system with a brain and sensory organs",
+        "a sophisticated x-ray technology used to take many x-ray pictures of the body",
+        "support the discovery of more information in the course of biological studies"
       ],
       "correctAnswer": "support the discovery of more information in the course of biological studies",
       "id": 43
@@ -530,10 +530,10 @@
       "anki": true,
       "question": "Biotechnology is the use of biology to develop new products, methods and organisms intended to ____.",
       "options": [
+        "high blood pressure and diabetes",
         "increase industrial pollution",
-        "improve human health and society",
-        "limit the study of life",
-        "reduce the diversity of nature"
+        "reduce the diversity of nature",
+        "improve human health and society"
       ],
       "correctAnswer": "improve human health and society",
       "id": 44

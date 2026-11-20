@@ -14,10 +14,10 @@
       "id": 1,
       "question": "What is the primary function of the circulatory system?",
       "options": [
-        "To produce hormones",
-        "To filter waste",
-        "To digest food",
-        "To move blood throughout the body"
+        "The time of day an organism feeds",
+        "The plant storage form of glucose",
+        "To move blood throughout the body",
+        "A type of Ethiopian microorganism"
       ],
       "correctAnswer": "To move blood throughout the body"
     },
@@ -47,10 +47,10 @@
       "id": 4,
       "question": "What does the circulatory system carry from cells in one part of the body to distant target tissues?",
       "options": [
-        "Chemical messages",
-        "Nutrients",
+        "They produce bile",
         "Waste products",
-        "Blood cells"
+        "Blood cells",
+        "Chemical messages"
       ],
       "correctAnswer": "Chemical messages"
     },
@@ -279,9 +279,9 @@
       "question": "What are the lower chambers of the heart called?",
       "options": [
         "Septum",
-        "Auricles",
         "Ventricles",
-        "Atria"
+        "Hard shell",
+        "Auricles"
       ],
       "correctAnswer": "Ventricles"
     },
@@ -311,10 +311,10 @@
       "id": 28,
       "question": "Which valve separates the left atrium from the left ventricle?",
       "options": [
-        "Aortic valve",
-        "Pulmonary valve",
         "Tricuspid valve",
-        "Bicuspid (Mitral) valve"
+        "Bicuspid (Mitral) valve",
+        "Enamel can be worn away",
+        "Pulmonary valve"
       ],
       "correctAnswer": "Bicuspid (Mitral) valve"
     },
@@ -322,10 +322,10 @@
       "id": 29,
       "question": "Which valve separates the right ventricle from the pulmonary artery?",
       "options": [
-        "Tricuspid valve",
-        "Bicuspid valve",
+        "In the center of the bundle",
         "Semilunar valve (Pulmonary)",
-        "Mitral valve"
+        "Tricuspid valve",
+        "Plant breeding and genetics"
       ],
       "correctAnswer": "Semilunar valve (Pulmonary)"
     },
@@ -333,9 +333,9 @@
       "id": 30,
       "question": "Which valve separates the left ventricle from the aorta?",
       "options": [
-        "Tricuspid valve",
         "Pulmonary valve",
-        "Bicuspid valve",
+        "Tricuspid valve",
+        "To administer anesthesia",
         "Semilunar valve (Aortic)"
       ],
       "correctAnswer": "Semilunar valve (Aortic)"
@@ -344,10 +344,10 @@
       "id": 31,
       "question": "Why are semilunar valves called semilunar?",
       "options": [
-        "They are circular",
-        "They are rectangular",
         "They are triangular",
-        "They are half-moon-shaped"
+        "They are half-moon-shaped",
+        "Synthetic growth hormones",
+        "They are rectangular"
       ],
       "correctAnswer": "They are half-moon-shaped"
     },
@@ -411,9 +411,9 @@
       "question": "Pulmonary circulation is the movement of blood from the heart to where?",
       "options": [
         "To the lungs for oxygenation",
-        "To the kidneys",
-        "To the liver",
-        "To the body tissues"
+        "A single path of energy flow",
+        "To the body tissues",
+        "Lower right abdominal cavity"
       ],
       "correctAnswer": "To the lungs for oxygenation"
     },
@@ -421,10 +421,10 @@
       "id": 38,
       "question": "Through which vessels does oxygen-depleted blood enter the right atrium?",
       "options": [
-        "Aorta",
-        "Pulmonary veins",
+        "Proximal, distal, medial, lateral",
+        "It has no effect on boiling point",
         "Superior and inferior venae cavae",
-        "Pulmonary arteries"
+        "Only animal behavior and genetics"
       ],
       "correctAnswer": "Superior and inferior venae cavae"
     },
@@ -432,10 +432,10 @@
       "id": 39,
       "question": "Through which valve does blood pass from the right atrium to the right ventricle?",
       "options": [
-        "Mitral valve",
+        "Tricuspid valve",
         "Aortic valve",
         "Bicuspid valve",
-        "Tricuspid valve"
+        "The chromosomes"
       ],
       "correctAnswer": "Tricuspid valve"
     },
@@ -443,10 +443,10 @@
       "id": 40,
       "question": "Where does the pulmonary artery split to travel to each lung?",
       "options": [
-        "Into right and left pulmonary veins",
-        "Into bronchial arteries",
+        "Proteins found in aqueous environments",
         "Into right and left pulmonary arteries",
-        "Into alveolar capillaries"
+        "Into right and left pulmonary veins",
+        "James Watson and Francis Crick in 1953"
       ],
       "correctAnswer": "Into right and left pulmonary arteries"
     },
@@ -454,10 +454,10 @@
       "id": 41,
       "question": "Systemic circulation is the movement of blood from the heart where?",
       "options": [
-        "To the digestive system",
-        "To the lungs",
         "Through the body to provide oxygen and nutrients",
-        "To the heart only"
+        "The organism develops a new combination of genes",
+        "The amount of air entering and leaving the lungs",
+        "Chlorophyll a and b and other accessory pigments"
       ],
       "correctAnswer": "Through the body to provide oxygen and nutrients"
     },
@@ -498,10 +498,10 @@
       "id": 45,
       "question": "Into which arteries does the aorta branch to supply the lower parts of the body?",
       "options": [
-        "Brachial and femoral",
         "Mesenteric and hepatic",
-        "Carotid and subclavian",
-        "Iliac, renal, and suprarenal"
+        "Iliac, renal, and suprarenal",
+        "Lower right abdominal cavity",
+        "Carotid and subclavian"
       ],
       "correctAnswer": "Iliac, renal, and suprarenal"
     },
@@ -522,7 +522,7 @@
       "options": [
         "Capillaries",
         "Arterioles",
-        "Veins",
+        "Pollination",
         "Arteries"
       ],
       "correctAnswer": "Capillaries"
@@ -531,10 +531,10 @@
       "id": 48,
       "question": "What diffuses out of the cell into the blood in the capillaries?",
       "options": [
-        "Metabolic waste and carbon dioxide",
-        "Oxygen and glucose",
-        "Hormones",
-        "Nutrients"
+        "First female professor in Ethiopia",
+        "When the cell membrane breaks down",
+        "Zoology, Anatomy, and Microbiology",
+        "Metabolic waste and carbon dioxide"
       ],
       "correctAnswer": "Metabolic waste and carbon dioxide"
     },
@@ -542,9 +542,9 @@
       "id": 49,
       "question": "What diffuses out of the blood and into the cell in the capillaries?",
       "options": [
-        "Urea",
-        "Hormones",
+        "Amino Triphosphate",
         "Carbon dioxide and waste",
+        "Hormones",
         "Oxygen and glucose"
       ],
       "correctAnswer": "Oxygen and glucose"
@@ -553,10 +553,10 @@
       "id": 50,
       "question": "Which tissue is supplied by pulmonary circulation instead of systemic circulation?",
       "options": [
-        "Liver tissue",
-        "Parenchyma of the lungs",
+        "Only through water flow",
         "Brain tissue",
-        "Heart muscle"
+        "Heart muscle",
+        "Parenchyma of the lungs"
       ],
       "correctAnswer": "Parenchyma of the lungs"
     },
@@ -575,9 +575,9 @@
       "id": 52,
       "question": "What is the period of time that begins with contraction of the atria and ends with ventricular relaxation called?",
       "options": [
-        "Systole",
-        "Heart rate",
         "Diastole",
+        "Heart rate",
+        "Only proteins",
         "Cardiac cycle"
       ],
       "correctAnswer": "Cardiac cycle"
@@ -608,10 +608,10 @@
       "id": 55,
       "question": "What diagnostic technique involves listening to internal sounds using a stethoscope?",
       "options": [
-        "Auscultation",
-        "Inspection",
         "Percussion",
-        "Palpation"
+        "Auscultation",
+        "Homo sapiens",
+        "Inspection"
       ],
       "correctAnswer": "Auscultation"
     },
@@ -630,10 +630,10 @@
       "id": 57,
       "question": "What causes the Lub heart sound?",
       "options": [
-        "Closing of semilunar valves",
         "Blood entering the aorta",
-        "Ventricular relaxation",
-        "Closing of atrioventricular valves"
+        "First female professor in Ethiopia",
+        "Closing of atrioventricular valves",
+        "Closing of semilunar valves"
       ],
       "correctAnswer": "Closing of atrioventricular valves"
     },
@@ -696,10 +696,10 @@
       "id": 63,
       "question": "What is blood pressure?",
       "options": [
-        "The speed of blood flow",
+        "The shoot could no longer bend toward the light",
         "The number of heart beats per minute",
-        "The volume of blood in the body",
-        "The force of blood on the walls of the arteries"
+        "The force of blood on the walls of the arteries",
+        "Microbial denitrification in the nitrogen cycle"
       ],
       "correctAnswer": "The force of blood on the walls of the arteries"
     },
@@ -718,10 +718,10 @@
       "id": 65,
       "question": "Which artery is used to measure blood pressure in the arm?",
       "options": [
-        "Brachial artery",
         "Carotid artery",
-        "Radial artery",
-        "Femoral artery"
+        "Brachial artery",
+        "Femoral artery",
+        "Epidermal cells"
       ],
       "correctAnswer": "Brachial artery"
     },
@@ -740,10 +740,10 @@
       "id": 67,
       "question": "In what units is blood pressure measured?",
       "options": [
-        "Atmospheres",
-        "Pascals",
-        "Bars",
-        "Millimeters of mercury (mmHg)"
+        "Animals, plants, and minerals",
+        "Millimeters of mercury (mmHg)",
+        "The study of living organisms",
+        "In the ovule within the ovary"
       ],
       "correctAnswer": "Millimeters of mercury (mmHg)"
     },
@@ -762,10 +762,10 @@
       "id": 69,
       "question": "What causes diastolic blood pressure to fall?",
       "options": [
-        "Stress",
-        "Eating",
-        "Reduced filling such as from internal hemorrhage",
-        "Exercise"
+        "Present in young roots while absent in old roots",
+        "The organism develops a new combination of genes",
+        "Chlorophyll a and b and other accessory pigments",
+        "Reduced filling such as from internal hemorrhage"
       ],
       "correctAnswer": "Reduced filling such as from internal hemorrhage"
     },
@@ -829,9 +829,9 @@
       "question": "What is the primary function of red blood cells?",
       "options": [
         "Carry oxygen to tissues",
-        "Help blood clot",
-        "Fight infections",
-        "Transport hormones"
+        "Fatty acids and glucose",
+        "Transport hormones",
+        "Fight infections"
       ],
       "correctAnswer": "Carry oxygen to tissues"
     },
@@ -906,9 +906,9 @@
       "question": "At what rate are red blood cells produced?",
       "options": [
         "1 million per second",
-        "500,000 per second",
-        "2 to 3 million per second",
-        "5 million per second"
+        "Excess copper in the body",
+        "5 million per second",
+        "2 to 3 million per second"
       ],
       "correctAnswer": "2 to 3 million per second"
     },
@@ -916,10 +916,10 @@
       "id": 83,
       "question": "What protein makes up 95% of a red blood cell?",
       "options": [
+        "Haemoglobin",
         "Myoglobin",
-        "Albumin",
         "Fibrinogen",
-        "Haemoglobin"
+        "About 15 cm"
       ],
       "correctAnswer": "Haemoglobin"
     },
@@ -949,10 +949,10 @@
       "id": 86,
       "question": "Why do anemic people feel fatigued?",
       "options": [
-        "Due to low blood sugar",
-        "Due to excess iron",
+        "It has an extra oxygen atom",
         "Due to a shortage of oxygen",
-        "Due to high blood pressure"
+        "Due to high blood pressure",
+        "Due to low blood sugar"
       ],
       "correctAnswer": "Due to a shortage of oxygen"
     },
@@ -960,10 +960,10 @@
       "id": 87,
       "question": "What is the colour of blood primarily due to?",
       "options": [
-        "Plasma",
-        "Platelets",
         "White blood cells",
-        "Oxygenated red cells"
+        "The discovery of DNA",
+        "Oxygenated red cells",
+        "Platelets"
       ],
       "correctAnswer": "Oxygenated red cells"
     },
@@ -971,10 +971,10 @@
       "id": 88,
       "question": "How do fetal haemoglobin molecules differ from adult haemoglobin?",
       "options": [
-        "In colour",
-        "In iron content",
+        "Secondary and tertiary bronchi",
         "In number of amino acid chains",
-        "In size"
+        "Food from entering the stomach",
+        "Plants feed on other organisms"
       ],
       "correctAnswer": "In number of amino acid chains"
     },
@@ -982,9 +982,9 @@
       "id": 89,
       "question": "How many amino acid chains does fetal haemoglobin have?",
       "options": [
-        "Five",
         "Three",
-        "Two",
+        "Liver",
+        "Five",
         "Four"
       ],
       "correctAnswer": "Three"
@@ -1004,9 +1004,9 @@
       "id": 91,
       "question": "Why does losing the nucleus give red blood cells more space?",
       "options": [
-        "For water",
-        "For oxygen",
         "For haemoglobin",
+        "The chromosomes",
+        "For oxygen",
         "For glucose"
       ],
       "correctAnswer": "For haemoglobin"
@@ -1026,10 +1026,10 @@
       "id": 93,
       "question": "What advantage does the biconcave shape give red blood cells?",
       "options": [
-        "More strength",
-        "Better attachment",
-        "Faster movement",
-        "Larger surface area for gaseous diffusion"
+        "Larger surface area for gaseous diffusion",
+        "Shorter urethra providing less protection",
+        "The molecule dissolves the ion completely",
+        "Heart rate more than 100 beats per minute"
       ],
       "correctAnswer": "Larger surface area for gaseous diffusion"
     },
@@ -1037,9 +1037,9 @@
       "id": 94,
       "question": "What enables oxygen and carbon dioxide to diffuse in and out of red blood cells rapidly?",
       "options": [
-        "Large nucleus",
-        "Thick membrane",
-        "Many organelles",
+        "By cell growth without division",
+        "They only flow in one direction",
+        "Enzymes, hormones, DNA, and RNA",
         "Very thin cell surface membrane"
       ],
       "correctAnswer": "Very thin cell surface membrane"
@@ -1048,10 +1048,10 @@
       "id": 95,
       "question": "What allows red blood cells to squeeze along the narrowest blood capillaries?",
       "options": [
-        "Round shape",
-        "Small size",
+        "A type of cytoplasmic division",
         "Flexible cell surface membrane",
-        "Hard shell"
+        "They have no cell cycle at all",
+        "Inhalation and exhalation only"
       ],
       "correctAnswer": "Flexible cell surface membrane"
     },
@@ -1081,10 +1081,10 @@
       "id": 98,
       "question": "Where else besides blood are white blood cells found?",
       "options": [
-        "Only in the thymus",
-        "Only in bone marrow",
+        "Palisade layer and spongy layer",
+        "It is stored in the chloroplast",
         "Spleen, liver, and lymph glands",
-        "Only in lymph"
+        "Only in bone marrow"
       ],
       "correctAnswer": "Spleen, liver, and lymph glands"
     },
@@ -1103,9 +1103,9 @@
       "id": 100,
       "question": "Where are some white blood cells produced besides the bone marrow?",
       "options": [
+        "Lipid layers",
         "Spleen",
         "Thymus gland",
-        "Liver",
         "Kidneys"
       ],
       "correctAnswer": "Thymus gland"
@@ -1115,9 +1115,9 @@
       "question": "Where is the thymus gland located?",
       "options": [
         "Behind the stomach",
-        "In the head",
-        "At the base of the neck",
-        "In the chest"
+        "Soil and water fixation",
+        "In the chest",
+        "At the base of the neck"
       ],
       "correctAnswer": "At the base of the neck"
     },
@@ -1136,10 +1136,10 @@
       "id": 103,
       "question": "How long do individual white blood cells usually last?",
       "options": [
-        "5 to 7 days",
-        "18 to 36 hours",
+        "2 to 3 days",
         "6 to 12 hours",
-        "2 to 3 days"
+        "Emulsification",
+        "18 to 36 hours"
       ],
       "correctAnswer": "18 to 36 hours"
     },
@@ -1191,10 +1191,10 @@
       "id": 108,
       "question": "What do platelets collect at to form a temporary plug?",
       "options": [
+        "Bones, muscles, cell membrane, and skin",
+        "Monocytes, macrophages, dendritic cells",
         "Where a damaged blood vessel is leaking",
-        "In the spleen",
-        "In lymph nodes",
-        "In bone marrow"
+        "Chromosomal DNA and associated proteins"
       ],
       "correctAnswer": "Where a damaged blood vessel is leaking"
     },
@@ -1202,10 +1202,10 @@
       "id": 109,
       "question": "What protein do platelets combine with to form a temporary plug?",
       "options": [
-        "Keratin",
-        "Fibrin",
         "Elastin",
-        "Collagen"
+        "Collagen",
+        "Keratin",
+        "23 pairs"
       ],
       "correctAnswer": "Collagen"
     },
@@ -1280,9 +1280,9 @@
       "question": "What colour is plasma?",
       "options": [
         "Yellow-tinted",
-        "Red",
-        "Clear",
-        "White"
+        "White",
+        "Lymph vessels",
+        "Clear"
       ],
       "correctAnswer": "Yellow-tinted"
     },
@@ -1312,10 +1312,10 @@
       "id": 119,
       "question": "What does blood grouping depend on?",
       "options": [
-        "The type of white blood cells",
-        "The number of platelets",
+        "It grows straight because rotation overcomes gravity",
         "Which antigens are on the surface of red blood cells",
-        "The amount of plasma"
+        "Prophase I, metaphase I, anaphase I, and telophase I",
+        "It makes water more resistant to temperature changes"
       ],
       "correctAnswer": "Which antigens are on the surface of red blood cells"
     },
@@ -1334,8 +1334,8 @@
       "id": 121,
       "question": "Scientists use which two types of antigens to classify blood types?",
       "options": [
+        "Combustion and decomposition",
         "Rh and Kell antigens",
-        "A and B antigens",
         "ABO antigens and Rh antigens",
         "M and N antigens"
       ],
@@ -1345,10 +1345,10 @@
       "id": 122,
       "question": "Which cells produce antibodies?",
       "options": [
-        "Platelets",
+        "Red blood cells",
         "Plasma cells",
-        "White blood cells",
-        "Red blood cells"
+        "Triple the number",
+        "White blood cells"
       ],
       "correctAnswer": "White blood cells"
     },
@@ -1400,10 +1400,10 @@
       "id": 127,
       "question": "Blood group AB has which antigens on red blood cells?",
       "options": [
-        "Both A and B antigens",
         "B antigen only",
-        "No antigens",
-        "A antigen only"
+        "Both A and B antigens",
+        "A antigen only",
+        "Teeth become stronger"
       ],
       "correctAnswer": "Both A and B antigens"
     },
@@ -1411,10 +1411,10 @@
       "id": 128,
       "question": "Blood group AB has which antibodies in the plasma?",
       "options": [
+        "Remove nutrients from the soil",
+        "No anti-A or anti-B antibodies",
         "Both anti-A and anti-B",
-        "Anti-A",
-        "Anti-B",
-        "No anti-A or anti-B antibodies"
+        "Anchoring against strong winds"
       ],
       "correctAnswer": "No anti-A or anti-B antibodies"
     },
@@ -1433,7 +1433,7 @@
       "id": 130,
       "question": "Blood group O has which antibodies in the plasma?",
       "options": [
-        "Only anti-A",
+        "A hollow ball of cells",
         "No antibodies",
         "Both anti-A and anti-B",
         "Only anti-B"
@@ -1444,10 +1444,10 @@
       "id": 131,
       "question": "Which blood group can receive any ABO blood type?",
       "options": [
-        "Group O",
-        "Group AB",
         "Group B",
-        "Group A"
+        "Tapeworm",
+        "Group A",
+        "Group AB"
       ],
       "correctAnswer": "Group AB"
     },
@@ -1522,9 +1522,9 @@
       "question": "What condition occurs when an Rh- mother's antibodies attack the red blood cells of an Rh+ fetus?",
       "options": [
         "Erythroblastosis fetalis",
-        "Thalassemia",
-        "Anemia",
-        "Leukemia"
+        "Studying animal behavior",
+        "Wilhelm Roentgen in 1901",
+        "Ineffective and wasteful"
       ],
       "correctAnswer": "Erythroblastosis fetalis"
     },
@@ -1543,10 +1543,10 @@
       "id": 140,
       "question": "What happens to the mother's immune system when exposed to Rh+ antigens?",
       "options": [
-        "It ignores them",
         "It destroys them immediately",
-        "It triggers the production of antibodies",
-        "It becomes tolerant"
+        "Radicle, epicotyl, hypocotyl and plumule",
+        "The homeless in Addis Ababa Municipality",
+        "It triggers the production of antibodies"
       ],
       "correctAnswer": "It triggers the production of antibodies"
     },
@@ -1554,10 +1554,10 @@
       "id": 141,
       "question": "What are symptoms of erythroblastosis fetalis?",
       "options": [
-        "Cough and difficulty breathing",
         "Anemia, jaundice, and enlarged liver",
-        "Fever and rash",
-        "Headache and nausea"
+        "Cough and difficulty breathing",
+        "Enzymes, haemoglobin, and antibodies",
+        "A cluster of many individual alveoli"
       ],
       "correctAnswer": "Anemia, jaundice, and enlarged liver"
     },
@@ -1565,10 +1565,10 @@
       "id": 142,
       "question": "What is the process of transferring blood from a healthy person to a person deficient in blood called?",
       "options": [
-        "Blood clotting",
-        "Blood transfusion",
+        "Anther and ovules",
         "Blood donation",
-        "Blood typing"
+        "Blood transfusion",
+        "Blood clotting"
       ],
       "correctAnswer": "Blood transfusion"
     },
@@ -1576,10 +1576,10 @@
       "id": 143,
       "question": "What is the phenomenon when red blood cells stick together due to incompatible blood types?",
       "options": [
+        "Agglutination",
         "Phagocytosis",
         "Coagulation",
-        "Hemolysis",
-        "Agglutination"
+        "In the thymus"
       ],
       "correctAnswer": "Agglutination"
     },
@@ -1598,10 +1598,10 @@
       "id": 145,
       "question": "Which blood group is termed the Universal Recipient?",
       "options": [
+        "46",
         "AB",
-        "B",
-        "A",
-        "O"
+        "O",
+        "A"
       ],
       "correctAnswer": "AB"
     },
@@ -1642,9 +1642,9 @@
       "id": 149,
       "question": "What prevents back flow of fluid in lymphatic vessels?",
       "options": [
-        "Muscles",
-        "Pumps",
         "Flap-like valves",
+        "Muscles",
+        "20 to 25 percent",
         "Gravity"
       ],
       "correctAnswer": "Flap-like valves"
@@ -1653,10 +1653,10 @@
       "id": 150,
       "question": "Through which veins does the lymphatic system return lymph to the venous system?",
       "options": [
-        "Hepatic veins",
-        "Jugular veins",
-        "Femoral veins",
-        "Right and left subclavian veins"
+        "Diploid ($2n$) to haploid ($n$)",
+        "Right and left subclavian veins",
+        "The cloning of the first mammal",
+        "$pH$ 7 to 8 (slightly alkaline)"
       ],
       "correctAnswer": "Right and left subclavian veins"
     },
@@ -1675,10 +1675,10 @@
       "id": 152,
       "question": "What process do white blood cells in lymph nodes use to filter out bacteria?",
       "options": [
-        "Exocytosis",
         "Phagocytosis",
-        "Pinocytosis",
-        "Osmosis"
+        "Exocytosis",
+        "Ye-kosso Zaf",
+        "Pinocytosis"
       ],
       "correctAnswer": "Phagocytosis"
     },
@@ -1719,10 +1719,10 @@
       "id": 156,
       "question": "Which lymphatic duct drains lymph from the upper right quadrant of the body?",
       "options": [
+        "Subclavian duct",
         "Right lymphatic duct",
-        "Thoracic duct",
         "Left lymphatic duct",
-        "Subclavian duct"
+        "Oxygenated red cells"
       ],
       "correctAnswer": "Right lymphatic duct"
     },
@@ -1741,10 +1741,10 @@
       "id": 158,
       "question": "What causes the pressure gradients that move lymph through vessels?",
       "options": [
-        "Gravity",
         "Skeletal muscle action, respiratory movement, and smooth muscle contraction",
-        "Blood pressure",
-        "Heart beat"
+        "A condition where the mucous lining of the bronchial tubes becomes inflamed",
+        "Because glucose would dissolve and compromise the cell's osmotic properties",
+        "The amount of energy, biomass, or number of organisms at each trophic level"
       ],
       "correctAnswer": "Skeletal muscle action, respiratory movement, and smooth muscle contraction"
     },
@@ -1752,10 +1752,10 @@
       "id": 159,
       "question": "Where are lymphocytes formed alongside other types of blood cells?",
       "options": [
+        "In blood plasma",
+        "Red bone marrow",
         "Lymph nodes",
-        "Thymus",
-        "Spleen",
-        "Red bone marrow"
+        "Spleen"
       ],
       "correctAnswer": "Red bone marrow"
     },
@@ -1786,9 +1786,9 @@
       "question": "What is the function of the thymus?",
       "options": [
         "Processes and matures T-lymphocytes",
-        "Produces bile",
-        "Stores urine",
-        "Filters blood"
+        "Botanist, physician, and naturalist",
+        "Abnormal iron deposits in the liver",
+        "Water freezing at high temperatures"
       ],
       "correctAnswer": "Processes and matures T-lymphocytes"
     },
@@ -1796,10 +1796,10 @@
       "id": 163,
       "question": "Where is the thymus located?",
       "options": [
-        "Posterior to the sternum",
+        "Abdominal pain, diarrhea",
         "In the abdominal cavity",
-        "In the pelvic cavity",
-        "Behind the kidneys"
+        "Posterior to the sternum",
+        "In the pelvic cavity"
       ],
       "correctAnswer": "Posterior to the sternum"
     },
@@ -1829,10 +1829,10 @@
       "id": 166,
       "question": "What is leukemia?",
       "options": [
-        "A heart condition",
-        "A disease of the lymph nodes",
-        "A type of cancer affecting blood-forming tissues",
-        "A blood clotting disorder"
+        "Transfer between two flowers on different plants",
+        "Mechanical injury and entry of harmful organisms",
+        "Reduced filling such as from internal hemorrhage",
+        "A type of cancer affecting blood-forming tissues"
       ],
       "correctAnswer": "A type of cancer affecting blood-forming tissues"
     },
@@ -1840,10 +1840,10 @@
       "id": 167,
       "question": "What are the symptoms of rapidly progressing leukemia?",
       "options": [
-        "Joint pain and swelling",
-        "Fever and chills",
+        "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
+        "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
         "Fatigue, weight loss, frequent infections, easy bleeding or bruising",
-        "Cough and shortness of breath"
+        "It is pushed up to become the photosynthetic surface of the seedling"
       ],
       "correctAnswer": "Fatigue, weight loss, frequent infections, easy bleeding or bruising"
     },
@@ -1851,10 +1851,10 @@
       "id": 168,
       "question": "What is used to treat aggressive leukemia?",
       "options": [
+        "In waterlogged soils (anoxic), layers of sediments in lakes and oceans",
         "Chemotherapy, sometimes followed by radiation and stem-cell transplant",
-        "Only medication",
-        "Surgery only",
-        "Blood transfusion only"
+        "Topmost physician administrator in charge of medical services division",
+        "It acts like a heat-trapping blanket, absorbing heat and holding it in"
       ],
       "correctAnswer": "Chemotherapy, sometimes followed by radiation and stem-cell transplant"
     },
@@ -1862,10 +1862,10 @@
       "id": 169,
       "question": "What are varicose veins?",
       "options": [
-        "Hardened arteries",
-        "Enlarged, swollen, and twisting veins",
         "Blocked lymphatic vessels",
-        "Narrowed arteries"
+        "Carbon, nitrogen, and phosphorus only",
+        "Glucose, phosphate, and nitrogen base",
+        "Enlarged, swollen, and twisting veins"
       ],
       "correctAnswer": "Enlarged, swollen, and twisting veins"
     },
@@ -1873,10 +1873,10 @@
       "id": 170,
       "question": "What colour do varicose veins often have?",
       "options": [
-        "Green",
-        "Yellow",
-        "Red",
-        "Blue or dark purple"
+        "To the body tissues",
+        "Blue or dark purple",
+        "Soil water pressure",
+        "Develops into roots"
       ],
       "correctAnswer": "Blue or dark purple"
     },
@@ -1895,10 +1895,10 @@
       "id": 172,
       "question": "Which group of people is more prone to varicose veins?",
       "options": [
-        "Children",
-        "Pregnant women and overweight people",
-        "Athletes",
-        "Elderly men only"
+        "Psychology, sociology, and economics",
+        "Well-developed root, stem and leaves",
+        "Neutral atoms with full outer shells",
+        "Pregnant women and overweight people"
       ],
       "correctAnswer": "Pregnant women and overweight people"
     },
@@ -1906,10 +1906,10 @@
       "id": 173,
       "question": "What is elephantiasis caused by?",
       "options": [
-        "Viral infection",
-        "High blood pressure",
-        "Blockage in the lymphatic system",
-        "Heart disease"
+        "Only by processes that absorb it",
+        "Four genetically different cells",
+        "Living cells arranged end to end",
+        "Blockage in the lymphatic system"
       ],
       "correctAnswer": "Blockage in the lymphatic system"
     },
@@ -1917,10 +1917,10 @@
       "id": 174,
       "question": "What causes elephantiasis?",
       "options": [
+        "Globular proteins that catalyze reactions",
+        "A device that records electrical activity",
         "Parasitic worms transmitted by mosquitoes",
-        "Fungus",
-        "Bacteria",
-        "Virus"
+        "Shorter urethra providing less protection"
       ],
       "correctAnswer": "Parasitic worms transmitted by mosquitoes"
     },
@@ -1928,10 +1928,10 @@
       "id": 175,
       "question": "Which worms are involved in causing elephantiasis?",
       "options": [
+        "Plant response to light, mainly exhibited by the shoot",
         "Wuchereria bancrofti, Brugia malayi, and Brugia timori",
-        "Schistosoma and Necator",
-        "Ascaris, Trichinella, and Taenia",
-        "Enterobius and Ancylostoma"
+        "Absorbing water and minerals close to the soil surface",
+        "Legumes, red meat, liver, spinach, pumpkin seeds, fish"
       ],
       "correctAnswer": "Wuchereria bancrofti, Brugia malayi, and Brugia timori"
     },
@@ -1939,10 +1939,10 @@
       "id": 176,
       "question": "What is atherosclerosis?",
       "options": [
-        "Blockage of lymph vessels",
-        "Accumulation of plaque in artery walls",
-        "Hardening of the veins",
-        "Inflammation of the heart"
+        "A flower that has stamen but no pistil",
+        "Because energy increases at each level",
+        "Sweat has a low specific heat capacity",
+        "Accumulation of plaque in artery walls"
       ],
       "correctAnswer": "Accumulation of plaque in artery walls"
     },
@@ -1950,10 +1950,10 @@
       "id": 177,
       "question": "What can result from a blood clot forming in narrowed arteries?",
       "options": [
+        "Varicose veins",
         "Heart attack or stroke",
         "Elephantiasis",
-        "Varicose veins",
-        "Leukemia"
+        "The structural protein"
       ],
       "correctAnswer": "Heart attack or stroke"
     },
@@ -1973,9 +1973,9 @@
       "question": "What is stroke?",
       "options": [
         "A cerebrovascular disease where blood supply to the brain is interrupted",
-        "A heart condition",
-        "A lung disease",
-        "A kidney disease"
+        "The product of leaves together with photosynthetic productivity of algae",
+        "The process of identifying, treating, and preventing infectious diseases",
+        "Because water is needed for photosynthesis and to support cell structure"
       ],
       "correctAnswer": "A cerebrovascular disease where blood supply to the brain is interrupted"
     },
@@ -1994,10 +1994,10 @@
       "id": 181,
       "question": "What causes a hemorrhagic stroke?",
       "options": [
-        "Narrowing of arteries",
         "A blood vessel in the brain bursts",
-        "Heart failure",
-        "A blood clot"
+        "During various metabolic processes",
+        "Barrel-shaped closely packed cells",
+        "$N_{2} + H_{2} \\rightarrow NH_{3}$"
       ],
       "correctAnswer": "A blood vessel in the brain bursts"
     },
@@ -2005,10 +2005,10 @@
       "id": 182,
       "question": "What is the most common cause of hemorrhagic stroke?",
       "options": [
-        "Diabetes",
+        "Thick-walled cells without intercellular spaces",
+        "Short distance for gas exchange through stomata",
         "Uncontrolled hypertension (high blood pressure)",
-        "Smoking",
-        "High cholesterol"
+        "Microbial denitrification in the nitrogen cycle"
       ],
       "correctAnswer": "Uncontrolled hypertension (high blood pressure)"
     },
@@ -2016,10 +2016,10 @@
       "id": 183,
       "question": "What is heart failure also known as?",
       "options": [
+        "Both innate and adaptive",
+        "Congestive heart failure",
         "Coronary artery disease",
-        "Heart attack",
-        "Cardiac arrest",
-        "Congestive heart failure"
+        "Cardiac arrest"
       ],
       "correctAnswer": "Congestive heart failure"
     },
@@ -2039,8 +2039,8 @@
       "question": "What is an abnormal heart rhythm called?",
       "options": [
         "Systole",
-        "Murmur",
         "Diastole",
+        "Androecium",
         "Arrhythmia"
       ],
       "correctAnswer": "Arrhythmia"
@@ -2049,9 +2049,9 @@
       "id": 186,
       "question": "What is bradycardia?",
       "options": [
-        "Skipped heartbeat",
         "Heart rate more than 100 beats per minute",
-        "Irregular heartbeat",
+        "A flower that has only sepals and petals",
+        "They do not exist in significant numbers",
         "Heart rate less than 60 beats per minute"
       ],
       "correctAnswer": "Heart rate less than 60 beats per minute"
@@ -2060,10 +2060,10 @@
       "id": 187,
       "question": "What is tachycardia?",
       "options": [
+        "It makes water boil at lower temperatures",
         "Heart rate less than 60 beats per minute",
-        "Heart murmur",
         "Heart rate more than 100 beats per minute",
-        "Irregular heartbeat"
+        "A traditional herbal medicine of Ethiopia"
       ],
       "correctAnswer": "Heart rate more than 100 beats per minute"
     }

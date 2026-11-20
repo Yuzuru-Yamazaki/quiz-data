@@ -63,11 +63,11 @@
     {
       "question": "The angle bisector of the acute angle formed at the origin by the graphs of the lines $y = x$ and $y = 3x$ has equation $y = kx$. What is $k$?",
       "options": [
+        "$\\frac{1 + \\sqrt{7}}{2}$",
+        "quantum key distribution",
         "$\\frac{2 + \\sqrt{3}}{2}$",
-        "$2$",
         "$\\frac{1 + \\sqrt{5}}{2}$",
-        "$\\frac{2 + \\sqrt{5}}{2}$",
-        "$\\frac{1 + \\sqrt{7}}{2}$"
+        "$\\frac{2 + \\sqrt{5}}{2}$"
       ],
       "correctAnswer": "$\\frac{1 + \\sqrt{5}}{2}$",
       "explanation": "",
@@ -265,11 +265,11 @@
     {
       "question": "A quadratic polynomial $p(x)$ with real coefficients and leading coefficient $1$ is called *disrespectful* if the equation $p(p(x)) = 0$ is satisfied by exactly three real numbers. Among all the disrespectful quadratic polynomials, there is a unique such polynomial $\\tilde{p}(x)$ for which the sum of the roots is maximized. What is $\\tilde{p}(1)$?",
       "options": [
+        "$\\frac{5}{8}$",
+        "$\\frac{23}{8}$",
         "$\\frac{9}{8}$",
-        "$1$",
-        "$\\frac{5}{16}$",
         "$\\frac{1}{2}$",
-        "$\\frac{5}{8}$"
+        "$\\frac{5}{16}$"
       ],
       "correctAnswer": "$\\frac{5}{16}$",
       "explanation": "",
@@ -283,11 +283,11 @@
     {
       "question": "A quadratic polynomial $p(x)$ with real coefficients and leading coefficient $1$ is called *disrespectful* if the equation $p(p(x)) = 0$ is satisfied by exactly three real numbers. Among all the disrespectful quadratic polynomials, there is a unique such polynomial $\\tilde{p}(x)$ for which the sum of the roots is maximized. What is $\\tilde{p}(1)$?",
       "options": [
-        "$\\frac{1}{2}$",
         "$\\frac{9}{8}$",
+        "will analyzing",
+        "$\\frac{1}{2}$",
         "$\\frac{5}{16}$",
-        "$\\frac{5}{8}$",
-        "$1$"
+        "$\\frac{5}{8}$"
       ],
       "correctAnswer": "$\\frac{5}{16}$",
       "explanation": "",
@@ -456,11 +456,11 @@
     {
       "question": "Let $\\alpha$ be the radian measure of the smallest angle in a $3$-$4$-$5$ right triangle. Let $\\beta$ be the radian measure of the smallest angle in a $7$-$24$-$25$ right triangle. In terms of $\\alpha$, what is $\\beta$?",
       "options": [
-        "$\\frac{\\pi}{2} - 2\\alpha$",
-        "$\\frac{\\alpha}{2}$",
+        "Center $(2,-1)$, radius 9",
         "$\\alpha - \\frac{\\pi}{8}$",
-        "$\\pi - 4\\alpha$",
-        "$\\frac{\\alpha}{3}$"
+        "$\\frac{\\alpha}{3}$",
+        "$\\frac{\\pi}{2} - 2\\alpha$",
+        "$\\frac{\\alpha}{2}$"
       ],
       "correctAnswer": "$\\frac{\\pi}{2} - 2\\alpha$",
       "explanation": "",
@@ -543,9 +543,9 @@
       "question": "On top of a rectangular card with sides of length $1$ and $2 + \\sqrt{3}$, an identical card is placed so that two of their diagonals line up, as shown ($AC$, in this case).\n![](attached_image_1.png)\nContinue the process, adding a third card to the second, and so on, lining up successive diagonals after rotating clockwise. In total, how many cards must be used until a vertex of a new card lands exactly on the vertex labeled $B$ in the figure?",
       "options": [
         "8",
-        "10",
         "6",
-        "No new vertex will land on $B$.",
+        "0",
+        "10",
         "12"
       ],
       "correctAnswer": "6",

@@ -14,10 +14,10 @@
       "id": 1,
       "question": "Besides food, what other organic products do plants produce?",
       "options": [
-        "Only carbon dioxide",
-        "Only water",
-        "Only oxygen",
-        "Products with ornamental, commercial and medicinal values"
+        "Anchorage and access to water and nutrients from the soil",
+        "Products with ornamental, commercial and medicinal values",
+        "It can reach nearby water bodies and cause eutrophication",
+        "A reproductive structure that contains a single large egg"
       ],
       "correctAnswer": "Products with ornamental, commercial and medicinal values"
     },
@@ -25,10 +25,10 @@
       "id": 2,
       "question": "What role do medicinal plants play?",
       "options": [
-        "A vital role in treating diseases and fighting infections",
-        "Only decorative purposes",
-        "Only food production",
-        "Only building materials"
+        "Water vapour (gas), ice or snow (solid), and liquid water",
+        "Anchorage and access to water and nutrients from the soil",
+        "$6CO_{2} + 6H_{2}O \\rightarrow C_{6}H_{12}O_{6} + 6O_{2}$",
+        "A vital role in treating diseases and fighting infections"
       ],
       "correctAnswer": "A vital role in treating diseases and fighting infections"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "What disease is treated by Ruta chalepensis?",
       "options": [
-        "Headache",
-        "Abdominal pain",
+        "Monocot plants",
         "Tapeworm",
-        "Asthma"
+        "Abdominal pain",
+        "Headache"
       ],
       "correctAnswer": "Abdominal pain"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "What part of Zingiber officinale is used?",
       "options": [
-        "Seed",
+        "Constricting blood vessels",
+        "Chemical pesticide hazards",
         "Rhizome (underground stem)",
-        "Leaf",
-        "Flower"
+        "It separates in some cells"
       ],
       "correctAnswer": "Rhizome (underground stem)"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "What diseases are treated by Zingiber officinale?",
       "options": [
+        "They cause water to become acidic",
         "Tonsilitis, abdominal pain, cough",
-        "Tapeworm, diarrhea",
-        "Headache, asthma",
-        "Malaria, fever"
+        "C, H, O, N, and sometimes P and S",
+        "Higher than 7.5 or lower than 7.0"
       ],
       "correctAnswer": "Tonsilitis, abdominal pain, cough"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What is the local name of Hagenia abysinica?",
       "options": [
-        "Tejsar",
-        "Ye-kosso Zaf",
         "Besobilla",
-        "Feto"
+        "A blood clot",
+        "Ye-kosso Zaf",
+        "Tejsar"
       ],
       "correctAnswer": "Ye-kosso Zaf"
     },
@@ -135,10 +135,10 @@
       "id": 12,
       "question": "What part of Hagenia abysinica is used and how?",
       "options": [
-        "Root, oral",
-        "Leaf, nasal",
-        "Female flower (Seed), oral",
-        "Bark, topical"
+        "Protection from herbivores",
+        "Due to high blood pressure",
+        "Present and well developed",
+        "Female flower (Seed), oral"
       ],
       "correctAnswer": "Female flower (Seed), oral"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What is the local name of Artemesia absinthium?",
       "options": [
-        "Aritii (Megagna)",
-        "Abish",
+        "Nechshinkurt",
         "Damakesse",
-        "Nechshinkurt"
+        "Body temperature",
+        "Aritii (Megagna)"
       ],
       "correctAnswer": "Aritii (Megagna)"
     },
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "What disease is treated by Artemesia absinthium?",
       "options": [
-        "Unexplained stomach ache",
-        "Bronchial asthma",
         "Intestinal parasites",
-        "Tonsilitis"
+        "Glomerular capillary bed",
+        "Unexplained stomach ache",
+        "Bronchial asthma"
       ],
       "correctAnswer": "Unexplained stomach ache"
     },
@@ -202,9 +202,9 @@
       "question": "What disease is treated by Nigella sativa?",
       "options": [
         "Abdominal pain",
-        "Tapeworm",
-        "Intestinal parasites",
-        "Diarrhea"
+        "The hydrologic cycle",
+        "Diarrhea",
+        "Intestinal parasites"
       ],
       "correctAnswer": "Intestinal parasites"
     },
@@ -234,10 +234,10 @@
       "id": 21,
       "question": "What diseases are treated by Ocimum lamifolium?",
       "options": [
-        "Intestinal parasites, diarrhea",
-        "Asthma, gastritis",
-        "Tapeworm, abdominal pain",
-        "Headache, general body illness (Mich)"
+        "A structural polysaccharide in plants",
+        "Headache, general body illness (Mich)",
+        "Additional hairy or winged structures",
+        "Intestinal parasites, diarrhea"
       ],
       "correctAnswer": "Headache, general body illness (Mich)"
     },
@@ -256,10 +256,10 @@
       "id": 23,
       "question": "What diseases are treated by Rosmarinus officinalis?",
       "options": [
+        "They respond normally to the cell cycle controlling system",
         "Bronchial asthma, prostate disorder, inflammatory diseases",
-        "Abdominal pain, diarrhea",
-        "Tapeworm, intestinal parasites",
-        "Common cold, fever"
+        "Fats serve as major fuel store and poor conductors of heat",
+        "Promotion of safe and sustainable use of natural resources"
       ],
       "correctAnswer": "Bronchial asthma, prostate disorder, inflammatory diseases"
     },
@@ -278,9 +278,9 @@
       "id": 25,
       "question": "What disease is treated by Cymbopogen citratus?",
       "options": [
-        "Headache",
-        "Tonsilitis",
         "Common cold",
+        "Tonsilitis",
+        "Internal Medicine",
         "Stomach complaint"
       ],
       "correctAnswer": "Stomach complaint"
@@ -290,9 +290,9 @@
       "question": "What is the local name of Allium sativum?",
       "options": [
         "Dubba",
-        "Feto",
-        "Nechshinkurt",
-        "Besobilla"
+        "Thymus gland",
+        "Besobilla",
+        "Nechshinkurt"
       ],
       "correctAnswer": "Nechshinkurt"
     },
@@ -311,10 +311,10 @@
       "id": 28,
       "question": "What diseases are treated by Allium sativum?",
       "options": [
-        "Fever, headache",
-        "Tapeworm, asthma",
-        "Intestinal parasites, diarrhea",
-        "Abdominal pain, toothache, tonsillitis, common cold"
+        "Viruses, bacteria, fungal infections, and parasites",
+        "Abdominal pain, toothache, tonsillitis, common cold",
+        "Monosaccharides, disaccharides, and polysaccharides",
+        "A flower that does not have either stamen or pistil"
       ],
       "correctAnswer": "Abdominal pain, toothache, tonsillitis, common cold"
     },
@@ -323,8 +323,8 @@
       "question": "What is the local name of Eucalyptus globulus?",
       "options": [
         "Ye-kosso Zaf",
-        "Tejsar",
         "Nech-Bahirzaf",
+        "Starch grains",
         "Teenadem"
       ],
       "correctAnswer": "Nech-Bahirzaf"
@@ -344,10 +344,10 @@
       "id": 31,
       "question": "What diseases are treated by Eucalyptus globulus?",
       "options": [
-        "Asthma, gastritis",
-        "Abdominal pain, cough",
         "Common cold, fever with headache",
-        "Tapeworm, intestinal parasites"
+        "Tapeworm, intestinal parasites",
+        "The study of microorganisms only",
+        "Abdominal pain, cough"
       ],
       "correctAnswer": "Common cold, fever with headache"
     },
@@ -400,9 +400,9 @@
       "question": "How is Trigonella foenumgraecum used?",
       "options": [
         "Mixed with garlic to treat asthma, used to treat gastritis",
-        "Taken orally for abdominal pain",
-        "Used as a poultice for wounds",
-        "Applied nasally for headache"
+        "A mechanism of scattering seeds away from the parent plant",
+        "$6CO_{2} + 12H_{2}O \\rightarrow C_{6}H_{12}O_{6} + 6O_{2}$",
+        "Flowers, root, stem and leaves having transporting vessels"
       ],
       "correctAnswer": "Mixed with garlic to treat asthma, used to treat gastritis"
     },
@@ -421,10 +421,10 @@
       "id": 38,
       "question": "What disease is treated by Ocimum basilicum?",
       "options": [
-        "Abdominal pain",
+        "Diarrhea",
         "Common cold",
-        "Headache",
-        "Diarrhea"
+        "Abdominal pain",
+        "Organic matter"
       ],
       "correctAnswer": "Abdominal pain"
     },
@@ -443,10 +443,10 @@
       "id": 40,
       "question": "What disease is treated by Lepidium sativum?",
       "options": [
-        "Asthma",
-        "Abdominal pain",
         "Treatment of diarrhea",
-        "Tapeworm"
+        "Abdominal pain",
+        "Daphnia (zooplankton)",
+        "Urban business owners"
       ],
       "correctAnswer": "Treatment of diarrhea"
     },
@@ -487,10 +487,10 @@
       "id": 44,
       "question": "What is the local name of Taverniera abyssinica?",
       "options": [
+        "Holoenzyme",
+        "Kosseret",
         "Tossign",
-        "Dingetegna",
-        "Aleko",
-        "Kosseret"
+        "Dingetegna"
       ],
       "correctAnswer": "Dingetegna"
     },
@@ -509,10 +509,10 @@
       "id": 46,
       "question": "What safety precaution should students take when collecting medicinal plants?",
       "options": [
-        "Collect only dry plants",
-        "Wear a mask at all times",
         "Use hand gloves, not taste or ingest them, not inhale volatile substances, and wash hands after handling",
-        "Wear sunglasses"
+        "Leadership of the Ethiopian flora project and the Ethiopian National Herbarium at Addis Ababa University",
+        "His lifetime works in conserving and recording the very diverse Ethiopian flora with many endemic species",
+        "The application of the principles and problem-solving techniques of engineering to biology and medicine"
       ],
       "correctAnswer": "Use hand gloves, not taste or ingest them, not inhale volatile substances, and wash hands after handling"
     },
@@ -520,10 +520,10 @@
       "id": 47,
       "question": "What type of plants can students in pastoralist areas focus on for medicinal plant study?",
       "options": [
-        "Medicinal plants used for livestock",
-        "Only flowers",
-        "Only aquatic plants",
-        "Only trees"
+        "Botanist, physician, and naturalist",
+        "Asexual reproduction through spores",
+        "Carbon is the most abundant element",
+        "Medicinal plants used for livestock"
       ],
       "correctAnswer": "Medicinal plants used for livestock"
     }

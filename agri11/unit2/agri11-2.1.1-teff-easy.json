@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Teff is a cereal crop native to",
       "options": [
+        "India",
         "Ethiopia",
-        "Mexico",
-        "China",
-        "India"
+        "3 months",
+        "Mexico"
       ],
       "correctAnswer": "Ethiopia"
     },
@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Teff is used as livestock feed in",
       "options": [
-        "South Africa",
         "Ethiopia",
-        "Egypt",
-        "Kenya"
+        "Kenya",
+        "400,000 tons",
+        "South Africa"
       ],
       "correctAnswer": "South Africa"
     },
@@ -79,9 +79,9 @@
       "question": "Teff ranks first in Ethiopia in",
       "options": [
         "Area of production",
-        "Yield per hectare",
+        "Imported knowledge",
         "Export value",
-        "Seed size"
+        "Yield per hectare"
       ],
       "correctAnswer": "Area of production"
     },
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "Teff is also a good source of iron, calcium and",
       "options": [
-        "Magnesium",
-        "Sodium",
+        "Copper",
+        "Extensive",
         "Iodine",
-        "Copper"
+        "Magnesium"
       ],
       "correctAnswer": "Magnesium"
     }

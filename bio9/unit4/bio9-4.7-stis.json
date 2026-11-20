@@ -26,9 +26,9 @@
       "question": "Which of the following is among the most common STIs in Ethiopia?",
       "options": [
         "Trichomoniasis",
-        "Tuberculosis",
-        "Rubella",
-        "Hepatitis B"
+        "Lake Tana area",
+        "Hepatitis B",
+        "Tuberculosis"
       ],
       "correctAnswer": "Trichomoniasis",
       "explanation": "Trichomoniasis, syphilis, gonorrhea, chancroid, and HIV/AIDS are the common STIs in Ethiopia.",
@@ -37,10 +37,10 @@
     {
       "question": "Trichomoniasis is caused by which type of organism?",
       "options": [
-        "Virus",
-        "Bacterium",
-        "Fungus",
-        "Flagellated protozoan"
+        "Saprophytic nutrition",
+        "Flagellated protozoan",
+        "To insulate equipment",
+        "Bacterium"
       ],
       "correctAnswer": "Flagellated protozoan",
       "explanation": "Trichomoniasis is caused by the flagellated protozoan Trichomonas vaginalis.",
@@ -49,10 +49,10 @@
     {
       "question": "A common symptom of trichomoniasis in infected women is:",
       "options": [
+        "Taking medicine as prescribed by a doctor",
+        "Through casual contact like shaking hands",
         "Yellowish discharge and sore itchy vagina",
-        "Fever and chills",
-        "Painful urination only",
-        "Skin rash"
+        "Low temperatures and high solar radiation"
       ],
       "correctAnswer": "Yellowish discharge and sore itchy vagina",
       "explanation": "Some infected women have a yellowish discharge and a sore, itchy vagina.",
@@ -61,10 +61,10 @@
     {
       "question": "Chlamydia is caused by:",
       "options": [
-        "A virus",
-        "A protozoan",
         "Small bacteria called Chlamydia trachomatis",
-        "A fungus"
+        "Pneumonia and conjunctivitis in the newborn",
+        "To control substance movement into the cell",
+        "Human cheek cells (buccal epithelial cells)"
       ],
       "correctAnswer": "Small bacteria called Chlamydia trachomatis",
       "explanation": "Chlamydia is caused by Chlamydia trachomatis, which are small bacteria.",
@@ -73,10 +73,10 @@
     {
       "question": "What symptom do most infected men with chlamydia experience?",
       "options": [
-        "Clear or yellow discharge from the penis",
-        "Fever and headache",
-        "Swollen testicles",
-        "No symptoms at all"
+        "Add water, then coverslip, then specimen",
+        "Made of many small cells joined together",
+        "A type of organelle that produces energy",
+        "Clear or yellow discharge from the penis"
       ],
       "correctAnswer": "Clear or yellow discharge from the penis",
       "explanation": "Most infected men have a clear or yellow discharge from the penis.",
@@ -85,10 +85,10 @@
     {
       "question": "Left untreated, chlamydia can lead to:",
       "options": [
-        "Liver damage",
+        "Testosterone and estrogen",
         "Infertility in both sexes",
         "Kidney failure",
-        "Blindness"
+        "Conducting the experiment"
       ],
       "correctAnswer": "Infertility in both sexes",
       "explanation": "Left untreated, a chlamydia infection can scar the reproductive tract and lead to infertility in both sexes.",
@@ -97,10 +97,10 @@
     {
       "question": "Chlamydia can be passed from mother to child during birth, causing:",
       "options": [
-        "Skin rashes",
-        "Heart defects",
+        "To catch insects or small aquatic organisms",
         "Pneumonia and conjunctivitis in the newborn",
-        "Deafness and blindness"
+        "A drink containing 10 grams of pure ethanol",
+        "It requires energy (ATP) to move substances"
       ],
       "correctAnswer": "Pneumonia and conjunctivitis in the newborn",
       "explanation": "Chlamydia can be passed from a mother to child during birth, causing pneumonia and conjunctivitis in the newborn.",
@@ -133,10 +133,10 @@
     {
       "question": "Which of the following is a symptom of gonorrhea in men?",
       "options": [
-        "Clear discharge only",
-        "Swollen lymph nodes",
-        "Skin chancres",
-        "Yellow pus oozing from the penis"
+        "Yellow pus oozing from the penis",
+        "Tracking ovulation on a calendar",
+        "It strengthens the immune system",
+        "Clear discharge only"
       ],
       "correctAnswer": "Yellow pus oozing from the penis",
       "explanation": "In men, yellow pus oozes from the penis and urination becomes frequent and painful.",
@@ -145,10 +145,10 @@
     {
       "question": "Syphilis is caused by which type of organism?",
       "options": [
-        "A virus",
-        "A fungus",
-        "A spiral-shaped bacterium (Treponema pallidum)",
-        "A protozoan"
+        "Are separated by a thick wall with no exchange",
+        "Flowing freshwater that moves in one direction",
+        "Mosses growing on a newly exposed rock surface",
+        "A spiral-shaped bacterium (Treponema pallidum)"
       ],
       "correctAnswer": "A spiral-shaped bacterium (Treponema pallidum)",
       "explanation": "Syphilis is caused by Treponema pallidum, a spiral-shaped bacterium.",
@@ -253,9 +253,9 @@
     {
       "question": "The best way to avoid sexually transmitted infections is:",
       "options": [
-        "Using only natural family planning",
-        "Taking regular antibiotics",
-        "Getting vaccinated against all STIs",
+        "Cover the cervix and stop sperm entering the uterus",
+        "Place them in a designated heat-resistant container",
+        "He added the principle of biogenesis to cell theory",
         "Avoiding sexual intercourse with an infected person"
       ],
       "correctAnswer": "Avoiding sexual intercourse with an infected person",
@@ -265,10 +265,10 @@
     {
       "question": "Which barrier method can greatly reduce the risk of catching STIs?",
       "options": [
-        "IUD",
-        "Contraceptive pill",
+        "Are always the same sex",
         "Condom (male or female)",
-        "Diaphragm"
+        "More rounded and fleshy",
+        "Contraceptive pill"
       ],
       "correctAnswer": "Condom (male or female)",
       "explanation": "The risk of catching an STI can be greatly reduced if a condom (male or female) is used, as it acts as a barrier.",
@@ -277,7 +277,7 @@
     {
       "question": "Which of the following is NOT an effective way to control the spread of STIs?",
       "options": [
-        "Seeking immediate treatment if infection is suspected",
+        "Holding and mixing liquids",
         "Being faithful to one partner",
         "Douching after intercourse",
         "Using condoms during intercourse"

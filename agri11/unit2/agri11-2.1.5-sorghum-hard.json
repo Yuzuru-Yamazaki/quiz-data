@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Striga is a serious sorghum weed because it",
       "options": [
-        "Parasitizes the crop roots",
         "Competes only for light",
         "Attacks stored grain",
-        "Grows after harvest"
+        "Parasitizes the crop roots",
+        "Establish good plant stand"
       ],
       "correctAnswer": "Parasitizes the crop roots"
     },
@@ -42,9 +42,9 @@
       "anki": true,
       "question": "A farmer wants to reduce striga. A useful practice is",
       "options": [
-        "Crop rotation and hand pulling",
         "Flooding the field all year",
-        "Deep burial of seeds",
+        "Crop rotation and hand pulling",
+        "It concentrates CO2 internally",
         "Planting closer spacing"
       ],
       "correctAnswer": "Crop rotation and hand pulling"
@@ -55,9 +55,9 @@
       "question": "Sorghum is preferred in hot lowlands because it is",
       "options": [
         "Drought tolerant",
-        "Frost tolerant",
-        "Water loving",
-        "Shade loving"
+        "Shade loving",
+        "Draft and manure",
+        "Frost tolerant"
       ],
       "correctAnswer": "Drought tolerant"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Sorghum grain is used for injera and porridge, while stalks are used for",
       "options": [
+        "Sugar syrup",
+        "Grain shattering",
         "Fencing and fuel",
-        "Cooking oil",
-        "Textile fiber",
-        "Sugar syrup"
+        "Textile fiber"
       ],
       "correctAnswer": "Fencing and fuel"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Sorghum is harvested when grains are hard and dry to",
       "options": [
-        "Reduce grain moisture",
-        "Increase grain size",
         "Improve stalk color",
-        "Kill weed seeds"
+        "Increase grain size",
+        "Reduce grain moisture",
+        "Modern record keeping"
       ],
       "correctAnswer": "Reduce grain moisture"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Sorghum is a good feed because it provides",
       "options": [
+        "Barley and wheat",
         "Grain and stover",
-        "Oil and fiber",
-        "Sugar and syrup",
-        "Latex and resin"
+        "Latex and resin",
+        "Sugar and syrup"
       ],
       "correctAnswer": "Grain and stover"
     },
@@ -150,10 +150,10 @@
       "anki": true,
       "question": "A farmer in a dry lowland has poor sandy soil. Sorghum is a good choice because it",
       "options": [
+        "Requires flooding every season",
+        "Saline soil with poor structure",
         "Tolerates drought and poor soil",
-        "Needs much water and rich soil",
-        "Grows only in cool highlands",
-        "Requires flooding every season"
+        "Needs much water and rich soil"
       ],
       "correctAnswer": "Tolerates drought and poor soil"
     },
@@ -163,9 +163,9 @@
       "question": "Grain mold in sorghum mainly reduces",
       "options": [
         "Grain quality",
-        "Stalk height",
-        "Root depth",
-        "Leaf color"
+        "Leaf color",
+        "Rainy pasture",
+        "Stalk height"
       ],
       "correctAnswer": "Grain quality"
     },
@@ -177,7 +177,7 @@
         "Barley and wheat",
         "Maize and rice",
         "Teff and millet",
-        "Faba and pea"
+        "Ferment roughage"
       ],
       "correctAnswer": "Barley and wheat"
     },

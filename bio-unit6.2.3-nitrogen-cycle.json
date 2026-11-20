@@ -14,10 +14,10 @@
     {
       "question": "Proteins are made up of which elements?",
       "options": [
-        "N, P, and K",
+        "C, H, and N only",
+        "American botanist",
         "C, H, and O only",
-        "C, H, O, N, and S",
-        "C, H, and N only"
+        "C, H, O, N, and S"
       ],
       "correctAnswer": "C, H, O, N, and S",
       "id": 1
@@ -26,9 +26,9 @@
       "question": "What is the immediate result of photosynthesis?",
       "options": [
         "Nucleic acid",
-        "Carbohydrate (glucose)",
-        "Lipid",
-        "Protein"
+        "William Harvey in 1628",
+        "Adenosine Triphosphate",
+        "Carbohydrate (glucose)"
       ],
       "correctAnswer": "Carbohydrate (glucose)",
       "id": 2
@@ -47,10 +47,10 @@
     {
       "question": "How is nitrogen made available to plants?",
       "options": [
-        "From the air directly",
+        "The African Agricultural Research Centre",
         "From the soil through the nitrogen cycle",
-        "From water",
-        "From sunlight"
+        "Both hydrogen atoms point toward the ion",
+        "The type of habitat an organism lives in"
       ],
       "correctAnswer": "From the soil through the nitrogen cycle",
       "id": 4
@@ -61,7 +61,7 @@
         "Both biotic and abiotic components",
         "Only biotic components",
         "Only abiotic components",
-        "Only the atmosphere"
+        "Restrict water loss by evaporation"
       ],
       "correctAnswer": "Both biotic and abiotic components",
       "id": 5
@@ -69,10 +69,10 @@
     {
       "question": "Which biotic components are involved in the nitrogen cycle?",
       "options": [
-        "Plants and animals only",
-        "Only plants",
+        "Replacement of damaged or dead cells",
+        "It is replaced by adventitious roots",
         "Plants, animals, bacteria, and fungi",
-        "Only bacteria"
+        "A technique for classifying bacteria"
       ],
       "correctAnswer": "Plants, animals, bacteria, and fungi",
       "id": 6
@@ -80,10 +80,10 @@
     {
       "question": "Which abiotic components are involved in the nitrogen cycle?",
       "options": [
-        "Only rocks",
-        "Only water",
         "Atmosphere and soil only",
-        "Atmosphere, soil, and water"
+        "Atmosphere, soil, and water",
+        "It makes water non-reactive",
+        "DNA polymerase and lysozyme"
       ],
       "correctAnswer": "Atmosphere, soil, and water",
       "id": 7
@@ -91,10 +91,10 @@
     {
       "question": "What are the major processes involved in cycling nitrogen?",
       "options": [
-        "Evaporation, condensation, precipitation",
+        "Active transport where living phloem cells use energy obtained by metabolic process",
+        "How DNA replicates and hereditary information is coded and passed on to descendants",
         "Nitrogen fixation, ammonification, nitrification, assimilation, and denitrification",
-        "Photosynthesis, respiration, decomposition",
-        "Combustion, corrosion, crystallization"
+        "Diverse groups of biomolecules insoluble in water but soluble in non-polar solvents"
       ],
       "correctAnswer": "Nitrogen fixation, ammonification, nitrification, assimilation, and denitrification",
       "id": 8
@@ -113,10 +113,10 @@
     {
       "question": "Are most living organisms able to incorporate atmospheric nitrogen ($N_2$) directly?",
       "options": [
-        "Yes, all can",
+        "Only plants can",
+        "It moves downward only",
         "Only animals can",
-        "No, most are unable to",
-        "Only plants can"
+        "No, most are unable to"
       ],
       "correctAnswer": "No, most are unable to",
       "id": 10
@@ -146,9 +146,9 @@
     {
       "question": "What are the three ways nitrogen fixation can occur?",
       "options": [
-        "By wind, water, and fire",
-        "By plants, animals, and fungi",
-        "By heat, pressure, and light",
+        "Hydration of seed coat increases permeability to oxygen, enables enzymatic hydrolysis and acts as transport agent",
+        "Extracting selected genes from an organism or synthesizing selected genes and inserting them into another organism",
+        "It is cheap, well known by local people, and environment friendly as it breaks down naturally within about two days",
         "Biologically (mediated by bacteria), non-biologically (atmospheric fixation by lightning), and industrial fixation"
       ],
       "correctAnswer": "Biologically (mediated by bacteria), non-biologically (atmospheric fixation by lightning), and industrial fixation",
@@ -157,10 +157,10 @@
     {
       "question": "What are the two categories of biological $N_2$ fixation?",
       "options": [
-        "Symbiotic nitrogen fixation and non-symbiotic fixation",
-        "Aerobic and anaerobic fixation",
-        "Plant and animal fixation",
-        "Soil and water fixation"
+        "No, they do not shade their leaves in winter or summer",
+        "They dissolve quickly, forming sweet-tasting solutions",
+        "Wuchereria bancrofti, Brugia malayi, and Brugia timori",
+        "Symbiotic nitrogen fixation and non-symbiotic fixation"
       ],
       "correctAnswer": "Symbiotic nitrogen fixation and non-symbiotic fixation",
       "id": 14
@@ -168,10 +168,10 @@
     {
       "question": "Symbiotic nitrogen fixation is carried out in the root nodules of which type of plants?",
       "options": [
-        "Only grass",
-        "Only trees",
+        "Disease diagnosis and treatment, forensics, and more",
         "Leguminous plants (such as peas, beans, and peanuts)",
-        "All plants"
+        "Diffusion of oxygen, water vapour and carbon dioxide",
+        "The most prestigious agricultural prize in the world"
       ],
       "correctAnswer": "Leguminous plants (such as peas, beans, and peanuts)",
       "id": 15
@@ -190,10 +190,10 @@
     {
       "question": "What do rhizobia form with leguminous plants?",
       "options": [
-        "A competitive relationship",
-        "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia",
-        "A parasitic relationship",
-        "A predator-prey relationship"
+        "It is a component of the peroxidase enzyme, a lysosomal enzyme for killing bacteria",
+        "Nitrogen fixation, ammonification, nitrification, assimilation, and denitrification",
+        "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap",
+        "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia"
       ],
       "correctAnswer": "A symbiotic association that forms root nodules where $N_2$ is reduced into ammonia",
       "id": 17
@@ -212,10 +212,10 @@
     {
       "question": "What is the balanced equation for nitrogen fixation?",
       "options": [
-        "$N_{2} + O_{2} \\rightarrow 2NO$",
-        "$NH_{3} + O_{2} \\rightarrow NO_{2}$",
+        "Hertwig, Kolliker, Weismann (zoologists), and Strasburger (botanist)",
         "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
-        "$N_{2} + 3H_{2} \\rightarrow 2NH_{3}$"
+        "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
+        "Burning of fossil fuels (coal, oil, natural gas) and wood for energy"
       ],
       "correctAnswer": "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
       "id": 19
@@ -223,10 +223,10 @@
     {
       "question": "What are the ammonium ions produced by nitrogen fixation used for in the legume plant?",
       "options": [
-        "Water transport",
-        "Cell wall formation",
-        "Energy production",
-        "Synthesizing amino acids, the building units of protein"
+        "Daughter cells receive different numbers of chromosomes",
+        "Trap solar energy and transform it into chemical energy",
+        "Synthesizing amino acids, the building units of protein",
+        "The body's ability to prevent the invasion of pathogens"
       ],
       "correctAnswer": "Synthesizing amino acids, the building units of protein",
       "id": 20
@@ -235,9 +235,9 @@
       "question": "What is nitrous oxide ($N_2O$) an intermediate product of?",
       "options": [
         "Microbial denitrification in the nitrogen cycle",
-        "Nitrification",
-        "Assimilation",
-        "Nitrogen fixation"
+        "It is transferred to animals that eat the plant",
+        "Thick-walled cells without intercellular spaces",
+        "Testing a leaf for starch using iodine solution"
       ],
       "correctAnswer": "Microbial denitrification in the nitrogen cycle",
       "id": 21
@@ -245,10 +245,10 @@
     {
       "question": "How does the global warming potential of $N_2O$ compare to $CO_2$?",
       "options": [
-        "It is less than $CO_2$",
-        "It is the same",
         "It is over 300 times greater than $CO_2$",
-        "It is 100 times less than $CO_2$"
+        "False, genetics has limited applications",
+        "It is 100 times less than $CO_2$",
+        "Evaporation, condensation, precipitation"
       ],
       "correctAnswer": "It is over 300 times greater than $CO_2$",
       "id": 22
@@ -256,10 +256,10 @@
     {
       "question": "What is the major source of $N_2O$ emissions?",
       "options": [
-        "Animal respiration",
         "Excessive use of synthetic N fertilizer in agricultural systems",
-        "Natural soil processes",
-        "Plant photosynthesis"
+        "A reserve food storing structure formed by double fertilization",
+        "The process where seed embryo starts to develop into a seedling",
+        "Due to the difficulty of isolating a single microscopic species"
       ],
       "correctAnswer": "Excessive use of synthetic N fertilizer in agricultural systems",
       "id": 23
@@ -267,10 +267,10 @@
     {
       "question": "How can biological $N_2$ fixation by rhizobia help the environment?",
       "options": [
+        "Water molecules are split into $H^+$ and $O_2$ (photolysis) and electrons are excited",
+        "He is the first Sub-Saharan African scientist elected in the Societys 357-year history",
         "By serving as an alternative to synthetic N fertilizer and mitigating $N_2O$ emissions",
-        "By increasing $CO_2$ emissions",
-        "By using more energy",
-        "By producing more waste"
+        "A condition where abnormal iron deposits form in the liver, spleen, skin, and pancreas"
       ],
       "correctAnswer": "By serving as an alternative to synthetic N fertilizer and mitigating $N_2O$ emissions",
       "id": 24
@@ -278,10 +278,10 @@
     {
       "question": "Which bacteria carry out non-symbiotic nitrogen fixation?",
       "options": [
-        "Rhizobia only",
         "Free living soil bacteria of the genera Azotobacter and Klebsiella",
-        "Nitrosomonas only",
-        "Nitrobacter only"
+        "Irregularly shaped with fewer chloroplasts and numerous air spaces",
+        "The soapberry called 'Endod' in Amharic (Phytolacca dodecane Dr.a)",
+        "A nitrogen-containing base, a pentose sugar, and a phosphate group"
       ],
       "correctAnswer": "Free living soil bacteria of the genera Azotobacter and Klebsiella",
       "id": 25
@@ -300,10 +300,10 @@
     {
       "question": "What is nitrification?",
       "options": [
-        "A microbial process by which ammonia is sequentially oxidized first to nitrite and then to nitrate",
-        "Conversion of nitrate to $N_2$",
-        "Conversion of $N_2$ to $NH_3$",
-        "Absorption of nitrogen by plants"
+        "A field of science used to gather and analyze evidence to establish facts used in a legal scenario",
+        "Chlorophyll, enzymes and co-factors that participate in the light trapping phase of photosynthesis",
+        "Scrutinize them at their atomic level and influence them for the delivery of innovative treatments",
+        "A microbial process by which ammonia is sequentially oxidized first to nitrite and then to nitrate"
       ],
       "correctAnswer": "A microbial process by which ammonia is sequentially oxidized first to nitrite and then to nitrate",
       "id": 27
@@ -311,10 +311,10 @@
     {
       "question": "Which bacteria oxidize ammonia to nitrite in the first step of nitrification?",
       "options": [
-        "Rhizobium",
-        "Pseudomonas",
+        "Nitrobacter",
         "Nitrosomonas",
-        "Nitrobacter"
+        "Pseudomonas",
+        "For 15 years"
       ],
       "correctAnswer": "Nitrosomonas",
       "id": 28
@@ -322,10 +322,10 @@
     {
       "question": "What is the chemical equation for the first step of nitrification?",
       "options": [
-        "$N_{2} + H_{2} \\rightarrow NH_{3}$",
-        "$NO_{3} \\rightarrow N_{2}$",
+        "$NO_{2} + O_{2} \\rightarrow NO_{3}$",
+        "Anatomy, Pathology, Physiology, and Neurology",
         "$NH_{3} + O_{2} \\rightarrow NO_{2} + 3H + 2e$",
-        "$NO_{2} + O_{2} \\rightarrow NO_{3}$"
+        "$N_{2} + H_{2} \\rightarrow NH_{3}$"
       ],
       "correctAnswer": "$NH_{3} + O_{2} \\rightarrow NO_{2} + 3H + 2e$",
       "id": 29
@@ -344,10 +344,10 @@
     {
       "question": "What is the chemical equation for the second step of nitrification?",
       "options": [
-        "$NO_{2} + O_{2} \\rightarrow NO_{3} + 2H + 2e$",
-        "$NO_{3} \\rightarrow NO_{2}$",
+        "Interphase, prophase, metaphase, and anaphase",
+        "$NH_{3} + O_{2} \\rightarrow NO_{2}$",
         "$N_{2} + H_{2} \\rightarrow NH_{3}$",
-        "$NH_{3} + O_{2} \\rightarrow NO_{2}$"
+        "$NO_{2} + O_{2} \\rightarrow NO_{3} + 2H + 2e$"
       ],
       "correctAnswer": "$NO_{2} + O_{2} \\rightarrow NO_{3} + 2H + 2e$",
       "id": 31
@@ -356,9 +356,9 @@
       "question": "In what inorganic forms do plants commonly absorb nitrogen?",
       "options": [
         "Nitrate ($NO_3$) or ammonium ($NH_4$)",
-        "Nitrous oxide only",
-        "$N_2$ gas only",
-        "Nitrite only"
+        "An animal that feeds on other animals",
+        "Any molecule found in the environment",
+        "When lung pressure equals atmospheric"
       ],
       "correctAnswer": "Nitrate ($NO_3$) or ammonium ($NH_4$)",
       "id": 32
@@ -377,10 +377,10 @@
     {
       "question": "Why do plants prefer ammonium ($NH_4$) over nitrate ($NO_3$)?",
       "options": [
-        "Because ammonium is more available",
+        "Soft-bodied insects that use piercing and sucking mouth parts to feed on phloem sap",
         "Because the energy expenditure for $NH_4$ assimilation is much lower than for $NO_3$",
-        "Because nitrate is not usable",
-        "Because ammonium is toxic"
+        "Charged entities because they are atoms with unshared electrons in their outer shell",
+        "A device that magnifies objects or organisms too small to be seen with the naked eye"
       ],
       "correctAnswer": "Because the energy expenditure for $NH_4$ assimilation is much lower than for $NO_3$",
       "id": 34
@@ -389,8 +389,8 @@
       "question": "How can roots absorb nitrogen ions?",
       "options": [
         "Only passively",
-        "Only actively",
         "Both actively or passively",
+        "It has the most air spaces",
         "Only through leaves"
       ],
       "correctAnswer": "Both actively or passively",
@@ -399,10 +399,10 @@
     {
       "question": "After absorption, where are nitrogen ions transported in the plant?",
       "options": [
-        "Only to the flowers",
-        "To the stem and leaves through the root xylem",
-        "Only to the roots",
-        "Only to the seeds"
+        "$CO_{2} + O_{2} \\rightarrow C_{6}H_{12}O_{6}$",
+        "Glomerulus, Bowman's capsule, collecting duct",
+        "A type of cell division that produces gametes",
+        "To the stem and leaves through the root xylem"
       ],
       "correctAnswer": "To the stem and leaves through the root xylem",
       "id": 36
@@ -410,10 +410,10 @@
     {
       "question": "What are ammonium and nitrate used for after being assimilated by plants?",
       "options": [
-        "Water storage",
+        "Feeding level is about energy, trophic level is about eating",
         "Synthesis of amino acids which are polymerized into proteins",
-        "Cell wall formation",
-        "Energy production only"
+        "Genetic information for the transmission of inherited traits",
+        "They cannot move by themselves and remain fixed at one place"
       ],
       "correctAnswer": "Synthesis of amino acids which are polymerized into proteins",
       "id": 37
@@ -421,10 +421,10 @@
     {
       "question": "What is ammonification?",
       "options": [
+        "Illegal logging, forest burning, burning fields, excessive use of pesticides, and excessive release of smoke from vehicles",
+        "Catalytic (enzymes), storage (albumin, casein), transport (hemoglobin), protective (antibodies, blood clotting factors)",
         "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen ($NH_4$) through microorganisms",
-        "Conversion of $NO_3$ to $N_2$",
-        "Conversion of $N_2$ to $NH_3$",
-        "Conversion of $NH_4$ to $NO_3$"
+        "It helps in defining the ecosystem, detecting threats, and determining relationships of organisms with their environments"
       ],
       "correctAnswer": "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen ($NH_4$) through microorganisms",
       "id": 38
@@ -433,8 +433,8 @@
       "question": "What is the general formula for an amine group?",
       "options": [
         "-COOH",
-        "-SH",
         "-OH",
+        "By animals",
         "R - $NH_2$"
       ],
       "correctAnswer": "R - $NH_2$",
@@ -443,10 +443,10 @@
     {
       "question": "Ammonification is an intermediary step between which processes?",
       "options": [
-        "Nitrogen fixation and assimilation",
-        "Nitrification and denitrification",
+        "Carbon's ability to form large and complex molecules via covalent bonding",
+        "An interconnected food chain that makes interwoven or web-like structures",
         "Depolymerization of large organic molecules and the nitrification process",
-        "Assimilation and excretion"
+        "Yes, as long as there is sufficient $H^+$ and ATP from the light reaction"
       ],
       "correctAnswer": "Depolymerization of large organic molecules and the nitrification process",
       "id": 40
@@ -454,10 +454,10 @@
     {
       "question": "What is the sequence from dead organic matter to nitrate?",
       "options": [
-        "Dead organic matter -> Nitrate -> Ammonium",
-        "Dead organic matter -> Depolymerization -> Ammonification -> Nitrification",
-        "Dead organic matter -> Nitrification -> Ammonification",
-        "Dead organic matter -> Assimilation -> Denitrification"
+        "Germination and survival of seeds to adult plants, minimizing overcrowding",
+        "Bacteria in their rumens secrete the enzyme cellulase to degrade cellulose",
+        "The bending did not occur in the tip but in the elongating part just below",
+        "Dead organic matter -> Depolymerization -> Ammonification -> Nitrification"
       ],
       "correctAnswer": "Dead organic matter -> Depolymerization -> Ammonification -> Nitrification",
       "id": 41
@@ -465,10 +465,10 @@
     {
       "question": "What is denitrification?",
       "options": [
-        "Absorption of nitrogen by plants",
+        "They improve soil structure and serve as a continuous source of natural fertilizer without being leached easily",
+        "Hydration of seed coat increases permeability to oxygen, enables enzymatic hydrolysis and acts as transport agent",
         "Conversion of nitrate to nitrogen gas ($N_2$), removing bioavailable nitrogen and returning it to the atmosphere",
-        "Conversion of $NH_4$ to $NO_3$",
-        "Conversion of $N_2$ to $NH_3$"
+        "It stores all information required to be transferred to the next generation and has the property of replication"
       ],
       "correctAnswer": "Conversion of nitrate to nitrogen gas ($N_2$), removing bioavailable nitrogen and returning it to the atmosphere",
       "id": 42
@@ -476,10 +476,10 @@
     {
       "question": "What is the sequential conversion in denitrification?",
       "options": [
+        "Ibn al-Nafis in 1242, and first brought to prominence in 1628 by William Harvey",
         "$NO_{3} \\rightarrow NO_{2} \\rightarrow NO \\rightarrow N_{2}O \\rightarrow N_{2}$",
-        "$NO_{2} \\rightarrow NH_{3} \\rightarrow N_{2}$",
-        "$NH_{3} \\rightarrow NO_{2} \\rightarrow NO_{3}$",
-        "$N_{2} \\rightarrow NO_{3} \\rightarrow NO_{2}$"
+        "A single layer inner to endodermis that is the site of origin of lateral roots",
+        "The root bends downward while the shoot bends upward until the plant is upright"
       ],
       "correctAnswer": "$NO_{3} \\rightarrow NO_{2} \\rightarrow NO \\rightarrow N_{2}O \\rightarrow N_{2}$",
       "id": 43
@@ -487,10 +487,10 @@
     {
       "question": "Is denitrification an aerobic or anaerobic process?",
       "options": [
-        "Both",
-        "Anaerobic",
         "Neither",
-        "Aerobic"
+        "Anaerobic",
+        "Aerobic",
+        "Two paths"
       ],
       "correctAnswer": "Anaerobic",
       "id": 44
@@ -498,10 +498,10 @@
     {
       "question": "Where does denitrification mostly occur?",
       "options": [
-        "In plant leaves",
         "In waterlogged soils (anoxic), layers of sediments in lakes and oceans",
-        "In the atmosphere",
-        "In dry, well-aerated soils"
+        "Addition of excessive $CO_2$ into the atmosphere due to human activity",
+        "Chemotherapy, sometimes followed by radiation and stem-cell transplant",
+        "It will die because of disruption of food transport through the phloem"
       ],
       "correctAnswer": "In waterlogged soils (anoxic), layers of sediments in lakes and oceans",
       "id": 45
@@ -531,10 +531,10 @@
     {
       "question": "Which bacteria are involved in nitrification?",
       "options": [
-        "Bacillus and Clostridium",
-        "Nitrosomonas and Nitrobacter",
+        "Azotobacter and Klebsiella",
         "Rhizobium and Pseudomonas",
-        "Azotobacter and Klebsiella"
+        "Olfactory nerves are damaged",
+        "Nitrosomonas and Nitrobacter"
       ],
       "correctAnswer": "Nitrosomonas and Nitrobacter",
       "id": 48
@@ -542,10 +542,10 @@
     {
       "question": "Which organisms are involved in ammonification?",
       "options": [
+        "It transports oxygen to all tissues and organs via the blood",
+        "A flower that does not have any one of the four floral parts",
         "Ammonifying bacteria (aerobic and anaerobic bacteria, fungi)",
-        "Nitrifying bacteria only",
-        "Nitrogen-fixing bacteria only",
-        "Denitrifying bacteria only"
+        "Synthesis of amino acids which are polymerized into proteins"
       ],
       "correctAnswer": "Ammonifying bacteria (aerobic and anaerobic bacteria, fungi)",
       "id": 49
@@ -553,10 +553,10 @@
     {
       "question": "Which bacteria are involved in denitrification?",
       "options": [
-        "Rhizobium and Bacillus",
-        "Nitrosomonas and Nitrobacter",
         "Pseudomonas, Thiobacillus, and Micrococcus",
-        "Azotobacter and Klebsiella"
+        "Xylem and phloem with cambium between them",
+        "Photosynthesis, respiration, decomposition",
+        "Ice and liquid water have the same density"
       ],
       "correctAnswer": "Pseudomonas, Thiobacillus, and Micrococcus",
       "id": 50
@@ -576,9 +576,9 @@
       "question": "What does DNA contain that guides all activities in living organisms?",
       "options": [
         "A unique genetic code",
-        "Enzymes",
-        "Lipids",
-        "Amino acids"
+        "Systemic and coronary",
+        "Amino acids",
+        "Recycled animal waste"
       ],
       "correctAnswer": "A unique genetic code",
       "id": 52
@@ -586,10 +586,10 @@
     {
       "question": "What does DNA hold instructions for making?",
       "options": [
-        "Only carbohydrates",
-        "Only lipids",
-        "All proteins, both structural and functional",
-        "Only vitamins"
+        "False, genetics is still a theoretical field",
+        "New technology and developments in the field",
+        "It is resistant to pests but has lower yield",
+        "All proteins, both structural and functional"
       ],
       "correctAnswer": "All proteins, both structural and functional",
       "id": 53
@@ -608,10 +608,10 @@
     {
       "question": "In which cells is DNA found?",
       "options": [
-        "Only in animal cells",
-        "Only in eukaryotic cells",
-        "In all prokaryotic and eukaryotic cells",
-        "Only in prokaryotic cells"
+        "They can have catastrophic implications",
+        "The Ethiopian Institute of Biodiversity",
+        "Adenine, thymine, guanine, and cytosine",
+        "In all prokaryotic and eukaryotic cells"
       ],
       "correctAnswer": "In all prokaryotic and eukaryotic cells",
       "id": 55
@@ -619,10 +619,10 @@
     {
       "question": "What does DNA code for?",
       "options": [
-        "Cell wall formation",
+        "A flower that does not have any one of the four floral parts",
+        "The blood vessels, liver, kidneys, bladder, and other organs",
         "Genetic information for the transmission of inherited traits",
-        "Energy production",
-        "Water absorption"
+        "They are crucial for transport of water from roots to leaves"
       ],
       "correctAnswer": "Genetic information for the transmission of inherited traits",
       "id": 56
@@ -641,10 +641,10 @@
     {
       "question": "What does each nucleotide consist of?",
       "options": [
-        "Amino acid, phosphate, and nitrogen base",
-        "Glucose, phosphate, and nitrogen base",
         "A five-carbon sugar (deoxyribose), a phosphate group, and a nitrogenous base",
-        "Lipid, sugar, and phosphate"
+        "Carbon, hydrogen, oxygen, and nitrogen, and sometimes phosphorus and sulphur",
+        "Green leaf-like structure protecting the lower part of female and male parts",
+        "A graphical representation of feeding relationships in the form of a pyramid"
       ],
       "correctAnswer": "A five-carbon sugar (deoxyribose), a phosphate group, and a nitrogenous base",
       "id": 58
@@ -652,10 +652,10 @@
     {
       "question": "What are examples of functional proteins?",
       "options": [
+        "They are food storing tissues essential for the seed embryo until it forms leaf and starts manufacturing its own food",
         "Catalytic (enzymes), storage (albumin, casein), transport (hemoglobin), protective (antibodies, blood clotting factors)",
-        "Cell membrane and skin",
-        "Hair and nails",
-        "Bones and muscles"
+        "Sigmund Freud and Karl Koller with first clinical use in 1884; Albert Niemann extracted it from leaves of Coca in 1860",
+        "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen ($NH_4$) through microorganisms"
       ],
       "correctAnswer": "Catalytic (enzymes), storage (albumin, casein), transport (hemoglobin), protective (antibodies, blood clotting factors)",
       "id": 59
@@ -663,10 +663,10 @@
     {
       "question": "What are examples of structural proteins?",
       "options": [
-        "Bones, muscles, cell membrane, and skin",
-        "Casein and antibodies",
-        "Enzymes and antibodies",
-        "Hemoglobin and albumin"
+        "A flower that has all four floral parts",
+        "An organism that decomposes dead matter",
+        "Agriculture, horticulture, and forestry",
+        "Bones, muscles, cell membrane, and skin"
       ],
       "correctAnswer": "Bones, muscles, cell membrane, and skin",
       "id": 60
@@ -674,10 +674,10 @@
     {
       "question": "Can plants directly use atmospheric nitrogen ($N_2$)?",
       "options": [
+        "Monosaccharides, disaccharides, and polysaccharides",
         "No, plants cannot directly use atmospheric nitrogen",
-        "Yes, all plants can",
-        "Only aquatic plants can",
-        "Only legumes can"
+        "The hard cell wall in addition to the cell membrane",
+        "A flower that does not have either stamen or pistil"
       ],
       "correctAnswer": "No, plants cannot directly use atmospheric nitrogen",
       "id": 61
@@ -707,10 +707,10 @@
     {
       "question": "What does ammonifying bacteria do by decomposing dead organic matter?",
       "options": [
-        "Liberate ammonium",
         "Oxidize nitrite",
-        "Fix nitrogen",
-        "Reduce nitrate"
+        "Liberate ammonium",
+        "Reduce nitrate",
+        "Tetraploid ($4n$)"
       ],
       "correctAnswer": "Liberate ammonium",
       "id": 64
@@ -718,10 +718,10 @@
     {
       "question": "How do soil bacteria affect soil fertility?",
       "options": [
-        "They decrease soil fertility",
-        "They increase soil fertility, resulting in increased plant growth and agricultural productivity",
-        "They contaminate the soil",
-        "They have no effect"
+        "Amino acids containing phenolic or indolic groups like phenylalanine, tyrosine, and tryptophan",
+        "Higher auxin on the shaded side causes more growth by cell elongation than the illuminated side",
+        "Ethiopia's genetic wealth by building one of the finest seed conservation centres in the world",
+        "They increase soil fertility, resulting in increased plant growth and agricultural productivity"
       ],
       "correctAnswer": "They increase soil fertility, resulting in increased plant growth and agricultural productivity",
       "id": 65
@@ -740,10 +740,10 @@
     {
       "question": "What advantages do biofertilizers from nitrogen-fixing bacteria offer?",
       "options": [
-        "They only work for one season",
-        "They require chemical additives",
-        "They improve soil structure and serve as a continuous source of natural fertilizer without being leached easily",
-        "They are harmful to soil"
+        "The seeds are ingested, escape digestion due to hard seed coats, and are dropped at a distance upon defecation",
+        "It stores all information required to be transferred to the next generation and has the property of replication",
+        "Conversion of nitrate to nitrogen gas ($N_2$), removing bioavailable nitrogen and returning it to the atmosphere",
+        "They improve soil structure and serve as a continuous source of natural fertilizer without being leached easily"
       ],
       "correctAnswer": "They improve soil structure and serve as a continuous source of natural fertilizer without being leached easily",
       "id": 67
@@ -774,9 +774,9 @@
       "question": "What does the mutual action of earthworms and microbes bring about?",
       "options": [
         "Faster decomposition of organic matter and enhanced cycling of nutrients",
-        "Increased soil acidity",
-        "Reduced soil fertility",
-        "Slower decomposition"
+        "True, its prominent role is in the welfare and betterment of human lives",
+        "A cerebrovascular disease where blood supply to the brain is interrupted",
+        "Because water is needed for photosynthesis and to support cell structure"
       ],
       "correctAnswer": "Faster decomposition of organic matter and enhanced cycling of nutrients",
       "id": 70
@@ -784,10 +784,10 @@
     {
       "question": "What is a good indicator of fertile soil?",
       "options": [
-        "High sand content",
-        "High rock content",
-        "Having an abundance of earthworms",
-        "Low water content"
+        "Muscle contraction and relaxation",
+        "Water 75%, bacteria 8%, lipids 6%",
+        "It is only used in plant genetics",
+        "Having an abundance of earthworms"
       ],
       "correctAnswer": "Having an abundance of earthworms",
       "id": 71
@@ -795,10 +795,10 @@
     {
       "question": "What do earthworm burrows do to the soil?",
       "options": [
-        "Improve soil structure, particularly soil porosity which increases air and water holding capacity",
-        "Compact the soil",
-        "Decrease soil porosity",
-        "Remove nutrients from the soil"
+        "To identify which microbe is causing an infection so physicians can prescribe the proper medicine",
+        "A microbial process by which ammonia is sequentially oxidized first to nitrite and then to nitrate",
+        "Chlorophyll, enzymes and co-factors that participate in the light trapping phase of photosynthesis",
+        "Improve soil structure, particularly soil porosity which increases air and water holding capacity"
       ],
       "correctAnswer": "Improve soil structure, particularly soil porosity which increases air and water holding capacity",
       "id": 72
@@ -806,10 +806,10 @@
     {
       "question": "What are bio-fertilizers?",
       "options": [
-        "Synthetic compounds",
         "Microbial preparations containing living cells of microorganisms that mobilize nutrients from unusable to usable form",
-        "Chemical fertilizers",
-        "Mineral rocks"
+        "It is cheap, well known by local people, and environment friendly as it breaks down naturally within about two days",
+        "They are food storing tissues essential for the seed embryo until it forms leaf and starts manufacturing its own food",
+        "Sigmund Freud and Karl Koller with first clinical use in 1884; Albert Niemann extracted it from leaves of Coca in 1860"
       ],
       "correctAnswer": "Microbial preparations containing living cells of microorganisms that mobilize nutrients from unusable to usable form",
       "id": 73
@@ -817,10 +817,10 @@
     {
       "question": "What are the characteristics of bio-fertilizers?",
       "options": [
-        "Ineffective and wasteful",
-        "Cheap but dangerous",
         "Expensive, toxic, and harmful to environment",
-        "Cost effective, non-toxic, and eco-friendly"
+        "Cost effective, non-toxic, and eco-friendly",
+        "They always carry out normal cell functions",
+        "A field of science used to study ecosystems"
       ],
       "correctAnswer": "Cost effective, non-toxic, and eco-friendly",
       "id": 74
@@ -828,10 +828,10 @@
     {
       "question": "What do bio-fertilizers serve as a good substitute for?",
       "options": [
-        "Expensive and harmful chemical fertilizers",
-        "Organic manure",
-        "Natural compost",
-        "Water"
+        "Pseudomonas, Thiobacillus, and Micrococcus",
+        "Two haploid ($n$) identical daughter cells",
+        "Ascending, transverse, descending, sigmoid",
+        "Expensive and harmful chemical fertilizers"
       ],
       "correctAnswer": "Expensive and harmful chemical fertilizers",
       "id": 75
@@ -839,10 +839,10 @@
     {
       "question": "What do bio-fertilizers increase?",
       "options": [
+        "The higher the $pH$, the lower the hydrogen ion concentration",
+        "A cell that engulfs and digests cellular debris and pathogens",
         "Crop yield, ensure food security, and sustainable agriculture",
-        "Pollution",
-        "Soil erosion",
-        "Water usage"
+        "Using what you have learned in biology for practical purposes"
       ],
       "correctAnswer": "Crop yield, ensure food security, and sustainable agriculture",
       "id": 76
@@ -850,9 +850,9 @@
     {
       "question": "What is vermicompost?",
       "options": [
-        "Mineral supplement",
-        "Synthetic compost",
-        "Chemical fertilizer",
+        "From the time seed embryo starts growth up to formation of young independent plant with photosynthetic leaves",
+        "Structure, properties, biochemical processes, classification, diseases, and interactions with the environment",
+        "Unilateral stimulus causing unequal production or distribution of growth hormone resulting in unequal growth",
         "Organic fertilizer obtained by using worms (commonly earthworms) that decompose food scraps and organic waste"
       ],
       "correctAnswer": "Organic fertilizer obtained by using worms (commonly earthworms) that decompose food scraps and organic waste",
@@ -861,10 +861,10 @@
     {
       "question": "Why do organic farmers usually grow legumes such as peas and beans?",
       "options": [
-        "To attract insects only",
-        "To prevent soil erosion only",
+        "More auxin on the shaded part of the root inhibits cell elongation compared to the illuminated side",
         "For dual purpose: harvest the legumes as a crop and use fixed nitrogen in soil for non-legume crops",
-        "For shade only"
+        "Chlorophyll, enzymes and co-factors that participate in the light trapping phase of photosynthesis",
+        "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall"
       ],
       "correctAnswer": "For dual purpose: harvest the legumes as a crop and use fixed nitrogen in soil for non-legume crops",
       "id": 78
@@ -872,9 +872,9 @@
     {
       "question": "Why do organic farmers grow non-legume crops after harvesting legumes?",
       "options": [
-        "To rest the soil",
-        "To increase soil acidity",
-        "To prevent weeds",
+        "Weakness, fatigue, anemia, edema, metabolic acidosis, increased potassium, heart arrhythmias",
+        "Polypeptides made of long chains of linked amino acids that regulate physiological processes",
+        "Ventilation, external respiration, gas transfer, internal respiration, cellular respiration",
         "To take advantage of all nitrogen fixed and accumulated in the soil and roots of the legumes"
       ],
       "correctAnswer": "To take advantage of all nitrogen fixed and accumulated in the soil and roots of the legumes",

@@ -79,8 +79,8 @@
       "question": "Which is a major animal disease?",
       "options": [
         "Anthrax",
-        "Rust",
         "Smut",
+        "Fishing",
         "Blight"
       ],
       "correctAnswer": "Anthrax"
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "Newcastle disease affects",
       "options": [
+        "Camels",
+        "Camelus",
         "Poultry",
-        "Cattle",
-        "Sheep",
-        "Camels"
+        "Cattle"
       ],
       "correctAnswer": "Poultry"
     },
@@ -162,10 +162,10 @@
       "anki": true,
       "question": "Pastoralists sell livestock when feed and water are short because of",
       "options": [
-        "Weak business awareness",
         "Strong market links",
         "Modern record keeping",
-        "High credit access"
+        "Weak business awareness",
+        "Accumulate excess water"
       ],
       "correctAnswer": "Weak business awareness"
     },

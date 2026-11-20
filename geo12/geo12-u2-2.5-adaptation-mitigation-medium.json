@@ -17,21 +17,21 @@
       "id": 1,
       "question": "How does the IPCC define adaptation to climate change?",
       "options": [
-        "Adjustments in ecological, social or economic systems in response to actual or expected stimuli and impacts",
-        "A complete ban on fossil fuels",
-        "A rise in global temperatures",
-        "The migration of all coastal peoples"
+        "Ethiopia can adopt modern efficient technologies directly instead of high-emission pathways",
+        "Adjustments in ecological, social or economic systems in response to actual or expected stimuli a",
+        "A vent is a pipe-like opening that builds a cone; a fissure is a narrow crack that builds a plateau",
+        "Natural causes can work through all three external mechanisms while humans mainly use two"
       ],
-      "correctAnswer": "Adjustments in ecological, social or economic systems in response to actual or expected stimuli and impacts"
+      "correctAnswer": "Adjustments in ecological, social or economic systems in response to actual or expected stimuli a"
     },
     {
       "id": 2,
       "question": "What is the purpose of adaptation adjustments?",
       "options": [
-        "To increase emissions",
+        "The landmasses were connected so the reptile could disperse",
+        "Emissions trading, the CDM, sinks accounting and compliance",
         "To moderate potential damages or benefit from opportunities",
-        "To stop all plate movement",
-        "To eliminate all weather"
+        "Oceans absorb more heat from the atmosphere and fuel storms"
       ],
       "correctAnswer": "To moderate potential damages or benefit from opportunities"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What distinguishes private from public adaptation?",
       "options": [
-        "Whether it occurs in summer or winter",
-        "Whether it involves water or soil",
         "Whether it is motivated by households and companies or by government",
-        "Whether it is cheap or expensive"
+        "It introduced moving continents that plate tectonics later explained",
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "It includes changes in variability and both natural and human causes"
       ],
       "correctAnswer": "Whether it is motivated by households and companies or by government"
     },
@@ -50,9 +50,9 @@
       "id": 4,
       "question": "What is autonomous adaptation?",
       "options": [
-        "A decision made by a national parliament",
-        "A United Nations treaty",
-        "A mandatory building code",
+        "Systems that accumulate and store greenhouse gases, such as forests and oceans",
+        "Sudden ground shaking caused by rock masses changing position below the surface",
+        "A change in the mean or variability of climate persisting for decades or longer",
         "Changes systems undergo in response to climate regardless of any policy or plan"
       ],
       "correctAnswer": "Changes systems undergo in response to climate regardless of any policy or plan"
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "How does mitigation reduce warming?",
       "options": [
+        "They raise pastoralist incomes while limiting emissions",
         "By lowering emissions of heat-trapping greenhouse gases",
-        "By increasing cloud cover artificially",
-        "By planting only decorative flowers",
-        "By reducing ocean salinity"
+        "They have larger amplitude and travel along the surface",
+        "It links crustal movement to the formation of landforms"
       ],
       "correctAnswer": "By lowering emissions of heat-trapping greenhouse gases"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What are sinks in climate mitigation?",
       "options": [
-        "Underground oil reserves",
+        "Changes in incoming solar radiation, atmospheric composition and Earth surface",
+        "They interact at boundaries to form features such as mountains and earthquakes",
         "Systems that accumulate and store greenhouse gases, such as forests and oceans",
-        "Mountain peaks above the clouds",
-        "Nuclear power stations"
+        "Sudden ground shaking caused by rock masses changing position below the surface"
       ],
       "correctAnswer": "Systems that accumulate and store greenhouse gases, such as forests and oceans"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which activity is a mitigation measure?",
       "options": [
-        "Building terraces on farms",
-        "Harvesting rainwater",
         "Replacing coal power with wind energy",
-        "Changing the crop planting date"
+        "Climate change happens only in winter",
+        "Changing the crop planting date",
+        "Building terraces on farms"
       ],
       "correctAnswer": "Replacing coal power with wind energy"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "Why has adaptation become an urgent policy priority?",
       "options": [
-        "Mitigation was completely abandoned",
-        "All impacts have disappeared",
-        "The UNFCCC was dissolved",
+        "It includes changes in variability and both natural and human causes",
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "Whether it is motivated by households and companies or by government",
         "Sensitivity to the issue grew after the IPCC Third Assessment Report"
       ],
       "correctAnswer": "Sensitivity to the issue grew after the IPCC Third Assessment Report"
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "At which levels are climate responses needed?",
       "options": [
-        "Local, regional, national and global levels",
-        "Only global level",
-        "Only local level",
-        "Only national level"
+        "Snow increases surface temperature directly",
+        "It included ministers as well as scientists",
+        "Longer growing seasons and earlier snowmelt",
+        "Local, regional, national and global levels"
       ],
       "correctAnswer": "Local, regional, national and global levels"
     },
@@ -118,8 +118,8 @@
       "options": [
         "Water harvesting",
         "Changing crop planting date",
-        "Irrigation",
-        "Terracing"
+        "By eliminating all diseases",
+        "A new theory of ocean tides"
       ],
       "correctAnswer": "Changing crop planting date"
     }

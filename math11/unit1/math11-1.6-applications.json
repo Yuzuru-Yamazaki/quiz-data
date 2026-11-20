@@ -76,9 +76,9 @@
       "question": "A company's total cost of producing $x$ items is $C(x) = 5x + 200$ birr. The fixed cost of the company is:",
       "options": [
         "$200$ birr",
-        "$x$ birr",
+        "$5$ birr",
         "$5x$ birr",
-        "$5$ birr"
+        "$400$ birr"
       ],
       "correctAnswer": "$200$ birr"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "A shop sells shirts for $25$ birr each, so the revenue from selling $x$ shirts is $R(x) = 25x$. The revenue from selling $40$ shirts is:",
       "options": [
-        "$65$ birr",
+        "$400$ birr",
         "$1000$ birr",
         "$250$ birr",
-        "$400$ birr"
+        "$2100$ birr"
       ],
       "correctAnswer": "$1000$ birr"
     },
@@ -135,9 +135,9 @@
       "anki": true,
       "question": "If $1$ US dollar is worth $55$ Ethiopian birr, the linear function that converts $d$ dollars to birr is $B(d) = 55d$. How many birr do you get for $20$ dollars?",
       "options": [
-        "$20$ birr",
-        "$75$ birr",
         "$55$ birr",
+        "f of g of x",
+        "$75$ birr",
         "$1100$ birr"
       ],
       "correctAnswer": "$1100$ birr"
@@ -267,8 +267,8 @@
       "anki": true,
       "question": "The relation $R = \\{(20, 200), (30, 190), (40, 180), (50, 170), (60, 160)\\}$ between a person's age and maximum recommended heart rate is a function because:",
       "options": [
+        "$f(x)=k^{x}$, where $k$ is a positive constant",
         "the heart rate decreases as age increases",
-        "the domain equals the range",
         "each age is paired with exactly one heart rate",
         "the table contains five ordered pairs"
       ],
@@ -327,10 +327,10 @@
       "anki": true,
       "question": "A cell culture starts with $100$ cells and doubles every hour, so the number of cells after $t$ hours is $P(t) = 100 \\cdot 2^{t}$. The number of cells after $4$ hours is:",
       "options": [
-        "$800$ cells",
-        "$1600$ cells",
+        "$f(x) = |x|$",
         "$400$ cells",
-        "$200$ cells"
+        "$200$ cells",
+        "$1600$ cells"
       ],
       "correctAnswer": "$1600$ cells"
     },

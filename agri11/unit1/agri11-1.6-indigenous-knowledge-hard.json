@@ -19,9 +19,9 @@
       "question": "Which feature best distinguishes indigenous from scientific knowledge?",
       "options": [
         "It develops from local experience",
-        "It relies on controlled trials",
         "It is taught in universities",
-        "It is published in journals"
+        "It relies on controlled trials",
+        "Reduce the fertilizer requirement"
       ],
       "correctAnswer": "It develops from local experience"
     },
@@ -42,10 +42,10 @@
       "anki": true,
       "question": "Konso terracing and irrigation together show",
       "options": [
-        "Adaptation to local conditions",
+        "Use of industrial methods",
         "Dependence on modern inputs",
-        "Rejection of crop farming",
-        "Use of industrial methods"
+        "Adaptation to local conditions",
+        "Balance drainage and fertility"
       ],
       "correctAnswer": "Adaptation to local conditions"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "A trench around a potato plot in Bale mainly responds to",
       "options": [
+        "Water logging",
+        "Pulses-oil crops",
         "Porcupine damage",
-        "Soil erosion",
-        "Frost damage",
-        "Water logging"
+        "Frost damage"
       ],
       "correctAnswer": "Porcupine damage"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Why is indigenous knowledge important for natural resource management?",
       "options": [
+        "It ignores environmental change",
         "It reflects generations of local experience",
-        "It can replace all of the scientific research that is done",
         "It depends on foreign expertise",
-        "It ignores environmental change"
+        "Only the present generation of local people"
       ],
       "correctAnswer": "It reflects generations of local experience"
     },
@@ -127,9 +127,9 @@
       "question": "The Konso case shows that indigenous practices can",
       "options": [
         "Reduce erosion and maintain soil quality",
+        "Biotechnology and information technology",
         "Increase erosion and deplete soil",
-        "Replace all rainfall with irrigation",
-        "Eliminate the need for cropping"
+        "Replace all rainfall with irrigation"
       ],
       "correctAnswer": "Reduce erosion and maintain soil quality"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Beliefs and traditions help communities to",
       "options": [
+        "Discourage observation",
         "Preserve and communicate knowledge",
-        "Replace practical farming skills",
-        "Prevent all innovation",
-        "Discourage observation"
+        "500 to 1500 meters above sea level",
+        "Replace practical farming skills"
       ],
       "correctAnswer": "Preserve and communicate knowledge"
     },
@@ -150,10 +150,10 @@
       "anki": true,
       "question": "Using smoke against frost relies on",
       "options": [
-        "Local experience with microclimate",
         "Laboratory measurement of frost",
-        "National weather forecasts",
-        "Imported frost blankets"
+        "Local experience with microclimate",
+        "A few years and then abandoning it",
+        "National weather forecasts"
       ],
       "correctAnswer": "Local experience with microclimate"
     },
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "Indigenous knowledge often arises where farmers have",
       "options": [
+        "Formal training",
         "Small landholdings",
-        "Large estates",
         "Modern machinery",
-        "Formal training"
+        "Crude protein only"
       ],
       "correctAnswer": "Small landholdings"
     }

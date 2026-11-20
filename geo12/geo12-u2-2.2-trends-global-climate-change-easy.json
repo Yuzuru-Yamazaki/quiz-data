@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Where does the most convincing evidence of climate change come from?",
       "options": [
+        "By limiting expansion of land under cultivation",
+        "White tundra absorbs more sunlight than forests",
         "Observations of the atmosphere, land and oceans",
-        "Opinion polls",
-        "Ancient maps of cities",
-        "Animal migration stories"
+        "It powers cities, industry and irrigation pumps"
       ],
       "correctAnswer": "Observations of the atmosphere, land and oceans"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Which records show rising greenhouse gas concentrations over recent centuries?",
       "options": [
-        "Newspaper headlines",
         "Ice core records and in situ observations",
-        "Tree ring color charts",
-        "Ocean depth tables"
+        "It increases groundwater temperature only",
+        "Intergovernmental Panel on Climate Change",
+        "It is when satellites were first launched"
       ],
       "correctAnswer": "Ice core records and in situ observations"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Which gases increased over the last few centuries?",
       "options": [
-        "Oxygen, nitrogen and argon",
-        "Helium, neon and krypton",
-        "Carbon dioxide, methane and nitrous oxide",
-        "Hydrogen, ozone and sulfur"
+        "It fixes the composition of rocks forever",
+        "Ice core records and in situ observations",
+        "He worked only in the Southern Hemisphere",
+        "Carbon dioxide, methane and nitrous oxide"
       ],
       "correctAnswer": "Carbon dioxide, methane and nitrous oxide"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What is described as the leading cause of climate change?",
       "options": [
-        "Falling ocean temperatures",
         "Reduced volcanic activity",
-        "Slower plate motion",
-        "Rising greenhouse gas emissions"
+        "It enforced the Paris Agreement",
+        "Rising greenhouse gas emissions",
+        "Falling ocean temperatures"
       ],
       "correctAnswer": "Rising greenhouse gas emissions"
     },

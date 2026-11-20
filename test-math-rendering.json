@@ -36,10 +36,10 @@
       "id": 3,
       "question": "Which formula represents the quadratic formula?",
       "options": [
-        "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
-        "$F = ma$",
-        "$E = mc^2$",
-        "$a^2 + b^2 = c^2$"
+        "A condition where alveolar walls rupture",
+        "The homeless in Addis Ababa Municipality",
+        "Because organisms produce too much waste",
+        "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$"
       ],
       "correctAnswer": "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$"
     }

@@ -14,10 +14,10 @@
       "id": 1,
       "question": "What is the normal $pH$ range of blood?",
       "options": [
-        "6.8 to 7.0",
+        "Wind blowing",
         "7.0 to 7.2",
-        "7.5 to 7.8",
-        "7.35 to 7.45"
+        "7.35 to 7.45",
+        "7.5 to 7.8"
       ],
       "correctAnswer": "7.35 to 7.45"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "What may occur when kidneys fail?",
       "options": [
-        "Enhanced vision",
-        "Improved digestion",
-        "Increased energy",
-        "Weakness, fatigue, anemia, edema, metabolic acidosis, increased potassium, heart arrhythmias"
+        "Weakness, fatigue, anemia, edema, metabolic acidosis, increased potassium, heart arrhythmias",
+        "Polypeptides made of long chains of linked amino acids that regulate physiological processes",
+        "To take advantage of all nitrogen fixed and accumulated in the soil and roots of the legumes",
+        "Embryonic development to mature adulthood, behavior, interactions, food finding, and genetics"
       ],
       "correctAnswer": "Weakness, fatigue, anemia, edema, metabolic acidosis, increased potassium, heart arrhythmias"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What shape are the kidneys?",
       "options": [
-        "Round",
-        "Oval",
         "Triangular",
-        "Bean-shaped"
+        "B, C, and K",
+        "Bean-shaped",
+        "Round"
       ],
       "correctAnswer": "Bean-shaped"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "Where are the kidneys located?",
       "options": [
-        "In the thoracic cavity",
-        "In the abdominal cavity directly below the liver",
-        "Behind the stomach",
-        "In the pelvic cavity"
+        "Because materials are found in unlimited amounts",
+        "The amount of air entering and leaving the lungs",
+        "The organism develops a new combination of genes",
+        "In the abdominal cavity directly below the liver"
       ],
       "correctAnswer": "In the abdominal cavity directly below the liver"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "What drives urine through the ureters?",
       "options": [
-        "Gravity",
-        "Enzymes",
+        "$pH$ and hydrogen ion concentration are identical",
+        "Unsaturated ones contain one or more double bonds",
         "Waves of peristalsis (smooth muscle contractions)",
-        "Blood pressure"
+        "Oxygen, carbon dioxide, nitrogen, and inert gases"
       ],
       "correctAnswer": "Waves of peristalsis (smooth muscle contractions)"
     },
@@ -201,10 +201,10 @@
       "id": 18,
       "question": "Why does urination frequency increase during late pregnancy?",
       "options": [
-        "Kidney enlargement",
-        "Bladder compression by the growing uterus",
-        "Increased blood volume",
-        "Hormonal changes"
+        "Interphase, prophase, metaphase, anaphase",
+        "Into classes, orders, genera, and species",
+        "The growth phase of a cell before it dies",
+        "Bladder compression by the growing uterus"
       ],
       "correctAnswer": "Bladder compression by the growing uterus"
     },
@@ -256,10 +256,10 @@
       "id": 23,
       "question": "Why do women have a higher frequency of urinary tract infections (UTIs)?",
       "options": [
-        "Larger bladder",
-        "Hormonal factors",
-        "Shorter urethra providing less protection",
-        "Kidney structure"
+        "Parasitic worms transmitted by mosquitoes",
+        "The hydrogen (δ+) faces away from the ion",
+        "The study of how life functions in nature",
+        "Shorter urethra providing less protection"
       ],
       "correctAnswer": "Shorter urethra providing less protection"
     },
@@ -267,10 +267,10 @@
       "id": 24,
       "question": "In males, what additional function does the urethra serve?",
       "options": [
+        "Benedict's reagent",
         "Producing urine",
-        "Digestion",
-        "Filtering blood",
-        "Transporting sperm"
+        "Transporting sperm",
+        "Filtering blood"
       ],
       "correctAnswer": "Transporting sperm"
     },
@@ -278,10 +278,10 @@
       "id": 25,
       "question": "What are the three internal sections of the kidney?",
       "options": [
-        "Cortex, medulla, renal pelvis",
-        "Medulla, nephron, ureter",
+        "Conversion of $N_2$ to $NH_3$",
         "Capsule, pyramid, calyx",
-        "Cortex, hilum, pelvis"
+        "Medulla, nephron, ureter",
+        "Cortex, medulla, renal pelvis"
       ],
       "correctAnswer": "Cortex, medulla, renal pelvis"
     },
@@ -300,10 +300,10 @@
       "id": 27,
       "question": "What enters and exits the kidney at the hilum?",
       "options": [
-        "Only ureters",
-        "Only blood vessels",
-        "Blood arteries, veins, and nerves",
-        "Only nerves"
+        "The body's ability to digest food",
+        "Closely packed with no air spaces",
+        "Herbivores have longer intestines",
+        "Blood arteries, veins, and nerves"
       ],
       "correctAnswer": "Blood arteries, veins, and nerves"
     },
@@ -311,10 +311,10 @@
       "id": 28,
       "question": "What causes the renal cortex to appear granular?",
       "options": [
-        "Nephron tubules",
         "Renal pyramids",
-        "Blood vessels",
-        "Renal corpuscles"
+        "15 to 20 percent",
+        "Renal corpuscles",
+        "Nephron tubules"
       ],
       "correctAnswer": "Renal corpuscles"
     },
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "How many renal pyramids does each kidney have on average?",
       "options": [
-        "Ten",
+        "Eight",
         "Four",
-        "Six",
-        "Eight"
+        "1940s",
+        "Six"
       ],
       "correctAnswer": "Eight"
     },
@@ -399,10 +399,10 @@
       "id": 36,
       "question": "What are the three parts of a nephron?",
       "options": [
-        "Artery, vein, capillary",
-        "Glomerulus, tubule, collecting duct",
-        "Cortex, medulla, pelvis",
-        "Renal corpuscle, renal tubule, associated capillary network"
+        "Small, single molecular units that combine to form polymers",
+        "A thin, elastic cartilage that covers the trachea's opening",
+        "Renal corpuscle, renal tubule, associated capillary network",
+        "Two sister chromatids containing identical genetic material"
       ],
       "correctAnswer": "Renal corpuscle, renal tubule, associated capillary network"
     },
@@ -421,10 +421,10 @@
       "id": 38,
       "question": "What is Bowman's capsule?",
       "options": [
-        "A part of the collecting duct",
-        "A tube that carries urine",
-        "A network of capillaries",
-        "A cup-shaped chamber surrounding the glomerulus"
+        "A cup-shaped chamber surrounding the glomerulus",
+        "They are insoluble in water and pushed together",
+        "It swings downward to close the trachea opening",
+        "From the sun to producers and then to consumers"
       ],
       "correctAnswer": "A cup-shaped chamber surrounding the glomerulus"
     },
@@ -432,10 +432,10 @@
       "id": 39,
       "question": "What is the glomerulus?",
       "options": [
-        "A network of capillaries",
-        "A muscle",
         "A collecting tube",
-        "A cup-shaped chamber"
+        "A cup-shaped chamber",
+        "The water storage organs",
+        "A network of capillaries"
       ],
       "correctAnswer": "A network of capillaries"
     },
@@ -443,10 +443,10 @@
       "id": 40,
       "question": "What are the three segments of the renal tubule based on function?",
       "options": [
-        "Afferent arteriole, glomerulus, efferent arteriole",
-        "Cortex, medulla, pelvis",
-        "Glomerulus, Bowman's capsule, collecting duct",
-        "Proximal convoluted tubule, loop of Henle, distal convoluted tubule"
+        "Evaporation, transpiration, condensation, precipitation, and runoff",
+        "Outside the living body in the soil through extracellular digestion",
+        "Proximal convoluted tubule, loop of Henle, distal convoluted tubule",
+        "The first distinguished Ethiopian surgeon and professor of medicine"
       ],
       "correctAnswer": "Proximal convoluted tubule, loop of Henle, distal convoluted tubule"
     },
@@ -454,10 +454,10 @@
       "id": 41,
       "question": "Where does the distal convoluted tubule discharge its contents?",
       "options": [
-        "Into the collecting ducts",
         "Into the bladder",
-        "Into the ureter",
-        "Into the renal pelvis"
+        "Into the renal pelvis",
+        "Alexander Fleming in 1928",
+        "Into the collecting ducts"
       ],
       "correctAnswer": "Into the collecting ducts"
     },
@@ -488,7 +488,7 @@
       "question": "What is the capillary network that runs through the glomerulus called?",
       "options": [
         "Renal plexus",
-        "Vasa recta",
+        "Large and well developed",
         "Glomerular capillary bed",
         "Peritubular capillary network"
       ],
@@ -499,9 +499,9 @@
       "question": "What capillary network surrounds portions of the renal tubule after the efferent arteriole exits the glomerulus?",
       "options": [
         "Glomerular capillary bed",
-        "Arterial plexus",
+        "Cells are undergoing division",
         "Peritubular capillary network",
-        "Vasa recta"
+        "Using artificial insemination"
       ],
       "correctAnswer": "Peritubular capillary network"
     },
@@ -509,10 +509,10 @@
       "id": 46,
       "question": "What is the first step in the three-step process of urine formation?",
       "options": [
-        "Glomerular filtration",
         "Tubular reabsorption",
+        "The study of genetics",
         "Tubular secretion",
-        "Diffusion"
+        "Glomerular filtration"
       ],
       "correctAnswer": "Glomerular filtration"
     },
@@ -520,10 +520,10 @@
       "id": 47,
       "question": "What is filtered out of the blood during glomerular filtration?",
       "options": [
-        "Only water",
-        "Only urea",
+        "In the stomach and small intestine",
         "Almost all solutes except proteins",
-        "Proteins only"
+        "A lipid fiber in the cell membrane",
+        "A blood vessel in the brain bursts"
       ],
       "correctAnswer": "Almost all solutes except proteins"
     },
@@ -565,9 +565,9 @@
       "question": "What does the proximal convoluted tubule reabsorb from the filtrate?",
       "options": [
         "Ions, water, and nutrients",
-        "Toxins only",
-        "Medications",
-        "Urea only"
+        "Molecules soluble in water",
+        "Enterobius and Ancylostoma",
+        "The food chain or food web"
       ],
       "correctAnswer": "Ions, water, and nutrients"
     },
@@ -575,10 +575,10 @@
       "id": 52,
       "question": "What substance does the proximal convoluted tubule secrete into the filtrate to regulate blood $pH$?",
       "options": [
-        "Sodium",
-        "Potassium",
+        "Room temperature",
         "Bicarbonate",
-        "Ammonia ($NH_3$)"
+        "Ammonia ($NH_3$)",
+        "Potassium"
       ],
       "correctAnswer": "Ammonia ($NH_3$)"
     },
@@ -587,9 +587,9 @@
       "question": "Ammonia secreted into the filtrate interacts with $H^+$ to form what?",
       "options": [
         "$N_2$",
-        "$NH_2$-",
         "$NH_4^+$",
-        "HNO3"
+        "$NH_2$-",
+        "Auricles"
       ],
       "correctAnswer": "$NH_4^+$"
     },
@@ -608,10 +608,10 @@
       "id": 55,
       "question": "What type of cells border the descending loop of Henle?",
       "options": [
-        "Cuboidal cells",
-        "Caved cells",
         "Squamous cells",
-        "Aquaporin-containing cells"
+        "Aquaporin-containing cells",
+        "Cuboidal cells",
+        "Both follow multiple paths"
       ],
       "correctAnswer": "Aquaporin-containing cells"
     },
@@ -641,10 +641,10 @@
       "id": 58,
       "question": "What happens to $Na^+$ and $Cl^-$ in the thick region of the ascending loop of Henle?",
       "options": [
-        "They diffuse out",
-        "They are reabsorbed into the blood",
-        "They are actively transferred into the interstitial fluid",
-        "They are secreted into the filtrate"
+        "Water vapour (gas), ice or snow (solid), and liquid water",
+        "Products with ornamental, commercial and medicinal values",
+        "Angiosperms have flowers and produce seeds within a fruit",
+        "They are actively transferred into the interstitial fluid"
       ],
       "correctAnswer": "They are actively transferred into the interstitial fluid"
     },
@@ -674,10 +674,10 @@
       "id": 61,
       "question": "Which ions are reabsorbed in the distal convoluted tubule to maintain blood $pH$ and electrolyte balance?",
       "options": [
-        "$NH_3$ and urea",
+        "By tracking animal migrations",
         "$Ca^{2+}$ and $Mg^{2+}$",
         "$Na^+$, $Cl^-$, and $HCO_3^-$",
-        "$K^+$ and $H^+$"
+        "At the tips of shoot and root"
       ],
       "correctAnswer": "$Na^+$, $Cl^-$, and $HCO_3^-$"
     },
@@ -685,10 +685,10 @@
       "id": 62,
       "question": "What does the collecting duct do?",
       "options": [
+        "A type of cell division that produces gametes",
         "Reabsorbs solutes and water from the filtrate",
-        "Produces urine from waste",
-        "Filters blood under pressure",
-        "Secretes ammonia"
+        "A change in temperature, heating, and cooling",
+        "That they are herbivores and cannot use tools"
       ],
       "correctAnswer": "Reabsorbs solutes and water from the filtrate"
     },

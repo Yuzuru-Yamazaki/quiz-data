@@ -19,9 +19,9 @@
       "question": "A farmer selects a crop for a given field. The first consideration should be",
       "options": [
         "Crop needs and site quality",
-        "Current market demand",
+        "Government subsidy level",
         "Available family labor",
-        "Government subsidy level"
+        "Borers, army worms, locusts"
       ],
       "correctAnswer": "Crop needs and site quality"
     },
@@ -91,7 +91,7 @@
       "question": "A crop fails after an unexpected early end to rains. This shows",
       "options": [
         "Some factors cannot be controlled",
-        "All factors are manageable",
+        "C3 has higher photosynthetic rate",
         "Irrigation is always available",
         "Planting date is irrelevant"
       ],

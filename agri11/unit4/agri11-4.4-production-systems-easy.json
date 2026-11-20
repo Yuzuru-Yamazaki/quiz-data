@@ -18,10 +18,10 @@
       "anki": true,
       "question": "The three general types of livestock farming systems are",
       "options": [
-        "Extensive, semi-intensive, intensive",
         "Nomadic, ranching and mixed farming",
-        "Pastoral, agro-pastoral, mixed",
-        "Traditional, modern, commercial"
+        "Traditional, modern, commercial",
+        "Long observation of local conditions",
+        "Extensive, semi-intensive, intensive"
       ],
       "correctAnswer": "Extensive, semi-intensive, intensive"
     },
@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Extensive farming uses",
       "options": [
+        "Only purchased feed",
+        "Bos indicus and Ovis aries",
         "Small inputs per land area",
-        "High inputs per land area",
-        "No land at all",
-        "Only purchased feed"
+        "High inputs per land area"
       ],
       "correctAnswer": "Small inputs per land area"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "The semi-intensive system lies",
       "options": [
-        "Between extensive and intensive",
-        "Beyond intensive farming only",
         "Below extensive farming only",
-        "Outside all farming systems"
+        "Beyond intensive farming only",
+        "Between extensive and intensive",
+        "Stems become too hard and woody"
       ],
       "correctAnswer": "Between extensive and intensive"
     },
@@ -151,9 +151,9 @@
       "question": "Animals in intensive systems are often",
       "options": [
         "Crossbred or exotic",
-        "Local only",
-        "Wild caught",
-        "Unimproved only"
+        "Stop sugar refining",
+        "Unimproved only",
+        "Wild caught"
       ],
       "correctAnswer": "Crossbred or exotic"
     },
@@ -187,9 +187,9 @@
       "question": "A balanced ration supplies",
       "options": [
         "Proper nutrients",
-        "Only water",
-        "Only roughage",
-        "Only minerals"
+        "All insect pests",
+        "Only minerals",
+        "Only roughage"
       ],
       "correctAnswer": "Proper nutrients"
     },
@@ -234,9 +234,9 @@
       "anki": true,
       "question": "A species is a group that can",
       "options": [
-        "Interbreed, fertile offspring",
         "Look alike, live together",
-        "Share the same habitat",
+        "The capacity of the household",
+        "Interbreed, fertile offspring",
         "Belong to the same breed"
       ],
       "correctAnswer": "Interbreed, fertile offspring"
@@ -246,10 +246,10 @@
       "anki": true,
       "question": "A breed is a specific group within a",
       "options": [
-        "Species",
+        "Class",
         "Family",
-        "Order",
-        "Class"
+        "3 to 6%",
+        "Species"
       ],
       "correctAnswer": "Species"
     }

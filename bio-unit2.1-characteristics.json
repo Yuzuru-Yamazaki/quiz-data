@@ -14,10 +14,10 @@
       "id": 1,
       "question": "Which statement describes plants as living things?",
       "options": [
-        "Plants only reproduce through seeds",
-        "Plants do not grow",
-        "Plants grow, reproduce and respond to changes in the environment",
-        "Plants are non-living organisms"
+        "Advances that improve human health and health care at all levels",
+        "Movement of water and dissolved nutrients from cortex into xylem",
+        "Hydrogen bonds must be broken before molecules can escape as gas",
+        "Plants grow, reproduce and respond to changes in the environment"
       ],
       "correctAnswer": "Plants grow, reproduce and respond to changes in the environment"
     },
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "What structures do plant cells have that are well-defined?",
       "options": [
-        "Only chloroplasts",
-        "Nuclei and membrane-bound organelles",
-        "Only a cell wall",
-        "Only a nucleus"
+        "Endocardium, pericardium, myocardium",
+        "Seed is a flower and fruit is a stem",
+        "Hydrogen, helium, lithium, beryllium",
+        "Nuclei and membrane-bound organelles"
       ],
       "correctAnswer": "Nuclei and membrane-bound organelles"
     },
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "Besides the cell membrane, what additional structure do plant cells have?",
       "options": [
-        "A rigid cell wall",
         "Capsule",
-        "Pili",
-        "Flagellum"
+        "Muscle relaxation",
+        "Flagellum",
+        "A rigid cell wall"
       ],
       "correctAnswer": "A rigid cell wall"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "What does it mean that plants are sessile?",
       "options": [
-        "They float on water",
-        "They can move freely",
-        "They cannot move by themselves and remain fixed at one place",
-        "They are carried by wind"
+        "A flower that does not have any one of the four floral parts",
+        "Cells have a finite life span and wear out or become damaged",
+        "The position of an organism in the order of receiving energy",
+        "They cannot move by themselves and remain fixed at one place"
       ],
       "correctAnswer": "They cannot move by themselves and remain fixed at one place"
     },
@@ -124,9 +124,9 @@
       "id": 11,
       "question": "What response can the leaves of plants show?",
       "options": [
-        "Detach and fall",
-        "Turn towards water",
-        "Move away from the sun",
+        "Positively phototropic (bends towards light)",
+        "Sugar (carbohydrate) through carbon fixation",
+        "All proteins, both structural and functional",
         "Turn towards light and some respond to touch"
       ],
       "correctAnswer": "Turn towards light and some respond to touch"
@@ -136,9 +136,9 @@
       "question": "What can the roots of plants orient towards?",
       "options": [
         "Water or moist soil",
-        "Warmth",
-        "Air",
-        "Light"
+        "Only food additives",
+        "Forest conservation",
+        "Only soil and rocks"
       ],
       "correctAnswer": "Water or moist soil"
     },
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "Which reproduction patterns do plants practice?",
       "options": [
-        "Asexual and sexual reproduction patterns",
-        "Only sexual reproduction",
-        "Only asexual reproduction",
-        "Binary fission only"
+        "The development of new computer programs",
+        "Molecules containing carbon and hydrogen",
+        "Combined with calcium in bones and teeth",
+        "Asexual and sexual reproduction patterns"
       ],
       "correctAnswer": "Asexual and sexual reproduction patterns"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What is the dominant form of reproduction in lower plants such as mosses and liverworts?",
       "options": [
-        "Vegetative propagation",
+        "President of Addis Ababa University",
         "Sexual reproduction through flowers",
         "Asexual reproduction through spores",
-        "Budding"
+        "Decomposition by bacteria and fungi"
       ],
       "correctAnswer": "Asexual reproduction through spores"
     },
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "In which group of plants is sexual reproduction the dominant and visible form?",
       "options": [
-        "Algae",
         "Gymnosperms and angiosperms",
-        "Ferns",
-        "Mosses and liverworts"
+        "Mosses and liverworts",
+        "Drinking more acidic drinks",
+        "Several pieces of cartilage"
       ],
       "correctAnswer": "Gymnosperms and angiosperms"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "What does sexual reproduction in higher plants involve?",
       "options": [
-        "Budding",
-        "Spore formation",
-        "Fragmentation",
-        "The union of gametes or sex cells"
+        "The union of gametes or sex cells",
+        "Both root and shoot grow downward",
+        "The double helix structure of DNA",
+        "It stops all metabolic activities"
       ],
       "correctAnswer": "The union of gametes or sex cells"
     }

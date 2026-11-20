@@ -17,10 +17,10 @@
       "anki": true,
       "question": "What is Virtual Reality (VR) defined as in the textbook?",
       "options": [
-        "A technology creating a three-dimensional computer-generated simulated environment",
         "A system overlaying digital statistics upon physical real-world surfaces",
+        "Interrelated Internet-connected objects exchanging data without human intervention",
         "A telecommunication method connecting two remote offices via voice line",
-        "A database backup procedure copying files to secondary optical disks"
+        "A technology creating a three-dimensional computer-generated simulated environment"
       ],
       "correctAnswer": "A technology creating a three-dimensional computer-generated simulated environment"
     },
@@ -41,10 +41,10 @@
       "anki": true,
       "question": "How does Virtual Reality interact with human sensory perception?",
       "options": [
-        "Presents artificial information to convince minds that simulation is reality",
-        "Transmits high-voltage electrical currents directly into nerve endings",
         "Restricts sensory input exclusively to monochromatic command terminals",
-        "Eliminates auditory awareness through acoustic soundproofing chambers"
+        "They induce immediate hardware wear on internal motherboard power regulators",
+        "Transmits high-voltage electrical currents directly into nerve endings",
+        "Presents artificial information to convince minds that simulation is reality"
       ],
       "correctAnswer": "Presents artificial information to convince minds that simulation is reality"
     },
@@ -54,9 +54,9 @@
       "question": "What level of sensory immersion does Virtual Reality provide to the user?",
       "options": [
         "A completely immersive experience",
-        "A partially immersive experience",
         "A purely text-based experience",
-        "A non-interactive experience"
+        "A partially immersive experience",
+        "Generators, batteries, and cables"
       ],
       "correctAnswer": "A completely immersive experience"
     },

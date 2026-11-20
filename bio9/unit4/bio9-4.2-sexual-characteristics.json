@@ -13,10 +13,10 @@
     {
       "question": "What is the main difference between asexual and sexual reproduction?",
       "options": [
-        "Asexual reproduction always produces more offspring",
         "Sexual reproduction does not involve fertilization",
         "Sexual reproduction involves the production of sex cells",
-        "Asexual reproduction involves two parents"
+        "Asexual reproduction always produces more offspring",
+        "He was observing the empty cell walls of dead cork cells"
       ],
       "correctAnswer": "Sexual reproduction involves the production of sex cells",
       "explanation": "Sexual reproduction involves the production of sex cells called gametes, which are made in reproductive organs through meiosis.",
@@ -49,10 +49,10 @@
     {
       "question": "The fusion of sperm and egg is called:",
       "options": [
-        "Fertilization",
-        "Gestation",
         "Ovulation",
-        "Implantation"
+        "Implantation",
+        "Fertilization",
+        "Bacteria only"
       ],
       "correctAnswer": "Fertilization",
       "explanation": "Sexual reproduction starts with the union of sperm and egg in a process called fertilization, resulting in a zygote.",
@@ -85,10 +85,10 @@
     {
       "question": "Primary sexual characteristics are:",
       "options": [
-        "Features that develop only at puberty",
+        "Cells are found in all living things",
         "Reproductive organs present at birth",
-        "Non-reproductive traits that distinguish males and females",
-        "Hormones produced by the pituitary gland"
+        "Hormones produced by the pituitary gland",
+        "Features that develop only at puberty"
       ],
       "correctAnswer": "Reproductive organs present at birth",
       "explanation": "Primary sexual characteristics are the reproductive organs present at birth — males are born with penis, scrotum, and testicles; females with vagina, uterus, and ovaries.",
@@ -134,9 +134,9 @@
       "question": "Which of the following is a secondary sexual characteristic in males?",
       "options": [
         "Deepening of the voice",
-        "Scrotum",
-        "Testes",
-        "Penis"
+        "To synthesize proteins",
+        "Painful urination only",
+        "To keep results secret"
       ],
       "correctAnswer": "Deepening of the voice",
       "explanation": "Secondary sexual characteristics in males include deepening of the voice, increased body hair, increased muscle mass, and growth of long bones.",
@@ -145,10 +145,10 @@
     {
       "question": "Which of the following is a secondary sexual characteristic in females?",
       "options": [
-        "Ovaries",
-        "Vagina",
+        "They are made of atoms",
         "Broadening of the hips",
-        "Uterus"
+        "Is made of copper only",
+        "Blow on it to clean it"
       ],
       "correctAnswer": "Broadening of the hips",
       "explanation": "Secondary sexual characteristics in females include broadening of the hips, breast development, increased body hair, and onset of menstruation.",
@@ -193,9 +193,9 @@
     {
       "question": "In females, LH (luteinizing hormone) causes:",
       "options": [
-        "Voice deepening",
-        "Growth of long bones",
-        "Facial hair growth",
+        "Release of energy during respiration",
+        "Only some prokaryotes have ribosomes",
+        "Only eukaryotic cells have ribosomes",
         "Eggs to be released into the oviduct"
       ],
       "correctAnswer": "Eggs to be released into the oviduct",
@@ -217,10 +217,10 @@
     {
       "question": "Puberty in males is initiated when the hypothalamus interacts with which gland?",
       "options": [
-        "Pineal gland",
-        "Adrenal gland",
+        "Pituitary gland",
+        "Waste digestion",
         "Thyroid gland",
-        "Pituitary gland"
+        "Adrenal gland"
       ],
       "correctAnswer": "Pituitary gland",
       "explanation": "The hypothalamus produces hormones that interact with the pituitary gland, which releases FSH and LH.",
@@ -241,10 +241,10 @@
     {
       "question": "Biologically, teenagers are considered adult when:",
       "options": [
-        "They can support themselves",
+        "The cell is the basic structural and functional unit of life",
+        "Population, organism, community, biome, ecosystem, biosphere",
         "They have reached puberty and are capable of having children",
-        "They complete high school",
-        "They reach the age of 18"
+        "Biosphere, biome, ecosystem, community, population, organism"
       ],
       "correctAnswer": "They have reached puberty and are capable of having children",
       "explanation": "Biologically, teenagers are adult after they have reached puberty and are capable of having children.",
@@ -253,10 +253,10 @@
     {
       "question": "Which of the following is a psychological change during puberty?",
       "options": [
-        "Growth of body hair",
+        "The process of eating only vegetables",
         "Changes in body image and self-esteem",
-        "Deepening of voice",
-        "Broadening of hips"
+        "To receive the experimental treatment",
+        "Uncontrolled growth of abnormal cells"
       ],
       "correctAnswer": "Changes in body image and self-esteem",
       "explanation": "During puberty, bodies change rapidly, leading to changes in body image and self-esteem.",

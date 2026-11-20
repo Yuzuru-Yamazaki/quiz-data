@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What does climate refer to?",
       "options": [
-        "Conditions of the atmosphere in a place over many years",
-        "Atmospheric conditions on a particular day",
-        "The temperature of one afternoon",
-        "A single storm event"
+        "It links crustal movement to the formation of landforms",
+        "They have larger amplitude and travel along the surface",
+        "They raise pastoralist incomes while limiting emissions",
+        "Conditions of the atmosphere in a place over many years"
       ],
       "correctAnswer": "Conditions of the atmosphere in a place over many years"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What does weather refer to?",
       "options": [
-        "Average conditions over decades",
-        "Atmospheric conditions on a particular day",
         "The long-term climate of a continent",
-        "The chemistry of ocean water"
+        "It was replaced without leaving any legacy",
+        "Average conditions over decades",
+        "Atmospheric conditions on a particular day"
       ],
       "correctAnswer": "Atmospheric conditions on a particular day"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "What is global warming?",
       "options": [
-        "A single hot summer",
-        "A sudden drop in sea level",
-        "A change in ocean salinity only",
-        "A long-term increase in Earth average temperature"
+        "A long-term increase in Earth average temperature",
+        "The distribution of fossils and the ages of rocks",
+        "The plate pushes mountains upward without melting",
+        "They proved a volcanic origin for both continents"
       ],
       "correctAnswer": "A long-term increase in Earth average temperature"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "According to the IPCC, how long must a climate change persist?",
       "options": [
-        "A few hours",
+        "It replaces all farm labour",
         "Typically decades or longer",
-        "One day",
-        "One week"
+        "Only agriculture and mining",
+        "The speed of ocean currents"
       ],
       "correctAnswer": "Typically decades or longer"
     },
@@ -84,9 +84,9 @@
       "question": "Which gas is commonly associated with the greenhouse effect?",
       "options": [
         "Oxygen",
-        "Nitrogen",
         "Carbon dioxide",
-        "Argon"
+        "At the equator",
+        "Nitrogen"
       ],
       "correctAnswer": "Carbon dioxide"
     },
@@ -94,8 +94,8 @@
       "id": 8,
       "question": "What is the climate of a region such as the Horn of Africa called?",
       "options": [
+        "About 15 percent",
         "Global climate",
-        "Local weather",
         "Urban climate",
         "Regional climate"
       ],

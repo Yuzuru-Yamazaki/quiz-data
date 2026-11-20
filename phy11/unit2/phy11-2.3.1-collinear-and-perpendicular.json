@@ -243,10 +243,10 @@
       "anki": true,
       "question": "For same-direction vectors A and B, the resultant magnitude is",
       "options": [
-        "A + B",
-        "A - B",
         "|A - B|",
-        "The root of A squared plus B squared"
+        "A + B",
+        "2.6 s",
+        "A - B"
       ],
       "correctAnswer": "A + B"
     }

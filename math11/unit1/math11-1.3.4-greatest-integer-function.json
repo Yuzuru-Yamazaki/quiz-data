@@ -27,10 +27,10 @@
       "anki": true,
       "question": "The greatest integer function $[x]$ is also called:",
       "options": [
-        "the signum function",
-        "the floor function or step function",
-        "the ceiling function",
-        "the modulus function"
+        "it has no repeated first components",
+        "the graph passes through the origin",
+        "$\\{(0,0),(2,1),(4,2),(6,3),(8,4)\\}$",
+        "the floor function or step function"
       ],
       "correctAnswer": "the floor function or step function"
     },
@@ -159,9 +159,9 @@
       "anki": true,
       "question": "For the function $f(x) = [x]$, the range of $f$ is:",
       "options": [
-        "$[0,\\infty)$",
+        "$f(x) = x$ for every real number $x$",
         "the set $\\{ -1, 0, 1 \\}$",
-        "$\\mathbb{R}$",
+        "the relation contains the number $0$",
         "the set of all integers $\\mathbb{Z}$"
       ],
       "correctAnswer": "the set of all integers $\\mathbb{Z}$"
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "For the function $f(x) = 3[x]$, the range of $f$ is:",
       "options": [
-        "the set $\\{ 0, 3 \\}$",
+        "the set of all real numbers",
         "the set of all integer multiples of $3$",
-        "the set of all integers $\\mathbb{Z}$",
-        "the set of all real numbers"
+        "restrict the domain to positive numbers",
+        "the set of all integers $\\mathbb{Z}$"
       ],
       "correctAnswer": "the set of all integer multiples of $3$"
     },
@@ -232,9 +232,9 @@
       "question": "The graph of the function $f(x) = [x]$ looks like:",
       "options": [
         "a smooth curve that increases steadily",
-        "a parabola opening upward",
-        "a straight line through the origin",
-        "a staircase of horizontal step segments"
+        "the set of all integer multiples of $3$",
+        "a staircase of horizontal step segments",
+        "a straight line through the origin"
       ],
       "correctAnswer": "a staircase of horizontal step segments"
     },
@@ -244,7 +244,7 @@
       "question": "The function $f(x) = [x]$ increases to the next higher integer:",
       "options": [
         "any time the x-value becomes an integer",
-        "at every irrational value of $x$",
+        "$\\{(-3,9),(-2,4),(-1,1),(0,0),(1,-1)\\}$",
         "at every half-integer value of $x$",
         "only when $x$ is a negative number"
       ],

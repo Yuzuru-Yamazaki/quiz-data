@@ -46,12 +46,12 @@
     {
       "question": "What is a group of organs that work together to carry out a major life function called?",
       "options": [
-        "Tissue",
-        "Organism",
         "Organ system",
+        "Organism",
+        "Hypertension",
         "Population"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "An organ system is a group of organs that work together to perform a major life function (e.g., digestive system, respiratory system)."
     },
     {
@@ -68,9 +68,9 @@
     {
       "question": "What is a group of individuals of the same species living in the same area called?",
       "options": [
-        "Community",
         "Ecosystem",
-        "Biome",
+        "Community",
+        "Fungi only",
         "Population"
       ],
       "answer": 3,
@@ -168,11 +168,11 @@
       "question": "At which level of organization does the circulatory system belong?",
       "options": [
         "Organism",
-        "Tissue",
         "Organ system",
-        "Organ"
+        "By diet only",
+        "Tissue"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "The circulatory system is an organ system — it consists of the heart (organ), blood vessels (organs), and blood (tissue) working together."
     },
     {
@@ -189,12 +189,12 @@
     {
       "question": "A pride of lions living in the same savanna region represents which level?",
       "options": [
-        "Biome",
+        "Myometrium",
+        "Population",
         "Ecosystem",
-        "Community",
-        "Population"
+        "Community"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "A pride of lions (same species, same area) represents a population."
     },
     {
@@ -255,23 +255,23 @@
     {
       "question": "What defines a population versus a community?",
       "options": [
-        "A population is larger than a community",
         "A population includes abiotic factors; a community does not",
-        "A population is one species; a community includes multiple species",
-        "There is no difference"
+        "It allows some substances to pass through while restricting others",
+        "Bleeding under the skin, bleeding gums, and poor healing of wounds",
+        "A population is one species; a community includes multiple species"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "A population consists of individuals of a single species. A community consists of multiple populations of different species interacting."
     },
     {
       "question": "Which level of organization is a school of fish (same species) in a lake?",
       "options": [
         "Community",
-        "Organism",
         "Population",
+        "Tall trees",
         "Ecosystem"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "A school of fish of the same species in a lake represents a population."
     },
     {
@@ -299,23 +299,23 @@
     {
       "question": "Which level is made up of only one species?",
       "options": [
-        "Ecosystem",
-        "Biome",
         "Population",
-        "Community"
+        "Saprotroph",
+        "Community",
+        "Ecosystem"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "A population consists of individuals of only one species living in the same area."
     },
     {
       "question": "The nervous system is an example of which level of organization?",
       "options": [
-        "Organism",
-        "Organ",
         "Tissue",
-        "Organ system"
+        "Organ system",
+        "Testosterone",
+        "Organism"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "The nervous system is an organ system — it includes the brain, spinal cord, and nerves working together."
     },
     {

@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Indigenous knowledge is",
       "options": [
-        "Traditional or local knowledge",
         "Modern scientific knowledge",
-        "Imported knowledge",
-        "Laboratory knowledge"
+        "Laboratory knowledge",
+        "The risk of total crop failure",
+        "Traditional or local knowledge"
       ],
       "correctAnswer": "Traditional or local knowledge"
     },
@@ -42,10 +42,10 @@
       "anki": true,
       "question": "Indigenous knowledge often develops independently of",
       "options": [
+        "Community beliefs",
         "Scientific knowledge",
-        "Local culture",
-        "Farming practice",
-        "Community beliefs"
+        "Herd expansion alone",
+        "Farming practice"
       ],
       "correctAnswer": "Scientific knowledge"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "Farmers in Bale dig trenches around potato plots to protect against",
       "options": [
-        "Porcupine attack",
-        "Frost damage",
+        "Tropical regions",
+        "Excess water",
         "Soil erosion",
-        "Excess water"
+        "Porcupine attack"
       ],
       "correctAnswer": "Porcupine attack"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Highland farmers use kitchen ash to",
       "options": [
+        "Feed animals",
+        "Relay planting",
         "Fertilize soil",
-        "Kill weeds",
-        "Store seed",
-        "Feed animals"
+        "Store seed"
       ],
       "correctAnswer": "Fertilize soil"
     },
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "Indigenous knowledge often includes",
       "options": [
+        "Extra field irrigation",
         "Beliefs and traditions",
         "Only technical facts",
-        "Only written records",
-        "Only modern tools"
+        "Only written records"
       ],
       "correctAnswer": "Beliefs and traditions"
     }

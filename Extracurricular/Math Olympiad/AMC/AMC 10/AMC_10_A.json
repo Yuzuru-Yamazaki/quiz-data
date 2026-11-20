@@ -100,11 +100,11 @@
     {
       "question": "The graph of $f(x) = |\\lfloor x \\rfloor| - |\\lfloor 1-x \\rfloor|$ is symmetric about which of the following? (Here $\\lfloor x \\rfloor$ is the greatest integer not exceeding $x$.)",
       "options": [
-        "the point $(1, 0)$",
-        "the origin",
+        "$|\\alpha|^2 + |\\beta|^2 = 1$",
         "the point $(\\frac{1}{2}, 0)$",
-        "the $y$-axis",
-        "the line $x = 1$"
+        "$[\\frac{3}{8}, \\frac{1}{2}]$",
+        "the line $x = 1$",
+        "the point $(1, 0)$"
       ],
       "correctAnswer": "the point $(\\frac{1}{2}, 0)$",
       "explanation": "",
@@ -185,10 +185,10 @@
       "question": "Inside a right circular cone with base radius $5$ and height $12$ are three congruent spheres each with radius $r$. Each sphere is tangent to the other two spheres and also tangent to the base and side of the cone. What is $r$?",
       "options": [
         "$\\frac{90 - 40\\sqrt{3}}{11}$",
-        "$\\frac{5}{2}$",
-        "$\\frac{3}{2}$",
-        "$2$",
-        "$\\frac{144 - 25\\sqrt{3}}{44}$"
+        "$\\log_2 \\frac{11}{\\sqrt{3}}$",
+        "$\\frac{144 - 25\\sqrt{3}}{44}$",
+        "$|\\alpha|^2 + |\\beta|^2 = 1$",
+        "$(\\frac{1}{2}, \\frac{2}{3}]$"
       ],
       "correctAnswer": "$\\frac{90 - 40\\sqrt{3}}{11}$",
       "explanation": "",
@@ -203,11 +203,11 @@
     {
       "question": "Inside a right circular cone with base radius $5$ and height $12$ are three congruent spheres each with radius $r$. Each sphere is tangent to the other two spheres and also tangent to the base and side of the cone. What is $r$?",
       "options": [
-        "$2$",
-        "$\\frac{3}{2}$",
         "$\\frac{144 - 25\\sqrt{3}}{44}$",
-        "$\\frac{5}{2}$",
-        "$\\frac{90 - 40\\sqrt{3}}{11}$"
+        "$(\\frac{3}{4}, \\frac{7}{8}]$",
+        "$\\log_2 \\frac{11}{\\sqrt{7}}$",
+        "$\\frac{90 - 40\\sqrt{3}}{11}$",
+        "the point $(\\frac{1}{2}, 0)$"
       ],
       "correctAnswer": "$\\frac{90 - 40\\sqrt{3}}{11}$",
       "explanation": "",
@@ -237,11 +237,11 @@
     {
       "question": "A quadratic polynomial $p(x)$ with real coefficients and leading coefficient $1$ is called *disrespectful* if the equation $p(p(x)) = 0$ is satisfied by exactly three real numbers. Among all the disrespectful quadratic polynomials, there is a unique such polynomial $\\tilde{p}(x)$ for which the sum of the roots is maximized. What is $\\tilde{p}(1)$?",
       "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{7}{27}$",
         "$\\frac{5}{16}$",
         "$\\frac{9}{8}$",
-        "$\\frac{5}{8}$",
-        "$1$",
-        "$\\frac{1}{2}$"
+        "$\\frac{5}{8}$"
       ],
       "correctAnswer": "$\\frac{5}{16}$",
       "explanation": "",
