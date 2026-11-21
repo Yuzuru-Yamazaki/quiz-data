@@ -129,9 +129,9 @@
       "id": 9,
       "question": "Passage A describes a species expanding its range northward. Passage B attributes a different species' decline to warming waters.\n\nHow do the passages together develop a single idea?",
       "options": [
-        "They prove all species benefit from warming.",
-        "They describe the same species in two locations.",
-        "They disagree about whether climate change occurs.",
+        "larger moduli make factoring easier because more candidate factors become available",
+        "The experiment repeated three times each trial produced slightly different results.",
+        "their joint state cannot be written as a product of a separate state for each qubit",
         "They show that climate shifts can produce different outcomes for different species."
       ],
       "correctAnswer": "They show that climate shifts can produce different outcomes for different species.",
@@ -171,10 +171,10 @@
       "id": 12,
       "question": "The town installed bike lanes on Main Street. Several shop owners later reported more visitors arriving by bicycle.\n\nWhat is the main idea of the passage?",
       "options": [
-        "Bike lanes reduced the number of cars in town.",
-        "Main Street was closed to all traffic.",
-        "Adding bike lanes was followed by more bicycle visitors to local shops.",
-        "Shop owners opposed the bike lanes."
+        "the difficulty of solving a system of multivariate polynomial equations",
+        "four real parameters, one for each possible computational basis outcome",
+        "Although the report was brief, it contained several important findings.",
+        "Adding bike lanes was followed by more bicycle visitors to local shops."
       ],
       "correctAnswer": "Adding bike lanes was followed by more bicycle visitors to local shops.",
       "section": "English",
@@ -185,9 +185,9 @@
       "id": 13,
       "question": "A 2023 study of 1,200 patients found that those who walked 30 minutes daily had lower blood pressure than inactive patients. The authors caution that the study was observational and cannot establish causation.\n\nWhich statement best captures the authors' position?",
       "options": [
-        "Walking guarantees lower blood pressure for everyone.",
-        "The study proved that inactivity causes high blood pressure.",
-        "The findings have no practical relevance.",
+        "classical algorithms such as lattice-, hash-, code- and multivariate-based schemes designed to resist quantum attacks",
+        "fail to produce a perfect copy, and her measurement will disturb the states and introduce detectable errors in the key",
+        "A quantum state that is a linear combination of two or more basis states, such as $\\alpha|0\\rangle + \\beta|1\\rangle$",
         "Daily walking was associated with lower blood pressure, but the study does not prove walking caused the difference."
       ],
       "correctAnswer": "Daily walking was associated with lower blood pressure, but the study does not prove walking caused the difference.",
@@ -269,10 +269,10 @@
       "id": 19,
       "question": "A student is revising a paragraph about a school garden to emphasize how students benefited. Which sentence should be kept?\n\nWhich sentence best supports the rhetorical goal?",
       "options": [
+        "classical random number generators are far too slow to keep up with the qubit rate",
         "Students learned to grow vegetables and shared the harvest with a local food bank.",
-        "The project began in the spring of 2021.",
-        "Soil was delivered in early April.",
-        "The garden measured thirty feet by twenty feet."
+        "unchanged at $2^k$ candidates, since Grover's algorithm needs the key to be public",
+        "The result is undefined, since a superposition has no definite measurement outcome"
       ],
       "correctAnswer": "Students learned to grow vegetables and shared the harvest with a local food bank.",
       "section": "English",
@@ -283,9 +283,9 @@
       "id": 20,
       "question": "What does 'equivocal' most nearly mean in the sentence 'The results were equivocal, leaving researchers uncertain'?",
       "options": [
-        "Clearly decisive",
-        "Extremely detailed",
-        "Newly discovered",
+        "It abandons the main topic entirely.",
+        "Bee declines have stopped worldwide.",
+        "needs no single-photon source at all",
         "Open to more than one interpretation"
       ],
       "correctAnswer": "Open to more than one interpretation",
@@ -311,10 +311,10 @@
       "id": 22,
       "question": "Astronomers found a planet orbiting a nearby star. The planet is about the size of Earth.\n\nWhich statement is directly supported by the passage?",
       "options": [
-        "The star is smaller than the Sun.",
-        "The newly found planet is roughly Earth-sized.",
         "The planet was found by amateur observers.",
-        "The planet has liquid oceans."
+        "The newly found planet is roughly Earth-sized.",
+        "a much larger classical computer at every node",
+        "It indicates the announcement was unimportant."
       ],
       "correctAnswer": "The newly found planet is roughly Earth-sized.",
       "section": "English",
@@ -339,8 +339,8 @@
       "id": 24,
       "question": "The data, which ___ gathered from three sources, were checked carefully.\n\nWhich verb form correctly completes the sentence?",
       "options": [
-        "is",
         "were",
+        "$84$",
         "has",
         "was"
       ],
@@ -353,10 +353,10 @@
       "id": 25,
       "question": "Which version of the sentence is most concise?\n\nSelect the most concise version.",
       "options": [
-        "The committee reached a decision to approve the plan.",
+        "She enjoyed swimming as a child.",
         "The committee approved the plan.",
-        "The committee took action to approve of the plan.",
-        "The committee gave its approval to the plan."
+        "The committee gave its approval to the plan.",
+        "the control qubit is $|0\\rangle$"
       ],
       "correctAnswer": "The committee approved the plan.",
       "section": "English",
@@ -382,9 +382,9 @@
       "question": "Passage 1: Rainforests store large amounts of carbon. Passage 2: In one rainforest, logging released substantial carbon into the air.\n\nHow does Passage 2 relate to Passage 1?",
       "options": [
         "It contradicts the claim that rainforests store carbon.",
-        "It introduces an unrelated topic.",
+        "Rail commuters reported lower stress than drivers in the sample.",
         "It gives an example of a process that undermines carbon storage.",
-        "It describes a solution to deforestation."
+        "the fact that Bell's inequality cannot be tested in a laboratory"
       ],
       "correctAnswer": "It gives an example of a process that undermines carbon storage.",
       "section": "English",
@@ -563,10 +563,10 @@
       "id": 40,
       "question": "The author presents a problem, describes two failed solutions, and then proposes a third approach.\n\nWhat is the text structure?",
       "options": [
-        "A comparison of two equal viewpoints",
-        "A chronological biography",
-        "A definition followed only by examples",
-        "Problem followed by attempted solutions and a proposed remedy"
+        "Problem followed by attempted solutions and a proposed remedy",
+        "E91 needs no authenticated classical channel, while BB84 does",
+        "all measurements, since every setting yields an identical bit",
+        "the impossibility of building entangled photon sources at all"
       ],
       "correctAnswer": "Problem followed by attempted solutions and a proposed remedy",
       "section": "English",
@@ -591,10 +591,10 @@
       "id": 42,
       "question": "The committee released its findings on Tuesday. ___ , the department responded the following day.\n\nWhich transition best completes the sentence?",
       "options": [
-        "Although,",
+        "Subsequently,",
         "For example,",
         "Meanwhile,",
-        "Subsequently,"
+        "$\\frac{7}{2}$"
       ],
       "correctAnswer": "Subsequently,",
       "section": "English",
@@ -605,10 +605,10 @@
       "id": 43,
       "question": "What does 'reluctant' most nearly mean in the sentence 'He was reluctant to share his findings'?",
       "options": [
+        "Unwilling",
+        "moreover,",
         "Certain",
-        "Able",
-        "Eager",
-        "Unwilling"
+        "Eager"
       ],
       "correctAnswer": "Unwilling",
       "section": "English",
@@ -647,10 +647,10 @@
       "id": 46,
       "question": "A narrator recalls a childhood summer while describing a present-day return to the same town.\n\nWhat is the likely purpose of the shift in time?",
       "options": [
+        "She argued that the policy was unfair she proposed an alternative.",
         "To contrast past and present and show how the narrator has changed",
-        "To explain the history of the country",
-        "To introduce a new character in each paragraph",
-        "To prove the town no longer exists"
+        "the same basis Alice used, which he deduces from the photon itself",
+        "$2\\sqrt{2} \\approx 2.83$, which exceeds the classical bound of $2$"
       ],
       "correctAnswer": "To contrast past and present and show how the narrator has changed",
       "section": "English",
@@ -662,9 +662,9 @@
       "question": "In 2010 the town's recycling rate was 22%. After a deposit program began in 2012, the rate reached 41% by 2016.\n\nWhat relationship does the passage suggest?",
       "options": [
         "The deposit program had no measurable effect.",
-        "Recycling rates fell between 2012 and 2016.",
-        "The town stopped recycling in 2010.",
-        "The recycling rate rose after the deposit program began."
+        "The recycling rate rose after the deposit program began.",
+        "secure storage of random numbers against quantum attacks",
+        "user to verify the key by exchanging whole photon states"
       ],
       "correctAnswer": "The recycling rate rose after the deposit program began.",
       "section": "English",

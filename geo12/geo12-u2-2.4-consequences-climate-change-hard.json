@@ -18,9 +18,9 @@
       "question": "How does the albedo feedback involving boreal forests and tundra work?",
       "options": [
         "Dark forests absorb more sunlight than snow, accelerating warming",
-        "White tundra absorbs more sunlight than forests",
-        "Forests reflect sunlight back to space",
-        "Snow increases surface temperature directly"
+        "Forces that originate outside the Earth, mainly in the atmosphere",
+        "An increase in desert conditions from overgrazing and cultivation",
+        "The North American Plate includes western North Atlantic seafloor"
       ],
       "correctAnswer": "Dark forests absorb more sunlight than snow, accelerating warming"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Why might Antarctica gain snow while still losing ice overall?",
       "options": [
-        "Snowfall has no effect on ice mass",
+        "Dark forests absorb more sunlight than snow, accelerating warming",
+        "Orbital variations help initiate glacial and interglacial periods",
         "Warmer air holds more snow inland while coastal melting increases",
-        "Antarctica has no coastline",
-        "Melting stops in warmer air"
+        "Forces that originate outside the Earth, mainly in the atmosphere"
       ],
       "correctAnswer": "Warmer air holds more snow inland while coastal melting increases"
     },
@@ -39,9 +39,9 @@
       "id": 3,
       "question": "How does saltwater intrusion affect coastal groundwater supplies?",
       "options": [
-        "It adds fresh water to aquifers",
-        "It lowers the ocean surface",
         "Rising seas push salt into freshwater aquifers",
+        "It will return exactly to preindustrial levels",
+        "The Atlantic Ocean once covered all continents",
         "It increases groundwater temperature only"
       ],
       "correctAnswer": "Rising seas push salt into freshwater aquifers"
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "How do climate-driven changes in species distribution affect human well-being?",
       "options": [
-        "By eliminating all diseases",
-        "By increasing mineral deposits",
-        "By reducing all biodiversity to zero",
-        "Through emerging diseases and changes in food supply"
+        "Ocean basins can expand or shrink over geologic time",
+        "Climate is measured in hours; weather over centuries",
+        "Through emerging diseases and changes in food supply",
+        "Rain falls in heavier spells with longer dry periods"
       ],
       "correctAnswer": "Through emerging diseases and changes in food supply"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "Why might higher latitudes benefit initially from warming?",
       "options": [
-        "Longer growing seasons and earlier snowmelt",
-        "Permanently frozen soils",
-        "More frequent blizzards",
-        "Shorter daylight hours"
+        "It included ministers as well as scientists",
+        "It lies entirely in the Southern Hemisphere",
+        "Continental crust is denser than the mantle",
+        "Longer growing seasons and earlier snowmelt"
       ],
       "correctAnswer": "Longer growing seasons and earlier snowmelt"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What limits the carbon dioxide fertilization effect?",
       "options": [
-        "Abundant rainfall everywhere",
+        "One region represents the whole planet perfectly",
         "Shortages of water, nitrogen and other nutrients",
-        "Excess oxygen in the air",
-        "Lack of sunlight at night"
+        "Continental crust is buoyant and resists sinking",
+        "The reptile evolved separately on each continent"
       ],
       "correctAnswer": "Shortages of water, nitrogen and other nutrients"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "How does faster decomposition of soil organic matter amplify warming?",
       "options": [
-        "It stores carbon permanently",
-        "It cools the soil surface",
+        "There was a discernible human influence on global climate",
+        "They trap heat and raise air temperatures near the ground",
         "It releases additional carbon dioxide into the atmosphere",
-        "It stops plant growth"
+        "By adding greenhouse gases and aerosols to the atmosphere"
       ],
       "correctAnswer": "It releases additional carbon dioxide into the atmosphere"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "Which regions are projected to face decreasing crop yields?",
       "options": [
-        "Only polar regions",
-        "Only high mountain peaks",
-        "All regions equally",
+        "The bending of rock layers due to sideways earth movements",
+        "Shock waves released by shifting rock during an earthquake",
+        "It reduces emissions through modern efficient technologies",
         "Tropical regions where many developing nations are located"
       ],
       "correctAnswer": "Tropical regions where many developing nations are located"
@@ -106,9 +106,9 @@
       "question": "What explains the projected increase in wildfires in high-latitude forests?",
       "options": [
         "More frequent dry spells in forested areas",
-        "More frequent rainfall in forests",
-        "Longer snow cover each year",
-        "Fewer lightning strikes"
+        "Human influence will continue to change it",
+        "Land between two faults that has sunk down",
+        "More frequent rainfall in forests"
       ],
       "correctAnswer": "More frequent dry spells in forested areas"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Why is a single warm year insufficient to demonstrate global warming?",
       "options": [
-        "Warm years are never recorded",
         "Warming is small in any year and significant only over decades",
-        "Global warming happens in one day",
-        "A warm year disproves climate change"
+        "A fracture forms and one limb is pushed forward over the other",
+        "It shows a long-term rise in global land and ocean temperature",
+        "Faster decomposition releases more carbon dioxide into the air"
       ],
       "correctAnswer": "Warming is small in any year and significant only over decades"
     }

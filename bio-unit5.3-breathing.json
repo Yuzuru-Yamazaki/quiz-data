@@ -36,10 +36,10 @@
       "id": 3,
       "question": "What is the process by which energy is produced in the form of ATP called?",
       "options": [
-        "Fermentation",
-        "Digestion",
         "Photosynthesis",
-        "Cellular respiration"
+        "Fermentation",
+        "Cellular respiration",
+        "Neither is realistic"
       ],
       "correctAnswer": "Cellular respiration"
     },
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "What is released as a waste product in oxidative phosphorylation?",
       "options": [
-        "Water",
+        "Carbon dioxide",
         "Nitrogen",
-        "Oxygen",
-        "Carbon dioxide"
+        "Binary fission",
+        "Oxygen"
       ],
       "correctAnswer": "Carbon dioxide"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "The need to breathe is primarily driven by the accumulation of which gas?",
       "options": [
+        "Nitrogen",
         "Hydrogen",
         "Carbon dioxide",
-        "Nitrogen",
-        "Oxygen"
+        "Carotid artery"
       ],
       "correctAnswer": "Carbon dioxide"
     },
@@ -80,10 +80,10 @@
       "id": 7,
       "question": "What are the primary functions of the breathing system?",
       "options": [
-        "Pump blood",
+        "The chromosome number is reduced by half",
         "Provide oxygen and remove carbon dioxide",
-        "Filter waste",
-        "Digest food"
+        "That they cause fermentation and disease",
+        "It relaxes and returns to its dome shape"
       ],
       "correctAnswer": "Provide oxygen and remove carbon dioxide"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What non-vital functions does the breathing system serve?",
       "options": [
+        "To the stem and leaves through the root xylem",
         "Sensing odors, producing speech, and coughing",
-        "Blood circulation",
-        "Digestion and absorption",
-        "Hormone production"
+        "The study of genetic variation in populations",
+        "Interphase, prophase, metaphase, and anaphase"
       ],
       "correctAnswer": "Sensing odors, producing speech, and coughing"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "What are the major structures of the breathing system?",
       "options": [
-        "Heart, arteries, veins, capillaries",
+        "Actively by cell spending energy against a concentration gradient",
         "Nose, larynx, pharynx, trachea, bronchi, bronchioles, and alveoli",
-        "Mouth, esophagus, stomach, intestines",
-        "Kidneys, ureters, bladder, urethra"
+        "Food chain follows multiple paths, food web follows a single path",
+        "They do not respond normally to the cell cycle controlling system"
       ],
       "correctAnswer": "Nose, larynx, pharynx, trachea, bronchi, bronchioles, and alveoli"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Through which structures does air enter the breathing system in humans?",
       "options": [
-        "Only the mouth",
-        "Only the nasal cavities",
+        "Vitamin D, bile acids, and hormones",
         "The two nasal cavities or the mouth",
-        "The ears"
+        "Only the nasal cavities",
+        "They form hydrogen bonds with water"
       ],
       "correctAnswer": "The two nasal cavities or the mouth"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What do the tiny hairs that line the nasal cavities do?",
       "options": [
-        "Act as a filter keeping foreign particles out",
-        "Warm the air",
-        "Produce mucus",
-        "Detect odors"
+        "Anatomy, Pathology, Physiology, and Neurology",
+        "$NO_{2} \\rightarrow NH_{3} \\rightarrow N_{2}$",
+        "$NO_{2} + O_{2} \\rightarrow NO_{3} + 2H + 2e$",
+        "Act as a filter keeping foreign particles out"
       ],
       "correctAnswer": "Act as a filter keeping foreign particles out"
     },
@@ -136,9 +136,9 @@
       "question": "What does the mucus in the nasal cavity do?",
       "options": [
         "Warms and moistens incoming air, traps foreign particles",
-        "Filters blood",
-        "Produces oxygen",
-        "Digests food"
+        "The normal functions of living organisms and their parts",
+        "From the earth and the surface of leaves (transpiration)",
+        "A rise in the overall temperature of the earth's surface"
       ],
       "correctAnswer": "Warms and moistens incoming air, traps foreign particles"
     },
@@ -212,10 +212,10 @@
       "id": 19,
       "question": "What causes a runny nose in winter?",
       "options": [
-        "Decreased mucus production",
-        "More mucus production",
-        "Accumulation of mucus due to slowed cilia",
-        "Increased cilia movement"
+        "Shorter urethra providing less protection",
+        "They evolve before they can be identified",
+        "Globular proteins that catalyze reactions",
+        "Accumulation of mucus due to slowed cilia"
       ],
       "correctAnswer": "Accumulation of mucus due to slowed cilia"
     },
@@ -223,10 +223,10 @@
       "id": 20,
       "question": "What warms the incoming air in the nasal cavity?",
       "options": [
-        "Goblet cells",
+        "Glomerulus, Bowman's capsule, collecting duct",
+        "DNA replication followed by protein synthesis",
         "Capillaries just beneath the nasal epithelium",
-        "Cilia",
-        "Mucus"
+        "The study of genetic variation in populations"
       ],
       "correctAnswer": "Capillaries just beneath the nasal epithelium"
     },
@@ -234,10 +234,10 @@
       "id": 21,
       "question": "Why do you lose your ability to smell during a common cold or influenza?",
       "options": [
-        "Thick mucus blocks receptors on the nasal epithelium",
-        "Olfactory nerves are damaged",
-        "Cilia stop working",
-        "The nose swells shut"
+        "A unit character such as height, body colour, or sex",
+        "The use of computer programs to analyze genetic data",
+        "Diffusion of oxygen, water vapour and carbon dioxide",
+        "Thick mucus blocks receptors on the nasal epithelium"
       ],
       "correctAnswer": "Thick mucus blocks receptors on the nasal epithelium"
     },
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "What is the pharynx made up of?",
       "options": [
-        "Cardiac muscle and connective tissue",
-        "Bone and ligament",
+        "Skeletal muscle and mucous membrane",
         "Smooth muscle and cartilage",
-        "Skeletal muscle and mucous membrane"
+        "Cardiac muscle and connective tissue",
+        "They form hydrogen bonds with water"
       ],
       "correctAnswer": "Skeletal muscle and mucous membrane"
     },
@@ -289,10 +289,10 @@
       "id": 26,
       "question": "What does the pharynx receive from the oral cavity?",
       "options": [
-        "Only food",
         "Air, food, and water",
+        "Only food",
         "Only water",
-        "Only air"
+        "More than 50 percent"
       ],
       "correctAnswer": "Air, food, and water"
     },
@@ -322,10 +322,10 @@
       "id": 29,
       "question": "What can pass through the lower parts of the pharynx?",
       "options": [
-        "Only water",
         "Only food",
-        "Air, food, and fluids",
-        "Only air"
+        "Only water",
+        "Striations in bullets",
+        "Air, food, and fluids"
       ],
       "correctAnswer": "Air, food, and fluids"
     },
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "Which tonsils are located in the pharynx?",
       "options": [
-        "Only lingual tonsils",
-        "Only palatine tonsils",
-        "Only pharyngeal tonsils",
-        "Pharyngeal, palatine, and lingual tonsils"
+        "The discovery of the circulation of blood",
+        "Pharyngeal, palatine, and lingual tonsils",
+        "Heart rate more than 100 beats per minute",
+        "A device that records electrical activity"
       ],
       "correctAnswer": "Pharyngeal, palatine, and lingual tonsils"
     },
@@ -356,9 +356,9 @@
       "question": "What covers the pharyngeal tonsil to trap and destroy pathogens?",
       "options": [
         "Ciliated epithelium",
-        "Mucus",
-        "Cilia",
-        "Hair"
+        "Surrounded by flesh",
+        "University students",
+        "Colon, rectum, anus"
       ],
       "correctAnswer": "Ciliated epithelium"
     },
@@ -377,10 +377,10 @@
       "id": 34,
       "question": "What helps the larynx regulate?",
       "options": [
-        "The amount of food swallowed",
-        "Blood flow",
+        "A process that reduces chromosome number by half",
+        "Transfer between two flowers on different plants",
         "The amount of air entering and leaving the lungs",
-        "Mucus production"
+        "The Plant Genetic Resource Centre in Addis Ababa"
       ],
       "correctAnswer": "The amount of air entering and leaving the lungs"
     },
@@ -388,10 +388,10 @@
       "id": 35,
       "question": "What is the structure of the larynx made of?",
       "options": [
+        "It grows deep into the soil",
         "Several pieces of cartilage",
-        "Bone",
-        "Ligaments only",
-        "Smooth muscle"
+        "92 chromosomes (tetraploid)",
+        "Measuring oxygen production"
       ],
       "correctAnswer": "Several pieces of cartilage"
     },
@@ -399,10 +399,10 @@
       "id": 36,
       "question": "What is the epiglottis?",
       "options": [
-        "A muscle in the pharynx",
-        "A bone in the larynx",
-        "A valve in the esophagus",
-        "A thin, elastic cartilage that covers the trachea's opening"
+        "Diffusion of carbon dioxide and capillary movement of water",
+        "They are porous, allowing water and solutes to pass through",
+        "A thin, elastic cartilage that covers the trachea's opening",
+        "They may perform normal functions better than healthy cells"
       ],
       "correctAnswer": "A thin, elastic cartilage that covers the trachea's opening"
     },
@@ -421,10 +421,10 @@
       "id": 38,
       "question": "What is the glottis made up of?",
       "options": [
-        "False vocal cords only",
-        "Epiglottis and thyroid cartilage",
-        "Arytenoid and cricoid cartilage",
-        "Vestibular folds, true vocal cords, and space between them"
+        "Vestibular folds, true vocal cords, and space between them",
+        "They respond normally to the cell cycle controlling system",
+        "Globular protein pigments that are typically water-soluble",
+        "Fats serve as major fuel store and poor conductors of heat"
       ],
       "correctAnswer": "Vestibular folds, true vocal cords, and space between them"
     },
@@ -432,10 +432,10 @@
       "id": 39,
       "question": "What do the inner borders of the true vocal cords allow?",
       "options": [
-        "Mucus to flow",
         "Air to pass freely",
-        "Food to pass",
-        "Oscillation to make sound"
+        "Oscillation to make sound",
+        "Mucus to flow",
+        "Avoiding dental check-ups"
       ],
       "correctAnswer": "Oscillation to make sound"
     },
@@ -445,8 +445,8 @@
       "options": [
         "Males have more cartilage",
         "Males have greater vocal cord folds",
-        "Males have larger lungs",
-        "Males have larger tracheas"
+        "Males have larger tracheas",
+        "The amount of food an organism eats"
       ],
       "correctAnswer": "Males have greater vocal cord folds"
     },
@@ -454,10 +454,10 @@
       "id": 41,
       "question": "During swallowing, what happens to the epiglottis?",
       "options": [
-        "It remains stationary",
-        "It swings downward to close the trachea opening",
-        "It opens wider",
-        "It lifts upward"
+        "That they cannot survive in the presence of air",
+        "Double helix made of two strands of nucleotides",
+        "Because there is no more space in the ecosystem",
+        "It swings downward to close the trachea opening"
       ],
       "correctAnswer": "It swings downward to close the trachea opening"
     },
@@ -488,9 +488,9 @@
       "question": "What connects the pieces of cartilage in the trachea?",
       "options": [
         "Ligaments",
-        "Tendons",
-        "Muscles",
-        "Connective tissue"
+        "Connective tissue",
+        "Hydrochloric acid",
+        "Muscles"
       ],
       "correctAnswer": "Connective tissue"
     },
@@ -498,10 +498,10 @@
       "id": 45,
       "question": "What prevents the trachea from collapsing?",
       "options": [
-        "Mucus",
-        "The rings of cartilage",
+        "Milk and milk products",
         "Smooth muscle",
-        "Cilia"
+        "The rings of cartilage",
+        "Heart attack or stroke"
       ],
       "correctAnswer": "The rings of cartilage"
     },
@@ -520,10 +520,10 @@
       "id": 47,
       "question": "What do the primary bronchi further branch into?",
       "options": [
-        "Terminal bronchioles",
+        "Swedish Save the Children Fund",
+        "The layer below the hypodermis",
         "Secondary and tertiary bronchi",
-        "Alveoli",
-        "Alveolar ducts"
+        "Terminal bronchioles"
       ],
       "correctAnswer": "Secondary and tertiary bronchi"
     },
@@ -575,10 +575,10 @@
       "id": 52,
       "question": "What can smooth muscle in bronchioles change?",
       "options": [
-        "The amount of mucus",
-        "The number of cilia",
+        "$CO_{2} + H_{2}O \\rightarrow C_{6}H_{12}O_{6} + O_{2}$",
         "The size of the tubing to increase or decrease airflow",
-        "The amount of cartilage"
+        "Dead organic matter -> Nitrification -> Ammonification",
+        "They dissolve quickly, forming sweet-tasting solutions"
       ],
       "correctAnswer": "The size of the tubing to increase or decrease airflow"
     },
@@ -586,10 +586,10 @@
       "id": 53,
       "question": "Where does the breathing zone begin?",
       "options": [
-        "At the pharynx",
+        "Plant response to light, mainly exhibited by the shoot",
+        "Wuchereria bancrofti, Brugia malayi, and Brugia timori",
         "Where terminal bronchioles join a breathing bronchiole",
-        "At the larynx",
-        "At the trachea"
+        "The size of the tubing to increase or decrease airflow"
       ],
       "correctAnswer": "Where terminal bronchioles join a breathing bronchiole"
     },
@@ -597,10 +597,10 @@
       "id": 54,
       "question": "What does a breathing bronchiole lead to?",
       "options": [
-        "A secondary bronchiole",
+        "A rare condition caused by abnormal copper metabolism",
+        "Helper T cells, cytotoxic T cells, suppressor T cells",
         "An alveolar duct that opens into a cluster of alveoli",
-        "A primary bronchiole",
-        "A terminal bronchiole"
+        "The stage of cell division where chromosomes separate"
       ],
       "correctAnswer": "An alveolar duct that opens into a cluster of alveoli"
     },
@@ -608,10 +608,10 @@
       "id": 55,
       "question": "What is an alveolar sac?",
       "options": [
-        "A passageway for air",
-        "A cartilage structure",
-        "A single air sac",
-        "A cluster of many individual alveoli"
+        "Chromosome manipulation and movement",
+        "Returning nutrients to the ecosystem",
+        "A cluster of many individual alveoli",
+        "Water and minerals from root to leaf"
       ],
       "correctAnswer": "A cluster of many individual alveoli"
     },
@@ -630,10 +630,10 @@
       "id": 57,
       "question": "What do the elastic walls of alveoli do during air intake?",
       "options": [
-        "Stretch, greatly increasing surface area",
-        "Harden",
-        "Collapse",
-        "Contract"
+        "$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
+        "The chromosome number is reduced by half",
+        "Protects the stomach from pepsin and HCl",
+        "Stretch, greatly increasing surface area"
       ],
       "correctAnswer": "Stretch, greatly increasing surface area"
     },
@@ -652,10 +652,10 @@
       "id": 59,
       "question": "What function do alveolar pores serve?",
       "options": [
-        "Allow blood flow",
+        "Advances that improve human health and health care at all levels",
+        "Hydrogen bonds must be broken before molecules can escape as gas",
         "Help maintain equal air pressure throughout the alveoli and lung",
-        "Increase surface area",
-        "Transport mucus"
+        "Genetically modified and improved varieties of crops and animals"
       ],
       "correctAnswer": "Help maintain equal air pressure throughout the alveoli and lung"
     },
@@ -687,8 +687,8 @@
       "options": [
         "78%",
         "16%",
-        "0.04%",
-        "4%"
+        "1.5 L",
+        "0.04%"
       ],
       "correctAnswer": "0.04%"
     },
@@ -730,8 +730,8 @@
       "question": "Gases move from an area of which pressure?",
       "options": [
         "Equal to any pressure",
+        "They help in seed germination",
         "Low to equal pressure",
-        "Low to high pressure",
         "High pressure to low pressure"
       ],
       "correctAnswer": "High pressure to low pressure"
@@ -740,10 +740,10 @@
       "id": 67,
       "question": "When does inspiration (inhalation) occur?",
       "options": [
-        "When lung pressure is less than atmospheric",
         "When lung pressure is greater than atmospheric",
-        "When lung pressure equals atmospheric",
-        "When the diaphragm relaxes"
+        "When lung pressure is less than atmospheric",
+        "First Ethiopian Family Planning Association",
+        "When lung pressure equals atmospheric"
       ],
       "correctAnswer": "When lung pressure is less than atmospheric"
     },
@@ -751,9 +751,9 @@
       "id": 68,
       "question": "When does expiration (exhalation) occur?",
       "options": [
+        "Unsaturated ones are solid at room temperature",
         "When lung pressure equals atmospheric",
         "When lung pressure is greater than atmospheric",
-        "When the diaphragm contracts",
         "When lung pressure is less than atmospheric"
       ],
       "correctAnswer": "When lung pressure is greater than atmospheric"
@@ -762,10 +762,10 @@
       "id": 69,
       "question": "What is the diaphragm?",
       "options": [
-        "A cartilage in the throat",
-        "A valve in the heart",
-        "A muscle in the arm",
-        "A dome-shaped sheet of muscle separating thoracic from abdominal cavity"
+        "An inactive seed waiting for favourable conditions to start germination",
+        "Daughter cells receive chromosomes that are the same in number and kind",
+        "A dome-shaped sheet of muscle separating thoracic from abdominal cavity",
+        "Organic matter (food) manufactured in the leaf to the rest of the plant"
       ],
       "correctAnswer": "A dome-shaped sheet of muscle separating thoracic from abdominal cavity"
     },
@@ -773,10 +773,10 @@
       "id": 70,
       "question": "What happens to the diaphragm during inspiration?",
       "options": [
-        "It contracts and pulls downward",
-        "It relaxes",
-        "It expands outward",
-        "It moves sideways"
+        "It is in the center of the leaf",
+        "$pH$ 7 to 8 (slightly alkaline)",
+        "It is used in the dark reaction",
+        "It contracts and pulls downward"
       ],
       "correctAnswer": "It contracts and pulls downward"
     },
@@ -806,10 +806,10 @@
       "id": 73,
       "question": "What happens to the diaphragm during expiration?",
       "options": [
-        "It contracts",
         "It relaxes and returns to its dome shape",
-        "It flattens further",
-        "It moves sideways"
+        "A physical structure built in ecosystems",
+        "Both hydrogen atoms point toward the ion",
+        "Higher seed-bearing non-flowering plants"
       ],
       "correctAnswer": "It relaxes and returns to its dome shape"
     },
@@ -840,8 +840,8 @@
       "question": "During inspiration, what do the external intercostal muscles do?",
       "options": [
         "Contract, pulling the ribs down",
-        "Remain inactive",
-        "Relax",
+        "Unsaturated ones have no carbon atoms",
+        "Reproduction or getting new offspring",
         "Contract, pulling the ribs up and out"
       ],
       "correctAnswer": "Contract, pulling the ribs up and out"
@@ -850,10 +850,10 @@
       "id": 77,
       "question": "During expiration, what do the internal intercostal muscles do?",
       "options": [
-        "Remain inactive",
-        "Relax",
+        "Contract, pulling the ribs down and in",
         "Contract, pulling the ribs up",
-        "Contract, pulling the ribs down and in"
+        "Only their classification and diseases",
+        "Accumulation of plaque in artery walls"
       ],
       "correctAnswer": "Contract, pulling the ribs down and in"
     },
@@ -894,10 +894,10 @@
       "id": 81,
       "question": "What happens to the rib cage and sternum during expiration?",
       "options": [
+        "Salt but not water is lost",
+        "Move downwards and inwards",
         "Remain stationary",
-        "Move forwards",
-        "Move upwards and outwards",
-        "Move downwards and inwards"
+        "Move upwards and outwards"
       ],
       "correctAnswer": "Move downwards and inwards"
     },
@@ -927,10 +927,10 @@
       "id": 84,
       "question": "What drives air into the lungs during inspiration?",
       "options": [
-        "Gravity",
         "External air pressure",
-        "Muscle relaxation",
-        "High internal lung pressure"
+        "Facilitated diffusion",
+        "High internal lung pressure",
+        "Muscle relaxation"
       ],
       "correctAnswer": "External air pressure"
     },
@@ -938,10 +938,10 @@
       "id": 85,
       "question": "What forces air out of the lungs during expiration?",
       "options": [
-        "External air pressure",
+        "A condition caused by abnormal iron metabolism",
+        "Petiole, lamina, midrib, margin, base and tips",
         "Thorax compression and elastic recoil of lungs",
-        "Diaphragm contraction",
-        "Rib expansion"
+        "Theodor Schwann and Matthias Schleiden in 1838"
       ],
       "correctAnswer": "Thorax compression and elastic recoil of lungs"
     },
@@ -949,10 +949,10 @@
       "id": 86,
       "question": "What kind of lime water color change indicates exhaled carbon dioxide?",
       "options": [
+        "Turns blue",
         "Turns milky/cloudy",
-        "Turns red",
         "Turns green",
-        "Turns blue"
+        "Meristematic cells"
       ],
       "correctAnswer": "Turns milky/cloudy"
     },
@@ -960,10 +960,10 @@
       "id": 87,
       "question": "What is bronchitis?",
       "options": [
-        "A condition where the mucous lining of the bronchial tubes becomes inflamed",
-        "A condition where alveolar walls rupture",
-        "A condition where the trachea narrows",
-        "A condition of the pharynx"
+        "Skeletal muscle action, respiratory movement, and smooth muscle contraction",
+        "Because glucose would dissolve and compromise the cell's osmotic properties",
+        "The amount of energy, biomass, or number of organisms at each trophic level",
+        "A condition where the mucous lining of the bronchial tubes becomes inflamed"
       ],
       "correctAnswer": "A condition where the mucous lining of the bronchial tubes becomes inflamed"
     },
@@ -971,9 +971,9 @@
       "id": 88,
       "question": "What are symptoms of bronchitis?",
       "options": [
-        "Alveolar rupture",
-        "Loss of voice",
-        "Tracheal collapse",
+        "The transfer of pollen grains from the anther of a stamen to the stigma of the pistil",
+        "On the metaphase plate with spindle attached to sister chromatids from opposite poles",
+        "The study of microscopic organisms or microbes that cannot be seen by the unaided eye",
         "Excess mucus production, tissue swelling, constriction of airways, restricted airflow"
       ],
       "correctAnswer": "Excess mucus production, tissue swelling, constriction of airways, restricted airflow"
@@ -982,10 +982,10 @@
       "id": 89,
       "question": "Unlike the trachea and bronchi, the bronchioles are not maintained by what?",
       "options": [
-        "Mucus",
         "Smooth muscle",
         "Cilia",
-        "Cartilage bands"
+        "Cartilage bands",
+        "Up to 100 times"
       ],
       "correctAnswer": "Cartilage bands"
     },
@@ -993,10 +993,10 @@
       "id": 90,
       "question": "What happens to alveolar walls in emphysema?",
       "options": [
-        "They develop more cilia",
-        "They produce more mucus",
+        "Faster decomposition of organic matter and enhanced cycling of nutrients",
+        "They are isomers with the same chemical formula but different structures",
         "They become irritated, lose flexibility, stretch, and eventually rupture",
-        "They thicken"
+        "Because water is needed for photosynthesis and to support cell structure"
       ],
       "correctAnswer": "They become irritated, lose flexibility, stretch, and eventually rupture"
     },
@@ -1004,10 +1004,10 @@
       "id": 91,
       "question": "Why does exhalation become difficult in emphysema?",
       "options": [
-        "Too much mucus",
+        "It is 100 times less than $CO_2$",
+        "The trachea collapses",
         "The diaphragm is paralyzed",
-        "Air becomes trapped in the lungs",
-        "The trachea collapses"
+        "Air becomes trapped in the lungs"
       ],
       "correctAnswer": "Air becomes trapped in the lungs"
     },
@@ -1026,10 +1026,10 @@
       "id": 93,
       "question": "What is the name given to the combination of chronic bronchitis and emphysema?",
       "options": [
-        "Asthma",
-        "Bronchitis",
-        "Lung cancer",
-        "COPD (Chronic Obstructive Pulmonary Disease)"
+        "Only establishing evolutionary relationships",
+        "False, genetics is still a theoretical field",
+        "COPD (Chronic Obstructive Pulmonary Disease)",
+        "Sugar (carbohydrate) through carbon fixation"
       ],
       "correctAnswer": "COPD (Chronic Obstructive Pulmonary Disease)"
     },
@@ -1048,10 +1048,10 @@
       "id": 95,
       "question": "Bronchial asthma is linked to inflammation of which structures?",
       "options": [
-        "Pharynx",
-        "Bronchioles",
+        "Cell theory",
+        "Alveoli",
         "Trachea",
-        "Alveoli"
+        "Bronchioles"
       ],
       "correctAnswer": "Bronchioles"
     },
@@ -1070,10 +1070,10 @@
       "id": 97,
       "question": "What are common causes of asthma?",
       "options": [
+        "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
+        "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
         "Tobacco smoking, pollution, and allergens such as pollen, mold, dust",
-        "Lack of exercise",
-        "Overeating",
-        "Drinking cold water"
+        "When the controlling factors over cell division and cell growth fail"
       ],
       "correctAnswer": "Tobacco smoking, pollution, and allergens such as pollen, mold, dust"
     },
@@ -1081,10 +1081,10 @@
       "id": 98,
       "question": "The right lung is divided into how many lobes?",
       "options": [
-        "Two",
+        "Three",
+        "400 g",
         "Five",
-        "Four",
-        "Three"
+        "Four"
       ],
       "correctAnswer": "Three"
     },
@@ -1103,10 +1103,10 @@
       "id": 100,
       "question": "What are the parts of the respiration process?",
       "options": [
-        "Breathing and gas exchange",
+        "To take advantage of all nitrogen fixed and accumulated in the soil and roots of the legumes",
         "Ventilation, external respiration, gas transfer, internal respiration, cellular respiration",
-        "Inhalation and exhalation only",
-        "Oxygen intake and carbon dioxide removal"
+        "Complex organic matter is broken into simpler and smaller molecules that are then absorbed",
+        "Weakness, fatigue, anemia, edema, metabolic acidosis, increased potassium, heart arrhythmias"
       ],
       "correctAnswer": "Ventilation, external respiration, gas transfer, internal respiration, cellular respiration"
     }

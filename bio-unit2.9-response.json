@@ -14,9 +14,9 @@
       "id": 1,
       "question": "What is one of the important characteristics of plants mentioned in the response section?",
       "options": [
-        "Ability to change colour at will",
-        "Ability to produce sound",
-        "Ability to fly",
+        "A mechanism of scattering seeds away from the parent plant",
+        "Mixed with garlic to treat asthma, used to treat gastritis",
+        "The method for naming, ordering, and classifying creatures",
         "Ability to respond to stimuli (changes in the environment)"
       ],
       "correctAnswer": "Ability to respond to stimuli (changes in the environment)"
@@ -25,10 +25,10 @@
       "id": 2,
       "question": "What is tropism?",
       "options": [
-        "A type of flower",
+        "Globular protein pigments that are typically water-soluble",
         "Bending towards or opposite to the direction of a stimulus",
-        "A type of seed",
-        "A growth hormone"
+        "Fats serve as major fuel store and poor conductors of heat",
+        "$6CO_{2} + 12H_{2}O \\rightarrow C_{6}H_{12}O_{6} + 6O_{2}$"
       ],
       "correctAnswer": "Bending towards or opposite to the direction of a stimulus"
     },
@@ -37,7 +37,7 @@
       "question": "What is positive tropism?",
       "options": [
         "Bending opposite to the stimulus",
-        "Random growth",
+        "Locally adapted native seeds",
         "Bending towards the stimulus",
         "No response to stimulus"
       ],
@@ -47,10 +47,10 @@
       "id": 4,
       "question": "What is negative tropism?",
       "options": [
-        "Growing straight",
+        "It is 100 times less than $CO_2$",
         "Bending towards the stimulus",
-        "Bending opposite to the stimulus",
-        "Growing in circles"
+        "Only between atmosphere and land",
+        "Bending opposite to the stimulus"
       ],
       "correctAnswer": "Bending opposite to the stimulus"
     },
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "What causes tropism?",
       "options": [
-        "Light alone",
-        "Gravity alone",
         "Unilateral stimulus causing unequal production or distribution of growth hormone resulting in unequal growth",
-        "Equal distribution of water"
+        "A type of nuclear division where duplicated chromosomes are distributed between two identical daughter cells",
+        "Organic fertilizer obtained by using worms (commonly earthworms) that decompose food scraps and organic waste",
+        "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts"
       ],
       "correctAnswer": "Unilateral stimulus causing unequal production or distribution of growth hormone resulting in unequal growth"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "Which parts of a plant exhibit tropism?",
       "options": [
-        "The shoot and root",
+        "Hormone production",
         "Only the shoot",
         "Only the leaves",
-        "Only the root"
+        "The shoot and root"
       ],
       "correctAnswer": "The shoot and root"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What is the specific name of the auxin involved in plant growth?",
       "options": [
-        "Indole Acetic Acid (IAA)",
         "Abscisic acid",
+        "Blood vessels and nerves",
         "Gibberellic acid",
-        "Zeatin"
+        "Indole Acetic Acid (IAA)"
       ],
       "correctAnswer": "Indole Acetic Acid (IAA)"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "Where is auxin produced?",
       "options": [
-        "In the stem only",
         "In the leaves only",
-        "At the tips of shoot and root",
-        "In the flowers only"
+        "In the flowers only",
+        "The oxygen (δ-) faces the ion",
+        "At the tips of shoot and root"
       ],
       "correctAnswer": "At the tips of shoot and root"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What auxin concentration promotes shoot growth?",
       "options": [
+        "When the diaphragm relaxes",
+        "Enough water and nutrients",
         "$10^{-8}$ to $10^{-1}$ ppm",
-        "10 ppm",
-        "100 ppm",
-        "$10^{-4}$ ppm"
+        "Decreased mucus production"
       ],
       "correctAnswer": "$10^{-8}$ to $10^{-1}$ ppm"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What effect does the auxin concentration required for root growth have on shoot growth?",
       "options": [
+        "Water transport through xylem",
         "Promotes shoot growth",
-        "Has no effect on shoot growth",
         "Inhibits shoot growth",
-        "Kills the shoot"
+        "Has no effect on shoot growth"
       ],
       "correctAnswer": "Has no effect on shoot growth"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "Why does the shoot bend towards light in response to unilateral light?",
       "options": [
-        "Auxin destroys cells on the illuminated side",
-        "Higher auxin on the shaded side causes more growth by cell elongation than the illuminated side",
-        "Light pulls the shoot",
-        "Higher auxin on illuminated side inhibits growth"
+        "Two copies of one maternal or paternal chromosome linked by cohesive protein on the centromere",
+        "It needs less water, is resistant to drought, and yields more grain than traditional varieties",
+        "They increase soil fertility, resulting in increased plant growth and agricultural productivity",
+        "Higher auxin on the shaded side causes more growth by cell elongation than the illuminated side"
       ],
       "correctAnswer": "Higher auxin on the shaded side causes more growth by cell elongation than the illuminated side"
     },
@@ -190,10 +190,10 @@
       "id": 17,
       "question": "Why does the root bend away from light?",
       "options": [
-        "The root is not affected by auxin",
-        "The root grows towards gravity",
-        "More auxin on the shaded part of the root inhibits cell elongation compared to the illuminated side",
-        "Light repels roots"
+        "Either by osmosis across the cell membrane and cytoplasm or by diffusion along the porous cell wall",
+        "For dual purpose: harvest the legumes as a crop and use fixed nitrogen in soil for non-legume crops",
+        "A microbial process by which ammonia is sequentially oxidized first to nitrite and then to nitrate",
+        "More auxin on the shaded part of the root inhibits cell elongation compared to the illuminated side"
       ],
       "correctAnswer": "More auxin on the shaded part of the root inhibits cell elongation compared to the illuminated side"
     },
@@ -201,9 +201,9 @@
       "id": 18,
       "question": "What is phototropism?",
       "options": [
-        "Plant response to water",
-        "Plant response to gravity",
-        "Plant response to touch",
+        "$C_{6}H_{12}O_{6} + O_{2} \\rightarrow CO_{2} + H_{2}O$",
+        "Cohesion due to hydrogen bonds between water molecules",
+        "They were created by God at the beginning of the world",
         "Plant response to light, mainly exhibited by the shoot"
       ],
       "correctAnswer": "Plant response to light, mainly exhibited by the shoot"
@@ -212,10 +212,10 @@
       "id": 19,
       "question": "How does the shoot respond to light?",
       "options": [
-        "Grows randomly",
-        "No response to light",
+        "A flower that has both male and female parts",
+        "Negatively phototropic (bends away)",
         "Positively phototropic (bends towards light)",
-        "Negatively phototropic (bends away)"
+        "Auxin destroys cells on the illuminated side"
       ],
       "correctAnswer": "Positively phototropic (bends towards light)"
     },
@@ -223,9 +223,9 @@
       "id": 20,
       "question": "Who conducted the earliest experiment on phototropism?",
       "options": [
-        "Robert Hooke",
         "Louis Pasteur",
         "Charles Darwin",
+        "Propanoic acid",
         "Gregor Mendel"
       ],
       "correctAnswer": "Charles Darwin"
@@ -234,10 +234,10 @@
       "id": 21,
       "question": "What is a coleoptile?",
       "options": [
-        "A flower bud",
-        "A type of leaf",
+        "Muscle contraction and relaxation",
         "The shoot tip of a young seedling",
-        "A type of root"
+        "They make water evaporate quickly",
+        "Higher than 7.5 or lower than 7.0"
       ],
       "correctAnswer": "The shoot tip of a young seedling"
     },
@@ -246,9 +246,9 @@
       "question": "What did Darwin observe about the bending in response to light?",
       "options": [
         "The bending did not occur in the tip but in the elongating part just below",
-        "The tip did not respond to light",
-        "The entire shoot bent uniformly",
-        "The bending occurred in the tip itself"
+        "Energy released during cellular respiration is harvested and stored as ATP",
+        "They are required to make hydrochloric acid (HCl) present in gastric juice",
+        "Bacteria in their rumens secrete the enzyme cellulase to degrade cellulose"
       ],
       "correctAnswer": "The bending did not occur in the tip but in the elongating part just below"
     },
@@ -257,9 +257,9 @@
       "question": "What happened when the shoot tip was removed or covered with opaque foil in Darwin's experiment?",
       "options": [
         "The shoot could no longer bend toward the light",
-        "The shoot bent more towards light",
-        "The shoot grew straight",
-        "The shoot bent away from light"
+        "Birds eat the fruit and the seeds fall directly",
+        "The most prestigious medical prize in the world",
+        "Thick-walled cells without intercellular spaces"
       ],
       "correctAnswer": "The shoot could no longer bend toward the light"
     },
@@ -267,10 +267,10 @@
       "id": 24,
       "question": "What did Darwin conclude from his phototropism experiment?",
       "options": [
-        "Light causes the tip to grow faster",
-        "The tip directly bends toward light",
-        "Some influence is transmitted from the tip to more basal regions, regulating growth and inducing curvature",
-        "Auxin is not involved"
+        "Phosphate ions are released from compounds like phospholipids, ATP, and DNA and returned to soil and water",
+        "His lifetime works in conserving and recording the very diverse Ethiopian flora with many endemic species",
+        "Hydrophilic heads lie in watery solutions outside the membrane, hydrophobic tails form an impermeable layer",
+        "Some influence is transmitted from the tip to more basal regions, regulating growth and inducing curvature"
       ],
       "correctAnswer": "Some influence is transmitted from the tip to more basal regions, regulating growth and inducing curvature"
     },
@@ -278,10 +278,10 @@
       "id": 25,
       "question": "What is hydrotropism?",
       "options": [
-        "Response to gravity",
+        "Few (4 to 8) sets of vascular bundles",
         "Response to water, exhibited by roots",
-        "Response to light",
-        "Response to touch"
+        "Reproduction or getting new offspring",
+        "An organism that feeds on dead matter"
       ],
       "correctAnswer": "Response to water, exhibited by roots"
     },
@@ -289,10 +289,10 @@
       "id": 26,
       "question": "Why do roots grow toward water?",
       "options": [
-        "To attract pollinators",
-        "To prevent soil erosion",
+        "The acquisition, storage, analysis, and dissemination of biological data",
         "Because water is needed for photosynthesis and to support cell structure",
-        "To anchor the plant"
+        "True, its prominent role is in the welfare and betterment of human lives",
+        "The process of identifying, treating, and preventing infectious diseases"
       ],
       "correctAnswer": "Because water is needed for photosynthesis and to support cell structure"
     },
@@ -322,10 +322,10 @@
       "id": 29,
       "question": "How does the root respond to gravity?",
       "options": [
-        "Grows horizontally",
+        "Genetic abnormalities, regeneration, and tissue death",
+        "Helper T cells, cytotoxic T cells, suppressor T cells",
         "Positively geotropic (grows downward towards gravity)",
-        "No response to gravity",
-        "Negatively geotropic (grows upward)"
+        "It is released to the atmosphere through leaf stomata"
       ],
       "correctAnswer": "Positively geotropic (grows downward towards gravity)"
     },
@@ -333,10 +333,10 @@
       "id": 30,
       "question": "How does the shoot respond to gravity?",
       "options": [
+        "The side chain that varies in different amino acids",
+        "A flower that does not have either stamen or pistil",
         "Negatively geotropic (grows upward against gravity)",
-        "Positively geotropic (grows downward)",
-        "Grows sideways",
-        "No response to gravity"
+        "Seeds within fruits that act as kites or propellers"
       ],
       "correctAnswer": "Negatively geotropic (grows upward against gravity)"
     },
@@ -344,10 +344,10 @@
       "id": 31,
       "question": "What happens to a seedling placed horizontally?",
       "options": [
-        "Both root and shoot grow downward",
-        "Both root and shoot grow upward",
+        "Hydrogen bonds cause molecules to stick together requiring more energy to move",
         "The root bends downward while the shoot bends upward until the plant is upright",
-        "It stays horizontal"
+        "$NO_{3} \\rightarrow NO_{2} \\rightarrow NO \\rightarrow N_{2}O \\rightarrow N_{2}$",
+        "Ibn al-Nafis in 1242, and first brought to prominence in 1628 by William Harvey"
       ],
       "correctAnswer": "The root bends downward while the shoot bends upward until the plant is upright"
     },
@@ -366,10 +366,10 @@
       "id": 33,
       "question": "What is a clinostat?",
       "options": [
-        "A tool for measuring water content",
-        "A device for measuring light",
-        "A stationary platform",
-        "A rotating instrument that overcomes the effect of gravity"
+        "They respond normally to the cell cycle controlling system",
+        "Bronchial asthma, prostate disorder, inflammatory diseases",
+        "A rotating instrument that overcomes the effect of gravity",
+        "The chemical reactions that take place in living organisms"
       ],
       "correctAnswer": "A rotating instrument that overcomes the effect of gravity"
     },
@@ -377,10 +377,10 @@
       "id": 34,
       "question": "What happens to a seedling fixed horizontally in a rotating clinostat?",
       "options": [
-        "It stops growing",
-        "It bends downward",
         "It grows straight because rotation overcomes gravity",
-        "It bends upward"
+        "Aquatic plants (hydrophytes) and algae (algal bloom)",
+        "They are seedless and do not have flowers and fruits",
+        "Thick mucus blocks receptors on the nasal epithelium"
       ],
       "correctAnswer": "It grows straight because rotation overcomes gravity"
     }

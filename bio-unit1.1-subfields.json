@@ -91,9 +91,9 @@
       "id": 8,
       "question": "Zoology is concerned with which aspects of animal life?",
       "options": [
-        "Only animal behavior and genetics",
-        "Only embryonic development and anatomy",
-        "Only classification and naming of animals",
+        "Two copies of one maternal or paternal chromosome linked by cohesive protein on the centromere",
+        "A sequence of events in the parent cell distributing genetic materials to form daughter cells",
+        "Polypeptides made of long chains of linked amino acids that regulate physiological processes",
         "Embryonic development to mature adulthood, behavior, interactions, food finding, and genetics"
       ],
       "correctAnswer": "Embryonic development to mature adulthood, behavior, interactions, food finding, and genetics"
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "Botany deals with which aspects of plants?",
       "options": [
-        "Only their biochemical processes",
         "Structure, properties, biochemical processes, classification, diseases, and interactions with the environment",
-        "Only their structure and properties",
-        "Only their classification and diseases"
+        "A ring of bark with the phloem is removed, leaving xylem as the only vessel connecting upper and lower parts",
+        "From the time seed embryo starts growth up to formation of young independent plant with photosynthetic leaves",
+        "Organic fertilizer obtained by using worms (commonly earthworms) that decompose food scraps and organic waste"
       ],
       "correctAnswer": "Structure, properties, biochemical processes, classification, diseases, and interactions with the environment"
     },
@@ -135,10 +135,10 @@
       "id": 12,
       "question": "The principles and findings of botany have provided the base for which applied sciences?",
       "options": [
-        "Agriculture, horticulture, and forestry",
         "Engineering and architecture",
-        "Medicine and pharmacology",
-        "Astronomy and geology"
+        "Agriculture, horticulture, and forestry",
+        "They are much smaller than normal cells",
+        "Only from rainfall at the same location"
       ],
       "correctAnswer": "Agriculture, horticulture, and forestry"
     },
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "According to the text, plants have long been used as a source of which items?",
       "options": [
-        "Only food and medicine",
+        "Seed is a matured ovule while fruit is a matured ovary",
+        "Dead organic matter -> Assimilation -> Denitrification",
         "Food, shelter, clothing, medicine, ornament, and tools",
-        "Only medicine and tools",
-        "Only food and shelter"
+        "The vein (transporting vessels) and supportive tissues"
       ],
       "correctAnswer": "Food, shelter, clothing, medicine, ornament, and tools"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "Through which process do green plants convert energy from the Sun into the chemical energy of food?",
       "options": [
-        "Photosynthesis",
         "Fermentation",
-        "Respiration",
-        "Transpiration"
+        "Transpiration",
+        "The centrosome",
+        "Photosynthesis"
       ],
       "correctAnswer": "Photosynthesis"
     },
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "What is the second unique and important capability of green plants besides converting solar energy into chemical energy?",
       "options": [
-        "The formation and release of oxygen as a by-product of photosynthesis",
-        "Producing flowers",
-        "Absorbing water from the soil",
-        "Growing tall"
+        "Every other glucose monomer is densely packed as long extended chains",
+        "It forms a complex with proteins making the structure of the ribosome",
+        "Phosphate ions from soil, water, and rock to plants and aquatic algae",
+        "The formation and release of oxygen as a by-product of photosynthesis"
       ],
       "correctAnswer": "The formation and release of oxygen as a by-product of photosynthesis"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "Ruta chalepensis L., known as 'Tena Adam' in Amharic, is an example of what?",
       "options": [
-        "An endemic animal of Ethiopia",
-        "An invasive plant species in Ethiopia",
         "A traditional herbal medicine of Ethiopia",
-        "A type of Ethiopian microorganism"
+        "A type of Ethiopian microorganism",
+        "An invasive plant species in Ethiopia",
+        "Herbivores produce different stomach acid"
       ],
       "correctAnswer": "A traditional herbal medicine of Ethiopia"
     },
@@ -190,10 +190,10 @@
       "id": 17,
       "question": "What is microbiology?",
       "options": [
-        "The study of microscopic organisms or microbes that cannot be seen by the unaided eye",
-        "The study of large animals",
-        "The study of fossils",
-        "The study of plants"
+        "Excess mucus production, tissue swelling, constriction of airways, restricted airflow",
+        "The transfer of pollen grains from the anther of a stamen to the stigma of the pistil",
+        "Water molecules are split into $H^+$ and $O_2$ (photolysis) and electrons are excited",
+        "The study of microscopic organisms or microbes that cannot be seen by the unaided eye"
       ],
       "correctAnswer": "The study of microscopic organisms or microbes that cannot be seen by the unaided eye"
     },
@@ -201,10 +201,10 @@
       "id": 18,
       "question": "Which of the following groups are included in the study of microbiology?",
       "options": [
-        "Bacteria, archaea, protists, viruses, microscopic algae and fungi",
-        "Only protists and archaea",
-        "Only bacteria and viruses",
-        "Only fungi and algae"
+        "Elongated dead cells joined end to end to form continuous vessels",
+        "They do not respond normally to the cell cycle controlling system",
+        "The atmosphere (air), hydrosphere (water), and lithosphere (soil)",
+        "Bacteria, archaea, protists, viruses, microscopic algae and fungi"
       ],
       "correctAnswer": "Bacteria, archaea, protists, viruses, microscopic algae and fungi"
     },
@@ -212,9 +212,9 @@
       "id": 19,
       "question": "Bacteriology is the study of which type of microbe?",
       "options": [
+        "Over 200",
         "Viruses",
         "Bacteria",
-        "Fungi",
         "Algae"
       ],
       "correctAnswer": "Bacteria"
@@ -234,9 +234,9 @@
       "id": 21,
       "question": "Why have the majority of bacterial and other microbial species yet to be identified?",
       "options": [
-        "They are too dangerous to study",
-        "They evolve before they can be identified",
-        "They do not exist in significant numbers",
+        "The use of plants as medicine against human and animal diseases",
+        "Agriculture, nursery work, plant disease, forestry, and poultry",
+        "Excessive use of synthetic N fertilizer in agricultural systems",
         "Due to the difficulty of isolating a single microscopic species"
       ],
       "correctAnswer": "Due to the difficulty of isolating a single microscopic species"
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "What is helping microbiology, a rapidly expanding field, to constantly identify new species?",
       "options": [
-        "More students studying biology",
-        "Increased funding only",
-        "Government regulations",
-        "New technology and developments in the field"
+        "New technology and developments in the field",
+        "It has been successfully performed on humans",
+        "Transfer between flowers on different plants",
+        "Expensive, toxic, and harmful to environment"
       ],
       "correctAnswer": "New technology and developments in the field"
     },
@@ -267,10 +267,10 @@
       "id": 24,
       "question": "How is anatomy primarily carried out according to the text?",
       "options": [
-        "By studying fossils",
-        "Through observation of living organisms only",
+        "Through mathematical modeling",
         "By dissection and the separation of parts",
-        "Through mathematical modeling"
+        "Through observation of living organisms only",
+        "A traditional herbal medicine of Ethiopia"
       ],
       "correctAnswer": "By dissection and the separation of parts"
     },
@@ -278,10 +278,10 @@
       "id": 25,
       "question": "Which branch of biology studies the external form and structure of organisms?",
       "options": [
-        "Cytology",
+        "By meiosis",
         "Morphology",
-        "Anatomy",
-        "Histology"
+        "Histology",
+        "Cytology"
       ],
       "correctAnswer": "Morphology"
     },
@@ -355,10 +355,10 @@
       "id": 32,
       "question": "Which branch of biology studies the structure and function of informational molecules such as DNA and RNA?",
       "options": [
+        "Genetics",
         "Molecular biology",
         "Cell biology",
-        "Cytology",
-        "Genetics"
+        "Receptor proteins"
       ],
       "correctAnswer": "Molecular biology"
     },
@@ -366,10 +366,10 @@
       "id": 33,
       "question": "What does physiology study?",
       "options": [
+        "Food storage and help in internal translocation of water",
         "The normal functions of living organisms and their parts",
-        "The classification of organisms",
-        "The structure of organisms",
-        "The evolution of species"
+        "A rise in the overall temperature of the earth's surface",
+        "They may not securely anchor themselves like other cells"
       ],
       "correctAnswer": "The normal functions of living organisms and their parts"
     },
@@ -388,10 +388,10 @@
       "id": 35,
       "question": "Which branch of biology studies the embryo from a single-celled zygote to the formation of form and shape?",
       "options": [
-        "Embryology",
-        "Genetics",
         "Evolution",
-        "Cytology"
+        "Lymphokine",
+        "Cytology",
+        "Embryology"
       ],
       "correctAnswer": "Embryology"
     },
@@ -410,10 +410,10 @@
       "id": 37,
       "question": "Gastrula is the stage in embryonic development after which stage during which the embryo develops two layers?",
       "options": [
-        "Blastula",
-        "Zygote",
         "Morula",
-        "Neurula"
+        "Neurula",
+        "Blastula",
+        "33 pairs"
       ],
       "correctAnswer": "Blastula"
     },
@@ -465,10 +465,10 @@
       "id": 42,
       "question": "Which branch of biology studies the origin, growth, and structure of organisms of the past?",
       "options": [
-        "Paleontology",
+        "Evolution",
         "Exobiology",
-        "Genetics",
-        "Evolution"
+        "Hydrogenated",
+        "Paleontology"
       ],
       "correctAnswer": "Paleontology"
     },
@@ -476,10 +476,10 @@
       "id": 43,
       "question": "Fossils of organisms are the primary subject of which branch of biology?",
       "options": [
-        "Taxonomy",
         "Paleontology",
+        "Genetics",
         "Evolution",
-        "Genetics"
+        "Neurologists"
       ],
       "correctAnswer": "Paleontology"
     },
@@ -498,10 +498,10 @@
       "id": 45,
       "question": "The beaks of Darwin's finches are an example studied in which branch of biology?",
       "options": [
-        "Ecology",
-        "Genetics",
+        "Evolution",
         "Taxonomy",
-        "Evolution"
+        "Epidermis",
+        "Genetics"
       ],
       "correctAnswer": "Evolution"
     },
@@ -608,9 +608,9 @@
       "id": 55,
       "question": "The electron transport chain, which transfers electrons from electron donors to electron acceptors via redox reactions, is involved in which process?",
       "options": [
-        "Photosynthesis",
-        "Absorption of food",
+        "Sugars, fats, vitamins, and minerals",
         "Transportation of water in plants",
+        "Replacement of damaged or dead cells",
         "Release of energy during respiration"
       ],
       "correctAnswer": "Release of energy during respiration"
@@ -630,10 +630,10 @@
       "id": 57,
       "question": "What does biochemistry deal with according to the review questions in the unit?",
       "options": [
-        "The study of living organisms",
-        "The study of cells",
-        "The study of genes",
-        "The chemical reactions that take place in living organisms"
+        "The chemical reactions that take place in living organisms",
+        "Bronchial asthma, prostate disorder, inflammatory diseases",
+        "They respond normally to the cell cycle controlling system",
+        "A rotating instrument that overcomes the effect of gravity"
       ],
       "correctAnswer": "The chemical reactions that take place in living organisms"
     },

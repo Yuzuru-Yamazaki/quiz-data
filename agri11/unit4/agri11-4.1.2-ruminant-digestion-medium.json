@@ -66,10 +66,10 @@
       "anki": true,
       "question": "The omasum squeezes",
       "options": [
-        "Water from feed",
-        "Oil from grain",
         "Gas from blood",
-        "Acid from food"
+        "Acid from food",
+        "Water from feed",
+        "Excess nitrogen"
       ],
       "correctAnswer": "Water from feed"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "The horse stomach serves as a",
       "options": [
+        "Eliminates all pests",
         "Short-term reservoir",
         "Long-term store",
-        "Fermentation vat",
-        "Grit grinder"
+        "Fermentation vat"
       ],
       "correctAnswer": "Short-term reservoir"
     },
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "Pseudo-ruminants possess the omasum, abomasum and",
       "options": [
-        "Reticulum",
         "Rumen",
-        "Crop",
-        "Cecum"
+        "Cecum",
+        "About 64%",
+        "Reticulum"
       ],
       "correctAnswer": "Reticulum"
     },

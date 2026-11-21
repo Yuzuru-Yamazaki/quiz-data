@@ -55,9 +55,9 @@
       "question": "Sorghum grows best on",
       "options": [
         "Well-drained loam",
+        "Rocky slopes",
         "Waterlogged clay",
-        "Saline sand",
-        "Rocky slopes"
+        "Energy and intake"
       ],
       "correctAnswer": "Well-drained loam"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Sorghum anthracnose is a",
       "options": [
-        "Fungal disease",
+        "Produces honey",
+        "Weed species",
         "Viral disease",
-        "Insect pest",
-        "Weed species"
+        "Fungal disease"
       ],
       "correctAnswer": "Fungal disease"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Grain mold in sorghum is favored by",
       "options": [
-        "Wet humid conditions",
         "Dry cold weather",
         "Low soil fertility",
-        "Strong sunlight"
+        "Wet humid conditions",
+        "Reduce seed moisture"
       ],
       "correctAnswer": "Wet humid conditions"
     },
@@ -152,8 +152,8 @@
       "options": [
         "Young seedlings",
         "Mature grains",
-        "Stored grain",
-        "Root nodules"
+        "Root nodules",
+        "Lime production"
       ],
       "correctAnswer": "Young seedlings"
     },
@@ -186,10 +186,10 @@
       "anki": true,
       "question": "Sorghum stalks are valuable for",
       "options": [
+        "Sugar syrup",
         "Fencing and fuel",
-        "Cooking oil",
-        "Textile fiber",
-        "Sugar syrup"
+        "Flowers drop off",
+        "Textile fiber"
       ],
       "correctAnswer": "Fencing and fuel"
     },

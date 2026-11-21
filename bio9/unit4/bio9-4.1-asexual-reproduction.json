@@ -13,10 +13,10 @@
     {
       "question": "Which of the following best distinguishes living things from non-living matter?",
       "options": [
-        "Respiration",
-        "Movement",
-        "The ability to reproduce",
-        "Growth"
+        "Presence of chloroplasts",
+        "Development of the penis",
+        "They undergo plasmolysis",
+        "The ability to reproduce"
       ],
       "correctAnswer": "The ability to reproduce",
       "explanation": "Reproduction is one of the unique characteristics of life that best distinguishes living things from non-living matter.",
@@ -37,10 +37,10 @@
     {
       "question": "Which of the following is true about asexual reproduction?",
       "options": [
-        "It requires two parents",
-        "It involves gametes",
         "It produces identical copies of the parent",
-        "It always increases genetic variation"
+        "It always increases genetic variation",
+        "A solution that contains no solutes at all",
+        "Provide oxygen and nutrients to the embryo"
       ],
       "correctAnswer": "It produces identical copies of the parent",
       "explanation": "In asexual reproduction, each organism is capable of producing identical copies of itself without gametes.",
@@ -49,10 +49,10 @@
     {
       "question": "Which of the following is an advantage of asexual reproduction?",
       "options": [
+        "No mate is needed",
+        "To filter liquids",
         "High genetic variation",
-        "Greater ability to adapt to changing environments",
-        "Offspring are genetically different from the parent",
-        "No mate is needed"
+        "Swimming in water"
       ],
       "correctAnswer": "No mate is needed",
       "explanation": "Advantages include no mate needed, no gametes needed, and all good characteristics are passed on to offspring.",
@@ -62,9 +62,9 @@
       "question": "Which of the following is a disadvantage of asexual reproduction?",
       "options": [
         "Involves complex gamete formation",
-        "Produces little genetic variation",
-        "Requires a mate",
-        "Offspring take too long to develop"
+        "To increase the number of species",
+        "Offspring take too long to develop",
+        "Produces little genetic variation"
       ],
       "correctAnswer": "Produces little genetic variation",
       "explanation": "Little variation is created, making adaptation to changing environments unlikely.",
@@ -85,10 +85,10 @@
     {
       "question": "Binary fission is common among which of the following groups?",
       "options": [
-        "Bacteria and protozoa",
-        "Mammals",
         "Vertebrates",
-        "Birds"
+        "Bacteria and protozoa",
+        "Using barrier devices",
+        "It prevents ovulation"
       ],
       "correctAnswer": "Bacteria and protozoa",
       "explanation": "Binary fission is common among bacteria, algae, and protozoa.",
@@ -97,10 +97,10 @@
     {
       "question": "Before a bacterium divides in binary fission, what must happen to its nucleus?",
       "options": [
+        "An experiment that does not require a hypothesis",
+        "Within the 4-day fertile window around ovulation",
         "It is replicated to produce two identical copies",
-        "It doubles in size",
-        "It fuses with another nucleus",
-        "It disintegrates"
+        "Lubricates the urethra and clears residual urine"
       ],
       "correctAnswer": "It is replicated to produce two identical copies",
       "explanation": "The bacterial nucleus is replicated to produce two identical copies so each daughter cell receives one copy.",
@@ -109,10 +109,10 @@
     {
       "question": "Multiple fission is common in which of the following organisms?",
       "options": [
-        "Bacteria",
-        "Spirogyra",
         "Malarial parasites",
-        "Yeast"
+        "Bacteria",
+        "Any objective lens",
+        "Spirogyra"
       ],
       "correctAnswer": "Malarial parasites",
       "explanation": "In multiple fission, the nucleus divides repeatedly, producing many daughter cells, which is common in malarial parasites.",
@@ -121,10 +121,10 @@
     {
       "question": "In fragmentation, what happens to the parent organism?",
       "options": [
-        "It divides into two equal parts",
-        "It produces buds",
+        "Primary occurs in forests; secondary occurs in deserts",
         "It breaks into parts that develop into whole organisms",
-        "It produces spores"
+        "Fats are solid and oils are liquid at room temperature",
+        "Fats are liquid and oils are solid at room temperature"
       ],
       "correctAnswer": "It breaks into parts that develop into whole organisms",
       "explanation": "Fragmentation involves the breakdown of a parent organism into parts that each develop into a whole organism.",
@@ -133,10 +133,10 @@
     {
       "question": "Which of the following organisms reproduces by fragmentation?",
       "options": [
-        "Hydra",
+        "Vitamin C",
         "Amoeba",
-        "Yeast",
-        "Spirogyra"
+        "Spirogyra",
+        "Yeast"
       ],
       "correctAnswer": "Spirogyra",
       "explanation": "Spirogyra, a filamentous green alga, undergoes fragmentation resulting in many filaments.",
@@ -193,10 +193,10 @@
     {
       "question": "Runners in plants such as strawberry are also known as:",
       "options": [
-        "Corms",
-        "Bulbs",
+        "Tubers",
+        "8 weeks",
         "Stolons",
-        "Tubers"
+        "Bulbs"
       ],
       "correctAnswer": "Stolons",
       "explanation": "Runners (stolons) originate from an auxiliary bud and grow along the soil surface, producing new plants at nodes.",
@@ -279,8 +279,8 @@
       "options": [
         "An unfertilized egg develops into an adult",
         "The parent breaks into fragments",
-        "A fertilized egg develops into an adult",
-        "A bud detaches from the parent"
+        "Provide oxygen and nutrients to the embryo",
+        "A fertilized egg develops into an adult"
       ],
       "correctAnswer": "An unfertilized egg develops into an adult",
       "explanation": "Parthenogenesis is a form of asexual reproduction in which an unfertilized egg develops into an adult organism.",

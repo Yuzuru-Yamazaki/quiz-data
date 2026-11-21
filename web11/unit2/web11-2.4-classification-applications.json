@@ -15,10 +15,10 @@
       "anki": true,
       "question": "On what common basis can computers be classified?",
       "options": [
-        "B. Size, purpose, and capabilities",
-        "D. Age, model, year",
         "C. Brand, price, location",
-        "A. Color, shape, weight"
+        "Find the monitor's connector cable",
+        "A. Color, shape, weight",
+        "B. Size, purpose, and capabilities"
       ],
       "correctAnswer": "B. Size, purpose, and capabilities"
     },
@@ -28,9 +28,9 @@
       "question": "Which of the following fields uses computers for teaching and learning?",
       "options": [
         "C. Farming",
-        "B. Mining",
+        "D. Fishing",
         "A. Education",
-        "D. Fishing"
+        "Power filter"
       ],
       "correctAnswer": "A. Education"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "Which sector uses computers for telephone, internet, and data communication services?",
       "options": [
-        "A. Communication industry",
+        "B. Textile industry",
+        "Operating heavy machinery",
         "C. Cement industry",
-        "D. Steel industry",
-        "B. Textile industry"
+        "A. Communication industry"
       ],
       "correctAnswer": "A. Communication industry"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "Computers are used for scheduling, ticketing, and traffic control in which industry?",
       "options": [
-        "A. Transport industry",
-        "C. Publishing",
+        "Cross-browser testing",
         "B. Entertainment",
-        "D. Printing"
+        "A. Transport industry",
+        "C. Publishing"
       ],
       "correctAnswer": "A. Transport industry"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Which of the following uses computers for account management, transactions, and customer records?",
       "options": [
-        "B. Food vendors",
         "A. Banks and Insurance industries",
-        "D. Barbers",
-        "C. Tailors"
+        "Only with database administrators",
+        "Wireframing and prototyping tools",
+        "Designers and back-end developers"
       ],
       "correctAnswer": "A. Banks and Insurance industries"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "Which application helps in cataloging, searching, and issuing books?",
       "options": [
-        "A. Library services",
+        "D. Creates software",
         "D. Engineering",
         "C. Research",
-        "B. Defense"
+        "A. Library services"
       ],
       "correctAnswer": "A. Library services"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "Which application area involves creating and using text, audio, images, animation, and video?",
       "options": [
-        "D. Banking",
         "B. Process control",
         "A. Multimedia applications",
-        "C. Transport industry"
+        "C. Transport industry",
+        "A. Government Institutions"
       ],
       "correctAnswer": "A. Multimedia applications"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "Which sector uses computers for security, surveillance, and crime investigation?",
       "options": [
-        "D. Libraries",
-        "C. Supermarkets",
-        "B. Education",
-        "A. Defense and Police (Law enforcement agencies)"
+        "An administrator who only configures web servers",
+        "A. Defense and Police (Law enforcement agencies)",
+        "A parallel bus standard used to connect monitors",
+        "It provides battery backup during a power outage"
       ],
       "correctAnswer": "A. Defense and Police (Law enforcement agencies)"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "In which area are computers used for designing structures, machines, and systems?",
       "options": [
-        "D. Sewing",
-        "A. Engineering Design",
         "C. Gardening",
-        "B. Cooking"
+        "A. Engineering Design",
+        "B. Cooking",
+        "C. Powers the monitor"
       ],
       "correctAnswer": "A. Engineering Design"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Which institutions use computers for record keeping, administration, and public services?",
       "options": [
-        "D. Dance groups",
-        "C. Sports clubs",
+        "Transmit audio to speakers",
+        "A. Government Institutions",
         "B. Private homes",
-        "A. Government Institutions"
+        "C. Sports clubs"
       ],
       "correctAnswer": "A. Government Institutions"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "Which of the following is a common basis for classifying computers?",
       "options": [
-        "B. Speed only",
-        "D. Location only",
-        "C. Color only",
-        "A. Size, purpose, and capabilities"
+        "A. Size, purpose, and capabilities",
+        "A type of wired network connection",
+        "Power outlets and surge protectors",
+        "To enlarge the keyboard characters"
       ],
       "correctAnswer": "A. Size, purpose, and capabilities"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "Which sector uses computers for process control and engineering design?",
       "options": [
-        "C. Fashion sector",
-        "B. Entertainment sector",
         "A. Industrial/engineering sector",
-        "D. Beauty sector"
+        "B. Entertainment sector",
+        "To make the equipment run louder",
+        "Turn on the monitor power button"
       ],
       "correctAnswer": "A. Industrial/engineering sector"
     }

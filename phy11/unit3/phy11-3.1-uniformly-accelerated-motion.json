@@ -27,10 +27,10 @@
       "anki": true,
       "question": "The SI unit of acceleration is",
       "options": [
-        "m/s squared",
         "m/s",
-        "meter squared per second",
-        "meter second"
+        "m/s squared",
+        "meter second",
+        "Imagination"
       ],
       "correctAnswer": "m/s squared"
     },

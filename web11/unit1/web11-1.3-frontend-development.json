@@ -15,10 +15,10 @@
       "anki": true,
       "question": "Front-end development refers to the practice of building which of the following?",
       "options": [
+        "C. Correctness of input and programming of instructions",
+        "Procedures for installing new software on old computers",
         "The user-facing aspects of websites or web applications",
-        "The hosting and network infrastructure",
-        "The database schema and queries",
-        "The server-side logic of an application"
+        "Lying back with the monitor at eye level below the desk"
       ],
       "correctAnswer": "The user-facing aspects of websites or web applications"
     },
@@ -87,9 +87,9 @@
       "anki": true,
       "question": "Which language adds interactivity and dynamic behavior to web pages?",
       "options": [
-        "SQL",
-        "HTML",
         "CSS",
+        "C. Tailors",
+        "HTML",
         "JavaScript"
       ],
       "correctAnswer": "JavaScript"
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "Responsive design ensures that websites are optimized for which of the following?",
       "options": [
-        "Only tablet devices",
+        "Sales, marketing, and accounting",
+        "Various devices and screen sizes",
         "A single desktop screen size",
-        "Only mobile phones",
-        "Various devices and screen sizes"
+        "To make the computer boot faster"
       ],
       "correctAnswer": "Various devices and screen sizes"
     },
@@ -172,9 +172,9 @@
       "question": "Which technique is used in web performance optimization to reduce file size?",
       "options": [
         "Minifying and compressing files",
-        "Increasing image resolution",
+        "Use wireless keyboard and mouse",
         "Duplicating code across pages",
-        "Adding more HTTP requests"
+        "Increasing image resolution"
       ],
       "correctAnswer": "Minifying and compressing files"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "Which of the following is a web performance optimization technique?",
       "options": [
-        "Removing semantic markup",
         "Disabling caching",
-        "Increasing the number of HTTP requests",
-        "Optimizing images"
+        "Optimizing images",
+        "C. Shrink in size",
+        "Removing semantic markup"
       ],
       "correctAnswer": "Optimizing images"
     },
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "Which practice helps make images accessible to users who cannot see them?",
       "options": [
-        "Increasing image file size",
-        "Loading images only on desktop",
         "Providing alternative text for images",
-        "Hiding images with CSS"
+        "Vacuum tubes and overheating problems",
+        "Loading images only on desktop",
+        "Increasing image file size"
       ],
       "correctAnswer": "Providing alternative text for images"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "Which of the following is an accessibility guideline for users who cannot use a mouse?",
       "options": [
-        "Using only image-based buttons",
-        "Requiring a touch screen",
         "Ensuring keyboard navigation is available",
-        "Disabling focus outlines"
+        "Each generation becomes larger and slower",
+        "Connecting the computer to a power source",
+        "Using only image-based buttons"
       ],
       "correctAnswer": "Ensuring keyboard navigation is available"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "Front-end developers collaborate closely with which group of people?",
       "options": [
-        "Designers and back-end developers",
+        "Keyboards, mice and touch screens",
         "Only network engineers",
-        "Only database administrators",
-        "Only content writers"
+        "Designers and back-end developers",
+        "Only database administrators"
       ],
       "correctAnswer": "Designers and back-end developers"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "What is the primary purpose of responsive design techniques in front-end development?",
       "options": [
-        "To store data in a database",
-        "To make layouts adapt and resize automatically across devices",
-        "To increase the number of HTTP requests",
-        "To authenticate users on the server"
+        "Proficiency in programming languages and software development",
+        "Use surge protectors and uninterruptible power supplies (UPS)",
+        "Leave the data intact so it can be recovered by the next user",
+        "To make layouts adapt and resize automatically across devices"
       ],
       "correctAnswer": "To make layouts adapt and resize automatically across devices"
     }

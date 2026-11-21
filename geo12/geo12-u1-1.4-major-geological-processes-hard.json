@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Where do deep-focus earthquakes commonly occur?",
       "options": [
-        "At mid-ocean ridges only",
-        "In desert interiors",
+        "Adaptation replaces mitigation entirely",
+        "A change in the length of a season only",
         "In Benioff zones along subducted plates",
-        "At river mouths"
+        "Cement, textile, leather and fertilizer"
       ],
       "correctAnswer": "In Benioff zones along subducted plates"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "What share of seismic energy comes from shallow-focus earthquakes?",
       "options": [
-        "About 12 percent",
-        "About 3 percent",
         "About 25 percent",
-        "More than 75 percent"
+        "About 12 percent",
+        "More than 75 percent",
+        "The tilt of the axis"
       ],
       "correctAnswer": "More than 75 percent"
     },
@@ -62,9 +62,9 @@
       "question": "How does a vent differ from a fissure?",
       "options": [
         "A vent is a pipe-like opening that builds a cone; a fissure is a narrow crack that builds a plateau",
-        "A vent is a crack that builds a plateau; a fissure builds a cone",
-        "Both are underground magma chambers",
-        "Both are types of earthquake waves"
+        "Adjustments in ecological, social or economic systems in response to actual or expected stimuli and impacts",
+        "Natural causes can work through all three external mechanisms while humans mainly use two",
+        "Ethiopia can adopt modern efficient technologies directly instead of high-emission pathways"
       ],
       "correctAnswer": "A vent is a pipe-like opening that builds a cone; a fissure is a narrow crack that builds a plateau"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Why are surface waves responsible for much destructive shaking?",
       "options": [
-        "They travel faster than all body waves",
-        "They have larger amplitude and travel along the surface",
-        "They originate in the core",
-        "They only occur underwater"
+        "It affects the composition of the atmosphere and oceans",
+        "By lowering emissions of heat-trapping greenhouse gases",
+        "It links crustal movement to the formation of landforms",
+        "They have larger amplitude and travel along the surface"
       ],
       "correctAnswer": "They have larger amplitude and travel along the surface"
     }

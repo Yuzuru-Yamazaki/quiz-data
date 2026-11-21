@@ -13,23 +13,23 @@
     {
       "question": "What is the main difference between prokaryotic and eukaryotic cells?",
       "options": [
-        "Prokaryotic cells have mitochondria, eukaryotic cells do not",
-        "Prokaryotic cells are larger than eukaryotic cells",
-        "Only eukaryotic cells have ribosomes",
-        "Prokaryotic cells lack a membrane-bound nucleus, while eukaryotic cells have a true nucleus"
+        "The indigestible part of plants that helps prevent constipation and keeps the colon healthy",
+        "It contains very large, multinucleated cells that challenge the definition of a single cell",
+        "Prokaryotic cells lack a membrane-bound nucleus, while eukaryotic cells have a true nucleus",
+        "A disease caused by disease-causing organisms that can be transmitted from person to person"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "The key difference is that prokaryotic cells have no membrane-bound nucleus (their DNA is in a nucleoid region), while eukaryotic cells have a true nucleus enclosed by a nuclear membrane."
     },
     {
       "question": "Which of the following is an example of a prokaryotic organism?",
       "options": [
-        "Yeast",
-        "Amoeba",
         "Escherichia coli (E. coli)",
-        "Human skin cell"
+        "Human skin cell",
+        "Holding and mixing liquids",
+        "Deformed bones in the legs"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "E. coli is a bacterium and therefore a prokaryote. Amoeba, yeast, and human cells are eukaryotes."
     },
     {
@@ -68,32 +68,32 @@
     {
       "question": "Which structure is found in plant cells but NOT in animal cells?",
       "options": [
-        "Nucleolus",
-        "Cytoplasm",
         "Large central vacuole",
-        "Lysosomes"
+        "Lysosomes",
+        "Cytoplasm",
+        "Schleiden and Schwann"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Plant cells contain a large central vacuole that stores water and maintains turgor pressure; animal cells have smaller vacuoles if any."
     },
     {
       "question": "What shape do most plant cells have?",
       "options": [
         "Irregular and round",
+        "It blocks oxygen transport",
         "Rectangular or fixed shape",
-        "Spiral-shaped",
-        "Star-shaped"
+        "Tetrahydrocannabinol (THC)"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Plant cells are typically rectangular or have a fixed, regular shape due to the rigid cell wall, while animal cells are more irregular or round."
     },
     {
       "question": "What shape do most animal cells have?",
       "options": [
-        "Hexagonal",
-        "Rectangular",
+        "Measuring precise volumes of liquid",
+        "Getting vaccinated against all STIs",
         "Irregular, round, or variable shape",
-        "Square"
+        "It decreases — cells become flaccid"
       ],
       "answer": 2,
       "explanation": "Animal cells typically have irregular, round, or variable shapes because they lack a rigid cell wall."
@@ -101,23 +101,23 @@
     {
       "question": "Do prokaryotic cells have ribosomes?",
       "options": [
-        "No, they use host ribosomes",
-        "Yes, they are identical to eukaryotic ribosomes",
-        "Only some prokaryotes have ribosomes",
-        "Yes, but they are smaller (70S) than eukaryotic ribosomes (80S)"
+        "Because cells are mostly transparent and staining adds contrast",
+        "Yes, but they are smaller (70S) than eukaryotic ribosomes (80S)",
+        "A single cell that can grow up to several centimeters in length",
+        "Animal sources such as meat, milk, cheese, butter, and egg yolk"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "Prokaryotic cells have 70S ribosomes (smaller), while eukaryotic cells have 80S ribosomes (larger)."
     },
     {
       "question": "Where is the DNA located in a prokaryotic cell?",
       "options": [
-        "Scattered throughout the cell wall",
-        "In the nucleoid region (a region of the cytoplasm without a membrane)",
-        "Inside a membrane-bound nucleus",
-        "Inside the mitochondria"
+        "To provide a medium for chemical reactions and support for organelles",
+        "A phospholipid bilayer with embedded proteins that can move laterally",
+        "To organize organisms into groups for easier study and identification",
+        "In the nucleoid region (a region of the cytoplasm without a membrane)"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Prokaryotic DNA is found in the nucleoid region — a concentrated area in the cytoplasm that is not enclosed by a membrane."
     },
     {
@@ -134,23 +134,23 @@
     {
       "question": "Do prokaryotic cells have a cell wall?",
       "options": [
-        "Yes, most have a cell wall (peptidoglycan in bacteria)",
-        "No, they only have a cell membrane",
-        "Only some prokaryotes have a cell wall",
-        "They have a cell wall made of cellulose"
+        "Establish biological relationships between individuals",
+        "Fats are solid and oils are liquid at room temperature",
+        "All living organisms are composed of one or more cells",
+        "Yes, most have a cell wall (peptidoglycan in bacteria)"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Most prokaryotic cells (bacteria) have a cell wall made of peptidoglycan, which provides structural support."
     },
     {
       "question": "What is the typical size range of prokaryotic cells compared to eukaryotic cells?",
       "options": [
-        "Prokaryotes are 1-10 mm in size",
-        "Prokaryotes are much larger (100-1000 $\\mu$m)",
-        "They are approximately the same size",
-        "Prokaryotes are smaller (0.1-5 $\\mu$m), eukaryotes are larger (10-100 $\\mu$m)"
+        "The group that receives the treatment or has the independent variable applied",
+        "A pandemic is an epidemic that spreads across multiple countries or worldwide",
+        "Prokaryotes are smaller (0.1-5 $\\mu$m), eukaryotes are larger (10-100 $\\mu$m)",
+        "Tobacco use, physical inactivity, harmful use of alcohol, and unhealthy diets"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Prokaryotic cells are generally much smaller (0.1-5 $\\mu$m), while eukaryotic cells are larger (10-100 $\\mu$m)."
     },
     {
@@ -190,9 +190,9 @@
       "question": "Which type of cell division occurs in prokaryotic cells?",
       "options": [
         "Binary fission",
-        "Meiosis",
-        "Mitosis",
-        "Budding"
+        "It kills sperm",
+        "Budding",
+        "Mitosis"
       ],
       "answer": 0,
       "explanation": "Prokaryotic cells reproduce by binary fission — a simple division process where the DNA replicates and the cell divides into two identical cells."
@@ -200,78 +200,78 @@
     {
       "question": "Which of the following is true about the genetic material of prokaryotic cells?",
       "options": [
-        "It is linear and contained within a nucleus",
+        "To identify patterns and determine whether the data supports the hypothesis",
+        "Building teeth and bones, muscle contraction, and nerve impulse transmission",
         "It is typically a single circular chromosome located in the nucleoid region",
-        "It is found in multiple linear chromosomes inside a nucleus",
-        "Prokaryotes have no DNA"
+        "Diffusion that requires a protein carrier or channel but no cellular energy"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Prokaryotic DNA consists of a single circular chromosome located in the nucleoid region, unlike the linear chromosomes in eukaryotic nuclei."
     },
     {
       "question": "What is the main reason plant cells are able to maintain a fixed rectangular shape?",
       "options": [
-        "They have chloroplasts",
-        "They contain starch granules",
+        "They have a large central vacuole",
         "They have a rigid cell wall made of cellulose",
-        "They have a large central vacuole"
+        "Notify the teacher and seek medical attention",
+        "The group that does not receive the treatment"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "The rigid cell wall of cellulose provides structural support and maintains the fixed rectangular shape of plant cells."
     },
     {
       "question": "Which of the following is an example of a prokaryotic organism?",
       "options": [
-        "Lactobacillus (a bacterium used in yogurt production)",
-        "Paramecium",
-        "Mushroom",
-        "Euglena"
+        "Kingdom, Class, Phylum, Order, Family, Genus, Species",
+        "It decreases (you see a smaller area of the specimen)",
+        "Reducing the breeding sites for pathogens and vectors",
+        "Lactobacillus (a bacterium used in yogurt production)"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Lactobacillus is a bacterium and therefore prokaryotic. Paramecium, mushrooms (fungi), and Euglena are eukaryotes."
     },
     {
       "question": "Which group of organisms is classified as having eukaryotic cells?",
       "options": [
-        "Bacteria only",
-        "Archaea only",
         "Animals, plants, fungi, and protists",
-        "Only plants and animals"
+        "Because there are not enough species",
+        "It shrinks and undergoes plasmolysis",
+        "Only medicines prescribed by doctors"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Eukaryotes include all members of the kingdoms Animalia, Plantae, Fungi, and Protista — organisms with true nuclei and membrane-bound organelles."
     },
     {
       "question": "What is the main difference in the cell wall composition between bacteria and plant cells?",
       "options": [
-        "Bacteria do not have cell walls",
-        "Bacterial cell walls are made of cellulose; plant cell walls are made of peptidoglycan",
-        "Both have cell walls made of the same material",
-        "Bacterial cell walls contain peptidoglycan; plant cell walls contain cellulose"
+        "Bacterial cell walls contain peptidoglycan; plant cell walls contain cellulose",
+        "A pandemic is an epidemic that spreads across multiple countries or worldwide",
+        "By features such as body structure, number of limbs, and method of reproduction",
+        "Bacterial cell walls are made of cellulose; plant cell walls are made of peptidoglycan"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "Bacterial cell walls are made of peptidoglycan (a polymer of sugars and amino acids), while plant cell walls are made of cellulose."
     },
     {
       "question": "Do plant cells contain lysosomes?",
       "options": [
-        "Only in the leaves",
-        "No, plant cells do not have lysosomes; the vacuole performs some digestive functions",
-        "Only in the roots",
-        "Yes, plant cells contain many lysosomes for digestion"
+        "They are nutrient-dense and help address malnutrition in a culturally acceptable way",
+        "Pregnant women, nursing mothers, children, athletes, and people living with HIV/AIDS",
+        "Regular physical activity, balanced diet, and avoiding tobacco and excessive alcohol",
+        "No, plant cells do not have lysosomes; the vacuole performs some digestive functions"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Most plant cells lack lysosomes. The central vacuole in plant cells can perform some digestive and waste-removal functions."
     },
     {
       "question": "What is the primary function of the large central vacuole in plant cells?",
       "options": [
-        "Cell division",
-        "Water storage and maintenance of turgor pressure",
-        "Protein synthesis",
-        "Photosynthesis"
+        "Growth slows down but cell replacement continues",
+        "It slows down the transmission of nerve impulses",
+        "An experiment conducted without any measurements",
+        "Water storage and maintenance of turgor pressure"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "The large central vacuole stores water, maintains turgor pressure that keeps the plant rigid, and also stores nutrients and waste products."
     },
     {
@@ -321,21 +321,21 @@
     {
       "question": "What is the function of plasmids in prokaryotic cells?",
       "options": [
-        "They are involved in photosynthesis",
-        "They are the main chromosome",
-        "They are small circular DNA molecules that carry extra genes (e.g., antibiotic resistance)",
-        "They synthesize proteins"
+        "Prokaryotic cells lack a membrane-bound nucleus, while eukaryotic cells have a true nucleus",
+        "It undergoes plasmolysis — the cell membrane pulls away from the cell wall as water leaves",
+        "They contain their own DNA and reproduce independently within the cell, similar to bacteria",
+        "They are small circular DNA molecules that carry extra genes (e.g., antibiotic resistance)"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Plasmids are small, circular DNA molecules separate from the main chromosome, often carrying genes for antibiotic resistance or other advantages."
     },
     {
       "question": "Which of the following statements is true?",
       "options": [
-        "All prokaryotes are multicellular",
-        "All eukaryotes are multicellular",
+        "Raised blood pressure, increased blood glucose, elevated blood lipids, and obesity",
+        "Because energy decreases at each level, leaving insufficient energy beyond level 5",
         "Prokaryotes are always unicellular; eukaryotes can be unicellular or multicellular",
-        "Prokaryotes can be unicellular, and all eukaryotes are multicellular"
+        "Place specimen on slide, add a drop of water or stain, lower coverslip at an angle"
       ],
       "answer": 2,
       "explanation": "Prokaryotes are always unicellular. Eukaryotes can be unicellular (e.g., amoeba, yeast) or multicellular (e.g., humans, trees)."

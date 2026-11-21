@@ -16,10 +16,10 @@
       "anki": true,
       "question": "How do online shopping platforms utilize AI to enhance customer experience?",
       "options": [
-        "By processing user data to deliver personalized product suggestions",
+        "By computing manual sales tax receipts on physical registers",
+        "Generates oxygen supplies by electrolyzing onboard wastewater tanks",
         "By eliminating warehouse storage fees for international vendors",
-        "By replacing cargo container ships with autonomous drones",
-        "By computing manual sales tax receipts on physical registers"
+        "By processing user data to deliver personalized product suggestions"
       ],
       "correctAnswer": "By processing user data to deliver personalized product suggestions"
     },
@@ -52,10 +52,10 @@
       "anki": true,
       "question": "Which features enable autonomous cars to significantly enhance road safety?",
       "options": [
-        "Exchanging hazard data and maintaining 360-degree environmental awareness",
-        "Operating at unlimited travel speeds in dense urban pedestrian zones",
         "Overriding municipal traffic lights during peak commute travel hours",
-        "Consuming aviation kerosene to accelerate engine combustion ratios"
+        "Exchanging hazard data and maintaining 360-degree environmental awareness",
+        "They permanently corrupt the underlying database relational table indexes",
+        "Operating at unlimited travel speeds in dense urban pedestrian zones"
       ],
       "correctAnswer": "Exchanging hazard data and maintaining 360-degree environmental awareness"
     },
@@ -112,10 +112,10 @@
       "anki": true,
       "question": "How are agricultural advisory systems beneficial to modern farmers?",
       "options": [
+        "Cleaning internal computer hardware components using low-flow vacuums",
+        "They automate the legal registration of ancestral rural land deeds",
         "They assist farmers in becoming climate-ready and adapting activities",
-        "They guarantee fixed international grain prices before seed planting",
-        "They eliminate the biological need for sunlight in outdoor crops",
-        "They automate the legal registration of ancestral rural land deeds"
+        "They guarantee fixed international grain prices before seed planting"
       ],
       "correctAnswer": "They assist farmers in becoming climate-ready and adapting activities"
     },
@@ -124,10 +124,10 @@
       "anki": true,
       "question": "What is a chatbot in modern business customer support?",
       "options": [
-        "A system simulating conversation through text or voice commands",
-        "A robotic hardware arm packaging parcels along factory belts",
+        "By eliminating warehouse storage fees for international vendors",
         "An automated teller machine dispensing bank paper currency",
-        "A network router directing data packets between subnets"
+        "A system simulating conversation through text or voice commands",
+        "A robotic hardware arm packaging parcels along factory belts"
       ],
       "correctAnswer": "A system simulating conversation through text or voice commands"
     },

@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Which sector remains core to the Ethiopian economy according to CRGE?",
       "options": [
-        "Mining",
         "Tourism",
         "Agriculture",
-        "Textiles"
+        "Textiles",
+        "Ocean tides"
       ],
       "correctAnswer": "Agriculture"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Which of these is a pillar of CRGE?",
       "options": [
-        "Expanding coal mining",
+        "By increasing cloud cover artificially",
         "Protecting and re-establishing forests",
-        "Banning all irrigation",
-        "Increasing fuel imports"
+        "It only benefits neighboring countries",
+        "Interdependence of air, water and land"
       ],
       "correctAnswer": "Protecting and re-establishing forests"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which pillar includes the construction of electric rail networks?",
       "options": [
-        "Improving crop and livestock production",
-        "Protecting forests",
+        "It may shrink to less than 10 percent of the Arctic Ocean",
+        "It links crustal movement to the formation of landforms",
         "Leapfrogging to modern and energy-efficient technologies",
-        "Expanding renewable electricity"
+        "Continental crust is embodied within lithospheric plates"
       ],
       "correctAnswer": "Leapfrogging to modern and energy-efficient technologies"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What do carbon stocks refer to?",
       "options": [
-        "Oil reserves underground",
-        "Coal in power stations",
-        "Gas in the atmosphere",
-        "Carbon stored in forests and woodlands"
+        "Carbon stored in forests and woodlands",
+        "Ocean water cools the mantle into lava",
+        "Interdependence of air, water and land",
+        "Forces that originate inside the Earth"
       ],
       "correctAnswer": "Carbon stored in forests and woodlands"
     },
@@ -106,9 +106,9 @@
       "question": "What is the goal of improving crop and livestock production practices?",
       "options": [
         "Higher farmer income and food security with lower emissions",
-        "Higher emissions and lower yields",
-        "Farming without any water",
-        "Exporting all farm produce"
+        "Emissions trading, the CDM, sinks accounting and compliance",
+        "Rising at oceanic ridges and descending at subduction zones",
+        "The landmasses were connected so the reptile could disperse"
       ],
       "correctAnswer": "Higher farmer income and food security with lower emissions"
     },

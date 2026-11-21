@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What are exogenic forces?",
       "options": [
-        "Forces that originate in the core",
-        "Forces that originate outside the Earth, mainly in the atmosphere",
-        "Forces caused by mantle convection",
-        "Forces caused by volcanic eruptions"
+        "An increase in desert conditions from overgrazing and cultivation",
+        "The North American Plate includes western North Atlantic seafloor",
+        "Orbital variations help initiate glacial and interglacial periods",
+        "Forces that originate outside the Earth, mainly in the atmosphere"
       ],
       "correctAnswer": "Forces that originate outside the Earth, mainly in the atmosphere"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What is folding?",
       "options": [
-        "The cracking of rock into blocks",
-        "The melting of rock into magma",
+        "The lack of a plausible mechanism for continental movement",
+        "Adaptation that takes place before impacts become apparent",
         "The bending of rock layers due to sideways earth movements",
-        "The wearing away of rock by wind"
+        "Tropical regions where many developing nations are located"
       ],
       "correctAnswer": "The bending of rock layers due to sideways earth movements"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "What is an upfold called?",
       "options": [
+        "Epicenter",
+        "Anticline",
         "Syncline",
-        "Fault",
-        "Horst",
-        "Anticline"
+        "Horst"
       ],
       "correctAnswer": "Anticline"
     },
@@ -72,9 +72,9 @@
       "id": 6,
       "question": "What is a fault?",
       "options": [
+        "They will certainly double",
         "A layer of sediment",
         "A crack in the Earth crust",
-        "A volcano vent",
         "An ocean ridge"
       ],
       "correctAnswer": "A crack in the Earth crust"
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What is a rift valley?",
       "options": [
-        "Land between two faults that has risen",
-        "A cone built by lava",
         "Land between two faults that has sunk down",
-        "A fold with one steep limb"
+        "Land between two faults that has risen",
+        "It was the coldest century in a millennium",
+        "Human influence will continue to change it"
       ],
       "correctAnswer": "Land between two faults that has sunk down"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What is an earthquake?",
       "options": [
+        "Changes systems undergo in response to climate regardless of any policy or plan",
         "Sudden ground shaking caused by rock masses changing position below the surface",
-        "A slow rise of sea level",
-        "A gradual cooling of the crust",
-        "The formation of sedimentary layers"
+        "They interact at boundaries to form features such as mountains and earthquakes",
+        "A change in the mean or variability of climate persisting for decades or longer"
       ],
       "correctAnswer": "Sudden ground shaking caused by rock masses changing position below the surface"
     },

@@ -13,12 +13,12 @@
     {
       "question": "What are the three principles of the cell theory?",
       "options": [
+        "They bind to specific substances and use ATP to move them across the membrane against the concentration gradient",
         "All living things are composed of cells, cells are the basic unit of life, all cells come from pre-existing cells",
-        "Cells contain DNA, cells perform photosynthesis, cells are microscopic",
-        "All cells are identical, cells need energy, cells have cell walls",
-        "Cells have nuclei, cells require oxygen, cells reproduce by mitosis"
+        "A disease that is not caused by pathogens; it may be caused by malnutrition, chemical effects, or genetic factors",
+        "A hypothesis is a testable prediction, while a theory is a well-supported explanation supported by extensive evidence"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "The three principles state: (1) all living things are composed of cells, (2) cells are the basic unit of structure and function in living things, and (3) all cells arise from pre-existing cells."
     },
     {
@@ -35,12 +35,12 @@
     {
       "question": "Which scientist concluded that all plants are made of cells?",
       "options": [
-        "Theodor Schwann",
+        "It doubles in size",
         "Rudolf Virchow",
-        "Robert Hooke",
-        "Matthias Schleiden"
+        "Matthias Schleiden",
+        "Theodor Schwann"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Matthias Schleiden (1838) concluded that all plant tissues are composed of cells."
     },
     {
@@ -90,31 +90,31 @@
     {
       "question": "What is the meaning of the Latin phrase 'Omnis cellula e cellula'?",
       "options": [
-        "Cells are the basic unit of life",
         "Cells are found in all living things",
-        "All cells contain a nucleus",
-        "All cells arise from pre-existing cells"
+        "A population is larger than a community",
+        "All cells arise from pre-existing cells",
+        "Cells are the basic unit of life"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "This phrase, proposed by Rudolf Virchow, means 'every cell from a cell' — all cells come from pre-existing cells."
     },
     {
       "question": "Why is striated muscle tissue considered an exception to cell theory?",
       "options": [
-        "It does not come from pre-existing cells",
-        "It lacks a nucleus",
-        "It contains very large, multinucleated cells that challenge the definition of a single cell",
-        "It is not made of cells"
+        "A disease caused by disease-causing organisms that can be transmitted from person to person",
+        "They contain their own DNA and reproduce independently within the cell, similar to bacteria",
+        "Prokaryotic cells lack a membrane-bound nucleus, while eukaryotic cells have a true nucleus",
+        "It contains very large, multinucleated cells that challenge the definition of a single cell"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Striated muscle fibers are very long and contain many nuclei, making it difficult to define where one cell ends and another begins."
     },
     {
       "question": "Which statement about cells is NOT part of the cell theory?",
       "options": [
+        "Has chitin in its cell wall",
         "All cells arise from pre-existing cells",
-        "The cell is the basic structural and functional unit of life",
-        "All living organisms are composed of one or more cells",
+        "Avoiding all social contact",
         "All cells contain a nucleus"
       ],
       "answer": 3,
@@ -134,45 +134,45 @@
     {
       "question": "The giant alga Acetabularia is an exception to cell theory because it is:",
       "options": [
-        "A non-living organism",
-        "Not composed of cells",
         "A single cell that can grow up to several centimeters in length",
-        "Made of many small cells joined together"
+        "To prevent it from catching fire or getting caught in equipment",
+        "Educating communities about balanced diets and food preparation",
+        "Because cells are mostly transparent and staining adds contrast"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Acetabularia is a giant single-celled alga that can grow to 2-6 cm, challenging the typical view of cells as microscopic."
     },
     {
       "question": "Which statement best describes the contribution of Antonie van Leeuwenhoek to cell biology?",
       "options": [
-        "He first named cells",
-        "He proposed that all plants are made of cells",
         "He added the principle of biogenesis to cell theory",
-        "He was the first to observe living cells using a microscope"
+        "Vesicles are found only in plants; vacuoles only in animals",
+        "He was the first to observe living cells using a microscope",
+        "Multicellular organisms do not come from pre-existing cells"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Van Leeuwenhoek improved microscopes and was the first to observe living microorganisms (which he called 'animalcules'), bacteria, and protozoa."
     },
     {
       "question": "What does the first principle of cell theory state?",
       "options": [
         "Cells can arise spontaneously from non-living matter",
-        "All cells have a nucleus",
-        "Cells are the basic unit of reproduction",
-        "All living things are composed of one or more cells"
+        "They recycle nutrients by breaking down dead matter",
+        "All living things are composed of one or more cells",
+        "Cells are the basic unit of reproduction"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "The first principle states that all living organisms are composed of one or more cells."
     },
     {
       "question": "What does the second principle of cell theory state?",
       "options": [
-        "The cell is the basic structural and functional unit of life",
-        "All cells come from pre-existing cells",
-        "All cells contain organelles",
-        "Cells can be seen without a microscope"
+        "Organism, population, community, ecosystem, biome, biosphere",
+        "Prokaryotic cells have mitochondria, eukaryotic cells do not",
+        "They have reached puberty and are capable of having children",
+        "The cell is the basic structural and functional unit of life"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "The second principle states that the cell is the fundamental unit of structure and function in living organisms."
     },
     {
@@ -200,10 +200,10 @@
     {
       "question": "How did the invention of the microscope contribute to the development of cell theory?",
       "options": [
-        "It demonstrated that cells do not reproduce",
+        "It is typically a single circular chromosome located in the nucleoid region",
         "It allowed scientists to see cells and their structures for the first time",
-        "It showed that all cells are identical",
-        "It proved spontaneous generation of cells"
+        "A researcher or scientist who studies nutrition and its effects on health",
+        "It gives the widest field of view, making it easier to locate the specimen"
       ],
       "answer": 1,
       "explanation": "The microscope enabled scientists to observe cells directly, leading to the discoveries that formed the basis of cell theory."
@@ -211,23 +211,23 @@
     {
       "question": "What is the main difference between unicellular and multicellular organisms according to cell theory?",
       "options": [
-        "Unicellular organisms have no DNA",
-        "Unicellular organisms are not alive",
-        "Unicellular organisms consist of a single cell, while multicellular organisms consist of many cells",
-        "Multicellular organisms do not come from pre-existing cells"
+        "Salt creates a hypertonic environment that causes bacteria to lose water and die through plasmolysis",
+        "The pressure exerted by the cell wall against the expanded cell membrane when a plant cell is turgid",
+        "Through detection, screening, treatment, and palliative care, as well as healthy lifestyle choices",
+        "Unicellular organisms consist of a single cell, while multicellular organisms consist of many cells"
       ],
-      "answer": 2,
+      "answer": 3,
       "explanation": "Unicellular organisms (e.g., bacteria, amoeba) are made of one cell, while multicellular organisms (e.g., humans, trees) are composed of many cells."
     },
     {
       "question": "Why is spontaneous generation rejected by cell theory?",
       "options": [
+        "The male nucleus of the sperm fuses with the female nucleus of the egg",
         "Cells have been observed arising spontaneously in laboratories",
-        "All known evidence shows that cells only arise from pre-existing cells",
-        "Cells can be created artificially",
-        "Spontaneous generation only applies to plants"
+        "Storage of water, nutrients, and waste; maintenance of turgor pressure",
+        "All known evidence shows that cells only arise from pre-existing cells"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Cell theory's third principle (biogenesis) states that cells come only from pre-existing cells, rejecting the idea of spontaneous generation."
     },
     {
@@ -244,45 +244,45 @@
     {
       "question": "What is the term for the idea that life arises from non-living matter?",
       "options": [
-        "Cell theory",
-        "Photosynthesis",
         "Spontaneous generation",
-        "Biogenesis"
+        "Photosynthesis",
+        "Cell theory",
+        "Cardiovascular disease"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Spontaneous generation (abiogenesis) is the disproven idea that living organisms can arise from non-living matter."
     },
     {
       "question": "Which statement correctly describes the relationship between cell theory and modern biology?",
       "options": [
+        "Artificial classification system based on observable features",
         "Cell theory remains a fundamental unifying concept in biology",
-        "Cell theory is outdated and no longer used",
-        "Cell theory only applies to plants",
+        "To prevent air bubbles from being trapped under the coverslip",
         "Cell theory has been replaced by molecular biology"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Cell theory is one of the fundamental unifying concepts in biology, providing the foundation for understanding life processes."
     },
     {
       "question": "Which of the following is true about the 'cell' as named by Robert Hooke?",
       "options": [
-        "He was observing the empty cell walls of dead cork cells",
-        "He was observing animal cells",
-        "He was observing living cells with nuclei",
-        "He was observing bacteria"
+        "Sexual reproduction involves the production of sex cells",
+        "A two-part naming system consisting of genus and species",
+        "A hypothesis is a proven fact, while a theory is a guess",
+        "He was observing the empty cell walls of dead cork cells"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Hooke observed dead cork cells and saw only the cell walls remaining, which he named 'cells' because they resembled small rooms."
     },
     {
       "question": "Why are mitochondria and chloroplasts sometimes considered exceptions to cell theory?",
       "options": [
-        "They are not made of cells",
-        "They cannot reproduce",
         "They contain their own DNA and reproduce independently within the cell, similar to bacteria",
-        "They are not found in eukaryotic cells"
+        "The indigestible part of plants that helps prevent constipation and keeps the colon healthy",
+        "Prokaryotic cells lack a membrane-bound nucleus, while eukaryotic cells have a true nucleus",
+        "A disease caused by disease-causing organisms that can be transmitted from person to person"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Mitochondria and chloroplasts have their own DNA and ribosomes and reproduce by binary fission, supporting the endosymbiotic theory."
     }
   ]

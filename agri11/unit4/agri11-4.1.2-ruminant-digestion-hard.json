@@ -69,7 +69,7 @@
         "Looks like honeycomb",
         "Tastes like honey",
         "Produces honey",
-        "Stores honey"
+        "White sugar crystals"
       ],
       "correctAnswer": "Looks like honeycomb"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "The horse cecum and the poultry ceca both",
       "options": [
-        "Contain microorganisms",
+        "Produce bile",
+        "The Middle East region",
         "Grind coarse grain",
-        "Store urine",
-        "Produce bile"
+        "Contain microorganisms"
       ],
       "correctAnswer": "Contain microorganisms"
     },
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "Which farm animal has a crop?",
       "options": [
+        "Camel",
         "Chicken",
-        "Horse",
-        "Cattle",
-        "Camel"
+        "C4-teff",
+        "Cattle"
       ],
       "correctAnswer": "Chicken"
     },

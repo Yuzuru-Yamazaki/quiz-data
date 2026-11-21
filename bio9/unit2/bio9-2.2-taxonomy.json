@@ -26,9 +26,9 @@
       "question": "Why is classification of living organisms important?",
       "options": [
         "To organize organisms into groups for easier study and identification",
-        "To increase the number of species",
-        "To change the names of organisms",
-        "To make organisms more complex"
+        "A phospholipid bilayer with embedded proteins that can move laterally",
+        "To provide a medium for chemical reactions and support for organelles",
+        "Sampling and studying the distribution of organisms in a defined area"
       ],
       "correctAnswer": "To organize organisms into groups for easier study and identification",
       "explanation": "Classification helps biologists organize, study, and identify the millions of species on Earth systematically.",
@@ -61,10 +61,10 @@
     {
       "question": "What is binomial nomenclature?",
       "options": [
-        "A naming system using only the species name",
-        "A naming system using three names",
-        "A two-part naming system consisting of genus and species",
-        "A naming system based on common names"
+        "To distribute heat evenly when heating a beaker or flask",
+        "It moves substances against their concentration gradient",
+        "Sexual reproduction involves the production of sex cells",
+        "A two-part naming system consisting of genus and species"
       ],
       "correctAnswer": "A two-part naming system consisting of genus and species",
       "explanation": "Binomial nomenclature gives every species a two-part scientific name: the genus name (capitalized) and the species name (lowercase).",
@@ -73,10 +73,10 @@
     {
       "question": "In binomial nomenclature, how should the scientific name of an organism be written?",
       "options": [
-        "Both genus and species in lowercase",
-        "Both in uppercase",
-        "Genus capitalized, species in lowercase, both italicized or underlined",
-        "Genus in lowercase, species capitalized"
+        "Cells contain DNA, cells perform photosynthesis, cells are microscopic",
+        "A self-cleaning organ that should only be rinsed externally with water",
+        "It shrinks and crenates (becomes shriveled) as water leaves by osmosis",
+        "Genus capitalized, species in lowercase, both italicized or underlined"
       ],
       "correctAnswer": "Genus capitalized, species in lowercase, both italicized or underlined",
       "explanation": "The genus name is capitalized, the species name is lowercase, and both are italicized or underlined in print.",
@@ -97,7 +97,7 @@
     {
       "question": "Which taxonomic rank is the most specific and includes only one type of organism?",
       "options": [
-        "Order",
+        "Zoology",
         "Species",
         "Family",
         "Genus"
@@ -121,10 +121,10 @@
     {
       "question": "Organisms that can interbreed and produce fertile offspring belong to the same:",
       "options": [
-        "Genus",
-        "Order",
+        "Family",
         "Species",
-        "Family"
+        "Order",
+        "14 days"
       ],
       "correctAnswer": "Species",
       "explanation": "A species is defined as a group of organisms capable of interbreeding to produce fertile offspring.",
@@ -133,10 +133,10 @@
     {
       "question": "What is the main purpose of giving organisms scientific names?",
       "options": [
-        "To confuse students",
-        "To honor scientists",
-        "To make names longer",
-        "To provide a universal name recognized worldwide regardless of language"
+        "A diet that contains all nutrients in the correct amount and proportion",
+        "To provide a universal name recognized worldwide regardless of language",
+        "The movement of particles against a concentration gradient using energy",
+        "To make large, rapid movements to bring the specimen into general focus"
       ],
       "correctAnswer": "To provide a universal name recognized worldwide regardless of language",
       "explanation": "Scientific names are universal, avoiding confusion that arises from different common names in different languages and regions.",
@@ -253,10 +253,10 @@
     {
       "question": "Which of the following best describes the relationship between organisms in the same genus?",
       "options": [
-        "They are not related",
-        "They cannot interbreed at all",
-        "They are closely related and share a recent common ancestor",
-        "They belong to different kingdoms"
+        "A population includes abiotic factors; a community does not",
+        "Vesicles are found only in plants; vacuoles only in animals",
+        "Protein synthesis and processing (folding and modification)",
+        "They are closely related and share a recent common ancestor"
       ],
       "correctAnswer": "They are closely related and share a recent common ancestor",
       "explanation": "Organisms in the same genus are closely related and share many characteristics from a common ancestor.",
@@ -277,9 +277,9 @@
     {
       "question": "What is the main limitation of using common names for organisms?",
       "options": [
-        "They are too short",
-        "They are always scientific",
-        "They are written in Latin",
+        "Movement of $Na^+$ ions out of a cell against the concentration gradient",
+        "To smother small fires or wrap around a person whose clothing is on fire",
+        "A statement that describes a consistent and universal natural phenomenon",
         "The same common name can refer to different species in different regions"
       ],
       "correctAnswer": "The same common name can refer to different species in different regions",
@@ -289,10 +289,10 @@
     {
       "question": "Which taxonomic rank would contain organisms that are more diverse: Class or Order?",
       "options": [
-        "They are equally diverse",
-        "It depends on the species",
+        "Order",
+        "Wheat",
         "Class",
-        "Order"
+        "Niche"
       ],
       "correctAnswer": "Class",
       "explanation": "Class is a broader rank than Order, so it contains more diverse groups of organisms.",
@@ -301,10 +301,10 @@
     {
       "question": "What feature do all members of Kingdom Plantae share?",
       "options": [
-        "They are heterotrophic",
-        "They are prokaryotic",
+        "Because animals bring seeds from other areas",
         "They can photosynthesize and are autotrophic",
-        "They are unicellular"
+        "They are always at the top of the food chain",
+        "Substances that give food colour and flavour"
       ],
       "correctAnswer": "They can photosynthesize and are autotrophic",
       "explanation": "Plants are multicellular autotrophs that photosynthesize using chlorophyll to produce their own food.",

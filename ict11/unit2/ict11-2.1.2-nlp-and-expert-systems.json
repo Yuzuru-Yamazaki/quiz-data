@@ -54,9 +54,9 @@
       "question": "Which voice-operated assistants are cited as practical applications of NLP?",
       "options": [
         "Amazon Alexa and Apple Siri",
-        "Microsoft Excel and Access",
-        "Ubuntu Linux and Red Hat",
-        "Adobe Reader and Photoshop"
+        "Only international airlines",
+        "Adobe Reader and Photoshop",
+        "Microsoft Excel and Access"
       ],
       "correctAnswer": "Amazon Alexa and Apple Siri"
     },
@@ -89,10 +89,10 @@
       "anki": true,
       "question": "What does Text Summarization achieve when applied to academic articles?",
       "options": [
-        "Generates a concise summary of a large document automatically",
-        "Converts written paragraphs into audible spoken speech files",
         "Calculates printer ink volume required for document binding",
-        "Splits narrative content into tabular relational matrices"
+        "Converts written paragraphs into audible spoken speech files",
+        "Web browsers refuse to display manual status posts without AI",
+        "Generates a concise summary of a large document automatically"
       ],
       "correctAnswer": "Generates a concise summary of a large document automatically"
     },
@@ -113,10 +113,10 @@
       "anki": true,
       "question": "Which professional fields benefit significantly from expert systems?",
       "options": [
-        "Medical diagnosis, petroleum engineering, and financial investing",
-        "Textile weaving, residential plumbing, and timber carpentry",
         "Ceramic sculpture, classical music mixing, and wall painting",
-        "Manual mail delivery, waste collection, and road masonry"
+        "Prompts the user to re-enter network credentials using a keyboard",
+        "Medical diagnosis, petroleum engineering, and financial investing",
+        "Textile weaving, residential plumbing, and timber carpentry"
       ],
       "correctAnswer": "Medical diagnosis, petroleum engineering, and financial investing"
     },
@@ -125,10 +125,10 @@
       "anki": true,
       "question": "What are the three core structural components of an expert system?",
       "options": [
+        "A form of learning delivered through digital devices",
         "User Interface, Knowledge Base, and Inference Engine",
-        "Central Processor, System Memory, and Hard Storage",
-        "Language Compiler, Linker, and Bytecode Interpreter",
-        "Relational Table, Entity Attribute, and Primary Key"
+        "Relational Table, Entity Attribute, and Primary Key",
+        "Language Compiler, Linker, and Bytecode Interpreter"
       ],
       "correctAnswer": "User Interface, Knowledge Base, and Inference Engine"
     },
@@ -139,8 +139,8 @@
       "options": [
         "Accepts user queries and presents system recommendations",
         "Generates binary machine instructions for CPU execution",
-        "Formats storage partitions into contiguous file blocks",
-        "Regulates current flow between motherboard components"
+        "Assembling circuit boards on vehicle manufacturing lines",
+        "Formats storage partitions into contiguous file blocks"
       ],
       "correctAnswer": "Accepts user queries and presents system recommendations"
     },
@@ -149,9 +149,9 @@
       "anki": true,
       "question": "How is domain knowledge organized within the Knowledge Base?",
       "options": [
-        "In the form of if-then-else rules holding factual and heuristic knowledge",
+        "The mandatory regulatory requirement for AR software on all smart devices",
         "As unindexed comma-separated strings inside plain text documents",
-        "As binary machine-code commands stored on optical compact discs",
+        "In the form of if-then-else rules holding factual and heuristic knowledge",
         "In alphabetical dictionaries listing grammatical language terms"
       ],
       "correctAnswer": "In the form of if-then-else rules holding factual and heuristic knowledge"
@@ -186,8 +186,8 @@
       "question": "What was the specific domain purpose of the famous early expert system MYCIN?",
       "options": [
         "Identifying bacteria causing infections and recommending antibiotics",
+        "AR functions in total darkness while VR operates only under daylight",
         "Predicting daily market stock valuation trends on Wall Street",
-        "Steering autonomous planetary rovers across rocky terrain",
         "Translating diplomatic legal documents across spoken languages"
       ],
       "correctAnswer": "Identifying bacteria causing infections and recommending antibiotics"

@@ -126,10 +126,10 @@
       "anki": true,
       "question": "A pastoralist keeping very large herds mainly seeks",
       "options": [
-        "Capital and security",
-        "Meat for daily use",
+        "Draft for cropping",
         "Milk for sale only",
-        "Draft for cropping"
+        "Dodder and orobanche",
+        "Capital and security"
       ],
       "correctAnswer": "Capital and security"
     },
@@ -186,10 +186,10 @@
       "anki": true,
       "question": "Feeding slaughter residues to monogastric animals mainly illustrates",
       "options": [
-        "Recycling by-products",
+        "Market expansion",
         "Genetic improvement",
-        "Disease control",
-        "Market expansion"
+        "Manure and fertilizer",
+        "Recycling by-products"
       ],
       "correctAnswer": "Recycling by-products"
     }

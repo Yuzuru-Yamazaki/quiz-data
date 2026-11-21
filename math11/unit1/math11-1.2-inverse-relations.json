@@ -15,10 +15,10 @@
       "anki": true,
       "question": "The inverse of a relation is a relation formed by interchanging the order of the __________ of each of the ordered pairs in the given relation.",
       "options": [
-        "sets",
         "graphs",
         "domains",
-        "components"
+        "components",
+        "$x$ of $f$"
       ],
       "correctAnswer": "components"
     },
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "If interchanging the order of the components of each ordered pair of a relation $R$ produces a relation $S$, then __________.",
       "options": [
-        "$S = R^{-1}$",
-        "$S$ is the domain of $R$",
         "$S = R$",
-        "$R$ and $S$ have the same domain"
+        "$S$ is the domain of $R$",
+        "$S = R^{-1}$",
+        "the $y$-axis"
       ],
       "correctAnswer": "$S = R^{-1}$"
     },
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "Let $R = \\{(-3,2),(-2,3),(-1,4),(0,5),(1,6),(2,7),(3,8)\\}$. Find Ran$(R^{-1})$.",
       "options": [
-        "$\\{2,3,4,5,6,7,8\\}$",
-        "$\\{-3,-2,-1,0,1,2,3\\}$",
         "$\\{0,1,2,3,4,5,6\\}$",
-        "$\\{-3,-2,-1,0,1,2\\}$"
+        "$\\{-3,-2,-1,0,1,2\\}$",
+        "$\\{-3,-2,-1,0,1,2,3\\}$",
+        "$f(x)=x^{\\frac{3}{2}}$"
       ],
       "correctAnswer": "$\\{-3,-2,-1,0,1,2,3\\}$"
     },
@@ -232,8 +232,8 @@
       "question": "Let $R = \\{(x,y): x,y \\in \\mathbb{R} \\text{ and } y = 3x + 6\\}$. Which of the following gives Dom$(R^{-1})$ and Ran$(R^{-1})$?",
       "options": [
         "Dom$(R^{-1}) = \\mathbb{R}$ and Ran$(R^{-1}) = \\mathbb{R}$",
-        "Dom$(R^{-1}) = \\mathbb{R} \\setminus \\{0\\}$ and Ran$(R^{-1}) = \\mathbb{R} \\setminus \\{0\\}$",
         "Dom$(R^{-1}) = \\mathbb{R}$ and Ran$(R^{-1}) = [0,\\infty)$",
+        "the smallest integer that is greater than or equal to $x$",
         "Dom$(R^{-1}) = [0,\\infty)$ and Ran$(R^{-1}) = \\mathbb{R}$"
       ],
       "correctAnswer": "Dom$(R^{-1}) = \\mathbb{R}$ and Ran$(R^{-1}) = \\mathbb{R}$"
@@ -351,10 +351,10 @@
       "anki": true,
       "question": "Let $R = \\{(2,20),(3,19),(4,18),(5,17),(6,16)\\}$. Find Dom$(R^{-1})$.",
       "options": [
-        "$\\{2,3,4,5,6\\}$",
         "$\\{2,3,4,5,6,16\\}$",
+        "$\\{17,18,19,20\\}$",
         "$\\{16,17,18,19,20\\}$",
-        "$\\{17,18,19,20\\}$"
+        "$\\{-2,1,20,25,100\\}$"
       ],
       "correctAnswer": "$\\{16,17,18,19,20\\}$"
     },

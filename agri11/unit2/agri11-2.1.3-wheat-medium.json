@@ -19,9 +19,9 @@
       "question": "Wheat in Ethiopia is grown mostly under",
       "options": [
         "Rainfed conditions",
-        "Full irrigation",
-        "Greenhouse",
-        "Hydroponics"
+        "Worker, drone, egg",
+        "Hydroponics",
+        "Full irrigation"
       ],
       "correctAnswer": "Rainfed conditions"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Glume blotch is a wheat",
       "options": [
-        "Fungal disease",
-        "Insect pest",
         "Viral disease",
-        "Weed species"
+        "Fungal disease",
+        "Weed species",
+        "Same as barley"
       ],
       "correctAnswer": "Fungal disease"
     },

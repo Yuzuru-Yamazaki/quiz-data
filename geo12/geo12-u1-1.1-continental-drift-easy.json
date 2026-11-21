@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What was the southern part of Pangaea called?",
       "options": [
-        "Laurasia",
+        "Pangaea",
         "Gondwanaland",
-        "Eurasia",
-        "Pangaea"
+        "Laurasia",
+        "Fissure vent"
       ],
       "correctAnswer": "Gondwanaland"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What profession did Alfred Wegener have?",
       "options": [
-        "Geologist",
+        "Magma chamber",
+        "Meteorologist",
         "Biologist",
-        "Astronomer",
-        "Meteorologist"
+        "Astronomer"
       ],
       "correctAnswer": "Meteorologist"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What do we call the matching of rock types and mountain belts across two continents?",
       "options": [
-        "Paleoclimatic evidence",
+        "It measures rainfall over centuries",
         "Rock type and structural similarity",
-        "Fossil evidence",
-        "Coastline similarity"
+        "Both are underground magma chambers",
+        "Climate change was entirely natural"
       ],
       "correctAnswer": "Rock type and structural similarity"
     }

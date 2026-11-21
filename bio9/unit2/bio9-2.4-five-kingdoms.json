@@ -13,10 +13,10 @@
     {
       "question": "Who proposed the five-kingdom classification system?",
       "options": [
-        "Louis Pasteur",
-        "Robert Whittaker",
         "Charles Darwin",
-        "Carl Linnaeus"
+        "Carl Linnaeus",
+        "Robert Whittaker",
+        "Forensic science"
       ],
       "correctAnswer": "Robert Whittaker",
       "explanation": "Robert Whittaker proposed the five-kingdom classification system in 1969.",
@@ -49,10 +49,10 @@
     {
       "question": "What type of cell wall do bacteria in Kingdom Monera have?",
       "options": [
-        "Cellulose cell wall",
+        "To break the cells open",
         "Peptidoglycan cell wall",
-        "Chitin cell wall",
-        "No cell wall"
+        "Cellulose cell wall",
+        "Chitin cell wall"
       ],
       "correctAnswer": "Peptidoglycan cell wall",
       "explanation": "Bacteria have cell walls made of peptidoglycan, a polymer of sugars and amino acids, unlike plants (cellulose) or fungi (chitin).",
@@ -85,9 +85,9 @@
     {
       "question": "Algae are classified under which kingdom?",
       "options": [
+        "Narcotic",
         "Monera",
         "Protista",
-        "Fungi",
         "Plantae"
       ],
       "correctAnswer": "Protista",
@@ -133,10 +133,10 @@
     {
       "question": "Members of Kingdom Plantae are characterized by being:",
       "options": [
+        "It is lost as heat, used for metabolism, or remains undigested",
         "Autotrophic, multicellular, and having cell walls of cellulose",
-        "Heterotrophic and mobile",
-        "Heterotrophic and unicellular",
-        "Prokaryotic and unicellular"
+        "Flower parts and reproductive structures (stamens and pistils)",
+        "Flush your eyes at the eyewash station for at least 15 minutes"
       ],
       "correctAnswer": "Autotrophic, multicellular, and having cell walls of cellulose",
       "explanation": "Plants are multicellular autotrophs with cellulose cell walls that photosynthesize to produce their own food.",
@@ -217,10 +217,10 @@
     {
       "question": "Which kingdom contains organisms that can be both autotrophic (photosynthetic) and heterotrophic?",
       "options": [
-        "Monera",
-        "Fungi",
         "Plantae",
-        "Protista"
+        "Protista",
+        "Monera",
+        "Pellagra"
       ],
       "correctAnswer": "Protista",
       "explanation": "Some protists like Euglena can photosynthesize (autotrophic) when light is available and become heterotrophic in darkness.",
@@ -230,9 +230,9 @@
       "question": "What is the main characteristic that distinguishes Kingdom Animalia from Kingdom Plantae?",
       "options": [
         "Animals are heterotrophic and capable of movement",
-        "Animals have cell walls",
-        "Animals are autotrophic",
-        "All animals are unicellular"
+        "A well-supported explanation of natural phenomena",
+        "Lakes have flowing water while ponds are stagnant",
+        "Performing laboratory tests on blood samples only"
       ],
       "correctAnswer": "Animals are heterotrophic and capable of movement",
       "explanation": "Animals are heterotrophic (cannot make their own food) and most can move, while plants are autotrophic and generally sessile.",
@@ -253,10 +253,10 @@
     {
       "question": "Euglena is classified under Kingdom Protista because it:",
       "options": [
-        "Is prokaryotic",
-        "Has chitin in its cell wall",
-        "Is multicellular",
-        "Has both plant-like and animal-like characteristics"
+        "They recycle nutrients by breaking down dead matter",
+        "Add stain, place specimen, add coverslip, add water",
+        "Has both plant-like and animal-like characteristics",
+        "Do not resemble each other more than other siblings"
       ],
       "correctAnswer": "Has both plant-like and animal-like characteristics",
       "explanation": "Euglena has chloroplasts (plant-like) but also moves and feeds heterotrophically (animal-like), placing it in Protista.",
@@ -289,10 +289,10 @@
     {
       "question": "Which kingdom has no cell wall at all?",
       "options": [
+        "Grafting",
+        "Animalia",
         "Plantae",
-        "Monera",
-        "Fungi",
-        "Animalia"
+        "Monera"
       ],
       "correctAnswer": "Animalia",
       "explanation": "Animal cells lack cell walls, unlike plants (cellulose), fungi (chitin), and bacteria (peptidoglycan).",
@@ -301,10 +301,10 @@
     {
       "question": "The mode of nutrition in Kingdom Plantae is:",
       "options": [
-        "Chemosynthetic",
         "Heterotrophic absorption",
         "Ingestive heterotrophic",
-        "Autotrophic via photosynthesis"
+        "Autotrophic via photosynthesis",
+        "Increased productivity at work"
       ],
       "correctAnswer": "Autotrophic via photosynthesis",
       "explanation": "Plants are autotrophs that use chlorophyll to convert light energy into chemical energy through photosynthesis.",

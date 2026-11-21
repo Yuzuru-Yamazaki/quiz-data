@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What does 'meticulous' most nearly mean in the sentence 'She kept meticulous records of every experiment'?",
       "options": [
-        "Recently invented",
+        "Highly careful and detailed",
         "Barely noticeable",
         "Quick and careless",
-        "Highly careful and detailed"
+        "$\\log_2 \\frac{\\sqrt{3}}{7}$"
       ],
       "correctAnswer": "Highly careful and detailed",
       "section": "English",
@@ -32,9 +32,9 @@
       "question": "A graph shows that average test scores rose steadily from 2015 to 2020, while the number of hours students reported studying fell slightly over the same period.\n\nWhich conclusion is most defensible from the graph?",
       "options": [
         "Scores rose even as reported study hours declined slightly.",
-        "Studying less causes higher scores.",
-        "No students studied after 2020.",
-        "The graph proves the test became easier."
+        "the difficulty of distributing a key as long as the message",
+        "their security follows directly from the no-cloning theorem",
+        "RSA key size has no influence on the security of the scheme"
       ],
       "correctAnswer": "Scores rose even as reported study hours declined slightly.",
       "section": "English",
@@ -45,10 +45,10 @@
       "id": 3,
       "question": "The essay moves from a personal memory of a flood to an analysis of urban planning policy.\n\nWhat is the rhetorical effect of this structure?",
       "options": [
-        "It shifts focus from one city to another without explanation.",
-        "It proves that personal experience is unreliable.",
-        "It abandons the main topic entirely.",
-        "It uses lived experience to frame a broader policy discussion."
+        "the inability of optical fibres to carry single photons at all",
+        "It uses lived experience to frame a broader policy discussion.",
+        "a satellite that stores the pairs until both parties are ready",
+        "It shifts focus from one city to another without explanation."
       ],
       "correctAnswer": "It uses lived experience to frame a broader policy discussion.",
       "section": "English",
@@ -73,10 +73,10 @@
       "id": 5,
       "question": "The article notes that urban trees lower air temperature, reduce stormwater runoff, and provide habitat for birds.\n\nWhich sentence best summarizes the passage?",
       "options": [
-        "Stormwater runoff cannot be reduced.",
         "Urban trees provide several environmental benefits.",
-        "Urban trees are expensive to maintain.",
-        "Birds prefer rural forests to cities."
+        "the bit is retained as a marker of an erasure event",
+        "After the storm, passed the crew repaired the roof.",
+        "One, which keeps the encoding as simple as possible"
       ],
       "correctAnswer": "Urban trees provide several environmental benefits.",
       "section": "English",
@@ -116,9 +116,9 @@
       "question": "The magazine article opens with a striking statistic about food waste before explaining a city's composting effort.\n\nWhat is the effect of opening with the statistic?",
       "options": [
         "It draws attention to the scale of the problem.",
-        "It removes the need for further explanation.",
         "It proves the composting effort has succeeded.",
-        "It shifts the topic to agriculture."
+        "It removes the need for further explanation.",
+        "requires no generation of random numbers at all"
       ],
       "correctAnswer": "It draws attention to the scale of the problem.",
       "section": "English",
@@ -157,10 +157,10 @@
       "id": 11,
       "question": "$1000 is invested at 5% annual interest compounded annually for 2 years. What is the balance?",
       "options": [
-        "$1102.50",
-        "$1215",
         "$1100",
-        "$1050"
+        "$1102.50",
+        "$1050",
+        "analyzed"
       ],
       "correctAnswer": "$1102.50",
       "section": "Math",
@@ -171,10 +171,10 @@
       "id": 12,
       "question": "What is the sum of the roots of $x^2 + 6x + 5 = 0$?",
       "options": [
-        "-6",
-        "5",
+        "6",
         "1",
-        "6"
+        "84",
+        "-6"
       ],
       "correctAnswer": "-6",
       "section": "Math",
@@ -199,10 +199,10 @@
       "id": 14,
       "question": "Solar panels installed on the school roof cut electricity purchases by 40% in the first year.\n\nWhich statement best expresses the central idea?",
       "options": [
+        "double the symmetric key length, for example moving from AES-128 to AES-256",
+        "factoring large integers is easy classically but slow on a quantum computer",
         "The school reduced its electricity purchases after installing solar panels.",
-        "The school stopped buying electricity entirely.",
-        "Electricity prices fell across the country.",
-        "Solar panels cost more than the school expected."
+        "The qubit is left in an entangled state shared with the measuring apparatus"
       ],
       "correctAnswer": "The school reduced its electricity purchases after installing solar panels.",
       "section": "English",
@@ -213,10 +213,10 @@
       "id": 15,
       "question": "A study followed 500 commuters for a year. Those who used a rail line reported lower stress than those who drove, even after accounting for income and distance traveled.\n\nWhich conclusion is best supported by the study?",
       "options": [
-        "Income was the only factor affecting stress.",
-        "Driving causes higher income among commuters.",
-        "Rail travel eliminates all stress for every commuter.",
-        "Rail commuters reported lower stress than drivers in the sample."
+        "It gives an example of a process that undermines carbon storage.",
+        "middle station to measure the photons and learn the key directly",
+        "Rail commuters reported lower stress than drivers in the sample.",
+        "Rail travel eliminates all stress for every commuter."
       ],
       "correctAnswer": "Rail commuters reported lower stress than drivers in the sample.",
       "section": "English",
@@ -227,10 +227,10 @@
       "id": 16,
       "question": "The author describes a 'silence that spoke volumes' in the room after the announcement.\n\nWhat is the effect of this phrasing?",
       "options": [
-        "It indicates the announcement was unimportant.",
-        "It suggests the room was acoustically unusual.",
         "It conveys that the lack of response was deeply meaningful.",
-        "It shows that everyone spoke at once."
+        "roughly $2^{2k}$ candidate keys, i.e. $2k$ bits of security",
+        "the difficulty of distributing a key as long as the message",
+        "amplifiers that regenerate the photons without adding noise"
       ],
       "correctAnswer": "It conveys that the lack of response was deeply meaningful.",
       "section": "English",
@@ -325,10 +325,10 @@
       "id": 23,
       "question": "The poet describes the old house as 'a keeper of quiet stories, its windows holding the light of other summers.'\n\nWhat does the phrase 'a keeper of quiet stories' suggest about the house?",
       "options": [
-        "It has no windows at all.",
+        "It holds memories of lives lived there.",
         "It is a museum open to visitors.",
         "It is falling apart rapidly.",
-        "It holds memories of lives lived there."
+        "Grover's search over the group elements"
       ],
       "correctAnswer": "It holds memories of lives lived there.",
       "section": "English",
@@ -339,10 +339,10 @@
       "id": 24,
       "question": "Marina hoped to become a marine biologist. She volunteered at a coastal laboratory each summer and took advanced science courses.\n\nWhich detail best supports the idea that Marina prepared for her goal?",
       "options": [
-        "She lived near the coast.",
-        "She planned to attend a large university.",
-        "She enjoyed swimming as a child.",
-        "She volunteered at a coastal laboratory and took advanced science courses."
+        "leaves the state as the original superposition, but now with a known value",
+        "simulates a large classical computer exactly, with no advantage of its own",
+        "She volunteered at a coastal laboratory and took advanced science courses.",
+        "the key is truly random, at least as long as the message, and never reused"
       ],
       "correctAnswer": "She volunteered at a coastal laboratory and took advanced science courses.",
       "section": "English",
@@ -354,9 +354,9 @@
       "question": "Two scientists interpret the same fossil differently: one sees adaptation, the other sees developmental variation.\n\nWhat does the disagreement most likely illustrate?",
       "options": [
         "Scientific disagreements are always resolved quickly.",
-        "Fossils are irrelevant to evolutionary studies.",
         "The same evidence can support competing interpretations.",
-        "One scientist must have made an error in observation."
+        "One scientist must have made an error in observation.",
+        "the presumed difficulty of decoding a random linear code"
       ],
       "correctAnswer": "The same evidence can support competing interpretations.",
       "section": "English",
@@ -382,9 +382,9 @@
       "question": "A scatterplot shows $y$ decreasing as $x$ increases in a roughly straight line. Which describes the association?",
       "options": [
         "Strong negative linear association",
+        "$(|0\\rangle - |1\\rangle)/\\sqrt{2}$",
         "Strong positive linear association",
-        "Nonlinear association",
-        "No association"
+        "To prove the town no longer exists"
       ],
       "correctAnswer": "Strong negative linear association",
       "section": "Math",
@@ -423,10 +423,10 @@
       "id": 30,
       "question": "Passage 1 argues that libraries should extend hours. Passage 2 describes a library that extended hours and saw higher attendance.\n\nHow does Passage 2 function in relation to Passage 1?",
       "options": [
+        "quantum algorithms that break current public-key systems faster",
+        "To challenge simplified accounts of the treaty's implementation",
         "It supplies evidence consistent with the argument in Passage 1.",
-        "It questions the motives of library staff.",
-        "It refutes the claim made in Passage 1.",
-        "It presents an entirely separate topic."
+        "the key is a secret but short string that is easy to distribute"
       ],
       "correctAnswer": "It supplies evidence consistent with the argument in Passage 1.",
       "section": "English",
@@ -451,10 +451,10 @@
       "id": 32,
       "question": "The proposal is ambitious. ___ , the budget is limited.\n\nWhich transition best signals the contrast?",
       "options": [
-        "For example,",
-        "Therefore,",
+        "Similarly,",
+        "$3x + 2y = 0$",
         "Nevertheless,",
-        "Similarly,"
+        "For example,"
       ],
       "correctAnswer": "Nevertheless,",
       "section": "English",
@@ -479,10 +479,10 @@
       "id": 34,
       "question": "A paragraph describes a school tutoring program.\n\nWhich sentence best shows that the program had a positive result?",
       "options": [
-        "The program was started by two teachers.",
-        "Tutoring sessions lasted forty-five minutes.",
-        "Participants raised their average test scores by 12 points.",
-        "Participants met every Tuesday afternoon."
+        "the difficulty of distributing a key as long as the message",
+        "random and completely uncorrelated with that of its partner",
+        "amplifiers that regenerate the photons without adding noise",
+        "Participants raised their average test scores by 12 points."
       ],
       "correctAnswer": "Participants raised their average test scores by 12 points.",
       "section": "English",
@@ -522,9 +522,9 @@
       "question": "Which version maintains the original meaning with the fewest words?\n\nSelect the most concise version.",
       "options": [
         "The vote was postponed by the committee until next week.",
+        "measurement-induced collapse of the shared secret",
         "The committee postponed the vote until next week.",
-        "The committee made the decision to postpone the vote until next week.",
-        "The committee decided that it would postpone the vote until next week."
+        "It proves that personal experience is unreliable."
       ],
       "correctAnswer": "The committee postponed the vote until next week.",
       "section": "English",
@@ -549,9 +549,9 @@
       "id": 39,
       "question": "If $f(x) = x^2 + 1$, what is $f(3)$?",
       "options": [
-        "10",
-        "9",
+        "-3",
         "7",
+        "10",
         "8"
       ],
       "correctAnswer": "10",
@@ -606,7 +606,7 @@
       "question": "The report was brief. It contained several important findings.\n\nWhich combination preserves both ideas correctly?",
       "options": [
         "Although the report was brief, it contained several important findings.",
-        "The report was brief it contained several important findings.",
+        "four real parameters, one for each possible computational basis outcome",
         "The report was brief, nevertheless it contained findings several.",
         "Being brief, several important findings the report contained."
       ],
@@ -619,10 +619,10 @@
       "id": 44,
       "question": "A writer wants to add a sentence acknowledging a limitation of the proposed plan while still supporting it. Which sentence fits?\n\nWhich sentence best acknowledges a limitation?",
       "options": [
-        "The plan is perfect in every respect.",
         "The plan requires funding that the city has not yet secured.",
-        "No other city has tried anything similar.",
-        "The plan will be implemented next month."
+        "quantum measurement always consumes randomness as a resource",
+        "Copying a basis state simply amounts to applying a CNOT gate",
+        "a random choice from four bases, all of which supply the key"
       ],
       "correctAnswer": "The plan requires funding that the city has not yet secured.",
       "section": "English",
@@ -633,10 +633,10 @@
       "id": 45,
       "question": "The recipe called for two hours of baking, but the chef checked the cake after ninety minutes.\n\nWhy did the chef check the cake early?",
       "options": [
-        "To see whether it was finished before the recommended time",
-        "To turn off the oven immediately",
-        "To add more sugar to the batter",
-        "To measure the pan before baking"
+        "Shor's algorithm applied to the discrete logarithm problem",
+        "she would need a full quantum computer to perform the copy",
+        "Bohm-Aaronson pairs, designed to violate Bell inequalities",
+        "To see whether it was finished before the recommended time"
       ],
       "correctAnswer": "To see whether it was finished before the recommended time",
       "section": "English",
@@ -661,10 +661,10 @@
       "id": 47,
       "question": "Which sentence is correctly punctuated?\n\nSelect the correctly punctuated sentence.",
       "options": [
-        "The findings, though preliminary suggest a clear pattern.",
-        "The findings, though preliminary, suggest a clear pattern.",
+        "the sifted key must be regenerated at every few kilometres",
         "The findings though preliminary, suggest a clear pattern.",
-        "The findings though preliminary suggest a clear pattern,"
+        "The findings, though preliminary, suggest a clear pattern.",
+        "The findings, though preliminary suggest a clear pattern."
       ],
       "correctAnswer": "The findings, though preliminary, suggest a clear pattern.",
       "section": "English",

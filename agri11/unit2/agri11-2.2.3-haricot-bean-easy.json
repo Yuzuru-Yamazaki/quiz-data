@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Haricot bean is also called",
       "options": [
-        "Common bean",
-        "Broad bean",
         "Field pea",
-        "Chickpea"
+        "Common bean",
+        "Crop height",
+        "Broad bean"
       ],
       "correctAnswer": "Common bean"
     },
@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Haricot bean is mainly grown in",
       "options": [
+        "Coastal swamps and flats",
         "Lowlands and mid-altitudes",
         "High mountains and peaks",
-        "Desert oases and dunes",
-        "Coastal swamps and flats"
+        "Observation and experience"
       ],
       "correctAnswer": "Lowlands and mid-altitudes"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Haricot bean seeds are rich in",
       "options": [
-        "Protein",
-        "Oil",
+        "Fiber",
+        "D and B",
         "Starch",
-        "Fiber"
+        "Protein"
       ],
       "correctAnswer": "Protein"
     },
@@ -162,9 +162,9 @@
       "anki": true,
       "question": "Anthracnose is a haricot bean",
       "options": [
-        "Fungal disease",
+        "Single stomach",
         "Viral disease",
-        "Insect pest",
+        "Fungal disease",
         "Weed species"
       ],
       "correctAnswer": "Fungal disease"
@@ -174,9 +174,9 @@
       "anki": true,
       "question": "Haricot bean rust is a",
       "options": [
-        "Fungal disease",
+        "Flooded yearly",
         "Viral disease",
-        "Insect pest",
+        "Fungal disease",
         "Weed species"
       ],
       "correctAnswer": "Fungal disease"

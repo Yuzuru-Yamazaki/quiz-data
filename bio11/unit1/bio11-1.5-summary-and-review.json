@@ -49,10 +49,10 @@
     {
       "question": "Biology and technology are tightly blended and form biotechnology, which is useful in designing various devices and engineering systems to ____.",
       "options": [
-        "increase industrial waste",
-        "destroy natural habitats",
         "reduce the study of life",
-        "solve complex human problems"
+        "solve complex human problems",
+        "increase industrial waste",
+        "heat-resistant engine metals"
       ],
       "correctAnswer": "solve complex human problems",
       "id": 4,
@@ -73,12 +73,12 @@
     {
       "question": "The benefits of biology to technology are ____.",
       "options": [
-        "industrial effluents that pollute clean air and drinking water",
-        "the depletion of natural resources caused by technology",
-        "biological information on biological systems helpful to derive technological systems, working mechanisms and related products",
-        "biological weapons that destroy the natural world"
+        "biological information on biological systems helpful to derive technological systems",
+        "the application of scientific knowledge, skills, methods and processes for the production of devices",
+        "life: the structures, functions, growth, origins, evolution and distribution of living organisms",
+        "have a nervous system, feel painful feelings and emotional stress, and have interests and values"
       ],
-      "correctAnswer": "biological information on biological systems helpful to derive technological systems, working mechanisms and related products",
+      "correctAnswer": "biological information on biological systems helpful to derive technological systems",
       "id": 6,
       "anki": true
     },
@@ -121,8 +121,8 @@
     {
       "question": "Uses of technology in biology deal with technical applications in the biological study process to ____.",
       "options": [
+        "are unaffected by emotional stress",
         "investigate biological information",
-        "deplete natural resources",
         "increase industrial wastes",
         "pollute clean drinking water"
       ],
@@ -133,10 +133,10 @@
     {
       "question": "According to the unit review, humans started house building by learning from ____.",
       "options": [
-        "spiders",
-        "ants",
         "swallows",
-        "bees"
+        "bees",
+        "yolk sac",
+        "spiders"
       ],
       "correctAnswer": "swallows",
       "id": 11,
@@ -157,10 +157,10 @@
     {
       "question": "According to the unit review, the East Gate Center building in Harare is designed by imitating ____.",
       "options": [
-        "the webs of social ants",
         "the mound architecture of termites",
-        "the formation of spider webs",
-        "the nests of swallows"
+        "the webs of social ants",
+        "the ability to live without a nest",
+        "the formation of spider webs"
       ],
       "correctAnswer": "the mound architecture of termites",
       "id": 13,
@@ -193,10 +193,10 @@
     {
       "question": "Part II of the unit review consists of ____.",
       "options": [
-        "multiple-choice test items",
         "oral presentations",
-        "true or false items",
-        "essay questions"
+        "multiple-choice test items",
+        "forming rocks and minerals",
+        "true or false items"
       ],
       "correctAnswer": "multiple-choice test items",
       "id": 16,
@@ -205,10 +205,10 @@
     {
       "question": "Part III of the unit review directs students to ____.",
       "options": [
-        "circle the correct alternative",
-        "draw a labelled diagram",
+        "write a short answer to each question",
         "mark each statement true or false",
-        "write a short answer to each question"
+        "warm oceans and shallow coastal areas",
+        "circle the correct alternative"
       ],
       "correctAnswer": "write a short answer to each question",
       "id": 17,
@@ -217,10 +217,10 @@
     {
       "question": "Which of the following is an essay question listed in Part III of the unit review?",
       "options": [
-        "Why does the moon shine?",
         "What is the capital city of Ethiopia?",
-        "What are the ethical issues of biology?",
-        "How do volcanoes form?"
+        "man-made tools and industrial machinery",
+        "keep sweating after it is no longer hot",
+        "What are the ethical issues of biology?"
       ],
       "correctAnswer": "What are the ethical issues of biology?",
       "id": 18,
@@ -265,10 +265,10 @@
     {
       "question": "An instrument used to measure human body temperature is ____.",
       "options": [
-        "Barometer",
         "Thermometer",
-        "CT scan",
-        "Microscope"
+        "larva stage",
+        "Microscope",
+        "Barometer"
       ],
       "correctAnswer": "Thermometer",
       "id": 22,

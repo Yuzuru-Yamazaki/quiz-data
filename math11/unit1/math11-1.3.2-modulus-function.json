@@ -15,10 +15,10 @@
       "anki": true,
       "question": "The absolute value (modulus) $|a|$ of a real number $a$ is:",
       "options": [
-        "the greatest integer less than or equal to $a$",
         "the distance from the origin to the point represented by $a$ on the number line",
+        "$\\operatorname{Dom}(f) = [0,\\infty)$ and $\\operatorname{Ran}(f) = (-\\infty,0]$",
         "the distance from the point $1$ to the point represented by $a$ on the number line",
-        "the opposite of the number $a$"
+        "Dom$(R) = \\mathbb{R} \\setminus \\{0\\}$ and Ran$(R) = \\mathbb{R} \\setminus \\{0\\}$"
       ],
       "correctAnswer": "the distance from the origin to the point represented by $a$ on the number line"
     },
@@ -63,9 +63,9 @@
       "anki": true,
       "question": "Which property of absolute value states that $|ab| = |a|\\,|b|$ for any two real numbers $a$ and $b$?",
       "options": [
-        "the definition of absolute value",
         "Property III",
         "Property II",
+        "$8$ minutes",
         "Property I"
       ],
       "correctAnswer": "Property II"
@@ -76,8 +76,8 @@
       "question": "Property II of absolute value states that for any two real numbers $a$ and $b$, with $b \\neq 0$:",
       "options": [
         "$\\left|\\frac{a}{b}\\right| = \\frac{|a|}{|b|}$",
-        "$\\left|\\frac{a}{b}\\right| = \\frac{a}{b}$",
         "$\\left|\\frac{a}{b}\\right| = \\frac{a}{|b|}$",
+        "the horizontal line $y = 0$ for all real $x$",
         "$\\left|\\frac{a}{b}\\right| = \\frac{|a|}{b}$"
       ],
       "correctAnswer": "$\\left|\\frac{a}{b}\\right| = \\frac{|a|}{|b|}$"
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "If $a > 0$, then $|x| = a$ if and only if:",
       "options": [
-        "$x = a$ or $x = -a$",
         "$x = -a$ only",
-        "$x = a$ only",
-        "$x = 0$"
+        "$x = 7$ or $x = -7$",
+        "$x = a$ or $x = -a$",
+        "$x = a$ only"
       ],
       "correctAnswer": "$x = a$ or $x = -a$"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "The solutions of the equation $|x| = 7$ are:",
       "options": [
+        "$x = 7$",
         "$x = -7$",
         "$x = 7$ or $x = -7$",
-        "$x = 0$",
-        "$x = 7$"
+        "the set $A\\times B$"
       ],
       "correctAnswer": "$x = 7$ or $x = -7$"
     },
@@ -160,9 +160,9 @@
       "question": "The equation $|x| = -3$ has:",
       "options": [
         "no solution",
-        "one solution $x = 3$",
         "one solution $x = -3$",
-        "two solutions $x = 3$ and $x = -3$"
+        "one solution $x = 3$",
+        "$2700$ birr"
       ],
       "correctAnswer": "no solution"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "The solutions of the equation $|x| = 5$ are:",
       "options": [
-        "$x = \\sqrt{5}$ or $x = -\\sqrt{5}$",
         "$x = 5$ or $x = -5$",
-        "$x = -5$",
-        "$x = 5$"
+        "$a = d$ and $b = c$",
+        "$x = 5$",
+        "$x = -5$"
       ],
       "correctAnswer": "$x = 5$ or $x = -5$"
     },
@@ -207,10 +207,10 @@
       "anki": true,
       "question": "The solutions of the equation $|x+4| = 2$ are:",
       "options": [
-        "$x = -2$ or $x = -6$",
         "$x = -2$ or $x = 6$",
+        "$x = -2$ or $x = -6$",
         "$x = 2$ or $x = -6$",
-        "$x = 2$ or $x = 6$"
+        "$\\{62,65,66,68,70\\}$"
       ],
       "correctAnswer": "$x = -2$ or $x = -6$"
     },
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "Which of the following describes the graph of $f(x) = |x|$?",
       "options": [
-        "a straight line through the origin with slope 1",
-        "a smooth U-shaped curve that passes through the origin",
-        "a horizontal line through the origin",
-        "a continuous V-shaped curve that passes through the origin and has a sharp corner at $(0,0)$"
+        "$R$ is a function because each first component is paired with exactly one second component",
+        "a continuous V-shaped curve that passes through the origin and has a sharp corner at $(0,0)$",
+        "$\\operatorname{Dom}(f) = \\mathbb{R} \\setminus \\{0\\}$ and $\\operatorname{Ran}(f) = [0,\\infty)$",
+        "a set of ordered pairs; a set of domain elements; a set of range elements; a table of values"
       ],
       "correctAnswer": "a continuous V-shaped curve that passes through the origin and has a sharp corner at $(0,0)$"
     },

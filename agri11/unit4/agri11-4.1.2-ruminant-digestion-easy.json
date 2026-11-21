@@ -54,10 +54,10 @@
       "anki": true,
       "question": "The honeycomb chamber of the ruminant stomach is the",
       "options": [
-        "Reticulum",
-        "Rumen",
         "Omasum",
-        "Abomasum"
+        "Abomasum",
+        "Save feed",
+        "Reticulum"
       ],
       "correctAnswer": "Reticulum"
     },
@@ -90,10 +90,10 @@
       "anki": true,
       "question": "The rumen is a fermentation vat that digests",
       "options": [
-        "Cellulose",
-        "Protein",
         "Starch",
-        "Fat"
+        "Oil seeds",
+        "Cellulose",
+        "Protein"
       ],
       "correctAnswer": "Cellulose"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Examples of monogastric animals are",
       "options": [
-        "Horses and poultry",
         "Cattle and sheep",
         "Goats and camels",
-        "Sheep and goats"
+        "Horses and poultry",
+        "Food storage pouch"
       ],
       "correctAnswer": "Horses and poultry"
     },
@@ -139,9 +139,9 @@
       "question": "The cecum of a horse helps to",
       "options": [
         "Ferment roughage",
-        "Store urine",
-        "Grind grain",
-        "Absorb water"
+        "Absorb water",
+        "Pulses-oil crops",
+        "Grind grain"
       ],
       "correctAnswer": "Ferment roughage"
     },
@@ -162,8 +162,8 @@
       "anki": true,
       "question": "The proventriculus produces",
       "options": [
+        "Honey harvesting",
         "Acid and enzymes",
-        "Grit and mucus",
         "Water and salts",
         "Bile and waste"
       ],

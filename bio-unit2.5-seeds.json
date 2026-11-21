@@ -14,10 +14,10 @@
       "id": 1,
       "question": "What are the three parts of a seed?",
       "options": [
-        "Epicotyl, hypocotyl and cotyledon",
-        "Seed coat, fruit and flower",
-        "Radicle, plumule and root",
-        "Seed embryo, cotyledon/endosperm and seed coat"
+        "A long protein fiber extending from centrioles",
+        "Seed embryo, cotyledon/endosperm and seed coat",
+        "Unsaturated ones are solid at room temperature",
+        "The study of theoretical biological principles"
       ],
       "correctAnswer": "Seed embryo, cotyledon/endosperm and seed coat"
     },
@@ -36,10 +36,10 @@
       "id": 3,
       "question": "Why are angiosperm seeds called covered seeds?",
       "options": [
-        "They are covered by cones",
-        "They are covered by leaves",
-        "They have a thick seed coat",
-        "They are additionally covered by the fruit"
+        "They communicate better with healthy cells",
+        "They are additionally covered by the fruit",
+        "Photosynthesis, respiration, decomposition",
+        "The type of food available in an ecosystem"
       ],
       "correctAnswer": "They are additionally covered by the fruit"
     },
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "What does the seed embryo consist of?",
       "options": [
-        "Stem and leaves",
-        "Radicle, epicotyl, hypocotyl and plumule",
-        "Cotyledon and endosperm",
-        "Seed coat and fruit"
+        "Amino group, carboxyl group, and R group",
+        "Arranged in the form of one or two rings",
+        "Oxygen intake and carbon dioxide removal",
+        "Radicle, epicotyl, hypocotyl and plumule"
       ],
       "correctAnswer": "Radicle, epicotyl, hypocotyl and plumule"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What is the function of cotyledon and endosperm?",
       "options": [
-        "They help in seed dispersal",
-        "They form the seed coat",
-        "They attract pollinators",
-        "They are food storing tissues essential for the seed embryo until it forms leaf and starts manufacturing its own food"
+        "It is cheap, well known by local people, and environment friendly as it breaks down naturally within about two days",
+        "They are food storing tissues essential for the seed embryo until it forms leaf and starts manufacturing its own food",
+        "Microbial preparations containing living cells of microorganisms that mobilize nutrients from unusable to usable form",
+        "Sigmund Freud and Karl Koller with first clinical use in 1884; Albert Niemann extracted it from leaves of Coca in 1860"
       ],
       "correctAnswer": "They are food storing tissues essential for the seed embryo until it forms leaf and starts manufacturing its own food"
     },
@@ -124,9 +124,9 @@
       "id": 11,
       "question": "How are dicot cotyledons described in terms of food storage?",
       "options": [
-        "Hard and dry",
+        "Pyramid of water, air, and soil",
+        "They help in flower development",
         "Fleshy and store food materials",
-        "Absent",
         "Thin and lack food materials"
       ],
       "correctAnswer": "Fleshy and store food materials"
@@ -135,10 +135,10 @@
       "id": 12,
       "question": "How are monocot cotyledons described in terms of food storage?",
       "options": [
-        "Very thin and lack food materials",
-        "They store large amounts of food",
         "Fleshy and store food",
-        "They are absent"
+        "They store large amounts of food",
+        "Very thin and lack food materials",
+        "Proximal, distal, medial, lateral"
       ],
       "correctAnswer": "Very thin and lack food materials"
     },
@@ -146,10 +146,10 @@
       "id": 13,
       "question": "What is the status of endosperm in dicot seeds?",
       "options": [
-        "Absent",
+        "Ribose",
+        "Scattered",
         "Small",
-        "Large and well developed",
-        "Scattered"
+        "Absent"
       ],
       "correctAnswer": "Absent"
     },
@@ -157,10 +157,10 @@
       "id": 14,
       "question": "What is the status of endosperm in monocot seeds?",
       "options": [
-        "Absent",
         "Present but not developed",
-        "Large and well developed",
-        "Very small"
+        "Air spaces between cells",
+        "Fatty acids and glycerol",
+        "Large and well developed"
       ],
       "correctAnswer": "Large and well developed"
     },
@@ -168,9 +168,9 @@
       "id": 15,
       "question": "What happens to the primary root in monocot seeds?",
       "options": [
-        "It persists throughout life",
-        "It bears many lateral roots",
-        "It grows deep into the soil",
+        "It is resistant to pests but has lower yield",
+        "All proteins, both structural and functional",
+        "It prevents water from dissolving substances",
         "It is replaced by adventitious fibrous roots"
       ],
       "correctAnswer": "It is replaced by adventitious fibrous roots"
@@ -179,8 +179,8 @@
       "id": 16,
       "question": "What does the primary root produced from the radicle in dicot seeds do?",
       "options": [
+        "It dies quickly in the situation described",
         "It is replaced by adventitious roots",
-        "It dies quickly",
         "It becomes a fibrous root system",
         "It bears many lateral roots"
       ],

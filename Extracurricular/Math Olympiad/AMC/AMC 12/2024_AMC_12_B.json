@@ -177,11 +177,11 @@
     {
       "question": "A right pyramid has regular octagon $ABCDEFGH$ with side length $1$ as its base and apex $V$. Segments $\\overline{AV}$ and $\\overline{DV}$ are perpendicular. What is the square of the height of the pyramid?",
       "options": [
-        "$1$ \\quad",
-        "$\\frac{3}{2}$ \\quad",
+        "$(\\frac{3}{4}, \\frac{7}{8}]$",
+        "$\\frac{2+\\sqrt{2}}{3}$",
         "$\\sqrt{2}$ \\quad",
         "$\\frac{1+\\sqrt{2}}{2}$ \\quad",
-        "$\\frac{2+\\sqrt{2}}{3}$"
+        "$\\frac{3}{2}$ \\quad"
       ],
       "correctAnswer": "$\\frac{1+\\sqrt{2}}{2}$ \\quad",
       "explanation": "",
@@ -214,12 +214,12 @@
     {
       "question": "Pablo will decorate each of 6 identical white balls with either a striped or a dotted pattern, using either red or blue paint. He will decide on the color and pattern for each ball by flipping a fair coin for each of the 12 decisions he must make. After the paint dries, he will place the 6 balls in an urn. Frida will randomly select one ball from the urn and note its color and pattern. The events “the ball Frida selects is red” and “the ball Frida selects is striped” may or may not be independent, depending on the outcome of Pablo’s coin flips. The probability that these two events are independent can be written as $\\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m$? (Recall that two events $A$ and $B$ are independent if $P(A \\text{ and } B) = P",
       "options": [
-        "247",
-        "251",
         "\\cdot P",
-        "249",
-        "245",
         "$.)",
+        "245",
+        "251",
+        "249",
+        "5 hours",
         "243"
       ],
       "correctAnswer": "\\cdot P",

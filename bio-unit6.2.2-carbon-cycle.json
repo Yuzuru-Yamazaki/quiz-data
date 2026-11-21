@@ -15,10 +15,10 @@
     {
       "question": "What gases is the air around us composed of?",
       "options": [
-        "Only carbon dioxide and nitrogen",
-        "Only oxygen and carbon dioxide",
+        "They can prepare their own food by photosynthesis",
         "Oxygen, carbon dioxide, nitrogen, and inert gases",
-        "Only nitrogen and oxygen"
+        "A molecule that contains only oxygen and hydrogen",
+        "Nuclear division followed by cytoplasmic division"
       ],
       "correctAnswer": "Oxygen, carbon dioxide, nitrogen, and inert gases",
       "id": 1
@@ -26,10 +26,10 @@
     {
       "question": "Which two gases are particularly important for the survival of living organisms?",
       "options": [
-        "Hydrogen and helium",
-        "Nitrogen and inert gases",
+        "A plant that traps energy",
+        "Oxygen and carbon dioxide",
         "Methane and ammonia",
-        "Oxygen and carbon dioxide"
+        "Nitrogen and inert gases"
       ],
       "correctAnswer": "Oxygen and carbon dioxide",
       "id": 2
@@ -37,9 +37,9 @@
     {
       "question": "What two processes maintain the amount of oxygen and carbon dioxide in the atmosphere?",
       "options": [
-        "Evaporation and condensation",
-        "Photosynthesis and cellular respiration",
+        "Agriculture, horticulture, and forestry",
         "Combustion and decomposition",
+        "Photosynthesis and cellular respiration",
         "Nitrogen fixation and denitrification"
       ],
       "correctAnswer": "Photosynthesis and cellular respiration",
@@ -48,10 +48,10 @@
     {
       "question": "How is the amount of carbon in the atmosphere maintained?",
       "options": [
-        "Only by processes that release it",
-        "Only by processes that absorb it",
+        "The application of the knowledge of biological science to criminal and civil laws",
         "By processes that continuously take it from and release it back to the atmosphere",
-        "By a single process"
+        "Because energy decreases at each level and eventually insufficient energy remains",
+        "Environmental observation and finding solutions to maintain the balance of nature"
       ],
       "correctAnswer": "By processes that continuously take it from and release it back to the atmosphere",
       "id": 4
@@ -60,9 +60,9 @@
       "question": "What do green plants absorb from the air during photosynthesis?",
       "options": [
         "Nitrogen",
-        "Carbon dioxide",
         "Water vapor",
-        "Oxygen"
+        "Liver glycogen",
+        "Carbon dioxide"
       ],
       "correctAnswer": "Carbon dioxide",
       "id": 5
@@ -70,10 +70,10 @@
     {
       "question": "What happens to the carbon stored in plants?",
       "options": [
-        "It turns into oxygen",
-        "It is released immediately",
-        "It stays in the plant forever",
-        "It is transferred to animals that eat the plant"
+        "Birds eat the fruit and the seeds fall directly",
+        "The shoot could no longer bend toward the light",
+        "It is transferred to animals that eat the plant",
+        "Thick-walled cells without intercellular spaces"
       ],
       "correctAnswer": "It is transferred to animals that eat the plant",
       "id": 6
@@ -81,10 +81,10 @@
     {
       "question": "What releases carbon dioxide back to the air when plants and animals die?",
       "options": [
+        "In the chloroplast of the leaf cell",
         "Decomposition by bacteria and fungi",
-        "Respiration",
-        "Transpiration",
-        "Photosynthesis"
+        "She discovered the structure of DNA",
+        "Unsaturated ones have more hydrogen"
       ],
       "correctAnswer": "Decomposition by bacteria and fungi",
       "id": 7
@@ -92,9 +92,9 @@
     {
       "question": "What do all living organisms, including plants and animals, release throughout their entire lifetime?",
       "options": [
-        "Nitrogen",
-        "Hydrogen",
-        "Oxygen",
+        "Actin, myosin, kinesin, and dynein",
+        "Both biotic and abiotic components",
+        "Fatty acids and glycerol molecules",
         "Carbon dioxide through respiration"
       ],
       "correctAnswer": "Carbon dioxide through respiration",
@@ -104,9 +104,9 @@
       "question": "What do dead bodies of organisms become over a long period of time?",
       "options": [
         "Water",
+        "Fossil fuel",
         "Minerals",
-        "Soil",
-        "Fossil fuel"
+        "B, C, and K"
       ],
       "correctAnswer": "Fossil fuel",
       "id": 9
@@ -114,10 +114,10 @@
     {
       "question": "What activities release carbon dioxide by burning fossil fuels?",
       "options": [
-        "Only vehicles",
         "Factories, power stations, and vehicles",
-        "Only factories",
-        "Only power stations"
+        "Chromosomal DNA and associated proteins",
+        "He is the first plant scientist elected",
+        "Bones, muscles, cell membrane, and skin"
       ],
       "correctAnswer": "Factories, power stations, and vehicles",
       "id": 10
@@ -136,10 +136,10 @@
     {
       "question": "Is $CO_2$ a natural part of Earth's atmosphere?",
       "options": [
-        "It was never present before the industrial era",
-        "It is only found in cities",
-        "No, it is entirely man-made",
-        "Yes, it is a natural part of Earth's atmosphere"
+        "Uncontrolled hypertension (high blood pressure)",
+        "Duplicated genetic materials of the mother cell",
+        "Yes, it is a natural part of Earth's atmosphere",
+        "It was never present before the industrial era"
       ],
       "correctAnswer": "Yes, it is a natural part of Earth's atmosphere",
       "id": 12
@@ -147,10 +147,10 @@
     {
       "question": "Since when have atmospheric $CO_2$ concentrations significantly increased?",
       "options": [
-        "Since the 20th century only",
-        "Since the Renaissance",
-        "Since ancient times",
-        "Since the Industrial Revolution (late 18th century)"
+        "Since the Industrial Revolution (late 18th century)",
+        "Monosaccharides, disaccharides, and polysaccharides",
+        "No, plants cannot directly use atmospheric nitrogen",
+        "Abdominal pain, toothache, tonsillitis, common cold"
       ],
       "correctAnswer": "Since the Industrial Revolution (late 18th century)",
       "id": 13
@@ -158,10 +158,10 @@
     {
       "question": "What are the major sources of increased $CO_2$?",
       "options": [
-        "Animal respiration only",
-        "Volcanic eruptions only",
-        "Natural forest fires",
-        "Burning of fossil fuels (coal, oil, natural gas) and wood for energy"
+        "Burning of fossil fuels (coal, oil, natural gas) and wood for energy",
+        "Phosphate fertilizers from farmlands rich in nitrogen and phosphorus",
+        "It is pushed up to become the photosynthetic surface of the seedling",
+        "Hertwig, Kolliker, Weismann (zoologists), and Strasburger (botanist)"
       ],
       "correctAnswer": "Burning of fossil fuels (coal, oil, natural gas) and wood for energy",
       "id": 14
@@ -169,10 +169,10 @@
     {
       "question": "How does atmospheric $CO_2$ act in terms of heat?",
       "options": [
+        "That all species had been created by God at the beginning of the world",
+        "Topmost physician administrator in charge of medical services division",
         "It acts like a heat-trapping blanket, absorbing heat and holding it in",
-        "It repels heat",
-        "It cools the atmosphere",
-        "It has no effect on heat"
+        "It will die because of disruption of food transport through the phloem"
       ],
       "correctAnswer": "It acts like a heat-trapping blanket, absorbing heat and holding it in",
       "id": 15
@@ -180,10 +180,10 @@
     {
       "question": "What is global warming?",
       "options": [
-        "A change in wind patterns",
+        "Just below the dermis of the skin and around the kidneys",
         "A rise in the overall temperature of the earth's surface",
-        "An increase in rainfall",
-        "A cooling of the earth's surface"
+        "They might not be able to communicate with healthy cells",
+        "They may not securely anchor themselves like other cells"
       ],
       "correctAnswer": "A rise in the overall temperature of the earth's surface",
       "id": 16
@@ -202,10 +202,10 @@
     {
       "question": "What are the other greenhouse gases mentioned besides $CO_2$?",
       "options": [
-        "Hydrogen and helium",
-        "Oxygen and nitrogen",
+        "It disappears permanently",
         "Methane and nitrous oxide",
-        "Ammonia and ozone"
+        "Oxygen and nitrogen",
+        "Hydrogen and helium"
       ],
       "correctAnswer": "Methane and nitrous oxide",
       "id": 18
@@ -213,10 +213,10 @@
     {
       "question": "What is the root cause of climate change according to the textbook?",
       "options": [
-        "Volcanic eruptions",
+        "Chemotherapy, sometimes followed by radiation and stem-cell transplant",
         "Addition of excessive $CO_2$ into the atmosphere due to human activity",
-        "Solar activity changes",
-        "Natural climate variability"
+        "In waterlogged soils (anoxic), layers of sediments in lakes and oceans",
+        "It acts like a heat-trapping blanket, absorbing heat and holding it in"
       ],
       "correctAnswer": "Addition of excessive $CO_2$ into the atmosphere due to human activity",
       "id": 19
@@ -224,10 +224,10 @@
     {
       "question": "What are the two major processes that maintain the balance of oxygen and carbon dioxide in the atmosphere?",
       "options": [
-        "Photosynthesis and cellular respiration",
         "Nitrogen fixation and denitrification",
-        "Evaporation and condensation",
-        "Combustion and decomposition"
+        "Combustion and decomposition",
+        "Photosynthesis and cellular respiration",
+        "Roots do not bear either leaves or buds"
       ],
       "correctAnswer": "Photosynthesis and cellular respiration",
       "id": 20
@@ -235,10 +235,10 @@
     {
       "question": "Where does photosynthesis occur in a plant cell?",
       "options": [
-        "In the mitochondrion",
-        "In the cell wall",
-        "In the chloroplast of the leaf cell",
-        "In the nucleus"
+        "An animal that feeds only on plants",
+        "Sexual reproduction through flowers",
+        "Males have greater vocal cord folds",
+        "In the chloroplast of the leaf cell"
       ],
       "correctAnswer": "In the chloroplast of the leaf cell",
       "id": 21
@@ -257,8 +257,8 @@
     {
       "question": "What are the reactants of photosynthesis?",
       "options": [
+        "Eighth cervical vertebra",
         "Glucose and oxygen",
-        "ATP and NADPH",
         "Carbon dioxide and water",
         "Nitrogen and hydrogen"
       ],
@@ -268,10 +268,10 @@
     {
       "question": "What are the products of photosynthesis?",
       "options": [
-        "Nitrogen and ammonia",
+        "Move upwards and outwards",
         "Carbon dioxide and water",
         "Glucose (food) and oxygen",
-        "ATP and heat"
+        "Nitrogen and ammonia"
       ],
       "correctAnswer": "Glucose (food) and oxygen",
       "id": 24
@@ -290,10 +290,10 @@
     {
       "question": "What are the products of cellular respiration?",
       "options": [
-        "Nitrogen and ammonia",
         "Carbon dioxide and water",
-        "ATP and oxygen",
-        "Glucose and oxygen"
+        "Glucose and oxygen",
+        "23 chromosomes (haploid)",
+        "Nitrogen and ammonia"
       ],
       "correctAnswer": "Carbon dioxide and water",
       "id": 26
@@ -302,8 +302,8 @@
       "question": "What two things are needed for photosynthesis besides carbon dioxide and water?",
       "options": [
         "Nitrogen and phosphorus",
-        "Soil and minerals",
         "Sunlight and chlorophyll",
+        "Large and well developed",
         "Oxygen and glucose"
       ],
       "correctAnswer": "Sunlight and chlorophyll",
@@ -312,9 +312,9 @@
     {
       "question": "What is the balanced chemical equation for photosynthesis?",
       "options": [
+        "Wuchereria bancrofti, Brugia malayi, and Brugia timori",
         "$CO_{2} + O_{2} \\rightarrow C_{6}H_{12}O_{6}$",
         "$C_{6}H_{12}O_{6} + O_{2} \\rightarrow CO_{2} + H_{2}O$",
-        "$N_{2} + H_{2} \\rightarrow NH_{3}$",
         "$CO_{2} + H_{2}O \\rightarrow C_{6}H_{12}O_{6} + O_{2}$"
       ],
       "correctAnswer": "$CO_{2} + H_{2}O \\rightarrow C_{6}H_{12}O_{6} + O_{2}$",
@@ -323,10 +323,10 @@
     {
       "question": "What is the balanced chemical equation for cellular respiration?",
       "options": [
-        "$N_{2} + H_{2} \\rightarrow NH_{3}$",
-        "$CO_{2} + H_{2}O \\rightarrow C_{6}H_{12}O_{6} + O_{2}$",
+        "Seed is a matured ovary while fruit is a matured ovule",
         "$C_{6}H_{12}O_{6} + O_{2} \\rightarrow CO_{2} + H_{2}O$",
-        "$NH_{3} + O_{2} \\rightarrow NO_{2}$"
+        "Dead organic matter -> Nitrification -> Ammonification",
+        "$CO_{2} + H_{2}O \\rightarrow C_{6}H_{12}O_{6} + O_{2}$"
       ],
       "correctAnswer": "$C_{6}H_{12}O_{6} + O_{2} \\rightarrow CO_{2} + H_{2}O$",
       "id": 29
@@ -334,10 +334,10 @@
     {
       "question": "Which human activities interfere with the carbon-oxygen cycle according to the textbook?",
       "options": [
+        "It helps in defining the ecosystem, detecting threats, and determining relationships of organisms with their environments",
         "Illegal logging, forest burning, burning fields, excessive use of pesticides, and excessive release of smoke from vehicles",
-        "Building houses and roads",
-        "Fishing and hunting",
-        "Farming and planting"
+        "Almost all government farms including Upper Awash agricultural farms and private horticultural farms in the Rift Valley region",
+        "Conversion of reduced organic matter having an amine group to reduced inorganic nitrogen ($NH_4$) through microorganisms"
       ],
       "correctAnswer": "Illegal logging, forest burning, burning fields, excessive use of pesticides, and excessive release of smoke from vehicles",
       "id": 30
@@ -356,10 +356,10 @@
     {
       "question": "In the oxygen cycle, oxygen is continuously taken from the atmosphere by which processes?",
       "options": [
-        "Respiration, decomposition, combustion, and rusting",
-        "Only combustion",
-        "Photosynthesis only",
-        "Only respiration"
+        "Xylem and phloem arranged in a ring around the pith",
+        "Breakdown of starch catalyzed by the enzyme amylase",
+        "Abdominal pain, toothache, tonsillitis, common cold",
+        "Respiration, decomposition, combustion, and rusting"
       ],
       "correctAnswer": "Respiration, decomposition, combustion, and rusting",
       "id": 32
@@ -367,10 +367,10 @@
     {
       "question": "What process balances oxygen removal by releasing oxygen back to the air?",
       "options": [
-        "Photosynthesis",
         "Decomposition",
-        "Combustion",
-        "Respiration"
+        "Photosynthesis",
+        "Respiration",
+        "Palisade cells"
       ],
       "correctAnswer": "Photosynthesis",
       "id": 33

@@ -151,9 +151,9 @@
       "question": "Which set of tasks represents common applications of Machine Learning?",
       "options": [
         "Fraud detection, recommendation systems, and speech recognition",
-        "Disk defragmentation, registry scanning, and hardware cooling",
         "Database indexing, primary key creation, and entity modeling",
-        "Cable crimping, monitor calibration, and toner replacement"
+        "A form of learning delivered through the use of digital devices",
+        "Disk defragmentation, registry scanning, and hardware cooling"
       ],
       "correctAnswer": "Fraud detection, recommendation systems, and speech recognition"
     },
@@ -186,9 +186,9 @@
       "anki": true,
       "question": "Which hazardous environments are highlighted as ideal locations for robots?",
       "options": [
+        "Prohibit gallery visitors from viewing physical exhibits in daylight",
         "Handling radioactive wastes, underwater areas, and space exploration",
         "Secondary school lecture halls, library rooms, and study cubicles",
-        "Commercial banking lobbies, customer reception desks, and cafes",
         "Urban grocery store checkout lanes, bakeries, and clothing shops"
       ],
       "correctAnswer": "Handling radioactive wastes, underwater areas, and space exploration"
@@ -198,10 +198,10 @@
       "anki": true,
       "question": "Which domestic machine exemplifies autonomous robotic labor in households?",
       "options": [
-        "A robot vacuum cleaner that cleans floors without human intervention",
-        "A manual hand broom operated by residential maintenance personnel",
         "An electric steam iron that heats metallic plates when plugged in",
-        "A portable microwave oven that warms food items when timer is set"
+        "A robot vacuum cleaner that cleans floors without human intervention",
+        "A portable microwave oven that warms food items when timer is set",
+        "Maintains commercial telecommunications billing with ground stations"
       ],
       "correctAnswer": "A robot vacuum cleaner that cleans floors without human intervention"
     }

@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Field pea is adapted to",
       "options": [
-        "Cool highland areas",
+        "Root and bulb crops",
         "Hot lowland areas",
         "Coastal plains",
-        "Desert oases"
+        "Cool highland areas"
       ],
       "correctAnswer": "Cool highland areas"
     },
@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Field pea grows best on",
       "options": [
-        "Well-drained loam",
         "Waterlogged clay",
-        "Saline sand",
-        "Rocky slopes"
+        "Better seed color",
+        "Rocky slopes",
+        "Well-drained loam"
       ],
       "correctAnswer": "Well-drained loam"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "Powdery mildew is favored by",
       "options": [
+        "Saline soil",
         "Humid weather",
         "Dry heat",
-        "Frost",
-        "Saline soil"
+        "Absorbs water"
       ],
       "correctAnswer": "Humid weather"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Field pea rust is a",
       "options": [
-        "Fungal disease",
+        "Weed species",
         "Viral disease",
-        "Insect pest",
-        "Weed species"
+        "Deeper plowing",
+        "Fungal disease"
       ],
       "correctAnswer": "Fungal disease"
     },
@@ -127,7 +127,7 @@
       "question": "Field pea aphids are controlled by",
       "options": [
         "Insecticides",
-        "Fungicides",
+        "Oil and soap",
         "Herbicides",
         "Nematicides"
       ],
@@ -199,9 +199,9 @@
       "question": "Field pea rotation improves the yield of the following",
       "options": [
         "Cereal crop",
-        "Oil crop",
-        "Fiber crop",
-        "Root crop"
+        "5 or 6 buds",
+        "Root crop",
+        "Fiber crop"
       ],
       "correctAnswer": "Cereal crop"
     }

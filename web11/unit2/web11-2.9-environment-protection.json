@@ -15,10 +15,10 @@
       "anki": true,
       "question": "What are proper disposal procedures in a computer perspective?",
       "options": [
-        "Procedures for installing new software on old computers",
         "Appropriate and environmentally responsible methods of getting rid of computer equipment and electronic waste",
-        "Methods for increasing the speed of a computer before selling it",
-        "Techniques for repairing damaged circuit boards at home"
+        "To protect against data loss in the event of hardware failure, malware attacks or other unforeseen circumstances",
+        "An expansion card that facilitates the input and output of audio signals under control of computer programs",
+        "It allows for the proper recycling of individual components and materials like metals, plastics and circuit boards"
       ],
       "correctAnswer": "Appropriate and environmentally responsible methods of getting rid of computer equipment and electronic waste"
     },
@@ -27,10 +27,10 @@
       "anki": true,
       "question": "Why is proper disposal of computer equipment important?",
       "options": [
-        "To speed up the internet connection of new devices",
-        "To increase the resale price of every old device",
-        "To reduce the number of computer ports available",
-        "To minimize environmental impact, prevent pollution and promote sustainable practices"
+        "To minimize environmental impact, prevent pollution and promote sustainable practices",
+        "Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep from side to side",
+        "Network cards, sound cards, modems, extra ports, TV tuner cards and disk controllers",
+        "A. Ability to accommodate workload changes without significant performance degradation"
       ],
       "correctAnswer": "To minimize environmental impact, prevent pollution and promote sustainable practices"
     },
@@ -39,10 +39,10 @@
       "anki": true,
       "question": "Why should you engage with authorized e-waste recyclers?",
       "options": [
+        "A subsystem that transfers data between computer components inside a computer or between computers",
         "They are equipped to handle and process electronic waste in an environmentally friendly manner",
-        "They remove all ports and cables from the device",
-        "They buy old equipment at the highest prices",
-        "They install new operating systems for free"
+        "A powerful electronic device that can perform various tasks, process data, and execute instructions",
+        "To connect devices and peripherals and facilitate data transfer, power supply and communication"
       ],
       "correctAnswer": "They are equipped to handle and process electronic waste in an environmentally friendly manner"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "What should be done with data before disposing of any computer equipment?",
       "options": [
-        "Rename all files with a single character",
-        "Copy the data to a visible folder on the desktop",
-        "Leave the data intact so it can be recovered by the next user",
-        "Securely erase all data using data wiping tools or software that comply with industry standards for data sanitization"
+        "It allows for the proper recycling of individual components and materials like metals, plastics and circuit boards",
+        "Securely erase all data using data wiping tools or software that comply with industry standards for data sanitization",
+        "It monitors voltage levels and automatically adjusts them to maintain a stable output voltage within a specified range",
+        "To protect against data loss in the event of hardware failure, malware attacks or other unforeseen circumstances"
       ],
       "correctAnswer": "Securely erase all data using data wiping tools or software that comply with industry standards for data sanitization"
     },
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "What is a recommended option for computer equipment that is still functional and in good condition?",
       "options": [
+        "Methods for increasing the speed of a computer before selling it",
         "Donating or reselling it to extend its lifespan and reduce waste",
-        "Burying it in a landfill",
-        "Throwing it in the regular trash bin",
-        "Storing it outdoors behind the building"
+        "Writing complex queries and optimizing data retrieval and storage",
+        "Healthcare, finance, education, entertainment, and manufacturing"
       ],
       "correctAnswer": "Donating or reselling it to extend its lifespan and reduce waste"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "What are manufacturer take-back programs?",
       "options": [
-        "Programs that upgrade computers to a newer model for free",
-        "Programs through which manufacturers responsibly collect and recycle their products",
-        "Programs that share customer data with advertisers",
-        "Programs that sell computers back to the buyer at full price"
+        "A sudden flow of electricity between two objects caused by a static charge imbalance",
+        "A. Enhance or expand capabilities by adding/replacing hardware or upgrading software",
+        "Network cards, sound cards, modems, extra ports, TV tuner cards and disk controllers",
+        "Programs through which manufacturers responsibly collect and recycle their products"
       ],
       "correctAnswer": "Programs through which manufacturers responsibly collect and recycle their products"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "What is the benefit of disassembling computer equipment and separating components for recycling?",
       "options": [
-        "It increases the total weight of the electronic waste",
+        "It monitors voltage levels and automatically adjusts them to maintain a stable output voltage within a specified range",
+        "To protect against data loss in the event of hardware failure, malware attacks or other unforeseen circumstances",
         "It allows for the proper recycling of individual components and materials like metals, plastics and circuit boards",
-        "It prevents any component from being reused",
-        "It removes the need to erase sensitive data"
+        "Securely erase all data using data wiping tools or software that comply with industry standards for data sanitization"
       ],
       "correctAnswer": "It allows for the proper recycling of individual components and materials like metals, plastics and circuit boards"
     },
@@ -99,9 +99,9 @@
       "anki": true,
       "question": "Which hazardous materials may be found in computers and other electronic devices?",
       "options": [
+        "It prevents any component from being reused",
+        "Planning, estimating and prioritizing tasks",
         "Lead, mercury and flame-retardant chemicals",
-        "Oxygen, nitrogen and hydrogen",
-        "Sand, clay and gravel",
         "Table salt, sugar and baking soda"
       ],
       "correctAnswer": "Lead, mercury and flame-retardant chemicals"
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "How should hazardous materials from computer equipment be handled?",
       "options": [
-        "By burning them in an open area",
+        "A developer versatile in both client-side and server-side development",
         "According to local regulations to prevent environmental contamination",
-        "By mixing them with ordinary household garbage",
-        "By pouring them into rivers and streams"
+        "Back straight, feet flat on the floor and wrists in a neutral position",
+        "More flexible with input/output, smaller size, and better performance"
       ],
       "correctAnswer": "According to local regulations to prevent environmental contamination"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "Why should you familiarize yourself with local, regional and national regulations on electronic waste disposal?",
       "options": [
-        "To speed up the recycling process automatically",
         "To follow the guidelines and ensure compliance with environmental laws",
-        "To obtain a discount on new computer purchases",
-        "To increase the voltage supplied to your computer"
+        "Back straight, feet flat on the floor and wrists in a neutral position",
+        "Match the cable with one of the video ports on the back of the monitor",
+        "More flexible with input/output, smaller size, and better performance"
       ],
       "correctAnswer": "To follow the guidelines and ensure compliance with environmental laws"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "True or False: Improper disposal of computer equipment can have detrimental effects on the environment and human health.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 12,
@@ -146,9 +146,9 @@
       "question": "True or False: Recycling programs specifically designed for electronic waste (e-waste) exist in many countries and organizations.",
       "options": [
         "False",
-        "True"
+        "True."
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     }
   ]
 }

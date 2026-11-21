@@ -44,8 +44,8 @@
       "options": [
         "Stores well and tolerates pests",
         "Needs high fertilizer input",
-        "Has very high yield potential",
-        "Requires much irrigation"
+        "Soft endosperm makes weak dough",
+        "Has very high yield potential"
       ],
       "correctAnswer": "Stores well and tolerates pests"
     },
@@ -67,9 +67,9 @@
       "question": "Teff can tolerate excessive moisture but is affected by fungus when",
       "options": [
         "Water accumulates in soil",
-        "Soil dries completely",
         "Frost occurs at night",
-        "Weeds emerge early"
+        "By-product industrial use",
+        "Soil dries completely"
       ],
       "correctAnswer": "Water accumulates in soil"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "To reduce teff weed problems, the most important action is",
       "options": [
-        "Early manual weeding",
-        "Late harvesting",
+        "Laboratory knowledge",
         "Deeper planting",
-        "Higher seed rate"
+        "Higher seed rate",
+        "Early manual weeding"
       ],
       "correctAnswer": "Early manual weeding"
     },
@@ -91,9 +91,9 @@
       "question": "Row planting of teff at 20 cm is becoming common mainly to improve",
       "options": [
         "Better seed placement",
-        "Better grain color",
+        "Higher market price",
         "Higher straw yield",
-        "Higher market price"
+        "Reduce crop diversity"
       ],
       "correctAnswer": "Better seed placement"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "Teff requires 4 or 5 cultivations mainly to",
       "options": [
+        "Lower soil moisture",
         "A smooth, weed-free bed",
-        "Higher soil acidity",
         "Buried crop residues",
-        "Lower soil moisture"
+        "Weak extension services"
       ],
       "correctAnswer": "A smooth, weed-free bed"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Teff can grow on low fertility soil, but yield still depends on",
       "options": [
-        "Soil fertility levels",
-        "Only seed color",
+        "Only straw length",
         "Only market price",
-        "Only straw length"
+        "Soil fertility levels",
+        "Ropes, sacks, carpets"
       ],
       "correctAnswer": "Soil fertility levels"
     },

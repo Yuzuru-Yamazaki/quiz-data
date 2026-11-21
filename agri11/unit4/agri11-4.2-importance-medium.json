@@ -42,10 +42,10 @@
       "anki": true,
       "question": "Bones turned into adhesives and fats into candles are examples of",
       "options": [
-        "Raw materials",
-        "Food supply",
         "Clothing",
-        "Work"
+        "Exotic breeds",
+        "Raw materials",
+        "Food supply"
       ],
       "correctAnswer": "Raw materials"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Cattle herd size traditionally measures",
       "options": [
+        "Disease risk",
         "Social wealth",
-        "Milk output",
-        "Feed supply",
-        "Disease risk"
+        "Urban centers",
+        "Feed supply"
       ],
       "correctAnswer": "Social wealth"
     },
@@ -78,8 +78,8 @@
       "anki": true,
       "question": "Selling livestock when feed and water run short reflects",
       "options": [
+        "10 to 15 quintals/ha",
         "Capital accumulation",
-        "Market orientation",
         "Genetic improvement",
         "Commercial farming"
       ],
@@ -150,9 +150,9 @@
       "anki": true,
       "question": "Livestock ownership providing security and insurance is a",
       "options": [
-        "Socio-economic role",
+        "Dry and hot weather",
         "Nutritional role",
-        "Genetic role",
+        "Socio-economic role",
         "Veterinary role"
       ],
       "correctAnswer": "Socio-economic role"

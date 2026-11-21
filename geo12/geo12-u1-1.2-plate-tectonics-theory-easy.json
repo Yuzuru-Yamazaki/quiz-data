@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Which layer allows the lithosphere to slide across the top of it?",
       "options": [
-        "The asthenosphere",
-        "The crust",
         "The hydrosphere",
-        "The inner core"
+        "Only global level",
+        "The inner core",
+        "The asthenosphere"
       ],
       "correctAnswer": "The asthenosphere"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What does the lithosphere consist of?",
       "options": [
-        "The crust and the core",
         "The crust and the uppermost mantle",
-        "The mantle and the core",
-        "Ocean water and the crust"
+        "Only renewable energy used indoors",
+        "Ocean water and the crust",
+        "The mantle and the core"
       ],
       "correctAnswer": "The crust and the uppermost mantle"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "When was plate tectonic theory developed?",
       "options": [
-        "In the late 1960s",
-        "In 1912",
+        "Mount Kilimanjaro",
+        "In the 1920s",
         "In 1850",
-        "In the 1920s"
+        "In the late 1960s"
       ],
       "correctAnswer": "In the late 1960s"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What is a tectonic plate?",
       "options": [
+        "The asthenosphere is liquid iron",
         "A layer of the atmosphere",
         "A large piece of the lithosphere",
-        "A type of marine fossil",
-        "A deep ocean current"
+        "A type of marine fossil"
       ],
       "correctAnswer": "A large piece of the lithosphere"
     },
@@ -83,9 +83,9 @@
       "id": 7,
       "question": "Where do plates meet one another?",
       "options": [
-        "At the equator",
-        "At the poles",
         "At plate boundaries",
+        "At the equator",
+        "All regions equally",
         "At river mouths"
       ],
       "correctAnswer": "At plate boundaries"
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What types of rock can make up a tectonic plate?",
       "options": [
-        "Only continental rocks",
-        "Only oceanic rocks",
-        "Only mantle rocks",
-        "Continental rocks, oceanic rocks, or both"
+        "An increase of 1.4 to 5.8 degrees Celsius",
+        "It is when satellites were first launched",
+        "Continental rocks, oceanic rocks, or both",
+        "Warming has accelerated in recent decades"
       ],
       "correctAnswer": "Continental rocks, oceanic rocks, or both"
     },
@@ -106,9 +106,9 @@
       "question": "Which plate includes the western half of the North Atlantic seafloor?",
       "options": [
         "The North American Plate",
-        "The Eurasian Plate",
-        "The African Plate",
-        "The Pacific Plate"
+        "Planned and anticipatory",
+        "The Pacific Plate",
+        "The Eurasian Plate"
       ],
       "correctAnswer": "The North American Plate"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Where may plate boundaries be located?",
       "options": [
-        "Always along coastlines",
-        "Beneath an ocean rather than along a coastline",
-        "Only at the equator",
-        "Only on continental interiors"
+        "They suggested the continents were once joined",
+        "The Atlantic Ocean once covered all continents",
+        "Rising seas push salt into freshwater aquifers",
+        "Beneath an ocean rather than along a coastline"
       ],
       "correctAnswer": "Beneath an ocean rather than along a coastline"
     }

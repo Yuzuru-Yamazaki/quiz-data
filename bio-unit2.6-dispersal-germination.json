@@ -25,10 +25,10 @@
       "id": 2,
       "question": "What is seed dispersal?",
       "options": [
+        "Leadership of the Ethiopian flora project and the Ethiopian National Herbarium at Addis Ababa University",
         "An adaptive mechanism ensuring seeds are separated from parent plants and distributed over a large area",
-        "The formation of seeds",
-        "The process of seed germination",
-        "The ripening of fruits"
+        "The application of the principles and problem-solving techniques of engineering to biology and medicine",
+        "Use hand gloves, not taste or ingest them, not inhale volatile substances, and wash hands after handling"
       ],
       "correctAnswer": "An adaptive mechanism ensuring seeds are separated from parent plants and distributed over a large area"
     },
@@ -36,9 +36,9 @@
       "id": 3,
       "question": "What does seed dispersal help safeguard?",
       "options": [
-        "Flower formation",
-        "Pollination",
-        "Root growth",
+        "Energy released during cellular respiration is harvested and stored as ATP",
+        "Bacteria in their rumens secrete the enzyme cellulase to degrade cellulose",
+        "They are required to make hydrochloric acid (HCl) present in gastric juice",
         "Germination and survival of seeds to adult plants, minimizing overcrowding"
       ],
       "correctAnswer": "Germination and survival of seeds to adult plants, minimizing overcrowding"
@@ -47,7 +47,7 @@
       "id": 4,
       "question": "How can seeds be dispersed?",
       "options": [
-        "Only by wind",
+        "Front, back, inner, outer",
         "Only by animals",
         "By animals, wind or water",
         "Only by water"
@@ -58,10 +58,10 @@
       "id": 5,
       "question": "How do seeds in fleshy fruits get dispersed by birds?",
       "options": [
+        "It stores all information required to be transferred to the next generation and has the property of replication",
+        "Structure, properties, biochemical processes, classification, diseases, and interactions with the environment",
         "The seeds are ingested, escape digestion due to hard seed coats, and are dropped at a distance upon defecation",
-        "Birds carry the fruit whole",
-        "Birds eat the fruit and the seeds fall directly",
-        "Seeds stick to bird feathers"
+        "Organic fertilizer obtained by using worms (commonly earthworms) that decompose food scraps and organic waste"
       ],
       "correctAnswer": "The seeds are ingested, escape digestion due to hard seed coats, and are dropped at a distance upon defecation"
     },
@@ -69,10 +69,10 @@
       "id": 6,
       "question": "What adaptation allows seeds to be dispersed by wind or water?",
       "options": [
+        "A molecule containing two sugar units",
+        "Carbon, nitrogen, and phosphorus only",
         "Additional hairy or winged structures",
-        "Fleshy fruits",
-        "Hard seed coats",
-        "Bright colours"
+        "A condition where the trachea narrows"
       ],
       "correctAnswer": "Additional hairy or winged structures"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What type of seeds act as kites or propellers?",
       "options": [
-        "Seeds that are ingested by birds",
-        "Seeds that float on water",
-        "Seeds that stick to fur",
-        "Seeds within fruits that act as kites or propellers"
+        "Monosaccharides, disaccharides, and polysaccharides",
+        "Seeds within fruits that act as kites or propellers",
+        "In various plant components such as roots and seeds",
+        "The hard cell wall in addition to the cell membrane"
       ],
       "correctAnswer": "Seeds within fruits that act as kites or propellers"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "What is the first outward sign of growth during seed germination?",
       "options": [
-        "The first leaf appearing",
         "A radicle that develops from the hypocotyl",
-        "The plumule emerging",
-        "The cotyledon expanding"
+        "Xylem and phloem with cambium between them",
+        "Pseudomonas, Thiobacillus, and Micrococcus",
+        "Phosphorus becomes locked in rocks forever"
       ],
       "correctAnswer": "A radicle that develops from the hypocotyl"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "What does the radicle grow down to become?",
       "options": [
-        "The leaf",
-        "The stem",
+        "The primary root",
+        "Only after age 5",
         "The shoot",
-        "The primary root"
+        "The stem"
       ],
       "correctAnswer": "The primary root"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What is the root essential for?",
       "options": [
-        "Flower production",
-        "Photosynthesis",
-        "Seed dispersal",
-        "Anchorage and access to water and nutrients from the soil"
+        "They are actively transferred into the interstitial fluid",
+        "Anchorage and access to water and nutrients from the soil",
+        "A reproductive structure that contains a single large egg",
+        "$C_{6}H_{12}O_{6} + 6O_{2} \\rightarrow 6CO_{2} + 6H_{2}O$"
       ],
       "correctAnswer": "Anchorage and access to water and nutrients from the soil"
     },
@@ -135,10 +135,10 @@
       "id": 12,
       "question": "What does the shoot that develops from the plumule do?",
       "options": [
-        "Grows downward into the soil",
-        "Develops into roots",
         "Grows upward towards sunlight",
-        "Remains dormant"
+        "Grows downward into the soil",
+        "Has no effect on shoot growth",
+        "Develops into roots"
       ],
       "correctAnswer": "Grows upward towards sunlight"
     },
@@ -168,10 +168,10 @@
       "id": 15,
       "question": "Why is water important for seed germination?",
       "options": [
-        "It attracts pollinators",
+        "Extracting selected genes from an organism or synthesizing selected genes and inserting them into another organism",
         "Hydration of seed coat increases permeability to oxygen, enables enzymatic hydrolysis and acts as transport agent",
-        "It cools the seed",
-        "It helps the seed float"
+        "Biologically (mediated by bacteria), non-biologically (atmospheric fixation by lightning), and industrial fixation",
+        "Conversion of nitrate to nitrogen gas ($N_2$), removing bioavailable nitrogen and returning it to the atmosphere"
       ],
       "correctAnswer": "Hydration of seed coat increases permeability to oxygen, enables enzymatic hydrolysis and acts as transport agent"
     },
@@ -179,10 +179,10 @@
       "id": 16,
       "question": "Why is oxygen necessary for seed germination?",
       "options": [
-        "For seed dispersal",
-        "For flower formation",
+        "Cellulose fibres that run in different directions to boost strength",
+        "By lowering the activation energy which increases the reaction rate",
         "For aerobic respiration by which seeds get energy for embryo growth",
-        "For photosynthesis"
+        "Evaporation, transpiration, condensation, precipitation, and runoff"
       ],
       "correctAnswer": "For aerobic respiration by which seeds get energy for embryo growth"
     },
@@ -190,10 +190,10 @@
       "id": 17,
       "question": "What temperature condition do seeds require for germination?",
       "options": [
-        "Freezing temperature",
         "Optimum temperature",
-        "Extreme heat",
-        "No specific temperature requirement"
+        "Freezing temperature",
+        "Binary fission only",
+        "Extreme heat"
       ],
       "correctAnswer": "Optimum temperature"
     },
@@ -201,10 +201,10 @@
       "id": 18,
       "question": "What feature differentiates hypogeal germination from epigeal germination?",
       "options": [
-        "The type of root",
-        "The colour of the seedling",
-        "The size of the seed",
-        "The position and fate of the cotyledon"
+        "The position and fate of the cotyledon",
+        "Adenine, uracil, guanine, and cytosine",
+        "It becomes permanently trapped in soil",
+        "The colour of the seedling"
       ],
       "correctAnswer": "The position and fate of the cotyledon"
     },
@@ -212,10 +212,10 @@
       "id": 19,
       "question": "In epigeal germination, what happens to the cotyledon?",
       "options": [
-        "It falls off immediately",
-        "It remains under the soil",
-        "It becomes the root",
-        "It is pushed up to become the photosynthetic surface of the seedling"
+        "It is pushed up to become the photosynthetic surface of the seedling",
+        "When the controlling factors over cell division and cell growth fail",
+        "$N_{2} + 8e + 8H + 16ATP \\rightarrow 2NH_{3} + H_{2} + 16ADP + 16Pi$",
+        "Burning of fossil fuels (coal, oil, natural gas) and wood for energy"
       ],
       "correctAnswer": "It is pushed up to become the photosynthetic surface of the seedling"
     },
@@ -234,10 +234,10 @@
       "id": 21,
       "question": "What does seed germination cover from start to finish?",
       "options": [
-        "From seed formation to fruit ripening",
-        "From the time seed embryo starts growth up to formation of young independent plant with photosynthetic leaves",
-        "From dispersal to dormancy",
-        "From pollination to fertilization"
+        "A type of nuclear division where duplicated chromosomes are distributed between two identical daughter cells",
+        "Structure, properties, biochemical processes, classification, diseases, and interactions with the environment",
+        "Organic fertilizer obtained by using worms (commonly earthworms) that decompose food scraps and organic waste",
+        "From the time seed embryo starts growth up to formation of young independent plant with photosynthetic leaves"
       ],
       "correctAnswer": "From the time seed embryo starts growth up to formation of young independent plant with photosynthetic leaves"
     },
@@ -245,10 +245,10 @@
       "id": 22,
       "question": "What is the length of time seeds are typically allowed to germinate in the textbook experiment?",
       "options": [
-        "Two weeks",
+        "Fructose and galactose",
+        "Up to three times more",
         "Waiting up to 2-3 days",
-        "5-7 days",
-        "One week"
+        "A hollow ball of cells"
       ],
       "correctAnswer": "Waiting up to 2-3 days"
     },
@@ -256,10 +256,10 @@
       "id": 23,
       "question": "What does the oil layer in the germination experiment demonstrate?",
       "options": [
-        "Need for light",
-        "Need for warmth",
+        "Need for oxygen (air)",
+        "Only nuclear division",
         "Need for water",
-        "Need for oxygen (air)"
+        "Need for warmth"
       ],
       "correctAnswer": "Need for oxygen (air)"
     },
@@ -267,10 +267,10 @@
       "id": 24,
       "question": "What does the ice cube in the germination experiment demonstrate?",
       "options": [
+        "Organisms of a specific trophic level",
+        "Nitrogen fixation and denitrification",
         "Need for optimum temperature (warmth)",
-        "Need for light",
-        "Need for air",
-        "Need for water"
+        "Any molecule found in the environment"
       ],
       "correctAnswer": "Need for optimum temperature (warmth)"
     },
@@ -278,10 +278,10 @@
       "id": 25,
       "question": "What does wet versus dry cotton wool in the germination experiment demonstrate?",
       "options": [
-        "Need for optimum moisture (water)",
-        "Need for oxygen",
-        "Need for temperature",
-        "Need for light"
+        "Only by processes that release it",
+        "A controlled and regulated manner",
+        "Higher than 7.8 or lower than 6.8",
+        "Need for optimum moisture (water)"
       ],
       "correctAnswer": "Need for optimum moisture (water)"
     }

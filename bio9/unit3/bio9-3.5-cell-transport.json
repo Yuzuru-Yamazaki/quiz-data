@@ -13,43 +13,43 @@
     {
       "question": "What is the main characteristic of passive transport?",
       "options": [
-        "It moves substances against their concentration gradient",
-        "It only moves large molecules",
-        "It requires energy (ATP) to move substances",
-        "It does not require cellular energy and moves substances down a concentration gradient"
+        "Reducing mosquito populations, avoiding mosquito bites, and using anti-malarial drugs",
+        "A woman's temperature rises by about 0.5 degrees Celsius during or soon after ovulation",
+        "It does not require cellular energy and moves substances down a concentration gradient",
+        "Bacterial cell walls are made of cellulose; plant cell walls are made of peptidoglycan"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Passive transport moves substances from high to low concentration (down the concentration gradient) without requiring cellular energy (ATP)."
     },
     {
       "question": "What is the main characteristic of active transport?",
       "options": [
-        "It only involves water movement",
+        "Light refraction in the eye, leverage in bones, and fluid dynamics in blood flow",
+        "By features such as body structure, number of limbs, and method of reproduction",
         "It requires energy (ATP) to move substances against their concentration gradient",
-        "It moves substances down their concentration gradient",
-        "It does not require energy"
+        "Swelling of the legs and abdomen, dry or flaky skin, and changes in hair colour"
       ],
-      "answer": 1,
+      "answer": 2,
       "explanation": "Active transport requires cellular energy (ATP) to move substances from low to high concentration (against the concentration gradient)."
     },
     {
       "question": "What is diffusion?",
       "options": [
-        "The movement of large molecules into a cell",
-        "The movement of particles against a concentration gradient using energy",
+        "The shrinkage of the cell membrane away from the cell wall in a plant cell due to water loss",
         "The movement of particles from an area of high concentration to an area of low concentration",
-        "The movement of water across a semi-permeable membrane"
+        "The coverslip would float and the specimen could move; water might spill onto the microscope",
+        "Chemical substances found in food that the body uses for growth, energy, and staying healthy"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration, down the concentration gradient."
     },
     {
       "question": "What is osmosis?",
       "options": [
-        "The diffusion of any solute across a membrane",
-        "The movement of gases in the air",
+        "Cell → Organ → Tissue → Organ System → Organism → Community → Population → Ecosystem → Biosphere → Biome",
+        "It swells because water enters by osmosis; it must use a contractile vacuole to pump out excess water",
         "The movement of water across a selectively permeable membrane from a dilute to a concentrated solution",
-        "The active transport of ions"
+        "The process of taking in food and converting it into energy and other vital nutrients required for life"
       ],
       "answer": 2,
       "explanation": "Osmosis is the diffusion of water molecules across a selectively permeable membrane from an area of higher water concentration (dilute) to lower water concentration (concentrated)."
@@ -69,9 +69,9 @@
       "question": "What is a hypertonic solution?",
       "options": [
         "A solution with a higher solute concentration than the cell",
-        "A solution with the same solute concentration as the cell",
-        "A solution that contains only water",
-        "A solution with a lower solute concentration than the cell"
+        "A solution with a lower solute concentration than the cell",
+        "They are closely related and share a recent common ancestor",
+        "A solution with the same solute concentration as the cell"
       ],
       "answer": 0,
       "explanation": "A hypertonic solution has a higher solute concentration (lower water concentration) than the cell. Water leaves the cell by osmosis."
@@ -79,75 +79,75 @@
     {
       "question": "What is an isotonic solution?",
       "options": [
-        "A solution that kills cells",
+        "A solution with the same solute concentration as the cell",
         "A solution with a lower solute concentration than the cell",
         "A solution with a higher solute concentration than the cell",
-        "A solution with the same solute concentration as the cell"
+        "To allow light to pass through the stage and the specimen"
       ],
-      "answer": 3,
+      "answer": 0,
       "explanation": "An isotonic solution has the same solute concentration as the cell. There is no net movement of water into or out of the cell."
     },
     {
       "question": "What happens to a plant cell placed in a hypotonic solution?",
       "options": [
-        "It bursts immediately",
-        "It shrinks and undergoes plasmolysis",
-        "It remains unchanged",
-        "It becomes turgid as water enters the cell by osmosis"
+        "Phylum, Kingdom, Class, Order, Family, Genus, Species",
+        "It decreases (you see a smaller area of the specimen)",
+        "It becomes turgid as water enters the cell by osmosis",
+        "Financial problems, family breakdown, and loss of job"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "In a hypotonic solution, water enters the plant cell by osmosis, causing it to swell and become turgid. The cell wall prevents bursting."
     },
     {
       "question": "What happens to an animal cell (e.g., red blood cell) placed in a hypotonic solution?",
       "options": [
-        "It undergoes plasmolysis",
-        "It shrinks and crenates",
-        "It remains unchanged",
-        "It swells and may burst (hemolysis) due to water entering by osmosis"
+        "Egestion removes undigested food, excretion removes metabolic wastes",
+        "Subtract the objective magnification from the eyepiece magnification",
+        "It swells and may burst (hemolysis) due to water entering by osmosis",
+        "By developing better crop varieties and improving livestock breeding"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Animal cells lack a cell wall. In hypotonic solution, water enters by osmosis, causing the cell to swell and potentially burst (hemolysis in red blood cells)."
     },
     {
       "question": "What happens to a plant cell placed in a hypertonic solution?",
       "options": [
+        "They are small circular DNA molecules that carry extra genes (e.g., antibiotic resistance)",
+        "Prokaryotic cells lack a membrane-bound nucleus, while eukaryotic cells have a true nucleus",
         "It undergoes plasmolysis — the cell membrane pulls away from the cell wall as water leaves",
-        "It remains unchanged",
-        "It becomes turgid",
-        "It bursts"
+        "The indigestible part of plants that helps prevent constipation and keeps the colon healthy"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "In a hypertonic solution, water leaves the plant cell by osmosis. The vacuole shrinks and the cell membrane pulls away from the cell wall — this is plasmolysis."
     },
     {
       "question": "What happens to an animal cell placed in a hypertonic solution?",
       "options": [
-        "It swells and bursts",
-        "It remains unchanged",
+        "Storage of water, nutrients, and waste; maintenance of turgor pressure",
         "It shrinks and crenates (becomes shriveled) as water leaves by osmosis",
-        "It becomes turgid"
+        "Genus capitalized, species in lowercase, both italicized or underlined",
+        "All known evidence shows that cells only arise from pre-existing cells"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "In hypertonic solution, water leaves animal cells by osmosis, causing them to shrink and shrivel (crenation)."
     },
     {
       "question": "What is turgor pressure?",
       "options": [
-        "The force that moves water up a plant stem",
-        "The pressure of active transport",
         "The pressure exerted by the cell wall against the expanded cell membrane when a plant cell is turgid",
-        "The pressure inside a vacuum"
+        "Unicellular organisms consist of a single cell, while multicellular organisms consist of many cells",
+        "It swells because water enters by osmosis; it must use a contractile vacuole to pump out excess water",
+        "Salt creates a hypertonic environment that causes bacteria to lose water and die through plasmolysis"
       ],
-      "answer": 2,
+      "answer": 0,
       "explanation": "Turgor pressure is the outward pressure exerted by the cell contents against the cell wall when the cell is turgid (full of water). It provides structural support to plants."
     },
     {
       "question": "What is plasmolysis?",
       "options": [
-        "The uptake of minerals by active transport",
-        "The bursting of a cell due to excess water",
-        "The process of cell division",
+        "The movement of particles from an area of high concentration to an area of low concentration",
+        "Chemical substances found in food that the body uses for growth, energy, and staying healthy",
+        "The coverslip would float and the specimen could move; water might spill onto the microscope",
         "The shrinkage of the cell membrane away from the cell wall in a plant cell due to water loss"
       ],
       "answer": 3,
@@ -167,10 +167,10 @@
     {
       "question": "What is facilitated diffusion?",
       "options": [
-        "Diffusion that requires ATP",
-        "Diffusion that only occurs in plants",
+        "It acts as a solvent and transport medium for substances throughout the body",
+        "It is typically a single circular chromosome located in the nucleoid region",
         "Diffusion that requires a protein carrier or channel but no cellular energy",
-        "Diffusion of water only"
+        "To identify patterns and determine whether the data supports the hypothesis"
       ],
       "answer": 2,
       "explanation": "Facilitated diffusion is a type of passive transport where substances move down their concentration gradient through specific protein channels or carriers, without using ATP."
@@ -178,10 +178,10 @@
     {
       "question": "Which of the following transport processes does NOT require energy?",
       "options": [
-        "Pumping of sodium ions out of the cell",
         "Endocytosis",
+        "Active transport of ions",
         "Simple diffusion",
-        "Active transport of ions"
+        "Micropropagation"
       ],
       "answer": 2,
       "explanation": "Simple diffusion is a passive process that does not require energy. Active transport, endocytosis, and ion pumping all require ATP."
@@ -189,21 +189,21 @@
     {
       "question": "What is the role of carrier proteins in active transport?",
       "options": [
-        "They synthesize ATP",
-        "They allow water to pass through",
+        "A hypothesis is a testable prediction, while a theory is a well-supported explanation supported by extensive evidence",
         "They bind to specific substances and use ATP to move them across the membrane against the concentration gradient",
-        "They provide structural support to the membrane"
+        "All living things are composed of cells, cells are the basic unit of life, all cells come from pre-existing cells",
+        "A disease that is not caused by pathogens; it may be caused by malnutrition, chemical effects, or genetic factors"
       ],
-      "answer": 2,
+      "answer": 1,
       "explanation": "Carrier proteins in active transport bind to specific molecules, change shape using energy from ATP, and transport the molecules across the membrane."
     },
     {
       "question": "Which solution would be used to rehydrate a wilted plant?",
       "options": [
-        "Hypertonic solution",
-        "Isotonic solution",
+        "Changing menstrual products regularly",
+        "Concentrated salt solution",
         "Hypotonic solution (e.g., pure water)",
-        "Concentrated salt solution"
+        "Features that develop only at puberty"
       ],
       "answer": 2,
       "explanation": "A wilted plant has lost water. Placing it in a hypotonic solution (water) allows water to enter cells by osmosis, restoring turgidity."
@@ -211,21 +211,21 @@
     {
       "question": "Why does salting food (e.g., fish or meat) preserve it?",
       "options": [
-        "Salt dilutes the food so bacteria cannot grow",
-        "Salt prevents bacteria from entering the food",
-        "Salt kills bacteria by providing them with too much energy",
-        "Salt creates a hypertonic environment that causes bacteria to lose water and die through plasmolysis"
+        "The pressure exerted by the cell wall against the expanded cell membrane when a plant cell is turgid",
+        "Unicellular organisms consist of a single cell, while multicellular organisms consist of many cells",
+        "Salt creates a hypertonic environment that causes bacteria to lose water and die through plasmolysis",
+        "It swells because water enters by osmosis; it must use a contractile vacuole to pump out excess water"
       ],
-      "answer": 3,
+      "answer": 2,
       "explanation": "Salt creates a hypertonic environment. Water leaves bacterial cells by osmosis, causing them to shrivel and die (plasmolysis), preserving the food."
     },
     {
       "question": "What happens to red blood cells when placed in an isotonic solution (e.g., 0.9% saline)?",
       "options": [
         "They remain normal — no net movement of water",
-        "They shrink and crenate",
-        "They undergo plasmolysis",
-        "They swell and burst"
+        "Lichens and mosses → grasses → shrubs → trees",
+        "They show none of the characteristics of life",
+        "Prokaryotes are much larger (100-1000 $\\mu$m)"
       ],
       "answer": 0,
       "explanation": "In an isotonic solution, the solute concentration inside and outside the cell is equal, so there is no net movement of water, and the cells maintain their normal shape."
@@ -233,10 +233,10 @@
     {
       "question": "What type of transport is involved when a cell engulfs a large particle by forming a vesicle?",
       "options": [
-        "Osmosis",
-        "Diffusion",
+        "Regrowth of a forest after deforestation",
+        "Left in the containers open to evaporate",
         "Endocytosis (a type of active transport)",
-        "Facilitated diffusion"
+        "Made of many small cells joined together"
       ],
       "answer": 2,
       "explanation": "Endocytosis is an active transport process where the cell membrane invaginates to engulf large particles, forming a vesicle inside the cell."
@@ -255,21 +255,21 @@
     {
       "question": "How does oxygen move from the alveoli in the lungs into the bloodstream?",
       "options": [
-        "Facilitated diffusion",
-        "Active transport",
-        "Osmosis",
-        "Simple diffusion (down the concentration gradient)"
+        "Cell theory has been replaced by molecular biology",
+        "Simple diffusion (down the concentration gradient)",
+        "To observe small details of specimens in the field",
+        "Prokaryotic cells are larger than eukaryotic cells"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "Oxygen is a small non-polar molecule that moves by simple diffusion from a high concentration (alveoli) to a low concentration (blood), down its concentration gradient."
     },
     {
       "question": "What is the main difference between simple diffusion and facilitated diffusion?",
       "options": [
         "Simple diffusion moves substances through the lipid bilayer directly; facilitated diffusion uses protein channels or carriers",
-        "Simple diffusion requires ATP; facilitated diffusion does not",
-        "Facilitated diffusion requires ATP; simple diffusion does not",
-        "Simple diffusion only works for water"
+        "Any substance that is eaten, drunk, or taken into the body to sustain life, provide energy, promote growth, and repair tissues",
+        "A disease that occurs when a person does not have enough of one particular nutrient and suffers health problems as a result",
+        "A black sticky substance found in cigarette smoke that collects in the lungs and can cause chronic bronchitis and lung cancer"
       ],
       "answer": 0,
       "explanation": "In simple diffusion, substances pass directly through the lipid bilayer. In facilitated diffusion, substances pass through specific protein channels or carrier proteins."
@@ -278,9 +278,9 @@
       "question": "What is the effect of placing a freshwater protozoan (e.g., Paramecium) in pond water?",
       "options": [
         "It swells because water enters by osmosis; it must use a contractile vacuole to pump out excess water",
-        "It undergoes plasmolysis",
-        "It remains unchanged",
-        "It shrivels and dies"
+        "The pressure exerted by the cell wall against the expanded cell membrane when a plant cell is turgid",
+        "Salt creates a hypertonic environment that causes bacteria to lose water and die through plasmolysis",
+        "The movement of water across a selectively permeable membrane from a dilute to a concentrated solution"
       ],
       "answer": 0,
       "explanation": "Pond water is hypotonic to Paramecium. Water constantly enters by osmosis. The contractile vacuole collects and pumps out excess water to prevent bursting."
@@ -289,9 +289,9 @@
       "question": "Which of the following requires ATP?",
       "options": [
         "Movement of $Na^+$ ions out of a cell against the concentration gradient",
-        "Movement of $O_2$ into a cell",
-        "Movement of water by osmosis",
-        "Movement of $CO_2$ out of a cell"
+        "A statement that describes a consistent and universal natural phenomenon",
+        "To smother small fires or wrap around a person whose clothing is on fire",
+        "The same common name can refer to different species in different regions"
       ],
       "answer": 0,
       "explanation": "The sodium-potassium pump actively transports $Na^+$ out of the cell against its concentration gradient, requiring ATP. $O_2$, $CO_2$, and water move by passive processes."
@@ -299,45 +299,45 @@
     {
       "question": "What happens to the turgidity of a plant when it is watered after being dry?",
       "options": [
+        "Plants that receive twice the normal amount of fertilizer",
         "It increases — cells absorb water and become turgid again",
-        "It remains the same",
-        "The plant undergoes plasmolysis",
-        "It decreases — cells become flaccid"
+        "Wash the wound and apply a bandage from the first aid kit",
+        "It provides more consistent and controllable illumination"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "When watered, water enters plant cells by osmosis, the vacuoles fill, turgor pressure increases, and the plant becomes firm (turgid) again."
     },
     {
       "question": "What would happen to a plant if it is watered with a concentrated salt solution?",
       "options": [
-        "It would grow faster due to added minerals",
-        "It would wilt because the soil becomes hypertonic, causing water to leave the roots by osmosis",
-        "It would become more turgid",
-        "There would be no effect"
+        "Direct contact with a patient, contaminated water or food, insect bites, and sexual intercourse",
+        "Vesicles are small membrane-bound sacs for transport; vacuoles are larger storage compartments",
+        "They help improve public health by promoting balanced diets and preventing deficiency diseases",
+        "It would wilt because the soil becomes hypertonic, causing water to leave the roots by osmosis"
       ],
-      "answer": 1,
+      "answer": 3,
       "explanation": "Concentrated salt solution creates a hypertonic environment. Water moves out of root cells by osmosis, causing the plant to wilt (plasmolysis)."
     },
     {
       "question": "What is the selectively permeable property of the cell membrane?",
       "options": [
-        "It allows all substances to pass freely",
-        "It blocks all substances from entering",
-        "It only allows water to pass through",
-        "It allows some substances to pass through while restricting others"
+        "Bleeding under the skin, bleeding gums, and poor healing of wounds",
+        "It allows some substances to pass through while restricting others",
+        "A population is one species; a community includes multiple species",
+        "Multiply the eyepiece magnification by the objective magnification"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "The cell membrane is selectively permeable (semi-permeable) — it allows certain substances to pass through while preventing others from crossing."
     },
     {
       "question": "Which factor increases the rate of diffusion?",
       "options": [
-        "Decreased temperature",
         "Increased molecular size",
+        "Increased concentration gradient",
         "Decreased surface area",
-        "Increased concentration gradient"
+        "Only the overconsumption of food"
       ],
-      "answer": 3,
+      "answer": 1,
       "explanation": "A steeper concentration gradient increases the rate of diffusion. Higher temperature and larger surface area also increase diffusion rates."
     }
   ]

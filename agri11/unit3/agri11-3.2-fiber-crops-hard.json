@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Sisal grows in the altitude range from",
       "options": [
-        "Sea level to 1800 m",
         "1200 to 2000 m",
         "1800 to 3000 m",
-        "500 to 1500 meters above sea level"
+        "Sea level to 1800 m",
+        "Cotton, sisal, jute"
       ],
       "correctAnswer": "Sea level to 1800 m"
     },

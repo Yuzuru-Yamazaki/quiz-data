@@ -42,9 +42,9 @@
       "anki": true,
       "question": "Nitrogen fixation in pulses occurs in the root",
       "options": [
-        "Nodules",
+        "Cereals",
         "Hairs",
-        "Caps",
+        "Nodules",
         "Tips"
       ],
       "correctAnswer": "Nodules"
@@ -67,7 +67,7 @@
       "question": "Pulse crops are a cheap source of",
       "options": [
         "Protein",
-        "Oil",
+        "3 to 6%",
         "Starch",
         "Sugar"
       ],
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "Pulses are usually grown on",
       "options": [
-        "Well-drained soils",
         "Waterlogged soils",
-        "Saline soils",
-        "Flooded soils"
+        "Well-drained soils",
+        "Flooded soils",
+        "Residues decompose"
       ],
       "correctAnswer": "Well-drained soils"
     },
@@ -91,9 +91,9 @@
       "question": "Pulse seed may be treated with",
       "options": [
         "Rhizobium inoculant",
-        "Lime powder",
-        "Fungicide only",
-        "Insecticide dust"
+        "Insecticide dust",
+        "Soil color patterns",
+        "Fungicide only"
       ],
       "correctAnswer": "Rhizobium inoculant"
     },
@@ -127,9 +127,9 @@
       "question": "Pulse rust is a",
       "options": [
         "Fungal disease",
-        "Viral disease",
-        "Insect pest",
-        "Weed species"
+        "Weed species",
+        "Coastal plains",
+        "Viral disease"
       ],
       "correctAnswer": "Fungal disease"
     },
@@ -138,9 +138,9 @@
       "anki": true,
       "question": "Pulse wilt is a",
       "options": [
-        "Fungal disease",
         "Viral disease",
-        "Insect pest",
+        "Given as gifts",
+        "Fungal disease",
         "Weed species"
       ],
       "correctAnswer": "Fungal disease"

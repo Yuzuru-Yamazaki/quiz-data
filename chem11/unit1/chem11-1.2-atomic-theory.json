@@ -28,9 +28,9 @@
       "question": "The Greek word atomos, used by Democritus for the smallest particles of matter, means:",
       "options": [
         "indivisible",
-        "invisible",
-        "continuous",
-        "permanent"
+        "permanent",
+        "any integer",
+        "continuous"
       ],
       "correctAnswer": "indivisible"
     },
@@ -39,10 +39,10 @@
       "anki": true,
       "question": "Which philosophers of ancient Greece believed that matter is continuous rather than composed of ultimate indivisible particles?",
       "options": [
-        "J.J. Thomson",
+        "Democritus only",
+        "hertz (Hz) or $1/s$",
         "Plato and Aristotle",
-        "John Dalton",
-        "Democritus only"
+        "J.J. Thomson"
       ],
       "correctAnswer": "Plato and Aristotle"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "The ideas of Democritus about atoms were based on:",
       "options": [
-        "philosophical speculation rather than experimental evidence",
-        "the law of conservation of mass",
-        "observations of cathode rays",
-        "careful laboratory experiments"
+        "a positive charge equal in magnitude to that of the electron",
+        "its distance from the nucleus (the further, the more energy)",
+        "negatively charged particles deflected by electric fields",
+        "philosophical speculation rather than experimental evidence"
       ],
       "correctAnswer": "philosophical speculation rather than experimental evidence"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Dalton's atomic theory was based on which of the following pairs of scientific laws?",
       "options": [
-        "electromagnetism and thermodynamics",
-        "conservation of mass and definite proportions",
         "periodic law and Avogadro's hypothesis",
-        "multiple proportions and radioactivity"
+        "conservation of mass and definite proportions",
+        "multiple proportions and radioactivity",
+        "$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$ or $[Ar]4s^2$"
       ],
       "correctAnswer": "conservation of mass and definite proportions"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "Which of the following is one of the postulates of Dalton's atomic theory?",
       "options": [
-        "atoms contain electrons, protons, and neutrons",
-        "energy is emitted in discrete quanta",
+        "integral multiples of $h\\nu$, such as $h\\nu$, $2h\\nu$, $3h\\nu$",
         "atoms of the same element may have different masses",
-        "matter is composed of tiny, indivisible particles called atoms"
+        "matter is composed of tiny, indivisible particles called atoms",
+        "two electrons, one with $m_s = +1/2$ and one with $m_s = -1/2$"
       ],
       "correctAnswer": "matter is composed of tiny, indivisible particles called atoms"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "In Dalton's atomic theory, atoms of the same element are:",
       "options": [
-        "capable of being divided into smaller particles",
-        "different in mass",
+        "electrically charged",
         "identical in mass and properties",
-        "electrically charged"
+        "have the same number of neutrons",
+        "hollow spherical shell of charge"
       ],
       "correctAnswer": "identical in mass and properties"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "Dalton's atomic theory explains the law of conservation of mass by stating that in a chemical reaction atoms are:",
       "options": [
-        "divided into smaller pieces",
+        "produced only in vacuum tubes",
         "created in equal numbers",
-        "neither created nor destroyed",
-        "destroyed and recreated"
+        "divided into smaller pieces",
+        "neither created nor destroyed"
       ],
       "correctAnswer": "neither created nor destroyed"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "Dalton's work was mainly focused on:",
       "options": [
-        "the charge of the nucleus",
-        "the discovery of the electron",
-        "the internal structure of atoms",
-        "the chemistry of how atoms combine to form new compounds"
+        "the chemistry of how atoms combine to form new compounds",
+        "different numbers of neutrons and different mass numbers",
+        "becomes correspondingly less precise (larger $\\Delta x$)",
+        "the special stability of a completely filled 3d subshell"
       ],
       "correctAnswer": "the chemistry of how atoms combine to form new compounds"
     },
@@ -256,8 +256,8 @@
       "question": "The modern theory about the physical structure of atoms began when J.J. Thomson discovered which particle in 1897?",
       "options": [
         "the electron",
-        "the proton",
         "the nucleus",
+        "$m_s = +1/2$",
         "the neutron"
       ],
       "correctAnswer": "the electron"
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "Which postulate of Dalton's atomic theory is inconsistent with the existence of isotopes?",
       "options": [
-        "atoms combine in simple whole-number ratios",
-        "matter is composed of atoms",
         "all atoms of the same element are identical in mass and properties",
-        "chemical reactions rearrange atoms"
+        "Bohr's model, the quantum condition, and the uncertainty principle",
+        "degenerate (equal in energy), having the same $n$ and $\\ell$ values",
+        "the inner electrons of an atom that are not in the outermost shell"
       ],
       "correctAnswer": "all atoms of the same element are identical in mass and properties"
     },
@@ -291,10 +291,10 @@
       "anki": true,
       "question": "Which idea from Dalton's atomic theory continues to have significance in the modern atomic theory?",
       "options": [
-        "atoms of an element are identical in mass",
         "matter is composed of atoms",
         "atoms are indivisible",
-        "the atom has no internal structure"
+        "the atom has no internal structure",
+        "have the same atomic number"
       ],
       "correctAnswer": "matter is composed of atoms"
     }

@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What did the IPCC project for global temperature by the end of the 21st century?",
       "options": [
-        "A decrease of 1.4 degrees Celsius",
+        "An increase of 20 degrees Celsius",
+        "It fixes the composition of rocks forever",
         "An increase of 1.4 to 5.8 degrees Celsius",
-        "An increase of 0.1 degrees Celsius",
-        "An increase of 20 degrees Celsius"
+        "An increase of 0.1 degrees Celsius"
       ],
       "correctAnswer": "An increase of 1.4 to 5.8 degrees Celsius"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What do ice cores help scientists reconstruct?",
       "options": [
-        "Future stock prices",
         "The depth of rivers",
+        "The migration of birds",
         "Past atmospheric composition",
-        "The migration of birds"
+        "A volcano on the ocean floor"
       ],
       "correctAnswer": "Past atmospheric composition"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "What did the 2001 assessment conclude about warming over the past 50 years?",
       "options": [
-        "All of it came from volcanic eruptions",
         "It was caused by sunspots alone",
-        "It did not occur",
-        "Most of it resulted from human activities"
+        "All of it came from volcanic eruptions",
+        "Most of it resulted from human activities",
+        "An increase of 1.4 to 5.8 degrees Celsius"
       ],
       "correctAnswer": "Most of it resulted from human activities"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "How does the temperature record from 1880 onward support climate change?",
       "options": [
-        "It shows a long-term rise in global land and ocean temperature",
-        "It shows steadily falling temperatures",
-        "It shows no pattern at all",
-        "It covers only one decade"
+        "Warming is small in any year and significant only over decades",
+        "A fracture forms and one limb is pushed forward over the other",
+        "Faster decomposition releases more carbon dioxide into the air",
+        "It shows a long-term rise in global land and ocean temperature"
       ],
       "correctAnswer": "It shows a long-term rise in global land and ocean temperature"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What does in situ observation refer to?",
       "options": [
-        "Measurements taken from spacecraft only",
+        "Net greenhouse gas emissions offset by activities such as planting trees",
+        "It provides the reference against which temperature changes are measured",
         "Direct measurements made at locations on the atmosphere, land and oceans",
-        "Estimates based on guesswork",
-        "Readings from a single weather station only"
+        "Subduction of one oceanic plate beneath another builds volcanic islands"
       ],
       "correctAnswer": "Direct measurements made at locations on the atmosphere, land and oceans"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Why do scientists use multiple lines of evidence?",
       "options": [
-        "Each line contradicts the others",
-        "One line is always enough",
+        "Changes in the shape of Earth orbit around the Sun",
         "Together they confirm that the climate is changing",
-        "They replace the need for records"
+        "Climate is measured over years; weather over a day",
+        "Afforestation, reforestation and forest management"
       ],
       "correctAnswer": "Together they confirm that the climate is changing"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What role does the IPCC play in climate science?",
       "options": [
-        "It builds weather satellites",
+        "It records the temperature of mountain peaks",
         "It produces comprehensive assessment reports",
-        "It enforces emission laws",
-        "It publishes school textbooks"
+        "The destruction of crust at subduction zones",
+        "Convergence, erosion, sedimentation, volcano"
       ],
       "correctAnswer": "It produces comprehensive assessment reports"
     }

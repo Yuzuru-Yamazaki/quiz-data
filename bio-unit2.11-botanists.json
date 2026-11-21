@@ -25,10 +25,10 @@
       "id": 2,
       "question": "What is Professor Sebsebe Demissew a professor of?",
       "options": [
-        "Plant systematics and Biodiversity",
-        "Plant Physiology",
+        "Roots that spread near the surface",
         "Agricultural Economics",
-        "Soil Science"
+        "Nitrogen fixation and assimilation",
+        "Plant systematics and Biodiversity"
       ],
       "correctAnswer": "Plant systematics and Biodiversity"
     },
@@ -37,9 +37,9 @@
       "question": "At which university is Professor Sebsebe Demissew a professor?",
       "options": [
         "Addis Ababa University",
-        "Mekelle University",
+        "Spontaneous generation",
         "Arba Minch University",
-        "Jimma University"
+        "Mekelle University"
       ],
       "correctAnswer": "Addis Ababa University"
     },
@@ -48,9 +48,9 @@
       "question": "Where is Professor Sebsebe Demissew the Executive Director?",
       "options": [
         "Gullele Botanic Garden in Addis Ababa",
+        "An animal that feeds on other animals",
         "Ethiopian National Herbarium",
-        "Royal Society",
-        "Kew Gardens"
+        "It helps them locate mineral deposits"
       ],
       "correctAnswer": "Gullele Botanic Garden in Addis Ababa"
     },
@@ -81,9 +81,9 @@
       "question": "What distinction does Professor Sebsebe Demissew hold regarding the Royal Society?",
       "options": [
         "He is the first Sub-Saharan African scientist elected in the Societys 357-year history",
-        "He is the first plant scientist elected",
-        "He is the youngest member ever elected",
-        "He is the only Ethiopian in the Royal Society"
+        "A condition where abnormal iron deposits form in the liver, spleen, skin, and pancreas",
+        "By serving as an alternative to synthetic N fertilizer and mitigating $N_2O$ emissions",
+        "The study of microscopic organisms or microbes that cannot be seen by the unaided eye"
       ],
       "correctAnswer": "He is the first Sub-Saharan African scientist elected in the Societys 357-year history"
     },
@@ -91,10 +91,10 @@
       "id": 8,
       "question": "What award was Professor Sebsebe Demissew awarded in 2021?",
       "options": [
-        "Lasker Award",
-        "Nobel Prize",
+        "The study of computer programs for biological data",
+        "It increases soil fertility and plant productivity",
         "Cuatrcases Medal for Excellence in Tropical Botany",
-        "Africa Prize"
+        "Afferent arteriole, glomerulus, efferent arteriole"
       ],
       "correctAnswer": "Cuatrcases Medal for Excellence in Tropical Botany"
     },
@@ -102,10 +102,10 @@
       "id": 9,
       "question": "Which institution awarded the Cuatrcases Medal to Professor Sebsebe Demissew?",
       "options": [
-        "Royal Society, London",
+        "Programs for local communities to treat their water",
         "Smithsonian National Museum of Natural History, USA",
-        "Kew Gardens, UK",
-        "UNESCO, Paris"
+        "Viruses, bacteria, fungal infections, and parasites",
+        "In various plant components such as roots and seeds"
       ],
       "correctAnswer": "Smithsonian National Museum of Natural History, USA"
     },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "What was the Cuatrcases Medal awarded for?",
       "options": [
-        "His work in medicinal plants",
-        "His lifetime works in conserving and recording the very diverse Ethiopian flora with many endemic species",
-        "His work in genetics",
-        "His teaching career"
+        "Use hand gloves, not taste or ingest them, not inhale volatile substances, and wash hands after handling",
+        "Phosphate ions are released from compounds like phospholipids, ATP, and DNA and returned to soil and water",
+        "Some influence is transmitted from the tip to more basal regions, regulating growth and inducing curvature",
+        "His lifetime works in conserving and recording the very diverse Ethiopian flora with many endemic species"
       ],
       "correctAnswer": "His lifetime works in conserving and recording the very diverse Ethiopian flora with many endemic species"
     },
@@ -124,10 +124,10 @@
       "id": 11,
       "question": "What leadership roles did Professor Sebsebe Demissew hold that contributed to his award?",
       "options": [
-        "President of Addis Ababa University",
+        "An adaptive mechanism ensuring seeds are separated from parent plants and distributed over a large area",
         "Leadership of the Ethiopian flora project and the Ethiopian National Herbarium at Addis Ababa University",
-        "Minister of Agriculture",
-        "Dean of Science Faculty"
+        "His lifetime works in conserving and recording the very diverse Ethiopian flora with many endemic species",
+        "Use hand gloves, not taste or ingest them, not inhale volatile substances, and wash hands after handling"
       ],
       "correctAnswer": "Leadership of the Ethiopian flora project and the Ethiopian National Herbarium at Addis Ababa University"
     }

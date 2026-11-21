@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What did the 1988 Toronto Conference recommend?",
       "options": [
-        "The closure of all factories",
-        "The abolition of meteorological services",
         "A comprehensive global framework convention to protect the atmosphere",
-        "A new ice age research centre"
+        "It generates income while promoting low-emission regional development",
+        "Subducted crust melts and the magma rises through the overlying crust",
+        "The lithosphere is divided into plates that move on the asthenosphere"
       ],
       "correctAnswer": "A comprehensive global framework convention to protect the atmosphere"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What was adopted at COP 7 in Marrakesh in 2001?",
       "options": [
-        "The Kyoto Protocol",
+        "The Marrakesh Accords",
+        "Make leaves turn blue",
         "The Paris Agreement",
-        "The Bonn Agreements",
-        "The Marrakesh Accords"
+        "The Bonn Agreements"
       ],
       "correctAnswer": "The Marrakesh Accords"
     },

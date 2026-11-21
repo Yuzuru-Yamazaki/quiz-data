@@ -35,12 +35,12 @@
     {
       "question": "At which level of ecological organization do individuals of the same species interact with each other?",
       "options": [
-        "Community",
-        "Ecosystem",
+        "Epididymis",
         "Population",
-        "Organism"
+        "Ecosystem",
+        "Community"
       ],
-      "answer": 2,
+      "answer": 1,
       "anki": true
     },
     {
@@ -80,11 +80,11 @@
       "question": "Which type of ecosystem is found on land and includes forests, grasslands, and deserts?",
       "options": [
         "Aquatic ecosystem",
-        "Marine ecosystem",
         "Terrestrial ecosystem",
-        "Freshwater ecosystem"
+        "Freshwater ecosystem",
+        "They develop vaccines"
       ],
-      "answer": 2,
+      "answer": 1,
       "anki": true
     },
     {
@@ -101,10 +101,10 @@
     {
       "question": "What are the two main categories of aquatic ecosystems?",
       "options": [
-        "Lakes and rivers",
         "Ponds and oceans",
+        "Marine and terrestrial",
         "Saltwater and freshwater",
-        "Marine and terrestrial"
+        "Presence of chloroplasts"
       ],
       "answer": 2,
       "anki": true
@@ -134,23 +134,23 @@
     {
       "question": "Which of the following is a characteristic of a lake ecosystem?",
       "options": [
-        "Small and shallow",
-        "Large body of standing freshwater",
-        "Flowing water",
-        "High salt content"
+        "Plants that receive no fertilizer",
+        "The field of view becomes smaller",
+        "Cells can be created artificially",
+        "Large body of standing freshwater"
       ],
-      "answer": 1,
+      "answer": 3,
       "anki": true
     },
     {
       "question": "A river ecosystem is best described as:",
       "options": [
+        "Flowing freshwater that moves in one direction",
         "A transition zone between land and water",
-        "A saltwater environment",
-        "Standing water with aquatic plants",
-        "Flowing freshwater that moves in one direction"
+        "Deformed or soft bones in the legs of children",
+        "Standing water with aquatic plants"
       ],
-      "answer": 3,
+      "answer": 0,
       "anki": true
     },
     {
@@ -200,12 +200,12 @@
     {
       "question": "What is the difference between a pond and a lake?",
       "options": [
+        "Lakes have flowing water while ponds are stagnant",
         "Ponds are saltwater and lakes are freshwater",
         "Ponds are smaller and shallower than lakes",
-        "Lakes have flowing water while ponds are stagnant",
-        "There is no difference"
+        "The bursting of a cell due to excess water"
       ],
-      "answer": 1,
+      "answer": 2,
       "anki": true
     },
     {
@@ -233,12 +233,12 @@
     {
       "question": "Which of the following is a key characteristic used to classify terrestrial ecosystems?",
       "options": [
-        "Water flow rate",
-        "Depth",
         "Climate and vegetation",
-        "Salinity"
+        "Water flow rate",
+        "Through sexual contact",
+        "By designing buildings"
       ],
-      "answer": 2,
+      "answer": 0,
       "anki": true
     },
     {
@@ -266,12 +266,12 @@
     {
       "question": "A group of organisms of the same species living in the same area at the same time is best described as a:",
       "options": [
-        "Community",
-        "Biome",
+        "Ecosystem",
         "Population",
-        "Ecosystem"
+        "Community",
+        "Copulation"
       ],
-      "answer": 2,
+      "answer": 1,
       "anki": true
     },
     {

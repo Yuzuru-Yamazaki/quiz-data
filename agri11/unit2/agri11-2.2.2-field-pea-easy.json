@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Field pea is mainly grown in the",
       "options": [
-        "Highlands",
-        "Lowlands",
+        "3 carbons",
         "Deserts",
-        "Coasts"
+        "Lowlands",
+        "Highlands"
       ],
       "correctAnswer": "Highlands"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Field pea seeds are rich in",
       "options": [
+        "Fiber",
         "Protein",
-        "Oil",
-        "Starch",
-        "Fiber"
+        "C3-teff",
+        "Starch"
       ],
       "correctAnswer": "Protein"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Field pea is harvested when pods turn",
       "options": [
-        "Yellow",
-        "Green",
         "Black",
-        "White"
+        "White",
+        "Yellow",
+        "Aphids"
       ],
       "correctAnswer": "Yellow"
     },
@@ -151,9 +151,9 @@
       "question": "Powdery mildew is a field pea",
       "options": [
         "Fungal disease",
+        "Weed species",
         "Viral disease",
-        "Insect pest",
-        "Weed species"
+        "Fat and energy"
       ],
       "correctAnswer": "Fungal disease"
     },
@@ -162,10 +162,10 @@
       "anki": true,
       "question": "Field pea rust is a",
       "options": [
+        "Weed species",
         "Fungal disease",
-        "Viral disease",
-        "Insect pest",
-        "Weed species"
+        "Deeper plowing",
+        "Viral disease"
       ],
       "correctAnswer": "Fungal disease"
     },

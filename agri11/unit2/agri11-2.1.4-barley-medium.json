@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Barley is best adapted to",
       "options": [
-        "Cool highland areas",
-        "Hot lowland areas",
+        "Ranching enterprise",
         "Coastal plains",
-        "Desert oases"
+        "Hot lowland areas",
+        "Cool highland areas"
       ],
       "correctAnswer": "Cool highland areas"
     },
@@ -44,8 +44,8 @@
       "options": [
         "Rainfed conditions",
         "Full irrigation",
-        "Greenhouse",
-        "Hydroponics"
+        "Hydroponics",
+        "Pests and diseases"
       ],
       "correctAnswer": "Rainfed conditions"
     },
@@ -115,9 +115,9 @@
       "question": "A common grass weed of barley is",
       "options": [
         "Ryegrass",
-        "Rust",
         "Smut",
-        "Aphids"
+        "Aphids",
+        "12 hours"
       ],
       "correctAnswer": "Ryegrass"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Scald and net blotch are barley",
       "options": [
+        "Weed species",
         "Fungal diseases",
         "Viral diseases",
-        "Insect pests",
-        "Weed species"
+        "Pastoral system"
       ],
       "correctAnswer": "Fungal diseases"
     },
@@ -163,9 +163,9 @@
       "question": "Barley is ready for harvest when the",
       "options": [
         "Spikes turn yellow",
+        "Grains turn black",
         "Leaves turn green",
-        "Roots turn brown",
-        "Grains turn black"
+        "Tropical countries"
       ],
       "correctAnswer": "Spikes turn yellow"
     },
@@ -186,10 +186,10 @@
       "anki": true,
       "question": "Barley is a major ingredient in",
       "options": [
+        "Sugar syrup",
         "Malt beverages",
-        "Cooking oil",
         "Textile fiber",
-        "Sugar syrup"
+        "Oil from grain"
       ],
       "correctAnswer": "Malt beverages"
     },

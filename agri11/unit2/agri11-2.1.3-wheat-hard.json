@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Why is durum wheat preferred for pasta?",
       "options": [
-        "Hard endosperm makes strong dough",
         "Soft endosperm makes weak dough",
-        "Husk protects the grain",
-        "Straw is used for bedding"
+        "Straw is used for bedding",
+        "Some factors cannot be controlled",
+        "Hard endosperm makes strong dough"
       ],
       "correctAnswer": "Hard endosperm makes strong dough"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Wheat is sun-dried before threshing to",
       "options": [
+        "Recycling by-products",
         "Reduce grain moisture",
-        "Increase grain size",
-        "Improve straw color",
-        "Kill all weed seeds"
+        "Kill all weed seeds",
+        "Improve straw color"
       ],
       "correctAnswer": "Reduce grain moisture"
     },
@@ -126,9 +126,9 @@
       "anki": true,
       "question": "A wheat crop turns yellow and is ready to harvest. Delaying harvest may cause",
       "options": [
-        "Grain shattering",
-        "More tillering",
+        "Live in one area",
         "New leaf growth",
+        "Grain shattering",
         "Root expansion"
       ],
       "correctAnswer": "Grain shattering"
@@ -139,9 +139,9 @@
       "question": "Wheat is mainly produced during the",
       "options": [
         "Main rainy season",
-        "Dry season",
+        "Frost season",
         "Harvest season",
-        "Frost season"
+        "Ploughing, sowing"
       ],
       "correctAnswer": "Main rainy season"
     },
@@ -163,9 +163,9 @@
       "question": "Wheat responds strongly to fertilizer, especially",
       "options": [
         "Nitrogen",
-        "Lime",
+        "Boron",
         "Sulfur",
-        "Boron"
+        "Egg size"
       ],
       "correctAnswer": "Nitrogen"
     },

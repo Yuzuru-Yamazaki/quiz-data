@@ -15,9 +15,9 @@
       "anki": true,
       "question": "Which source of experiential knowledge is described as the dominant source?",
       "options": [
-        "Testimony",
         "Sensory perception",
-        "Memory",
+        "Testimony",
+        "One full magnitude",
         "Introspection"
       ],
       "correctAnswer": "Sensory perception"
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "Which of the following is a source of experiential knowledge?",
       "options": [
-        "Imagination",
         "Sensory perception",
         "Memorizing",
-        "Guessing"
+        "Imagination",
+        "Only its direction"
       ],
       "correctAnswer": "Sensory perception"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "How is scientific (physics) knowledge constructed?",
       "options": [
-        "By using intuition alone",
-        "By guessing the answer",
-        "By memorizing facts from books",
-        "Through experience, observation, and the scientific method"
+        "As a random gathering of individuals interested in nature",
+        "As altitude increases, the boiling point of water decreases",
+        "Through experience, observation, and the scientific method",
+        "To create a means for disseminating scientific information"
       ],
       "correctAnswer": "Through experience, observation, and the scientific method"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Introspection allows us to:",
       "options": [
-        "Record events in the order they occur",
-        "Gather information by seeing and touching",
-        "Accept knowledge from what others report",
-        "Inspect how we are feeling and how our thoughts are operating"
+        "Inspect how we are feeling and how our thoughts are operating",
+        "The basic understanding necessary for new medical techniques",
+        "Finance (quantitative analysis), teaching, and science writing",
+        "Electricity, magnetism, semiconductors, and electromagnetism"
       ],
       "correctAnswer": "Inspect how we are feeling and how our thoughts are operating"
     },
@@ -112,9 +112,9 @@
       "question": "According to the textbook, memory captures events:",
       "options": [
         "Only after many years have passed",
-        "In a completely random order",
-        "More or less in the order they occur",
-        "Only when they are repeated twice"
+        "Stories passed down by word of mouth",
+        "Only when they are repeated twice",
+        "More or less in the order they occur"
       ],
       "correctAnswer": "More or less in the order they occur"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "When judging testimony, which type of source is usually more reliable?",
       "options": [
-        "Rumors from friends",
         "Oral sources",
-        "Written sources",
-        "Stories passed down by word of mouth"
+        "Rumors from friends",
+        "Worldwide level",
+        "Written sources"
       ],
       "correctAnswer": "Written sources"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Which of the following is an example of non-experiential knowledge?",
       "options": [
-        "Logical and mathematical reasoning",
-        "Hearing a bird sing",
+        "Seeing the color of a flower",
         "Feeling the texture of a stone",
-        "Seeing the color of a flower"
+        "Logical and mathematical reasoning",
+        "Manufacturing laboratory equipment"
       ],
       "correctAnswer": "Logical and mathematical reasoning"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "Axioms that are assumed without sensory evidence are a form of:",
       "options": [
-        "Non-experiential knowledge",
-        "Testimony",
+        "Supplying school furniture",
         "Sensory perception",
-        "Introspection"
+        "Non-experiential knowledge",
+        "To employ physics teachers"
       ],
       "correctAnswer": "Non-experiential knowledge"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "The scientific method is best described as:",
       "options": [
-        "A single step of guessing an answer",
-        "A way of memorizing facts quickly",
-        "A method of recording events from memory",
-        "An ordered series of steps to acquire knowledge based on experimental evidence"
+        "As an organized group of persons associated together for scientific purposes",
+        "An ordered series of steps to acquire knowledge based on experimental evidence",
+        "An organized group of persons associated together for scientific purposes",
+        "Physics improves quality of life and drives technology and economic development"
       ],
       "correctAnswer": "An ordered series of steps to acquire knowledge based on experimental evidence"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "After making observations, what is the second step of the scientific method?",
       "options": [
-        "Design a controlled experiment",
         "Ask a question and identify a problem",
-        "Draw a conclusion",
-        "Analyze the data"
+        "Genetic analysis and cellular biology",
+        "Dot product of force and displacement",
+        "Design a controlled experiment"
       ],
       "correctAnswer": "Ask a question and identify a problem"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "The third step of the scientific method is to form a hypothesis, which is:",
       "options": [
+        "delta x over delta t as delta t goes to infinity",
+        "A government body that funds scientific research",
         "A proposed explanation and a testable prediction",
-        "The final answer to the problem",
-        "The data collected from an experiment",
-        "A list of observations from nature"
+        "The data collected from an experiment"
       ],
       "correctAnswer": "A proposed explanation and a testable prediction"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "What is the fourth step of the scientific method?",
       "options": [
+        "By replacing all other sciences in schools",
         "Design and conduct a controlled experiment",
-        "Make observations",
-        "Ask a question",
-        "Communicate the results"
+        "Mechanics, materials, and electromagnetism",
+        "To increase the number of physics teachers"
       ],
       "correctAnswer": "Design and conduct a controlled experiment"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "What is the sixth step of the scientific method?",
       "options": [
-        "Draw a conclusion that confirms or refutes the hypothesis",
-        "Identify a problem",
-        "Design a controlled experiment",
-        "Communicate and share the results"
+        "As a random gathering of individuals interested in nature",
+        "Through experience, observation, and the scientific method",
+        "To build machines and devices for private companies only",
+        "Draw a conclusion that confirms or refutes the hypothesis"
       ],
       "correctAnswer": "Draw a conclusion that confirms or refutes the hypothesis"
     },
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "What is the final step of the scientific method?",
       "options": [
-        "Analyze the data",
+        "Make more observations",
+        "Product of their magnitudes only",
         "Communicate or share the results",
-        "Form a new hypothesis",
-        "Make more observations"
+        "Form a new hypothesis"
       ],
       "correctAnswer": "Communicate or share the results"
     },
@@ -291,9 +291,9 @@
       "anki": true,
       "question": "In the textbook example, what does the scientist decide to do when studying altitude and boiling water?",
       "options": [
-        "Measure the amount of water evaporated at one altitude",
         "Cool water at different altitudes and record the freezing point",
-        "Test the taste of boiled water at sea level",
+        "Lower atmospheric pressure at higher altitude lowers the boiling point",
+        "Advancing science, engineering, and innovation for the benefit of all",
         "Heat water at different altitudes and record the boiling temperature"
       ],
       "correctAnswer": "Heat water at different altitudes and record the boiling temperature"
@@ -339,10 +339,10 @@
       "anki": true,
       "question": "Why does the boiling point of water decrease at higher altitudes?",
       "options": [
+        "Advancing science, engineering, and innovation for the benefit of all",
         "Higher atmospheric pressure at higher altitude lowers the boiling point",
         "Lower atmospheric pressure at higher altitude lowers the boiling point",
-        "The water is heated faster at higher altitudes",
-        "The water contains more impurities at higher altitudes"
+        "The most powerful space telescope, launched as the successor to Hubble"
       ],
       "correctAnswer": "Lower atmospheric pressure at higher altitude lowers the boiling point"
     }

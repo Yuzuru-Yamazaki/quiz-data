@@ -42,10 +42,10 @@
       "anki": true,
       "question": "Later animal breeding aimed to produce",
       "options": [
-        "Non-food materials",
-        "Food production",
+        "5 to 8 quintals/ha",
         "Religious use",
-        "Wild release"
+        "Food production",
+        "Non-food materials"
       ],
       "correctAnswer": "Non-food materials"
     },
@@ -67,9 +67,9 @@
       "question": "Which wild grain was consumed by hunter-gatherers?",
       "options": [
         "Wild rice",
-        "Rice",
         "Wheat",
-        "Maize"
+        "Maize",
+        "Continent"
       ],
       "correctAnswer": "Wild rice"
     },
@@ -79,8 +79,8 @@
       "question": "Which wild grain is named in the handout?",
       "options": [
         "Wild oats",
-        "Oats",
         "Barley",
+        "Dry seeds",
         "Millet"
       ],
       "correctAnswer": "Wild oats"
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "Root crops were widely used by hunter-gatherers in the",
       "options": [
-        "Tropical region",
-        "Arctic region",
+        "1000 and 500 BC",
         "Desert region",
-        "Polar region"
+        "Tropical region",
+        "Arctic region"
       ],
       "correctAnswer": "Tropical region"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Religion may have influenced agriculture through the keeping of",
       "options": [
+        "More productive than all the other crops",
+        "The full capacity of the national system",
         "Particular animals and particular plants",
-        "Only certain wild animals kept for their food",
-        "Only grain crops",
-        "Only draft animals"
+        "Only certain wild animals kept for their food"
       ],
       "correctAnswer": "Particular animals and particular plants"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "A desirable feature of plants selected by hunter-gatherers was",
       "options": [
+        "Irrigation canals",
         "Climatic tolerance",
-        "Metal tools",
-        "Writing systems",
-        "Irrigation canals"
+        "More soil moisture",
+        "Writing systems"
       ],
       "correctAnswer": "Climatic tolerance"
     },
@@ -150,10 +150,10 @@
       "anki": true,
       "question": "Hunter-gatherers also selected plants with",
       "options": [
-        "Good flavour and grain size",
-        "Very high fertilizer needs each season",
         "Short storage life",
-        "Late maturity"
+        "Good flavour and grain size",
+        "Very high fertilizer needs each seas",
+        "Until the soil is exhausted"
       ],
       "correctAnswer": "Good flavour and grain size"
     },
@@ -174,9 +174,9 @@
       "anki": true,
       "question": "Poison extracted from toxic legumes was",
       "options": [
-        "Used on arrowheads",
         "Sold in markets",
-        "Fed to animals",
+        "Rhizobium bacteria",
+        "Used on arrowheads",
         "Used as manure"
       ],
       "correctAnswer": "Used on arrowheads"

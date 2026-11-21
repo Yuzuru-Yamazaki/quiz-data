@@ -30,10 +30,10 @@
       "anki": true,
       "question": "Dicot grain crops include",
       "options": [
-        "Legumes and oil seeds",
+        "Remove all soil water",
         "Cereals and grasses",
-        "Roots and tubers",
-        "Sugarcane and beet"
+        "Sugarcane and beet",
+        "Legumes and oil seeds"
       ],
       "correctAnswer": "Legumes and oil seeds"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "The top food crops are ranked globally by",
       "options": [
-        "Volume of production",
+        "Reduce seed moisture",
+        "Export value",
         "Area of cultivation",
-        "Market price",
-        "Export value"
+        "Volume of production"
       ],
       "correctAnswer": "Volume of production"
     },
@@ -102,8 +102,8 @@
       "anki": true,
       "question": "Oils supply vitamins",
       "options": [
+        "Highly saline",
         "A, K, D and E",
-        "B, C and K",
         "A, B and C",
         "C, D and E"
       ],
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Triglycerides are composed of glycerine and",
       "options": [
-        "Three fatty acids",
-        "Two fatty acids",
+        "Ready for harvest",
         "Four fatty acids",
-        "One fatty acid"
+        "Two fatty acids",
+        "Three fatty acids"
       ],
       "correctAnswer": "Three fatty acids"
     },
@@ -150,10 +150,10 @@
       "anki": true,
       "question": "Forage crops are selected for protein, fiber and",
       "options": [
-        "Nutrients",
-        "Color",
         "Flavor",
-        "Aroma"
+        "Aroma",
+        "18 months",
+        "Nutrients"
       ],
       "correctAnswer": "Nutrients"
     },
@@ -211,8 +211,8 @@
       "question": "Forage grasses include",
       "options": [
         "Elephant, Desho, Rhodes",
+        "Leaves rot in the field",
         "Wheat, barley, teff",
-        "Sesame, sunflower",
         "Cotton, jute, hemp"
       ],
       "correctAnswer": "Elephant, Desho, Rhodes"
@@ -222,10 +222,10 @@
       "anki": true,
       "question": "Forage legumes include",
       "options": [
+        "Toxic seed, hard transport",
         "Alfalfa, clovers, Leucaena",
-        "Maize, sorghum, millet",
-        "Cotton, sisal, jute",
-        "Teff, wheat, barley"
+        "Teff, wheat, barley",
+        "Maize, sorghum, millet"
       ],
       "correctAnswer": "Alfalfa, clovers, Leucaena"
     },
@@ -234,10 +234,10 @@
       "anki": true,
       "question": "Plant fibers used for clothing come mainly from",
       "options": [
-        "Cotton lint",
+        "Sesame",
+        "Cereal crop",
         "Sugarcane",
-        "Maize",
-        "Sesame"
+        "Cotton lint"
       ],
       "correctAnswer": "Cotton lint"
     }

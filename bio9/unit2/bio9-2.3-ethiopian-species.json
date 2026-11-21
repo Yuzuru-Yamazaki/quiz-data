@@ -49,9 +49,9 @@
     {
       "question": "Which endemic antelope species is found in the Bale Mountains of Ethiopia?",
       "options": [
-        "Kudu",
-        "Springbok",
         "Impala",
+        "Springbok",
+        "Only the heart",
         "Mountain nyala"
       ],
       "correctAnswer": "Mountain nyala",
@@ -61,10 +61,10 @@
     {
       "question": "What is the scientific name of the Ethiopian wolf?",
       "options": [
-        "Canis lupus",
-        "Canis simensis",
         "Canis latrans",
-        "Canis aureus"
+        "Canis aureus",
+        "Office workers",
+        "Canis simensis"
       ],
       "correctAnswer": "Canis simensis",
       "explanation": "Canis simensis is the scientific name of the Ethiopian wolf, one of Africa's most endangered carnivores.",
@@ -73,10 +73,10 @@
     {
       "question": "The Walia ibex is primarily found in which Ethiopian mountain range?",
       "options": [
+        "Nourishing fluid",
+        "Bale Mountains",
         "Choke Mountains",
-        "Simien Mountains",
-        "Arsi Mountains",
-        "Bale Mountains"
+        "Simien Mountains"
       ],
       "correctAnswer": "Simien Mountains",
       "explanation": "The Walia ibex is restricted to the Simien Mountains National Park in northern Ethiopia.",
@@ -97,10 +97,10 @@
     {
       "question": "The Gelada baboon is unique among primates because it:",
       "options": [
-        "Lives in trees",
         "Is primarily grass-eating",
         "Hunts small animals",
-        "Is nocturnal"
+        "Lives in trees",
+        "To culture microorganisms"
       ],
       "correctAnswer": "Is primarily grass-eating",
       "explanation": "The Gelada baboon is the only primate that is primarily graminivorous (grass-eating), feeding mostly on grass blades and seeds.",
@@ -109,10 +109,10 @@
     {
       "question": "Which Ethiopian plant is the original source of coffee?",
       "options": [
-        "Teff",
         "Ensete",
         "Coffea arabica",
-        "Sorghum"
+        "Sorghum",
+        "Root structure"
       ],
       "correctAnswer": "Coffea arabica",
       "explanation": "Coffea arabica originates from the highlands of Ethiopia and is the most widely consumed coffee species worldwide.",
@@ -121,10 +121,10 @@
     {
       "question": "Ensete, also known as false banana, is a staple food crop in which region of Ethiopia?",
       "options": [
+        "The amount of light that passes through the specimen",
+        "Fever, cough, tiredness, and loss of taste or smell",
         "Southern Nations, Nationalities, and Peoples' Region",
-        "Somali",
-        "Tigray",
-        "Afar"
+        "Cells can arise spontaneously from non-living matter"
       ],
       "correctAnswer": "Southern Nations, Nationalities, and Peoples' Region",
       "explanation": "Ensete (Ensete ventricosum) is a staple food crop mainly cultivated in southern Ethiopia.",
@@ -169,10 +169,10 @@
     {
       "question": "The Ethiopian wolf primarily feeds on:",
       "options": [
-        "Fish",
+        "Cell membrane (plasma membrane)",
         "Rodents such as giant mole rats",
-        "Large antelopes",
-        "Fruits and berries"
+        "One egg fertilized by two sperm",
+        "Watch a classmate and copy them"
       ],
       "correctAnswer": "Rodents such as giant mole rats",
       "explanation": "The Ethiopian wolf's diet consists mainly of rodents, particularly the giant mole rat, which makes up over 90% of its diet.",
@@ -181,10 +181,10 @@
     {
       "question": "Lake Tana in Ethiopia is known for which group of endemic fish species?",
       "options": [
-        "Catfish",
-        "Lake Tana barbs (Labeobarbus species)",
-        "Nile perch",
-        "Nile tilapia"
+        "To make the experiment more expensive",
+        "Keep Plates Clean Or Family Gets Sick",
+        "Bits of uterine lining and some blood",
+        "Lake Tana barbs (Labeobarbus species)"
       ],
       "correctAnswer": "Lake Tana barbs (Labeobarbus species)",
       "explanation": "Lake Tana is home to a unique species flock of Labeobarbus barbs, with at least 15 endemic species found nowhere else.",
@@ -193,9 +193,9 @@
     {
       "question": "The Abyssinian longclaw is an endemic bird found mainly in:",
       "options": [
-        "Rift Valley lakes",
-        "Ogaden Desert",
         "Ethiopian highlands",
+        "Determine eye color",
+        "Rift Valley lakes",
         "Danakil Depression"
       ],
       "correctAnswer": "Ethiopian highlands",
@@ -205,10 +205,10 @@
     {
       "question": "Which of these animals is NOT endemic to Ethiopia?",
       "options": [
+        "African leopard",
+        "Afroalpine zone",
         "Gelada baboon",
-        "Walia ibex",
-        "Mountain nyala",
-        "African leopard"
+        "Mountain nyala"
       ],
       "correctAnswer": "African leopard",
       "explanation": "The African leopard is found across sub-Saharan Africa, not just Ethiopia, whereas the others are Ethiopian endemics.",
@@ -266,9 +266,9 @@
       "question": "Nechisar National Park in Ethiopia is famous for which endemic animal?",
       "options": [
         "Nechisar nightjar",
-        "Bale monkey",
+        "They occupy space",
         "Gelada baboon",
-        "Walia ibex"
+        "Bale monkey"
       ],
       "correctAnswer": "Nechisar nightjar",
       "explanation": "Nechisar National Park is the only known location of the Nechisar nightjar (Caprimulgus solala), an endemic bird species.",
@@ -277,10 +277,10 @@
     {
       "question": "Ethiopia is considered the origin of which important crop plant?",
       "options": [
-        "Wheat",
-        "Rice",
-        "Maize",
-        "Coffee (Coffea arabica)"
+        "It shrinks and crenates",
+        "Coffee (Coffea arabica)",
+        "To break the cells open",
+        "Geographic distribution"
       ],
       "correctAnswer": "Coffee (Coffea arabica)",
       "explanation": "Ethiopia is the birthplace of Coffea arabica, with wild coffee forests still found in the southwestern highlands.",

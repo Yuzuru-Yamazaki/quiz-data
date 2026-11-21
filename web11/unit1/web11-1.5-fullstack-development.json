@@ -15,10 +15,10 @@
       "anki": true,
       "question": "Full-stack development refers to proficiency in which of the following?",
       "options": [
-        "Only back-end development",
-        "Both front-end and back-end development",
+        "Introduction of artificial intelligence",
+        "Connecting multiple monitors wirelessly",
         "Only database administration",
-        "Only front-end development"
+        "Both front-end and back-end development"
       ],
       "correctAnswer": "Both front-end and back-end development"
     },
@@ -27,10 +27,10 @@
       "anki": true,
       "question": "Full-stack developers have the skills to work on which layers of a web application?",
       "options": [
-        "All layers, from the user interface to server-side logic and database management",
-        "Only the user interface layer",
-        "Only the network layer",
-        "Only the database layer"
+        "Allowing devices to be connected and disconnected without rebooting the computer",
+        "A piece of computer hardware added to a computer in order to expand its abilities",
+        "Programs through which manufacturers responsibly collect and recycle their products",
+        "All layers, from the user interface to server-side logic and database management"
       ],
       "correctAnswer": "All layers, from the user interface to server-side logic and database management"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "Which of the following is a server-side programming language a full-stack developer may use?",
       "options": [
-        "Node.js",
         "HTML",
         "jQuery",
-        "CSS"
+        "Farmers",
+        "Node.js"
       ],
       "correctAnswer": "Node.js"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "Which skill allows a full-stack developer to debug issues across the entire web application stack?",
       "options": [
-        "Cross-browser testing",
-        "Responsive design",
         "Problem solving and troubleshooting",
-        "Image optimization"
+        "Graphic design tools and principles",
+        "Modular design and increased PC use",
+        "Display images on multiple monitors"
       ],
       "correctAnswer": "Problem solving and troubleshooting"
     },
@@ -112,8 +112,8 @@
       "question": "A full-stack developer can contribute to project management by doing which of the following?",
       "options": [
         "Only designing database schemas",
-        "Only configuring web servers",
-        "Only writing CSS styles",
+        "To increase the computer's processing speed",
+        "USB Mini, USB Micro, USB Nano, and USB Pico",
         "Planning, estimating and prioritizing tasks"
       ],
       "correctAnswer": "Planning, estimating and prioritizing tasks"
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "Through knowledge of server management, a full-stack developer ensures which of the following?",
       "options": [
+        "Providing audio signals for multimedia applications",
+        "To prevent overheating caused by restricted airflow",
         "Scalability, security and performance optimizations",
-        "Only image compression",
-        "Only keyboard navigation",
-        "Only color and font consistency"
+        "It is a port used only for external storage devices"
       ],
       "correctAnswer": "Scalability, security and performance optimizations"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "In what ways can a full-stack developer work on a project?",
       "options": [
-        "Only with database administrators",
-        "Only alone with no collaboration",
+        "Report it to your IT department or system administrator immediately",
+        "Through self-study, workshops, certifications, or higher education",
         "Independently or with specialized front-end and back-end developers",
-        "Only with front-end developers"
+        "Limited storage capacity, slow speed, and a problem of overheating"
       ],
       "correctAnswer": "Independently or with specialized front-end and back-end developers"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "Full-stack developers are capable of handling the entire development process from which point to which point?",
       "options": [
-        "Only from styling to image optimization",
+        "Designing interfaces to implementing server-side logic",
         "Only from database design to server maintenance",
-        "Only from testing to deployment",
-        "Designing interfaces to implementing server-side logic"
+        "Computing, telecommunications, and information systems",
+        "Every 2 hours, rest for 20 minutes with 20 candles lit"
       ],
       "correctAnswer": "Designing interfaces to implementing server-side logic"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "Which of the following best describes a full-stack developer?",
       "options": [
-        "A specialist who only manages databases",
-        "A designer who only creates visual mockups",
         "A developer versatile in both client-side and server-side development",
-        "An administrator who only configures web servers"
+        "Back straight, feet flat on the floor and wrists in a neutral position",
+        "More flexible with input/output, smaller size, and better performance",
+        "According to local regulations to prevent environmental contamination"
       ],
       "correctAnswer": "A developer versatile in both client-side and server-side development"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Which of the following is a database-related skill of a full-stack developer?",
       "options": [
-        "Styling HTML elements with CSS",
-        "Compressing image files for faster loading",
-        "Handling keyboard events in the browser",
-        "Writing complex queries and optimizing data retrieval and storage"
+        "Writing complex queries and optimizing data retrieval and storage",
+        "Limited storage capacity, slow speed, and a problem of overheating",
+        "Donating or reselling it to extend its lifespan and reduce waste",
+        "Methods for increasing the speed of a computer before selling it"
       ],
       "correctAnswer": "Writing complex queries and optimizing data retrieval and storage"
     }

@@ -15,10 +15,10 @@
     {
       "question": "Is water on earth stationary?",
       "options": [
-        "Only ocean water moves",
-        "No, it is always on the move",
+        "Only river water moves",
+        "Locally adapted native seeds",
         "Yes, it stays in one place",
-        "Only river water moves"
+        "No, it is always on the move"
       ],
       "correctAnswer": "No, it is always on the move",
       "id": 1
@@ -26,10 +26,10 @@
     {
       "question": "Rain that falls at a particular place can be the result of evaporation that occurred where?",
       "options": [
-        "At a distant ocean days before",
         "From underground sources",
+        "At a distant ocean days before",
         "Only from nearby lakes",
-        "At the same location"
+        "Conversion of $NH_4$ to $NO_3$"
       ],
       "correctAnswer": "At a distant ocean days before",
       "id": 2
@@ -37,9 +37,9 @@
     {
       "question": "Water in a river may have come from which sources?",
       "options": [
-        "Only from rainfall at the same location",
-        "Only from the ocean",
-        "Only from underground springs",
+        "Elongated dead cells joined end to end to form continuous vessels",
+        "They do not respond normally to the cell cycle controlling system",
+        "Actively by cell spending energy against a concentration gradient",
         "Rainfall at a distance or melting ice or snow from high mountains"
       ],
       "correctAnswer": "Rainfall at a distance or melting ice or snow from high mountains",
@@ -70,10 +70,10 @@
     {
       "question": "What percentage of water on Earth is non-potable saltwater?",
       "options": [
-        "50%",
+        "97.5%",
         "75%",
         "99%",
-        "97.5%"
+        "Waxes"
       ],
       "correctAnswer": "97.5%",
       "id": 6
@@ -92,9 +92,9 @@
     {
       "question": "What percentage of freshwater on Earth is easily accessible from lakes and rivers?",
       "options": [
-        "About 10%",
         "Less than 1%",
         "About 50%",
+        "Only insects",
         "About 25%"
       ],
       "correctAnswer": "Less than 1%",
@@ -114,10 +114,10 @@
     {
       "question": "Between which components does water continuously cycle?",
       "options": [
-        "Only between oceans and land",
-        "Only between rivers and lakes",
+        "After an initial reaction to a new pathogen",
         "The oceans, atmosphere, land, and organisms",
-        "Only between atmosphere and land"
+        "Only between atmosphere and land",
+        "Two diploid ($2n$) identical daughter cells"
       ],
       "correctAnswer": "The oceans, atmosphere, land, and organisms",
       "id": 10
@@ -125,10 +125,10 @@
     {
       "question": "What is the main driving force in the water cycle?",
       "options": [
-        "Wind",
-        "Gravity",
-        "Earth's rotation",
-        "A change in temperature, heating, and cooling"
+        "$CO_{2} + H_{2}O \\rightarrow CH_{2}O + O_{2}$",
+        "A change in temperature, heating, and cooling",
+        "It kills bacteria and other pathogens in food",
+        "$NO_{2} \\rightarrow NH_{3} \\rightarrow N_{2}$"
       ],
       "correctAnswer": "A change in temperature, heating, and cooling",
       "id": 11
@@ -136,10 +136,10 @@
     {
       "question": "What causes a change in the state of water in the water cycle?",
       "options": [
-        "Humidity",
         "Change in temperature",
+        "Air pressure",
         "Wind speed",
-        "Air pressure"
+        "The trachea collapses"
       ],
       "correctAnswer": "Change in temperature",
       "id": 12
@@ -147,10 +147,10 @@
     {
       "question": "What are the three states of water involved in the water cycle?",
       "options": [
-        "Plasma, liquid, gas",
-        "Only liquid and gas",
         "Water vapour (gas), ice or snow (solid), and liquid water",
-        "Only solid and liquid"
+        "It can reach nearby water bodies and cause eutrophication",
+        "A vital role in treating diseases and fighting infections",
+        "They are actively transferred into the interstitial fluid"
       ],
       "correctAnswer": "Water vapour (gas), ice or snow (solid), and liquid water",
       "id": 13
@@ -159,9 +159,9 @@
       "question": "What are the most important processes in the water cycle?",
       "options": [
         "Evaporation, transpiration, condensation, precipitation, and runoff",
-        "Combustion and decomposition",
-        "Nitrogen fixation and denitrification",
-        "Photosynthesis and respiration"
+        "By lowering the activation energy which increases the reaction rate",
+        "Mostly brightly coloured to attract pollinating agents like insects",
+        "Cellulose fibres that run in different directions to boost strength"
       ],
       "correctAnswer": "Evaporation, transpiration, condensation, precipitation, and runoff",
       "id": 14
@@ -191,10 +191,10 @@
     {
       "question": "From where does evaporation of water occur in the water cycle?",
       "options": [
-        "Only from oceans",
+        "Food storage and help in internal translocation of water",
         "From the earth and the surface of leaves (transpiration)",
-        "Only from soil",
-        "Only from rivers"
+        "Warms and moistens incoming air, traps foreign particles",
+        "A rise in the overall temperature of the earth's surface"
       ],
       "correctAnswer": "From the earth and the surface of leaves (transpiration)",
       "id": 17
@@ -214,9 +214,9 @@
       "question": "What happens to water vapor as it rises and cools in the atmosphere?",
       "options": [
         "It turns directly into ice",
-        "It remains as vapor",
         "It condenses into rain or snow",
-        "It disappears"
+        "Reduction of chromosome number",
+        "It remains as vapor"
       ],
       "correctAnswer": "It condenses into rain or snow",
       "id": 19
@@ -235,10 +235,10 @@
     {
       "question": "What forms of precipitation are mentioned in the water cycle description?",
       "options": [
-        "Only rain",
         "Only sleet",
-        "Rainfall or snowfall",
-        "Only hail"
+        "Only hail",
+        "More than 50 percent",
+        "Rainfall or snowfall"
       ],
       "correctAnswer": "Rainfall or snowfall",
       "id": 21
@@ -246,10 +246,10 @@
     {
       "question": "After precipitation, where does surface runoff water collect?",
       "options": [
-        "Only in oceans",
-        "Only in the atmosphere",
-        "Only in underground caves",
-        "In rivers, lakes, soil, and soft rocks"
+        "A flower that has pistil but no stamen",
+        "Amount of heat to melt one gram of ice",
+        "In rivers, lakes, soil, and soft rocks",
+        "Proteins found in aqueous environments"
       ],
       "correctAnswer": "In rivers, lakes, soil, and soft rocks",
       "id": 22
@@ -257,10 +257,10 @@
     {
       "question": "What happens to some of the water that falls on earth?",
       "options": [
-        "It all becomes ice",
+        "In the form of fertilizers obtained by mining phosphate rocks and applying them in agricultural lands",
+        "The weight of living organic matter contained or assimilated to the body of an organism per unit time",
         "It is taken up by plant roots and much of it flows into oceans or infiltrates the soil as groundwater",
-        "It all stays on the surface",
-        "It is all evaporated immediately"
+        "Their ability to move from one place to another and their characteristics as herbs, shrubs, and trees"
       ],
       "correctAnswer": "It is taken up by plant roots and much of it flows into oceans or infiltrates the soil as groundwater",
       "id": 23
@@ -268,10 +268,10 @@
     {
       "question": "How can water accumulated in the ground return to the surface?",
       "options": [
-        "Only through rainfall",
-        "Only through evaporation",
+        "$CO_{2} + H_{2}O \\rightarrow CH_{2}O + O_{2}$",
+        "Capillaries just beneath the nasal epithelium",
         "As a spring or stream, or by being pumped out",
-        "Only through plant roots"
+        "The study of genetic variation in populations"
       ],
       "correctAnswer": "As a spring or stream, or by being pumped out",
       "id": 24
@@ -290,10 +290,10 @@
     {
       "question": "How does pumped groundwater rejoin the water cycle?",
       "options": [
-        "Through freezing",
         "Through condensation",
-        "Through precipitation",
-        "Through surface evaporation"
+        "Through surface evaporation",
+        "No, it is entirely man-made",
+        "Through precipitation"
       ],
       "correctAnswer": "Through surface evaporation",
       "id": 26
@@ -313,9 +313,9 @@
       "question": "What is the term for the combined evaporation from the earth and transpiration from plants?",
       "options": [
         "Evapotranspiration",
-        "Infiltration",
-        "Precipitation",
-        "Condensation"
+        "1-2 million people",
+        "Condensation",
+        "Precipitation"
       ],
       "correctAnswer": "Evapotranspiration",
       "id": 28

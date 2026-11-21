@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Extensive productivity is lower because feed depends on",
       "options": [
-        "Climate and pasture",
         "Purchased ration",
-        "Veterinary care",
-        "Market price"
+        "Climate and pasture",
+        "Silage and hay only",
+        "Veterinary care"
       ],
       "correctAnswer": "Climate and pasture"
     },
@@ -44,7 +44,7 @@
       "options": [
         "Labour per unit area",
         "Land per animal",
-        "Feed per herd",
+        "Green leaves of cane",
         "Capital per herd"
       ],
       "correctAnswer": "Labour per unit area"
@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Pastoralists move their animals to obtain",
       "options": [
-        "Pasture after rainfall",
         "Urban market access",
         "Veterinary services",
-        "Breeding programs"
+        "Pasture after rainfall",
+        "A month after planting"
       ],
       "correctAnswer": "Pasture after rainfall"
     },
@@ -91,9 +91,9 @@
       "question": "Transhumance is characterized by movement that is",
       "options": [
         "Seasonal and recurring",
-        "Random and permanent",
-        "Urban and daily",
-        "Only in droughts"
+        "Only in droughts",
+        "Aphids, weevils, mites",
+        "Random and permanent"
       ],
       "correctAnswer": "Seasonal and recurring"
     },
@@ -139,9 +139,9 @@
       "question": "Ranching is mainly aimed at",
       "options": [
         "Cash income and profit",
-        "Family subsistence",
-        "Manure only",
-        "Draft power"
+        "Draft power",
+        "Desert oases and dunes",
+        "Family subsistence"
       ],
       "correctAnswer": "Cash income and profit"
     },
@@ -150,10 +150,10 @@
       "anki": true,
       "question": "Mixed farming is",
       "options": [
+        "Random and permanent",
         "Subsistence-oriented",
-        "Profit-maximizing",
-        "Export-oriented",
-        "Market-specialized"
+        "Market-specialized",
+        "Profit-maximizing"
       ],
       "correctAnswer": "Subsistence-oriented"
     },
@@ -176,8 +176,8 @@
       "options": [
         "Higher than extensive",
         "Lower than extensive",
-        "Equal to extensive",
-        "Absent in extensive"
+        "Absent in extensive",
+        "Only past generations"
       ],
       "correctAnswer": "Higher than extensive"
     },
@@ -188,7 +188,7 @@
       "options": [
         "Sold for income",
         "Fed to animals",
-        "Left to rot",
+        "Natural pasture",
         "Given as gifts"
       ],
       "correctAnswer": "Sold for income"

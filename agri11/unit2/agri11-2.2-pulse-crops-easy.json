@@ -30,8 +30,8 @@
       "anki": true,
       "question": "Pulses are especially rich in",
       "options": [
+        "D and B",
         "Protein",
-        "Oil",
         "Starch",
         "Fiber"
       ],
@@ -66,9 +66,9 @@
       "anki": true,
       "question": "Root nodules of pulses contain",
       "options": [
-        "Rhizobium bacteria",
-        "Fungal spores",
         "Viral particles",
+        "Only draft animals",
+        "Rhizobium bacteria",
         "Nematode eggs"
       ],
       "correctAnswer": "Rhizobium bacteria"
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "Rhizobium bacteria fix",
       "options": [
-        "Atmospheric nitrogen",
+        "Atmospheric oxygen",
+        "Alpha-linolenic acid",
         "Soil phosphorus",
-        "Soil potassium",
-        "Atmospheric oxygen"
+        "Atmospheric nitrogen"
       ],
       "correctAnswer": "Atmospheric nitrogen"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "A major pulse crop in Ethiopia is",
       "options": [
-        "Faba bean",
+        "Wheat",
         "Barley",
-        "Maize",
-        "Wheat"
+        "Marketing",
+        "Faba bean"
       ],
       "correctAnswer": "Faba bean"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Another major pulse crop is",
       "options": [
-        "Field pea",
-        "Teff",
+        "Groundnut",
         "Sorghum",
-        "Millet"
+        "Millet",
+        "Field pea"
       ],
       "correctAnswer": "Field pea"
     },

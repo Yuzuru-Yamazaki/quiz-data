@@ -43,8 +43,8 @@
       "question": "The use of toxic legumes suggests hunter-gatherers were",
       "options": [
         "Skilled experimenters",
+        "Maximize milk per cow",
         "Advanced farmers",
-        "Metal workers",
         "Written historians"
       ],
       "correctAnswer": "Skilled experimenters"
@@ -54,10 +54,10 @@
       "anki": true,
       "question": "The agricultural transition took long because it required",
       "options": [
-        "Deliberate learning and gradual adaptation",
         "A single technological leap forward by farmers",
-        "Government planning",
-        "Large-scale migration"
+        "Principal factor responsible for low yield",
+        "Very large commercial farming estates only",
+        "Deliberate learning and gradual adaptation"
       ],
       "correctAnswer": "Deliberate learning and gradual adaptation"
     },
@@ -68,8 +68,8 @@
       "options": [
         "Hard to transport",
         "Widely available",
-        "Easily harvested",
-        "Good flavour"
+        "Breeding programs",
+        "Easily harvested"
       ],
       "correctAnswer": "Hard to transport"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "Religion's likely role in domestication was through",
       "options": [
-        "The selective keeping of sacred animals and plants",
         "Mass production of crops and animals for export markets",
-        "Irrigation of temple fields",
-        "Use of metal ploughs"
+        "A direct result of high rainfall in the local area",
+        "High input use together with full irrigation water",
+        "The selective keeping of sacred animals and plants"
       ],
       "correctAnswer": "The selective keeping of sacred animals and plants"
     },
@@ -91,9 +91,9 @@
       "question": "A plant that is predictable and seasonally available would be",
       "options": [
         "Preferred as a reliable food source",
+        "One third of leaves, stems and pods",
         "Rejected as an important source of food",
-        "Grown only for fiber",
-        "Left for wild animals"
+        "Two crops alternate between seasons"
       ],
       "correctAnswer": "Preferred as a reliable food source"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "Which evidence best supports deliberate plant use by hunter-gatherers?",
       "options": [
-        "Detoxified legumes used as a regular food",
         "Scattered remains of wild fruits in the local caves",
-        "Simple stone tools",
-        "Seasonal cave shelters"
+        "Land is already fully utilized by farmers",
+        "Detoxified legumes used as a regular food",
+        "Very large commercial farming estates only"
       ],
       "correctAnswer": "Detoxified legumes used as a regular food"
     },
@@ -150,10 +150,10 @@
       "anki": true,
       "question": "Detoxifying wild legumes for food shows",
       "options": [
-        "Successful adaptation to local resources",
+        "Insight and detailed knowledge of nature",
         "Dependence on imported food supplies from abroad",
-        "Rejection of plant foods",
-        "Use of industrial methods"
+        "Particular animals and particular plants",
+        "Successful adaptation to local resources"
       ],
       "correctAnswer": "Successful adaptation to local resources"
     }

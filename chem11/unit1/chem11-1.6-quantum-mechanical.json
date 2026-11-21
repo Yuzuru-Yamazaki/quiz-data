@@ -15,10 +15,10 @@
       "anki": true,
       "question": "The quantum mechanical description of the atom depends on two central concepts:",
       "options": [
-        "radioactivity and isotopes",
-        "gravity and electromagnetism",
+        "negatively charged particles deflected by electric fields",
+        "a series of individual lines (an atomic or line spectrum)",
         "the wave behavior of matter and the uncertainty principle",
-        "the plum-pudding model and quantization"
+        "the special stability of a completely filled 3d subshell"
       ],
       "correctAnswer": "the wave behavior of matter and the uncertainty principle"
     },
@@ -64,9 +64,9 @@
       "question": "According to the uncertainty principle, if the momentum of a particle is measured precisely (small $\\Delta p$), then the position of the particle:",
       "options": [
         "can be measured separately with equal precision",
+        "the special stability of a completely filled 3d subshell",
         "becomes correspondingly less precise (larger $\\Delta x$)",
-        "becomes completely fixed",
-        "also becomes more precise"
+        "different numbers of neutrons and different mass numbers"
       ],
       "correctAnswer": "becomes correspondingly less precise (larger $\\Delta x$)"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "The Heisenberg uncertainty principle has very significant consequences when it is applied to:",
       "options": [
-        "the speed of light",
-        "everyday objects in the macroscopic world",
-        "atomic and subatomic particles",
-        "the motion of planets"
+        "the motion of planets",
+        "the speed of light in the situation des",
+        "everyday objects in the macroscopic wor",
+        "atomic and subatomic particles"
       ],
       "correctAnswer": "atomic and subatomic particles"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "In quantum mechanics, the square of the wave function ($\\psi^2$) gives:",
       "options": [
-        "the speed of the electron",
         "the probability of finding an electron in a certain region of space",
-        "the charge of the electron",
-        "the exact location of the electron"
+        "Bohr's model, the quantum condition, and the uncertainty principle",
+        "degenerate (equal in energy), having the same $n$ and $\\ell$ values",
+        "conservation of mass, definite proportions, and multiple proportions"
       ],
       "correctAnswer": "the probability of finding an electron in a certain region of space"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "The region in which an electron is most likely to be found in an atom is called:",
       "options": [
-        "a shell",
         "a nucleus",
-        "a quantum",
-        "an orbital"
+        "an orbital",
+        "continuous",
+        "a quantum"
       ],
       "correctAnswer": "an orbital"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "The principal quantum number ($n$) describes the main energy level or shell of the electron and:",
       "options": [
-        "may be any fraction",
-        "may be any integer including zero",
-        "may be any positive integer, $n = 1, 2, 3, 4, \\dots$",
-        "is always equal to the charge"
+        "atoms of the same element may have different masses",
+        "in the outermost principal quantum level of an atom",
+        "a positively charged particle identical to the proton",
+        "may be any positive integer, $n = 1, 2, 3, 4, \\dots$"
       ],
       "correctAnswer": "may be any positive integer, $n = 1, 2, 3, 4, \\dots$"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "Which quantum number designates the shape of the atomic orbitals?",
       "options": [
-        "the magnetic quantum number ($m_\\ell$)",
+        "Dalton's, Thomson's, and Rutherford's models",
         "the principal quantum number ($n$)",
-        "the angular momentum quantum number ($\\ell$)",
-        "the spin quantum number ($m_s$)"
+        "the magnetic quantum number ($m_\\ell$)",
+        "the angular momentum quantum number ($\\ell$)"
       ],
       "correctAnswer": "the angular momentum quantum number ($\\ell$)"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "The magnetic quantum number ($m_\\ell$) is related to which property of an orbital?",
       "options": [
-        "the spin of the electron",
-        "the size of the orbital",
-        "the orientation of the orbital in space",
-        "the shape of the orbital"
+        "$1/12$ the mass of an atom of carbon-12",
+        "adding all the isotopic masses together",
+        "the plum-pudding model and quantization",
+        "the orientation of the orbital in space"
       ],
       "correctAnswer": "the orientation of the orbital in space"
     },
@@ -231,10 +231,10 @@
       "anki": true,
       "question": "The magnetic quantum number ($m_\\ell$) takes integral values in the range:",
       "options": [
-        "only 0",
-        "from 1 to $\\ell$",
-        "from 0 to $n-1$",
-        "from $-\\ell$ to $+\\ell$, including 0"
+        "from $-\\ell$ to $+\\ell$, including 0",
+        "energy is emitted in discrete quanta",
+        "the number of neutrons minus protons",
+        "$-1.602 \\times 10^{-19}$ kg C$^{-1}$"
       ],
       "correctAnswer": "from $-\\ell$ to $+\\ell$, including 0"
     },
@@ -243,9 +243,9 @@
       "anki": true,
       "question": "The number of possible $m_\\ell$ values (orbitals) for a given value of $\\ell$ is:",
       "options": [
-        "$\\ell^2$",
-        "$2n^2$",
         "$2\\ell$",
+        "$\\ell^2$",
+        "mass number",
         "$2\\ell + 1$"
       ],
       "correctAnswer": "$2\\ell + 1$"
@@ -255,10 +255,10 @@
       "anki": true,
       "question": "For every set of $n$, $\\ell$, and $m_\\ell$ values, the electron spin quantum number ($m_s$) can take the values:",
       "options": [
-        "$0$ or $1$",
-        "any integer",
         "$+1/2$ or $-1/2$",
-        "$+1$ or $-1$"
+        "$+1$ or $-1$",
+        "$\\lambda = h/mv$",
+        "any integer"
       ],
       "correctAnswer": "$+1/2$ or $-1/2$"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "According to the spin quantum number rule, how many electrons can a single atomic orbital accommodate?",
       "options": [
+        "integral multiples of $h\\nu$, such as $h\\nu$, $2h\\nu$, $3h\\nu$",
         "two electrons, one with $m_s = +1/2$ and one with $m_s = -1/2$",
-        "one electron only",
-        "an unlimited number",
-        "four electrons"
+        "a positive charge equal in magnitude to that of the electron",
+        "matter is composed of tiny, indivisible particles called atoms"
       ],
       "correctAnswer": "two electrons, one with $m_s = +1/2$ and one with $m_s = -1/2$"
     },
@@ -279,9 +279,9 @@
       "anki": true,
       "question": "The shape of all s orbitals is:",
       "options": [
-        "pointed along the x-axis",
-        "complex with four lobes",
-        "dumbbell-shaped",
+        "charged oil drops fell under the influence of gravity",
+        "a particle whose mass is 1840 times that of the proton",
+        "a positively charged particle identical to the proton",
         "spherical (spherically symmetrical about the nucleus)"
       ],
       "correctAnswer": "spherical (spherically symmetrical about the nucleus)"
@@ -292,8 +292,8 @@
       "question": "The p orbitals are arranged along three mutually perpendicular axes and are shaped like:",
       "options": [
         "pyramids",
-        "rings",
         "dumbbells",
+        "$0.112$ g",
         "spheres"
       ],
       "correctAnswer": "dumbbells"

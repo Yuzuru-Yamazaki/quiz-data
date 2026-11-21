@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Dicot crops store food in their",
       "options": [
+        "Sugar beet",
         "Cotyledons",
-        "Endosperm",
-        "Stems",
-        "Roots"
+        "Roots",
+        "Endosperm"
       ],
       "correctAnswer": "Cotyledons"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "The endosperm provides nutrition mainly as",
       "options": [
-        "Starch",
-        "Oil",
         "Fiber",
-        "Ash"
+        "Ash",
+        "Starch",
+        "Legume"
       ],
       "correctAnswer": "Starch"
     },
@@ -127,8 +127,8 @@
       "question": "Which are major oil crops?",
       "options": [
         "Sesame and sunflower",
-        "Teff and barley",
         "Cotton and sisal",
+        "Use of metal ploughs",
         "Sugarcane and beet"
       ],
       "correctAnswer": "Sesame and sunflower"
@@ -174,10 +174,10 @@
       "anki": true,
       "question": "Alfalfa is a",
       "options": [
+        "Sugar crop",
         "Forage crop",
-        "Oil crop",
         "Fiber crop",
-        "Sugar crop"
+        "Wild barley"
       ],
       "correctAnswer": "Forage crop"
     },
@@ -235,9 +235,9 @@
       "question": "Which is a sugar crop?",
       "options": [
         "Sugarcane",
-        "Cotton",
-        "Sesame",
-        "Alfalfa"
+        "Alfalfa",
+        "Fuel only",
+        "Sesame"
       ],
       "correctAnswer": "Sugarcane"
     },

@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Bos indicus cattle are commonly found in",
       "options": [
-        "Tropical countries",
         "Temperate zones",
-        "Polar regions",
-        "Desert oases only"
+        "Tropical countries",
+        "Desert oases only",
+        "Unexpected weather"
       ],
       "correctAnswer": "Tropical countries"
     },
@@ -42,9 +42,9 @@
       "anki": true,
       "question": "Cattle hides are processed into",
       "options": [
-        "Leather",
-        "Wool",
         "Mohair",
+        "14 days",
+        "Leather",
         "Silk"
       ],
       "correctAnswer": "Leather"
@@ -91,9 +91,9 @@
       "question": "Poultry are monogastric, meaning they have a",
       "options": [
         "Single stomach",
-        "Four stomachs",
+        "Seed from boll",
         "Two stomachs",
-        "No stomach"
+        "Four stomachs"
       ],
       "correctAnswer": "Single stomach"
     },
@@ -126,10 +126,10 @@
       "anki": true,
       "question": "Bees rely on flowers for",
       "options": [
-        "Pollen and nectar",
         "Leaves and stems",
+        "On high mountains",
         "Seeds and roots",
-        "Bark and sap"
+        "Pollen and nectar"
       ],
       "correctAnswer": "Pollen and nectar"
     },
@@ -150,9 +150,9 @@
       "anki": true,
       "question": "Drone bees are the colony's",
       "options": [
-        "Male reproductive bees",
         "Female worker bees",
-        "Egg-laying queens",
+        "Male reproductive bees",
+        "Slower, later maturity",
         "Sterile worker bees"
       ],
       "correctAnswer": "Male reproductive bees"
@@ -186,10 +186,10 @@
       "anki": true,
       "question": "Goats browse on",
       "options": [
+        "Sustainable resource use",
         "Shoots, twigs and leaves",
-        "Roots, tubers and bulbs",
-        "Seeds, grains and husks",
-        "Fish, insects and grubs"
+        "Fish, insects and grubs",
+        "Seeds, grains and husks"
       ],
       "correctAnswer": "Shoots, twigs and leaves"
     }

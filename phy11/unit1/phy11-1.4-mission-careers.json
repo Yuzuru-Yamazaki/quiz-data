@@ -15,22 +15,22 @@
       "anki": true,
       "question": "What is the mission of physics?",
       "options": [
-        "To study only the stars and planets in space",
-        "To build machines and devices for private companies only",
-        "To generate electricity for homes and industries",
-        "To advance science, engineering, and innovation throughout the world for the benefit of all, and in doing so serve society"
+        "To promote active participation in the design and implementation of the physics curriculum",
+        "Physics improves quality of life and drives technology and economic development in the situation described",
+        "To advance science, engineering, and innovation throughout the world for the benefit of al",
+        "An ordered series of steps to acquire knowledge based on experimental evidence in the situation described"
       ],
-      "correctAnswer": "To advance science, engineering, and innovation throughout the world for the benefit of all, and in doing so serve society"
+      "correctAnswer": "To advance science, engineering, and innovation throughout the world for the benefit of al"
     },
     {
       "id": 2,
       "anki": true,
       "question": "In serving society, physics aims to benefit all of humanity around the world. How does the mission of physics describe this goal?",
       "options": [
-        "Designing stronger buildings and bridges",
-        "Advancing science, engineering, and innovation for the benefit of all",
-        "Improving computer technology",
-        "Teaching science in schools"
+        "The most powerful space telescope, launched as the successor to Hubble",
+        "Lower atmospheric pressure at higher altitude lowers the boiling point",
+        "Heat water at different altitudes and record the boiling temperature",
+        "Advancing science, engineering, and innovation for the benefit of all"
       ],
       "correctAnswer": "Advancing science, engineering, and innovation for the benefit of all"
     },
@@ -39,10 +39,10 @@
       "anki": true,
       "question": "A physicist works to develop new inventions and improve technology for the benefit of everyone in the world. Which statement best matches the mission of physics?",
       "options": [
+        "Heat water at different altitudes and record the boiling temperature",
+        "Quantum entanglement and the no-cloning property of quantum states",
         "To serve society by advancing science, engineering, and innovation",
-        "To replace all other fields of science",
-        "To increase the profits of technology companies",
-        "To focus only on understanding the universe"
+        "Dome-shaped building with exhibits on science, technology and arts"
       ],
       "correctAnswer": "To serve society by advancing science, engineering, and innovation"
     },
@@ -75,9 +75,9 @@
       "anki": true,
       "question": "A space scientist who studies stars, galaxies, and planets using telescopes and spacecraft works in which career field?",
       "options": [
-        "Healthcare",
-        "Technology",
         "Meteorology",
+        "Technology",
+        "The rings of Saturn",
         "Space and astronomy"
       ],
       "correctAnswer": "Space and astronomy"
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "Which career field includes astrophysicists and astronomers?",
       "options": [
-        "Energy",
-        "Space and astronomy",
+        "Teaching",
+        "Sum of y-components",
         "Finance",
-        "Teaching"
+        "Space and astronomy"
       ],
       "correctAnswer": "Space and astronomy"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "The physics career that uses radiotherapy dosimetry to plan radiation treatment for cancer belongs to which field?",
       "options": [
-        "Teaching",
-        "Space and astronomy",
         "Healthcare (medical physics)",
-        "Energy"
+        "Space and astronomy",
+        "School graduation ceremonies",
+        "100 N toward the 200 N force"
       ],
       "correctAnswer": "Healthcare (medical physics)"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "Engineering relies on which physics principles to design machines and structures?",
       "options": [
-        "Weather forecasting and climate models",
-        "Genetic analysis and cellular biology",
+        "Mechanics, materials, and electromagnetism",
+        "Automobiles, airplanes, and space shuttles",
         "Astronomical observation and star charts",
-        "Mechanics, materials, and electromagnetism"
+        "Weather forecasting and climate models"
       ],
       "correctAnswer": "Mechanics, materials, and electromagnetism"
     },
@@ -267,8 +267,8 @@
       "anki": true,
       "question": "Which career field studies the earth's structure, earthquakes, and the earth's magnetic field?",
       "options": [
+        "m v over r",
         "Finance",
-        "Energy",
         "Geophysics",
         "Astronomy"
       ],
@@ -304,9 +304,9 @@
       "question": "Physicists working as research scientists in universities, national laboratories, and research institutes belong to which career field?",
       "options": [
         "Meteorology",
-        "Energy",
+        "Research science",
         "Technology",
-        "Research science"
+        "v squared over r"
       ],
       "correctAnswer": "Research science"
     },
@@ -316,9 +316,9 @@
       "question": "A physicist who analyzes large amounts of data in her work is best described as a what?",
       "options": [
         "Meteorologist",
-        "Data scientist",
-        "Astronomer",
-        "Radiologist"
+        "Radiologist",
+        "Total distance",
+        "Data scientist"
       ],
       "correctAnswer": "Data scientist"
     },
@@ -327,10 +327,10 @@
       "anki": true,
       "question": "Besides science and engineering, studying physics also prepares you for a career in which of the following areas?",
       "options": [
-        "Agriculture, forestry, and fishing",
-        "Culinary arts and hotel management",
-        "Graphic design and advertising",
-        "Finance (quantitative analysis), teaching, and science writing"
+        "Cool water at different altitudes and record the freezing point",
+        "Finance (quantitative analysis), teaching, and science writing",
+        "Inspect how we are feeling and how our thoughts are operating",
+        "The basic understanding necessary for new medical techniques"
       ],
       "correctAnswer": "Finance (quantitative analysis), teaching, and science writing"
     },

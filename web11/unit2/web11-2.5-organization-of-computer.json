@@ -15,9 +15,9 @@
       "anki": true,
       "question": "What is the CPU commonly called?",
       "options": [
-        "C. The eye of the computer",
-        "A. The brain of the computer",
         "B. The foot of the computer",
+        "A. The brain of the computer",
+        "Adjusting the monitor height",
         "D. The ear of the computer"
       ],
       "correctAnswer": "A. The brain of the computer"
@@ -39,10 +39,10 @@
       "anki": true,
       "question": "What is the function of the Arithmetic Logic Unit (ALU)?",
       "options": [
-        "A. Performs calculations",
-        "D. Plays sound",
+        "C. Displays images",
+        "Cooking for large events",
         "B. Prints documents",
-        "C. Displays images"
+        "A. Performs calculations"
       ],
       "correctAnswer": "A. Performs calculations"
     },
@@ -51,10 +51,10 @@
       "anki": true,
       "question": "What is the function of the Control Unit (CU)?",
       "options": [
-        "B. Stores long-term data",
-        "D. Types text",
+        "Room size mainframes and vacuum tubes",
         "A. Manages instructions and data flow",
-        "C. Provides power"
+        "Keyboard navigation and accessibility",
+        "Providing alternative text for images"
       ],
       "correctAnswer": "A. Manages instructions and data flow"
     },
@@ -75,10 +75,10 @@
       "anki": true,
       "question": "What is the main purpose of RAM?",
       "options": [
-        "D. Network routing",
         "A. Temporary storage while the computer is running",
-        "C. Physical support",
-        "B. Permanent backup"
+        "Programs that share customer data with advertisers",
+        "To speed up the internet connection of new devices",
+        "Because PCI slots are too large to fit inside a PC"
       ],
       "correctAnswer": "A. Temporary storage while the computer is running"
     },
@@ -87,10 +87,10 @@
       "anki": true,
       "question": "What type of memory is ROM?",
       "options": [
-        "A. Non-volatile memory",
-        "D. Cache only",
+        "B. Volatile memory",
+        "Transistors and diodes",
         "C. Temporary memory",
-        "B. Volatile memory"
+        "A. Non-volatile memory"
       ],
       "correctAnswer": "A. Non-volatile memory"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "What does ROM store?",
       "options": [
-        "C. Temporary web pages",
-        "D. Browser history",
+        "Every 2 hours, rest for 20 minutes with 20 candles lit",
+        "Computing, telecommunications, and information systems",
         "A. Permanent instructions such as boot-up instructions",
-        "B. User documents only"
+        "Each generation is smaller, faster, and more efficient"
       ],
       "correctAnswer": "A. Permanent instructions such as boot-up instructions"
     },
@@ -111,10 +111,10 @@
       "anki": true,
       "question": "Which of the following is used for long-term data storage?",
       "options": [
-        "B. CPU register",
-        "C. RAM",
-        "D. Cache",
-        "A. Solid-state drive (SSD)"
+        "A. Very limited space only",
+        "A. Solid-state drive (SSD)",
+        "Headphones and microphones",
+        "B. CPU register"
       ],
       "correctAnswer": "A. Solid-state drive (SSD)"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "Which of the following is an input device?",
       "options": [
-        "C. Printer",
+        "B. Monitor",
         "A. Keyboard",
-        "D. Speaker",
-        "B. Monitor"
+        "Voltage sag",
+        "D. Speaker"
       ],
       "correctAnswer": "A. Keyboard"
     },
@@ -147,10 +147,10 @@
       "anki": true,
       "question": "What is the function of the motherboard?",
       "options": [
-        "D. Plays music",
-        "B. Provides internet only",
-        "C. Prints pages",
-        "A. Connects and allows communication between all components"
+        "Design, develop, implement, and manage technology solutions",
+        "Programs that sell computers back to the buyer at full price",
+        "A. Connects and allows communication between all components",
+        "Every 20 minutes, take 20 steps and drink 20 sips of water"
       ],
       "correctAnswer": "A. Connects and allows communication between all components"
     },
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "What are expansion cards used for?",
       "options": [
-        "B. Reduce storage",
-        "D. Block input",
-        "C. Decrease speed",
-        "A. Enhance computer capabilities"
+        "Turn on the monitor power button",
+        "A. Enhance computer capabilities",
+        "The keyboard and the mouse ports",
+        "Design, development, and testing"
       ],
       "correctAnswer": "A. Enhance computer capabilities"
     },
@@ -171,10 +171,10 @@
       "anki": true,
       "question": "Which of the following is an example of an expansion card?",
       "options": [
-        "B. Keyboard",
         "C. Monitor",
+        "B. Keyboard",
         "A. Graphics card",
-        "D. Mouse"
+        "A. Decimal logic"
       ],
       "correctAnswer": "A. Graphics card"
     },
@@ -184,9 +184,9 @@
       "question": "What is the function of the bus system?",
       "options": [
         "A. Transfers data and instructions between components",
-        "C. Powers the monitor",
-        "D. Creates software",
-        "B. Stores user files"
+        "It increases the total weight of the electronic waste",
+        "External displays such as monitors, TVs and projectors",
+        "A card that generates and outputs images to a display"
       ],
       "correctAnswer": "A. Transfers data and instructions between components"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "What is an operating system?",
       "options": [
+        "An internal bus used to connect the processor and memory",
         "A. Software that manages resources and controls hardware",
-        "B. A type of printer",
-        "C. A keyboard layout",
-        "D. A storage device"
+        "The user-facing aspects of websites or web applications",
+        "Increased storage capacity and reduction in size and heat"
       ],
       "correctAnswer": "A. Software that manages resources and controls hardware"
     },
@@ -207,9 +207,9 @@
       "anki": true,
       "question": "What does software refer to in a computer system?",
       "options": [
-        "C. Only cables",
-        "B. Only the monitor",
-        "D. Only the case",
+        "It is a wireless standard for connecting peripherals",
+        "Small, fast, removable, rewritable, and long-lasting",
+        "Recycling programs, data wiping and donation options",
         "A. Programs and applications running on the computer"
       ],
       "correctAnswer": "A. Programs and applications running on the computer"
@@ -220,7 +220,7 @@
       "question": "True or False: RAM is a non-volatile memory.",
       "options": [
         "False",
-        "True"
+        "True."
       ],
       "correctAnswer": "False"
     },
@@ -230,19 +230,19 @@
       "question": "True or False: ROM stores permanent boot-up instructions.",
       "options": [
         "False",
-        "True"
+        "True."
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     },
     {
       "id": 20,
       "anki": true,
       "question": "True or False: The CPU consists of the ALU and the Control Unit.",
       "options": [
-        "True",
+        "True.",
         "False"
       ],
-      "correctAnswer": "True"
+      "correctAnswer": "True."
     }
   ]
 }

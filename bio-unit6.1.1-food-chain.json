@@ -26,10 +26,10 @@
     {
       "question": "What is the best way to trap and store energy from sunlight?",
       "options": [
-        "Building wind turbines",
-        "Using solar panels",
-        "Collecting rainwater",
-        "Growing plants and using the food they synthesize"
+        "Growing plants and using the food they synthesize",
+        "Unsaturated ones contain one or more double bonds",
+        "DNA polymerase, lysozyme, nitrogenase, and lipase",
+        "A naturally occurring biopolymer that is abundant"
       ],
       "correctAnswer": "Growing plants and using the food they synthesize",
       "id": 2
@@ -103,10 +103,10 @@
     {
       "question": "What is a carnivore?",
       "options": [
-        "An animal that feeds on both plants and animals",
-        "An animal that feeds on other animals",
+        "An animal that feeds on both plants",
         "An animal that feeds on plants",
-        "A plant that traps energy"
+        "An animal that feeds on other animals",
+        "A plant that traps energy in the situation des"
       ],
       "correctAnswer": "An animal that feeds on other animals",
       "id": 9
@@ -114,10 +114,10 @@
     {
       "question": "What is an omnivore?",
       "options": [
-        "An animal that feeds only on other animals",
         "An organism that feeds on dead matter",
         "An animal that feeds on both plants and animals",
-        "An animal that feeds only on plants"
+        "An animal that feeds only on other animals",
+        "Double helix made of two strands of nucleotides"
       ],
       "correctAnswer": "An animal that feeds on both plants and animals",
       "id": 10
@@ -125,10 +125,10 @@
     {
       "question": "The transfer of energy from plants through a chain of organisms is called what?",
       "options": [
-        "The food chain or food web",
-        "Decomposition",
         "Photosynthesis",
-        "Respiration"
+        "The food chain or food web",
+        "It increases water density",
+        "Female flower (Seed), oral"
       ],
       "correctAnswer": "The food chain or food web",
       "id": 11
@@ -159,9 +159,9 @@
       "question": "Where are producers located in a food chain?",
       "options": [
         "At the base or beginning",
-        "At the top",
+        "In the middle",
         "At every level",
-        "In the middle"
+        "To the poles of the cell"
       ],
       "correctAnswer": "At the base or beginning",
       "id": 14
@@ -181,9 +181,9 @@
       "question": "An organism that feeds on both plants and animals occupies how many positions in the food chain?",
       "options": [
         "More than one position",
-        "Exactly one position",
+        "Only ocean water moves",
         "All positions",
-        "No position"
+        "Exactly one position"
       ],
       "correctAnswer": "More than one position",
       "id": 16
@@ -191,10 +191,10 @@
     {
       "question": "What is a food web?",
       "options": [
+        "The discovery of Mendel's work and his laws",
+        "Primary source of energy for most organisms",
         "A single straight path of energy flow",
-        "A complex web of interconnected food chains",
-        "A method of farming",
-        "A type of ecosystem"
+        "A complex web of interconnected food chains"
       ],
       "correctAnswer": "A complex web of interconnected food chains",
       "id": 17
@@ -202,10 +202,10 @@
     {
       "question": "What does a food web create due to interconnected food chains?",
       "options": [
-        "A unidirectional flow",
-        "A linear path",
         "An interwoven or web-like structure",
-        "A circular pattern"
+        "Physics, chemistry, and mathematics",
+        "Emulsify them into smaller droplets",
+        "Processes and matures T-lymphocytes"
       ],
       "correctAnswer": "An interwoven or web-like structure",
       "id": 18
@@ -246,10 +246,10 @@
     {
       "question": "How many paths does a food web follow?",
       "options": [
-        "Multiple paths",
+        "Seedling stage",
         "A single path",
-        "One path only",
-        "No paths"
+        "Multiple paths",
+        "One path only"
       ],
       "correctAnswer": "Multiple paths",
       "id": 22
@@ -257,10 +257,10 @@
     {
       "question": "What is a trophic level?",
       "options": [
-        "The speed at which an organism eats",
-        "The type of habitat an organism lives in",
-        "The amount of biomass in an organism",
-        "The position of an organism in the order of receiving energy"
+        "Ammonifying bacteria (aerobic and anaerobic bacteria, fungi)",
+        "They cannot move by themselves and remain fixed at one place",
+        "The position of an organism in the order of receiving energy",
+        "They are crucial for transport of water from roots to leaves"
       ],
       "correctAnswer": "The position of an organism in the order of receiving energy",
       "id": 23
@@ -268,10 +268,10 @@
     {
       "question": "Trophic levels usually range from what number to what number?",
       "options": [
-        "1 to 6",
-        "1 to 2",
+        "Agriculture",
+        "2 to 5",
         "1 to 3 or 4",
-        "2 to 5"
+        "1 to 2"
       ],
       "correctAnswer": "1 to 3 or 4",
       "id": 24
@@ -280,9 +280,9 @@
       "question": "What organisms stand at the first trophic level?",
       "options": [
         "Carnivores",
-        "Omnivores",
+        "Plants (producers)",
         "Herbivores",
-        "Plants (producers)"
+        "Behind the kidneys"
       ],
       "correctAnswer": "Plants (producers)",
       "id": 25
@@ -290,10 +290,10 @@
     {
       "question": "What organisms stand at the second trophic level?",
       "options": [
-        "Carnivores",
-        "Herbivores that eat plants",
-        "Decomposers",
-        "Producers"
+        "It absorbs sugar from soil",
+        "Both actively or passively",
+        "Rhizome (underground stem)",
+        "Herbivores that eat plants"
       ],
       "correctAnswer": "Herbivores that eat plants",
       "id": 26
@@ -301,10 +301,10 @@
     {
       "question": "What organisms stand at the third trophic level?",
       "options": [
-        "Decomposers",
-        "Herbivores",
+        "Herbivores have stronger teeth",
+        "Both ends face the ion equally",
         "Carnivores that eat herbivores",
-        "Plants"
+        "Carbon, hydrogen, and nitrogen"
       ],
       "correctAnswer": "Carnivores that eat herbivores",
       "id": 27
@@ -312,10 +312,10 @@
     {
       "question": "What is a feeding level?",
       "options": [
-        "The order of consuming or eating one another",
-        "The nutritional value of food",
-        "The amount of food available",
-        "The time of day an organism feeds"
+        "False, genetics is still a theoretical field",
+        "The time of day an organism feeds",
+        "Chromosomes that have no genetic information",
+        "The order of consuming or eating one another"
       ],
       "correctAnswer": "The order of consuming or eating one another",
       "id": 28
@@ -323,10 +323,10 @@
     {
       "question": "At the first feeding level, which organisms consume plants?",
       "options": [
-        "Tertiary consumers",
-        "Decomposers",
+        "From living to non-living only",
+        "Secondary consumers",
         "Primary consumers (herbivores)",
-        "Secondary consumers"
+        "Tertiary consumers"
       ],
       "correctAnswer": "Primary consumers (herbivores)",
       "id": 29
@@ -345,10 +345,10 @@
     {
       "question": "What is the difference between trophic level and feeding level?",
       "options": [
-        "Feeding level is about energy, trophic level is about eating",
-        "Trophic level is about receiving energy, feeding level is about consuming others",
-        "They are exactly the same",
-        "There is no difference"
+        "Transposition and how genes could turn their physical characteristics on and off",
+        "The root bends downward while the shoot bends upward until the plant is upright",
+        "Transfer between stamen and pistil on one flower or between flowers on one plant",
+        "Trophic level is about receiving energy, feeding level is about consuming others"
       ],
       "correctAnswer": "Trophic level is about receiving energy, feeding level is about consuming others",
       "id": 31
@@ -368,9 +368,9 @@
       "question": "In Figure 6.2, which organism is the primary consumer at the first feeding level?",
       "options": [
         "Grass",
-        "Frog",
-        "Sun",
-        "Grasshopper"
+        "About 15 cm",
+        "Grasshopper",
+        "Frog"
       ],
       "correctAnswer": "Grasshopper",
       "id": 33
@@ -423,8 +423,8 @@
       "question": "In Figure 6.1, what does C2 represent?",
       "options": [
         "Secondary carnivore",
-        "Consumer 2 only",
         "Tertiary carnivore",
+        "It becomes the root",
         "Primary carnivore"
       ],
       "correctAnswer": "Secondary carnivore",

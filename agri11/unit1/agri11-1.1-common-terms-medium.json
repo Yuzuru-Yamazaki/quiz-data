@@ -18,10 +18,10 @@
       "anki": true,
       "question": "Agriculture differs from hunting and gathering by",
       "options": [
+        "Hand tools, manure and rainfed crop farming systems",
         "Deliberate cultivation of crops and rearing animals",
-        "Relying entirely on wild food sources for daily survival",
-        "Moving to find better pasture",
-        "Harvesting forest products only"
+        "Scattered remains of wild fruits in the local caves",
+        "Relying entirely on wild food sources for daily survival"
       ],
       "correctAnswer": "Deliberate cultivation of crops and rearing animals"
     },
@@ -42,10 +42,10 @@
       "anki": true,
       "question": "Religion may have influenced agriculture because plants and animals were",
       "options": [
-        "Required for the practice of religion",
-        "Easier to transport",
         "More productive than all the other crops",
-        "Resistant to all diseases"
+        "Resistant to all diseases",
+        "Required for the practice of religion",
+        "Egg size, wool length, hide thickness"
       ],
       "correctAnswer": "Required for the practice of religion"
     },
@@ -54,10 +54,10 @@
       "anki": true,
       "question": "Hunter-gatherers selected plants for food based on",
       "options": [
-        "Ease of harvesting and of transport",
+        "More fertile soils over a long time",
         "A very high fertilizer requirement each season",
-        "Short storage life",
-        "Uniform seed size"
+        "Ease of harvesting and of transport",
+        "Nomadic, ranching and mixed farming"
       ],
       "correctAnswer": "Ease of harvesting and of transport"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "In settled agriculture, soil bunds are constructed for",
       "options": [
+        "Seed selection",
         "Erosion control",
         "Water storage",
-        "Pest control",
-        "Seed selection"
+        "Production risk"
       ],
       "correctAnswer": "Erosion control"
     },
@@ -114,10 +114,10 @@
       "anki": true,
       "question": "Subsistence farming techniques are usually limited to",
       "options": [
+        "Bred to live alongside humans",
+        "District capacity in the situation described",
         "The capacity of the household",
-        "Village capacity",
-        "District capacity",
-        "The full capacity of the national system"
+        "The full capacity of the national syst"
       ],
       "correctAnswer": "The capacity of the household"
     },
@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Settled agriculture is supported by",
       "options": [
-        "The use of yield-enhancing practices",
-        "Frequent relocation",
+        "Highly fertile and well-watered land",
         "Extensive fallowing of the land only every year",
-        "Hunting and gathering"
+        "14 to 18 months after field planting",
+        "The use of yield-enhancing practices"
       ],
       "correctAnswer": "The use of yield-enhancing practices"
     },

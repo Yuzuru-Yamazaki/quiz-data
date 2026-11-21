@@ -138,10 +138,10 @@
       "anki": true,
       "question": "Gray leaf spot is a maize",
       "options": [
-        "Fungal disease",
-        "Insect pest",
         "Viral disease",
-        "Weed species"
+        "Weed species",
+        "2.5 m by 80 cm",
+        "Fungal disease"
       ],
       "correctAnswer": "Fungal disease"
     },
@@ -188,7 +188,7 @@
       "options": [
         "Bottom tip",
         "Top tip",
-        "Middle",
+        "Clay soils",
         "Husk edge"
       ],
       "correctAnswer": "Bottom tip"
@@ -198,10 +198,10 @@
       "anki": true,
       "question": "Earthing up in maize is done about",
       "options": [
-        "A month after planting",
+        "They are exactly equal",
         "A week after planting",
         "At flowering time",
-        "After harvest"
+        "A month after planting"
       ],
       "correctAnswer": "A month after planting"
     }

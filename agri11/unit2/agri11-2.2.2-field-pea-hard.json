@@ -19,9 +19,9 @@
       "question": "A farmer plants field pea on waterlogged soil and the crop yellows. The main problem is",
       "options": [
         "Poor root aeration",
+        "Weak against weeds",
         "Too much sunlight",
-        "Too much nitrogen",
-        "Too little seed"
+        "Too much nitrogen"
       ],
       "correctAnswer": "Poor root aeration"
     },
@@ -42,10 +42,10 @@
       "anki": true,
       "question": "A field pea crop shows white powdery growth on leaves. The likely disease is",
       "options": [
+        "Leaf wilt",
         "Powdery mildew",
         "Rust and smut",
-        "Leaf wilt",
-        "Root rot"
+        "Fenced ranches"
       ],
       "correctAnswer": "Powdery mildew"
     },
@@ -66,10 +66,10 @@
       "anki": true,
       "question": "Field pea should be rotated with cereals to reduce",
       "options": [
+        "Sugar, molasses, ethanol",
+        "Seed quality decline",
         "Pest and disease buildup",
-        "Soil nitrogen levels",
-        "Crop diversity loss",
-        "Seed quality decline"
+        "Soil nitrogen levels"
       ],
       "correctAnswer": "Pest and disease buildup"
     },
@@ -78,10 +78,10 @@
       "anki": true,
       "question": "A farmer harvests field pea when pods are yellow and dry to",
       "options": [
-        "Reduce seed moisture",
         "Increase seed size",
         "Improve pod color",
-        "Kill field pests"
+        "Capital accumulation",
+        "Reduce seed moisture"
       ],
       "correctAnswer": "Reduce seed moisture"
     },
@@ -102,10 +102,10 @@
       "anki": true,
       "question": "Field pea is a cool season crop, so it is best planted in the",
       "options": [
-        "Highlands",
         "Lowlands",
         "Deserts",
-        "Coasts"
+        "Highlands",
+        "Husk edge"
       ],
       "correctAnswer": "Highlands"
     },
@@ -150,10 +150,10 @@
       "anki": true,
       "question": "Field pea is planted at 30 cm rows to",
       "options": [
-        "Improve air and light",
-        "Reduce seed rate",
+        "Oil and textile fiber",
         "Increase seed depth",
-        "Delay maturity"
+        "Improve air and light",
+        "Reduce seed rate"
       ],
       "correctAnswer": "Improve air and light"
     },
@@ -198,10 +198,10 @@
       "anki": true,
       "question": "A farmer includes field pea in rotation mainly to",
       "options": [
+        "Deplete soil nitrogen",
         "Improve soil and income",
-        "Increase soil erosion",
-        "Reduce crop diversity",
-        "Deplete soil nitrogen"
+        "Raise output per animal",
+        "Reduce crop diversity"
       ],
       "correctAnswer": "Improve soil and income"
     }

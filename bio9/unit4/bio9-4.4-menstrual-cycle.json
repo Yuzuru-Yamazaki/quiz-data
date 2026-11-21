@@ -37,10 +37,10 @@
     {
       "question": "During menstruation, what is shed from the body?",
       "options": [
-        "The ovum",
+        "The menstrual cycle becomes irregular",
+        "Lake Tana barbs (Labeobarbus species)",
         "The entire uterine lining",
-        "Bits of uterine lining and some blood",
-        "Follicle cells"
+        "Bits of uterine lining and some blood"
       ],
       "correctAnswer": "Bits of uterine lining and some blood",
       "explanation": "Menstruation is the flow of bits of uterine lining and some blood from the uterus, through the cervix, and out of the vagina.",
@@ -64,7 +64,7 @@
         "Follicular phase",
         "Menstrual phase",
         "Luteal phase",
-        "Flow phase"
+        "To show visitors"
       ],
       "correctAnswer": "Follicular phase",
       "explanation": "The interval of follicle maturation before ovulation is the follicular phase of the cycle.",
@@ -110,7 +110,7 @@
       "question": "After ovulation, the ruptured follicle develops into a structure called the:",
       "options": [
         "Follicle",
-        "Cervix",
+        "DNA sequences",
         "Corpus luteum",
         "Endometrium"
       ],
@@ -121,10 +121,10 @@
     {
       "question": "The corpus luteum secretes which hormones?",
       "options": [
-        "Testosterone and estrogen",
+        "Providing immediate energy",
+        "Estrogens and progesterone",
         "LH and progesterone",
-        "FSH and LH",
-        "Estrogens and progesterone"
+        "Testosterone and estrogen"
       ],
       "correctAnswer": "Estrogens and progesterone",
       "explanation": "The corpus luteum secretes some estrogens and a lot of progesterone.",
@@ -133,10 +133,10 @@
     {
       "question": "Progesterone causes the uterine lining to:",
       "options": [
-        "Break down and shed",
-        "Stop producing mucus",
-        "Release eggs",
-        "Thicken and encourage blood vessel growth"
+        "Thicken and encourage blood vessel growth",
+        "A colourless gas that binds to hemoglobin",
+        "Low temperatures and high solar radiation",
+        "Taking medicine as prescribed by a doctor"
       ],
       "correctAnswer": "Thicken and encourage blood vessel growth",
       "explanation": "Progesterone causes the uterine lining to thicken and encourages blood vessels to grow through it, preparing the uterus for pregnancy.",
@@ -193,10 +193,10 @@
     {
       "question": "FSH stimulates which process in the ovarian cycle?",
       "options": [
-        "Breakdown of the corpus luteum",
         "Maturation of an ovarian follicle",
-        "Ovulation",
-        "Menstruation"
+        "Transportation of water in plants",
+        "Carbon, oxygen, and nitrogen only",
+        "Breakdown of the corpus luteum"
       ],
       "correctAnswer": "Maturation of an ovarian follicle",
       "explanation": "FSH stimulates maturation of an ovarian follicle.",
@@ -217,10 +217,10 @@
     {
       "question": "Estrogen is primarily responsible for:",
       "options": [
-        "Thickening the uterine lining after ovulation",
-        "Triggering ovulation",
         "Development of female secondary sexual characteristics",
-        "Stimulating FSH release"
+        "Establish biological relationships between individuals",
+        "Thickening the uterine lining after ovulation",
+        "Folic acid supplementation before and during pregnancy"
       ],
       "correctAnswer": "Development of female secondary sexual characteristics",
       "explanation": "Estrogen triggers development of female secondary sexual characteristics and maintains the lining of the reproductive tract.",
@@ -229,10 +229,10 @@
     {
       "question": "Menopause occurs when:",
       "options": [
-        "Pregnancy is achieved",
-        "Ovulation stops temporarily",
-        "The menstrual cycle becomes irregular",
-        "All follicles in the ovaries have been released or disintegrated"
+        "Divide the objective magnification by the eyepiece magnification",
+        "By improving crop yields and developing disease-resistant plants",
+        "All follicles in the ovaries have been released or disintegrated",
+        "Storage of genetic material (DNA) and control of cell activities"
       ],
       "correctAnswer": "All follicles in the ovaries have been released or disintegrated",
       "explanation": "Menopause occurs when all the follicles in the ovaries have either been released during menstrual cycles or have disintegrated as a result of aging.",
@@ -253,10 +253,10 @@
     {
       "question": "A follicle is best described as:",
       "options": [
-        "The lining of the uterus",
         "A group of epithelial cells surrounding a developing egg cell",
-        "A hormone released by the pituitary",
-        "The duct that carries eggs to the uterus"
+        "Facilitated diffusion requires ATP; simple diffusion does not",
+        "A habitat is where an organism lives; a niche is what it does",
+        "To prevent air bubbles from being trapped under the coverslip"
       ],
       "correctAnswer": "A group of epithelial cells surrounding a developing egg cell",
       "explanation": "A follicle is a group of epithelial cells that surround a developing egg cell.",
@@ -277,10 +277,10 @@
     {
       "question": "The vagina is best described as:",
       "options": [
-        "A sterile environment",
-        "An organ that requires regular internal cleaning",
-        "An organ that produces menstrual blood",
-        "A self-cleaning organ that should only be rinsed externally with water"
+        "A self-cleaning organ that should only be rinsed externally with water",
+        "It shrinks and crenates (becomes shriveled) as water leaves by osmosis",
+        "Genus capitalized, species in lowercase, both italicized or underlined",
+        "Storage of water, nutrients, and waste; maintenance of turgor pressure"
       ],
       "correctAnswer": "A self-cleaning organ that should only be rinsed externally with water",
       "explanation": "The vagina is a self-cleaning organ. Only water should be used to rinse the vulva externally.",
@@ -289,9 +289,9 @@
     {
       "question": "A woman entering menopause is known only in humans and which other species?",
       "options": [
+        "Presence of cell wall",
         "Chimpanzees",
         "Two species of whales",
-        "Elephants",
         "Dogs and cats"
       ],
       "correctAnswer": "Two species of whales",

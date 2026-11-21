@@ -47,9 +47,9 @@
       "question": "What is a group of individuals of the same species living in a particular area called?",
       "options": [
         "Ecosystem",
-        "Community",
+        "Queen bees",
         "Population",
-        "Biome"
+        "Community"
       ],
       "answer": 2,
       "anki": true
@@ -146,9 +146,9 @@
       "question": "Which type of organism cannot make its own food and must obtain energy by consuming other organisms?",
       "options": [
         "Heterotroph",
-        "Producer",
-        "Autotroph",
-        "Saprotroph"
+        "Saprotroph",
+        "Breast milk",
+        "Autotroph"
       ],
       "answer": 0,
       "anki": true
@@ -200,9 +200,9 @@
     {
       "question": "Organisms that break down dead organic matter into simpler substances are called:",
       "options": [
-        "Consumers",
-        "Producers",
         "Herbivores",
+        "Producers",
+        "Hepatitis A",
         "Decomposers"
       ],
       "answer": 3,
@@ -211,9 +211,9 @@
     {
       "question": "Which term refers to decomposers like bacteria and fungi that feed on dead organic matter?",
       "options": [
-        "Herbivores",
         "Carnivores",
-        "Omnivores",
+        "Skin rashes",
+        "Herbivores",
         "Saprotrophs"
       ],
       "answer": 3,
@@ -222,12 +222,12 @@
     {
       "question": "Which abiotic factor is the primary energy source for nearly all ecosystems on Earth?",
       "options": [
-        "Sunlight",
-        "Soil",
         "Wind",
+        "Sunlight",
+        "Tanzania",
         "Water"
       ],
-      "answer": 0,
+      "answer": 1,
       "anki": true
     },
     {
@@ -266,23 +266,23 @@
     {
       "question": "Which of the following best describes the relationship between a habitat and a niche?",
       "options": [
+        "Add the eyepiece magnification to the objective magnification",
+        "A habitat is where an organism lives; a niche is what it does",
         "A niche is where an organism lives; a habitat is what it does",
-        "They mean the same thing",
-        "A habitat is the role of a species in a community",
-        "A habitat is where an organism lives; a niche is what it does"
+        "A habitat is the role of a species in a community"
       ],
-      "answer": 3,
+      "answer": 1,
       "anki": true
     },
     {
       "question": "Which statement about decomposers is correct?",
       "options": [
-        "They produce food through photosynthesis",
         "They recycle nutrients by breaking down dead matter",
         "They are always at the top of the food chain",
-        "They feed only on living organisms"
+        "Offspring are genetically different from the parent",
+        "They produce food through photosynthesis"
       ],
-      "answer": 1,
+      "answer": 0,
       "anki": true
     }
   ]

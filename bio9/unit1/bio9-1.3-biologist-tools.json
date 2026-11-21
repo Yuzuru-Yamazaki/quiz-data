@@ -51,9 +51,9 @@
       "anki": true,
       "question": "What is the function of a Petri dish in a biology laboratory?",
       "options": [
-        "To cut specimens",
         "To culture microorganisms",
         "To heat chemicals",
+        "Communicating the results",
         "To measure temperature"
       ],
       "correctAnswer": "To culture microorganisms"
@@ -63,10 +63,10 @@
       "anki": true,
       "question": "Which tool provides a flame for heating and sterilizing equipment in the laboratory?",
       "options": [
-        "Oven",
-        "Hot plate",
+        "Bunsen burner",
+        "Golden jackal",
         "Incubator",
-        "Bunsen burner"
+        "Hot plate"
       ],
       "correctAnswer": "Bunsen burner"
     },
@@ -99,10 +99,10 @@
       "anki": true,
       "question": "What is the function of a scalpel in a biology laboratory?",
       "options": [
-        "To measure liquids",
         "To cut tissues or specimens",
-        "To stir solutions",
-        "To observe cells"
+        "Five-kingdom classification",
+        "To measure liquids",
+        "To stir solutions"
       ],
       "correctAnswer": "To cut tissues or specimens"
     },
@@ -123,10 +123,10 @@
       "anki": true,
       "question": "What is the function of a flask (Erlenmeyer flask) in a laboratory?",
       "options": [
-        "To observe specimens",
-        "To cut tissues",
+        "They are closely related and share a recent common ancestor",
+        "To control the amount of light passing through the specimen",
         "To heat and mix liquids, especially when swirling is needed",
-        "To measure precise volumes"
+        "The information and measurements gathered from observations"
       ],
       "correctAnswer": "To heat and mix liquids, especially when swirling is needed"
     },
@@ -135,10 +135,10 @@
       "anki": true,
       "question": "Which tool is used to measure the volume of liquids accurately?",
       "options": [
-        "Test tube",
         "Measuring cylinder",
         "Petri dish",
-        "Beaker"
+        "Fruits and berries",
+        "Test tube"
       ],
       "correctAnswer": "Measuring cylinder"
     },
@@ -147,8 +147,8 @@
       "anki": true,
       "question": "What is the function of a thermometer in a biology laboratory?",
       "options": [
-        "To measure mass",
         "To measure pressure",
+        "Stop the investigation",
         "To measure temperature",
         "To measure volume"
       ],
@@ -159,10 +159,10 @@
       "anki": true,
       "question": "Which tool is used by biologists to magnify objects that are larger than what a microscope can handle but still need magnification?",
       "options": [
-        "Spectrophotometer",
-        "Telescope",
-        "Centrifuge",
-        "Hand lens or magnifying glass"
+        "Hand lens or magnifying glass",
+        "Both remove only solid wastes",
+        "They cannot interbreed at all",
+        "Spectrophotometer"
       ],
       "correctAnswer": "Hand lens or magnifying glass"
     },
@@ -172,9 +172,9 @@
       "question": "What is the purpose of a notebook in field biology?",
       "options": [
         "To record observations, data, and notes",
-        "To navigate",
-        "To measure distance",
-        "To store specimens"
+        "They absorb nutrients from the air only",
+        "Add acid to water slowly while stirring",
+        "Not be able to release energy from food"
       ],
       "correctAnswer": "To record observations, data, and notes"
     },
@@ -183,10 +183,10 @@
       "anki": true,
       "question": "Which tool is used by field biologists to determine their exact location on Earth?",
       "options": [
-        "Thermometer",
-        "Map",
-        "Compass",
-        "GPS (Global Positioning System)"
+        "Prokaryotes are 1-10 mm in size",
+        "Bacteria do not have cell walls",
+        "GPS (Global Positioning System)",
+        "The movement of tectonic plates"
       ],
       "correctAnswer": "GPS (Global Positioning System)"
     },
@@ -195,10 +195,10 @@
       "anki": true,
       "question": "What is the function of a collecting net in field biology?",
       "options": [
-        "To cut plant samples",
-        "To dig soil",
+        "Pneumonia and conjunctivitis in the newborn",
+        "A naming system using only the species name",
         "To catch insects or small aquatic organisms",
-        "To measure temperature"
+        "Trees → shrubs → grasses → lichens → mosses"
       ],
       "correctAnswer": "To catch insects or small aquatic organisms"
     },
@@ -219,10 +219,10 @@
       "anki": true,
       "question": "What is the function of a slide and cover slip in microscopy?",
       "options": [
-        "To heat the specimen",
-        "To cut the specimen",
-        "To stain the specimen",
-        "To mount the specimen for observation under a microscope"
+        "A hypothesis is a proven fact, while a theory is a guess",
+        "Both involve the study of matter and its transformations",
+        "To mount the specimen for observation under a microscope",
+        "Rinse the affected area with plenty of water immediately"
       ],
       "correctAnswer": "To mount the specimen for observation under a microscope"
     },
@@ -243,10 +243,10 @@
       "anki": true,
       "question": "What is a dissecting pan used for?",
       "options": [
+        "It consists only of pioneer species",
         "Holding specimens during dissection",
-        "Culturing bacteria",
-        "Measuring volume",
-        "Heating chemicals"
+        "Measuring precise volumes of liquid",
+        "They are involved in photosynthesis"
       ],
       "correctAnswer": "Holding specimens during dissection"
     },
@@ -256,9 +256,9 @@
       "question": "Which tool is used to hold a test tube while heating?",
       "options": [
         "Tripod",
-        "Clamp",
-        "Test tube holder",
-        "Wire gauze"
+        "Chitin cell wall",
+        "Wire gauze",
+        "Test tube holder"
       ],
       "correctAnswer": "Test tube holder"
     },
@@ -267,10 +267,10 @@
       "anki": true,
       "question": "What is the wire gauze used for in a laboratory setup?",
       "options": [
-        "To hold test tubes",
-        "To measure temperature",
-        "To filter liquids",
-        "To distribute heat evenly when heating a beaker or flask"
+        "A lower temperature is needed for viable sperm formation",
+        "It moves substances against their concentration gradient",
+        "To distribute heat evenly when heating a beaker or flask",
+        "A hypothesis is a proven fact, while a theory is a guess"
       ],
       "correctAnswer": "To distribute heat evenly when heating a beaker or flask"
     },
@@ -279,10 +279,10 @@
       "anki": true,
       "question": "Which tool is used to stir liquids in a laboratory?",
       "options": [
-        "Dropper",
-        "Forceps",
+        "Stirring rod",
         "Scalpel",
-        "Stirring rod"
+        "Forceps",
+        "2 to 4 weeks"
       ],
       "correctAnswer": "Stirring rod"
     },
@@ -291,10 +291,10 @@
       "anki": true,
       "question": "What is the function of a tripod in a laboratory?",
       "options": [
-        "To store test tubes",
-        "To measure liquid volume",
-        "To support a wire gauze or apparatus during heating",
-        "To hold a microscope"
+        "They may show some life characteristics but not all",
+        "All living things are composed of one or more cells",
+        "To provide illumination so the specimen can be seen",
+        "To support a wire gauze or apparatus during heating"
       ],
       "correctAnswer": "To support a wire gauze or apparatus during heating"
     },
@@ -303,10 +303,10 @@
       "anki": true,
       "question": "Which tool is used by field biologists to collect plant samples?",
       "options": [
-        "Plant press",
-        "Centrifuge",
         "Microscope",
-        "Balance"
+        "Plant press",
+        "Sensitivity",
+        "Centrifuge"
       ],
       "correctAnswer": "Plant press"
     },
@@ -315,10 +315,10 @@
       "anki": true,
       "question": "What is a quadrat used for in field biology?",
       "options": [
-        "Collecting insects",
+        "How organs function, how diseases develop, and how to maintain health",
+        "To provide a medium for chemical reactions and support for organelles",
         "Sampling and studying the distribution of organisms in a defined area",
-        "Navigating in the field",
-        "Measuring temperature"
+        "Addressing micronutrient deficiencies through locally available foods"
       ],
       "correctAnswer": "Sampling and studying the distribution of organisms in a defined area"
     },
@@ -339,10 +339,10 @@
       "anki": true,
       "question": "What is the function of a magnifying hand lens in field biology?",
       "options": [
-        "To collect water samples",
         "To observe small details of specimens in the field",
-        "To measure distance",
-        "To record GPS coordinates"
+        "Iodine-rich foods such as iodized salt and seafood",
+        "No visible structures because they are transparent",
+        "Sexual reproduction does not involve fertilization"
       ],
       "correctAnswer": "To observe small details of specimens in the field"
     },
@@ -351,8 +351,8 @@
       "anki": true,
       "question": "Which tool is used to hold a specimen slide on the stage of a microscope?",
       "options": [
+        "Breast milk",
         "Stage clips",
-        "Forceps",
         "Scalpel",
         "Cover slip"
       ],
@@ -363,10 +363,10 @@
       "anki": true,
       "question": "What is the function of a clamp and stand in the laboratory?",
       "options": [
+        "secondary consumer → primary consumer → producer",
+        "Ask the teacher for instructions before starting",
         "To hold and support apparatus during experiments",
-        "To observe cells",
-        "To measure volumes",
-        "To heat specimens"
+        "Point the open end away from yourself and others"
       ],
       "correctAnswer": "To hold and support apparatus during experiments"
     }
