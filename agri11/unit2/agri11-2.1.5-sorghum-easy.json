@@ -1,6 +1,6 @@
 {
   "title": "2.1.5 Sorghum (Easy)",
-  "description": "Origin, uses, adaptation and basic production facts for sorghum",
+  "description": "Sorghum origin, uses, adaptation and basic management",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -19,6 +19,18 @@
       "question": "Sorghum originated in",
       "options": [
         "Africa",
+        "Asia",
+        "Europe",
+        "America"
+      ],
+      "correctAnswer": "Africa"
+    },
+    {
+      "id": 2,
+      "anki": true,
+      "question": "Sorghum is a staple food crop in the drier parts of",
+      "options": [
+        "Africa",
         "Europe",
         "America",
         "Australia"
@@ -26,172 +38,160 @@
       "correctAnswer": "Africa"
     },
     {
-      "id": 2,
-      "anki": true,
-      "question": "Sorghum is mainly grown in the",
-      "options": [
-        "Lowlands",
-        "Highlands",
-        "Coasts",
-        "Deserts"
-      ],
-      "correctAnswer": "Lowlands"
-    },
-    {
       "id": 3,
       "anki": true,
-      "question": "Sorghum is known for its tolerance to",
-      "options": [
-        "Drought",
-        "Frost",
-        "Flood",
-        "Salinity"
-      ],
-      "correctAnswer": "Drought"
-    },
-    {
-      "id": 4,
-      "anki": true,
-      "question": "Sorghum grain is used to make",
-      "options": [
-        "Injera",
-        "Pasta",
-        "Macaroni",
-        "Spaghetti"
-      ],
-      "correctAnswer": "Injera"
-    },
-    {
-      "id": 5,
-      "anki": true,
-      "question": "Sorghum stalks are used for",
-      "options": [
-        "Construction",
-        "Cooking oil",
-        "Textile fiber",
-        "Sugar syrup"
-      ],
-      "correctAnswer": "Construction"
-    },
-    {
-      "id": 6,
-      "anki": true,
-      "question": "Sorghum grain is also used as",
+      "question": "Sorghum stalk is used as",
       "options": [
         "Animal feed",
         "Cooking oil",
         "Textile fiber",
-        "Building stone"
+        "Sugar syrup"
       ],
       "correctAnswer": "Animal feed"
     },
     {
-      "id": 7,
+      "id": 4,
       "anki": true,
-      "question": "Sorghum grows at altitudes of",
+      "question": "Sorghum stalk is used for construction of",
       "options": [
-        "400 to 2200 m",
+        "Fences and houses",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
+      ],
+      "correctAnswer": "Fences and houses"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Most sorghum areas in Ethiopia are at",
+      "options": [
+        "500 to 1500 m",
         "1800 to 3000 m",
         "2200 to 3000 m",
-        "500 to 1500 m"
+        "400 to 1000 m"
       ],
-      "correctAnswer": "400 to 2200 m"
+      "correctAnswer": "500 to 1500 m"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Sorghum gives reasonable yields on soils",
+      "options": [
+        "Too poor for other crops",
+        "Used only for rice",
+        "With deep standing water",
+        "With high salinity only"
+      ],
+      "correctAnswer": "Too poor for other crops"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Suitable soils for sorghum are",
+      "options": [
+        "Well-drained fertile clay soils",
+        "Waterlogged sandy field soils",
+        "Saline and rocky field soils",
+        "Shallow acidic hillside soils"
+      ],
+      "correctAnswer": "Well-drained fertile clay soils"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "The recommended sorghum seed rate is",
+      "question": "Sorghum is well adapted to",
       "options": [
-        "10 to 12 kg/ha",
-        "80 to 100 kg/ha",
-        "100 to 125 kg/ha",
-        "150 to 175 kg/ha"
+        "Drier parts of the country",
+        "Flooded lowland riverbanks",
+        "Coastal wetland swamps",
+        "High frost mountain zones"
       ],
-      "correctAnswer": "10 to 12 kg/ha"
+      "correctAnswer": "Drier parts of the country"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "Sorghum row spacing is usually",
+      "question": "Sorghum can remain dormant during",
       "options": [
-        "75 cm",
-        "15 cm",
-        "18 cm",
-        "25 cm"
+        "Dry periods",
+        "Harvest periods",
+        "Storage periods",
+        "Flood periods"
       ],
-      "correctAnswer": "75 cm"
+      "correctAnswer": "Dry periods"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "The usual fertilizer rate for sorghum is",
+      "question": "Sorghum is often called the",
       "options": [
-        "41 kg N and 20 kg P",
-        "60 kg N and 26 kg P",
-        "45 kg N and 25 kg P",
-        "32 kg N and 10 kg P"
+        "Camel crop",
+        "Queen crop",
+        "King crop",
+        "Rice crop"
       ],
-      "correctAnswer": "41 kg N and 20 kg P"
+      "correctAnswer": "Camel crop"
     },
     {
       "id": 11,
       "anki": true,
-      "question": "The average national sorghum yield is",
+      "question": "Sorghum is often rotated with haricot bean, soybean, sesame and",
       "options": [
-        "24.5 quintals/ha",
-        "32.5 quintals/ha",
-        "19 quintals/ha",
-        "14.6 quintals/ha"
+        "Cotton",
+        "Rice",
+        "Tea",
+        "Coffee"
       ],
-      "correctAnswer": "24.5 quintals/ha"
+      "correctAnswer": "Cotton"
     },
     {
       "id": 12,
       "anki": true,
-      "question": "Striga is a",
+      "question": "Sorghum soil is cultivated",
       "options": [
-        "Parasitic weed",
-        "Fungal disease",
-        "Insect pest",
-        "Viral disease"
+        "2 or 3 times",
+        "Once only",
+        "4 or 5 times",
+        "6 or 7 times"
       ],
-      "correctAnswer": "Parasitic weed"
+      "correctAnswer": "2 or 3 times"
     },
     {
       "id": 13,
       "anki": true,
-      "question": "Sorghum smut is a",
+      "question": "The common sorghum planting time is",
       "options": [
-        "Viral disease",
-        "Fungal disease",
-        "Weed species",
-        "Wild relatives"
+        "March to May",
+        "June to July",
+        "September to October",
+        "December to January"
       ],
-      "correctAnswer": "Fungal disease"
+      "correctAnswer": "March to May"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "Sorghum stalk borer is an",
+      "question": "Sorghum seeds are sown at a depth of about",
       "options": [
-        "Insect pest",
-        "Fungal disease",
-        "Viral disease",
-        "Weed species"
+        "2.5 cm",
+        "5 cm",
+        "10 cm",
+        "15 cm"
       ],
-      "correctAnswer": "Insect pest"
+      "correctAnswer": "2.5 cm"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "A bird that damages sorghum is",
+      "question": "The national average sorghum yield is",
       "options": [
-        "Quelea",
-        "Aphid",
-        "Termite",
-        "Cutworm"
+        "23 quintals/ha",
+        "14.6 quintals/ha",
+        "19 quintals/ha",
+        "24.5 quintals/ha"
       ],
-      "correctAnswer": "Quelea"
+      "correctAnswer": "23 quintals/ha"
     }
   ]
 }

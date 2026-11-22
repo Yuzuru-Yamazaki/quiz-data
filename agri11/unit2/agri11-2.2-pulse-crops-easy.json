@@ -1,6 +1,6 @@
 {
   "title": "2.2 Pulse Crops: General (Easy)",
-  "description": "Characteristics, importance and basic production facts of pulse crops",
+  "description": "Definition, uses and soil-fertility role of pulse crops",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,163 +16,55 @@
     {
       "id": 1,
       "anki": true,
-      "question": "Pulses are the seeds of",
+      "question": "Pulses are seeds of",
       "options": [
-        "Legumes",
-        "Cereals",
+        "Legume crops",
+        "Cereal crops",
         "Oil crops",
         "Fiber crops"
       ],
-      "correctAnswer": "Legumes"
+      "correctAnswer": "Legume crops"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "Pulses are especially rich in",
+      "question": "Pulses are grown mainly for their",
       "options": [
-        "D and B",
+        "Edible seeds",
+        "Edible roots",
+        "Edible leaves",
+        "Edible stems"
+      ],
+      "correctAnswer": "Edible seeds"
+    },
+    {
+      "id": 3,
+      "anki": true,
+      "question": "Dry pulse seeds are rich in",
+      "options": [
         "Protein",
+        "Oil",
         "Starch",
         "Fiber"
       ],
       "correctAnswer": "Protein"
     },
     {
-      "id": 3,
-      "anki": true,
-      "question": "Pulse plants have",
-      "options": [
-        "Two cotyledons",
-        "One cotyledon",
-        "No cotyledon",
-        "Three cotyledons"
-      ],
-      "correctAnswer": "Two cotyledons"
-    },
-    {
       "id": 4,
       "anki": true,
-      "question": "Pulse plants form root",
+      "question": "Immature pulse pods are used as",
       "options": [
-        "Nodules",
-        "Tubers",
-        "Bulbs",
-        "Rhizomes"
+        "Vegetables",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
       ],
-      "correctAnswer": "Nodules"
+      "correctAnswer": "Vegetables"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Root nodules of pulses contain",
-      "options": [
-        "Viral particles",
-        "Only draft animals",
-        "Rhizobium bacteria",
-        "Nematode eggs"
-      ],
-      "correctAnswer": "Rhizobium bacteria"
-    },
-    {
-      "id": 6,
-      "anki": true,
-      "question": "Rhizobium bacteria fix",
-      "options": [
-        "Atmospheric oxygen",
-        "Alpha-linolenic acid",
-        "Soil phosphorus",
-        "Atmospheric nitrogen"
-      ],
-      "correctAnswer": "Atmospheric nitrogen"
-    },
-    {
-      "id": 7,
-      "anki": true,
-      "question": "Pulses are important in crop",
-      "options": [
-        "Rotation",
-        "Breeding",
-        "Storage",
-        "Marketing"
-      ],
-      "correctAnswer": "Rotation"
-    },
-    {
-      "id": 8,
-      "anki": true,
-      "question": "A major pulse crop in Ethiopia is",
-      "options": [
-        "Wheat",
-        "Barley",
-        "Marketing",
-        "Faba bean"
-      ],
-      "correctAnswer": "Faba bean"
-    },
-    {
-      "id": 9,
-      "anki": true,
-      "question": "Another major pulse crop is",
-      "options": [
-        "Groundnut",
-        "Sorghum",
-        "Millet",
-        "Field pea"
-      ],
-      "correctAnswer": "Field pea"
-    },
-    {
-      "id": 10,
-      "anki": true,
-      "question": "Haricot bean is a",
-      "options": [
-        "Pulse crop",
-        "Cereal crop",
-        "Oil crop",
-        "Fiber crop"
-      ],
-      "correctAnswer": "Pulse crop"
-    },
-    {
-      "id": 11,
-      "anki": true,
-      "question": "Pulses are harvested for their",
-      "options": [
-        "Seeds",
-        "Roots",
-        "Leaves",
-        "Stems"
-      ],
-      "correctAnswer": "Seeds"
-    },
-    {
-      "id": 12,
-      "anki": true,
-      "question": "Pulse seeds are borne in",
-      "options": [
-        "Pods",
-        "Heads",
-        "Cobs",
-        "Cones"
-      ],
-      "correctAnswer": "Pods"
-    },
-    {
-      "id": 13,
-      "anki": true,
-      "question": "Pulses can be grown in rotation with",
-      "options": [
-        "Cereals",
-        "Oil crops",
-        "Fiber crops",
-        "Root crops"
-      ],
-      "correctAnswer": "Cereals"
-    },
-    {
-      "id": 14,
-      "anki": true,
-      "question": "Pulse residues can be used as",
+      "question": "Pulses are also a source of",
       "options": [
         "Animal feed",
         "Cooking oil",
@@ -182,16 +74,124 @@
       "correctAnswer": "Animal feed"
     },
     {
+      "id": 6,
+      "anki": true,
+      "question": "Pulse crops are",
+      "options": [
+        "Dicots",
+        "Monocots",
+        "Algae",
+        "Fungi"
+      ],
+      "correctAnswer": "Dicots"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Many pulses assist with",
+      "options": [
+        "Nitrogen fixation",
+        "Lime formation",
+        "Pesticide making",
+        "Oil refining"
+      ],
+      "correctAnswer": "Nitrogen fixation"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Pulses fix atmospheric nitrogen through their",
+      "options": [
+        "Root nodules",
+        "Leaf heads",
+        "Flower petals",
+        "Seed coats"
+      ],
+      "correctAnswer": "Root nodules"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Nitrogen fixed by pulses is available for",
+      "options": [
+        "Subsequent crops",
+        "Previous crops only",
+        "Weeds only",
+        "Storage pests"
+      ],
+      "correctAnswer": "Subsequent crops"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Pulses are used in rotations to improve",
+      "options": [
+        "Soil fertility",
+        "Soil salinity",
+        "Soil color",
+        "Stone content"
+      ],
+      "correctAnswer": "Soil fertility"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Mixed cropping with cereals can improve the yield of the",
+      "options": [
+        "Cereal crop",
+        "Pulse crop only",
+        "Weed crop",
+        "Fiber crop"
+      ],
+      "correctAnswer": "Cereal crop"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The input usually skipped in Ethiopian pulse production is",
+      "options": [
+        "Mineral fertilizer",
+        "Animal manure",
+        "Manual weeding",
+        "Crop rotation"
+      ],
+      "correctAnswer": "Mineral fertilizer"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Organic fertilizer used for pulses includes",
+      "options": [
+        "Animal manure",
+        "Lime only",
+        "Pesticide only",
+        "Sugar only"
+      ],
+      "correctAnswer": "Animal manure"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Soil cultivation for pulses is generally",
+      "options": [
+        "Minimal",
+        "Very deep",
+        "Flooded",
+        "Repeated five times"
+      ],
+      "correctAnswer": "Minimal"
+    },
+    {
       "id": 15,
       "anki": true,
-      "question": "Pulses improve soil fertility by adding",
+      "question": "The major pulse crops in Ethiopia are",
       "options": [
-        "Nitrogen",
-        "Phosphorus",
-        "Potassium",
-        "Calcium"
+        "Faba bean, field pea, haricot bean",
+        "Maize, wheat, barley, teff, sorghum",
+        "Sesame, cotton, soybean, sunflower",
+        "Rice, millet, oats, rye, triticale"
       ],
-      "correctAnswer": "Nitrogen"
+      "correctAnswer": "Faba bean, field pea, haricot bean"
     }
   ]
 }

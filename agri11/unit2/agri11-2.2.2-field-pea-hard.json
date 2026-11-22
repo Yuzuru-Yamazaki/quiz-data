@@ -1,6 +1,6 @@
 {
   "title": "2.2.2 Field Pea (Hard)",
-  "description": "Diagnosing field pea problems and applying rotation, disease and storage knowledge",
+  "description": "Applying field pea rotation, pest control and harvest decisions",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,151 +16,43 @@
     {
       "id": 1,
       "anki": true,
-      "question": "A farmer plants field pea on waterlogged soil and the crop yellows. The main problem is",
+      "question": "A farmer wants a pulse after barley. A suitable crop is",
       "options": [
-        "Poor root aeration",
-        "Weak against weeds",
-        "Too much sunlight",
-        "Too much nitrogen"
+        "Field pea",
+        "Maize",
+        "Sorghum",
+        "Sesame"
       ],
-      "correctAnswer": "Poor root aeration"
+      "correctAnswer": "Field pea"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "Field pea is useful before wheat because it",
+      "question": "Field pea grows well at altitudes of",
       "options": [
-        "Adds nitrogen to soil",
-        "Removes soil nitrogen",
-        "Increases soil acidity",
-        "Reduces soil moisture"
+        "1800 to 3000 m",
+        "500 to 1500 m",
+        "2200 to 3000 m",
+        "1400 to 2000 m"
       ],
-      "correctAnswer": "Adds nitrogen to soil"
+      "correctAnswer": "1800 to 3000 m"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "A field pea crop shows white powdery growth on leaves. The likely disease is",
+      "question": "Field pea seeds are valued for their",
       "options": [
-        "Leaf wilt",
-        "Powdery mildew",
-        "Rust and smut",
-        "Fenced ranches"
+        "Protein",
+        "Oil",
+        "Sugar",
+        "Wax"
       ],
-      "correctAnswer": "Powdery mildew"
+      "correctAnswer": "Protein"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Why does field pea need less nitrogen fertilizer?",
-      "options": [
-        "It fixes nitrogen",
-        "It needs no nutrients",
-        "It grows in water",
-        "It has no root system"
-      ],
-      "correctAnswer": "It fixes nitrogen"
-    },
-    {
-      "id": 5,
-      "anki": true,
-      "question": "Field pea should be rotated with cereals to reduce",
-      "options": [
-        "Sugar, molasses, ethanol",
-        "Seed quality decline",
-        "Pest and disease buildup",
-        "Soil nitrogen levels"
-      ],
-      "correctAnswer": "Pest and disease buildup"
-    },
-    {
-      "id": 6,
-      "anki": true,
-      "question": "A farmer harvests field pea when pods are yellow and dry to",
-      "options": [
-        "Increase seed size",
-        "Improve pod color",
-        "Capital accumulation",
-        "Reduce seed moisture"
-      ],
-      "correctAnswer": "Reduce seed moisture"
-    },
-    {
-      "id": 7,
-      "anki": true,
-      "question": "Bruchids are controlled in stored field pea by",
-      "options": [
-        "Clean storage and fumigation",
-        "Field irrigation and weeding",
-        "Seed inoculation and lime",
-        "Green manuring and mulch"
-      ],
-      "correctAnswer": "Clean storage and fumigation"
-    },
-    {
-      "id": 8,
-      "anki": true,
-      "question": "Field pea is a cool season crop, so it is best planted in the",
-      "options": [
-        "Lowlands",
-        "Deserts",
-        "Highlands",
-        "Husk edge"
-      ],
-      "correctAnswer": "Highlands"
-    },
-    {
-      "id": 9,
-      "anki": true,
-      "question": "Field pea improves soil fertility mainly through",
-      "options": [
-        "Root nodules",
-        "Leaf litter",
-        "Deep plowing",
-        "Seed treatment"
-      ],
-      "correctAnswer": "Root nodules"
-    },
-    {
-      "id": 10,
-      "anki": true,
-      "question": "Field pea is a good green manure because its residues are rich in",
-      "options": [
-        "Nitrogen",
-        "Phosphorus",
-        "Potassium",
-        "Calcium"
-      ],
-      "correctAnswer": "Nitrogen"
-    },
-    {
-      "id": 11,
-      "anki": true,
-      "question": "A farmer wants to reduce powdery mildew. The best action is",
-      "options": [
-        "Resistant varieties",
-        "Planting seed deeper",
-        "Extra field irrigation",
-        "More nitrogen fertilizer"
-      ],
-      "correctAnswer": "Resistant varieties"
-    },
-    {
-      "id": 12,
-      "anki": true,
-      "question": "Field pea is planted at 30 cm rows to",
-      "options": [
-        "Oil and textile fiber",
-        "Increase seed depth",
-        "Improve air and light",
-        "Reduce seed rate"
-      ],
-      "correctAnswer": "Improve air and light"
-    },
-    {
-      "id": 13,
-      "anki": true,
-      "question": "Field pea yield is 15-20 q/ha, while its straw is used for",
+      "question": "Field pea also supplies",
       "options": [
         "Animal feed",
         "Cooking oil",
@@ -170,40 +62,148 @@
       "correctAnswer": "Animal feed"
     },
     {
+      "id": 5,
+      "anki": true,
+      "question": "Field pea can be mixed with",
+      "options": [
+        "Faba bean",
+        "Maize",
+        "Sorghum",
+        "Sesame"
+      ],
+      "correctAnswer": "Faba bean"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Field pea rows are spaced",
+      "options": [
+        "30 cm",
+        "15 cm",
+        "75 cm",
+        "40 cm"
+      ],
+      "correctAnswer": "30 cm"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Field pea plants are spaced",
+      "options": [
+        "5 to 10 cm",
+        "20 to 25 cm",
+        "40 to 50 cm",
+        "75 to 100 cm"
+      ],
+      "correctAnswer": "5 to 10 cm"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Aphids and African ball worm are field pea",
+      "options": [
+        "Insect pests",
+        "Weeds",
+        "Fungi",
+        "Minerals"
+      ],
+      "correctAnswer": "Insect pests"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Fungal diseases reduce the productivity of",
+      "options": [
+        "Field pea",
+        "Rice only",
+        "Sugarcane only",
+        "Tea only"
+      ],
+      "correctAnswer": "Field pea"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Manual weeding in field pea starts around",
+      "options": [
+        "4 weeks after planting",
+        "1 week after planting",
+        "At harvest",
+        "After storage"
+      ],
+      "correctAnswer": "4 weeks after planting"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Field pea control uses rotation, manual weeding and",
+      "options": [
+        "Chemical methods",
+        "Seed coloring",
+        "Storage bags",
+        "Market pricing"
+      ],
+      "correctAnswer": "Chemical methods"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Field pea harvest requires mature pods and seeds that are",
+      "options": [
+        "Sufficiently hard",
+        "Green and soft",
+        "Wet and sticky",
+        "White and tiny"
+      ],
+      "correctAnswer": "Sufficiently hard"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Delaying field pea harvest causes seed loss known as",
+      "options": [
+        "Shattering",
+        "Dormancy",
+        "Germination",
+        "Flowering"
+      ],
+      "correctAnswer": "Shattering"
+    },
+    {
       "id": 14,
       "anki": true,
-      "question": "Field pea is a dicot, so it has",
+      "question": "The national average field pea yield is",
       "options": [
-        "Two cotyledons",
-        "One cotyledon",
-        "No cotyledon",
-        "Three cotyledons"
+        "14 quintals/ha",
+        "19 quintals/ha",
+        "24.5 quintals/ha",
+        "32.5 quintals/ha"
       ],
-      "correctAnswer": "Two cotyledons"
+      "correctAnswer": "14 quintals/ha"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "Field pea seed should be inoculated when the field",
+      "question": "Field pea is planted by broadcasting or",
       "options": [
-        "Lacks Rhizobium",
-        "Has too much water",
-        "Is very sandy",
-        "Is too acidic"
+        "Row planting",
+        "Transplanting only",
+        "Dibbling only",
+        "Flooding only"
       ],
-      "correctAnswer": "Lacks Rhizobium"
+      "correctAnswer": "Row planting"
     },
     {
       "id": 16,
       "anki": true,
-      "question": "A farmer includes field pea in rotation mainly to",
+      "question": "Field pea is rotated with cereals such as teff, wheat and",
       "options": [
-        "Deplete soil nitrogen",
-        "Improve soil and income",
-        "Raise output per animal",
-        "Reduce crop diversity"
+        "Barley",
+        "Rice",
+        "Cotton",
+        "Sugarcane"
       ],
-      "correctAnswer": "Improve soil and income"
+      "correctAnswer": "Barley"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "2.2 Pulse Crops: General (Medium)",
-  "description": "Nitrogen fixation, rotation benefits, harvesting and common pulse problems",
+  "description": "Pulse nutrition, nitrogen fixation, cultivation and low-yield causes",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,194 +16,194 @@
     {
       "id": 1,
       "anki": true,
-      "question": "Pulses are dicotyledonous plants, meaning they have",
+      "question": "Pulses are seeds of legume crops grown mainly for",
       "options": [
-        "Two seed leaves",
-        "One seed leaf",
-        "No seed leaves",
-        "Three seed leaves"
+        "Edible seeds",
+        "Edible roots",
+        "Edible leaves",
+        "Edible stems"
       ],
-      "correctAnswer": "Two seed leaves"
+      "correctAnswer": "Edible seeds"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "The bacterium that fixes nitrogen in pulse roots is",
-      "options": [
-        "Rhizobium",
-        "Azotobacter",
-        "Nitrosomonas",
-        "Clostridium"
-      ],
-      "correctAnswer": "Rhizobium"
-    },
-    {
-      "id": 3,
-      "anki": true,
-      "question": "Nitrogen fixation in pulses occurs in the root",
-      "options": [
-        "Cereals",
-        "Hairs",
-        "Nodules",
-        "Tips"
-      ],
-      "correctAnswer": "Nodules"
-    },
-    {
-      "id": 4,
-      "anki": true,
-      "question": "Pulses are useful in rotation because they",
-      "options": [
-        "Add nitrogen to soil",
-        "Remove all soil water",
-        "Increase soil acidity",
-        "Attract cereal pests"
-      ],
-      "correctAnswer": "Add nitrogen to soil"
-    },
-    {
-      "id": 5,
-      "anki": true,
-      "question": "Pulse crops are a cheap source of",
+      "question": "Pulse dry seeds are especially rich in",
       "options": [
         "Protein",
-        "3 to 6%",
-        "Starch",
-        "Sugar"
+        "Oil",
+        "Sugar",
+        "Wax"
       ],
       "correctAnswer": "Protein"
     },
     {
-      "id": 6,
+      "id": 3,
       "anki": true,
-      "question": "Pulses are usually grown on",
+      "question": "Immature pulse pods are consumed as",
       "options": [
-        "Waterlogged soils",
-        "Well-drained soils",
-        "Flooded soils",
-        "Residues decompose"
-      ],
-      "correctAnswer": "Well-drained soils"
-    },
-    {
-      "id": 7,
-      "anki": true,
-      "question": "Pulse seed may be treated with",
-      "options": [
-        "Rhizobium inoculant",
-        "Insecticide dust",
-        "Soil color patterns",
-        "Fungicide only"
-      ],
-      "correctAnswer": "Rhizobium inoculant"
-    },
-    {
-      "id": 8,
-      "anki": true,
-      "question": "Pulse crops are harvested when the pods are",
-      "options": [
-        "Dry and brown",
-        "Green and soft",
-        "Wet and green",
-        "Black and soft"
-      ],
-      "correctAnswer": "Dry and brown"
-    },
-    {
-      "id": 9,
-      "anki": true,
-      "question": "A common storage pest of pulses is",
-      "options": [
-        "Bruchid",
-        "Striga",
-        "Aphid",
-        "Termite"
-      ],
-      "correctAnswer": "Bruchid"
-    },
-    {
-      "id": 10,
-      "anki": true,
-      "question": "Pulse rust is a",
-      "options": [
-        "Fungal disease",
-        "Weed species",
-        "Coastal plains",
-        "Viral disease"
-      ],
-      "correctAnswer": "Fungal disease"
-    },
-    {
-      "id": 11,
-      "anki": true,
-      "question": "Pulse wilt is a",
-      "options": [
-        "Viral disease",
-        "Given as gifts",
-        "Fungal disease",
-        "Weed species"
-      ],
-      "correctAnswer": "Fungal disease"
-    },
-    {
-      "id": 12,
-      "anki": true,
-      "question": "Aphids damage pulses by",
-      "options": [
-        "Sucking sap",
-        "Boring pods",
-        "Cutting roots",
-        "Eating leaves"
-      ],
-      "correctAnswer": "Sucking sap"
-    },
-    {
-      "id": 13,
-      "anki": true,
-      "question": "Pod borer damages pulse",
-      "options": [
-        "Pods and seeds",
-        "Roots and nodules",
-        "Leaves and stems",
-        "Flowers and buds"
-      ],
-      "correctAnswer": "Pods and seeds"
-    },
-    {
-      "id": 14,
-      "anki": true,
-      "question": "Pulses leave nitrogen in the soil for the",
-      "options": [
-        "Next crop",
-        "Previous crop",
-        "Same crop only",
-        "Weed seeds"
-      ],
-      "correctAnswer": "Next crop"
-    },
-    {
-      "id": 15,
-      "anki": true,
-      "question": "Pulse rotation can reduce the need for",
-      "options": [
-        "Nitrogen fertilizer",
-        "Phosphorus fertilizer",
-        "Potassium fertilizer",
-        "Lime application"
-      ],
-      "correctAnswer": "Nitrogen fertilizer"
-    },
-    {
-      "id": 16,
-      "anki": true,
-      "question": "Pulse crop residues are used as",
-      "options": [
-        "Animal fodder",
+        "Vegetables",
         "Cooking oil",
         "Textile fiber",
         "Sugar syrup"
       ],
-      "correctAnswer": "Animal fodder"
+      "correctAnswer": "Vegetables"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Pulses are used as a source of",
+      "options": [
+        "Animal feed",
+        "Cooking oil",
+        "Textile fiber",
+        "Building stone"
+      ],
+      "correctAnswer": "Animal feed"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Pulse crops are dicots and many assist with",
+      "options": [
+        "Nitrogen fixation",
+        "Soil salting",
+        "Pesticide making",
+        "Oil refining"
+      ],
+      "correctAnswer": "Nitrogen fixation"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Pulses fix atmospheric nitrogen into the soil through their",
+      "options": [
+        "Root nodules",
+        "Leaf heads",
+        "Flower petals",
+        "Seed coats"
+      ],
+      "correctAnswer": "Root nodules"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Fixed nitrogen is available for",
+      "options": [
+        "Subsequent crops",
+        "Previous crops only",
+        "Weeds only",
+        "Storage pests"
+      ],
+      "correctAnswer": "Subsequent crops"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Pulse rotations improve the fertility of",
+      "options": [
+        "Soil",
+        "Seed color",
+        "Storage sacks",
+        "Market prices"
+      ],
+      "correctAnswer": "Soil"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Mixed cropping pulses with cereals improves the yield of the",
+      "options": [
+        "Cereal crop",
+        "Pulse crop only",
+        "Weed crop",
+        "Fiber crop"
+      ],
+      "correctAnswer": "Cereal crop"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "The input usually skipped in Ethiopian pulse production is",
+      "options": [
+        "Mineral fertilizer",
+        "Animal manure",
+        "Manual weeding",
+        "Crop rotation"
+      ],
+      "correctAnswer": "Mineral fertilizer"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "In some cases, pulses receive organic fertilizer such as",
+      "options": [
+        "Animal manure",
+        "Lime only",
+        "Pesticide only",
+        "Sugar only"
+      ],
+      "correctAnswer": "Animal manure"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Compared with cereals, soil cultivation for pulses is generally",
+      "options": [
+        "Minimal",
+        "Very deep",
+        "Flooded",
+        "Repeated five times"
+      ],
+      "correctAnswer": "Minimal"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "Direct planting takes place in soil that is",
+      "options": [
+        "Left uncultivated",
+        "Deeply flooded",
+        "Plowed five times",
+        "Heavily salted"
+      ],
+      "correctAnswer": "Left uncultivated"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Poor weed control in grain legumes has contributed to",
+      "options": [
+        "Low yields",
+        "High soil fertility",
+        "Better seed color",
+        "Faster storage"
+      ],
+      "correctAnswer": "Low yields"
+    },
+    {
+      "id": 15,
+      "anki": true,
+      "question": "The major pulse crops in Ethiopia are faba bean, field pea and",
+      "options": [
+        "Haricot bean",
+        "Maize grain",
+        "Wheat grain",
+        "Barley grain"
+      ],
+      "correctAnswer": "Haricot bean"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "Pulse nitrogen fixation benefits the soil by adding",
+      "options": [
+        "Nitrogen",
+        "Lime",
+        "Sand",
+        "Clay only"
+      ],
+      "correctAnswer": "Nitrogen"
     }
   ]
 }

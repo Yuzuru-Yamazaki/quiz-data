@@ -1,6 +1,6 @@
 {
   "title": "2.1.4 Barley (Medium)",
-  "description": "Barley adaptation, cultural practices, weeds, diseases and harvesting",
+  "description": "Barley management, malting quality, pests and harvest",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,194 +16,194 @@
     {
       "id": 1,
       "anki": true,
-      "question": "Barley is grown from about",
+      "question": "Barley originated in the",
       "options": [
-        "1500 to 3400 m",
-        "500 to 1800 m",
-        "1800 to 2400 m",
-        "2200 to 3000 m"
+        "Middle East",
+        "Americas",
+        "Australia",
+        "China"
       ],
-      "correctAnswer": "1500 to 3400 m"
+      "correctAnswer": "Middle East"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "Barley is best adapted to",
+      "question": "Barley growth requirements are comparable to",
       "options": [
-        "Ranching enterprise",
-        "Coastal plains",
-        "Hot lowland areas",
-        "Cool highland areas"
+        "Wheat",
+        "Maize",
+        "Rice",
+        "Sorghum"
       ],
-      "correctAnswer": "Cool highland areas"
+      "correctAnswer": "Wheat"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "Barley is grown mainly under",
+      "question": "Barley is used as human food, and its residue is used as",
       "options": [
-        "Rainfed conditions",
-        "Full irrigation",
-        "Hydroponics",
-        "Pests and diseases"
+        "Livestock feed",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar"
       ],
-      "correctAnswer": "Rainfed conditions"
+      "correctAnswer": "Livestock feed"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Barley prefers well-drained",
+      "question": "Barley is used for malting in making",
       "options": [
-        "Loam soils",
-        "Clay soils",
-        "Sandy soils",
-        "Saline soils"
+        "Alcoholic beverages",
+        "Cooking oil products",
+        "Textile fiber products",
+        "Sugar syrup products"
       ],
-      "correctAnswer": "Loam soils"
+      "correctAnswer": "Alcoholic beverages"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Barley is usually planted by",
+      "question": "Malting involves controlled germination that produces",
       "options": [
-        "Broadcasting or rows",
-        "Transplanting seedlings",
-        "Dibbling in hills",
-        "Flooding the field"
+        "Enzymes",
+        "Lime",
+        "Pesticides",
+        "Fiber"
       ],
-      "correctAnswer": "Broadcasting or rows"
+      "correctAnswer": "Enzymes"
     },
     {
       "id": 6,
       "anki": true,
-      "question": "The barley seed rate is",
+      "question": "Barley grows at altitudes between",
       "options": [
-        "80 to 100 kg/ha",
-        "100 to 125 kg/ha",
-        "150 to 175 kg/ha",
-        "50 to 60 kg/ha"
+        "2200 and 3000 m",
+        "500 and 1500 m",
+        "1800 and 3000 m",
+        "400 and 1000 m"
       ],
-      "correctAnswer": "80 to 100 kg/ha"
+      "correctAnswer": "2200 and 3000 m"
     },
     {
       "id": 7,
       "anki": true,
-      "question": "Barley rows are spaced",
+      "question": "Well-drained loam soils are suitable for",
       "options": [
-        "15 cm apart",
-        "18 cm apart",
-        "75 cm apart",
-        "25 cm apart"
+        "Barley",
+        "Rice",
+        "Sugarcane",
+        "Tea"
       ],
-      "correctAnswer": "15 cm apart"
+      "correctAnswer": "Barley"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "Barley fertilizer is applied at",
+      "question": "Barley soil is cultivated",
       "options": [
-        "41 kg N and 20 kg P",
-        "60 kg N and 26 kg P",
-        "45 kg N and 25 kg P",
-        "32 kg N and 10 kg P"
+        "2 or 3 times",
+        "Once only",
+        "4 or 5 times",
+        "6 or 7 times"
       ],
-      "correctAnswer": "41 kg N and 20 kg P"
+      "correctAnswer": "2 or 3 times"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "A common grass weed of barley is",
+      "question": "Barley rows are spaced at",
       "options": [
-        "Ryegrass",
-        "Smut",
-        "Aphids",
-        "12 hours"
+        "25 cm",
+        "15 cm",
+        "75 cm",
+        "40 cm"
       ],
-      "correctAnswer": "Ryegrass"
+      "correctAnswer": "25 cm"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "Scald and net blotch are barley",
+      "question": "Barley seed depth is about",
       "options": [
-        "Weed species",
-        "Fungal diseases",
-        "Viral diseases",
-        "Pastoral system"
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "20 cm"
       ],
-      "correctAnswer": "Fungal diseases"
+      "correctAnswer": "5 cm"
     },
     {
       "id": 11,
       "anki": true,
-      "question": "Barley aphids damage the crop by",
+      "question": "Food barley usually receives",
       "options": [
-        "Sucking sap",
-        "Boring stems",
-        "Cutting roots",
-        "Eating leaves"
+        "60 kg N and 26 kg P",
+        "45 kg N and 25 kg P",
+        "41 kg N and 20 kg P",
+        "32 kg N and 10 kg P"
       ],
-      "correctAnswer": "Sucking sap"
+      "correctAnswer": "60 kg N and 26 kg P"
     },
     {
       "id": 12,
       "anki": true,
-      "question": "Barley cutworms attack",
+      "question": "For malting barley, nitrogen application is reduced because high nitrogen reduces",
       "options": [
-        "Seedlings",
-        "Mature heads",
-        "Stored grain",
-        "Root nodules"
+        "Malt quality",
+        "Seed color",
+        "Straw height",
+        "Soil acidity"
       ],
-      "correctAnswer": "Seedlings"
+      "correctAnswer": "Malt quality"
     },
     {
       "id": 13,
       "anki": true,
-      "question": "Barley is ready for harvest when the",
+      "question": "Most weeds and diseases that affect wheat also affect",
       "options": [
-        "Spikes turn yellow",
-        "Grains turn black",
-        "Leaves turn green",
-        "Tropical countries"
+        "Barley",
+        "Rice",
+        "Sugarcane",
+        "Cotton"
       ],
-      "correctAnswer": "Spikes turn yellow"
+      "correctAnswer": "Barley"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "Barley grain is threshed after",
+      "question": "Barley disease control includes resistant varieties, crop rotation and",
       "options": [
-        "Sun drying",
-        "Wet soaking",
-        "Chemical treatment",
-        "Fermentation"
+        "Changing planting times",
+        "Seed coloring treatments",
+        "Later storage periods",
+        "Additional lime amounts"
       ],
-      "correctAnswer": "Sun drying"
+      "correctAnswer": "Changing planting times"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "Barley is a major ingredient in",
+      "question": "The major insect pests of barley include army worm, grasshopper and",
       "options": [
-        "Sugar syrup",
-        "Malt beverages",
-        "Textile fiber",
-        "Oil from grain"
+        "Barley shoot fly",
+        "Striga weed",
+        "Bruchid beetle",
+        "Stalk borer"
       ],
-      "correctAnswer": "Malt beverages"
+      "correctAnswer": "Barley shoot fly"
     },
     {
       "id": 16,
       "anki": true,
-      "question": "Hulless barley is preferred for poultry because it has",
+      "question": "Barley maturity is shown by drying and",
       "options": [
-        "Higher energy",
-        "More fiber",
-        "More silica",
-        "Lower protein"
+        "Yellowing",
+        "Greening",
+        "Blackening",
+        "Softening"
       ],
-      "correctAnswer": "Higher energy"
+      "correctAnswer": "Yellowing"
     }
   ]
 }

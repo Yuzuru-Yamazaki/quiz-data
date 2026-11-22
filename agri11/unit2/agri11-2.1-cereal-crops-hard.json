@@ -116,7 +116,7 @@
       "options": [
         "Crops differ in soil needs",
         "All crops need same soil",
-        "Soil does not affect yield",
+        "Climate alone controls yield",
         "Only climate matters"
       ],
       "correctAnswer": "Crops differ in soil needs"

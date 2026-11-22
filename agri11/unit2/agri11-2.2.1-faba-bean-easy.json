@@ -1,6 +1,6 @@
 {
   "title": "2.2.1 Faba Bean (Easy)",
-  "description": "Importance, adaptation and basic production facts of faba bean",
+  "description": "Faba bean origin, uses, soil, planting and harvest facts",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -28,194 +28,194 @@
     {
       "id": 2,
       "anki": true,
-      "question": "Faba bean is also called",
+      "question": "The scientific name of faba bean is",
       "options": [
-        "Broad bean",
-        "Field pea",
-        "Haricot bean",
-        "Chickpea"
+        "Vicia faba",
+        "Zea mays",
+        "Triticum aestivum",
+        "Phaseolus vulgaris"
       ],
-      "correctAnswer": "Broad bean"
+      "correctAnswer": "Vicia faba"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "Faba bean is mainly grown in the",
+      "question": "Faba bean is believed to have originated in the",
       "options": [
-        "Highlands",
-        "Cellulose",
-        "Lowlands",
-        "Deserts"
+        "Mediterranean region",
+        "Central American coastlines",
+        "Mexican highlands",
+        "Chinese highlands"
       ],
-      "correctAnswer": "Highlands"
+      "correctAnswer": "Mediterranean region"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Faba bean is a",
+      "question": "Faba bean is mainly produced for its",
       "options": [
-        "Cool season crop",
-        "Warm season crop",
-        "Tropical crop",
-        "Dry season crop"
+        "Edible seeds",
+        "Edible roots",
+        "Edible leaves",
+        "Edible stems"
       ],
-      "correctAnswer": "Cool season crop"
+      "correctAnswer": "Edible seeds"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Faba bean seeds are rich in",
+      "question": "Faba bean is also used as a vegetable at the",
       "options": [
-        "Protein",
-        "Fiber",
-        "Culture",
-        "Starch"
+        "Green stage",
+        "Dry seed stage only",
+        "Storage stage",
+        "Flower stage only"
       ],
-      "correctAnswer": "Protein"
+      "correctAnswer": "Green stage"
     },
     {
       "id": 6,
       "anki": true,
-      "question": "Faba bean is grown mainly for its",
+      "question": "Faba bean grows well at altitudes of",
       "options": [
-        "Seeds",
-        "Roots",
-        "Leaves",
-        "Stems"
+        "1800 to 3000 m",
+        "500 to 1500 m",
+        "2200 to 3000 m",
+        "1400 to 2000 m"
       ],
-      "correctAnswer": "Seeds"
+      "correctAnswer": "1800 to 3000 m"
     },
     {
       "id": 7,
       "anki": true,
-      "question": "Faba bean plants have root",
+      "question": "Suitable soils for faba bean are",
       "options": [
-        "Nodules",
-        "Tubers",
-        "Bulbs",
-        "Rhizomes"
+        "Well drained clay soils",
+        "Waterlogged sandy soils",
+        "Saline rocky soils",
+        "Flooded clay soils"
       ],
-      "correctAnswer": "Nodules"
+      "correctAnswer": "Well drained clay soils"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "Faba bean can fix",
+      "question": "Faba bean is planted by",
       "options": [
-        "Nitrogen",
-        "Phosphorus",
-        "Potassium",
-        "Calcium"
+        "Broadcasting or in rows",
+        "Transplanting seedlings only",
+        "Dibbling seeds in stations",
+        "Flooding prepared fields"
       ],
-      "correctAnswer": "Nitrogen"
+      "correctAnswer": "Broadcasting or in rows"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "Faba bean is a good crop to rotate with",
+      "question": "Faba bean rows are spaced",
       "options": [
-        "Cereals",
-        "Oil crops",
-        "Fiber crops",
-        "Root crops"
+        "40 cm apart",
+        "15 cm apart",
+        "75 cm apart",
+        "25 cm apart"
       ],
-      "correctAnswer": "Cereals"
+      "correctAnswer": "40 cm apart"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "Faba bean pods are harvested when they turn",
+      "question": "Faba bean plants are spaced",
       "options": [
-        "Black and dry",
-        "Green and soft",
-        "Wet and green",
-        "White and soft"
+        "5 to 10 cm apart",
+        "20 to 25 cm apart",
+        "40 to 50 cm apart",
+        "75 to 100 cm apart"
       ],
-      "correctAnswer": "Black and dry"
+      "correctAnswer": "5 to 10 cm apart"
     },
     {
       "id": 11,
       "anki": true,
-      "question": "The average faba bean yield is about",
+      "question": "Faba bean is affected by",
       "options": [
-        "20 to 30 quintals/ha",
-        "10 to 15 quintals/ha",
-        "40 to 50 quintals/ha",
-        "5 to 8 quintals/ha"
+        "Weeds",
+        "Lime",
+        "Sand",
+        "Sugar"
       ],
-      "correctAnswer": "20 to 30 quintals/ha"
+      "correctAnswer": "Weeds"
     },
     {
       "id": 12,
       "anki": true,
-      "question": "Faba bean row spacing is usually",
+      "question": "Faba bean is affected by fungal",
       "options": [
-        "40 cm",
-        "15 cm",
-        "75 cm",
-        "18 cm"
+        "Diseases",
+        "Fertilizers",
+        "Seeds",
+        "Soils"
       ],
-      "correctAnswer": "40 cm"
+      "correctAnswer": "Diseases"
     },
     {
       "id": 13,
       "anki": true,
-      "question": "Faba bean planting depth is",
+      "question": "Insects that attack faba bean include African ball worm and",
       "options": [
-        "5 to 8 cm",
-        "2 to 3 cm",
-        "10 to 12 cm",
-        "1 to 2 cm"
+        "Aphids",
+        "Striga",
+        "Weevils only",
+        "Termites only"
       ],
-      "correctAnswer": "5 to 8 cm"
+      "correctAnswer": "Aphids"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "Chocolate spot is a faba bean",
+      "question": "Hand weeding in faba bean is done",
       "options": [
-        "Fungal disease",
-        "Weed species",
-        "25 cm by 10 cm",
-        "Viral disease"
+        "Twice in 6 weeks",
+        "Once after harvest",
+        "Four times in ten days",
+        "Only at planting"
       ],
-      "correctAnswer": "Fungal disease"
+      "correctAnswer": "Twice in 6 weeks"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "Faba bean rust is a",
+      "question": "Faba bean control measures include crop rotation and a clean",
       "options": [
-        "Weed species",
-        "No land at all",
-        "Fungal disease",
-        "Viral disease"
+        "Seedbed",
+        "Market",
+        "Storage bag",
+        "Harvest day"
       ],
-      "correctAnswer": "Fungal disease"
+      "correctAnswer": "Seedbed"
     },
     {
       "id": 16,
       "anki": true,
-      "question": "Faba bean aphids damage the crop by",
+      "question": "Faba bean is ready when leaves fall and pods change from green to",
       "options": [
-        "Sucking sap",
-        "Boring pods",
-        "Cutting roots",
-        "Eating leaves"
+        "Black",
+        "White",
+        "Blue",
+        "Red"
       ],
-      "correctAnswer": "Sucking sap"
+      "correctAnswer": "Black"
     },
     {
       "id": 17,
       "anki": true,
-      "question": "Bruchids attack stored faba bean",
+      "question": "The national average faba bean yield is",
       "options": [
-        "Seeds",
-        "Roots",
-        "Leaves",
-        "Pods"
+        "19 quintals/ha",
+        "14 quintals/ha",
+        "24.5 quintals/ha",
+        "32.5 quintals/ha"
       ],
-      "correctAnswer": "Seeds"
+      "correctAnswer": "19 quintals/ha"
     }
   ]
 }

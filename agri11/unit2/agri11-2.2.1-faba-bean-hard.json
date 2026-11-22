@@ -1,6 +1,6 @@
 {
   "title": "2.2.1 Faba Bean (Hard)",
-  "description": "Diagnosing faba bean problems and applying rotation, disease and storage knowledge",
+  "description": "Applying faba bean site, planting, control and harvest knowledge",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,194 +16,194 @@
     {
       "id": 1,
       "anki": true,
-      "question": "A farmer plants faba bean on waterlogged soil and the crop yellows. The main problem is",
+      "question": "A field at 2200 m with well drained clay soil is suitable for",
       "options": [
-        "Too much nitrogen",
-        "Poor root aeration",
-        "Too much sunlight",
-        "Rainfed conditions"
+        "Faba bean",
+        "Rice",
+        "Sorghum",
+        "Millet"
       ],
-      "correctAnswer": "Poor root aeration"
+      "correctAnswer": "Faba bean"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "Faba bean is useful before wheat because it",
+      "question": "Faba bean originated in the",
       "options": [
-        "Adds nitrogen to soil",
-        "Removes soil nitrogen",
-        "Increases soil acidity",
-        "Reduces soil moisture"
+        "Mediterranean region",
+        "Central American coastlines",
+        "Mexican highlands",
+        "Indian highlands"
       ],
-      "correctAnswer": "Adds nitrogen to soil"
+      "correctAnswer": "Mediterranean region"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "A faba bean field shows dark spots on leaves in humid weather. The likely disease is",
+      "question": "A farmer growing faba bean mainly for grain should target",
       "options": [
-        "Labor shortage",
-        "Chocolate spot",
-        "Leaf wilt",
-        "Rust and smut"
+        "Edible seeds",
+        "Edible roots",
+        "Edible leaves",
+        "Edible stems"
       ],
-      "correctAnswer": "Chocolate spot"
+      "correctAnswer": "Edible seeds"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Why does faba bean need less nitrogen fertilizer?",
+      "question": "Faba bean grown for vegetables is harvested at the",
       "options": [
-        "It fixes nitrogen",
-        "It needs no nutrients",
-        "It grows in water",
-        "It has no root system"
+        "Green stage",
+        "Dry seed stage",
+        "Storage stage",
+        "Flowering stage"
       ],
-      "correctAnswer": "It fixes nitrogen"
+      "correctAnswer": "Green stage"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Faba bean should be rotated with cereals to reduce",
+      "question": "The suitable soil for faba bean is",
       "options": [
-        "Pest and disease buildup",
-        "Soil nitrogen levels",
-        "Seed quality decline",
-        "Attacks only dead plants"
+        "Well drained clay",
+        "Waterlogged sand",
+        "Saline rock",
+        "Flooded loam"
       ],
-      "correctAnswer": "Pest and disease buildup"
+      "correctAnswer": "Well drained clay"
     },
     {
       "id": 6,
       "anki": true,
-      "question": "A farmer harvests faba bean when pods are black and dry to",
+      "question": "Faba bean rows are spaced",
       "options": [
-        "Reduce seed moisture",
-        "Increase seed size",
-        "Lower foreign demand",
-        "Improve pod color"
+        "40 cm",
+        "15 cm",
+        "75 cm",
+        "25 cm"
       ],
-      "correctAnswer": "Reduce seed moisture"
+      "correctAnswer": "40 cm"
     },
     {
       "id": 7,
       "anki": true,
-      "question": "Bruchids are controlled in stored faba bean by",
+      "question": "Faba bean plants are spaced",
       "options": [
-        "Clean storage and fumigation",
-        "Field irrigation and weeding",
-        "Seed inoculation and lime",
-        "Green manuring and mulch"
+        "5 to 10 cm",
+        "20 to 25 cm",
+        "40 to 50 cm",
+        "75 to 100 cm"
       ],
-      "correctAnswer": "Clean storage and fumigation"
+      "correctAnswer": "5 to 10 cm"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "Faba bean is a cool season crop, so it is best planted in the",
+      "question": "Hand weeding in faba bean is done",
       "options": [
-        "Deserts",
-        "3 carbons",
-        "Lowlands",
-        "Highlands"
+        "Twice in 6 weeks",
+        "Once after harvest",
+        "Four times in ten days",
+        "Only at planting"
       ],
-      "correctAnswer": "Highlands"
+      "correctAnswer": "Twice in 6 weeks"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "Faba bean improves soil fertility mainly through",
+      "question": "Insect pests of faba bean include",
       "options": [
-        "Root nodules",
-        "Leaf litter",
-        "Deep plowing",
-        "Seed treatment"
+        "African ball worm and aphids",
+        "Striga weed and rust disease",
+        "Weevil beetles and smut disease",
+        "Termites and blight fungus"
       ],
-      "correctAnswer": "Root nodules"
+      "correctAnswer": "African ball worm and aphids"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "Faba bean is a good green manure because its residues are rich in",
+      "question": "Faba bean control measures include chemicals, rotation, clean seedbed and",
       "options": [
-        "Nitrogen",
-        "Phosphorus",
-        "Potassium",
-        "Calcium"
+        "Hand weeding",
+        "Lime only",
+        "Sugar only",
+        "Flooding"
       ],
-      "correctAnswer": "Nitrogen"
+      "correctAnswer": "Hand weeding"
     },
     {
       "id": 11,
       "anki": true,
-      "question": "A farmer wants to reduce chocolate spot. The best action is",
+      "question": "Faba bean is ready when leaves fall and pods change to",
       "options": [
-        "Resistant varieties",
-        "Planting seed deeper",
-        "Extra field irrigation",
-        "More nitrogen fertilizer"
+        "Black",
+        "White",
+        "Blue",
+        "Red"
       ],
-      "correctAnswer": "Resistant varieties"
+      "correctAnswer": "Black"
     },
     {
       "id": 12,
       "anki": true,
-      "question": "Faba bean is planted at 40 cm rows to",
+      "question": "The national average faba bean yield is",
       "options": [
-        "Increase seed depth",
-        "Reduce seed rate",
-        "Improve air and light",
-        "Reduce crop diversity"
+        "19 quintals/ha",
+        "14 quintals/ha",
+        "24.5 quintals/ha",
+        "32.5 quintals/ha"
       ],
-      "correctAnswer": "Improve air and light"
+      "correctAnswer": "19 quintals/ha"
     },
     {
       "id": 13,
       "anki": true,
-      "question": "Faba bean yield is 20-30 q/ha, while its straw is used for",
+      "question": "Faba bean is affected by fungal",
       "options": [
-        "Animal feed",
-        "Cooking oil",
-        "Textile fiber",
-        "Building stone"
+        "Diseases",
+        "Fertilizers",
+        "Seeds",
+        "Soils"
       ],
-      "correctAnswer": "Animal feed"
+      "correctAnswer": "Diseases"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "Faba bean is a dicot, so it has",
+      "question": "Aphids and African ball worm are faba bean",
       "options": [
-        "Two cotyledons",
-        "One cotyledon",
-        "No cotyledon",
-        "Three cotyledons"
+        "Insects",
+        "Weeds",
+        "Fungi",
+        "Minerals"
       ],
-      "correctAnswer": "Two cotyledons"
+      "correctAnswer": "Insects"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "Faba bean seed should be inoculated when the field",
+      "question": "Crop rotation is used in faba bean production as part of",
       "options": [
-        "Lacks Rhizobium",
-        "Has too much water",
-        "Is very sandy",
-        "Is too acidic"
+        "Integrated control",
+        "Seed coloring",
+        "Storage only",
+        "Market pricing"
       ],
-      "correctAnswer": "Lacks Rhizobium"
+      "correctAnswer": "Integrated control"
     },
     {
       "id": 16,
       "anki": true,
-      "question": "A farmer includes faba bean in rotation mainly to",
+      "question": "A clean seedbed is used in faba bean production to help control",
       "options": [
-        "Bad weather and locusts",
-        "Improve soil and income",
-        "Deplete soil nitrogen",
-        "Reduce crop diversity"
+        "Weeds and pests",
+        "Market prices",
+        "Seed color",
+        "Storage bags"
       ],
-      "correctAnswer": "Improve soil and income"
+      "correctAnswer": "Weeds and pests"
     }
   ]
 }

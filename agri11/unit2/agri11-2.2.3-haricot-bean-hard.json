@@ -1,6 +1,6 @@
 {
   "title": "2.2.3 Haricot Bean (Hard)",
-  "description": "Diagnosing haricot bean problems and applying rotation, disease and storage knowledge",
+  "description": "Applying haricot bean export, intercropping and weevil-control knowledge",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,206 +16,206 @@
     {
       "id": 1,
       "anki": true,
-      "question": "A farmer plants haricot bean on waterlogged soil and the crop yellows. The main problem is",
+      "question": "Haricot bean is an important export crop in",
       "options": [
-        "Glue and adhesives",
-        "Poor root aeration",
-        "Too much sunlight",
-        "Too much nitrogen"
+        "Ethiopia",
+        "Mexico",
+        "Brazil",
+        "India"
       ],
-      "correctAnswer": "Poor root aeration"
+      "correctAnswer": "Ethiopia"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "Haricot bean is useful before maize because it",
+      "question": "Haricot bean grows well at altitudes of",
       "options": [
-        "Adds nitrogen to soil",
-        "Removes soil nitrogen",
-        "Increases soil acidity",
-        "Reduces soil moisture"
+        "1400 to 2000 m",
+        "1000 to 2200 m",
+        "1800 to 3000 m",
+        "2200 to 3000 m"
       ],
-      "correctAnswer": "Adds nitrogen to soil"
+      "correctAnswer": "1400 to 2000 m"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "A haricot bean field shows sunken dark lesions on pods and stems. The likely disease is",
+      "question": "Haricot bean grows well in",
       "options": [
-        "Anthracnose",
-        "Rust and smut",
-        "Leaf wilt",
-        "Root rot"
+        "Most soil types",
+        "Waterlogged soils only",
+        "Saline soils only",
+        "Rocky soils only"
       ],
-      "correctAnswer": "Anthracnose"
+      "correctAnswer": "Most soil types"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Why does haricot bean need less nitrogen fertilizer?",
+      "question": "Haricot bean is mixed with cereals such as",
       "options": [
-        "It fixes nitrogen",
-        "It needs no nutrients",
-        "It grows in water",
-        "It has no root system"
+        "Maize and sorghum",
+        "Rice and tea",
+        "Wheat and coffee",
+        "Barley and sugarcane"
       ],
-      "correctAnswer": "It fixes nitrogen"
+      "correctAnswer": "Maize and sorghum"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Haricot bean should be rotated with cereals to reduce",
+      "question": "Haricot bean is rotated with",
       "options": [
-        "Formal scientific method",
-        "Pest and disease buildup",
-        "Seed quality decline",
-        "Soil nitrogen levels"
+        "Teff, maize and sorghum",
+        "Rice, tea and coffee",
+        "Wheat, oats and rye",
+        "Cotton, sesame and sunflower"
       ],
-      "correctAnswer": "Pest and disease buildup"
+      "correctAnswer": "Teff, maize and sorghum"
     },
     {
       "id": 6,
       "anki": true,
-      "question": "A farmer harvests haricot bean when pods are dry to",
+      "question": "Haricot bean seeds can be red, brown, white or",
       "options": [
-        "Improve pod color",
-        "Reduce seed moisture",
-        "Pull plants by roots",
-        "Increase seed size"
+        "Gray",
+        "Blue",
+        "Purple",
+        "Black"
       ],
-      "correctAnswer": "Reduce seed moisture"
+      "correctAnswer": "Gray"
     },
     {
       "id": 7,
       "anki": true,
-      "question": "Bruchids are controlled in stored haricot bean by",
+      "question": "Haricot bean rows are spaced",
       "options": [
-        "Clean storage and fumigation",
-        "Field irrigation and weeding",
-        "Seed inoculation and lime",
-        "Green manuring and mulch"
+        "40 cm",
+        "15 cm",
+        "75 cm",
+        "25 cm"
       ],
-      "correctAnswer": "Clean storage and fumigation"
+      "correctAnswer": "40 cm"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "Haricot bean is a warm season crop, so it is best planted in the",
+      "question": "Haricot bean plants are spaced",
       "options": [
-        "Lowlands",
-        "Highlands",
-        "Deserts",
-        "Coasts"
+        "10 cm",
+        "20 cm",
+        "40 cm",
+        "75 cm"
       ],
-      "correctAnswer": "Lowlands"
+      "correctAnswer": "10 cm"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "Haricot bean improves soil fertility mainly through",
+      "question": "In intercropping, haricot bean rows come between rows of",
       "options": [
-        "Root nodules",
-        "Leaf litter",
-        "Deep plowing",
-        "Seed treatment"
+        "Maize or sorghum",
+        "Rice or tea",
+        "Wheat or coffee",
+        "Barley or sugarcane"
       ],
-      "correctAnswer": "Root nodules"
+      "correctAnswer": "Maize or sorghum"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "Haricot bean is a good green manure because its residues are rich in",
+      "question": "Animal manure is used for haricot bean",
       "options": [
-        "Nitrogen",
-        "Phosphorus",
-        "Potassium",
-        "Calcium"
+        "Fertilization",
+        "Seed coloring",
+        "Storage only",
+        "Market pricing"
       ],
-      "correctAnswer": "Nitrogen"
+      "correctAnswer": "Fertilization"
     },
     {
       "id": 11,
       "anki": true,
-      "question": "A farmer wants to reduce anthracnose. The best action is",
+      "question": "Manual weeding in haricot bean is done within",
       "options": [
-        "Use clean seed",
-        "Plant deeper",
-        "Irrigate more",
-        "Add more nitrogen"
+        "4 weeks of planting",
+        "1 week of planting",
+        "4 months of planting",
+        "8 months of planting"
       ],
-      "correctAnswer": "Use clean seed"
+      "correctAnswer": "4 weeks of planting"
     },
     {
       "id": 12,
       "anki": true,
-      "question": "Haricot bean is planted at 40 cm rows to",
+      "question": "Storage pests of haricot bean include",
       "options": [
-        "Improve air and light",
-        "Increase seed depth",
-        "Hunting and gathering",
-        "Reduce seed rate"
+        "Weevils",
+        "Striga",
+        "Rust",
+        "Smut"
       ],
-      "correctAnswer": "Improve air and light"
+      "correctAnswer": "Weevils"
     },
     {
       "id": 13,
       "anki": true,
-      "question": "Haricot bean yield is 15-20 q/ha, while its straw is used for",
+      "question": "To control weevils, haricot bean grain is dried below",
       "options": [
-        "Animal feed",
-        "Cooking oil",
-        "Textile fiber",
-        "Building stone"
+        "12% moisture",
+        "30% moisture",
+        "50% moisture",
+        "70% moisture"
       ],
-      "correctAnswer": "Animal feed"
+      "correctAnswer": "12% moisture"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "Haricot bean is a dicot, so it has",
+      "question": "Weevil control also uses chemical treatment of the",
       "options": [
-        "Two cotyledons",
-        "One cotyledon",
-        "No cotyledon",
-        "Three cotyledons"
+        "Grains",
+        "Leaves",
+        "Stems",
+        "Flowers"
       ],
-      "correctAnswer": "Two cotyledons"
+      "correctAnswer": "Grains"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "Haricot bean seed should be inoculated when the field",
+      "question": "Haricot bean matures within",
       "options": [
-        "Lacks Rhizobium",
-        "Has too much water",
-        "Is very sandy",
-        "Is too acidic"
+        "3 to 4 months",
+        "1 to 2 months",
+        "6 to 8 months",
+        "9 to 12 months"
       ],
-      "correctAnswer": "Lacks Rhizobium"
+      "correctAnswer": "3 to 4 months"
     },
     {
       "id": 16,
       "anki": true,
-      "question": "A farmer includes haricot bean in rotation mainly to",
+      "question": "Haricot bean is ready when leaves fall and pods turn",
       "options": [
-        "Deplete soil nitrogen",
-        "Reduce crop diversity",
-        "Delay the crop maturity",
-        "Improve soil and income"
+        "Yellow and start to dry",
+        "Black and still wet",
+        "Green and fully soft",
+        "Purple and early flowering"
       ],
-      "correctAnswer": "Improve soil and income"
+      "correctAnswer": "Yellow and start to dry"
     },
     {
       "id": 17,
       "anki": true,
-      "question": "Haricot bean is an important cash crop because the grain is",
+      "question": "For vegetable use, haricot bean pods are harvested while",
       "options": [
-        "Sold for income",
-        "No market sales",
-        "Used as fiber",
-        "Used as lime"
+        "Green and immature",
+        "Black and dry",
+        "Yellow and dry",
+        "Brown and hard"
       ],
-      "correctAnswer": "Sold for income"
+      "correctAnswer": "Green and immature"
     }
   ]
 }

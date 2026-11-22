@@ -1,6 +1,6 @@
 {
   "title": "2.2.3 Haricot Bean (Medium)",
-  "description": "Haricot bean agronomy, fertilization, pests, diseases and harvesting",
+  "description": "Haricot bean ecology, intercropping, weevils and storage control",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,163 +16,55 @@
     {
       "id": 1,
       "anki": true,
-      "question": "Haricot bean is adapted to",
+      "question": "Haricot bean is also known as the",
       "options": [
-        "Warm lowland areas",
-        "Cool highland areas",
-        "Coastal plains",
-        "Frost pockets"
+        "Common bean",
+        "Broad bean",
+        "Field pea",
+        "Chickpea"
       ],
-      "correctAnswer": "Warm lowland areas"
+      "correctAnswer": "Common bean"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "The main haricot bean areas are at",
+      "question": "Haricot bean originated in",
       "options": [
-        "1000 to 2200 m",
-        "1800 to 3000 m",
-        "2200 to 3000 m",
-        "400 to 1000 m"
+        "Mexico",
+        "Ethiopia",
+        "China",
+        "India"
       ],
-      "correctAnswer": "1000 to 2200 m"
+      "correctAnswer": "Mexico"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "Haricot bean grows best on",
+      "question": "Haricot bean is produced for its",
       "options": [
-        "Well-drained loam",
-        "Highly productive",
-        "Waterlogged clay",
-        "Rocky slopes"
+        "Edible seeds",
+        "Edible roots",
+        "Edible leaves",
+        "Edible stems"
       ],
-      "correctAnswer": "Well-drained loam"
+      "correctAnswer": "Edible seeds"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Haricot bean is sensitive to",
+      "question": "Immature haricot bean pods are used as",
       "options": [
-        "Frost",
-        "Sunlight",
-        "Waterlogging",
-        "Market price"
+        "Vegetables",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
       ],
-      "correctAnswer": "Waterlogging"
+      "correctAnswer": "Vegetables"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Haricot bean rows are spaced",
-      "options": [
-        "40 cm apart",
-        "15 cm apart",
-        "75 cm apart",
-        "30 cm apart"
-      ],
-      "correctAnswer": "40 cm apart"
-    },
-    {
-      "id": 6,
-      "anki": true,
-      "question": "Haricot bean is planted at a depth of",
-      "options": [
-        "5 cm",
-        "10 cm",
-        "15 cm",
-        "20 cm"
-      ],
-      "correctAnswer": "5 cm"
-    },
-    {
-      "id": 7,
-      "anki": true,
-      "question": "Haricot bean needs less nitrogen fertilizer because it",
-      "options": [
-        "Fixes nitrogen",
-        "Grows very fast",
-        "Has deep roots",
-        "Needs less water"
-      ],
-      "correctAnswer": "Fixes nitrogen"
-    },
-    {
-      "id": 8,
-      "anki": true,
-      "question": "Haricot bean is weeded",
-      "options": [
-        "2 to 3 times",
-        "Once only",
-        "4 to 5 times",
-        "6 to 7 times"
-      ],
-      "correctAnswer": "2 to 3 times"
-    },
-    {
-      "id": 9,
-      "anki": true,
-      "question": "Anthracnose is favored by",
-      "options": [
-        "Wet humid weather",
-        "Dry cold weather",
-        "Low soil fertility",
-        "Strong sunlight"
-      ],
-      "correctAnswer": "Wet humid weather"
-    },
-    {
-      "id": 10,
-      "anki": true,
-      "question": "Haricot bean rust is a",
-      "options": [
-        "Viral disease",
-        "Weed species",
-        "Wool and skins",
-        "Fungal disease"
-      ],
-      "correctAnswer": "Fungal disease"
-    },
-    {
-      "id": 11,
-      "anki": true,
-      "question": "Haricot bean aphids are controlled by",
-      "options": [
-        "Herbicides",
-        "Nematicides",
-        "South Africa",
-        "Insecticides"
-      ],
-      "correctAnswer": "Insecticides"
-    },
-    {
-      "id": 12,
-      "anki": true,
-      "question": "Bruchids damage haricot bean mainly in",
-      "options": [
-        "Storage",
-        "The field",
-        "The seedbed",
-        "The nursery"
-      ],
-      "correctAnswer": "Storage"
-    },
-    {
-      "id": 13,
-      "anki": true,
-      "question": "Haricot bean is harvested when pods are",
-      "options": [
-        "Dry and brown",
-        "Green and soft",
-        "Milky and wet",
-        "Black and hard"
-      ],
-      "correctAnswer": "Dry and brown"
-    },
-    {
-      "id": 14,
-      "anki": true,
-      "question": "Haricot bean straw is used as",
+      "question": "Haricot bean is also used as",
       "options": [
         "Animal feed",
         "Cooking oil",
@@ -182,52 +74,160 @@
       "correctAnswer": "Animal feed"
     },
     {
+      "id": 6,
+      "anki": true,
+      "question": "Haricot bean grows well in",
+      "options": [
+        "Most soil types",
+        "Waterlogged soils only",
+        "Saline soils only",
+        "Rocky soils only"
+      ],
+      "correctAnswer": "Most soil types"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Haricot bean grows at altitudes between",
+      "options": [
+        "1400 and 2000 m",
+        "1000 and 2200 m",
+        "1800 and 3000 m",
+        "2200 and 3000 m"
+      ],
+      "correctAnswer": "1400 and 2000 m"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Haricot bean is mixed with cereals such as",
+      "options": [
+        "Maize and sorghum",
+        "Rice and tea",
+        "Wheat and coffee",
+        "Barley and sugarcane"
+      ],
+      "correctAnswer": "Maize and sorghum"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Haricot bean is rotated with",
+      "options": [
+        "Teff, maize and sorghum",
+        "Rice, tea and coffee",
+        "Wheat, oats and rye",
+        "Cotton, sesame and sunflower"
+      ],
+      "correctAnswer": "Teff, maize and sorghum"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Haricot bean is an important export crop in",
+      "options": [
+        "Ethiopia",
+        "Mexico",
+        "Brazil",
+        "India"
+      ],
+      "correctAnswer": "Ethiopia"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Haricot bean rows are spaced",
+      "options": [
+        "40 cm",
+        "15 cm",
+        "75 cm",
+        "25 cm"
+      ],
+      "correctAnswer": "40 cm"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "Haricot bean plants are spaced",
+      "options": [
+        "10 cm",
+        "20 cm",
+        "40 cm",
+        "75 cm"
+      ],
+      "correctAnswer": "10 cm"
+    },
+    {
+      "id": 13,
+      "anki": true,
+      "question": "In intercropping, haricot bean rows come between rows of",
+      "options": [
+        "Maize or sorghum",
+        "Rice or tea",
+        "Wheat or coffee",
+        "Barley or sugarcane"
+      ],
+      "correctAnswer": "Maize or sorghum"
+    },
+    {
+      "id": 14,
+      "anki": true,
+      "question": "Animal manure is used for haricot bean",
+      "options": [
+        "Fertilization",
+        "Seed coloring",
+        "Storage only",
+        "Market pricing"
+      ],
+      "correctAnswer": "Fertilization"
+    },
+    {
       "id": 15,
       "anki": true,
-      "question": "The average haricot bean yield is",
+      "question": "The seedbed for haricot bean should be",
       "options": [
-        "15 to 20 quintals/ha",
-        "20 to 30 quintals/ha",
-        "40 to 50 quintals/ha",
-        "5 to 8 quintals/ha"
+        "Clean",
+        "Flooded",
+        "Rocky",
+        "Saline"
       ],
-      "correctAnswer": "15 to 20 quintals/ha"
+      "correctAnswer": "Clean"
     },
     {
       "id": 16,
       "anki": true,
-      "question": "Haricot bean rotation improves the yield of the following",
+      "question": "Manual weeding in haricot bean is done within",
       "options": [
-        "Grind grain",
-        "Fiber crop",
-        "Cereal crop",
-        "Root crop"
+        "4 weeks of planting",
+        "1 week of planting",
+        "4 months of planting",
+        "8 months of planting"
       ],
-      "correctAnswer": "Cereal crop"
+      "correctAnswer": "4 weeks of planting"
     },
     {
       "id": 17,
       "anki": true,
-      "question": "Haricot bean is important as a",
+      "question": "Haricot bean is susceptible to storage pests such as",
       "options": [
-        "Cash crop",
-        "Fiber crop",
-        "Oil crop",
-        "Fodder crop"
+        "Weevils",
+        "Striga",
+        "Rust",
+        "Smut"
       ],
-      "correctAnswer": "Cash crop"
+      "correctAnswer": "Weevils"
     },
     {
       "id": 18,
       "anki": true,
-      "question": "Haricot bean green pods are used as",
+      "question": "The national average haricot bean yield is",
       "options": [
-        "Vegetables",
-        "Cooking oil",
-        "Textile fiber",
-        "Sugar syrup"
+        "14 quintals/ha",
+        "19 quintals/ha",
+        "24.5 quintals/ha",
+        "32.5 quintals/ha"
       ],
-      "correctAnswer": "Vegetables"
+      "correctAnswer": "14 quintals/ha"
     }
   ]
 }

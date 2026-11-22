@@ -1,6 +1,6 @@
 {
   "title": "2.2.3 Haricot Bean (Easy)",
-  "description": "Importance, adaptation and basic production facts of haricot bean",
+  "description": "Haricot bean origin, uses, soils, planting and harvest facts",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,206 +16,206 @@
     {
       "id": 1,
       "anki": true,
-      "question": "Haricot bean is a",
+      "question": "Haricot bean is also called the",
       "options": [
-        "Pulse crop",
-        "Cereal crop",
-        "Oil crop",
-        "Fiber crop"
-      ],
-      "correctAnswer": "Pulse crop"
-    },
-    {
-      "id": 2,
-      "anki": true,
-      "question": "Haricot bean is also called",
-      "options": [
-        "Field pea",
         "Common bean",
-        "Crop height",
-        "Broad bean"
+        "Broad bean",
+        "Field pea",
+        "Chickpea"
       ],
       "correctAnswer": "Common bean"
     },
     {
+      "id": 2,
+      "anki": true,
+      "question": "Haricot bean originated in",
+      "options": [
+        "Mexico",
+        "Ethiopia",
+        "China",
+        "India"
+      ],
+      "correctAnswer": "Mexico"
+    },
+    {
       "id": 3,
       "anki": true,
-      "question": "Haricot bean is a",
+      "question": "Haricot bean is produced for its",
       "options": [
-        "Warm season crop",
-        "Cool season crop",
-        "Tropical crop",
-        "Dry season crop"
+        "Edible seeds",
+        "Edible roots",
+        "Edible leaves",
+        "Edible stems"
       ],
-      "correctAnswer": "Warm season crop"
+      "correctAnswer": "Edible seeds"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Haricot bean is mainly grown in",
+      "question": "Immature haricot bean pods are consumed as a",
       "options": [
-        "Coastal swamps and flats",
-        "Lowlands and mid-altitudes",
-        "High mountains and peaks",
-        "Observation and experience"
+        "Vegetable",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
       ],
-      "correctAnswer": "Lowlands and mid-altitudes"
+      "correctAnswer": "Vegetable"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Haricot bean seeds are rich in",
+      "question": "Haricot bean can be used as",
       "options": [
-        "Fiber",
-        "D and B",
-        "Starch",
-        "Protein"
+        "Animal feed",
+        "Cooking oil",
+        "Textile fiber",
+        "Building stone"
       ],
-      "correctAnswer": "Protein"
+      "correctAnswer": "Animal feed"
     },
     {
       "id": 6,
       "anki": true,
-      "question": "Haricot bean is grown for its",
+      "question": "Haricot bean grows well in",
       "options": [
-        "Seeds and pods",
-        "Roots and tubers",
-        "Leaves and stems",
-        "Flowers and buds"
+        "Most soil types",
+        "Waterlogged soils only",
+        "Saline soils only",
+        "Rocky soils only"
       ],
-      "correctAnswer": "Seeds and pods"
+      "correctAnswer": "Most soil types"
     },
     {
       "id": 7,
       "anki": true,
-      "question": "Haricot bean plants fix",
+      "question": "Haricot bean grows at altitudes of",
       "options": [
-        "Nitrogen",
-        "Phosphorus",
-        "Potassium",
-        "Calcium"
+        "1400 to 2000 m",
+        "1000 to 2200 m",
+        "1800 to 3000 m",
+        "2200 to 3000 m"
       ],
-      "correctAnswer": "Nitrogen"
+      "correctAnswer": "1400 to 2000 m"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "Haricot bean is rotated with",
+      "question": "Haricot bean is grown as a mono crop or mixed with maize and",
       "options": [
-        "Cereals",
-        "Oil crops",
-        "Fiber crops",
-        "Root crops"
+        "Sorghum",
+        "Rice",
+        "Tea",
+        "Coffee"
       ],
-      "correctAnswer": "Cereals"
+      "correctAnswer": "Sorghum"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "Haricot bean row spacing is usually",
+      "question": "Haricot bean is rotated with teff, maize and",
       "options": [
-        "40 cm",
-        "15 cm",
-        "75 cm",
-        "30 cm"
+        "Sorghum",
+        "Rice",
+        "Tea",
+        "Coffee"
       ],
-      "correctAnswer": "40 cm"
+      "correctAnswer": "Sorghum"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "Haricot bean planting depth is",
+      "question": "Haricot bean is an important export crop in",
       "options": [
-        "5 cm",
-        "10 cm",
-        "15 cm",
-        "20 cm"
+        "Ethiopia",
+        "Mexico",
+        "Brazil",
+        "India"
       ],
-      "correctAnswer": "5 cm"
+      "correctAnswer": "Ethiopia"
     },
     {
       "id": 11,
       "anki": true,
-      "question": "The average haricot bean yield is",
+      "question": "Haricot bean can be sown by broadcasting or in",
       "options": [
-        "15 to 20 quintals/ha",
-        "20 to 30 quintals/ha",
-        "40 to 50 quintals/ha",
-        "5 to 8 quintals/ha"
+        "Rows",
+        "Ponds",
+        "Nurseries only",
+        "Flooded fields"
       ],
-      "correctAnswer": "15 to 20 quintals/ha"
+      "correctAnswer": "Rows"
     },
     {
       "id": 12,
       "anki": true,
-      "question": "Haricot bean is harvested when pods are",
+      "question": "Haricot bean rows are spaced",
       "options": [
-        "Dry",
-        "Green",
-        "Wet",
-        "Soft"
+        "40 cm",
+        "15 cm",
+        "75 cm",
+        "25 cm"
       ],
-      "correctAnswer": "Dry"
+      "correctAnswer": "40 cm"
     },
     {
       "id": 13,
       "anki": true,
-      "question": "Anthracnose is a haricot bean",
+      "question": "Haricot bean plants are spaced",
       "options": [
-        "Single stomach",
-        "Viral disease",
-        "Fungal disease",
-        "Weed species"
+        "10 cm",
+        "20 cm",
+        "40 cm",
+        "75 cm"
       ],
-      "correctAnswer": "Fungal disease"
+      "correctAnswer": "10 cm"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "Haricot bean rust is a",
+      "question": "Animal manure is used for haricot bean",
       "options": [
-        "Flooded yearly",
-        "Viral disease",
-        "Fungal disease",
-        "Weed species"
+        "Fertilization",
+        "Seed coloring",
+        "Storage only",
+        "Market pricing"
       ],
-      "correctAnswer": "Fungal disease"
+      "correctAnswer": "Fertilization"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "Haricot bean aphids damage the crop by",
+      "question": "Manual weeding in haricot bean is done within",
       "options": [
-        "Sucking sap",
-        "Boring pods",
-        "Cutting roots",
-        "Eating leaves"
+        "4 weeks of planting",
+        "1 week of planting",
+        "4 months of planting",
+        "8 months of planting"
       ],
-      "correctAnswer": "Sucking sap"
+      "correctAnswer": "4 weeks of planting"
     },
     {
       "id": 16,
       "anki": true,
-      "question": "Bruchids attack stored haricot bean",
+      "question": "Haricot bean is ready when leaves fall and pods turn",
       "options": [
-        "Seeds",
-        "Roots",
-        "Leaves",
-        "Pods"
+        "Yellow and start to dry",
+        "Black and still wet",
+        "Green and fully soft",
+        "Purple and early flowering"
       ],
-      "correctAnswer": "Seeds"
+      "correctAnswer": "Yellow and start to dry"
     },
     {
       "id": 17,
       "anki": true,
-      "question": "Haricot bean is an important",
+      "question": "The national average haricot bean yield is",
       "options": [
-        "Cash crop",
-        "Fiber crop",
-        "Oil crop",
-        "Fodder crop"
+        "14 quintals/ha",
+        "19 quintals/ha",
+        "24.5 quintals/ha",
+        "32.5 quintals/ha"
       ],
-      "correctAnswer": "Cash crop"
+      "correctAnswer": "14 quintals/ha"
     }
   ]
 }

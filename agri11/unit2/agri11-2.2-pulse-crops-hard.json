@@ -1,6 +1,6 @@
 {
   "title": "2.2 Pulse Crops: General (Hard)",
-  "description": "Applying pulse rotation, inoculation and storage knowledge to farm situations",
+  "description": "Applying pulse rotation, fertility and low-yield knowledge to decisions",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,187 +16,175 @@
     {
       "id": 1,
       "anki": true,
-      "question": "A farmer plants faba bean after maize. This rotation helps because faba bean",
+      "question": "A crop grown for edible seeds from a legume plant is a",
       "options": [
-        "Fixes nitrogen",
-        "Uses more water",
-        "Adds soil salts",
-        "Shades the soil"
+        "Pulse",
+        "Cereal",
+        "Oil crop",
+        "Fiber crop"
       ],
-      "correctAnswer": "Fixes nitrogen"
+      "correctAnswer": "Pulse"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "The nitrogen fixed by pulses becomes available to the next crop after",
+      "question": "Dry pulse seeds are a valuable source of",
       "options": [
-        "Seeds germinate",
-        "Pods are formed",
-        "Residues decompose",
-        "It matures earlier"
-      ],
-      "correctAnswer": "Residues decompose"
-    },
-    {
-      "id": 3,
-      "anki": true,
-      "question": "A pulse field has yellowing that improves after inoculation. The limiting factor was",
-      "options": [
-        "Rhizobium",
-        "Soil moisture",
-        "Sunlight",
-        "Soil texture"
-      ],
-      "correctAnswer": "Rhizobium"
-    },
-    {
-      "id": 4,
-      "anki": true,
-      "question": "Pulses should be grown on well-drained soils because they are sensitive to",
-      "options": [
-        "Weed density",
-        "Sunlight",
-        "Waterlogging",
-        "Frost"
-      ],
-      "correctAnswer": "Waterlogging"
-    },
-    {
-      "id": 5,
-      "anki": true,
-      "question": "A farmer wants to reduce nitrogen fertilizer for the next cereal. The best preceding crop is",
-      "options": [
-        "Faba bean",
-        "Barley",
-        "Cellulose",
-        "Wheat"
-      ],
-      "correctAnswer": "Faba bean"
-    },
-    {
-      "id": 6,
-      "anki": true,
-      "question": "Pulse crops are important in Ethiopia mainly because they provide",
-      "options": [
-        "Sugar and starch foods",
-        "Timber and cooking fuel",
-        "Protein and soil nitrogen",
-        "By-product industrial use"
-      ],
-      "correctAnswer": "Protein and soil nitrogen"
-    },
-    {
-      "id": 7,
-      "anki": true,
-      "question": "A pulse crop is harvested when pods are dry to",
-      "options": [
-        "Reduce seed moisture",
-        "Increase seed size",
-        "Improve pod color",
-        "Kill all field pests"
-      ],
-      "correctAnswer": "Reduce seed moisture"
-    },
-    {
-      "id": 8,
-      "anki": true,
-      "question": "Bruchids are serious in pulse storage because they attack",
-      "options": [
-        "Dry seeds",
-        "Green pods",
-        "Root nodules",
-        "Flower buds"
-      ],
-      "correctAnswer": "Dry seeds"
-    },
-    {
-      "id": 9,
-      "anki": true,
-      "question": "Pulse root nodules are formed by",
-      "options": [
-        "Mycorrhizal fungi",
-        "Viral particles",
-        "Rhizobium bacteria",
-        "Weeds emerge early"
-      ],
-      "correctAnswer": "Rhizobium bacteria"
-    },
-    {
-      "id": 10,
-      "anki": true,
-      "question": "Inoculating pulse seed with Rhizobium is most useful when the soil",
-      "options": [
-        "Lacks the bacteria",
-        "Has too much water",
-        "Is very sandy",
-        "Is too acidic"
-      ],
-      "correctAnswer": "Lacks the bacteria"
-    },
-    {
-      "id": 11,
-      "anki": true,
-      "question": "A farmer includes pulses in rotation to",
-      "options": [
-        "Reduce crop diversity",
-        "Deplete soil nitrogen",
-        "Improve soil and income",
-        "A crop cut twice yearly"
-      ],
-      "correctAnswer": "Improve soil and income"
-    },
-    {
-      "id": 12,
-      "anki": true,
-      "question": "Pulse crops are called poor man's meat because they are rich in",
-      "options": [
-        "Starch",
         "Protein",
+        "Oil",
         "Sugar",
-        "B and C"
+        "Wax"
       ],
       "correctAnswer": "Protein"
     },
     {
+      "id": 3,
+      "anki": true,
+      "question": "Immature pulse pods are harvested for use as",
+      "options": [
+        "Vegetables",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
+      ],
+      "correctAnswer": "Vegetables"
+    },
+    {
+      "id": 4,
+      "anki": true,
+      "question": "Pulses can supply feed for",
+      "options": [
+        "Animals",
+        "Cars",
+        "Furnaces",
+        "Factories"
+      ],
+      "correctAnswer": "Animals"
+    },
+    {
+      "id": 5,
+      "anki": true,
+      "question": "Pulses fix atmospheric nitrogen through",
+      "options": [
+        "Root nodules",
+        "Leaf heads",
+        "Flower petals",
+        "Seed coats"
+      ],
+      "correctAnswer": "Root nodules"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Nitrogen fixed by pulses mainly benefits",
+      "options": [
+        "Subsequent crops",
+        "Previous crops only",
+        "Weeds only",
+        "Storage pests"
+      ],
+      "correctAnswer": "Subsequent crops"
+    },
+    {
+      "id": 7,
+      "anki": true,
+      "question": "Pulse rotations are used to improve",
+      "options": [
+        "Soil fertility",
+        "Soil salinity",
+        "Soil color",
+        "Stone content"
+      ],
+      "correctAnswer": "Soil fertility"
+    },
+    {
+      "id": 8,
+      "anki": true,
+      "question": "Cereal yield can improve when cereals are mixed with",
+      "options": [
+        "Pulses",
+        "Oil crops only",
+        "Fiber crops only",
+        "Sugar crops only"
+      ],
+      "correctAnswer": "Pulses"
+    },
+    {
+      "id": 9,
+      "anki": true,
+      "question": "Pulse cultivation is generally minimal compared with",
+      "options": [
+        "Cereals",
+        "Trees",
+        "Fruits only",
+        "Vegetables only"
+      ],
+      "correctAnswer": "Cereals"
+    },
+    {
+      "id": 10,
+      "anki": true,
+      "question": "Direct planting uses fields that are",
+      "options": [
+        "Left uncultivated",
+        "Deeply flooded",
+        "Plowed five times",
+        "Heavily salted"
+      ],
+      "correctAnswer": "Left uncultivated"
+    },
+    {
+      "id": 11,
+      "anki": true,
+      "question": "Low pulse yields in Ethiopia are linked to poor weed control and",
+      "options": [
+        "Minimal cultivation",
+        "Deep plowing five times",
+        "Flooded soils",
+        "High mineral fertilizer use"
+      ],
+      "correctAnswer": "Minimal cultivation"
+    },
+    {
+      "id": 12,
+      "anki": true,
+      "question": "The input usually skipped in Ethiopian pulse production is",
+      "options": [
+        "Mineral fertilizer",
+        "Animal manure",
+        "Manual weeding",
+        "Crop rotation"
+      ],
+      "correctAnswer": "Mineral fertilizer"
+    },
+    {
       "id": 13,
       "anki": true,
-      "question": "Which crop group is correctly matched?",
+      "question": "Animal manure is an example of",
       "options": [
-        "Pulses-legumes",
-        "Cereals-legumes",
-        "Pulses-oil crops",
-        "Cereals-pulses"
+        "Organic fertilizer",
+        "Mineral fertilizer",
+        "Pesticide",
+        "Lime"
       ],
-      "correctAnswer": "Pulses-legumes"
+      "correctAnswer": "Organic fertilizer"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "A farmer notices that cereal yields are higher after a pulse. The main reason is",
+      "question": "The major pulse crops in Ethiopia are faba bean, field pea and",
       "options": [
-        "Genetic improvement",
-        "More soil moisture",
-        "Added soil nitrogen",
-        "Better seed color"
+        "Haricot bean",
+        "Maize grain",
+        "Wheat grain",
+        "Barley grain"
       ],
-      "correctAnswer": "Added soil nitrogen"
+      "correctAnswer": "Haricot bean"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "Pulses are usually rotated with cereals to break",
-      "options": [
-        "Seeds fail to germinate",
-        "Seed dormancy cycles",
-        "Pest and disease cycles",
-        "Wind erosion patterns"
-      ],
-      "correctAnswer": "Pest and disease cycles"
-    },
-    {
-      "id": 16,
-      "anki": true,
-      "question": "Pulse seeds are dicots, so they differ from cereals by having",
+      "question": "Pulse crops are dicots, so they differ from cereals by having",
       "options": [
         "Two cotyledons",
         "One cotyledon",
@@ -204,6 +192,18 @@
         "Three cotyledons"
       ],
       "correctAnswer": "Two cotyledons"
+    },
+    {
+      "id": 16,
+      "anki": true,
+      "question": "A farmer wants a pulse for animal feed and soil fertility. A suitable crop is",
+      "options": [
+        "Field pea",
+        "Maize",
+        "Wheat",
+        "Barley"
+      ],
+      "correctAnswer": "Field pea"
     }
   ]
 }

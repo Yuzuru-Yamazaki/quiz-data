@@ -1,6 +1,6 @@
 {
   "title": "2.1 Cereal Crops: General (Medium)",
-  "description": "Controlled versus uncontrolled production factors and the role of management inputs",
+  "description": "Field crop classification, major cereals and crop production factors from the handout",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,122 +16,122 @@
     {
       "id": 1,
       "anki": true,
-      "question": "Factors under the farmer's control include",
+      "question": "Field crops are grown on a wide scale mainly for",
       "options": [
-        "Movement of herds to pasture",
-        "Unexpected weather",
-        "Fertilizer, irrigation, lime",
-        "Rainfall and locust swarms"
+        "Human consumption",
+        "Animal feed only",
+        "Industrial fiber",
+        "Export markets"
       ],
-      "correctAnswer": "Fertilizer, irrigation, lime"
+      "correctAnswer": "Human consumption"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "Fertilizer improves",
+      "question": "Field crops complete their life cycle in",
       "options": [
-        "Soil nutrients",
-        "Soil water holding",
-        "Seed germination",
-        "Crop maturity"
+        "A single season",
+        "Two seasons",
+        "Three years",
+        "Five years"
       ],
-      "correctAnswer": "Soil nutrients"
+      "correctAnswer": "A single season"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "Lime is added to modify",
+      "question": "The major field crop groups are",
       "options": [
-        "Soil acidity",
-        "Soil texture",
-        "Soil color",
-        "Soil depth"
+        "Cereals and pulses",
+        "Roots and tubers",
+        "Oil and fiber",
+        "Forage and sugar"
       ],
-      "correctAnswer": "Soil acidity"
+      "correctAnswer": "Cereals and pulses"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Field crops are annuals because they",
+      "question": "Cereals are grown mainly for their",
       "options": [
-        "Irrigated rice cultivation",
-        "Are harvested repeatedly",
-        "Finish cycle in one season",
-        "Need two full years"
+        "Edible seeds",
+        "Edible roots",
+        "Edible leaves",
+        "Edible stems"
       ],
-      "correctAnswer": "Finish cycle in one season"
+      "correctAnswer": "Edible seeds"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Cereals can grow in",
-      "options": [
-        "Only highland areas",
-        "Only irrigated fields",
-        "Wide environment range",
-        "Grinds grain particles"
-      ],
-      "correctAnswer": "Wide environment range"
-    },
-    {
-      "id": 6,
-      "anki": true,
       "question": "Cereal seeds have",
       "options": [
-        "Single cotyledon",
+        "A single cotyledon",
         "Two cotyledons",
         "No cotyledon",
         "Three cotyledons"
       ],
-      "correctAnswer": "Single cotyledon"
+      "correctAnswer": "A single cotyledon"
+    },
+    {
+      "id": 6,
+      "anki": true,
+      "question": "Cereals contain carbohydrates, proteins, fats and",
+      "options": [
+        "Fibers",
+        "Oils",
+        "Vitamins",
+        "Minerals"
+      ],
+      "correctAnswer": "Fibers"
     },
     {
       "id": 7,
       "anki": true,
-      "question": "Pulses are dicots and assist with",
+      "question": "The five major cereal crops produced in Ethiopia are",
       "options": [
-        "Nitrogen fixation",
-        "Lime production",
-        "Pesticide synthesis",
-        "Seed treatment"
+        "Teff, maize, wheat, barley, sorghum",
+        "Teff, rice, wheat, barley, oats",
+        "Maize, rice, millet, barley, teff",
+        "Wheat, rice, maize, sorghum, oats"
       ],
-      "correctAnswer": "Nitrogen fixation"
+      "correctAnswer": "Teff, maize, wheat, barley, sorghum"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "The five major cereals occupy most of the",
+      "question": "The principal factor that determines crop production is",
       "options": [
-        "Animal feed supply",
-        "Cereal production area",
-        "Irrigation water",
-        "0.8 m high, 10 cm wide"
+        "Crop site selection",
+        "Market price trends",
+        "Family labor supply",
+        "Credit access level"
       ],
-      "correctAnswer": "Cereal production area"
+      "correctAnswer": "Crop site selection"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "A locust invasion is a factor that is",
+      "question": "Farmer-controlled inputs include",
       "options": [
-        "Outside farmer control",
-        "Always predictable",
-        "Limited yield evidence",
-        "Under irrigation"
+        "Fertilizer, irrigation, lime",
+        "Rainfall and locust swarms",
+        "Unexpected weather",
+        "Market demand"
       ],
-      "correctAnswer": "Outside farmer control"
+      "correctAnswer": "Fertilizer, irrigation, lime"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "Crop choice should match crop requirements with",
+      "question": "Factors outside farmer control include",
       "options": [
-        "Soil, water and climate",
-        "Market prices alone",
-        "Farmer preference only",
-        "Available machinery only"
+        "Unexpected weather and locust invasion",
+        "Planting time and field spacing",
+        "Fertilizer and lime application rates",
+        "Irrigation timing and scheduling"
       ],
-      "correctAnswer": "Soil, water and climate"
+      "correctAnswer": "Unexpected weather and locust invasion"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "2.1.5 Sorghum (Medium)",
-  "description": "Sorghum adaptation, planting, weeds, pests, diseases and harvest",
+  "description": "Sorghum adaptation, planting, fertilization and weed management",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,194 +16,194 @@
     {
       "id": 1,
       "anki": true,
-      "question": "Sorghum is well adapted to",
+      "question": "Sorghum originated in",
       "options": [
-        "Hot lowland areas",
-        "Cool highland areas",
-        "Coastal plains",
-        "Frost pockets"
+        "Africa",
+        "Mexico",
+        "Asia",
+        "Europe"
       ],
-      "correctAnswer": "Hot lowland areas"
+      "correctAnswer": "Africa"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "The main sorghum growing areas are at",
+      "question": "Sorghum is a staple food crop in drier parts of",
       "options": [
-        "400 to 2200 m",
-        "1800 to 3000 m",
-        "2200 to 3000 m",
-        "500 to 1500 m"
+        "Africa",
+        "Europe",
+        "America",
+        "Australia"
       ],
-      "correctAnswer": "400 to 2200 m"
+      "correctAnswer": "Africa"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "Sorghum tolerates drought because it has",
+      "question": "Sorghum stalk is used for animal feed and making",
       "options": [
-        "Deep roots",
-        "Broad leaves",
-        "Shallow roots",
-        "Thin stems"
+        "Fences and houses",
+        "Cooking oil",
+        "Textile fiber",
+        "Sugar syrup"
       ],
-      "correctAnswer": "Deep roots"
+      "correctAnswer": "Fences and houses"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Sorghum grows best on",
+      "question": "Most sorghum producing areas in Ethiopia are at",
       "options": [
-        "Well-drained loam",
-        "Rocky slopes",
-        "Waterlogged clay",
-        "Energy and intake"
+        "500 to 1500 m",
+        "1800 to 3000 m",
+        "2200 to 3000 m",
+        "400 to 1000 m"
       ],
-      "correctAnswer": "Well-drained loam"
+      "correctAnswer": "500 to 1500 m"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Sorghum is planted at the onset of",
+      "question": "Sorghum gives reasonable yields on soils",
       "options": [
-        "The rains",
-        "The dry season",
-        "The frost period",
-        "The harvest"
+        "Too poor for other crops",
+        "Used only for rice",
+        "With deep standing water",
+        "With high salinity only"
       ],
-      "correctAnswer": "The rains"
+      "correctAnswer": "Too poor for other crops"
     },
     {
       "id": 6,
       "anki": true,
-      "question": "The sorghum seed rate is",
+      "question": "Suitable soils for sorghum are",
       "options": [
-        "10 to 12 kg/ha",
-        "80 to 100 kg/ha",
-        "100 to 125 kg/ha",
-        "150 to 175 kg/ha"
+        "Well-drained fertile clay soils",
+        "Waterlogged sandy field soils",
+        "Saline and rocky field soils",
+        "Shallow acidic hillside soils"
       ],
-      "correctAnswer": "10 to 12 kg/ha"
+      "correctAnswer": "Well-drained fertile clay soils"
     },
     {
       "id": 7,
       "anki": true,
-      "question": "Sorghum rows are spaced",
+      "question": "Sorghum resumes growth when",
       "options": [
-        "75 cm apart",
-        "15 cm apart",
-        "18 cm apart",
-        "25 cm apart"
+        "Soil moisture is sufficient",
+        "The harvest season begins",
+        "The grain storage period starts",
+        "The first frost of autumn occurs"
       ],
-      "correctAnswer": "75 cm apart"
+      "correctAnswer": "Soil moisture is sufficient"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "Sorghum fertilizer is applied at",
+      "question": "Sorghum is called the camel crop because it",
       "options": [
-        "41 kg N and 20 kg P",
-        "60 kg N and 26 kg P",
-        "45 kg N and 25 kg P",
-        "32 kg N and 10 kg P"
+        "Remains dormant during dry periods",
+        "Grows only in permanently flooded fields",
+        "Stores water inside mature grain",
+        "Needs daily frost at flowering"
       ],
-      "correctAnswer": "41 kg N and 20 kg P"
+      "correctAnswer": "Remains dormant during dry periods"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "Striga is difficult to control because it",
+      "question": "Sorghum is rotated with haricot bean, soybean, sesame and",
       "options": [
-        "Attaches to host roots",
-        "Grows on leaves only",
-        "Lives in stored grain",
-        "Attacks only dead plants"
+        "Cotton",
+        "Rice",
+        "Tea",
+        "Coffee"
       ],
-      "correctAnswer": "Attaches to host roots"
+      "correctAnswer": "Cotton"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "Sorghum anthracnose is a",
+      "question": "Sorghum soil is cultivated",
       "options": [
-        "Produces honey",
-        "Weed species",
-        "Viral disease",
-        "Fungal disease"
+        "2 or 3 times",
+        "Once only",
+        "4 or 5 times",
+        "6 or 7 times"
       ],
-      "correctAnswer": "Fungal disease"
+      "correctAnswer": "2 or 3 times"
     },
     {
       "id": 11,
       "anki": true,
-      "question": "Grain mold in sorghum is favored by",
+      "question": "Sorghum row spacing ranges from",
       "options": [
-        "Dry cold weather",
-        "Low soil fertility",
-        "Wet humid conditions",
-        "Reduce seed moisture"
+        "0.5 to 1 meter",
+        "0.1 to 0.3 meter",
+        "1.5 to 2 meters",
+        "2 to 3 meters"
       ],
-      "correctAnswer": "Wet humid conditions"
+      "correctAnswer": "0.5 to 1 meter"
     },
     {
       "id": 12,
       "anki": true,
-      "question": "Sorghum shoot fly damages",
+      "question": "Sorghum plants in rows are spaced about",
       "options": [
-        "Young seedlings",
-        "Mature grains",
-        "Root nodules",
-        "Lime production"
+        "40 cm apart",
+        "10 cm apart",
+        "25 cm apart",
+        "75 cm apart"
       ],
-      "correctAnswer": "Young seedlings"
+      "correctAnswer": "40 cm apart"
     },
     {
       "id": 13,
       "anki": true,
-      "question": "Quelea birds damage sorghum by eating",
+      "question": "Sorghum seeds are sown at a depth of about",
       "options": [
-        "Grain in the head",
-        "Roots in the soil",
-        "Leaves in the shade",
-        "Stems near the base"
+        "2.5 cm",
+        "5 cm",
+        "10 cm",
+        "15 cm"
       ],
-      "correctAnswer": "Grain in the head"
+      "correctAnswer": "2.5 cm"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "Sorghum is ready for harvest when grains are",
+      "question": "The common sorghum planting time is",
       "options": [
-        "Hard and dry",
-        "Soft and green",
-        "Milky and wet",
-        "Black and moist"
+        "March to May",
+        "June to July",
+        "September to October",
+        "December to January"
       ],
-      "correctAnswer": "Hard and dry"
+      "correctAnswer": "March to May"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "Sorghum stalks are valuable for",
+      "question": "Earthing up in sorghum is done about a month after planting to resist",
       "options": [
-        "Sugar syrup",
-        "Fencing and fuel",
-        "Flowers drop off",
-        "Textile fiber"
+        "Lodging due to wind",
+        "Seed dormancy loss",
+        "Storage pest damage",
+        "Soil salinity stress"
       ],
-      "correctAnswer": "Fencing and fuel"
+      "correctAnswer": "Lodging due to wind"
     },
     {
       "id": 16,
       "anki": true,
-      "question": "Sorghum grain is used in local",
+      "question": "The usual sorghum fertilizer rate is",
       "options": [
-        "Beverages",
-        "Pesticides",
-        "Dyes",
-        "Latex"
+        "32 kg N and 10 kg P",
+        "60 kg N and 26 kg P",
+        "45 kg N and 25 kg P",
+        "41 kg N and 20 kg P"
       ],
-      "correctAnswer": "Beverages"
+      "correctAnswer": "32 kg N and 10 kg P"
     }
   ]
 }

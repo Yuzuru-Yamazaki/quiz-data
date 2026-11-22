@@ -1,6 +1,6 @@
 {
   "title": "2.1.3 Wheat (Easy)",
-  "description": "Wheat types, uses, growing conditions and basic production facts",
+  "description": "Wheat origin, uses, growing conditions and basic management",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,230 +16,230 @@
     {
       "id": 1,
       "anki": true,
-      "question": "Wheat is a",
+      "question": "Wheat is believed to have originated in",
       "options": [
-        "Cool season crop",
-        "Warm season crop",
-        "Tropical crop",
-        "Dry season crop"
+        "Asia",
+        "Africa",
+        "Europe",
+        "America"
       ],
-      "correctAnswer": "Cool season crop"
+      "correctAnswer": "Asia"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "Wheat is mainly grown in Ethiopian",
+      "question": "The main wheat origin countries are",
       "options": [
-        "Highlands",
-        "Lowlands",
-        "Coastal plains",
-        "Desert oases"
+        "China, Pakistan, India",
+        "Ethiopia, Kenya, Sudan",
+        "Mexico, Brazil, Peru",
+        "France, Spain, Italy"
       ],
-      "correctAnswer": "Highlands"
+      "correctAnswer": "China, Pakistan, India"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "Wheat grows at altitudes of",
+      "question": "Globally, the most important cereal is",
       "options": [
-        "1800 to 3000 m",
-        "500 to 1500 m",
-        "1000 to 2000 m",
-        "2200 to 3000 m"
+        "Wheat",
+        "Rice",
+        "Maize",
+        "Barley"
       ],
-      "correctAnswer": "1800 to 3000 m"
+      "correctAnswer": "Wheat"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "A major wheat producing region is",
+      "question": "Wheat requires",
       "options": [
-        "Oromia",
-        "Somali",
-        "Afar",
-        "Gambella"
+        "Cool weather",
+        "Hot weather",
+        "Frost daily",
+        "Waterlogging"
       ],
-      "correctAnswer": "Oromia"
+      "correctAnswer": "Cool weather"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Wheat grain is mainly used to make",
+      "question": "Wheat grows in Ethiopia at altitudes of",
       "options": [
-        "Flour",
-        "Oil",
-        "Fiber",
-        "Sugar"
+        "1800 to 3000 m",
+        "500 to 1500 m",
+        "2200 to 3000 m",
+        "400 to 1000 m"
       ],
-      "correctAnswer": "Flour"
+      "correctAnswer": "1800 to 3000 m"
     },
     {
       "id": 6,
       "anki": true,
-      "question": "Bread wheat is mostly used for",
+      "question": "Suitable wheat soils are",
       "options": [
-        "Bread",
-        "Pasta",
-        "Macaroni",
-        "Spaghetti"
+        "Well drained loamy fertile soils",
+        "Waterlogged heavy clay soils",
+        "Saline sandy soils",
+        "Rocky shallow soils"
       ],
-      "correctAnswer": "Bread"
+      "correctAnswer": "Well drained loamy fertile soils"
     },
     {
       "id": 7,
       "anki": true,
-      "question": "Durum wheat is mainly used for",
+      "question": "Wheat is commonly rotated with",
       "options": [
-        "Pasta",
-        "Cake",
-        "Bread",
-        "Cookies"
+        "Lentils, pea, teff, potato",
+        "Maize, rice, cotton, sesame",
+        "Barley, oats, rye, millet",
+        "Sorghum, sugarcane, sisal, tea"
       ],
-      "correctAnswer": "Pasta"
+      "correctAnswer": "Lentils, pea, teff, potato"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "Bread wheat grain has",
+      "question": "Wheat soil is often cultivated",
       "options": [
-        "Soft endosperm",
-        "Hard endosperm",
-        "No endosperm",
-        "Waxy endosperm"
+        "2 or 3 times",
+        "Once only",
+        "4 or 5 times",
+        "6 or 7 times"
       ],
-      "correctAnswer": "Soft endosperm"
+      "correctAnswer": "2 or 3 times"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "Durum wheat grain has",
+      "question": "Wheat is planted by",
       "options": [
-        "Hard endosperm",
-        "Soft endosperm",
-        "No endosperm",
-        "Waxy endosperm"
+        "Broadcasting or row planting",
+        "Transplanting seedlings only",
+        "Dibbling seeds at fixed stations",
+        "Flooding the prepared fields"
       ],
-      "correctAnswer": "Hard endosperm"
+      "correctAnswer": "Broadcasting or row planting"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "The common wheat planting time is",
+      "question": "Wheat row spacing is about",
       "options": [
-        "June to July",
-        "March to April",
-        "September to October",
-        "January to February"
+        "25 cm",
+        "15 cm",
+        "75 cm",
+        "40 cm"
       ],
-      "correctAnswer": "June to July"
+      "correctAnswer": "25 cm"
     },
     {
       "id": 11,
       "anki": true,
-      "question": "Wheat planted in June is harvested in",
+      "question": "Wheat seeds are sown at a depth of about",
       "options": [
-        "October-November",
-        "September-October",
-        "November-December",
-        "December-January"
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "20 cm"
       ],
-      "correctAnswer": "October-November"
+      "correctAnswer": "5 cm"
     },
     {
       "id": 12,
       "anki": true,
-      "question": "The recommended wheat seed rate is",
+      "question": "The common wheat planting time is",
       "options": [
-        "100 to 125 kg/ha",
-        "60 to 75 kg/ha",
-        "150 to 175 kg/ha",
-        "200 to 225 kg/ha"
+        "June and July",
+        "March and April",
+        "September and October",
+        "December and January"
       ],
-      "correctAnswer": "100 to 125 kg/ha"
+      "correctAnswer": "June and July"
     },
     {
       "id": 13,
       "anki": true,
-      "question": "Wheat row spacing is usually",
+      "question": "Farmers usually apply",
       "options": [
-        "18 cm",
-        "75 cm",
-        "25 cm",
-        "40 cm"
+        "45 kg N and 25 kg P",
+        "60 kg N and 26 kg P",
+        "41 kg N and 20 kg P",
+        "32 kg N and 10 kg P"
       ],
-      "correctAnswer": "18 cm"
+      "correctAnswer": "45 kg N and 25 kg P"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "The usual fertilizer rate for wheat is",
+      "question": "Manual weeding in wheat starts about",
       "options": [
-        "60 kg N and 26 kg P",
-        "41 kg N and 20 kg P",
-        "45 kg N and 25 kg P",
-        "32 kg N and 10 kg P"
+        "A month after planting",
+        "A week after planting",
+        "At harvest time",
+        "Two months after harvest"
       ],
-      "correctAnswer": "60 kg N and 26 kg P"
+      "correctAnswer": "A month after planting"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "The average national wheat yield is",
+      "question": "The herbicide 2,4-D controls",
       "options": [
-        "19 quintals/ha",
-        "32.5 quintals/ha",
-        "14.6 quintals/ha",
-        "24.5 quintals/ha"
+        "Broad leaf weeds",
+        "Rust and smut",
+        "Insect pests",
+        "Soil acidity"
       ],
-      "correctAnswer": "19 quintals/ha"
+      "correctAnswer": "Broad leaf weeds"
     },
     {
       "id": 16,
       "anki": true,
-      "question": "Wheat rust is a",
+      "question": "Rust and smut are wheat",
       "options": [
-        "Fungal disease",
-        "Viral disease",
-        "Weed species",
-        "Produces honey"
+        "Fungal diseases",
+        "Viral diseases",
+        "Insect pests",
+        "Weed species"
       ],
-      "correctAnswer": "Fungal disease"
+      "correctAnswer": "Fungal diseases"
     },
     {
       "id": 17,
       "anki": true,
-      "question": "Wheat stem sawfly is an",
+      "question": "Wheat disease control includes",
       "options": [
-        "Insect pest",
-        "Fungal disease",
-        "Viral disease",
-        "Weed species"
+        "Resistant varieties",
+        "Fertilizer only",
+        "Irrigation only",
+        "Harvest delay"
       ],
-      "correctAnswer": "Insect pest"
+      "correctAnswer": "Resistant varieties"
     },
     {
       "id": 18,
       "anki": true,
-      "question": "Wild oat in wheat is a",
+      "question": "Wheat is ready for harvest when it dries to",
       "options": [
-        "Weed",
-        "Disease",
-        "Insect",
-        "Virus"
+        "Golden yellow color",
+        "Bright green color",
+        "Black color",
+        "Purple color"
       ],
-      "correctAnswer": "Weed"
+      "correctAnswer": "Golden yellow color"
     },
     {
       "id": 19,
       "anki": true,
-      "question": "Wheat is a",
+      "question": "The national average wheat yield is",
       "options": [
-        "Cereal",
-        "Pulse",
-        "Oil crop",
-        "Fiber crop"
+        "24.5 quintals/ha",
+        "14.6 quintals/ha",
+        "19 quintals/ha",
+        "32.5 quintals/ha"
       ],
-      "correctAnswer": "Cereal"
+      "correctAnswer": "24.5 quintals/ha"
     }
   ]
 }

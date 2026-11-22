@@ -1,6 +1,6 @@
 {
   "title": "2.1.5 Sorghum (Hard)",
-  "description": "Explaining sorghum adaptation, striga control and pest and harvest decisions",
+  "description": "Applying sorghum drought adaptation, weed control and harvest knowledge",
   "folder": "School/Grade 11/Agriculture/Unit 2",
   "field": "natural",
   "anki": true,
@@ -16,182 +16,182 @@
     {
       "id": 1,
       "anki": true,
-      "question": "Sorghum survives drought better than maize mainly because sorghum has",
+      "question": "Sorghum is called the camel crop because it can",
       "options": [
-        "Deep roots and waxy leaves",
-        "Shallow roots and broad leaves",
-        "Thin stems and soft grain",
-        "Long awns and husks"
+        "Remain dormant during dry periods",
+        "Store water in the mature grain",
+        "Grow only in frosty highlands",
+        "Live in permanently flooded soil"
       ],
-      "correctAnswer": "Deep roots and waxy leaves"
+      "correctAnswer": "Remain dormant during dry periods"
     },
     {
       "id": 2,
       "anki": true,
-      "question": "Striga is a serious sorghum weed because it",
+      "question": "Most sorghum producing areas in Ethiopia are at",
       "options": [
-        "Competes only for light",
-        "Attacks stored grain",
-        "Parasitizes the crop roots",
-        "Establish good plant stand"
+        "500 to 1500 m",
+        "1800 to 3000 m",
+        "2200 to 3000 m",
+        "400 to 1000 m"
       ],
-      "correctAnswer": "Parasitizes the crop roots"
+      "correctAnswer": "500 to 1500 m"
     },
     {
       "id": 3,
       "anki": true,
-      "question": "A farmer wants to reduce striga. A useful practice is",
+      "question": "Sorghum gives reasonable yields on soils",
       "options": [
-        "Flooding the field all year",
-        "Crop rotation and hand pulling",
-        "It concentrates CO2 internally",
-        "Planting closer spacing"
+        "Too poor for other crops",
+        "Used only for rice",
+        "With deep standing water",
+        "With high salinity only"
       ],
-      "correctAnswer": "Crop rotation and hand pulling"
+      "correctAnswer": "Too poor for other crops"
     },
     {
       "id": 4,
       "anki": true,
-      "question": "Sorghum is preferred in hot lowlands because it is",
+      "question": "Suitable soils for sorghum are",
       "options": [
-        "Drought tolerant",
-        "Shade loving",
-        "Draft and manure",
-        "Frost tolerant"
+        "Well-drained fertile clay soils",
+        "Waterlogged sandy field soils",
+        "Saline and rocky field soils",
+        "Shallow acidic hillside soils"
       ],
-      "correctAnswer": "Drought tolerant"
+      "correctAnswer": "Well-drained fertile clay soils"
     },
     {
       "id": 5,
       "anki": true,
-      "question": "Sorghum grain is used for injera and porridge, while stalks are used for",
+      "question": "Sorghum is rotated with haricot bean, soybean, sesame and",
       "options": [
-        "Sugar syrup",
-        "Grain shattering",
-        "Fencing and fuel",
-        "Textile fiber"
+        "Cotton",
+        "Rice",
+        "Tea",
+        "Coffee"
       ],
-      "correctAnswer": "Fencing and fuel"
+      "correctAnswer": "Cotton"
     },
     {
       "id": 6,
       "anki": true,
-      "question": "A sorghum field is attacked by quelea birds. The damage occurs on the",
+      "question": "Sorghum row spacing ranges from",
       "options": [
-        "Grain head",
-        "Root system",
-        "Lower stem",
-        "Leaf surface"
+        "0.5 to 1 meter",
+        "0.1 to 0.3 meter",
+        "1.5 to 2 meters",
+        "2 to 3 meters"
       ],
-      "correctAnswer": "Grain head"
+      "correctAnswer": "0.5 to 1 meter"
     },
     {
       "id": 7,
       "anki": true,
-      "question": "Sorghum smut, rust and anthracnose are",
+      "question": "Sorghum plants are spaced about",
       "options": [
-        "Fungal diseases",
-        "Viral diseases",
-        "Insect pests",
-        "Nutrient disorders"
+        "40 cm apart",
+        "10 cm apart",
+        "25 cm apart",
+        "75 cm apart"
       ],
-      "correctAnswer": "Fungal diseases"
+      "correctAnswer": "40 cm apart"
     },
     {
       "id": 8,
       "anki": true,
-      "question": "Sorghum stalk borer and shoot fly are",
+      "question": "Sorghum seeds are sown at a depth of about",
       "options": [
-        "Insect pests",
-        "Fungal diseases",
-        "Viral diseases",
-        "Weed species"
+        "2.5 cm",
+        "5 cm",
+        "10 cm",
+        "15 cm"
       ],
-      "correctAnswer": "Insect pests"
+      "correctAnswer": "2.5 cm"
     },
     {
       "id": 9,
       "anki": true,
-      "question": "Sorghum is harvested when grains are hard and dry to",
+      "question": "The common sorghum planting time is",
       "options": [
-        "Improve stalk color",
-        "Increase grain size",
-        "Reduce grain moisture",
-        "Modern record keeping"
+        "March to May",
+        "June to July",
+        "September to October",
+        "December to January"
       ],
-      "correctAnswer": "Reduce grain moisture"
+      "correctAnswer": "March to May"
     },
     {
       "id": 10,
       "anki": true,
-      "question": "A farmer plants sorghum at 75 cm rows and 25 cm within rows to",
+      "question": "Earthing up in sorghum helps resist",
       "options": [
-        "Get proper plant stand",
-        "Reduce fertilizer need",
-        "Increase stalk length",
-        "Delay crop maturity"
+        "Lodging due to wind",
+        "Seed dormancy loss",
+        "Storage pest damage",
+        "Soil salinity stress"
       ],
-      "correctAnswer": "Get proper plant stand"
+      "correctAnswer": "Lodging due to wind"
     },
     {
       "id": 11,
       "anki": true,
-      "question": "Sorghum is a good feed because it provides",
+      "question": "The usual sorghum fertilizer rate is",
       "options": [
-        "Barley and wheat",
-        "Grain and stover",
-        "Latex and resin",
-        "Sugar and syrup"
+        "32 kg N and 10 kg P",
+        "60 kg N and 26 kg P",
+        "45 kg N and 25 kg P",
+        "41 kg N and 20 kg P"
       ],
-      "correctAnswer": "Grain and stover"
+      "correctAnswer": "32 kg N and 10 kg P"
     },
     {
       "id": 12,
       "anki": true,
-      "question": "A farmer in a dry lowland has poor sandy soil. Sorghum is a good choice because it",
+      "question": "Striga is a major sorghum weed because it causes",
       "options": [
-        "Requires flooding every season",
-        "Saline soil with poor structure",
-        "Tolerates drought and poor soil",
-        "Needs much water and rich soil"
+        "Massive yield losses",
+        "Higher soil fertility",
+        "Better grain color",
+        "Earlier maturity"
       ],
-      "correctAnswer": "Tolerates drought and poor soil"
+      "correctAnswer": "Massive yield losses"
     },
     {
       "id": 13,
       "anki": true,
-      "question": "Grain mold in sorghum mainly reduces",
+      "question": "Striga control includes hand weeding before sorghum",
       "options": [
-        "Grain quality",
-        "Leaf color",
-        "Rainy pasture",
-        "Stalk height"
+        "Starts producing seeds",
+        "the grain is harvested",
+        "the field is planted",
+        "the crop flowers twice"
       ],
-      "correctAnswer": "Grain quality"
+      "correctAnswer": "Starts producing seeds"
     },
     {
       "id": 14,
       "anki": true,
-      "question": "Sorghum can be grown in areas too hot for",
+      "question": "Sorghum is affected by insect pests, birds and fungal diseases such as",
       "options": [
-        "Barley and wheat",
-        "Maize and rice",
-        "Teff and millet",
-        "Ferment roughage"
+        "Smut",
+        "Rust",
+        "Anthracnose",
+        "Powdery mildew"
       ],
-      "correctAnswer": "Barley and wheat"
+      "correctAnswer": "Smut"
     },
     {
       "id": 15,
       "anki": true,
-      "question": "Striga seeds can remain dormant in soil for many",
+      "question": "Sorghum matures in about",
       "options": [
-        "Years",
-        "Days",
-        "Weeks",
-        "Hours"
+        "4 months",
+        "2 months",
+        "6 months",
+        "9 months"
       ],
-      "correctAnswer": "Years"
+      "correctAnswer": "4 months"
     }
   ]
 }
