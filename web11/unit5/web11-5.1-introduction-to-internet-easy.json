@@ -1,0 +1,238 @@
+{
+  "title": "5.1 Introduction to the Internet",
+  "description": "The internet concepts and details. Easy level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "introduction to the internet",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the Internet?",
+      "options": [
+        "A global network of interconnected computers and devices",
+        "A single computer that stores every web page and document",
+        "A set of linked web pages and documents",
+        "A software tool for viewing websites online"
+      ],
+      "correctAnswer": "A global network of interconnected computers and devices"
+    },
+    {
+      "id": 2,
+      "question": "What is the primary function of the Internet?",
+      "options": [
+        "To facilitate data transfer between devices",
+        "To store all website content in one place for every user",
+        "To create HTML documents for web pages",
+        "To supply electricity to computer systems"
+      ],
+      "correctAnswer": "To facilitate data transfer between devices"
+    },
+    {
+      "id": 3,
+      "question": "Which network was the forerunner of the Internet?",
+      "options": [
+        "ARPANET",
+        "NSFNET",
+        "Mosaic",
+        "Ethernet"
+      ],
+      "correctAnswer": "ARPANET"
+    },
+    {
+      "id": 4,
+      "question": "In which year did ARPANET make its first host-to-host connection?",
+      "options": [
+        "1969",
+        "1983",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": "1969"
+    },
+    {
+      "id": 5,
+      "question": "Which two institutions were linked by ARPANET’s first connection?",
+      "options": [
+        "UCLA and Stanford Research Institute",
+        "MIT and Harvard University",
+        "CERN and Oxford University",
+        "IBM and the Stanford Research Institute"
+      ],
+      "correctAnswer": "UCLA and Stanford Research Institute"
+    },
+    {
+      "id": 6,
+      "question": "Who developed TCP/IP in the 1970s?",
+      "options": [
+        "Vint Cerf and Bob Kahn",
+        "Tim Berners-Lee and Robert Cailliau",
+        "Bill Gates and Paul Allen",
+        "Alfred Wegener and Harry Hess"
+      ],
+      "correctAnswer": "Vint Cerf and Bob Kahn"
+    },
+    {
+      "id": 7,
+      "question": "What do the letters TCP/IP stand for?",
+      "options": [
+        "Transmission Control Protocol/Internet Protocol",
+        "Transmission Control Program/Internet Protocol",
+        "Transfer Control Protocol/Internet Protocol",
+        "Transmission Control Protocol/Internal Protocol"
+      ],
+      "correctAnswer": "Transmission Control Protocol/Internet Protocol"
+    },
+    {
+      "id": 8,
+      "question": "In which year did ARPANET switch to TCP/IP?",
+      "options": [
+        "1983",
+        "1969",
+        "1975",
+        "1991"
+      ],
+      "correctAnswer": "1983"
+    },
+    {
+      "id": 9,
+      "question": "Which organization created NSFNET in the late 1980s?",
+      "options": [
+        "The National Science Foundation",
+        "The Department of Defense",
+        "The European Organization for Research",
+        "The World Health Organization"
+      ],
+      "correctAnswer": "The National Science Foundation"
+    },
+    {
+      "id": 10,
+      "question": "Which network replaced ARPANET as the main backbone?",
+      "options": [
+        "NSFNET",
+        "ARPANET",
+        "Ethernet",
+        "Mosaic"
+      ],
+      "correctAnswer": "NSFNET"
+    },
+    {
+      "id": 11,
+      "question": "What technique breaks data into small packets for transmission?",
+      "options": [
+        "Packet switching",
+        "Circuit switching",
+        "Message switching",
+        "Frequency switching"
+      ],
+      "correctAnswer": "Packet switching"
+    },
+    {
+      "id": 12,
+      "question": "Which department funded the development of ARPANET?",
+      "options": [
+        "The Department of Defense",
+        "The Department of Education",
+        "The Department of Energy",
+        "The Department of Health"
+      ],
+      "correctAnswer": "The Department of Defense"
+    },
+    {
+      "id": 13,
+      "question": "What does ISP stand for?",
+      "options": [
+        "Internet Service Provider",
+        "Internet Service Protocol",
+        "Internal Service Provider",
+        "Internet System Provider"
+      ],
+      "correctAnswer": "Internet Service Provider"
+    },
+    {
+      "id": 14,
+      "question": "Which service translates domain names into IP addresses?",
+      "options": [
+        "DNS",
+        "HTTP",
+        "SMTP",
+        "FTP"
+      ],
+      "correctAnswer": "DNS"
+    },
+    {
+      "id": 15,
+      "question": "What does HTTP stand for?",
+      "options": [
+        "Hyper Text Transfer Protocol",
+        "Hyper Text Transmission Protocol",
+        "Hyperlink Text Transfer Protocol",
+        "Hyper Text Transfer Program"
+      ],
+      "correctAnswer": "Hyper Text Transfer Protocol"
+    },
+    {
+      "id": 16,
+      "question": "Which protocol is used to send email?",
+      "options": [
+        "SMTP",
+        "HTTP",
+        "FTP",
+        "DNS"
+      ],
+      "correctAnswer": "SMTP"
+    },
+    {
+      "id": 17,
+      "question": "Which protocol transfers files between hosts?",
+      "options": [
+        "FTP",
+        "SMTP",
+        "HTTP",
+        "DNS"
+      ],
+      "correctAnswer": "FTP"
+    },
+    {
+      "id": 18,
+      "question": "What is a unique numerical label for each device on the Internet?",
+      "options": [
+        "An IP address",
+        "A URL string",
+        "A domain name",
+        "A port number"
+      ],
+      "correctAnswer": "An IP address"
+    },
+    {
+      "id": 19,
+      "question": "Which device forwards data packets between networks?",
+      "options": [
+        "A router",
+        "A switch",
+        "A modem",
+        "A printer"
+      ],
+      "correctAnswer": "A router"
+    },
+    {
+      "id": 20,
+      "question": "Which cables carry data between continents?",
+      "options": [
+        "Undersea cables",
+        "Telephone cables",
+        "TV cables",
+        "Patch cables"
+      ],
+      "correctAnswer": "Undersea cables"
+    }
+  ]
+}

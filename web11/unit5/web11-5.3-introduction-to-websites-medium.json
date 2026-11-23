@@ -1,0 +1,238 @@
+{
+  "title": "5.3 Introduction to Websites",
+  "description": "Websites concepts and details. Medium level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "introduction to websites",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which characteristics describe static websites?",
+      "options": [
+        "Fixed content, quick loading and simple hosting",
+        "Personalized content and flexible server hosting",
+        "Server scripting and live databases",
+        "Interactive pages and user logins"
+      ],
+      "correctAnswer": "Fixed content, quick loading and simple hosting"
+    },
+    {
+      "id": 2,
+      "question": "Which sites typically use static pages?",
+      "options": [
+        "Landing pages and documentation sites",
+        "Social media platforms and news portals",
+        "E-commerce and online stores",
+        "Blogs with personalized feeds"
+      ],
+      "correctAnswer": "Landing pages and documentation sites"
+    },
+    {
+      "id": 3,
+      "question": "How do dynamic sites build their pages?",
+      "options": [
+        "With server-side scripting",
+        "With fixed HTML files stored locally",
+        "With printed documents",
+        "With email messages"
+      ],
+      "correctAnswer": "With server-side scripting"
+    },
+    {
+      "id": 4,
+      "question": "Which languages are used in server-side scripting?",
+      "options": [
+        "PHP, Python and Node.js",
+        "HTML, CSS and JavaScript",
+        "SQL, XML and JSON",
+        "C, C++ and Java"
+      ],
+      "correctAnswer": "PHP, Python and Node.js"
+    },
+    {
+      "id": 5,
+      "question": "Which describes dynamic website content?",
+      "options": [
+        "Interactive and personalized",
+        "Fixed and completely unchanging",
+        "Printed and bound",
+        "Static and simple"
+      ],
+      "correctAnswer": "Interactive and personalized"
+    },
+    {
+      "id": 6,
+      "question": "Which sites typically use dynamic pages?",
+      "options": [
+        "E-commerce sites and social media",
+        "Landing pages and simple brochures",
+        "Documentation and manuals",
+        "Static image galleries"
+      ],
+      "correctAnswer": "E-commerce sites and social media"
+    },
+    {
+      "id": 7,
+      "question": "Which type of site offers high flexibility?",
+      "options": [
+        "A dynamic website",
+        "A static website",
+        "A printed brochure",
+        "A text document"
+      ],
+      "correctAnswer": "A dynamic website"
+    },
+    {
+      "id": 8,
+      "question": "Which form element permits multiple selections?",
+      "options": [
+        "Checkboxes",
+        "Radio buttons",
+        "Text fields",
+        "Submit buttons"
+      ],
+      "correctAnswer": "Checkboxes"
+    },
+    {
+      "id": 9,
+      "question": "Which form element shows a drop-down list?",
+      "options": [
+        "Dropdowns",
+        "Text fields",
+        "Radio buttons",
+        "Checkboxes"
+      ],
+      "correctAnswer": "Dropdowns"
+    },
+    {
+      "id": 10,
+      "question": "What do web forms collect from users?",
+      "options": [
+        "User input",
+        "Server data",
+        "Network packets",
+        "IP addresses"
+      ],
+      "correctAnswer": "User input"
+    },
+    {
+      "id": 11,
+      "question": "What does a website provide as a virtual space?",
+      "options": [
+        "Sharing information and showcasing products",
+        "Storing all email messages on a remote server",
+        "Routing network packets between hosts",
+        "Printing documents for the office"
+      ],
+      "correctAnswer": "Sharing information and showcasing products"
+    },
+    {
+      "id": 12,
+      "question": "Which site is an example of a static site?",
+      "options": [
+        "A documentation site",
+        "A social network platform",
+        "An online store",
+        "A news portal"
+      ],
+      "correctAnswer": "A documentation site"
+    },
+    {
+      "id": 13,
+      "question": "Which site is an example of a dynamic site?",
+      "options": [
+        "A social media platform",
+        "A simple landing web page",
+        "A brochure site",
+        "A manual"
+      ],
+      "correctAnswer": "A social media platform"
+    },
+    {
+      "id": 14,
+      "question": "What must happen for static content to change?",
+      "options": [
+        "The page must be edited manually",
+        "The server must reboot every day",
+        "The browser must refresh",
+        "The DNS must update"
+      ],
+      "correctAnswer": "The page must be edited manually"
+    },
+    {
+      "id": 15,
+      "question": "What generates pages on the fly?",
+      "options": [
+        "Server-side scripting",
+        "Plain fixed HTML files",
+        "Printed web pages",
+        "Network cables"
+      ],
+      "correctAnswer": "Server-side scripting"
+    },
+    {
+      "id": 16,
+      "question": "Which is a component of a web page?",
+      "options": [
+        "Forms and user input",
+        "Routers and switches",
+        "Cables and servers",
+        "Modems and firewalls"
+      ],
+      "correctAnswer": "Forms and user input"
+    },
+    {
+      "id": 17,
+      "question": "What is the role of hyperlinks in a website?",
+      "options": [
+        "Navigation between pages",
+        "Storing user data",
+        "Encrypting all web connections",
+        "Hosting the site"
+      ],
+      "correctAnswer": "Navigation between pages"
+    },
+    {
+      "id": 18,
+      "question": "What is the role of multimedia on a web page?",
+      "options": [
+        "To enhance the user experience",
+        "To replace all of the HTML tags",
+        "To block hyperlinks",
+        "To store the server"
+      ],
+      "correctAnswer": "To enhance the user experience"
+    },
+    {
+      "id": 19,
+      "question": "Which kind of site ranges from one page to complex portals?",
+      "options": [
+        "A website",
+        "A web page",
+        "A browser",
+        "A server"
+      ],
+      "correctAnswer": "A website"
+    },
+    {
+      "id": 20,
+      "question": "What do e-commerce websites sell?",
+      "options": [
+        "Products and services",
+        "Only digital software files",
+        "Only printed books",
+        "Only network cables"
+      ],
+      "correctAnswer": "Products and services"
+    }
+  ]
+}

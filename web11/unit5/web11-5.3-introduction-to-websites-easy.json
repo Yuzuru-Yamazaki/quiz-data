@@ -1,0 +1,238 @@
+{
+  "title": "5.3 Introduction to Websites",
+  "description": "Websites concepts and details. Easy level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "introduction to websites",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a website?",
+      "options": [
+        "A collection of web pages on a server",
+        "A single page printed on a paper sheet",
+        "A cable linking two computers",
+        "A program for sending email"
+      ],
+      "correctAnswer": "A collection of web pages on a server"
+    },
+    {
+      "id": 2,
+      "question": "Where is a website hosted?",
+      "options": [
+        "On a web server",
+        "On a web browser",
+        "On a router",
+        "On a switch"
+      ],
+      "correctAnswer": "On a web server"
+    },
+    {
+      "id": 3,
+      "question": "How is a website accessed?",
+      "options": [
+        "Through the World Wide Web",
+        "Through a telephone cable only",
+        "Through a local printer",
+        "Through an email client"
+      ],
+      "correctAnswer": "Through the World Wide Web"
+    },
+    {
+      "id": 4,
+      "question": "What is the simplest form of a website?",
+      "options": [
+        "A single-page site",
+        "A multi-page portal",
+        "A data center",
+        "A network switch"
+      ],
+      "correctAnswer": "A single-page site"
+    },
+    {
+      "id": 5,
+      "question": "Which purpose includes news platforms and blogs?",
+      "options": [
+        "Information dissemination",
+        "Online entertainment sites",
+        "Selling products online",
+        "Customer support pages"
+      ],
+      "correctAnswer": "Information dissemination"
+    },
+    {
+      "id": 6,
+      "question": "Which purpose includes Amazon and eBay?",
+      "options": [
+        "E-commerce",
+        "Education",
+        "Healthcare",
+        "Banking"
+      ],
+      "correctAnswer": "E-commerce"
+    },
+    {
+      "id": 7,
+      "question": "Which purpose builds brand identity?",
+      "options": [
+        "Marketing and branding",
+        "Customer service",
+        "Community building online",
+        "Entertainment"
+      ],
+      "correctAnswer": "Marketing and branding"
+    },
+    {
+      "id": 8,
+      "question": "Which purpose includes FAQs and live chat?",
+      "options": [
+        "Customer service",
+        "Marketing and branding",
+        "Entertainment",
+        "Education"
+      ],
+      "correctAnswer": "Customer service"
+    },
+    {
+      "id": 9,
+      "question": "Which purpose includes forums and discussion boards?",
+      "options": [
+        "Community building",
+        "Information sharing",
+        "Online shopping",
+        "Brand marketing"
+      ],
+      "correctAnswer": "Community building"
+    },
+    {
+      "id": 10,
+      "question": "Which purpose includes streaming and games?",
+      "options": [
+        "Entertainment",
+        "E-commerce shopping",
+        "Healthcare",
+        "Banking"
+      ],
+      "correctAnswer": "Entertainment"
+    },
+    {
+      "id": 11,
+      "question": "What is a web page?",
+      "options": [
+        "An HTML document with structure and layout",
+        "A printed document stored in an office folder",
+        "A cable connecting two servers",
+        "A protocol for email transfer"
+      ],
+      "correctAnswer": "An HTML document with structure and layout"
+    },
+    {
+      "id": 12,
+      "question": "What do HTML tags define in a web page?",
+      "options": [
+        "The structure and layout of content",
+        "The speed of the network connection",
+        "The color of the server",
+        "The price of hosting"
+      ],
+      "correctAnswer": "The structure and layout of content"
+    },
+    {
+      "id": 13,
+      "question": "Which element enables navigation between pages?",
+      "options": [
+        "Hyperlinks",
+        "Paragraphs",
+        "Images",
+        "Tables"
+      ],
+      "correctAnswer": "Hyperlinks"
+    },
+    {
+      "id": 14,
+      "question": "Which are multimedia elements on a web page?",
+      "options": [
+        "Images, video and audio",
+        "Headings, lists and tables",
+        "Forms, fields and buttons",
+        "Servers, routers and cables"
+      ],
+      "correctAnswer": "Images, video and audio"
+    },
+    {
+      "id": 15,
+      "question": "Which form element allows only one choice?",
+      "options": [
+        "Radio buttons",
+        "Checkboxes",
+        "Text fields",
+        "Submit buttons"
+      ],
+      "correctAnswer": "Radio buttons"
+    },
+    {
+      "id": 16,
+      "question": "Which form element collects typed text?",
+      "options": [
+        "Text fields",
+        "Radio buttons",
+        "Checkboxes",
+        "Dropdowns"
+      ],
+      "correctAnswer": "Text fields"
+    },
+    {
+      "id": 17,
+      "question": "Which element sends a completed form?",
+      "options": [
+        "A submit button",
+        "A radio button field",
+        "A text field",
+        "A hyperlink"
+      ],
+      "correctAnswer": "A submit button"
+    },
+    {
+      "id": 18,
+      "question": "What is a static website?",
+      "options": [
+        "A site whose content stays the same until edited",
+        "A site built with server-side scripting",
+        "A site that generates pages on the fly",
+        "A site that personalizes content for each visitor"
+      ],
+      "correctAnswer": "A site whose content stays the same until edited"
+    },
+    {
+      "id": 19,
+      "question": "What is a dynamic website?",
+      "options": [
+        "A site that builds pages on demand",
+        "A site with fixed HTML content stored",
+        "A site hosted on one computer",
+        "A site with only text documents"
+      ],
+      "correctAnswer": "A site that builds pages on demand"
+    },
+    {
+      "id": 20,
+      "question": "Which type of site is quick to load?",
+      "options": [
+        "A static website",
+        "A dynamic website",
+        "A server-side app",
+        "An e-commerce portal"
+      ],
+      "correctAnswer": "A static website"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "title": "5.2 Introduction to the World Wide Web",
+  "description": "The world wide web concepts and details. Easy level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "introduction to the world wide web",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does WWW stand for?",
+      "options": [
+        "World Wide Web",
+        "World Wide Network",
+        "Wide World Web",
+        "World Web Wide"
+      ],
+      "correctAnswer": "World Wide Web"
+    },
+    {
+      "id": 2,
+      "question": "What is the World Wide Web?",
+      "options": [
+        "A system of interlinked hypertext documents",
+        "A single web page stored on one remote server",
+        "A network of physical computer cables",
+        "A type of web browser application"
+      ],
+      "correctAnswer": "A system of interlinked hypertext documents"
+    },
+    {
+      "id": 3,
+      "question": "Who invented the World Wide Web at CERN?",
+      "options": [
+        "Tim Berners-Lee",
+        "Charles Babbage",
+        "Vint Cerf",
+        "Bill Gates"
+      ],
+      "correctAnswer": "Tim Berners-Lee"
+    },
+    {
+      "id": 4,
+      "question": "In which year did the Web become publicly available?",
+      "options": [
+        "1991",
+        "1969",
+        "1983",
+        "1993"
+      ],
+      "correctAnswer": "1991"
+    },
+    {
+      "id": 5,
+      "question": "At which organization was the Web invented?",
+      "options": [
+        "CERN",
+        "MIT",
+        "NASA",
+        "IBM"
+      ],
+      "correctAnswer": "CERN"
+    },
+    {
+      "id": 6,
+      "question": "What is a web page?",
+      "options": [
+        "An HTML document containing text and media",
+        "A printed page of a textbook in the library",
+        "A cable connecting two servers",
+        "A protocol for sending email"
+      ],
+      "correctAnswer": "An HTML document containing text and media"
+    },
+    {
+      "id": 7,
+      "question": "Which software interprets HTML and displays web pages?",
+      "options": [
+        "A web browser",
+        "A web server program",
+        "A router",
+        "A switch"
+      ],
+      "correctAnswer": "A web browser"
+    },
+    {
+      "id": 8,
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Firefox",
+        "Apache",
+        "Nginx",
+        "Windows Server"
+      ],
+      "correctAnswer": "Firefox"
+    },
+    {
+      "id": 9,
+      "question": "What connects one web page to another?",
+      "options": [
+        "A hyperlink",
+        "A URL address",
+        "A server",
+        "A packet"
+      ],
+      "correctAnswer": "A hyperlink"
+    },
+    {
+      "id": 10,
+      "question": "What is a URL?",
+      "options": [
+        "A unique address pointing to a web resource",
+        "A type of web browser application for pages",
+        "A protocol used for sending email",
+        "A computer cable for networking"
+      ],
+      "correctAnswer": "A unique address pointing to a web resource"
+    },
+    {
+      "id": 11,
+      "question": "What does HTTP stand for?",
+      "options": [
+        "Hyper Text Transfer Protocol",
+        "Hyper Text Transmission Protocol",
+        "Hyperlink Text Transfer Protocol",
+        "Hyper Text Transfer Program"
+      ],
+      "correctAnswer": "Hyper Text Transfer Protocol"
+    },
+    {
+      "id": 12,
+      "question": "What does HTTPS add to HTTP?",
+      "options": [
+        "SSL/TLS encryption of the data",
+        "Faster delivery of web pages",
+        "A new request method",
+        "Automatic translation of pages"
+      ],
+      "correctAnswer": "SSL/TLS encryption of the data"
+    },
+    {
+      "id": 13,
+      "question": "Which protocol is the Web’s underlying protocol?",
+      "options": [
+        "HTTP",
+        "SMTP",
+        "FTP",
+        "DNS"
+      ],
+      "correctAnswer": "HTTP"
+    },
+    {
+      "id": 14,
+      "question": "Which model does the Web follow?",
+      "options": [
+        "Client-server",
+        "Peer-to-peer network",
+        "Master-slave",
+        "Ring network"
+      ],
+      "correctAnswer": "Client-server"
+    },
+    {
+      "id": 15,
+      "question": "Which three technologies enable the Web?",
+      "options": [
+        "HTML, HTTP and URL",
+        "CSS, JavaScript and PHP",
+        "TCP, IP and DNS",
+        "SMTP, FTP and IMAP"
+      ],
+      "correctAnswer": "HTML, HTTP and URL"
+    },
+    {
+      "id": 16,
+      "question": "What does DNS translate?",
+      "options": [
+        "Domain names into IP addresses",
+        "IP addresses into domain names",
+        "HTML into web pages",
+        "Email into packets"
+      ],
+      "correctAnswer": "Domain names into IP addresses"
+    },
+    {
+      "id": 17,
+      "question": "What does TLD stand for?",
+      "options": [
+        "Top-Level Domain",
+        "Total Link Directory",
+        "Transfer Layer Data",
+        "Text Link Document"
+      ],
+      "correctAnswer": "Top-Level Domain"
+    },
+    {
+      "id": 18,
+      "question": "Which of these is a top-level domain?",
+      "options": [
+        ".com",
+        "www",
+        "blog",
+        "shoes"
+      ],
+      "correctAnswer": ".com"
+    },
+    {
+      "id": 19,
+      "question": "Which graphical browser appeared in 1993?",
+      "options": [
+        "Mosaic",
+        "Netscape",
+        "Chrome",
+        "Firefox"
+      ],
+      "correctAnswer": "Mosaic"
+    },
+    {
+      "id": 20,
+      "question": "What did Web 2.0 introduce?",
+      "options": [
+        "User-generated content and social media",
+        "Static text and image pages",
+        "Hyperlinks between documents",
+        "Client-server delivery of web pages to users"
+      ],
+      "correctAnswer": "User-generated content and social media"
+    }
+  ]
+}
