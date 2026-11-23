@@ -60,10 +60,10 @@
       "options": [
         "Carbon dioxide",
         "Nitrogen",
-        "Binary fission",
+        "Water",
         "Oxygen"
       ],
-      "correctAnswer": "Carbon dioxide"
+      "correctAnswer": "Water"
     },
     {
       "id": 6,

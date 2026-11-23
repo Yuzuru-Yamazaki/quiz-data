@@ -125,12 +125,12 @@
       "anki": true,
       "question": "In common digital storage units, what is 4 petabytes equivalent to?",
       "options": [
-        "One million gigabytes",
+        "Four million gigabytes",
         "One thousand gigabytes",
         "Ten thousand gigabytes",
         "One hundred thousand gigabytes"
       ],
-      "correctAnswer": "One million gigabytes"
+      "correctAnswer": "Four million gigabytes"
     },
     {
       "id": 11,

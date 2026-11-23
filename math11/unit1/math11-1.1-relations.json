@@ -316,11 +316,11 @@
       "question": "According to the textbook, a relation may be defined by __________.",
       "options": [
         "a set of ordered pairs",
-        "an equation",
-        "a graph",
-        "all of the above"
+        "a set of ordered triples",
+        "a list of unordered pairs",
+        "a set of isolated numbers"
       ],
-      "correctAnswer": "all of the above"
+      "correctAnswer": "a set of ordered pairs"
     },
     {
       "id": 27,

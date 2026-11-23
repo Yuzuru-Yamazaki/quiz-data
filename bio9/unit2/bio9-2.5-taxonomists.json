@@ -97,13 +97,13 @@
     {
       "question": "Which Ethiopian taxonomist contributed significantly to the study of Ethiopian plant species?",
       "options": [
-        "All of the above",
+        "Carl Linnaeus",
         "Sebsebe Demissew",
-        "Abebe Getahun",
-        "Tesfaye Awas"
+        "Charles Darwin",
+        "Alexander Fleming"
       ],
-      "correctAnswer": "All of the above",
-      "explanation": "Abebe Getahun, Tesfaye Awas, and Sebsebe Demissew are prominent Ethiopian botanists who have contributed to plant taxonomy.",
+      "correctAnswer": "Sebsebe Demissew",
+      "explanation": "Sebsebe Demissew is a prominent Ethiopian botanist known for documenting and classifying Ethiopia's plant species.",
       "anki": true
     },
     {
@@ -127,7 +127,7 @@
         "Royal Botanic Gardens Award"
       ],
       "correctAnswer": "Linnean Medal",
-      "explanation": "Professor Sebsebe Demissew was awarded the prestigious Linnean Medal in 2019 for his contributions to botany.",
+      "explanation": "Professor Sebsebe Demissew was awarded the prestigious Linnean Medal in 2022 for his contributions to botany.",
       "anki": true
     },
     {
@@ -230,12 +230,12 @@
       "question": "Which Ethiopian taxonomist contributed to the Flora of Ethiopia and Eritrea project?",
       "options": [
         "Ensermu Kelbessa",
-        "Sebsebe Demissew",
-        "Tesfaye Awas",
-        "All of the above"
+        "Carl Linnaeus",
+        "Charles Darwin",
+        "Alexander Fleming"
       ],
-      "correctAnswer": "All of the above",
-      "explanation": "Many Ethiopian taxonomists including Sebsebe Demissew, Tesfaye Awas, and Ensermu Kelbessa contributed to the Flora of Ethiopia and Eritrea project.",
+      "correctAnswer": "Ensermu Kelbessa",
+      "explanation": "Ensermu Kelbessa was among the Ethiopian botanists who contributed to the Flora of Ethiopia and Eritrea project.",
       "anki": true
     },
     {
