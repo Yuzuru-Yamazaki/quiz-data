@@ -699,9 +699,9 @@
         "Dilute urine",
         "Blood",
         "Concentrated urine",
-        "No urine"
+        "Highly dilute urine"
       ],
-      "correctAnswer": "Dilute urine"
+      "correctAnswer": "Concentrated urine"
     },
     {
       "id": 64,
