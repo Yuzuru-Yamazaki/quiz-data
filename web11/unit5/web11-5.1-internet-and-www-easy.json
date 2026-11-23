@@ -1,0 +1,238 @@
+{
+  "title": "5.1 The Internet and the World Wide Web",
+  "description": "The Internet and the World Wide Web: definition, history, protocols, DNS, URLs and websites. Easy level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "internet and world wide web",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the Internet?",
+      "options": [
+        "A global network of interconnected computers and devices",
+        "A single computer that stores every web page and document",
+        "A set of linked web pages and documents",
+        "A software tool for viewing websites online"
+      ],
+      "correctAnswer": "A global network of interconnected computers and devices"
+    },
+    {
+      "id": 2,
+      "question": "What is the main function of the Internet?",
+      "options": [
+        "To facilitate data transfer between connected devices",
+        "To store all website content in one place for every user",
+        "To create HTML documents for web pages",
+        "To provide electricity to computer systems"
+      ],
+      "correctAnswer": "To facilitate data transfer between connected devices"
+    },
+    {
+      "id": 3,
+      "question": "Which network was the forerunner of the Internet?",
+      "options": [
+        "ARPANET",
+        "NSFNET",
+        "Mosaic",
+        "Ethernet"
+      ],
+      "correctAnswer": "ARPANET"
+    },
+    {
+      "id": 4,
+      "question": "In which year did ARPANET make its first host-to-host connection?",
+      "options": [
+        "1969",
+        "1983",
+        "1991",
+        "1993"
+      ],
+      "correctAnswer": "1969"
+    },
+    {
+      "id": 5,
+      "question": "Which two institutions were linked by ARPANET’s first connection?",
+      "options": [
+        "UCLA and Stanford Research Institute",
+        "MIT and Harvard University",
+        "CERN and Oxford University",
+        "IBM and the Stanford Research Institute"
+      ],
+      "correctAnswer": "UCLA and Stanford Research Institute"
+    },
+    {
+      "id": 6,
+      "question": "Who developed TCP/IP in the 1970s?",
+      "options": [
+        "Vint Cerf and Bob Kahn",
+        "Tim Berners-Lee and Robert Cailliau",
+        "Bill Gates and Paul Allen",
+        "Alfred Wegener and Harry Hess"
+      ],
+      "correctAnswer": "Vint Cerf and Bob Kahn"
+    },
+    {
+      "id": 7,
+      "question": "What do the letters TCP/IP stand for?",
+      "options": [
+        "Transmission Control Protocol/Internet Protocol",
+        "Transmission Control Program/Internet Protocol",
+        "Transfer Control Protocol/Internet Protocol",
+        "Transmission Control Protocol/Internal Protocol"
+      ],
+      "correctAnswer": "Transmission Control Protocol/Internet Protocol"
+    },
+    {
+      "id": 8,
+      "question": "In which year did ARPANET officially switch to TCP/IP?",
+      "options": [
+        "1983",
+        "1969",
+        "1975",
+        "1991"
+      ],
+      "correctAnswer": "1983"
+    },
+    {
+      "id": 9,
+      "question": "Who invented the World Wide Web at CERN?",
+      "options": [
+        "Tim Berners-Lee",
+        "Charles Babbage",
+        "Vint Cerf",
+        "Bill Gates"
+      ],
+      "correctAnswer": "Tim Berners-Lee"
+    },
+    {
+      "id": 10,
+      "question": "In which year did the Web become publicly available?",
+      "options": [
+        "1991",
+        "1969",
+        "1983",
+        "1993"
+      ],
+      "correctAnswer": "1991"
+    },
+    {
+      "id": 11,
+      "question": "Which browser helped make the Web accessible in 1993?",
+      "options": [
+        "Mosaic",
+        "Netscape",
+        "Chrome",
+        "Firefox"
+      ],
+      "correctAnswer": "Mosaic"
+    },
+    {
+      "id": 12,
+      "question": "What is a unique numerical label assigned to each device on the Internet?",
+      "options": [
+        "An IP address",
+        "A URL string",
+        "A domain name",
+        "A port number"
+      ],
+      "correctAnswer": "An IP address"
+    },
+    {
+      "id": 13,
+      "question": "What does ISP stand for?",
+      "options": [
+        "Internet Service Provider",
+        "Internet Service Protocol",
+        "Internal Service Provider",
+        "Internet System Provider"
+      ],
+      "correctAnswer": "Internet Service Provider"
+    },
+    {
+      "id": 14,
+      "question": "Which device forwards data packets between different networks?",
+      "options": [
+        "A router",
+        "A switch",
+        "A modem",
+        "A printer"
+      ],
+      "correctAnswer": "A router"
+    },
+    {
+      "id": 15,
+      "question": "Which service translates domain names into IP addresses?",
+      "options": [
+        "DNS",
+        "HTTP",
+        "SMTP",
+        "FTP"
+      ],
+      "correctAnswer": "DNS"
+    },
+    {
+      "id": 16,
+      "question": "What does HTTP stand for?",
+      "options": [
+        "Hyper Text Transfer Protocol",
+        "Hyper Text Transmission Protocol",
+        "Hyperlink Text Transfer Protocol",
+        "Hyper Text Transfer Program"
+      ],
+      "correctAnswer": "Hyper Text Transfer Protocol"
+    },
+    {
+      "id": 17,
+      "question": "Which protocol is used for sending email?",
+      "options": [
+        "SMTP",
+        "HTTP",
+        "FTP",
+        "DNS"
+      ],
+      "correctAnswer": "SMTP"
+    },
+    {
+      "id": 18,
+      "question": "Which protocol is used to transfer files between hosts?",
+      "options": [
+        "FTP",
+        "SMTP",
+        "HTTP",
+        "DNS"
+      ],
+      "correctAnswer": "FTP"
+    },
+    {
+      "id": 19,
+      "question": "What is the default TCP port for HTTP?",
+      "options": [
+        "Port 80",
+        "Port 21",
+        "Port 25",
+        "Port 443"
+      ],
+      "correctAnswer": "Port 80"
+    },
+    {
+      "id": 20,
+      "question": "Which of these is a web browser?",
+      "options": [
+        "Firefox",
+        "Apache",
+        "Nginx",
+        "Windows Server"
+      ],
+      "correctAnswer": "Firefox"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "title": "5.1 The Internet and the World Wide Web",
+  "description": "The Internet and the World Wide Web: definition, history, protocols, DNS, URLs and websites. Medium level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "internet and world wide web",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which statement distinguishes the Internet from the World Wide Web?",
+      "options": [
+        "The Web is an information service built on the Internet",
+        "The Internet is a collection of linked web pages worldwide",
+        "The Web is the physical network of computers",
+        "They are two different names for the same global system"
+      ],
+      "correctAnswer": "The Web is an information service built on the Internet"
+    },
+    {
+      "id": 2,
+      "question": "What role does IP play in data transmission?",
+      "options": [
+        "It addresses packets and chooses the route they take",
+        "It guarantees that packets arrive in the correct order",
+        "It encrypts all data before network transmission",
+        "It stores web pages on a remote web server"
+      ],
+      "correctAnswer": "It addresses packets and chooses the route they take"
+    },
+    {
+      "id": 3,
+      "question": "What does TCP add to the service provided by IP?",
+      "options": [
+        "Reliable, ordered delivery of data",
+        "Faster routing of packets",
+        "Encryption of all traffic",
+        "Unique addressing of all network devices"
+      ],
+      "correctAnswer": "Reliable, ordered delivery of data"
+    },
+    {
+      "id": 4,
+      "question": "What is the first step of the TCP three-way handshake?",
+      "options": [
+        "Computer A sends a SYN message",
+        "Computer B sends a SYN-ACK reply",
+        "Computer A sends an ACK message",
+        "Both computers exchange FIN messages"
+      ],
+      "correctAnswer": "Computer A sends a SYN message"
+    },
+    {
+      "id": 5,
+      "question": "Which TCP feature numbers every byte of data?",
+      "options": [
+        "Sequence numbers",
+        "Acknowledgments",
+        "Flow control",
+        "Congestion control"
+      ],
+      "correctAnswer": "Sequence numbers"
+    },
+    {
+      "id": 6,
+      "question": "What does the sender do when an acknowledgment times out?",
+      "options": [
+        "The sender retransmits the missing data",
+        "The receiver closes the TCP connection immediately",
+        "The router changes the IP address",
+        "The browser renders the page again"
+      ],
+      "correctAnswer": "The sender retransmits the missing data"
+    },
+    {
+      "id": 7,
+      "question": "Which statement about IP is accurate?",
+      "options": [
+        "It delivers packets on a best-effort basis",
+        "It guarantees delivery of every packet",
+        "It reorders packets at the destination",
+        "It establishes a connection before sending"
+      ],
+      "correctAnswer": "It delivers packets on a best-effort basis"
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of flow control in TCP?",
+      "options": [
+        "To prevent the sender from overwhelming the receiver",
+        "To slow down the sender when the network becomes busy",
+        "To number every byte in each data segment sent",
+        "To close the connection politely after transfer"
+      ],
+      "correctAnswer": "To prevent the sender from overwhelming the receiver"
+    },
+    {
+      "id": 9,
+      "question": "Which service acts like the Internet’s phone book?",
+      "options": [
+        "DNS",
+        "FTP",
+        "SMTP",
+        "HTTP"
+      ],
+      "correctAnswer": "DNS"
+    },
+    {
+      "id": 10,
+      "question": "What does the DNS resolver do first after a user types a URL?",
+      "options": [
+        "It queries a DNS root name server",
+        "It queries the domain’s name server",
+        "It sends an HTTP request to the site",
+        "It contacts the web server directly"
+      ],
+      "correctAnswer": "It queries a DNS root name server"
+    },
+    {
+      "id": 11,
+      "question": "Which server returns the IP address of a domain in a DNS lookup?",
+      "options": [
+        "The domain’s name server",
+        "The root name server",
+        "The top-level domain server",
+        "The web server"
+      ],
+      "correctAnswer": "The domain’s name server"
+    },
+    {
+      "id": 12,
+      "question": "In a URL, what do the key-value pairs after a question mark represent?",
+      "options": [
+        "URL query parameters",
+        "The top-level domain of the site",
+        "The subdomain before the first dot",
+        "The path to a specific web page"
+      ],
+      "correctAnswer": "URL query parameters"
+    },
+    {
+      "id": 13,
+      "question": "Which part of a URL is \".com\" in \"www.example.com\"?",
+      "options": [
+        "The top-level domain",
+        "The subdomain www",
+        "The protocol scheme",
+        "The slug of the web page"
+      ],
+      "correctAnswer": "The top-level domain"
+    },
+    {
+      "id": 14,
+      "question": "What does HTTPS add to HTTP?",
+      "options": [
+        "SSL/TLS encryption of the data",
+        "Faster delivery of web pages",
+        "A new request method",
+        "Automatic translation of pages"
+      ],
+      "correctAnswer": "SSL/TLS encryption of the data"
+    },
+    {
+      "id": 15,
+      "question": "Which methods are commonly used by HTTP requests?",
+      "options": [
+        "GET and POST",
+        "SYN and ACK",
+        "SMTP and POP3",
+        "FTP and DNS"
+      ],
+      "correctAnswer": "GET and POST"
+    },
+    {
+      "id": 16,
+      "question": "What is a static website?",
+      "options": [
+        "A site whose content stays the same until edited",
+        "A site built with server-side scripting",
+        "A site that generates pages on the fly",
+        "A site that personalizes content for each visitor"
+      ],
+      "correctAnswer": "A site whose content stays the same until edited"
+    },
+    {
+      "id": 17,
+      "question": "Which scripting languages are mentioned for dynamic websites?",
+      "options": [
+        "PHP, Python and Node.js",
+        "HTML, CSS and JavaScript",
+        "SQL, XML and JSON",
+        "C, C++ and Java"
+      ],
+      "correctAnswer": "PHP, Python and Node.js"
+    },
+    {
+      "id": 18,
+      "question": "Which web server software is named in the text?",
+      "options": [
+        "Apache and Nginx",
+        "Chrome and Firefox",
+        "MySQL and MariaDB",
+        "Windows and Linux"
+      ],
+      "correctAnswer": "Apache and Nginx"
+    },
+    {
+      "id": 19,
+      "question": "What is the client-server model of the Web?",
+      "options": [
+        "Servers deliver pages to clients on request",
+        "Clients store pages for servers to read",
+        "Servers request pages from other servers",
+        "Browsers act as servers for other web pages"
+      ],
+      "correctAnswer": "Servers deliver pages to clients on request"
+    },
+    {
+      "id": 20,
+      "question": "Which step comes immediately after a browser performs a DNS lookup?",
+      "options": [
+        "The browser sends an HTTP request to the server",
+        "The browser renders the HTML page on the screen",
+        "The server returns a DNS answer",
+        "The user clicks a hyperlink on the page"
+      ],
+      "correctAnswer": "The browser sends an HTTP request to the server"
+    }
+  ]
+}
