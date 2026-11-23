@@ -1,0 +1,238 @@
+{
+  "title": "5.1 Introduction to the Internet",
+  "description": "The internet concepts and details. Hard level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "introduction to the internet",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which term-description pair is correctly matched?",
+      "options": [
+        "IP: addresses packets and selects routes",
+        "IP: guarantees ordered, reliable delivery",
+        "TCP: assigns unique IP addresses",
+        "TCP: translates domain names"
+      ],
+      "correctAnswer": "IP: addresses packets and selects routes"
+    },
+    {
+      "id": 2,
+      "question": "A company needs to host a website and register a domain. Which organization provides both?",
+      "options": [
+        "An Internet Service Provider",
+        "A web browser software vendor",
+        "A certificate authority",
+        "A search engine company"
+      ],
+      "correctAnswer": "An Internet Service Provider"
+    },
+    {
+      "id": 3,
+      "question": "Why can packets of one message take different routes?",
+      "options": [
+        "IP routes each packet independently",
+        "TCP numbers every byte of data",
+        "DNS caches the web page",
+        "The browser renders the pages in order"
+      ],
+      "correctAnswer": "IP routes each packet independently"
+    },
+    {
+      "id": 4,
+      "question": "Which mechanism lets TCP detect a lost segment?",
+      "options": [
+        "An acknowledgment that fails to arrive in time",
+        "A sequence number that falls outside the range",
+        "A FIN message sent by the receiver",
+        "A DNS lookup that returns no address"
+      ],
+      "correctAnswer": "An acknowledgment that fails to arrive in time"
+    },
+    {
+      "id": 5,
+      "question": "What does the SYN-ACK message indicate?",
+      "options": [
+        "Computer B is ready to establish the connection",
+        "Computer A has finished sending all of its data",
+        "The connection is being closed",
+        "The receiver has lost a data segment"
+      ],
+      "correctAnswer": "Computer B is ready to establish the connection"
+    },
+    {
+      "id": 6,
+      "question": "Which messages politely end a TCP connection?",
+      "options": [
+        "FIN and ACK",
+        "SYN and ACK",
+        "GET and POST",
+        "DNS and HTTP"
+      ],
+      "correctAnswer": "FIN and ACK"
+    },
+    {
+      "id": 7,
+      "question": "Which statement about TCP and IP is accurate?",
+      "options": [
+        "TCP sits on top of IP",
+        "IP sits on top of TCP",
+        "They are the same protocol",
+        "TCP replaces IP entirely"
+      ],
+      "correctAnswer": "TCP sits on top of IP"
+    },
+    {
+      "id": 8,
+      "question": "Why are some IPv4 addresses unavailable for public devices?",
+      "options": [
+        "Some ranges are reserved for special purposes",
+        "They are all assigned to private companies worldwide",
+        "The protocol limits them to one country",
+        "They expire after a fixed time period"
+      ],
+      "correctAnswer": "Some ranges are reserved for special purposes"
+    },
+    {
+      "id": 9,
+      "question": "Which fields appear in an IP packet header?",
+      "options": [
+        "Source and destination IP addresses",
+        "Sequence numbers and acknowledgments",
+        "Encryption keys and certificates",
+        "Browser cookies and session IDs"
+      ],
+      "correctAnswer": "Source and destination IP addresses"
+    },
+    {
+      "id": 10,
+      "question": "What does a router do with each packet?",
+      "options": [
+        "It reads the destination address and picks a hop",
+        "It encrypts the packet contents before sending",
+        "It renders the requested web page for the user",
+        "It stores each packet for later retrieval by the server"
+      ],
+      "correctAnswer": "It reads the destination address and picks a hop"
+    },
+    {
+      "id": 11,
+      "question": "What does best-effort delivery mean?",
+      "options": [
+        "Packets may be lost or arrive out of order",
+        "Every packet is guaranteed to arrive on time",
+        "Packets are always delivered in order",
+        "Packets are encrypted before delivery"
+      ],
+      "correctAnswer": "Packets may be lost or arrive out of order"
+    },
+    {
+      "id": 12,
+      "question": "Which set contains only security measures?",
+      "options": [
+        "Firewalls, SSL/TLS and VPNs",
+        "DNS, HTTP, SMTP and FTP protocols",
+        "TCP, IP and routers",
+        "HTML, CSS and JavaScript"
+      ],
+      "correctAnswer": "Firewalls, SSL/TLS and VPNs"
+    },
+    {
+      "id": 13,
+      "question": "Which activity is an example of cloud computing?",
+      "options": [
+        "On-demand storage over the Internet",
+        "Writing an HTML document",
+        "Connecting two computers with a cable",
+        "Sending an email message"
+      ],
+      "correctAnswer": "On-demand storage over the Internet"
+    },
+    {
+      "id": 14,
+      "question": "What does a switch forward packets toward?",
+      "options": [
+        "MAC addresses within a network",
+        "IP addresses across many networks",
+        "Domain names on the Web",
+        "Port numbers on a server"
+      ],
+      "correctAnswer": "MAC addresses within a network"
+    },
+    {
+      "id": 15,
+      "question": "What is the role of servers in data exchange?",
+      "options": [
+        "They store, send and receive data",
+        "They only display pages to end users",
+        "They only translate domain names",
+        "They only route packets"
+      ],
+      "correctAnswer": "They store, send and receive data"
+    },
+    {
+      "id": 16,
+      "question": "Which example matches healthcare on the Internet?",
+      "options": [
+        "Remote diagnosis and monitoring",
+        "Online courses and e-learning platforms",
+        "Online shopping marketplaces",
+        "Streaming video platforms"
+      ],
+      "correctAnswer": "Remote diagnosis and monitoring"
+    },
+    {
+      "id": 17,
+      "question": "Which example matches entertainment on the Internet?",
+      "options": [
+        "Streaming and gaming platforms",
+        "Telemedicine and patient portals",
+        "Internet banking and payments",
+        "Online encyclopedias and research"
+      ],
+      "correctAnswer": "Streaming and gaming platforms"
+    },
+    {
+      "id": 18,
+      "question": "Which example matches education on the Internet?",
+      "options": [
+        "Online courses and e-learning",
+        "Streaming and gaming platforms",
+        "Online shopping and auctions",
+        "Social media and messaging"
+      ],
+      "correctAnswer": "Online courses and e-learning"
+    },
+    {
+      "id": 19,
+      "question": "Which statement about packets is accurate?",
+      "options": [
+        "Different packets may follow different paths",
+        "All packets follow one fixed path",
+        "Packets never cross any national borders at all",
+        "Packets are always sent in order"
+      ],
+      "correctAnswer": "Different packets may follow different paths"
+    },
+    {
+      "id": 20,
+      "question": "Which layer of the Internet carries data as packets?",
+      "options": [
+        "The network infrastructure",
+        "The client browser application",
+        "The HTML document",
+        "The DNS resolver"
+      ],
+      "correctAnswer": "The network infrastructure"
+    }
+  ]
+}

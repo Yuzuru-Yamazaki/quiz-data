@@ -1,0 +1,238 @@
+{
+  "title": "5.2 Introduction to the World Wide Web",
+  "description": "The world wide web concepts and details. Medium level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "introduction to the world wide web",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which statement distinguishes the Internet from the Web?",
+      "options": [
+        "The Web is an information service built on the Internet",
+        "The Internet is a collection of linked web pages worldwide",
+        "The Web is the physical network of computers",
+        "They are two different names for the same global system"
+      ],
+      "correctAnswer": "The Web is an information service built on the Internet"
+    },
+    {
+      "id": 2,
+      "question": "What does a web server do?",
+      "options": [
+        "It stores and delivers pages on request",
+        "It requests pages from a browser on a client",
+        "It translates URLs into numbers",
+        "It renders HTML for the user"
+      ],
+      "correctAnswer": "It stores and delivers pages on request"
+    },
+    {
+      "id": 3,
+      "question": "What happens first after a user enters a URL?",
+      "options": [
+        "The browser performs a DNS lookup",
+        "The browser renders the page immediately",
+        "The server sends a requested file",
+        "The router changes the IP address"
+      ],
+      "correctAnswer": "The browser performs a DNS lookup"
+    },
+    {
+      "id": 4,
+      "question": "What happens after the DNS lookup?",
+      "options": [
+        "The browser sends an HTTP request",
+        "The browser closes the current connection",
+        "The server performs a DNS lookup",
+        "The user types another URL"
+      ],
+      "correctAnswer": "The browser sends an HTTP request"
+    },
+    {
+      "id": 5,
+      "question": "What does the browser do with HTML and CSS?",
+      "options": [
+        "It renders the page for the user",
+        "It stores the page on a remote server",
+        "It translates HTML into IP",
+        "It sends email to the server"
+      ],
+      "correctAnswer": "It renders the page for the user"
+    },
+    {
+      "id": 6,
+      "question": "Which language executes in the browser for interactivity?",
+      "options": [
+        "JavaScript",
+        "PHP language",
+        "Python",
+        "Node.js"
+      ],
+      "correctAnswer": "JavaScript"
+    },
+    {
+      "id": 7,
+      "question": "What is the default TCP port for HTTP?",
+      "options": [
+        "Port 80",
+        "Port 21",
+        "Port 25",
+        "Port 443"
+      ],
+      "correctAnswer": "Port 80"
+    },
+    {
+      "id": 8,
+      "question": "Which request methods does HTTP use?",
+      "options": [
+        "GET and POST",
+        "SYN and ACK",
+        "SMTP and POP3",
+        "FIN and RST"
+      ],
+      "correctAnswer": "GET and POST"
+    },
+    {
+      "id": 9,
+      "question": "How is HTTP data transmitted by default?",
+      "options": [
+        "Without encryption",
+        "With SSL/TLS encryption",
+        "Only through firewalls",
+        "Only over undersea cables"
+      ],
+      "correctAnswer": "Without encryption"
+    },
+    {
+      "id": 10,
+      "question": "What issues HTTPS certificates?",
+      "options": [
+        "Certificate Authorities",
+        "Domain registrars for websites",
+        "Web browsers",
+        "Internet providers"
+      ],
+      "correctAnswer": "Certificate Authorities"
+    },
+    {
+      "id": 11,
+      "question": "What indicates a secure HTTPS connection in a browser?",
+      "options": [
+        "An \"https://\" prefix and a neutral icon",
+        "A plain \"http://\" prefix in the browser address",
+        "A red warning icon in the address bar",
+        "A missing protocol label in the address"
+      ],
+      "correctAnswer": "An \"https://\" prefix and a neutral icon"
+    },
+    {
+      "id": 12,
+      "question": "What kind of naming system is DNS?",
+      "options": [
+        "Hierarchical and decentralized",
+        "Flat and controlled by one server",
+        "Random and unorganized",
+        "Physical and wired"
+      ],
+      "correctAnswer": "Hierarchical and decentralized"
+    },
+    {
+      "id": 13,
+      "question": "What does a DNS resolver query first?",
+      "options": [
+        "A root name server",
+        "The web server",
+        "The client browser application",
+        "A TLD name server"
+      ],
+      "correctAnswer": "A root name server"
+    },
+    {
+      "id": 14,
+      "question": "Which server provides the address of a domain’s name server?",
+      "options": [
+        "The TLD server",
+        "The root server",
+        "The web server",
+        "The client"
+      ],
+      "correctAnswer": "The TLD server"
+    },
+    {
+      "id": 15,
+      "question": "Which server returns the final IP address?",
+      "options": [
+        "The domain’s name server",
+        "The root name server itself",
+        "The TLD server",
+        "The browser"
+      ],
+      "correctAnswer": "The domain’s name server"
+    },
+    {
+      "id": 16,
+      "question": "In a URL, what appears before the first dot?",
+      "options": [
+        "The subdomain",
+        "The protocol scheme used",
+        "The slug",
+        "The TLD"
+      ],
+      "correctAnswer": "The subdomain"
+    },
+    {
+      "id": 17,
+      "question": "What are URL parameters?",
+      "options": [
+        "Key-value pairs after a question mark",
+        "The path to a specific web page on the site",
+        "The domain extension of the site",
+        "The browser name and version"
+      ],
+      "correctAnswer": "Key-value pairs after a question mark"
+    },
+    {
+      "id": 18,
+      "question": "Which character separates URL parameters?",
+      "options": [
+        "An ampersand",
+        "A question mark",
+        "A forward slash",
+        "A colon"
+      ],
+      "correctAnswer": "An ampersand"
+    },
+    {
+      "id": 19,
+      "question": "In a URL, what is \"/shoes/\"?",
+      "options": [
+        "A subfolder or path",
+        "The domain of the website",
+        "The protocol",
+        "The TLD"
+      ],
+      "correctAnswer": "A subfolder or path"
+    },
+    {
+      "id": 20,
+      "question": "What is a URL slug?",
+      "options": [
+        "The part identifying a specific page",
+        "A type of web server",
+        "A network cable standard for servers",
+        "A DNS record entry"
+      ],
+      "correctAnswer": "The part identifying a specific page"
+    }
+  ]
+}

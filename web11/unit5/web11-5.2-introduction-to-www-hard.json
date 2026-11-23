@@ -1,0 +1,238 @@
+{
+  "title": "5.2 Introduction to the World Wide Web",
+  "description": "The world wide web concepts and details. Hard level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "introduction to the world wide web",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which order correctly lists the DNS lookup steps?",
+      "options": [
+        "Resolver, root server, TLD server, name server",
+        "Root server, resolver, name server, TLD server",
+        "TLD server, root server, resolver, name server",
+        "Name server, TLD server, root server, resolver"
+      ],
+      "correctAnswer": "Resolver, root server, TLD server, name server"
+    },
+    {
+      "id": 2,
+      "question": "In \"https://blog.example.co.uk/shoes/?color=red\", which part is the subdomain?",
+      "options": [
+        "blog",
+        "example",
+        "co.uk",
+        "shoes"
+      ],
+      "correctAnswer": "blog"
+    },
+    {
+      "id": 3,
+      "question": "In that URL, which part is the top-level domain?",
+      "options": [
+        "co.uk",
+        "blog",
+        "example",
+        "https"
+      ],
+      "correctAnswer": "co.uk"
+    },
+    {
+      "id": 4,
+      "question": "In that URL, which part is the path?",
+      "options": [
+        "/shoes/",
+        "https://",
+        "?color=red",
+        "example.co.uk"
+      ],
+      "correctAnswer": "/shoes/"
+    },
+    {
+      "id": 5,
+      "question": "In that URL, which part is the scheme?",
+      "options": [
+        "https://",
+        "/shoes/?color=red",
+        "co.uk",
+        "blog"
+      ],
+      "correctAnswer": "https://"
+    },
+    {
+      "id": 6,
+      "question": "In that URL, what is \"red\"?",
+      "options": [
+        "A parameter value",
+        "The top-level domain",
+        "The subdomain name",
+        "The protocol scheme"
+      ],
+      "correctAnswer": "A parameter value"
+    },
+    {
+      "id": 7,
+      "question": "Which statement about HTTP and HTTPS is accurate?",
+      "options": [
+        "HTTPS adds SSL/TLS to HTTP",
+        "HTTP encrypts data by default",
+        "HTTPS uses a different port only",
+        "HTTP requires certificates"
+      ],
+      "correctAnswer": "HTTPS adds SSL/TLS to HTTP"
+    },
+    {
+      "id": 8,
+      "question": "Why is HTTPS essential for login pages?",
+      "options": [
+        "It encrypts sensitive information",
+        "It speeds up the loading of pages",
+        "It stores passwords locally",
+        "It removes the need for servers"
+      ],
+      "correctAnswer": "It encrypts sensitive information"
+    },
+    {
+      "id": 9,
+      "question": "Which component acts as the client?",
+      "options": [
+        "The web browser",
+        "The web server system",
+        "The DNS root",
+        "The data center"
+      ],
+      "correctAnswer": "The web browser"
+    },
+    {
+      "id": 10,
+      "question": "Which component stores web pages for delivery?",
+      "options": [
+        "The web server",
+        "The web browser",
+        "The client device",
+        "The DNS resolver"
+      ],
+      "correctAnswer": "The web server"
+    },
+    {
+      "id": 11,
+      "question": "What happens when a user clicks a hyperlink?",
+      "options": [
+        "A new HTTP request is sent",
+        "The browser closes the page",
+        "The server changes its IP",
+        "The URL is deleted"
+      ],
+      "correctAnswer": "A new HTTP request is sent"
+    },
+    {
+      "id": 12,
+      "question": "Which statement about Web 2.0 is accurate?",
+      "options": [
+        "It added user-generated content",
+        "It removed hyperlinks from pages",
+        "It made pages static only",
+        "It ended client-server model"
+      ],
+      "correctAnswer": "It added user-generated content"
+    },
+    {
+      "id": 13,
+      "question": "Which set describes interlinked hypertext documents?",
+      "options": [
+        "Web pages joined by hyperlinks",
+        "Servers joined by network cables",
+        "Packets joined by headers",
+        "Emails joined by subjects"
+      ],
+      "correctAnswer": "Web pages joined by hyperlinks"
+    },
+    {
+      "id": 14,
+      "question": "Which statement contrasts the Internet and the Web?",
+      "options": [
+        "Internet is infrastructure; Web is a service",
+        "Web is infrastructure; Internet is a service",
+        "Both are physical network cables",
+        "Both are web browser programs"
+      ],
+      "correctAnswer": "Internet is infrastructure; Web is a service"
+    },
+    {
+      "id": 15,
+      "question": "What does the protocol part of a URL specify?",
+      "options": [
+        "How the browser connects",
+        "Which page to display",
+        "Where the site is hosted",
+        "Who owns the website"
+      ],
+      "correctAnswer": "How the browser connects"
+    },
+    {
+      "id": 16,
+      "question": "In \"www.amazon.com\", which part is the domain?",
+      "options": [
+        "amazon",
+        "www",
+        ".com",
+        "amazon.com"
+      ],
+      "correctAnswer": "amazon"
+    },
+    {
+      "id": 17,
+      "question": "In \"www.amazon.com\", which part is the subdomain?",
+      "options": [
+        "www",
+        "amazon",
+        ".com",
+        "http"
+      ],
+      "correctAnswer": "www"
+    },
+    {
+      "id": 18,
+      "question": "What did Tim Berners-Lee create at CERN?",
+      "options": [
+        "HTTP, HTML and the first browser",
+        "TCP, IP and the first network router",
+        "SMTP, FTP and the first server",
+        "DNS, URL and the first packet"
+      ],
+      "correctAnswer": "HTTP, HTML and the first browser"
+    },
+    {
+      "id": 19,
+      "question": "Which statement about early Web pages is accurate?",
+      "options": [
+        "They were mostly static text and images",
+        "They were fully interactive applications",
+        "They used Web 2.0 features",
+        "They required JavaScript always"
+      ],
+      "correctAnswer": "They were mostly static text and images"
+    },
+    {
+      "id": 20,
+      "question": "Which sequence correctly accesses a web page?",
+      "options": [
+        "Enter URL, DNS lookup, HTTP request, render page",
+        "DNS lookup, enter URL, render page, HTTP request",
+        "HTTP request, enter URL, DNS lookup, render page",
+        "Render page, HTTP request, DNS lookup, enter URL"
+      ],
+      "correctAnswer": "Enter URL, DNS lookup, HTTP request, render page"
+    }
+  ]
+}

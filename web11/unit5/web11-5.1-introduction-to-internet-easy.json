@@ -1,6 +1,6 @@
 {
-  "title": "5.1 The Internet and the World Wide Web",
-  "description": "The Internet and the World Wide Web: definition, history, protocols, DNS, URLs and websites. Easy level, 20 questions.",
+  "title": "5.1 Introduction to the Internet",
+  "description": "The internet concepts and details. Easy level, 20 questions.",
   "folder": "School/Grade 11/Web Development/Unit 5",
   "field": "natural",
   "anki": true,
@@ -10,7 +10,7 @@
     "grade 11",
     "unit 5",
     "module 2 unit 1",
-    "internet and world wide web",
+    "introduction to the internet",
     "easy"
   ],
   "questions": [
@@ -27,14 +27,14 @@
     },
     {
       "id": 2,
-      "question": "What is the main function of the Internet?",
+      "question": "What is the primary function of the Internet?",
       "options": [
-        "To facilitate data transfer between connected devices",
+        "To facilitate data transfer between devices",
         "To store all website content in one place for every user",
         "To create HTML documents for web pages",
-        "To provide electricity to computer systems"
+        "To supply electricity to computer systems"
       ],
-      "correctAnswer": "To facilitate data transfer between connected devices"
+      "correctAnswer": "To facilitate data transfer between devices"
     },
     {
       "id": 3,
@@ -93,7 +93,7 @@
     },
     {
       "id": 8,
-      "question": "In which year did ARPANET officially switch to TCP/IP?",
+      "question": "In which year did ARPANET switch to TCP/IP?",
       "options": [
         "1983",
         "1969",
@@ -104,47 +104,47 @@
     },
     {
       "id": 9,
-      "question": "Who invented the World Wide Web at CERN?",
+      "question": "Which organization created NSFNET in the late 1980s?",
       "options": [
-        "Tim Berners-Lee",
-        "Charles Babbage",
-        "Vint Cerf",
-        "Bill Gates"
+        "The National Science Foundation",
+        "The Department of Defense",
+        "The European Organization for Research",
+        "The World Health Organization"
       ],
-      "correctAnswer": "Tim Berners-Lee"
+      "correctAnswer": "The National Science Foundation"
     },
     {
       "id": 10,
-      "question": "In which year did the Web become publicly available?",
+      "question": "Which network replaced ARPANET as the main backbone?",
       "options": [
-        "1991",
-        "1969",
-        "1983",
-        "1993"
+        "NSFNET",
+        "ARPANET",
+        "Ethernet",
+        "Mosaic"
       ],
-      "correctAnswer": "1991"
+      "correctAnswer": "NSFNET"
     },
     {
       "id": 11,
-      "question": "Which browser helped make the Web accessible in 1993?",
+      "question": "What technique breaks data into small packets for transmission?",
       "options": [
-        "Mosaic",
-        "Netscape",
-        "Chrome",
-        "Firefox"
+        "Packet switching",
+        "Circuit switching",
+        "Message switching",
+        "Frequency switching"
       ],
-      "correctAnswer": "Mosaic"
+      "correctAnswer": "Packet switching"
     },
     {
       "id": 12,
-      "question": "What is a unique numerical label assigned to each device on the Internet?",
+      "question": "Which department funded the development of ARPANET?",
       "options": [
-        "An IP address",
-        "A URL string",
-        "A domain name",
-        "A port number"
+        "The Department of Defense",
+        "The Department of Education",
+        "The Department of Energy",
+        "The Department of Health"
       ],
-      "correctAnswer": "An IP address"
+      "correctAnswer": "The Department of Defense"
     },
     {
       "id": 13,
@@ -159,17 +159,6 @@
     },
     {
       "id": 14,
-      "question": "Which device forwards data packets between different networks?",
-      "options": [
-        "A router",
-        "A switch",
-        "A modem",
-        "A printer"
-      ],
-      "correctAnswer": "A router"
-    },
-    {
-      "id": 15,
       "question": "Which service translates domain names into IP addresses?",
       "options": [
         "DNS",
@@ -180,7 +169,7 @@
       "correctAnswer": "DNS"
     },
     {
-      "id": 16,
+      "id": 15,
       "question": "What does HTTP stand for?",
       "options": [
         "Hyper Text Transfer Protocol",
@@ -191,8 +180,8 @@
       "correctAnswer": "Hyper Text Transfer Protocol"
     },
     {
-      "id": 17,
-      "question": "Which protocol is used for sending email?",
+      "id": 16,
+      "question": "Which protocol is used to send email?",
       "options": [
         "SMTP",
         "HTTP",
@@ -202,8 +191,8 @@
       "correctAnswer": "SMTP"
     },
     {
-      "id": 18,
-      "question": "Which protocol is used to transfer files between hosts?",
+      "id": 17,
+      "question": "Which protocol transfers files between hosts?",
       "options": [
         "FTP",
         "SMTP",
@@ -213,26 +202,37 @@
       "correctAnswer": "FTP"
     },
     {
-      "id": 19,
-      "question": "What is the default TCP port for HTTP?",
+      "id": 18,
+      "question": "What is a unique numerical label for each device on the Internet?",
       "options": [
-        "Port 80",
-        "Port 21",
-        "Port 25",
-        "Port 443"
+        "An IP address",
+        "A URL string",
+        "A domain name",
+        "A port number"
       ],
-      "correctAnswer": "Port 80"
+      "correctAnswer": "An IP address"
+    },
+    {
+      "id": 19,
+      "question": "Which device forwards data packets between networks?",
+      "options": [
+        "A router",
+        "A switch",
+        "A modem",
+        "A printer"
+      ],
+      "correctAnswer": "A router"
     },
     {
       "id": 20,
-      "question": "Which of these is a web browser?",
+      "question": "Which cables carry data between continents?",
       "options": [
-        "Firefox",
-        "Apache",
-        "Nginx",
-        "Windows Server"
+        "Undersea cables",
+        "Telephone cables",
+        "TV cables",
+        "Patch cables"
       ],
-      "correctAnswer": "Firefox"
+      "correctAnswer": "Undersea cables"
     }
   ]
 }

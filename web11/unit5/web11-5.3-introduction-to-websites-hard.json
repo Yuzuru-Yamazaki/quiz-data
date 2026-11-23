@@ -1,0 +1,238 @@
+{
+  "title": "5.3 Introduction to Websites",
+  "description": "Websites concepts and details. Hard level, 20 questions.",
+  "folder": "School/Grade 11/Web Development/Unit 5",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "web",
+    "grade 11",
+    "unit 5",
+    "module 2 unit 1",
+    "introduction to websites",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which statement compares static and dynamic sites?",
+      "options": [
+        "Dynamic sites use server-side scripting",
+        "Static sites also use server-side scripting",
+        "Both use databases for all pages",
+        "Neither can display images"
+      ],
+      "correctAnswer": "Dynamic sites use server-side scripting"
+    },
+    {
+      "id": 2,
+      "question": "A blog with personalized news feeds—which type of site?",
+      "options": [
+        "A dynamic website",
+        "A static website",
+        "A printed brochure",
+        "A text file"
+      ],
+      "correctAnswer": "A dynamic website"
+    },
+    {
+      "id": 3,
+      "question": "A small business landing page—which type of site?",
+      "options": [
+        "A static website",
+        "A dynamic website",
+        "A web application",
+        "A database portal"
+      ],
+      "correctAnswer": "A static website"
+    },
+    {
+      "id": 4,
+      "question": "Which is an advantage of static websites?",
+      "options": [
+        "They are simpler to create and host",
+        "They offer high flexibility for users",
+        "They generate pages on the fly",
+        "They personalize content"
+      ],
+      "correctAnswer": "They are simpler to create and host"
+    },
+    {
+      "id": 5,
+      "question": "Which is an advantage of dynamic websites?",
+      "options": [
+        "They offer interactive, flexible content",
+        "They load faster than all other websites",
+        "They need no web server at all",
+        "They are simpler than static pages"
+      ],
+      "correctAnswer": "They offer interactive, flexible content"
+    },
+    {
+      "id": 6,
+      "question": "Which set contains only web page structure elements?",
+      "options": [
+        "Headers, paragraphs, lists and images",
+        "Routers, switches and cables",
+        "Servers, databases and network firewalls",
+        "Modems, packets and protocols"
+      ],
+      "correctAnswer": "Headers, paragraphs, lists and images"
+    },
+    {
+      "id": 7,
+      "question": "Which set contains only user-input form elements?",
+      "options": [
+        "Text fields, checkboxes, radio buttons",
+        "Headers, paragraphs and lists",
+        "Images, video and audio files",
+        "Hyperlinks, URLs and remote web servers"
+      ],
+      "correctAnswer": "Text fields, checkboxes, radio buttons"
+    },
+    {
+      "id": 8,
+      "question": "What do HTML documents use to define layout?",
+      "options": [
+        "Tags for headings, paragraphs and images",
+        "Cables for connecting many network devices",
+        "Protocols for email delivery",
+        "Passwords for user logins"
+      ],
+      "correctAnswer": "Tags for headings, paragraphs and images"
+    },
+    {
+      "id": 9,
+      "question": "Which website purpose matches live chat support?",
+      "options": [
+        "Customer service",
+        "Marketing",
+        "Community building",
+        "Entertainment"
+      ],
+      "correctAnswer": "Customer service"
+    },
+    {
+      "id": 10,
+      "question": "Which purpose matches discussion boards?",
+      "options": [
+        "Community building",
+        "E-commerce online stores",
+        "Customer service",
+        "Education"
+      ],
+      "correctAnswer": "Community building"
+    },
+    {
+      "id": 11,
+      "question": "Which purpose matches streaming services?",
+      "options": [
+        "Entertainment",
+        "Banking and payments",
+        "Healthcare",
+        "Information"
+      ],
+      "correctAnswer": "Entertainment"
+    },
+    {
+      "id": 12,
+      "question": "Which purpose matches online stores?",
+      "options": [
+        "E-commerce",
+        "Education",
+        "Healthcare",
+        "Banking"
+      ],
+      "correctAnswer": "E-commerce"
+    },
+    {
+      "id": 13,
+      "question": "Which statement about dynamic content is accurate?",
+      "options": [
+        "Different content is shown from the same code",
+        "The same fixed content is always shown to everyone",
+        "Content is printed on paper copies",
+        "Content never changes for any user"
+      ],
+      "correctAnswer": "Different content is shown from the same code"
+    },
+    {
+      "id": 14,
+      "question": "Which statement about static content is accurate?",
+      "options": [
+        "It stays the same until manually updated",
+        "It changes for every individual website visitor",
+        "It is generated by server-side scripts",
+        "It requires a database for each page"
+      ],
+      "correctAnswer": "It stays the same until manually updated"
+    },
+    {
+      "id": 15,
+      "question": "Which set lists only dynamic website uses?",
+      "options": [
+        "E-commerce, social media and news portals",
+        "Landing pages, user manuals and brochures",
+        "Static galleries and simple profiles",
+        "Printed documents and text files"
+      ],
+      "correctAnswer": "E-commerce, social media and news portals"
+    },
+    {
+      "id": 16,
+      "question": "Which set lists only static website uses?",
+      "options": [
+        "Landing pages, small business sites, docs",
+        "Social media, blogs and online news portals",
+        "E-commerce stores and marketplaces",
+        "Personalized portals and dashboards"
+      ],
+      "correctAnswer": "Landing pages, small business sites, docs"
+    },
+    {
+      "id": 17,
+      "question": "What is the relationship between pages and a website?",
+      "options": [
+        "A site is a collection of web pages",
+        "A page is a collection of many websites",
+        "They are two names for servers",
+        "They are types of network cables"
+      ],
+      "correctAnswer": "A site is a collection of web pages"
+    },
+    {
+      "id": 18,
+      "question": "Which step follows a user clicking a submit button?",
+      "options": [
+        "The form input is sent for processing",
+        "The server deletes the entire web page",
+        "The browser closes the website",
+        "The DNS changes its address"
+      ],
+      "correctAnswer": "The form input is sent for processing"
+    },
+    {
+      "id": 19,
+      "question": "Which element would a feedback form use for comments?",
+      "options": [
+        "A text field",
+        "A radio button",
+        "A checkbox",
+        "An image tag"
+      ],
+      "correctAnswer": "A text field"
+    },
+    {
+      "id": 20,
+      "question": "Which statement about website hosting is accurate?",
+      "options": [
+        "Websites are hosted on web servers",
+        "Websites are hosted on client browsers",
+        "Websites are hosted on printers",
+        "Websites are hosted on routers"
+      ],
+      "correctAnswer": "Websites are hosted on web servers"
+    }
+  ]
+}
