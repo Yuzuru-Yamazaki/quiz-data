@@ -1,0 +1,237 @@
+{
+  "title": "1.2 Branches of Physics",
+  "description": "Branches of Physics concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "branches of physics",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which branch of physics studies motion with or without reference to force?",
+      "options": [
+        "Mechanics",
+        "Optics",
+        "Acoustics",
+        "Nuclear physics"
+      ],
+      "correctAnswer": "Mechanics"
+    },
+    {
+      "id": 2,
+      "question": "Which branch of physics deals with the study of sound?",
+      "options": [
+        "Acoustics",
+        "Thermodynamics",
+        "Astrophysics",
+        "Electromagnetism"
+      ],
+      "correctAnswer": "Acoustics"
+    },
+    {
+      "id": 3,
+      "question": "Which branch of physics studies the behavior and properties of light?",
+      "options": [
+        "Optics",
+        "Mechanics",
+        "Nuclear physics",
+        "Acoustics"
+      ],
+      "correctAnswer": "Optics"
+    },
+    {
+      "id": 4,
+      "question": "Which branch of physics studies thermal energy and heat transfer?",
+      "options": [
+        "Thermodynamics now",
+        "Optics in the unit",
+        "Astrophysics still",
+        "Acoustics in class"
+      ],
+      "correctAnswer": "Thermodynamics now"
+    },
+    {
+      "id": 5,
+      "question": "Which branch of physics deals with electric fields, light and magnetic fields?",
+      "options": [
+        "Electromagnetism now",
+        "Mechanics in physics",
+        "Thermodynamics still",
+        "Nuclear physics here"
+      ],
+      "correctAnswer": "Electromagnetism now"
+    },
+    {
+      "id": 6,
+      "question": "Which branch of physics studies the structure and reactions of atomic nuclei?",
+      "options": [
+        "Nuclear physics",
+        "Acoustics still",
+        "Optics in class",
+        "Mechanics still"
+      ],
+      "correctAnswer": "Nuclear physics"
+    },
+    {
+      "id": 7,
+      "question": "Which branch applies physics to astronomical objects and phenomena?",
+      "options": [
+        "Astrophysics",
+        "Thermodynamics",
+        "Acoustics",
+        "Nuclear physics"
+      ],
+      "correctAnswer": "Astrophysics"
+    },
+    {
+      "id": 8,
+      "question": "Which two aspects make up electromagnetism?",
+      "options": [
+        "Electricity and magnetism",
+        "Heat and light in physics",
+        "Sound and motion in class",
+        "Atoms and molecules still"
+      ],
+      "correctAnswer": "Electricity and magnetism"
+    },
+    {
+      "id": 9,
+      "question": "Which branch is divided into quantum mechanics and classical mechanics?",
+      "options": [
+        "Mechanics",
+        "Optics",
+        "Acoustics",
+        "Geology"
+      ],
+      "correctAnswer": "Mechanics"
+    },
+    {
+      "id": 10,
+      "question": "Which branch studies the smallest particles such as protons and electrons?",
+      "options": [
+        "Quantum mechanics",
+        "Classical mechanics",
+        "Thermodynamics",
+        "Astrophysics"
+      ],
+      "correctAnswer": "Quantum mechanics"
+    },
+    {
+      "id": 11,
+      "question": "Which branch deals with the laws of motion of forces and physical objects?",
+      "options": [
+        "Classical mechanics now",
+        "Quantum mechanics still",
+        "Nuclear physics as well",
+        "Optics now for students"
+      ],
+      "correctAnswer": "Classical mechanics now"
+    },
+    {
+      "id": 12,
+      "question": "Which branch would analyze how a violin produces sound?",
+      "options": [
+        "Acoustics",
+        "Optics",
+        "Thermodynamics",
+        "Nuclear physics"
+      ],
+      "correctAnswer": "Acoustics"
+    },
+    {
+      "id": 13,
+      "question": "Which branch would analyze how a lens forms an image?",
+      "options": [
+        "Optics",
+        "Acoustics",
+        "Mechanics",
+        "Astrophysics"
+      ],
+      "correctAnswer": "Optics"
+    },
+    {
+      "id": 14,
+      "question": "Which branch would analyze how a refrigerator transfers heat?",
+      "options": [
+        "Thermodynamics",
+        "Optics as well",
+        "Mechanics here",
+        "Acoustics here"
+      ],
+      "correctAnswer": "Thermodynamics"
+    },
+    {
+      "id": 15,
+      "question": "Which branch would analyze the field around a bar magnet?",
+      "options": [
+        "Electromagnetism now",
+        "Nuclear physics here",
+        "Thermodynamics still",
+        "Acoustics in physics"
+      ],
+      "correctAnswer": "Electromagnetism now"
+    },
+    {
+      "id": 16,
+      "question": "Which branch would analyze the energy released by a nucleus?",
+      "options": [
+        "Nuclear physics",
+        "Optics in class",
+        "Mechanics still",
+        "Acoustics still"
+      ],
+      "correctAnswer": "Nuclear physics"
+    },
+    {
+      "id": 17,
+      "question": "Which branch would analyze the motion of a distant galaxy?",
+      "options": [
+        "Astrophysics",
+        "Acoustics",
+        "Thermodynamics",
+        "Nuclear physics"
+      ],
+      "correctAnswer": "Astrophysics"
+    },
+    {
+      "id": 18,
+      "question": "Which branch studies sound transmission, production and effects?",
+      "options": [
+        "Acoustics",
+        "Electromagnetism",
+        "Mechanics",
+        "Optics"
+      ],
+      "correctAnswer": "Acoustics"
+    },
+    {
+      "id": 19,
+      "question": "Which branch would analyze the trajectory of a thrown ball?",
+      "options": [
+        "Mechanics",
+        "Optics",
+        "Nuclear physics",
+        "Thermodynamics"
+      ],
+      "correctAnswer": "Mechanics"
+    },
+    {
+      "id": 20,
+      "question": "Which branch studies light as part of its subject matter?",
+      "options": [
+        "Optics",
+        "Mechanics",
+        "Acoustics",
+        "Geology"
+      ],
+      "correctAnswer": "Optics"
+    }
+  ]
+}

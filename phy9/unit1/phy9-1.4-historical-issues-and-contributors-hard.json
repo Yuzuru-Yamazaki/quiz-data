@@ -1,0 +1,237 @@
+{
+  "title": "1.4 Historical Issues and Contributors",
+  "description": "Historical Issues and Contributors concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "historical issues and contributors",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A student says modern physics simply threw away classical physics. Which textbook-based correction is most precise?",
+      "options": [
+        "Many classical laws were modified during the twentieth century",
+        "Every classical law was declared outdated here in the textbook",
+        "Classical physics stopped being taught as well in the textbook",
+        "Modern physics studies only biology in physics in the textbook"
+      ],
+      "correctAnswer": "Many classical laws were modified during the twentieth century"
+    },
+    {
+      "id": 2,
+      "question": "An inventor builds a device with a magnet and a coil. Which historical figure first demonstrated the key principle in 1821?",
+      "options": [
+        "Michael Faraday",
+        "James Prescott Joule",
+        "Isaac Newton",
+        "Marie Curie"
+      ],
+      "correctAnswer": "Michael Faraday"
+    },
+    {
+      "id": 3,
+      "question": "A physics class studies heat, work and the first law of thermodynamics. Which contributor should be introduced first?",
+      "options": [
+        "James Prescott Joule",
+        "Albert Einstein here",
+        "Michael Faraday here",
+        "Willebrod Snell here"
+      ],
+      "correctAnswer": "James Prescott Joule"
+    },
+    {
+      "id": 4,
+      "question": "A class compares the achievements of Newton and Einstein. Which contrast is best supported by the unit?",
+      "options": [
+        "Newton founded classical mechanics; Einstein transformed mechanics through relativity",
+        "Newton developed relativity; Einstein wrote the laws of motion as well in experiments",
+        "Both discovered radioactivity in class in the textbook of this subject in experiments",
+        "Both built the first electric generator in this topic in the textbook of this subject"
+      ],
+      "correctAnswer": "Newton founded classical mechanics; Einstein transformed mechanics through relativity"
+    },
+    {
+      "id": 5,
+      "question": "A student confuses Faraday and Joule. Which pair of clues separates them correctly?",
+      "options": [
+        "Faraday - generator; Joule - heat and work",
+        "Faraday - heat and work; Joule - generator",
+        "Faraday - radioactivity; Joule - relativity",
+        "Faraday - relativity; Joule - radioactivity"
+      ],
+      "correctAnswer": "Faraday - generator; Joule - heat and work"
+    },
+    {
+      "id": 6,
+      "question": "A report discusses how gravity explains both a falling apple and the motion of planets. Which scientist made that connection?",
+      "options": [
+        "Isaac Newton",
+        "Michael Faraday",
+        "Marie Curie",
+        "James Prescott Joule"
+      ],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "id": 7,
+      "question": "A report discusses how a magnetic field can produce an electric current. Which scientist made that discovery?",
+      "options": [
+        "Michael Faraday",
+        "Isaac Newton",
+        "James Prescott Joule",
+        "Albert Einstein"
+      ],
+      "correctAnswer": "Michael Faraday"
+    },
+    {
+      "id": 8,
+      "question": "A museum label mentions polonium and radium. Which scientist is being honored?",
+      "options": [
+        "Marie Curie",
+        "Michael Faraday",
+        "Isaac Newton",
+        "James Prescott Joule"
+      ],
+      "correctAnswer": "Marie Curie"
+    },
+    {
+      "id": 9,
+      "question": "A timeline places relativity, quantum mechanics and nuclear physics in the early twentieth century. Which scientist fits several of these entries?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Michael Faraday",
+        "James Prescott Joule"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 10,
+      "question": "A student says Galileo proved that mass changes the rate of falling. Which experiment from the unit should be cited?",
+      "options": [
+        "The leaning-tower experiment with falling objects",
+        "The magnet and current experiment in the textbook",
+        "The heat-and-work experiment here in the textbook",
+        "The radioactivity experiment here in the textbook"
+      ],
+      "correctAnswer": "The leaning-tower experiment with falling objects"
+    },
+    {
+      "id": 11,
+      "question": "Which sequence of contributors matches the textbook order from classical foundations to modern physics?",
+      "options": [
+        "Newton, Faraday, Joule, Curie, Einstein",
+        "Einstein, Curie, Joule, Faraday, Newton",
+        "Curie, Newton, Einstein, Joule, Faraday",
+        "Joule, Einstein, Newton, Curie, Faraday"
+      ],
+      "correctAnswer": "Newton, Faraday, Joule, Curie, Einstein"
+    },
+    {
+      "id": 12,
+      "question": "A physics club wants to study a historical issue and a contributor. Which pairing fits the unit?",
+      "options": [
+        "The rise of modern physics and Albert Einstein",
+        "The classification of species and Charles Darwin",
+        "The invention of writing and Hammurabi",
+        "The discovery of oxygen and Joseph Priestley"
+      ],
+      "correctAnswer": "The rise of modern physics and Albert Einstein"
+    },
+    {
+      "id": 13,
+      "question": "Which statement about the first electric generator is accurate?",
+      "options": [
+        "Faraday produced it after converting magnetic force into electrical force",
+        "Newton built it while studying gravitation in the textbook in experiments",
+        "Joule built it while studying heat as well in the textbook in experiments",
+        "Einstein built it while studying relativity in this topic in the textbook"
+      ],
+      "correctAnswer": "Faraday produced it after converting magnetic force into electrical force"
+    },
+    {
+      "id": 14,
+      "question": "A quiz asks which contributor is associated with both heat and the first law of thermodynamics. Which answer is correct?",
+      "options": [
+        "James Prescott Joule",
+        "Isaac Newton as well",
+        "Marie Curie in class",
+        "Thomas Young as well"
+      ],
+      "correctAnswer": "James Prescott Joule"
+    },
+    {
+      "id": 15,
+      "question": "A quiz asks which contributor is associated with the law of refraction. Which answer is correct?",
+      "options": [
+        "Willebrod Snell",
+        "Albert Einstein",
+        "Marie Curie",
+        "Michael Faraday"
+      ],
+      "correctAnswer": "Willebrod Snell"
+    },
+    {
+      "id": 16,
+      "question": "A quiz asks which contributor is associated with fluid flow and pressure. Which answer is correct?",
+      "options": [
+        "Daniel Bernoulli",
+        "Isaac Newton",
+        "James Prescott Joule",
+        "Marie Curie"
+      ],
+      "correctAnswer": "Daniel Bernoulli"
+    },
+    {
+      "id": 17,
+      "question": "A quiz asks which contributor is associated with interference experiments in light. Which answer is correct?",
+      "options": [
+        "Thomas Young",
+        "Michael Faraday",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "correctAnswer": "Thomas Young"
+    },
+    {
+      "id": 18,
+      "question": "A student claims only twentieth-century scientists matter in physics. Which fact from the unit is the best response?",
+      "options": [
+        "Newton, Faraday and Joule built the foundations used later",
+        "There were no scientists before 1900 still in the textbook",
+        "classical physics has no modern relevance now for students",
+        "Physics began with Einstein in the textbook in experiments"
+      ],
+      "correctAnswer": "Newton, Faraday and Joule built the foundations used later"
+    },
+    {
+      "id": 19,
+      "question": "A poster pairs a scientist with a phrase. Which pairing is correct?",
+      "options": [
+        "Curie - mother of modern nuclear physics now",
+        "Faraday - father of relativity in this topic",
+        "Joule - inventor of the telescope in physics",
+        "Newton - discoverer of radium in experiments"
+      ],
+      "correctAnswer": "Curie - mother of modern nuclear physics now"
+    },
+    {
+      "id": 20,
+      "question": "Which statement captures the units view of historical contributors?",
+      "options": [
+        "Physics advanced through many scientists working in different periods",
+        "Physics was completed by one scientist in the textbook in experiments",
+        "Physics discoveries have no practical effects as well in the textbook",
+        "Physics history belongs to biology classes in physics in the textbook"
+      ],
+      "correctAnswer": "Physics advanced through many scientists working in different periods"
+    }
+  ]
+}

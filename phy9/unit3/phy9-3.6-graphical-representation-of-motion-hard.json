@@ -1,0 +1,237 @@
+{
+  "title": "3.6 Graphical Representation of Motion",
+  "description": "Graphical Representation of Motion concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "graphical representation of motion",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "An s-t graph is a straight line from (0 s, 0 m) to (4 s, 20 m), then horizontal to 8 s. What is the velocity in the first 4 s?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$",
+        "$4\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$2.5\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 2,
+      "question": "An s-t graph is straight from (0 s, 0 m) to (4 s, 20 m), then horizontal to 8 s. What is the object doing from 4 s to 8 s?",
+      "options": [
+        "at rest",
+        "moving at 5 m/s",
+        "moving backward",
+        "speeding up"
+      ],
+      "correctAnswer": "at rest"
+    },
+    {
+      "id": 3,
+      "question": "A v-t graph rises linearly from 0 to 12 m/s in 3 s, then stays at 12 m/s to 7 s. What is acceleration in the first 3 s?",
+      "options": [
+        "$4\\,\\mathrm{m/s^2}$",
+        "$3\\,\\mathrm{m/s^2}$",
+        "$12\\,\\mathrm{m/s^2}$",
+        "$0\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 4,
+      "question": "A v-t graph rises linearly from 0 to 12 m/s in 3 s, then stays at 12 m/s to 7 s. What distance is covered from 3 s to 7 s?",
+      "options": [
+        "$48\\,\\mathrm{m}$",
+        "$12\\,\\mathrm{m}$",
+        "$36\\,\\mathrm{m}$",
+        "$84\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$48\\,\\mathrm{m}$"
+    },
+    {
+      "id": 5,
+      "question": "An s-t graph has slope 3 m/s from 0 to 4 s and slope -2 m/s from 4 to 6 s. Taking +x as positive, what is displacement over 6 s?",
+      "options": [
+        "$8\\,\\mathrm{m}$",
+        "$12\\,\\mathrm{m}$",
+        "$16\\,\\mathrm{m}$",
+        "$-4\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$8\\,\\mathrm{m}$"
+    },
+    {
+      "id": 6,
+      "question": "An s-t graph has slope 3 m/s from 0 to 4 s and slope -2 m/s from 4 to 6 s. What total distance is covered?",
+      "options": [
+        "$16\\,\\mathrm{m}$",
+        "$8\\,\\mathrm{m}$",
+        "$12\\,\\mathrm{m}$",
+        "$20\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$16\\,\\mathrm{m}$"
+    },
+    {
+      "id": 7,
+      "question": "A v-t graph is horizontal at 20 m/s from 0 to 5 s and at 10 m/s from 5 to 8 s. What is total distance?",
+      "options": [
+        "$130\\,\\mathrm{m}$",
+        "$100\\,\\mathrm{m}$",
+        "$30\\,\\mathrm{m}$",
+        "$150\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$130\\,\\mathrm{m}$"
+    },
+    {
+      "id": 8,
+      "question": "A v-t graph is horizontal at 20 m/s from 0 to 5 s. What is the acceleration during that interval?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$4\\,\\mathrm{m/s^2}$",
+        "$20\\,\\mathrm{m/s^2}$",
+        "$10\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 9,
+      "question": "A car s-t graph is a straight line with slope -4 m/s along x. What is its speed?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$",
+        "$-4\\,\\mathrm{m/s}$",
+        "$8\\,\\mathrm{m/s}$",
+        "$0\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 10,
+      "question": "An s-t graph shows 2 m at 0 s, 14 m at 2 s, and 14 m at 5 s. What is average velocity over 0 to 5 s?",
+      "options": [
+        "$2.4\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$",
+        "$2.8\\,\\mathrm{m/s}$",
+        "$12\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$2.4\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 11,
+      "question": "An s-t graph shows 2 m at 0 s, 14 m at 2 s, and 14 m at 5 s. What distance is covered?",
+      "options": [
+        "$12\\,\\mathrm{m}$",
+        "$2\\,\\mathrm{m}$",
+        "$14\\,\\mathrm{m}$",
+        "$24\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m}$"
+    },
+    {
+      "id": 12,
+      "question": "A v-t graph rises from 0 m/s to 10 m/s in 5 s, then stays there for 5 s. What is the average acceleration over the first 5 s?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$5\\,\\mathrm{m/s^2}$",
+        "$10\\,\\mathrm{m/s^2}$",
+        "$1\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 13,
+      "question": "A v-t graph is horizontal at 15 m/s. What is the area under the graph between 2 s and 6 s?",
+      "options": [
+        "$60\\,\\mathrm{m}$",
+        "$15\\,\\mathrm{m}$",
+        "$30\\,\\mathrm{m}$",
+        "$90\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$60\\,\\mathrm{m}$"
+    },
+    {
+      "id": 14,
+      "question": "An s-t graph has slope 5 m/s for 0 to 2 s and slope 2 m/s for 2 to 6 s. Starting at 0 m, what is the position at 6 s?",
+      "options": [
+        "$18\\,\\mathrm{m}$",
+        "$12\\,\\mathrm{m}$",
+        "$10\\,\\mathrm{m}$",
+        "$30\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$18\\,\\mathrm{m}$"
+    },
+    {
+      "id": 15,
+      "question": "An s-t graph has slope 5 m/s for 0 to 2 s and slope 2 m/s for 2 to 6 s. What is the average velocity over 0 to 6 s?",
+      "options": [
+        "$3\\,\\mathrm{m/s}$",
+        "$5\\,\\mathrm{m/s}$",
+        "$2\\,\\mathrm{m/s}$",
+        "$18\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$3\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 16,
+      "question": "A v-t line slopes downward from 16 m/s at 0 s to 4 m/s at 4 s. What is the acceleration?",
+      "options": [
+        "$-3\\,\\mathrm{m/s^2}$",
+        "$+3\\,\\mathrm{m/s^2}$",
+        "$-4\\,\\mathrm{m/s^2}$",
+        "$+12\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$-3\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 17,
+      "question": "On a v-t graph, velocity is 5 m/s from 0 to 4 s. What distance is covered?",
+      "options": [
+        "$20\\,\\mathrm{m}$",
+        "$50\\,\\mathrm{m}$",
+        "$4\\,\\mathrm{m}$",
+        "$9\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m}$"
+    },
+    {
+      "id": 18,
+      "question": "An s-t line goes from (0 s, 20 m) to (5 s, 5 m) along x. Taking +x as positive, what is the velocity?",
+      "options": [
+        "$-3\\,\\mathrm{m/s}$",
+        "$+3\\,\\mathrm{m/s}$",
+        "$-15\\,\\mathrm{m/s}$",
+        "$+5\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$-3\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 19,
+      "question": "A speed-time graph is horizontal at 60 km/h for 0.5 h. What distance is covered?",
+      "options": [
+        "$30\\,\\mathrm{km}$",
+        "$60\\,\\mathrm{km}$",
+        "$0.5\\,\\mathrm{km}$",
+        "$120\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$30\\,\\mathrm{km}$"
+    },
+    {
+      "id": 20,
+      "question": "A speedometer reads 72 km/h while the v-t graph is horizontal. What is the acceleration?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$20\\,\\mathrm{m/s^2}$",
+        "$72\\,\\mathrm{m/s^2}$",
+        "$2\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    }
+  ]
+}

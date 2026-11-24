@@ -1,0 +1,237 @@
+{
+  "title": "1.4 Historical Issues and Contributors",
+  "description": "Historical Issues and Contributors concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "historical issues and contributors",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "During which period is classical physics said to have developed?",
+      "options": [
+        "From the renaissance to the end of the nineteenth century",
+        "From the twentieth century onward as well in the textbook",
+        "Only in ancient Egypt now in the textbook of this subject",
+        "Only in the last fifty years for students in the textbook"
+      ],
+      "correctAnswer": "From the renaissance to the end of the nineteenth century"
+    },
+    {
+      "id": 2,
+      "question": "What marks the start of modern physics?",
+      "options": [
+        "Revolutionary discoveries at the beginning of the twentieth century",
+        "The invention of the wheel in class in the textbook of this subject",
+        "The founding of the first library now in this topic in the textbook",
+        "The discovery of farming in physics in the textbook of this subject"
+      ],
+      "correctAnswer": "Revolutionary discoveries at the beginning of the twentieth century"
+    },
+    {
+      "id": 3,
+      "question": "Who laid the foundations for classical physics with three laws of motion?",
+      "options": [
+        "Isaac Newton",
+        "Michael Faraday",
+        "Marie Curie",
+        "Albert Einstein"
+      ],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "id": 4,
+      "question": "Which scientist showed gravitation could explain falling bodies and planetary motion?",
+      "options": [
+        "Isaac Newton",
+        "James Prescott Joule",
+        "Marie Curie",
+        "Michael Faraday"
+      ],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "id": 5,
+      "question": "Who succeeded in producing mechanical motion with a permanent magnet and current in 1821?",
+      "options": [
+        "Michael Faraday",
+        "Isaac Newton",
+        "Albert Einstein",
+        "James Prescott Joule"
+      ],
+      "correctAnswer": "Michael Faraday"
+    },
+    {
+      "id": 6,
+      "question": "Who invented the worlds first electric generator?",
+      "options": [
+        "Michael Faraday",
+        "Marie Curie",
+        "Isaac Newton",
+        "James Prescott Joule"
+      ],
+      "correctAnswer": "Michael Faraday"
+    },
+    {
+      "id": 7,
+      "question": "Who studied the nature of heat and its relationship to mechanical work?",
+      "options": [
+        "James Prescott Joule",
+        "Michael Faraday here",
+        "Albert Einstein here",
+        "Isaac Newton as well"
+      ],
+      "correctAnswer": "James Prescott Joule"
+    },
+    {
+      "id": 8,
+      "question": "Whose work helped lay the foundation for the first law of thermodynamics?",
+      "options": [
+        "James Prescott Joule",
+        "Marie Curie in class",
+        "Isaac Newton as well",
+        "Michael Faraday here"
+      ],
+      "correctAnswer": "James Prescott Joule"
+    },
+    {
+      "id": 9,
+      "question": "Who is considered the mother of modern nuclear physics?",
+      "options": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Lise Meitner",
+        "Chien Shiung Wu"
+      ],
+      "correctAnswer": "Marie Curie"
+    },
+    {
+      "id": 10,
+      "question": "Which elements were discovered by Marie Curie?",
+      "options": [
+        "Polonium and radium",
+        "Oxygen and nitrogen",
+        "Iron and copper",
+        "Gold and silver"
+      ],
+      "correctAnswer": "Polonium and radium"
+    },
+    {
+      "id": 11,
+      "question": "Who is known for developing the theory of relativity?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Michael Faraday",
+        "James Prescott Joule"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 12,
+      "question": "Which scientist also made important contributions to quantum mechanics?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Michael Faraday",
+        "Marie Curie"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 13,
+      "question": "What did Galileos leaning-tower experiment demonstrate?",
+      "options": [
+        "Objects fall at the same rate regardless of mass now",
+        "Heavy objects fall faster than light ones in physics",
+        "Gravity acts only on large objects now in this topic",
+        "Air resistance strengthens falling now in this topic"
+      ],
+      "correctAnswer": "Objects fall at the same rate regardless of mass now"
+    },
+    {
+      "id": 14,
+      "question": "Which contributor is known for work on optics and the law of refraction?",
+      "options": [
+        "Willebrod Snell",
+        "James Prescott Joule",
+        "Marie Curie",
+        "Albert Einstein"
+      ],
+      "correctAnswer": "Willebrod Snell"
+    },
+    {
+      "id": 15,
+      "question": "Which contributor is known for contributions to fluid mechanics?",
+      "options": [
+        "Daniel Bernoulli now",
+        "Michael Faraday here",
+        "Isaac Newton as well",
+        "Marie Curie in class"
+      ],
+      "correctAnswer": "Daniel Bernoulli now"
+    },
+    {
+      "id": 16,
+      "question": "Which contributor is known for experiments in wave optics?",
+      "options": [
+        "Thomas Young",
+        "James Prescott Joule",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "correctAnswer": "Thomas Young"
+    },
+    {
+      "id": 17,
+      "question": "Which scientist is named as a contributor to physics in the unit?",
+      "options": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur"
+      ],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "id": 18,
+      "question": "What happened to many laws of classical physics during the twentieth century?",
+      "options": [
+        "They were modified rather than discarded here",
+        "They were fully replaced by new laws in class",
+        "They were kept exactly unchanged for students",
+        "They were replaced by laws of biology as well"
+      ],
+      "correctAnswer": "They were modified rather than discarded here"
+    },
+    {
+      "id": 19,
+      "question": "Which achievement is associated with Faraday ten years after his 1821 result?",
+      "options": [
+        "Converting magnetic force into electrical force",
+        "Discovering radioactivity still in the textbook",
+        "Formulating the laws of motion now for students",
+        "Developing relativity in physics in experiments"
+      ],
+      "correctAnswer": "Converting magnetic force into electrical force"
+    },
+    {
+      "id": 20,
+      "question": "Which statement about scientific knowledge over time is supported by the unit?",
+      "options": [
+        "It grows through contributions from many scientists across eras",
+        "It is fixed once and for all now in the textbook in experiments",
+        "It comes from a single discoverer in this topic in the textbook",
+        "It changes only through political decisions now in the textbook"
+      ],
+      "correctAnswer": "It grows through contributions from many scientists across eras"
+    }
+  ]
+}

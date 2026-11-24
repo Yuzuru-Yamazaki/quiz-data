@@ -1,0 +1,237 @@
+{
+  "title": "1.2 Branches of Physics",
+  "description": "Branches of Physics concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "branches of physics",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A device uses a magnetic field to convert mechanical motion into an electric current. Which branch explains the conversion?",
+      "options": [
+        "Electromagnetism now",
+        "Optics in this topic",
+        "Thermodynamics still",
+        "Acoustics in physics"
+      ],
+      "correctAnswer": "Electromagnetism now"
+    },
+    {
+      "id": 2,
+      "question": "A student says optics and electromagnetism are unrelated. Which fact from the branch descriptions is the best reply?",
+      "options": [
+        "Electromagnetism includes light among its phenomena",
+        "Optics studies only mechanical waves",
+        "Electromagnetism ignores all fields",
+        "Optics and electromagnetism use the same instruments"
+      ],
+      "correctAnswer": "Electromagnetism includes light among its phenomena"
+    },
+    {
+      "id": 3,
+      "question": "A medical team uses an ultrasonic scan and an x-ray image. Which pair of branches supplies the principles?",
+      "options": [
+        "Acoustics and electromagnetism now",
+        "Optics and thermodynamics in class",
+        "Mechanics and nuclear physics here",
+        "Thermodynamics and acoustics still"
+      ],
+      "correctAnswer": "Acoustics and electromagnetism now"
+    },
+    {
+      "id": 4,
+      "question": "A car engine converts chemical energy into motion and also warms its surroundings. Which branches describe these processes?",
+      "options": [
+        "Thermodynamics and mechanics",
+        "Optics and acoustics",
+        "Astrophysics and nuclear physics",
+        "Acoustics and optics"
+      ],
+      "correctAnswer": "Thermodynamics and mechanics"
+    },
+    {
+      "id": 5,
+      "question": "A researcher moves from modeling a falling rock to modeling an electron. Which change in branch is occurring?",
+      "options": [
+        "Classical mechanics to quantum mechanics",
+        "Quantum mechanics to acoustics in nature",
+        "Optics to thermodynamics in the textbook",
+        "Astrophysics to acoustics in experiments"
+      ],
+      "correctAnswer": "Classical mechanics to quantum mechanics"
+    },
+    {
+      "id": 6,
+      "question": "Which scenario requires both mechanics and acoustics?",
+      "options": [
+        "Analyzing a vibrating string that moves a loudspeaker cone",
+        "Analyzing the reflection of light in a mirror for students",
+        "Analyzing the decay of a radioactive atom now for students",
+        "Analyzing the heat flow in a metal bar now in the textbook"
+      ],
+      "correctAnswer": "Analyzing a vibrating string that moves a loudspeaker cone"
+    },
+    {
+      "id": 7,
+      "question": "Which scenario requires both thermodynamics and electromagnetism?",
+      "options": [
+        "Studying heat produced by an electric current in a wire",
+        "Studying the pitch of a bell in physics in the textbook",
+        "Studying the orbit of a planet in class in the textbook",
+        "Studying the image in a concave lens now in experiments"
+      ],
+      "correctAnswer": "Studying heat produced by an electric current in a wire"
+    },
+    {
+      "id": 8,
+      "question": "A physicist investigates the structure of an atomic nucleus and then the motion of a galaxy. Which pair of branches is involved?",
+      "options": [
+        "Nuclear physics and astrophysics",
+        "Acoustics and optics in the unit",
+        "Mechanics and thermodynamics now",
+        "Optics and acoustics in the unit"
+      ],
+      "correctAnswer": "Nuclear physics and astrophysics"
+    },
+    {
+      "id": 9,
+      "question": "Which claim about the branches of physics matches the textbook table?",
+      "options": [
+        "Mechanics can be divided into quantum and classical branches",
+        "Optics is a branch of acoustics for students in the textbook",
+        "Thermodynamics studies only atomic nuclei now in experiments",
+        "Electromagnetism has no connection to light now for students"
+      ],
+      "correctAnswer": "Mechanics can be divided into quantum and classical branches"
+    },
+    {
+      "id": 10,
+      "question": "A designer chooses materials for a concert hall to improve sound quality and also plans its lighting. Which branches apply?",
+      "options": [
+        "Acoustics and optics",
+        "Mechanics and nuclear physics",
+        "Thermodynamics and astrophysics",
+        "Nuclear physics and electromagnetism"
+      ],
+      "correctAnswer": "Acoustics and optics"
+    },
+    {
+      "id": 11,
+      "question": "A student groups optics, acoustics and mechanics together. Which shared feature justifies the grouping?",
+      "options": [
+        "Each is a branch of physics",
+        "Each studies only heat here",
+        "Each studies only light now",
+        "Each studies only atoms now"
+      ],
+      "correctAnswer": "Each is a branch of physics"
+    },
+    {
+      "id": 12,
+      "question": "A satellite carries a camera and a radio transmitter. Which branches underlie these two functions?",
+      "options": [
+        "Optics and electromagnetism",
+        "Acoustics and mechanics",
+        "Thermodynamics and nuclear physics",
+        "Mechanics and acoustics"
+      ],
+      "correctAnswer": "Optics and electromagnetism"
+    },
+    {
+      "id": 13,
+      "question": "A scientist studies a swinging pendulum and then the sound it makes on impact. Which branches are used in sequence?",
+      "options": [
+        "Mechanics then acoustics",
+        "Optics then thermodynamics",
+        "Nuclear physics then optics",
+        "Thermodynamics then mechanics"
+      ],
+      "correctAnswer": "Mechanics then acoustics"
+    },
+    {
+      "id": 14,
+      "question": "A physicist investigates how light bends and how a magnet deflects a beam of electrons. Which branches are used?",
+      "options": [
+        "Optics and electromagnetism",
+        "Acoustics and thermodynamics",
+        "Mechanics and nuclear physics",
+        "Astrophysics and acoustics"
+      ],
+      "correctAnswer": "Optics and electromagnetism"
+    },
+    {
+      "id": 15,
+      "question": "Which example best illustrates classical rather than quantum mechanics?",
+      "options": [
+        "Predicting the flight path of a thrown ball",
+        "Modeling an electron in an atom in the unit",
+        "Describing nuclear reactions in experiments",
+        "Explaining atomic spectra now in this topic"
+      ],
+      "correctAnswer": "Predicting the flight path of a thrown ball"
+    },
+    {
+      "id": 16,
+      "question": "Which example best illustrates quantum rather than classical mechanics?",
+      "options": [
+        "Describing the behavior of electrons in an atom",
+        "Calculating the braking distance of a car still",
+        "Finding the trajectory of a rocket for students",
+        "Measuring the speed of a train now for students"
+      ],
+      "correctAnswer": "Describing the behavior of electrons in an atom"
+    },
+    {
+      "id": 17,
+      "question": "A laboratory studies heat transfer and another studies sound production. Which two branches are represented?",
+      "options": [
+        "Thermodynamics and acoustics",
+        "Optics and nuclear physics",
+        "Mechanics and electromagnetism",
+        "Astrophysics and optics"
+      ],
+      "correctAnswer": "Thermodynamics and acoustics"
+    },
+    {
+      "id": 18,
+      "question": "Which branch description is accurate?",
+      "options": [
+        "Thermodynamics studies thermal energy and its transfer now",
+        "Acoustics studies the structure of nuclei now for students",
+        "Optics studies the motion of planets still in the textbook",
+        "Nuclear physics studies the reflection of light in physics"
+      ],
+      "correctAnswer": "Thermodynamics studies thermal energy and its transfer now"
+    },
+    {
+      "id": 19,
+      "question": "A machine uses gears to lift a load and a coating to reduce friction. Which branch best covers both concerns?",
+      "options": [
+        "Mechanics",
+        "Optics",
+        "Acoustics",
+        "Nuclear physics"
+      ],
+      "correctAnswer": "Mechanics"
+    },
+    {
+      "id": 20,
+      "question": "A physicist works on the properties of light and also on astronomical observations. Which pair of branches fits?",
+      "options": [
+        "Optics and astrophysics",
+        "Acoustics and mechanics",
+        "Thermodynamics and nuclear physics",
+        "Mechanics and thermodynamics"
+      ],
+      "correctAnswer": "Optics and astrophysics"
+    }
+  ]
+}

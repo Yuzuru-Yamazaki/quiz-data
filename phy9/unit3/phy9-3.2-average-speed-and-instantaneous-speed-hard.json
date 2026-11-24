@@ -1,0 +1,237 @@
+{
+  "title": "3.2 Average Speed and Instantaneous Speed",
+  "description": "Average Speed and Instantaneous Speed concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "average speed and instantaneous speed",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A car travels from P to Q at 60 km/h and returns at 40 km/h. What is the average speed for the round trip?",
+      "options": [
+        "$48\\,\\mathrm{km/h}$",
+        "$50\\,\\mathrm{km/h}$",
+        "$45\\,\\mathrm{km/h}$",
+        "$100\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$48\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 2,
+      "question": "A car goes out at 60 km/h and returns at 30 km/h. What is the round-trip average speed?",
+      "options": [
+        "$40\\,\\mathrm{km/h}$",
+        "$45\\,\\mathrm{km/h}$",
+        "$50\\,\\mathrm{km/h}$",
+        "$90\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$40\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 3,
+      "question": "A cyclist rides 12 km at 12 km/h and returns at 6 km/h. What is the average speed?",
+      "options": [
+        "$8\\,\\mathrm{km/h}$",
+        "$9\\,\\mathrm{km/h}$",
+        "$10\\,\\mathrm{km/h}$",
+        "$18\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$8\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 4,
+      "question": "A car covers the first half of a trip at 40 km/h and the second half at 60 km/h. What is the average speed?",
+      "options": [
+        "$48\\,\\mathrm{km/h}$",
+        "$50\\,\\mathrm{km/h}$",
+        "$52\\,\\mathrm{km/h}$",
+        "$100\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$48\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 5,
+      "question": "A runner moves 100 m in 20 s, rests 10 s, then moves 100 m in 20 s. What is the average speed over 50 s?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$",
+        "$5\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$2\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 6,
+      "question": "A bus travels 90 km in 1.5 h, stops 0.5 h, then travels 60 km in 1 h. What is the average speed?",
+      "options": [
+        "$50\\,\\mathrm{km/h}$",
+        "$60\\,\\mathrm{km/h}$",
+        "$75\\,\\mathrm{km/h}$",
+        "$30\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$50\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 7,
+      "question": "A car moves at 72 km/h for 15 s. What distance does it cover?",
+      "options": [
+        "$300\\,\\mathrm{m}$",
+        "$72\\,\\mathrm{m}$",
+        "$1080\\,\\mathrm{m}$",
+        "$20\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$300\\,\\mathrm{m}$"
+    },
+    {
+      "id": 8,
+      "question": "A train travels 1 km in 40 s and 2 km in 80 s. What is the average speed in m/s?",
+      "options": [
+        "$25\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$30\\,\\mathrm{m/s}$",
+        "$50\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$25\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 9,
+      "question": "A speedometer reads 30 m/s at one instant and a car covers 600 m in 30 s. What is the average speed?",
+      "options": [
+        "$20\\,\\mathrm{m/s}$",
+        "$30\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$600\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 10,
+      "question": "A walker travels 3 km in 30 min and 6 km in 60 min. What is the average speed in km/h?",
+      "options": [
+        "$6\\,\\mathrm{km/h}$",
+        "$3\\,\\mathrm{km/h}$",
+        "$9\\,\\mathrm{km/h}$",
+        "$12\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$6\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 11,
+      "question": "A car travels 300 m at 10 m/s and 300 m at 15 m/s. What is the average speed?",
+      "options": [
+        "$12\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$15\\,\\mathrm{m/s}$",
+        "$25\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 12,
+      "question": "A vehicle moves 36 km in 30 min. What distance does it cover in the next 10 s at that speed?",
+      "options": [
+        "$200\\,\\mathrm{m}$",
+        "$36\\,\\mathrm{m}$",
+        "$100\\,\\mathrm{m}$",
+        "$360\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$200\\,\\mathrm{m}$"
+    },
+    {
+      "id": 13,
+      "question": "A car travels from A to B at 80 km/h and returns at 48 km/h. What is the round-trip average speed?",
+      "options": [
+        "$60\\,\\mathrm{km/h}$",
+        "$64\\,\\mathrm{km/h}$",
+        "$50\\,\\mathrm{km/h}$",
+        "$128\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$60\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 14,
+      "question": "A runner completes 400 m in 50 s and 200 m in 25 s. What is the average speed?",
+      "options": [
+        "$8\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$12\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$8\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 15,
+      "question": "A bus travels at 54 km/h for 20 s. How far does it go?",
+      "options": [
+        "$300\\,\\mathrm{m}$",
+        "$54\\,\\mathrm{m}$",
+        "$270\\,\\mathrm{m}$",
+        "$15\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$300\\,\\mathrm{m}$"
+    },
+    {
+      "id": 16,
+      "question": "A car covers 90 km in 1.25 h. What is its average speed in m/s?",
+      "options": [
+        "$20\\,\\mathrm{m/s}$",
+        "$72\\,\\mathrm{m/s}$",
+        "$18\\,\\mathrm{m/s}$",
+        "$25\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 17,
+      "question": "A cyclist rides 20 min at 18 km/h and 40 min at 12 km/h. What is the average speed?",
+      "options": [
+        "$14\\,\\mathrm{km/h}$",
+        "$15\\,\\mathrm{km/h}$",
+        "$16\\,\\mathrm{km/h}$",
+        "$30\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$14\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 18,
+      "question": "A car drives 0.5 h at 60 km/h and 0.5 h at 120 km/h. What is the average speed?",
+      "options": [
+        "$90\\,\\mathrm{km/h}$",
+        "$75\\,\\mathrm{km/h}$",
+        "$60\\,\\mathrm{km/h}$",
+        "$180\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$90\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 19,
+      "question": "A man walks 6 km in 1 h, rests 0.5 h, and walks 6 km in 1.5 h. What is the average speed?",
+      "options": [
+        "$4\\,\\mathrm{km/h}$",
+        "$6\\,\\mathrm{km/h}$",
+        "$8\\,\\mathrm{km/h}$",
+        "$12\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 20,
+      "question": "A driver sees an 80 km/h limit while the speedometer reads 90 km/h. By how much must the speed be reduced?",
+      "options": [
+        "$10\\,\\mathrm{km/h}$",
+        "$80\\,\\mathrm{km/h}$",
+        "$90\\,\\mathrm{km/h}$",
+        "$170\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$10\\,\\mathrm{km/h}$"
+    }
+  ]
+}

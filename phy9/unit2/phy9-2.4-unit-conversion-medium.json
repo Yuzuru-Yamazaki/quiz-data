@@ -1,0 +1,237 @@
+{
+  "title": "2.4 Unit Conversion",
+  "description": "Unit Conversion concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "unit conversion",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Express 3.2 hours in minutes.",
+      "options": [
+        "192 minutes",
+        "182 minutes",
+        "202 minutes",
+        "320 minutes"
+      ],
+      "correctAnswer": "192 minutes"
+    },
+    {
+      "id": 2,
+      "question": "Express 6.7 hours in minutes.",
+      "options": [
+        "402 minutes",
+        "420 minutes",
+        "67 minutes",
+        "602 minutes"
+      ],
+      "correctAnswer": "402 minutes"
+    },
+    {
+      "id": 3,
+      "question": "What is 3 hours plus 10 minutes plus 120 seconds in minutes?",
+      "options": [
+        "192 minutes",
+        "182 minutes",
+        "202 minutes",
+        "212 minutes"
+      ],
+      "correctAnswer": "192 minutes"
+    },
+    {
+      "id": 4,
+      "question": "Bodies A, B and C have masses 2 tonnes, 100 kg and 1 kg. What is the total in kilograms?",
+      "options": [
+        "2101 kg",
+        "221 kg",
+        "2011 kg",
+        "2001 kg"
+      ],
+      "correctAnswer": "2101 kg"
+    },
+    {
+      "id": 5,
+      "question": "Convert 25 1/2 years into months using 1 year = 12 months.",
+      "options": [
+        "306 months",
+        "300 months",
+        "312 months",
+        "3060 months"
+      ],
+      "correctAnswer": "306 months"
+    },
+    {
+      "id": 6,
+      "question": "A classroom is 8 m and 40 cm long. What is its length in centimeters?",
+      "options": [
+        "840 cm",
+        "84 cm",
+        "804 cm",
+        "8400 cm"
+      ],
+      "correctAnswer": "840 cm"
+    },
+    {
+      "id": 7,
+      "question": "What is 3 days in minutes?",
+      "options": [
+        "4320 minutes",
+        "720 minutes",
+        "1440 minutes",
+        "432 minutes"
+      ],
+      "correctAnswer": "4320 minutes"
+    },
+    {
+      "id": 8,
+      "question": "What is 12 hours in seconds?",
+      "options": [
+        "43200 s",
+        "7200 s",
+        "86400 s",
+        "4320 s"
+      ],
+      "correctAnswer": "43200 s"
+    },
+    {
+      "id": 9,
+      "question": "Convert 10 nm to meters.",
+      "options": [
+        "$1.0\\times10^{-8}\\,\\mathrm{m}$",
+        "$1.0\\times10^{-6}\\,\\mathrm{m}$",
+        "$1.0\\times10^{-9}\\,\\mathrm{m}$",
+        "$1.0\\times10^{-7}\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$1.0\\times10^{-8}\\,\\mathrm{m}$"
+    },
+    {
+      "id": 10,
+      "question": "Convert 10 nm to millimeters.",
+      "options": [
+        "$1.0\\times10^{-5}\\,\\mathrm{mm}$",
+        "$1.0\\times10^{-6}\\,\\mathrm{mm}$",
+        "$1.0\\times10^{-8}\\,\\mathrm{mm}$",
+        "$1.0\\times10^{-4}\\,\\mathrm{mm}$"
+      ],
+      "correctAnswer": "$1.0\\times10^{-5}\\,\\mathrm{mm}$"
+    },
+    {
+      "id": 11,
+      "question": "Convert 10 nm to micrometers.",
+      "options": [
+        "0.01 micrometers now",
+        "0.1 micrometers here",
+        "1 micrometer as well",
+        "10 micrometers still"
+      ],
+      "correctAnswer": "0.01 micrometers now"
+    },
+    {
+      "id": 12,
+      "question": "What is 2.0 times 10 to the power minus 3 meters in millimeters?",
+      "options": [
+        "2.0 mm",
+        "2.0 cm",
+        "2.0 micrometers",
+        "2.0 km"
+      ],
+      "correctAnswer": "2.0 mm"
+    },
+    {
+      "id": 13,
+      "question": "A rope is 3 m and 25 cm long. What is its length in meters?",
+      "options": [
+        "3.25 m",
+        "3.025 m",
+        "325 m",
+        "0.325 m"
+      ],
+      "correctAnswer": "3.25 m"
+    },
+    {
+      "id": 14,
+      "question": "How many millimeters are in 0.05 m?",
+      "options": [
+        "50 mm",
+        "5 mm",
+        "500 mm",
+        "0.5 mm"
+      ],
+      "correctAnswer": "50 mm"
+    },
+    {
+      "id": 15,
+      "question": "Convert 2500 g into kilograms.",
+      "options": [
+        "2.5 kg",
+        "25 kg",
+        "0.25 kg",
+        "250 kg"
+      ],
+      "correctAnswer": "2.5 kg"
+    },
+    {
+      "id": 16,
+      "question": "Convert 0.75 km into meters.",
+      "options": [
+        "750 m",
+        "75 m",
+        "7500 m",
+        "7.5 m"
+      ],
+      "correctAnswer": "750 m"
+    },
+    {
+      "id": 17,
+      "question": "A journey lasts 90 minutes. What is that in hours?",
+      "options": [
+        "1.5 hours",
+        "1.2 hours",
+        "0.9 hours",
+        "9 hours"
+      ],
+      "correctAnswer": "1.5 hours"
+    },
+    {
+      "id": 18,
+      "question": "Convert 45 minutes into seconds.",
+      "options": [
+        "2700 s",
+        "450 s",
+        "270 s",
+        "4500 s"
+      ],
+      "correctAnswer": "2700 s"
+    },
+    {
+      "id": 19,
+      "question": "What is 5 kg plus 750 g expressed in kilograms?",
+      "options": [
+        "5.75 kg",
+        "5.075 kg",
+        "575 kg",
+        "0.575 kg"
+      ],
+      "correctAnswer": "5.75 kg"
+    },
+    {
+      "id": 20,
+      "question": "Which unit is most suitable for measuring the distance from Earth to Moon?",
+      "options": [
+        "Kilometer",
+        "Millimeter",
+        "Centimeter",
+        "Meter"
+      ],
+      "correctAnswer": "Kilometer"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "title": "1.2 Branches of Physics",
+  "description": "Branches of Physics concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "branches of physics",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A scientist investigates how sound waves travel through walls. Which branch is being applied?",
+      "options": [
+        "Acoustics",
+        "Optics",
+        "Nuclear physics",
+        "Thermodynamics"
+      ],
+      "correctAnswer": "Acoustics"
+    },
+    {
+      "id": 2,
+      "question": "An engineer designs a telescope mirror to gather light from a distant star. Which two branches are involved?",
+      "options": [
+        "Optics and astrophysics",
+        "Acoustics and mechanics",
+        "Thermodynamics and nuclear physics",
+        "Mechanics and acoustics"
+      ],
+      "correctAnswer": "Optics and astrophysics"
+    },
+    {
+      "id": 3,
+      "question": "A technician examines the magnetic field produced by a current-carrying wire. Which branch applies?",
+      "options": [
+        "Electromagnetism now",
+        "Optics in this topic",
+        "Acoustics in physics",
+        "Thermodynamics still"
+      ],
+      "correctAnswer": "Electromagnetism now"
+    },
+    {
+      "id": 4,
+      "question": "A researcher studies how thermal energy moves through a metal rod. Which branch applies?",
+      "options": [
+        "Thermodynamics",
+        "Mechanics",
+        "Nuclear physics",
+        "Optics"
+      ],
+      "correctAnswer": "Thermodynamics"
+    },
+    {
+      "id": 5,
+      "question": "A physicist models the behavior of an electron in an atom. Which branch applies?",
+      "options": [
+        "Quantum mechanics",
+        "Classical mechanics",
+        "Astrophysics",
+        "Acoustics"
+      ],
+      "correctAnswer": "Quantum mechanics"
+    },
+    {
+      "id": 6,
+      "question": "A physicist calculates the path of a car during braking. Which branch applies?",
+      "options": [
+        "Classical mechanics now",
+        "Quantum mechanics still",
+        "Nuclear physics as well",
+        "Thermodynamics in class"
+      ],
+      "correctAnswer": "Classical mechanics now"
+    },
+    {
+      "id": 7,
+      "question": "Which pair of branches both involve the study of light?",
+      "options": [
+        "Optics and electromagnetism",
+        "Acoustics and mechanics",
+        "Thermodynamics and nuclear physics",
+        "Mechanics and acoustics"
+      ],
+      "correctAnswer": "Optics and electromagnetism"
+    },
+    {
+      "id": 8,
+      "question": "A team builds an electric motor using a permanent magnet and current. Which branch is central?",
+      "options": [
+        "Electromagnetism now",
+        "Optics in this topic",
+        "Acoustics in physics",
+        "Nuclear physics here"
+      ],
+      "correctAnswer": "Electromagnetism now"
+    },
+    {
+      "id": 9,
+      "question": "A team measures the half-life of a radioactive isotope. Which branch is central?",
+      "options": [
+        "Nuclear physics",
+        "Acoustics still",
+        "Optics in class",
+        "Mechanics still"
+      ],
+      "correctAnswer": "Nuclear physics"
+    },
+    {
+      "id": 10,
+      "question": "A team studies the temperature of a gas as it expands. Which branch is central?",
+      "options": [
+        "Thermodynamics",
+        "Nuclear physics",
+        "Optics",
+        "Acoustics"
+      ],
+      "correctAnswer": "Thermodynamics"
+    },
+    {
+      "id": 11,
+      "question": "A team investigates why two notes sound different on the same instrument. Which branch is central?",
+      "options": [
+        "Acoustics",
+        "Optics",
+        "Mechanics",
+        "Astrophysics"
+      ],
+      "correctAnswer": "Acoustics"
+    },
+    {
+      "id": 12,
+      "question": "A team predicts the orbit of a comet using laws of motion. Which branch is central?",
+      "options": [
+        "Mechanics",
+        "Thermodynamics",
+        "Acoustics",
+        "Nuclear physics"
+      ],
+      "correctAnswer": "Mechanics"
+    },
+    {
+      "id": 13,
+      "question": "Which description correctly separates classical and quantum mechanics?",
+      "options": [
+        "Classical handles large objects; quantum handles the smallest particles",
+        "Classical studies nuclei; quantum studies planets still in the textbook",
+        "Both study only sound now in this topic in the textbook of this subject",
+        "Both study only heat transfer in physics in the textbook in experiments"
+      ],
+      "correctAnswer": "Classical handles large objects; quantum handles the smallest particles"
+    },
+    {
+      "id": 14,
+      "question": "Which branch would a physicist choose to study the reflection of light from a mirror?",
+      "options": [
+        "Optics",
+        "Nuclear physics",
+        "Acoustics",
+        "Thermodynamics"
+      ],
+      "correctAnswer": "Optics"
+    },
+    {
+      "id": 15,
+      "question": "Which branch would a physicist choose to study the pitch of a siren?",
+      "options": [
+        "Acoustics",
+        "Optics",
+        "Electromagnetism",
+        "Nuclear physics"
+      ],
+      "correctAnswer": "Acoustics"
+    },
+    {
+      "id": 16,
+      "question": "Which branch would a physicist choose to study the force needed to stretch a spring?",
+      "options": [
+        "Mechanics",
+        "Astrophysics",
+        "Thermodynamics",
+        "Optics"
+      ],
+      "correctAnswer": "Mechanics"
+    },
+    {
+      "id": 17,
+      "question": "Which set contains only branches of physics?",
+      "options": [
+        "Acoustics, optics and thermodynamics",
+        "Geology, biology and chemistry still",
+        "History, law and art in the textbook",
+        "Botany, zoology and ecology in class"
+      ],
+      "correctAnswer": "Acoustics, optics and thermodynamics"
+    },
+    {
+      "id": 18,
+      "question": "A scientist studies how a star produces energy in its core. Which branch is most relevant?",
+      "options": [
+        "Nuclear physics",
+        "Acoustics still",
+        "Optics in class",
+        "Mechanics still"
+      ],
+      "correctAnswer": "Nuclear physics"
+    },
+    {
+      "id": 19,
+      "question": "A scientist studies why a bridge vibrates in the wind. Which branch is most relevant?",
+      "options": [
+        "Mechanics",
+        "Thermodynamics",
+        "Nuclear physics",
+        "Optics"
+      ],
+      "correctAnswer": "Mechanics"
+    },
+    {
+      "id": 20,
+      "question": "A scientist studies how an antenna radiates signals. Which branch is most relevant?",
+      "options": [
+        "Electromagnetism now",
+        "Acoustics in physics",
+        "Mechanics in physics",
+        "Nuclear physics here"
+      ],
+      "correctAnswer": "Electromagnetism now"
+    }
+  ]
+}

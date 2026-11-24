@@ -1,0 +1,237 @@
+{
+  "title": "3.6 Graphical Representation of Motion",
+  "description": "Graphical Representation of Motion concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "graphical representation of motion",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A position-time line passes through (0 s, 0 m) and (5 s, 20 m). What is the velocity?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$",
+        "$5\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$100\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 2,
+      "question": "A position-time line passes through (2 s, 6 m) and (6 s, 18 m). What is the slope?",
+      "options": [
+        "$3\\,\\mathrm{m/s}$",
+        "$4\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$",
+        "$12\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$3\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 3,
+      "question": "A velocity-time line goes from 0 m/s at 0 s to 20 m/s at 4 s. What is the acceleration?",
+      "options": [
+        "$5\\,\\mathrm{m/s^2}$",
+        "$4\\,\\mathrm{m/s^2}$",
+        "$20\\,\\mathrm{m/s^2}$",
+        "$80\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 4,
+      "question": "A velocity-time line goes from 6 m/s at 1 s to 18 m/s at 4 s. What is the acceleration?",
+      "options": [
+        "$4\\,\\mathrm{m/s^2}$",
+        "$3\\,\\mathrm{m/s^2}$",
+        "$6\\,\\mathrm{m/s^2}$",
+        "$12\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 5,
+      "question": "A v-t graph is horizontal at 8 m/s from 0 s to 10 s. What distance is covered?",
+      "options": [
+        "$80\\,\\mathrm{m}$",
+        "$8\\,\\mathrm{m}$",
+        "$10\\,\\mathrm{m}$",
+        "$18\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$80\\,\\mathrm{m}$"
+    },
+    {
+      "id": 6,
+      "question": "A v-t graph is horizontal at 12 m/s for 30 s. What distance is covered?",
+      "options": [
+        "$360\\,\\mathrm{m}$",
+        "$1200\\,\\mathrm{m}$",
+        "$30\\,\\mathrm{m}$",
+        "$42\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$360\\,\\mathrm{m}$"
+    },
+    {
+      "id": 7,
+      "question": "A position-time graph is a straight line from (0 s, 10 m) to (5 s, 0 m) along x. What is the velocity?",
+      "options": [
+        "$-2\\,\\mathrm{m/s}$",
+        "$+2\\,\\mathrm{m/s}$",
+        "$-10\\,\\mathrm{m/s}$",
+        "$+5\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$-2\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 8,
+      "question": "A v-t graph line falls from 20 m/s to 4 m/s in 4 s. What is the acceleration?",
+      "options": [
+        "$-4\\,\\mathrm{m/s^2}$",
+        "$+4\\,\\mathrm{m/s^2}$",
+        "$-16\\,\\mathrm{m/s^2}$",
+        "$+5\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$-4\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 9,
+      "question": "A car s-t graph shows 15 m covered every 3 s. What is its speed?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$",
+        "$3\\,\\mathrm{m/s}$",
+        "$15\\,\\mathrm{m/s}$",
+        "$45\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 10,
+      "question": "A v-t graph has constant value 15 m/s. What is the area under the graph from 0 to 4 s?",
+      "options": [
+        "$60\\,\\mathrm{m}$",
+        "$15\\,\\mathrm{m}$",
+        "$4\\,\\mathrm{m}$",
+        "$19\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$60\\,\\mathrm{m}$"
+    },
+    {
+      "id": 11,
+      "question": "A position-time line rises 30 m over 6 s. What is the average velocity?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$",
+        "$30\\,\\mathrm{m/s}$",
+        "$180\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 12,
+      "question": "A v-t line rises from 5 m/s to 25 m/s in 10 s. What is the acceleration?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$3\\,\\mathrm{m/s^2}$",
+        "$20\\,\\mathrm{m/s^2}$",
+        "$30\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 13,
+      "question": "On an s-t graph, a steeper straight line indicates",
+      "options": [
+        "a larger velocity",
+        "a smaller velocity",
+        "zero velocity",
+        "a longer time"
+      ],
+      "correctAnswer": "a larger velocity"
+    },
+    {
+      "id": 14,
+      "question": "A v-t graph is horizontal at 9 m/s. What is the acceleration?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$9\\,\\mathrm{m/s^2}$",
+        "$3\\,\\mathrm{m/s^2}$",
+        "$36\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 15,
+      "question": "A position-time graph shows 4 m at 2 s and 16 m at 5 s. What is the slope?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$",
+        "$3\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$",
+        "$12\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 16,
+      "question": "A velocity-time graph shows 0 m/s at 0 s, 5 m/s at 1 s, and 10 m/s at 2 s. What is the acceleration?",
+      "options": [
+        "$5\\,\\mathrm{m/s^2}$",
+        "$10\\,\\mathrm{m/s^2}$",
+        "$2\\,\\mathrm{m/s^2}$",
+        "$1\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 17,
+      "question": "A car v-t graph is a horizontal line. Which statement describes it?",
+      "options": [
+        "its velocity is constant",
+        "its velocity keeps falling",
+        "its speed keeps rising",
+        "it covers no distance"
+      ],
+      "correctAnswer": "its velocity is constant"
+    },
+    {
+      "id": 18,
+      "question": "A position-time graph line is horizontal at x = 7 m. What is the position at 10 s?",
+      "options": [
+        "$7\\,\\mathrm{m}$",
+        "$0\\,\\mathrm{m}$",
+        "$10\\,\\mathrm{m}$",
+        "$17\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$7\\,\\mathrm{m}$"
+    },
+    {
+      "id": 19,
+      "question": "A v-t graph shows velocity 10 m/s for 6 s. What distance is represented by the area?",
+      "options": [
+        "$60\\,\\mathrm{m}$",
+        "$10\\,\\mathrm{m}$",
+        "$6\\,\\mathrm{m}$",
+        "$16\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$60\\,\\mathrm{m}$"
+    },
+    {
+      "id": 20,
+      "question": "A position-time line rises 6 m in 3 s. What distance is covered in 8 s at this rate?",
+      "options": [
+        "$16\\,\\mathrm{m}$",
+        "$6\\,\\mathrm{m}$",
+        "$8\\,\\mathrm{m}$",
+        "$48\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$16\\,\\mathrm{m}$"
+    }
+  ]
+}

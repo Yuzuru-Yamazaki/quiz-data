@@ -1,0 +1,237 @@
+{
+  "title": "2.1 Scales, Standards, Units (Prefixes)",
+  "description": "Scales, Standards, Units (Prefixes) concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "scales standards units prefixes",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the symbol for the prefix tera?",
+      "options": [
+        "T",
+        "G",
+        "M",
+        "k"
+      ],
+      "correctAnswer": "T"
+    },
+    {
+      "id": 2,
+      "question": "What is the symbol for the prefix giga?",
+      "options": [
+        "G",
+        "T",
+        "M",
+        "k"
+      ],
+      "correctAnswer": "G"
+    },
+    {
+      "id": 3,
+      "question": "What is the symbol for the prefix mega?",
+      "options": [
+        "M",
+        "T",
+        "G",
+        "k"
+      ],
+      "correctAnswer": "M"
+    },
+    {
+      "id": 4,
+      "question": "What is the symbol for the prefix kilo?",
+      "options": [
+        "k",
+        "T",
+        "G",
+        "M"
+      ],
+      "correctAnswer": "k"
+    },
+    {
+      "id": 5,
+      "question": "What is the symbol for the prefix hecto?",
+      "options": [
+        "h",
+        "T",
+        "G",
+        "M"
+      ],
+      "correctAnswer": "h"
+    },
+    {
+      "id": 6,
+      "question": "What is the symbol for the prefix deka?",
+      "options": [
+        "da now",
+        "T here",
+        "G here",
+        "M here"
+      ],
+      "correctAnswer": "da now"
+    },
+    {
+      "id": 7,
+      "question": "Which power of ten does the prefix deci represent?",
+      "options": [
+        "$10^{-1}$",
+        "$10^{12}$",
+        "$10^{9}$",
+        "$10^{6}$"
+      ],
+      "correctAnswer": "$10^{-1}$"
+    },
+    {
+      "id": 8,
+      "question": "Which power of ten does the prefix centi represent?",
+      "options": [
+        "$10^{-2}$",
+        "$10^{12}$",
+        "$10^{9}$",
+        "$10^{6}$"
+      ],
+      "correctAnswer": "$10^{-2}$"
+    },
+    {
+      "id": 9,
+      "question": "Which power of ten does the prefix milli represent?",
+      "options": [
+        "$10^{-3}$",
+        "$10^{12}$",
+        "$10^{9}$",
+        "$10^{6}$"
+      ],
+      "correctAnswer": "$10^{-3}$"
+    },
+    {
+      "id": 10,
+      "question": "Which power of ten does the prefix micro represent?",
+      "options": [
+        "$10^{-6}$",
+        "$10^{12}$",
+        "$10^{9}$",
+        "$10^{6}$"
+      ],
+      "correctAnswer": "$10^{-6}$"
+    },
+    {
+      "id": 11,
+      "question": "Which power of ten does the prefix nano represent?",
+      "options": [
+        "$10^{-9}$",
+        "$10^{12}$",
+        "$10^{9}$",
+        "$10^{6}$"
+      ],
+      "correctAnswer": "$10^{-9}$"
+    },
+    {
+      "id": 12,
+      "question": "Which power of ten does the prefix pico represent?",
+      "options": [
+        "$10^{-12}$ now",
+        "$10^{12}$ here",
+        "$10^{9}$ still",
+        "$10^{6}$ still"
+      ],
+      "correctAnswer": "$10^{-12}$ now"
+    },
+    {
+      "id": 13,
+      "question": "What is a prefix in the context of SI units?",
+      "options": [
+        "A letter placed before a unit",
+        "A digit after the unit",
+        "A symbol for a physical quantity",
+        "A type of measuring device"
+      ],
+      "correctAnswer": "A letter placed before a unit"
+    },
+    {
+      "id": 14,
+      "question": "How many base physical quantities are listed in the SI system?",
+      "options": [
+        "Seven",
+        "Five",
+        "Nine",
+        "Eleven"
+      ],
+      "correctAnswer": "Seven"
+    },
+    {
+      "id": 15,
+      "question": "Which symbol is written before a unit with no space?",
+      "options": [
+        "A prefix",
+        "A subscript",
+        "A multiplier sign",
+        "A decimal point"
+      ],
+      "correctAnswer": "A prefix"
+    },
+    {
+      "id": 16,
+      "question": "What is the multiplier for the prefix kilo?",
+      "options": [
+        "One thousand",
+        "One million",
+        "One tenth",
+        "One billionth"
+      ],
+      "correctAnswer": "One thousand"
+    },
+    {
+      "id": 17,
+      "question": "What is the multiplier for the prefix centi?",
+      "options": [
+        "One hundredth",
+        "One thousandth",
+        "One millionth",
+        "One hundred"
+      ],
+      "correctAnswer": "One hundredth"
+    },
+    {
+      "id": 18,
+      "question": "What is the multiplier for the prefix milli?",
+      "options": [
+        "One thousandth now",
+        "One hundredth here",
+        "One millionth here",
+        "One thousand still"
+      ],
+      "correctAnswer": "One thousandth now"
+    },
+    {
+      "id": 19,
+      "question": "Which prefix means one billionth?",
+      "options": [
+        "nano",
+        "micro",
+        "pico",
+        "mega"
+      ],
+      "correctAnswer": "nano"
+    },
+    {
+      "id": 20,
+      "question": "Which prefix means one million?",
+      "options": [
+        "mega",
+        "giga",
+        "kilo",
+        "tera"
+      ],
+      "correctAnswer": "mega"
+    }
+  ]
+}

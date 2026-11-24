@@ -1,0 +1,237 @@
+{
+  "title": "2.3 Classification of Physical Quantities",
+  "description": "Classification of Physical Quantities concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "classification of physical quantities",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a physical quantity?",
+      "options": [
+        "Anything that can be measured now",
+        "A tool used in a laboratory still",
+        "A number without a unit in nature",
+        "A type of graph now in this topic"
+      ],
+      "correctAnswer": "Anything that can be measured now"
+    },
+    {
+      "id": 2,
+      "question": "Which quantity can be measured directly?",
+      "options": [
+        "Length",
+        "Area",
+        "Speed",
+        "Density"
+      ],
+      "correctAnswer": "Length"
+    },
+    {
+      "id": 3,
+      "question": "Which quantity is derived from length and time?",
+      "options": [
+        "Speed",
+        "Mass",
+        "Time",
+        "Temperature"
+      ],
+      "correctAnswer": "Speed"
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a fundamental quantity?",
+      "options": [
+        "Mass",
+        "Force",
+        "Work",
+        "Pressure"
+      ],
+      "correctAnswer": "Mass"
+    },
+    {
+      "id": 5,
+      "question": "Which of these is a derived quantity?",
+      "options": [
+        "Density",
+        "Length",
+        "Time",
+        "Current"
+      ],
+      "correctAnswer": "Density"
+    },
+    {
+      "id": 6,
+      "question": "Which quantity has only magnitude?",
+      "options": [
+        "Distance",
+        "Displacement",
+        "Velocity",
+        "Force"
+      ],
+      "correctAnswer": "Distance"
+    },
+    {
+      "id": 7,
+      "question": "Which quantity has both magnitude and direction?",
+      "options": [
+        "Displacement",
+        "Distance now",
+        "Mass as well",
+        "Time as well"
+      ],
+      "correctAnswer": "Displacement"
+    },
+    {
+      "id": 8,
+      "question": "Which unit is a fundamental unit?",
+      "options": [
+        "Meter",
+        "Joule",
+        "Newton",
+        "Pascal"
+      ],
+      "correctAnswer": "Meter"
+    },
+    {
+      "id": 9,
+      "question": "Which unit is a derived unit?",
+      "options": [
+        "Joule",
+        "Meter",
+        "Second",
+        "Kelvin"
+      ],
+      "correctAnswer": "Joule"
+    },
+    {
+      "id": 10,
+      "question": "What is the SI unit of speed?",
+      "options": [
+        "Meter per second as well",
+        "Kilogram per cubic meter",
+        "Newton now in this topic",
+        "Joule now in experiments"
+      ],
+      "correctAnswer": "Meter per second as well"
+    },
+    {
+      "id": 11,
+      "question": "What is the SI unit of density?",
+      "options": [
+        "Kilogram per cubic meter",
+        "Meter per second as well",
+        "Joule now in experiments",
+        "Pascal now in this topic"
+      ],
+      "correctAnswer": "Kilogram per cubic meter"
+    },
+    {
+      "id": 12,
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": "Newton"
+    },
+    {
+      "id": 13,
+      "question": "Which quantity is measured in pascals?",
+      "options": [
+        "Pressure still",
+        "Energy as well",
+        "Force in class",
+        "Speed in class"
+      ],
+      "correctAnswer": "Pressure still"
+    },
+    {
+      "id": 14,
+      "question": "Which list contains only scalar quantities?",
+      "options": [
+        "Distance, mass and time",
+        "Force, velocity and acceleration",
+        "Displacement and velocity",
+        "Acceleration and force"
+      ],
+      "correctAnswer": "Distance, mass and time"
+    },
+    {
+      "id": 15,
+      "question": "Which list contains only vector quantities?",
+      "options": [
+        "Displacement, velocity and acceleration",
+        "Mass, time and energy now in this topic",
+        "Distance, speed and temperature as well",
+        "Area, volume and time now in this topic"
+      ],
+      "correctAnswer": "Displacement, velocity and acceleration"
+    },
+    {
+      "id": 16,
+      "question": "What is the SI unit of work?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Pascal",
+        "Meter"
+      ],
+      "correctAnswer": "Joule"
+    },
+    {
+      "id": 17,
+      "question": "Which symbol represents density?",
+      "options": [
+        "Rho",
+        "Omega",
+        "Lambda",
+        "Sigma"
+      ],
+      "correctAnswer": "Rho"
+    },
+    {
+      "id": 18,
+      "question": "Which quantity is found by dividing mass by volume?",
+      "options": [
+        "Density",
+        "Pressure",
+        "Speed",
+        "Work"
+      ],
+      "correctAnswer": "Density"
+    },
+    {
+      "id": 19,
+      "question": "Which quantity is found by dividing force by area?",
+      "options": [
+        "Pressure",
+        "Density",
+        "Acceleration",
+        "Energy"
+      ],
+      "correctAnswer": "Pressure"
+    },
+    {
+      "id": 20,
+      "question": "Which symbol is used for electric current as a base quantity?",
+      "options": [
+        "I",
+        "T",
+        "N",
+        "n"
+      ],
+      "correctAnswer": "I"
+    }
+  ]
+}

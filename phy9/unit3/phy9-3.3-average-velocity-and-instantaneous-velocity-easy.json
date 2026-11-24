@@ -1,0 +1,237 @@
+{
+  "title": "3.3 Average Velocity and Instantaneous Velocity",
+  "description": "Average Velocity and Instantaneous Velocity concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "average velocity and instantaneous velocity",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Velocity is speed with",
+      "options": [
+        "direction",
+        "time",
+        "distance",
+        "acceleration"
+      ],
+      "correctAnswer": "direction"
+    },
+    {
+      "id": 2,
+      "question": "Average velocity equals",
+      "options": [
+        "displacement over time",
+        "distance over time",
+        "time over displacement",
+        "speed over time"
+      ],
+      "correctAnswer": "displacement over time"
+    },
+    {
+      "id": 3,
+      "question": "A student moves 240 m east in 60 s. Taking east as positive, what is the average velocity?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$ east",
+        "$4\\,\\mathrm{m/s}$ west",
+        "$60\\,\\mathrm{m/s}$ east",
+        "$240\\,\\mathrm{m/s}$ east"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$ east"
+    },
+    {
+      "id": 4,
+      "question": "A bird flies 150 m north in 30 s. Taking north as positive, what is the average velocity?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$ north",
+        "$5\\,\\mathrm{m/s}$ south",
+        "$30\\,\\mathrm{m/s}$ north",
+        "$150\\,\\mathrm{m/s}$ north"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$ north"
+    },
+    {
+      "id": 5,
+      "question": "A car has displacement 100 m east in 10 s. What is the average velocity magnitude?",
+      "options": [
+        "$10\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$90\\,\\mathrm{m/s}$",
+        "$110\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$10\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 6,
+      "question": "A runner has average velocity 3 m/s west for 20 s. Taking west as positive, what is the displacement?",
+      "options": [
+        "$60\\,\\mathrm{m}$ west",
+        "$60\\,\\mathrm{m}$ east",
+        "$17\\,\\mathrm{m}$ west",
+        "$23\\,\\mathrm{m}$ west"
+      ],
+      "correctAnswer": "$60\\,\\mathrm{m}$ west"
+    },
+    {
+      "id": 7,
+      "question": "Instantaneous velocity is",
+      "options": [
+        "velocity at one instant",
+        "total displacement over time",
+        "average of all speeds",
+        "change in velocity per time"
+      ],
+      "correctAnswer": "velocity at one instant"
+    },
+    {
+      "id": 8,
+      "question": "The magnitude of instantaneous velocity is",
+      "options": [
+        "instantaneous speed",
+        "speed over the whole trip",
+        "displacement per second",
+        "rate of change of speed"
+      ],
+      "correctAnswer": "instantaneous speed"
+    },
+    {
+      "id": 9,
+      "question": "Average velocity points in the direction of",
+      "options": [
+        "the displacement",
+        "the path taken",
+        "the speedometer",
+        "the reference frame"
+      ],
+      "correctAnswer": "the displacement"
+    },
+    {
+      "id": 10,
+      "question": "A bus moves 80 m east in 20 s. Taking east as positive, what is the average velocity?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$ east",
+        "$4\\,\\mathrm{m/s}$ west",
+        "$20\\,\\mathrm{m/s}$ east",
+        "$100\\,\\mathrm{m/s}$ east"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$ east"
+    },
+    {
+      "id": 11,
+      "question": "A particle displacement is 30 m west in 5 s. What is the direction of its average velocity?",
+      "options": [
+        "west",
+        "east",
+        "north",
+        "upward"
+      ],
+      "correctAnswer": "west"
+    },
+    {
+      "id": 12,
+      "question": "For uniform motion, average velocity and instantaneous velocity are",
+      "options": [
+        "equal at all times",
+        "equal only at rest",
+        "different at all times",
+        "opposite in direction"
+      ],
+      "correctAnswer": "equal at all times"
+    },
+    {
+      "id": 13,
+      "question": "A car has initial position x = 0 and final x = 50 m after 10 s. What is its average velocity?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$ along +x",
+        "$5\\,\\mathrm{m/s}$ along -x",
+        "$50\\,\\mathrm{m/s}$ along +x",
+        "$10\\,\\mathrm{m/s}$ along +x"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$ along +x"
+    },
+    {
+      "id": 14,
+      "question": "Which quantity can be negative along a chosen axis?",
+      "options": [
+        "velocity",
+        "speed",
+        "distance",
+        "path length"
+      ],
+      "correctAnswer": "velocity"
+    },
+    {
+      "id": 15,
+      "question": "A body returns to its starting point. What is its average velocity?",
+      "options": [
+        "$0\\,\\mathrm{m/s}$",
+        "$1\\,\\mathrm{m/s}$",
+        "$5\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 16,
+      "question": "A walker moves 7 m east in 7 s. Taking east as positive, what is the average velocity?",
+      "options": [
+        "$1\\,\\mathrm{m/s}$ east",
+        "$1\\,\\mathrm{m/s}$ west",
+        "$7\\,\\mathrm{m/s}$ east",
+        "$14\\,\\mathrm{m/s}$ east"
+      ],
+      "correctAnswer": "$1\\,\\mathrm{m/s}$ east"
+    },
+    {
+      "id": 17,
+      "question": "Instantaneous velocity can be",
+      "options": [
+        "positive or negative",
+        "zero at all instants",
+        "only positive",
+        "only negative"
+      ],
+      "correctAnswer": "positive or negative"
+    },
+    {
+      "id": 18,
+      "question": "A car velocity is 20 m/s east. What is its speed?",
+      "options": [
+        "$20\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$40\\,\\mathrm{m/s}$",
+        "$0\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 19,
+      "question": "Average velocity is a",
+      "options": [
+        "vector quantity",
+        "scalar quantity",
+        "fixed number",
+        "time interval"
+      ],
+      "correctAnswer": "vector quantity"
+    },
+    {
+      "id": 20,
+      "question": "A boat moves 60 m south in 15 s. Taking south as positive, what is the average velocity?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$ south",
+        "$4\\,\\mathrm{m/s}$ north",
+        "$15\\,\\mathrm{m/s}$ south",
+        "$60\\,\\mathrm{m/s}$ south"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$ south"
+    }
+  ]
+}

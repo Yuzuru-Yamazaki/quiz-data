@@ -1,0 +1,237 @@
+{
+  "title": "3.1 Position, Distance and Displacement",
+  "description": "Position, Distance and Displacement concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "position distance and displacement",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A walker goes 5 km east then 3 km west. Taking east as positive, what is the displacement?",
+      "options": [
+        "$2\\,\\mathrm{km}$ east",
+        "$8\\,\\mathrm{km}$ east",
+        "$5\\,\\mathrm{km}$ east",
+        "$2\\,\\mathrm{km}$ west"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{km}$ east"
+    },
+    {
+      "id": 2,
+      "question": "A walker goes 5 km east then 3 km west. What distance is covered?",
+      "options": [
+        "$8\\,\\mathrm{km}$",
+        "$2\\,\\mathrm{km}$",
+        "$5\\,\\mathrm{km}$",
+        "$15\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$8\\,\\mathrm{km}$"
+    },
+    {
+      "id": 3,
+      "question": "A hiker moves 12 m north then 20 m south. Taking north as positive, what is the displacement?",
+      "options": [
+        "$8\\,\\mathrm{m}$ south",
+        "$32\\,\\mathrm{m}$ south",
+        "$8\\,\\mathrm{m}$ north",
+        "$20\\,\\mathrm{m}$ south"
+      ],
+      "correctAnswer": "$8\\,\\mathrm{m}$ south"
+    },
+    {
+      "id": 4,
+      "question": "A hiker moves 12 m north then 20 m south. What total distance is covered?",
+      "options": [
+        "$32\\,\\mathrm{m}$",
+        "$8\\,\\mathrm{m}$",
+        "$20\\,\\mathrm{m}$",
+        "$40\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$32\\,\\mathrm{m}$"
+    },
+    {
+      "id": 5,
+      "question": "A particle starts at x = -3 m and ends at x = 9 m. What is its displacement?",
+      "options": [
+        "$12\\,\\mathrm{m}$",
+        "$60\\,\\mathrm{m}$",
+        "$9\\,\\mathrm{m}$",
+        "$3\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m}$"
+    },
+    {
+      "id": 6,
+      "question": "A particle starts at x = 4 m and ends at x = -6 m. Taking right as positive, what is its displacement?",
+      "options": [
+        "$10\\,\\mathrm{m}$ left",
+        "$2\\,\\mathrm{m}$ left",
+        "$10\\,\\mathrm{m}$ right",
+        "$6\\,\\mathrm{m}$ left"
+      ],
+      "correctAnswer": "$10\\,\\mathrm{m}$ left"
+    },
+    {
+      "id": 7,
+      "question": "A robot ends 18 m east of its start after traveling a total path of 30 m. What is its displacement magnitude?",
+      "options": [
+        "$18\\,\\mathrm{m}$",
+        "$30\\,\\mathrm{m}$",
+        "$12\\,\\mathrm{m}$",
+        "$48\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$18\\,\\mathrm{m}$"
+    },
+    {
+      "id": 8,
+      "question": "A robot ends 18 m east of its start after traveling a total path of 30 m. What distance did it travel?",
+      "options": [
+        "$30\\,\\mathrm{m}$",
+        "$18\\,\\mathrm{m}$",
+        "$12\\,\\mathrm{m}$",
+        "$48\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$30\\,\\mathrm{m}$"
+    },
+    {
+      "id": 9,
+      "question": "A delivery cart moves 180 m right then 70 m left. Taking right as positive, what is its final position?",
+      "options": [
+        "$110\\,\\mathrm{m}$",
+        "$250\\,\\mathrm{m}$",
+        "$180\\,\\mathrm{m}$",
+        "$70\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$110\\,\\mathrm{m}$"
+    },
+    {
+      "id": 10,
+      "question": "A delivery cart moves 180 m right then 70 m left. What distance does it cover?",
+      "options": [
+        "$250\\,\\mathrm{m}$",
+        "$110\\,\\mathrm{m}$",
+        "$180\\,\\mathrm{m}$",
+        "$70\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$250\\,\\mathrm{m}$"
+    },
+    {
+      "id": 11,
+      "question": "A hiker moves from x = -5 m to x = 2 m and then back to x = -5 m. What total distance is covered?",
+      "options": [
+        "$14\\,\\mathrm{m}$",
+        "$7\\,\\mathrm{m}$",
+        "$0\\,\\mathrm{m}$",
+        "$10\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$14\\,\\mathrm{m}$"
+    },
+    {
+      "id": 12,
+      "question": "A hiker moves from x = -5 m to x = 2 m and then back to x = -5 m. What is the displacement?",
+      "options": [
+        "$0\\,\\mathrm{m}$",
+        "$7\\,\\mathrm{m}$",
+        "$14\\,\\mathrm{m}$",
+        "$5\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m}$"
+    },
+    {
+      "id": 13,
+      "question": "A train moves 60 km east, 25 km west, then 10 km east. Taking east as positive, what is the displacement?",
+      "options": [
+        "$45\\,\\mathrm{km}$ east",
+        "$95\\,\\mathrm{km}$ east",
+        "$35\\,\\mathrm{km}$ east",
+        "$45\\,\\mathrm{km}$ west"
+      ],
+      "correctAnswer": "$45\\,\\mathrm{km}$ east"
+    },
+    {
+      "id": 14,
+      "question": "A train moves 60 km east, 25 km west, then 10 km east. What distance does it cover?",
+      "options": [
+        "$95\\,\\mathrm{km}$",
+        "$45\\,\\mathrm{km}$",
+        "$60\\,\\mathrm{km}$",
+        "$35\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$95\\,\\mathrm{km}$"
+    },
+    {
+      "id": 15,
+      "question": "A particle position changes from 2.0 m to -3.0 m along x. Taking +x as positive, what is the change in position?",
+      "options": [
+        "$-5.0\\,\\mathrm{m}$",
+        "$+5.0\\,\\mathrm{m}$",
+        "$-1.0\\,\\mathrm{m}$",
+        "$+1.0\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$-5.0\\,\\mathrm{m}$"
+    },
+    {
+      "id": 16,
+      "question": "A body travels around a closed path of length 40 m and returns to its start. What is its displacement?",
+      "options": [
+        "$0\\,\\mathrm{m}$",
+        "$40\\,\\mathrm{m}$",
+        "$20\\,\\mathrm{m}$",
+        "$80\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m}$"
+    },
+    {
+      "id": 17,
+      "question": "A bus moves 8 km west then 3 km east. Taking east as positive, what signed displacement is recorded?",
+      "options": [
+        "$-5\\,\\mathrm{km}$",
+        "$+5\\,\\mathrm{km}$",
+        "$-11\\,\\mathrm{km}$",
+        "$+11\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$-5\\,\\mathrm{km}$"
+    },
+    {
+      "id": 18,
+      "question": "A bus moves 8 km west then 3 km east. What distance does it cover?",
+      "options": [
+        "$11\\,\\mathrm{km}$",
+        "$50\\,\\mathrm{km}$",
+        "$8\\,\\mathrm{km}$",
+        "$3\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$11\\,\\mathrm{km}$"
+    },
+    {
+      "id": 19,
+      "question": "Two walkers start at A and end at B by different routes. Which quantity is the same for both?",
+      "options": [
+        "displacement",
+        "distance covered",
+        "path length",
+        "average speed"
+      ],
+      "correctAnswer": "displacement"
+    },
+    {
+      "id": 20,
+      "question": "Which quantity depends on the route taken between two points?",
+      "options": [
+        "distance",
+        "displacement",
+        "velocity",
+        "position change"
+      ],
+      "correctAnswer": "distance"
+    }
+  ]
+}

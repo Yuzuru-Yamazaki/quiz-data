@@ -1,0 +1,237 @@
+{
+  "title": "2.2 Measurement and Safety",
+  "description": "Measurement and Safety concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "measurement and safety",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A student reports a length as 8 m and 40 cm. Which single expression in centimeters is correct?",
+      "options": [
+        "840 cm",
+        "84 cm",
+        "804 cm",
+        "8400 cm"
+      ],
+      "correctAnswer": "840 cm"
+    },
+    {
+      "id": 2,
+      "question": "A tape reads 3.25 m for a classroom width. What is that in millimeters?",
+      "options": [
+        "3250 mm",
+        "325 mm",
+        "32.5 mm",
+        "32500 mm"
+      ],
+      "correctAnswer": "3250 mm"
+    },
+    {
+      "id": 3,
+      "question": "A measured value is 9.65 cm plus 8.4 cm. Which recorded result follows the addition rule?",
+      "options": [
+        "18.1 cm",
+        "18.05 cm",
+        "18 cm",
+        "18.10 cm"
+      ],
+      "correctAnswer": "18.1 cm"
+    },
+    {
+      "id": 4,
+      "question": "A calculation gives 17.75845 from $8.65\times2.053$. Which reported result is correct?",
+      "options": [
+        "17.8",
+        "17.76",
+        "17.758",
+        "17.759"
+      ],
+      "correctAnswer": "17.8"
+    },
+    {
+      "id": 5,
+      "question": "Which expression matches a radius of Earth of 6371000 m using a prefix?",
+      "options": [
+        "$6371\\,\\mathrm{km}$",
+        "$6371\\,\\mathrm{mm}$",
+        "$6.371\\,\\mathrm{Mm}$",
+        "$6371\\,\\mathrm{cm}$"
+      ],
+      "correctAnswer": "$6371\\,\\mathrm{km}$"
+    },
+    {
+      "id": 6,
+      "question": "Which expression matches a hydrogen atom diameter of 10 nm in meters?",
+      "options": [
+        "$1.0\\times10^{-8}\\,\\mathrm{m}$",
+        "$1.0\\times10^{-6}\\,\\mathrm{m}$",
+        "$1.0\\times10^{-9}\\,\\mathrm{m}$",
+        "$1.0\\times10^{-11}\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$1.0\\times10^{-8}\\,\\mathrm{m}$"
+    },
+    {
+      "id": 7,
+      "question": "A floor has area 40 square meters and one tile covers 0.25 square meters. How many tiles are needed?",
+      "options": [
+        "160",
+        "100",
+        "40",
+        "10"
+      ],
+      "correctAnswer": "160"
+    },
+    {
+      "id": 8,
+      "question": "A student measures a table as 200 cm. Which expression in kilometers is correct?",
+      "options": [
+        "0.002 km now",
+        "0.02 km here",
+        "0.2 km still",
+        "2 km as well"
+      ],
+      "correctAnswer": "0.002 km now"
+    },
+    {
+      "id": 9,
+      "question": "Which set of measurements uses appropriate units for a swimming pool?",
+      "options": [
+        "Meters for length and kilograms for water mass",
+        "Millimeters for length and grams for water mass",
+        "Kilometers for length and milligrams for water mass",
+        "Centimeters for length and tonnes for water mass"
+      ],
+      "correctAnswer": "Meters for length and kilograms for water mass"
+    },
+    {
+      "id": 10,
+      "question": "A lab group wears goggles, avoids jewelry and reports a minor spill. Which rule have they all followed?",
+      "options": [
+        "General laboratory safety guidelines",
+        "Measurement conversion rules as well",
+        "Significant figure rules in the unit",
+        "Graph plotting rules in the textbook"
+      ],
+      "correctAnswer": "General laboratory safety guidelines"
+    },
+    {
+      "id": 11,
+      "question": "A scientist needs the most precise reading among three rulers with 1 mm, 5 mm and 1 cm divisions. Which should be chosen?",
+      "options": [
+        "The 1 mm ruler",
+        "The 5 mm ruler",
+        "The 1 cm ruler",
+        "Any ruler gives equal precision"
+      ],
+      "correctAnswer": "The 1 mm ruler"
+    },
+    {
+      "id": 12,
+      "question": "Which description matches a ratio scale?",
+      "options": [
+        "It permits multiplication and division as well as addition and subtraction",
+        "It permits labeling only now in this topic in the textbook of this subject",
+        "It gives ranks only as well in the textbook of this subject in experiments",
+        "It has no zero point as well in this topic in the textbook of this subject"
+      ],
+      "correctAnswer": "It permits multiplication and division as well as addition and subtraction"
+    },
+    {
+      "id": 13,
+      "question": "A student writes 0.000001256 in scientific notation to three decimal places. Which result is correct?",
+      "options": [
+        "$1.256\\times10^{-6}$",
+        "$12.56\\times10^{-6}$",
+        "$1.25\\times10^{-5}$",
+        "$0.126\\times10^{-5}$"
+      ],
+      "correctAnswer": "$1.256\\times10^{-6}$"
+    },
+    {
+      "id": 14,
+      "question": "A mass reading sums to 2275.8 g. What is it in kilograms?",
+      "options": [
+        "2.2758 kg",
+        "22.758 kg",
+        "0.22758 kg",
+        "227.58 kg"
+      ],
+      "correctAnswer": "2.2758 kg"
+    },
+    {
+      "id": 15,
+      "question": "Which safety action involves electrical equipment?",
+      "options": [
+        "Exercising caution while using it now",
+        "Tasting it in physics in the textbook",
+        "Wearing sandals near it in this topic",
+        "Leaving it switched on overnight here"
+      ],
+      "correctAnswer": "Exercising caution while using it now"
+    },
+    {
+      "id": 16,
+      "question": "A student compares a palm measure of cotton with a standardized kilogram. Which advantage of standards is illustrated?",
+      "options": [
+        "Results become reproducible across people and places",
+        "The cotton becomes heavier in physics in experiments",
+        "Measurement becomes unnecessary here in the textbook",
+        "Only one person can measure in class in the textbook"
+      ],
+      "correctAnswer": "Results become reproducible across people and places"
+    },
+    {
+      "id": 17,
+      "question": "Which quantity is a base quantity with SI unit Kelvin?",
+      "options": [
+        "Temperature here",
+        "Heat in the unit",
+        "Energy in nature",
+        "Pressure as well"
+      ],
+      "correctAnswer": "Temperature here"
+    },
+    {
+      "id": 18,
+      "question": "A student must express 72 gigameters with a prefix symbol. Which form is correct?",
+      "options": [
+        "72 Gm",
+        "72 gm",
+        "72 Mm",
+        "72 Tm"
+      ],
+      "correctAnswer": "72 Gm"
+    },
+    {
+      "id": 19,
+      "question": "Which statement about an estimated digit is accurate?",
+      "options": [
+        "It is the final digit read between scale marks",
+        "It is always zero for students in the textbook",
+        "It is written before the decimal point as well",
+        "It is removed from every measurement in nature"
+      ],
+      "correctAnswer": "It is the final digit read between scale marks"
+    },
+    {
+      "id": 20,
+      "question": "A measured value of 138.0 is divided by 11.9. Which result respects the significant-figure rule?",
+      "options": [
+        "11.6 in this topic in the textbook",
+        "11.60 for students in the textbook",
+        "11.597 for students in experiments",
+        "11.6 with four significant figures"
+      ],
+      "correctAnswer": "11.6 in this topic in the textbook"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "title": "1.1 Definition and Nature of Physics",
+  "description": "Definition and Nature of Physics concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "definition and nature of physics",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the Greek word \"phusis\" mean?",
+      "options": [
+        "Nature",
+        "Motion",
+        "Matter",
+        "Energy"
+      ],
+      "correctAnswer": "Nature"
+    },
+    {
+      "id": 2,
+      "question": "Which science aims to describe the fundamental aspects of our universe?",
+      "options": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Geology"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 3,
+      "question": "Which branch of natural science explains the basic mechanisms behind how things behave?",
+      "options": [
+        "Physics",
+        "Chemistry",
+        "Astronomy",
+        "Psychology"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 4,
+      "question": "A student explains why a fan rotates and why walking on smooth ground is difficult. Which subject is being applied?",
+      "options": [
+        "Physics",
+        "Biology",
+        "Geology",
+        "History"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 5,
+      "question": "What is a person who studies physics called?",
+      "options": [
+        "A physicist",
+        "A chemist",
+        "A geologist",
+        "A biologist"
+      ],
+      "correctAnswer": "A physicist"
+    },
+    {
+      "id": 6,
+      "question": "Which question lies at the heart of physics?",
+      "options": [
+        "How the universe behaves",
+        "How organisms are named",
+        "How societies are governed",
+        "How languages evolved"
+      ],
+      "correctAnswer": "How the universe behaves"
+    },
+    {
+      "id": 7,
+      "question": "Which devices have working principles explained by physics?",
+      "options": [
+        "Cars and airplanes",
+        "Fungi and bacteria",
+        "Rocks and minerals",
+        "Books and poems"
+      ],
+      "correctAnswer": "Cars and airplanes"
+    },
+    {
+      "id": 8,
+      "question": "Which heritage structures survive partly because of principles that physics explains?",
+      "options": [
+        "The rock-hewn churches of Lalibela",
+        "The paintings of ancient caves now",
+        "The manuscripts of monasteries now",
+        "The songs of the court in the unit"
+      ],
+      "correctAnswer": "The rock-hewn churches of Lalibela"
+    },
+    {
+      "id": 9,
+      "question": "Which everyday phenomenon does physics help explain?",
+      "options": [
+        "Why an electric fan rotates",
+        "Why a seed germinates still",
+        "Why a metal rusts in nature",
+        "Why a flower wilts in class"
+      ],
+      "correctAnswer": "Why an electric fan rotates"
+    },
+    {
+      "id": 10,
+      "question": "Which school subject does physics help you understand at the level of atoms and molecules?",
+      "options": [
+        "Chemistry",
+        "History",
+        "Literature",
+        "Geography"
+      ],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 11,
+      "question": "Which career field applies physics to the design of aircraft and rockets?",
+      "options": [
+        "Aviation and space science",
+        "Fashion and design as well",
+        "Farming and cropping still",
+        "Music and performance here"
+      ],
+      "correctAnswer": "Aviation and space science"
+    },
+    {
+      "id": 12,
+      "question": "Which field applies physics principles to crime investigation and defense?",
+      "options": [
+        "Forensic and military science now",
+        "Painting and sculpture in physics",
+        "Cooking and baking in experiments",
+        "Banking and insurance in the unit"
+      ],
+      "correctAnswer": "Forensic and military science now"
+    },
+    {
+      "id": 13,
+      "question": "Which field applies physics to the study of weather and atmospheric change?",
+      "options": [
+        "Meteorology",
+        "Archaeology",
+        "Pharmacology",
+        "Linguistics"
+      ],
+      "correctAnswer": "Meteorology"
+    },
+    {
+      "id": 14,
+      "question": "Which field applies physics to the setting of measurement standards?",
+      "options": [
+        "Metrology",
+        "Philosophy",
+        "Theology",
+        "Sociology"
+      ],
+      "correctAnswer": "Metrology"
+    },
+    {
+      "id": 15,
+      "question": "Physics is a branch of which broad category of knowledge?",
+      "options": [
+        "Natural science now",
+        "Social science here",
+        "Formal science here",
+        "Applied art as well"
+      ],
+      "correctAnswer": "Natural science now"
+    },
+    {
+      "id": 16,
+      "question": "Which activity is central to the way physics builds reliable knowledge?",
+      "options": [
+        "Controlled experimentation",
+        "Personal opinion in nature",
+        "Public voting for students",
+        "Unverified rumor in nature"
+      ],
+      "correctAnswer": "Controlled experimentation"
+    },
+    {
+      "id": 17,
+      "question": "What does physics provide to other sciences such as biology and geology?",
+      "options": [
+        "Basic understanding of mechanisms now",
+        "Rules for writing reports in the unit",
+        "Methods of counting money in the unit",
+        "Recipes for practical work in physics"
+      ],
+      "correctAnswer": "Basic understanding of mechanisms now"
+    },
+    {
+      "id": 18,
+      "question": "Which claim about everyday tools is supported by the textbook?",
+      "options": [
+        "Their working principles rely on physics",
+        "They work without any physical principles",
+        "They belong to the field of biology",
+        "They are studied only in history classes"
+      ],
+      "correctAnswer": "Their working principles rely on physics"
+    },
+    {
+      "id": 19,
+      "question": "Which of these is a physical phenomenon?",
+      "options": [
+        "The motion of a moving car now",
+        "The plot of a novel in physics",
+        "The rules of a game in physics",
+        "The meaning of a word in class"
+      ],
+      "correctAnswer": "The motion of a moving car now"
+    },
+    {
+      "id": 20,
+      "question": "What does studying physics help you discover about nature?",
+      "options": [
+        "Its unknown parts",
+        "Its moral rules",
+        "Its musical patterns",
+        "Its legal systems"
+      ],
+      "correctAnswer": "Its unknown parts"
+    }
+  ]
+}

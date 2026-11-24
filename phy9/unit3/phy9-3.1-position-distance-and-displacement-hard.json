@@ -1,0 +1,237 @@
+{
+  "title": "3.1 Position, Distance and Displacement",
+  "description": "Position, Distance and Displacement concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "position distance and displacement",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A cyclist rides 7 km west, 5 km east, then 2 km west. Taking east as positive, what is the displacement?",
+      "options": [
+        "$-4\\,\\mathrm{km}$",
+        "$+4\\,\\mathrm{km}$",
+        "$-14\\,\\mathrm{km}$",
+        "$+14\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$-4\\,\\mathrm{km}$"
+    },
+    {
+      "id": 2,
+      "question": "A cyclist rides 7 km west, 5 km east, then 2 km west. What total distance is ridden?",
+      "options": [
+        "$14\\,\\mathrm{km}$",
+        "$4\\,\\mathrm{km}$",
+        "$7\\,\\mathrm{km}$",
+        "$12\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$14\\,\\mathrm{km}$"
+    },
+    {
+      "id": 3,
+      "question": "A runner covers 9 m east, 3 m west, then 6 m east. What is the magnitude of the displacement?",
+      "options": [
+        "$12\\,\\mathrm{m}$",
+        "$18\\,\\mathrm{m}$",
+        "$9\\,\\mathrm{m}$",
+        "$3\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m}$"
+    },
+    {
+      "id": 4,
+      "question": "A particle starts at x = 4 m, moves to x = -2 m, then to x = 6 m. What total distance is covered?",
+      "options": [
+        "$14\\,\\mathrm{m}$",
+        "$16\\,\\mathrm{m}$",
+        "$6\\,\\mathrm{m}$",
+        "$8\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$14\\,\\mathrm{m}$"
+    },
+    {
+      "id": 5,
+      "question": "A particle starts at x = 4 m, moves to x = -2 m, then to x = 6 m. What is the displacement?",
+      "options": [
+        "$2\\,\\mathrm{m}$",
+        "$16\\,\\mathrm{m}$",
+        "$8\\,\\mathrm{m}$",
+        "$4\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m}$"
+    },
+    {
+      "id": 6,
+      "question": "A drone flies 120 m north, 80 m south, then 50 m south. Taking north as positive, what signed displacement results?",
+      "options": [
+        "$-10\\,\\mathrm{m}$",
+        "$+10\\,\\mathrm{m}$",
+        "$-250\\,\\mathrm{m}$",
+        "$+250\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$-10\\,\\mathrm{m}$"
+    },
+    {
+      "id": 7,
+      "question": "A drone flies 120 m north, 80 m south, then 50 m south. What distance does it fly?",
+      "options": [
+        "$250\\,\\mathrm{m}$",
+        "$10\\,\\mathrm{m}$",
+        "$120\\,\\mathrm{m}$",
+        "$200\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$250\\,\\mathrm{m}$"
+    },
+    {
+      "id": 8,
+      "question": "A man walks 3 km east, 3 km west, then 3 km east. Taking east as positive, how far is he from his start?",
+      "options": [
+        "$3\\,\\mathrm{km}$ east",
+        "$3\\,\\mathrm{km}$ west",
+        "$9\\,\\mathrm{km}$ east",
+        "$0\\,\\mathrm{km}$ east"
+      ],
+      "correctAnswer": "$3\\,\\mathrm{km}$ east"
+    },
+    {
+      "id": 9,
+      "question": "A man walks 3 km east, 3 km west, then 3 km east. What total path length does he cover?",
+      "options": [
+        "$9\\,\\mathrm{km}$",
+        "$3\\,\\mathrm{km}$",
+        "$6\\,\\mathrm{km}$",
+        "$0\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$9\\,\\mathrm{km}$"
+    },
+    {
+      "id": 10,
+      "question": "A body position is x = 2 m at t = 0 and x = -6 m at t = 4 s. Taking +x as positive, what is its displacement?",
+      "options": [
+        "$-8\\,\\mathrm{m}$",
+        "$+8\\,\\mathrm{m}$",
+        "$-4\\,\\mathrm{m}$",
+        "$+4\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$-8\\,\\mathrm{m}$"
+    },
+    {
+      "id": 11,
+      "question": "A student walks 20 m north to a shop and 12 m south. Which quantity equals 8 m north?",
+      "options": [
+        "displacement",
+        "distance",
+        "path length",
+        "average speed"
+      ],
+      "correctAnswer": "displacement"
+    },
+    {
+      "id": 12,
+      "question": "A student walks 20 m north to a shop and 12 m south. Which quantity equals 32 m?",
+      "options": [
+        "distance",
+        "displacement",
+        "net change",
+        "final position"
+      ],
+      "correctAnswer": "distance"
+    },
+    {
+      "id": 13,
+      "question": "A hiker covers 2 km east, 1 km west, 3 km east, then 4 km west. Taking east as positive, what is the final position?",
+      "options": [
+        "$0\\,\\mathrm{km}$",
+        "$2\\,\\mathrm{km}$",
+        "$4\\,\\mathrm{km}$",
+        "$10\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{km}$"
+    },
+    {
+      "id": 14,
+      "question": "A hiker covers 2 km east, 1 km west, 3 km east, then 4 km west. What distance is covered?",
+      "options": [
+        "$10\\,\\mathrm{km}$",
+        "$100\\,\\mathrm{km}$",
+        "$4\\,\\mathrm{km}$",
+        "$6\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$10\\,\\mathrm{km}$"
+    },
+    {
+      "id": 15,
+      "question": "A trip includes a turn along a straight road. Which statement about the trip agrees with the textbook?",
+      "options": [
+        "distance exceeds displacement magnitude",
+        "distance equals the displacement magnitude",
+        "displacement depends on the turn",
+        "position stays fixed during motion"
+      ],
+      "correctAnswer": "distance exceeds displacement magnitude"
+    },
+    {
+      "id": 16,
+      "question": "A car starts at x = 0, moves to x = 30 m, then back to x = 10 m. Taking +x as positive, what is its displacement?",
+      "options": [
+        "$10\\,\\mathrm{m}$",
+        "$30\\,\\mathrm{m}$",
+        "$50\\,\\mathrm{m}$",
+        "$-10\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$10\\,\\mathrm{m}$"
+    },
+    {
+      "id": 17,
+      "question": "A car starts at x = 0, moves to x = 30 m, then back to x = 10 m. What distance does it cover?",
+      "options": [
+        "$50\\,\\mathrm{m}$",
+        "$10\\,\\mathrm{m}$",
+        "$30\\,\\mathrm{m}$",
+        "$20\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$50\\,\\mathrm{m}$"
+    },
+    {
+      "id": 18,
+      "question": "A woman walks 4 m east, 6 m west, then 9 m east. Taking east as positive, what is her displacement?",
+      "options": [
+        "$7\\,\\mathrm{m}$ east",
+        "$19\\,\\mathrm{m}$ east",
+        "$7\\,\\mathrm{m}$ west",
+        "$1\\,\\mathrm{m}$ east"
+      ],
+      "correctAnswer": "$7\\,\\mathrm{m}$ east"
+    },
+    {
+      "id": 19,
+      "question": "A woman walks 4 m east, 6 m west, then 9 m east. What distance does she cover?",
+      "options": [
+        "$19\\,\\mathrm{m}$",
+        "$70\\,\\mathrm{m}$",
+        "$4\\,\\mathrm{m}$",
+        "$9\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$19\\,\\mathrm{m}$"
+    },
+    {
+      "id": 20,
+      "question": "A runner runs 200 m out along a road and 200 m back to the start. Which pair gives distance first and displacement magnitude second?",
+      "options": [
+        "400 m and 0 m",
+        "200 m and 0 m",
+        "400 m and 200 m",
+        "200 m and 200 m"
+      ],
+      "correctAnswer": "400 m and 0 m"
+    }
+  ]
+}

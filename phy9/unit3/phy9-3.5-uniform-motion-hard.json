@@ -1,0 +1,237 @@
+{
+  "title": "3.5 Uniform Motion",
+  "description": "Uniform Motion concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "uniform motion",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A car moves uniformly at 72 km/h for 10 s and then stops. What distance does it cover while moving?",
+      "options": [
+        "$200\\,\\mathrm{m}$",
+        "$72\\,\\mathrm{m}$",
+        "$720\\,\\mathrm{m}$",
+        "$20\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$200\\,\\mathrm{m}$"
+    },
+    {
+      "id": 2,
+      "question": "A train moves with constant velocity 30 m/s east for 20 s and then for 10 s more. What is its average velocity?",
+      "options": [
+        "$30\\,\\mathrm{m/s}$ east",
+        "$20\\,\\mathrm{m/s}$ east",
+        "$45\\,\\mathrm{m/s}$ east",
+        "$900\\,\\mathrm{m/s}$ east"
+      ],
+      "correctAnswer": "$30\\,\\mathrm{m/s}$ east"
+    },
+    {
+      "id": 3,
+      "question": "A particle moves uniformly from x = -10 m to x = 30 m in 8 s. What is its velocity?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$ along +x",
+        "$5\\,\\mathrm{m/s}$ along -x",
+        "$40\\,\\mathrm{m/s}$ along +x",
+        "$20\\,\\mathrm{m/s}$ along +x"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$ along +x"
+    },
+    {
+      "id": 4,
+      "question": "A car travels at constant speed and covers 120 m in 12 s. What distance does it cover in 1.5 min?",
+      "options": [
+        "$900\\,\\mathrm{m}$",
+        "$120\\,\\mathrm{m}$",
+        "$180\\,\\mathrm{m}$",
+        "$1200\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$900\\,\\mathrm{m}$"
+    },
+    {
+      "id": 5,
+      "question": "A bus moves uniformly at 36 km/h. What is its displacement in 1 min along the direction of motion?",
+      "options": [
+        "$600\\,\\mathrm{m}$",
+        "$36\\,\\mathrm{m}$",
+        "$60\\,\\mathrm{m}$",
+        "$360\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$600\\,\\mathrm{m}$"
+    },
+    {
+      "id": 6,
+      "question": "A body in uniform motion has velocity 12 m/s. What is its acceleration magnitude?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$12\\,\\mathrm{m/s^2}$",
+        "$6\\,\\mathrm{m/s^2}$",
+        "$24\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 7,
+      "question": "A car moves with constant velocity 18 m/s west for 5 s. Taking west as positive, what is its average velocity?",
+      "options": [
+        "$18\\,\\mathrm{m/s}$ west",
+        "$18\\,\\mathrm{m/s}$ east",
+        "$90\\,\\mathrm{m/s}$ west",
+        "$5\\,\\mathrm{m/s}$ west"
+      ],
+      "correctAnswer": "$18\\,\\mathrm{m/s}$ west"
+    },
+    {
+      "id": 8,
+      "question": "A cyclist covers 1.5 km in 5 min at constant speed. What is the speed in m/s?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$",
+        "$1.5\\,\\mathrm{m/s}$",
+        "$15\\,\\mathrm{m/s}$",
+        "$300\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 9,
+      "question": "A particle moves uniformly with velocity -4 m/s along x. What is its speed?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$",
+        "$-4\\,\\mathrm{m/s}$",
+        "$8\\,\\mathrm{m/s}$",
+        "$0\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 10,
+      "question": "A car moving uniformly covers 60 km in 1 h. How far does it travel in 20 min?",
+      "options": [
+        "$20\\,\\mathrm{km}$",
+        "$60\\,\\mathrm{km}$",
+        "$12\\,\\mathrm{km}$",
+        "$30\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{km}$"
+    },
+    {
+      "id": 11,
+      "question": "A body moves with constant velocity for 6 s, covering 42 m. What was its instantaneous velocity at 3 s?",
+      "options": [
+        "$7\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$",
+        "$42\\,\\mathrm{m/s}$",
+        "$14\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$7\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 12,
+      "question": "A train travels uniformly at 90 km/h. What distance does it cover in 2 min?",
+      "options": [
+        "$3\\,\\mathrm{km}$",
+        "$90\\,\\mathrm{km}$",
+        "$30\\,\\mathrm{km}$",
+        "$1.8\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$3\\,\\mathrm{km}$"
+    },
+    {
+      "id": 13,
+      "question": "A car velocity is constant at 20 m/s east. What is its average velocity over any 10 s interval?",
+      "options": [
+        "$20\\,\\mathrm{m/s}$ east",
+        "$10\\,\\mathrm{m/s}$ east",
+        "$20\\,\\mathrm{m/s}$ west",
+        "$200\\,\\mathrm{m/s}$ east"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m/s}$ east"
+    },
+    {
+      "id": 14,
+      "question": "A runner moves uniformly 100 m in 20 s and continues for 30 s at the same speed. What total distance is covered?",
+      "options": [
+        "$250\\,\\mathrm{m}$",
+        "$100\\,\\mathrm{m}$",
+        "$150\\,\\mathrm{m}$",
+        "$500\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$250\\,\\mathrm{m}$"
+    },
+    {
+      "id": 15,
+      "question": "A car moves uniformly at 48 km/h. What distance does it cover in 15 s?",
+      "options": [
+        "$200\\,\\mathrm{m}$",
+        "$48\\,\\mathrm{m}$",
+        "$15\\,\\mathrm{m}$",
+        "$720\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$200\\,\\mathrm{m}$"
+    },
+    {
+      "id": 16,
+      "question": "A particle position is x = 3t + 2 in metres along x. What is its acceleration?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$3\\,\\mathrm{m/s^2}$",
+        "$2\\,\\mathrm{m/s^2}$",
+        "$5\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 17,
+      "question": "A bus travels at constant velocity 14 m/s north for 30 s. What is its displacement?",
+      "options": [
+        "$420\\,\\mathrm{m}$ north",
+        "$14\\,\\mathrm{m}$ north",
+        "$420\\,\\mathrm{m}$ south",
+        "$30\\,\\mathrm{m}$ north"
+      ],
+      "correctAnswer": "$420\\,\\mathrm{m}$ north"
+    },
+    {
+      "id": 18,
+      "question": "A car moves uniformly so it covers 25 m every 2 s. What is its speed in km/h?",
+      "options": [
+        "$45\\,\\mathrm{km/h}$",
+        "$25\\,\\mathrm{km/h}$",
+        "$12.5\\,\\mathrm{km/h}$",
+        "$50\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$45\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 19,
+      "question": "A body has zero acceleration and velocity 9 m/s west. What is its velocity after 10 s?",
+      "options": [
+        "$9\\,\\mathrm{m/s}$ west",
+        "$0\\,\\mathrm{m/s}$",
+        "$19\\,\\mathrm{m/s}$ west",
+        "$90\\,\\mathrm{m/s}$ west"
+      ],
+      "correctAnswer": "$9\\,\\mathrm{m/s}$ west"
+    },
+    {
+      "id": 20,
+      "question": "A car covers 300 m in 30 s at constant speed. How long does it take to cover the next 500 m?",
+      "options": [
+        "$50\\,\\mathrm{s}$",
+        "$30\\,\\mathrm{s}$",
+        "$20\\,\\mathrm{s}$",
+        "$500\\,\\mathrm{s}$"
+      ],
+      "correctAnswer": "$50\\,\\mathrm{s}$"
+    }
+  ]
+}

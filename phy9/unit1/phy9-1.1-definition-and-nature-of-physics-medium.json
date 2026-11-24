@@ -1,0 +1,237 @@
+{
+  "title": "1.1 Definition and Nature of Physics",
+  "description": "Definition and Nature of Physics concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "definition and nature of physics",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which statement captures the aim of physics as a natural science?",
+      "options": [
+        "It describes the basic mechanisms that make the universe behave as it does",
+        "It classifies living organisms into named groups in physics in experiments",
+        "It studies the composition and reactions of matter only now in experiments",
+        "It records the political history of nations in the textbook in experiments"
+      ],
+      "correctAnswer": "It describes the basic mechanisms that make the universe behave as it does"
+    },
+    {
+      "id": 2,
+      "question": "A builder checks why a wall stays standing for centuries. Which branch of physics is most directly relevant?",
+      "options": [
+        "Mechanics",
+        "Acoustics",
+        "Nuclear physics",
+        "Optics"
+      ],
+      "correctAnswer": "Mechanics"
+    },
+    {
+      "id": 3,
+      "question": "Which example shows physics being used to improve medical diagnosis?",
+      "options": [
+        "Developing imaging techniques for the body",
+        "Writing new laws for hospitals in the unit",
+        "Designing hospital uniforms in experiments",
+        "Training nurses in record keeping in class"
+      ],
+      "correctAnswer": "Developing imaging techniques for the body"
+    },
+    {
+      "id": 4,
+      "question": "Which pair of fields both rely on physics according to the textbook?",
+      "options": [
+        "Engineering and medicine",
+        "Poetry and painting here",
+        "History and law in class",
+        "Music and dance in class"
+      ],
+      "correctAnswer": "Engineering and medicine"
+    },
+    {
+      "id": 5,
+      "question": "A student says physics only studies distant stars. Which fact from the textbook broadens this view?",
+      "options": [
+        "Physics explains familiar devices and daily phenomena",
+        "Physics is older than all other subjects for students",
+        "Physics uses only advanced mathematics in experiments",
+        "Physics has no practical applications in the textbook"
+      ],
+      "correctAnswer": "Physics explains familiar devices and daily phenomena"
+    },
+    {
+      "id": 6,
+      "question": "Which reason explains why physics supports technological innovation?",
+      "options": [
+        "It reveals principles that new devices can use",
+        "It supplies the money for factories in physics",
+        "It writes the laws that factories obey as well",
+        "It trains workers to use tools in the textbook"
+      ],
+      "correctAnswer": "It reveals principles that new devices can use"
+    },
+    {
+      "id": 7,
+      "question": "Which statement about a physicist is accurate?",
+      "options": [
+        "A physicist investigates concepts, laws and relationships of nature",
+        "A physicist only repairs electrical appliances here in the textbook",
+        "A physicist studies the naming of animals in physics in experiments",
+        "A physicist designs school timetables in this topic in the textbook"
+      ],
+      "correctAnswer": "A physicist investigates concepts, laws and relationships of nature"
+    },
+    {
+      "id": 8,
+      "question": "Which phenomenon would a physicist investigate rather than a biologist?",
+      "options": [
+        "The motion of a falling object",
+        "The growth of a plant in class",
+        "The digestion of food in class",
+        "The inheritance of traits here"
+      ],
+      "correctAnswer": "The motion of a falling object"
+    },
+    {
+      "id": 9,
+      "question": "Which field uses physics to understand how buildings handle heating and lighting?",
+      "options": [
+        "Engineering",
+        "Pharmacy",
+        "Agriculture",
+        "Theology"
+      ],
+      "correctAnswer": "Engineering"
+    },
+    {
+      "id": 10,
+      "question": "Which contribution of physics is most relevant to transportation?",
+      "options": [
+        "Understanding the working principles of vehicles",
+        "Classifying the species of transport animals now",
+        "Writing traffic regulations here in the textbook",
+        "Painting road signs for students in the textbook"
+      ],
+      "correctAnswer": "Understanding the working principles of vehicles"
+    },
+    {
+      "id": 11,
+      "question": "Why are physics principles important for heritage buildings?",
+      "options": [
+        "They explain how structures keep their balance",
+        "They determine the artistic value of the buildings",
+        "They record the names of the builders",
+        "They describe the climate of the region"
+      ],
+      "correctAnswer": "They explain how structures keep their balance"
+    },
+    {
+      "id": 12,
+      "question": "Which statement about physics and other sciences is best supported by the text?",
+      "options": [
+        "Physics supplies foundational ideas used across many sciences",
+        "Physics replaces all other sciences in physics in experiments",
+        "Physics is unrelated to modern technology now in the textbook",
+        "Physics depends only on observation without experiments still"
+      ],
+      "correctAnswer": "Physics supplies foundational ideas used across many sciences"
+    },
+    {
+      "id": 13,
+      "question": "Which example belongs to meteorology as an application of physics?",
+      "options": [
+        "Studying atmospheric motion and weather",
+        "Studying the structure of atomic nuclei",
+        "Studying the behavior of light in lenses",
+        "Studying the fossils of ancient life"
+      ],
+      "correctAnswer": "Studying atmospheric motion and weather"
+    },
+    {
+      "id": 14,
+      "question": "Which activity would a metrologist carry out?",
+      "options": [
+        "Maintaining reliable standards of measurement",
+        "Diagnosing patients with scanners in the unit",
+        "Classifying rocks by age here in the textbook",
+        "Designing musical instruments in the textbook"
+      ],
+      "correctAnswer": "Maintaining reliable standards of measurement"
+    },
+    {
+      "id": 15,
+      "question": "Which set contains only areas where physics is applied?",
+      "options": [
+        "Transport, medicine and space science",
+        "Farming, cooking and storytelling now",
+        "Painting, poetry and dance in physics",
+        "History, law and religion in the unit"
+      ],
+      "correctAnswer": "Transport, medicine and space science"
+    },
+    {
+      "id": 16,
+      "question": "What role does experimentation play in physics?",
+      "options": [
+        "It tests ideas against observed behavior",
+        "It replaces the need for careful thought",
+        "It records opinions of experts",
+        "It removes the need for measurement"
+      ],
+      "correctAnswer": "It tests ideas against observed behavior"
+    },
+    {
+      "id": 17,
+      "question": "Which phenomenon is explained using the principles of physics rather than biology?",
+      "options": [
+        "The difficulty of walking on a smooth surface",
+        "The germination of a seed now in the textbook",
+        "The flowering of a plant here in the textbook",
+        "The spread of a disease still in the textbook"
+      ],
+      "correctAnswer": "The difficulty of walking on a smooth surface"
+    },
+    {
+      "id": 18,
+      "question": "Which of these best describes the scope of physics?",
+      "options": [
+        "From everyday devices to the behavior of the universe",
+        "Only the study of very small particles in experiments",
+        "Only the study of planets and stars now in this topic",
+        "Only the design of machines in physics in experiments"
+      ],
+      "correctAnswer": "From everyday devices to the behavior of the universe"
+    },
+    {
+      "id": 19,
+      "question": "A school introduces a new curriculum in physics. Which aim matches the textbooks description?",
+      "options": [
+        "To help learners understand concepts and laws of nature",
+        "To train learners only for factory work in the textbook",
+        "To memorize the names of all scientists in the textbook",
+        "To avoid any practical activities still in the textbook"
+      ],
+      "correctAnswer": "To help learners understand concepts and laws of nature"
+    },
+    {
+      "id": 20,
+      "question": "Which fact about physics is emphasized by the Greek origin of its name?",
+      "options": [
+        "It is concerned with nature",
+        "It was invented in the twentieth century",
+        "It deals only with numbers",
+        "It is a branch of social science"
+      ],
+      "correctAnswer": "It is concerned with nature"
+    }
+  ]
+}

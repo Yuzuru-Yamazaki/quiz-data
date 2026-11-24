@@ -1,0 +1,237 @@
+{
+  "title": "3.5 Uniform Motion",
+  "description": "Uniform Motion concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "uniform motion",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Uniform motion means velocity is",
+      "options": [
+        "constant",
+        "increasing",
+        "decreasing",
+        "zero only"
+      ],
+      "correctAnswer": "constant"
+    },
+    {
+      "id": 2,
+      "question": "In uniform motion, acceleration is",
+      "options": [
+        "zero",
+        "positive",
+        "negative",
+        "changing"
+      ],
+      "correctAnswer": "zero"
+    },
+    {
+      "id": 3,
+      "question": "A car covers 20 m every second on a straight road. What is its speed?",
+      "options": [
+        "$20\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$40\\,\\mathrm{m/s}$",
+        "$60\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 4,
+      "question": "A body moving uniformly covers equal distances in",
+      "options": [
+        "equal time intervals",
+        "unequal time intervals",
+        "shorter time intervals",
+        "longer time intervals"
+      ],
+      "correctAnswer": "equal time intervals"
+    },
+    {
+      "id": 5,
+      "question": "For uniform motion, average and instantaneous velocities are",
+      "options": [
+        "the same",
+        "different",
+        "opposite",
+        "zero"
+      ],
+      "correctAnswer": "the same"
+    },
+    {
+      "id": 6,
+      "question": "Which motion has constant velocity?",
+      "options": [
+        "straight-line motion at fixed speed",
+        "motion with a constantly changing speed",
+        "motion with increasing speed",
+        "motion around a sharp corner"
+      ],
+      "correctAnswer": "straight-line motion at fixed speed"
+    },
+    {
+      "id": 7,
+      "question": "A train moves uniformly at 30 m/s for 4 s. What distance does it cover?",
+      "options": [
+        "$120\\,\\mathrm{m}$",
+        "$300\\,\\mathrm{m}$",
+        "$34\\,\\mathrm{m}$",
+        "$60\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$120\\,\\mathrm{m}$"
+    },
+    {
+      "id": 8,
+      "question": "A bus travels 15 m each second. What is its acceleration?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$15\\,\\mathrm{m/s^2}$",
+        "$1\\,\\mathrm{m/s^2}$",
+        "$30\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 9,
+      "question": "Uniform motion is motion along a straight line with",
+      "options": [
+        "constant velocity",
+        "changing velocity",
+        "increasing speed",
+        "decreasing speed"
+      ],
+      "correctAnswer": "constant velocity"
+    },
+    {
+      "id": 10,
+      "question": "A car moves 50 m in 5 s and 50 m in the next 5 s. What is its speed?",
+      "options": [
+        "$10\\,\\mathrm{m/s}$",
+        "$5\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$100\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$10\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 11,
+      "question": "An airplane flies with constant speed in a fixed direction. This is",
+      "options": [
+        "uniform motion",
+        "accelerated motion",
+        "decelerating motion",
+        "circular motion"
+      ],
+      "correctAnswer": "uniform motion"
+    },
+    {
+      "id": 12,
+      "question": "In uniform motion, the position of an object changes",
+      "options": [
+        "at the same rate",
+        "at a faster rate",
+        "at a slower rate",
+        "with a varying rate"
+      ],
+      "correctAnswer": "at the same rate"
+    },
+    {
+      "id": 13,
+      "question": "A body in uniform motion has zero",
+      "options": [
+        "acceleration",
+        "speed",
+        "velocity",
+        "displacement"
+      ],
+      "correctAnswer": "acceleration"
+    },
+    {
+      "id": 14,
+      "question": "A car travels at constant velocity 12 m/s east. What is its instantaneous velocity?",
+      "options": [
+        "$12\\,\\mathrm{m/s}$ east",
+        "$12\\,\\mathrm{m/s}$ west",
+        "$6\\,\\mathrm{m/s}$ east",
+        "$24\\,\\mathrm{m/s}$ east"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m/s}$ east"
+    },
+    {
+      "id": 15,
+      "question": "A cyclist covers 8 m every 2 s. What is the uniform speed?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$",
+        "$2\\,\\mathrm{m/s}$",
+        "$8\\,\\mathrm{m/s}$",
+        "$16\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 16,
+      "question": "Which statement matches uniform motion?",
+      "options": [
+        "speed and direction stay fixed",
+        "the path length shrinks each second",
+        "speed changes each second",
+        "direction changes steadily"
+      ],
+      "correctAnswer": "speed and direction stay fixed"
+    },
+    {
+      "id": 17,
+      "question": "A ship moves at constant velocity for 10 min. Its velocity change is",
+      "options": [
+        "zero",
+        "positive",
+        "negative",
+        "ten m/s"
+      ],
+      "correctAnswer": "zero"
+    },
+    {
+      "id": 18,
+      "question": "A body moves uniformly at 5 m/s for 8 s. What is its displacement magnitude?",
+      "options": [
+        "$40\\,\\mathrm{m}$",
+        "$5\\,\\mathrm{m}$",
+        "$8\\,\\mathrm{m}$",
+        "$13\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$40\\,\\mathrm{m}$"
+    },
+    {
+      "id": 19,
+      "question": "If velocity is constant, average velocity equals",
+      "options": [
+        "instantaneous velocity",
+        "the speed at each instant",
+        "final velocity only",
+        "initial velocity only"
+      ],
+      "correctAnswer": "instantaneous velocity"
+    },
+    {
+      "id": 20,
+      "question": "A car on a straight road covers 25 m every 5 s. Its motion is",
+      "options": [
+        "uniform",
+        "accelerating",
+        "decelerating",
+        "changing direction"
+      ],
+      "correctAnswer": "uniform"
+    }
+  ]
+}

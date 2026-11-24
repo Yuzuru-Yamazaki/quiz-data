@@ -1,0 +1,237 @@
+{
+  "title": "2.2 Measurement and Safety",
+  "description": "Measurement and Safety concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "measurement and safety",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A rope is used to measure a plot while a 50 cm ruler and a 6 m stick are also available. Which choice gives a standard result in meters?",
+      "options": [
+        "The 6 m stick used repeatedly",
+        "The rope only in the textbook",
+        "The 50 cm ruler only in class",
+        "Footsteps along the plot here"
+      ],
+      "correctAnswer": "The 6 m stick used repeatedly"
+    },
+    {
+      "id": 2,
+      "question": "A student measures a book in meters, centimeters and millimeters. Which statement is accurate?",
+      "options": [
+        "The millimeter reading has more subdivisions",
+        "The meter reading is always largest in class",
+        "The units measure different quantities still",
+        "The centimeter unit is an SI base unit still"
+      ],
+      "correctAnswer": "The millimeter reading has more subdivisions"
+    },
+    {
+      "id": 3,
+      "question": "Which list contains only instruments for measuring length?",
+      "options": [
+        "Ruler, tape and calipers",
+        "Balance, stopwatch and thermometer",
+        "Clock, watch and sundial",
+        "Thermometer, balance and stopwatch"
+      ],
+      "correctAnswer": "Ruler, tape and calipers"
+    },
+    {
+      "id": 4,
+      "question": "Which list contains only instruments for measuring time?",
+      "options": [
+        "Stopwatch, clock and digital watch",
+        "Ruler, tape and calipers in nature",
+        "Beam balance and scale pan as well",
+        "Thermometer and barometer in class"
+      ],
+      "correctAnswer": "Stopwatch, clock and digital watch"
+    },
+    {
+      "id": 5,
+      "question": "A farmer reports mass using the palm as a unit. What is the consequence?",
+      "options": [
+        "Different people obtain different amounts",
+        "All results are reproducible for students",
+        "The unit is an SI base unit in this topic",
+        "The measurement is exact now for students"
+      ],
+      "correctAnswer": "Different people obtain different amounts"
+    },
+    {
+      "id": 6,
+      "question": "Which statement about mass measurement is accurate?",
+      "options": [
+        "Mass is the amount of matter in a body",
+        "Mass is the force of gravity on a body",
+        "Mass is measured in meters",
+        "Mass is measured with a clock"
+      ],
+      "correctAnswer": "Mass is the amount of matter in a body"
+    },
+    {
+      "id": 7,
+      "question": "A student must measure the thickness of a thin metal sheet. Which instrument is most suitable?",
+      "options": [
+        "Micrometer screw gauge now",
+        "A 6 m stick in experiments",
+        "A beam balance in the unit",
+        "A measuring cylinder still"
+      ],
+      "correctAnswer": "Micrometer screw gauge now"
+    },
+    {
+      "id": 8,
+      "question": "Which lab action shows correct electrical safety practice?",
+      "options": [
+        "Switching off before adjusting the circuit",
+        "Touching bare wires by hand in experiments",
+        "Using wet hands on plugs now in this topic",
+        "Overloading a single socket in experiments"
+      ],
+      "correctAnswer": "Switching off before adjusting the circuit"
+    },
+    {
+      "id": 9,
+      "question": "Which rule concerns clothing in the laboratory?",
+      "options": [
+        "Avoid baggy clothing and dangling jewelry",
+        "Wear open-toed sandals now in experiments",
+        "Wear bulky bracelets here in the textbook",
+        "Carry extra books to the bench in physics"
+      ],
+      "correctAnswer": "Avoid baggy clothing and dangling jewelry"
+    },
+    {
+      "id": 10,
+      "question": "Which activity is allowed during a lab session?",
+      "options": [
+        "Performing only authorized experiments now",
+        "Tasting chemicals in class in the textbook",
+        "Working alone after hours now for students",
+        "Applying cosmetics at the bench in physics"
+      ],
+      "correctAnswer": "Performing only authorized experiments now"
+    },
+    {
+      "id": 11,
+      "question": "What is the correct way to record a measured value?",
+      "options": [
+        "Write the number together with its unit",
+        "Write only the number now in this topic",
+        "Write only the unit now in the textbook",
+        "Write the instrument name in this topic"
+      ],
+      "correctAnswer": "Write the number together with its unit"
+    },
+    {
+      "id": 12,
+      "question": "Which quantity is described as the duration between the start and end of an event?",
+      "options": [
+        "Time",
+        "Length",
+        "Mass",
+        "Area"
+      ],
+      "correctAnswer": "Time"
+    },
+    {
+      "id": 13,
+      "question": "Which quantity is described as the distance between two points?",
+      "options": [
+        "Length",
+        "Time",
+        "Mass",
+        "Temperature"
+      ],
+      "correctAnswer": "Length"
+    },
+    {
+      "id": 14,
+      "question": "Why do digital instruments make reading easier?",
+      "options": [
+        "They show the measured value directly now",
+        "They operate without any power in physics",
+        "They have no units as well in experiments",
+        "They remove the need for measurement here"
+      ],
+      "correctAnswer": "They show the measured value directly now"
+    },
+    {
+      "id": 15,
+      "question": "Which traditional method uses the position of an upright objects shadow?",
+      "options": [
+        "Sundial",
+        "Beam balance",
+        "Micrometer",
+        "Measuring cylinder"
+      ],
+      "correctAnswer": "Sundial"
+    },
+    {
+      "id": 16,
+      "question": "Which action is a safety rule about lab workspace?",
+      "options": [
+        "Keep only needed books and notebooks on the bench",
+        "Bring all personal belongings now in the textbook",
+        "Keep food on the bench in physics in the textbook",
+        "Keep bags on the floor near wires in the textbook"
+      ],
+      "correctAnswer": "Keep only needed books and notebooks on the bench"
+    },
+    {
+      "id": 17,
+      "question": "What should be done with all accidents in the laboratory?",
+      "options": [
+        "Report every one immediately, even minor ones",
+        "Report only major ones as well in experiments",
+        "Record them at the end of term in experiments",
+        "Ignore minor ones for students in experiments"
+      ],
+      "correctAnswer": "Report every one immediately, even minor ones"
+    },
+    {
+      "id": 18,
+      "question": "Which statement about SI and non-SI units is accurate?",
+      "options": [
+        "SI units can be converted to non-SI units now",
+        "Non-SI units cannot be converted for students",
+        "SI units are used only in Ethiopia in physics",
+        "Non-SI units have no names now in experiments"
+      ],
+      "correctAnswer": "SI units can be converted to non-SI units now"
+    },
+    {
+      "id": 19,
+      "question": "Which instrument would measure the mass of a duster in a school activity?",
+      "options": [
+        "Beam balance as well",
+        "Meter rule in nature",
+        "Stopwatch in physics",
+        "Thermometer in class"
+      ],
+      "correctAnswer": "Beam balance as well"
+    },
+    {
+      "id": 20,
+      "question": "Which activity must happen before entering a laboratory?",
+      "options": [
+        "Reading about the experiment",
+        "Eating a snack in this topic",
+        "Touching the equipment still",
+        "Choosing a partner in nature"
+      ],
+      "correctAnswer": "Reading about the experiment"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "title": "2.3 Classification of Physical Quantities",
+  "description": "Classification of Physical Quantities concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "classification of physical quantities",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which pair correctly matches a derived quantity with its unit?",
+      "options": [
+        "Force - newton",
+        "Force - joule",
+        "Work - pascal",
+        "Pressure - meter"
+      ],
+      "correctAnswer": "Force - newton"
+    },
+    {
+      "id": 2,
+      "question": "Which pair correctly matches work with its unit?",
+      "options": [
+        "Work - joule",
+        "Work - newton",
+        "Speed - kilogram",
+        "Density - second"
+      ],
+      "correctAnswer": "Work - joule"
+    },
+    {
+      "id": 3,
+      "question": "Which quantity-unit pair is correct?",
+      "options": [
+        "Pressure - pascal here",
+        "Pressure - joule still",
+        "Density - newton still",
+        "Speed - kelvin as well"
+      ],
+      "correctAnswer": "Pressure - pascal here"
+    },
+    {
+      "id": 4,
+      "question": "A car is described as moving at 50 km/h to the east. Which classification is accurate?",
+      "options": [
+        "Velocity is a vector because direction is given",
+        "Speed is a vector in this topic in the textbook",
+        "Distance is a vector in physics in the textbook",
+        "Time is a vector in the textbook in experiments"
+      ],
+      "correctAnswer": "Velocity is a vector because direction is given"
+    },
+    {
+      "id": 5,
+      "question": "Which statement about area is accurate?",
+      "options": [
+        "It is derived by multiplying length and width",
+        "It is a fundamental quantity now for students",
+        "It has direction for students in the textbook",
+        "It is measured in meters here in the textbook"
+      ],
+      "correctAnswer": "It is derived by multiplying length and width"
+    },
+    {
+      "id": 6,
+      "question": "Which set contains only derived quantities?",
+      "options": [
+        "Area, volume, density and speed now",
+        "Length, mass and time in this topic",
+        "Temperature, current and mole still",
+        "Candela, kelvin and ampere in class"
+      ],
+      "correctAnswer": "Area, volume, density and speed now"
+    },
+    {
+      "id": 7,
+      "question": "Which set contains only fundamental quantities?",
+      "options": [
+        "Length, mass, time and temperature now",
+        "Speed, force and work now for students",
+        "Area, volume and pressure for students",
+        "Density, acceleration and energy still"
+      ],
+      "correctAnswer": "Length, mass, time and temperature now"
+    },
+    {
+      "id": 8,
+      "question": "Which statement about a scalar quantity is accurate?",
+      "options": [
+        "It is fully described by magnitude alone",
+        "It requires a direction now for students",
+        "It always has negative values in physics",
+        "It is measured in newtons in experiments"
+      ],
+      "correctAnswer": "It is fully described by magnitude alone"
+    },
+    {
+      "id": 9,
+      "question": "Which statement about a vector quantity is accurate?",
+      "options": [
+        "It has both magnitude and direction",
+        "It has magnitude only",
+        "It is always positive",
+        "It cannot be represented by an arrow"
+      ],
+      "correctAnswer": "It has both magnitude and direction"
+    },
+    {
+      "id": 10,
+      "question": "Which derived unit can be written as kilogram meter per second squared?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "correctAnswer": "Newton"
+    },
+    {
+      "id": 11,
+      "question": "Which derived unit can be written as kilogram meter squared per second squared?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Pascal",
+        "Meter per second"
+      ],
+      "correctAnswer": "Joule"
+    },
+    {
+      "id": 12,
+      "question": "How is pressure expressed in base units?",
+      "options": [
+        "Kilogram per meter second squared",
+        "Kilogram meter per second as well",
+        "Kilogram per cubic meter in class",
+        "Meter squared per second in class"
+      ],
+      "correctAnswer": "Kilogram per meter second squared"
+    },
+    {
+      "id": 13,
+      "question": "Which quantity pairs both have the same unit?",
+      "options": [
+        "Displacement and distance here",
+        "Mass and force in the textbook",
+        "Speed and acceleration as well",
+        "Volume and area in experiments"
+      ],
+      "correctAnswer": "Displacement and distance here"
+    },
+    {
+      "id": 14,
+      "question": "Which list places speed, velocity and acceleration correctly?",
+      "options": [
+        "Speed is scalar; velocity and acceleration are vectors",
+        "All three are scalars now for students in the textbook",
+        "All three are vectors now for students in the textbook",
+        "Speed and acceleration are vectors now in the textbook"
+      ],
+      "correctAnswer": "Speed is scalar; velocity and acceleration are vectors"
+    },
+    {
+      "id": 15,
+      "question": "Which quantity is correctly paired with its symbol?",
+      "options": [
+        "Density - rho",
+        "Force - omega",
+        "Work - lambda",
+        "Pressure - sigma"
+      ],
+      "correctAnswer": "Density - rho"
+    },
+    {
+      "id": 16,
+      "question": "A student says temperature is derived from length. Which correction is accurate?",
+      "options": [
+        "Temperature is a fundamental quantity",
+        "Temperature is derived from mass here",
+        "Temperature has no unit in this topic",
+        "Temperature is a vector in this topic"
+      ],
+      "correctAnswer": "Temperature is a fundamental quantity"
+    },
+    {
+      "id": 17,
+      "question": "Which quantity is obtained from force multiplied by displacement?",
+      "options": [
+        "Work",
+        "Speed",
+        "Density",
+        "Pressure"
+      ],
+      "correctAnswer": "Work"
+    },
+    {
+      "id": 18,
+      "question": "Which quantity is obtained from displacement divided by time?",
+      "options": [
+        "Velocity",
+        "Speed",
+        "Acceleration",
+        "Force"
+      ],
+      "correctAnswer": "Velocity"
+    },
+    {
+      "id": 19,
+      "question": "Which quantity is obtained from change in velocity divided by time?",
+      "options": [
+        "Acceleration now",
+        "Speed in physics",
+        "Work in the unit",
+        "Pressure as well"
+      ],
+      "correctAnswer": "Acceleration now"
+    },
+    {
+      "id": 20,
+      "question": "Which unit symbol is written as cd?",
+      "options": [
+        "Candela",
+        "Celsius",
+        "Cadmium",
+        "Current"
+      ],
+      "correctAnswer": "Candela"
+    }
+  ]
+}

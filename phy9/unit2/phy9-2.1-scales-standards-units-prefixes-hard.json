@@ -1,0 +1,237 @@
+{
+  "title": "2.1 Scales, Standards, Units (Prefixes)",
+  "description": "Scales, Standards, Units (Prefixes) concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "scales standards units prefixes",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A scale has ten spaces between marks labeled 3 and 4. What does each small mark represent?",
+      "options": [
+        "One tenth",
+        "One hundredth",
+        "One thousandth",
+        "One fifth"
+      ],
+      "correctAnswer": "One tenth"
+    },
+    {
+      "id": 2,
+      "question": "A student reads a red line halfway between 3.3 and 3.4. What is the reading to two decimal places?",
+      "options": [
+        "3.35",
+        "3.30",
+        "3.40",
+        "3.45"
+      ],
+      "correctAnswer": "3.35"
+    },
+    {
+      "id": 3,
+      "question": "Two students obtain different masses for the same object using local units. What is the main problem?",
+      "options": [
+        "The units have no agreed standard now",
+        "The object changed mass in this topic",
+        "The balance is digital in experiments",
+        "The students used the same unit still"
+      ],
+      "correctAnswer": "The units have no agreed standard now"
+    },
+    {
+      "id": 4,
+      "question": "Which requirement for a measurement standard is described in the textbook?",
+      "options": [
+        "Different people in different places get the same result",
+        "Only experts may use it now for students in the textbook",
+        "It changes with the season in this topic in the textbook",
+        "It is based on one persons palm in class in the textbook"
+      ],
+      "correctAnswer": "Different people in different places get the same result"
+    },
+    {
+      "id": 5,
+      "question": "Why do traditional units such as footsteps create bias?",
+      "options": [
+        "They depend on the person using them",
+        "They use metric prefixes in the unit",
+        "They are defined by law for students",
+        "They are measured in seconds as well"
+      ],
+      "correctAnswer": "They depend on the person using them"
+    },
+    {
+      "id": 6,
+      "question": "Which statement about scientific notation is accurate?",
+      "options": [
+        "$3.24\\times10^{3}$ equals 3240",
+        "$3.24\\times10^{3}$ equals 0.00324",
+        "$3.24\\times10^{-3}$ equals 3240",
+        "The exponent counts decimal digits only"
+      ],
+      "correctAnswer": "$3.24\\times10^{3}$ equals 3240"
+    },
+    {
+      "id": 7,
+      "question": "How many significant figures does 2000 have as written in the textbook?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": "One"
+    },
+    {
+      "id": 8,
+      "question": "How many significant figures does 2000.0 have?",
+      "options": [
+        "Five",
+        "One",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": "Five"
+    },
+    {
+      "id": 9,
+      "question": "What is $9.65 + 8.4$ reported with the correct decimal places?",
+      "options": [
+        "18.1",
+        "18.05",
+        "18.0",
+        "18.2"
+      ],
+      "correctAnswer": "18.1"
+    },
+    {
+      "id": 10,
+      "question": "What is $8.65\times2.053$ with the correct significant figures?",
+      "options": [
+        "17.8",
+        "17.75845",
+        "17.75",
+        "17.7"
+      ],
+      "correctAnswer": "17.8"
+    },
+    {
+      "id": 11,
+      "question": "A student writes the radius of the Earth, 6371000 m, using a prefix. Which is correct?",
+      "options": [
+        "6371 km",
+        "6371 mm",
+        "6.371 cm",
+        "6371 Mm"
+      ],
+      "correctAnswer": "6371 km"
+    },
+    {
+      "id": 12,
+      "question": "Which prefix expression matches a hair diameter of 0.0000075 m?",
+      "options": [
+        "7.5 micrometers",
+        "7.5 millimeters",
+        "7.5 nanometers",
+        "7.5 centimeters"
+      ],
+      "correctAnswer": "7.5 micrometers"
+    },
+    {
+      "id": 13,
+      "question": "How should 101 nanoseconds be written with a prefix symbol?",
+      "options": [
+        "101 ns",
+        "101 ms",
+        "101 $\\mu$s",
+        "101 ps"
+      ],
+      "correctAnswer": "101 ns"
+    },
+    {
+      "id": 14,
+      "question": "Which operation set is permitted on an interval scale?",
+      "options": [
+        "Addition and subtraction",
+        "Multiplication only here",
+        "Division only in physics",
+        "All four operations here"
+      ],
+      "correctAnswer": "Addition and subtraction"
+    },
+    {
+      "id": 15,
+      "question": "A measured value is reported as 6.827 and must be rounded to three significant figures. What is the result?",
+      "options": [
+        "6.83",
+        "6.82",
+        "6.8",
+        "6.830"
+      ],
+      "correctAnswer": "6.83"
+    },
+    {
+      "id": 16,
+      "question": "Which statement about a ratio scale is accurate?",
+      "options": [
+        "It has a true zero and supports all four operations",
+        "It has no true zero in the textbook of this subject",
+        "It only labels categories in physics in experiments",
+        "It only gives ranks in the textbook of this subject"
+      ],
+      "correctAnswer": "It has a true zero and supports all four operations"
+    },
+    {
+      "id": 17,
+      "question": "A class measures temperature in degrees and compares differences only. Which scale fits best?",
+      "options": [
+        "Interval scale here",
+        "Ratio scale as well",
+        "Nominal scale still",
+        "Ordinal scale still"
+      ],
+      "correctAnswer": "Interval scale here"
+    },
+    {
+      "id": 18,
+      "question": "Which prefix pair uses the symbols T and p?",
+      "options": [
+        "tera and pico",
+        "giga and nano",
+        "mega and micro",
+        "kilo and deci"
+      ],
+      "correctAnswer": "tera and pico"
+    },
+    {
+      "id": 19,
+      "question": "What is the exponent for the prefix micro?",
+      "options": [
+        "$-6$",
+        "$-3$",
+        "$-9$",
+        "$-12$"
+      ],
+      "correctAnswer": "$-6$"
+    },
+    {
+      "id": 20,
+      "question": "What is the exponent for the prefix giga?",
+      "options": [
+        "$9$",
+        "$6$",
+        "$12$",
+        "$3$"
+      ],
+      "correctAnswer": "$9$"
+    }
+  ]
+}

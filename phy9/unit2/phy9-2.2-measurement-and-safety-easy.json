@@ -1,0 +1,237 @@
+{
+  "title": "2.2 Measurement and Safety",
+  "description": "Measurement and Safety concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "measurement and safety",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is measurement?",
+      "options": [
+        "Comparing a quantity with a unit of its kind",
+        "Guessing a value without a standard in class",
+        "Writing a number alone still in the textbook",
+        "Drawing a picture of an object in this topic"
+      ],
+      "correctAnswer": "Comparing a quantity with a unit of its kind"
+    },
+    {
+      "id": 2,
+      "question": "What is the SI unit of length?",
+      "options": [
+        "Meter",
+        "Kilogram",
+        "Second",
+        "Kelvin"
+      ],
+      "correctAnswer": "Meter"
+    },
+    {
+      "id": 3,
+      "question": "Which instrument is used to measure mass in a scientific way?",
+      "options": [
+        "Beam balance",
+        "Tape measure",
+        "Stopwatch",
+        "Thermometer"
+      ],
+      "correctAnswer": "Beam balance"
+    },
+    {
+      "id": 4,
+      "question": "Which quantity is measured with a tape or ruler?",
+      "options": [
+        "Length",
+        "Mass",
+        "Time",
+        "Temperature"
+      ],
+      "correctAnswer": "Length"
+    },
+    {
+      "id": 5,
+      "question": "Which quantity is measured with a stopwatch?",
+      "options": [
+        "Time",
+        "Length",
+        "Mass",
+        "Area"
+      ],
+      "correctAnswer": "Time"
+    },
+    {
+      "id": 6,
+      "question": "What are the three key elements of a measurement process?",
+      "options": [
+        "Quantity, tool and unit",
+        "Number, symbol and letter",
+        "Mass, force and energy",
+        "Scale, ratio and graph"
+      ],
+      "correctAnswer": "Quantity, tool and unit"
+    },
+    {
+      "id": 7,
+      "question": "Which part of a measurement tells how many units are present?",
+      "options": [
+        "The number",
+        "The unit",
+        "The symbol",
+        "The instrument"
+      ],
+      "correctAnswer": "The number"
+    },
+    {
+      "id": 8,
+      "question": "Which part of a measurement states the standard used?",
+      "options": [
+        "The unit",
+        "The number",
+        "The object",
+        "The observer"
+      ],
+      "correctAnswer": "The unit"
+    },
+    {
+      "id": 9,
+      "question": "What is a sundial used for?",
+      "options": [
+        "Estimating the time of day",
+        "Measuring mass in the unit",
+        "Measuring length in nature",
+        "Measuring temperature here"
+      ],
+      "correctAnswer": "Estimating the time of day"
+    },
+    {
+      "id": 10,
+      "question": "Why is a sundial considered unreliable?",
+      "options": [
+        "It has no standard and is inaccurate",
+        "It uses digital display for students",
+        "It measures in kilograms in the unit",
+        "It works at night only in this topic"
+      ],
+      "correctAnswer": "It has no standard and is inaccurate"
+    },
+    {
+      "id": 11,
+      "question": "Which device is used for measuring the diameter of a small marble?",
+      "options": [
+        "Vernier calipers now",
+        "A long rope in class",
+        "A beam balance still",
+        "A stopwatch in class"
+      ],
+      "correctAnswer": "Vernier calipers now"
+    },
+    {
+      "id": 12,
+      "question": "Which SI unit is used for time?",
+      "options": [
+        "Second",
+        "Minute",
+        "Hour",
+        "Day"
+      ],
+      "correctAnswer": "Second"
+    },
+    {
+      "id": 13,
+      "question": "Which non-SI unit is used for mass?",
+      "options": [
+        "Gram",
+        "Kilogram",
+        "Meter",
+        "Second"
+      ],
+      "correctAnswer": "Gram"
+    },
+    {
+      "id": 14,
+      "question": "Which non-SI unit is used for length?",
+      "options": [
+        "Centimeter",
+        "Meter here",
+        "Second now",
+        "Kelvin now"
+      ],
+      "correctAnswer": "Centimeter"
+    },
+    {
+      "id": 15,
+      "question": "What does a digital instrument display?",
+      "options": [
+        "A number with its unit",
+        "Only a unit in physics",
+        "Only a number in class",
+        "A drawn scale in class"
+      ],
+      "correctAnswer": "A number with its unit"
+    },
+    {
+      "id": 16,
+      "question": "What is the area of a rectangle found from?",
+      "options": [
+        "Length multiplied by width now",
+        "Length added to width in class",
+        "Mass divided by time in nature",
+        "Time multiplied by speed still"
+      ],
+      "correctAnswer": "Length multiplied by width now"
+    },
+    {
+      "id": 17,
+      "question": "Which activity belongs to a physics laboratory?",
+      "options": [
+        "Following the listed safety rules now",
+        "Eating during experiments in the unit",
+        "Working alone in the lab for students",
+        "Tasting unknown substances in physics"
+      ],
+      "correctAnswer": "Following the listed safety rules now"
+    },
+    {
+      "id": 18,
+      "question": "Which protective equipment is required in the lab?",
+      "options": [
+        "Safety goggles",
+        "A wristwatch",
+        "A notebook only",
+        "A ruler"
+      ],
+      "correctAnswer": "Safety goggles"
+    },
+    {
+      "id": 19,
+      "question": "What should a student do after any accident in the lab?",
+      "options": [
+        "Report it to the teacher immediately now",
+        "Hide it from the teacher in the textbook",
+        "Leave the lab silently now in this topic",
+        "Continue the experiment alone in physics"
+      ],
+      "correctAnswer": "Report it to the teacher immediately now"
+    },
+    {
+      "id": 20,
+      "question": "Which action is permitted in a physics laboratory?",
+      "options": [
+        "Reading the experiment before entering",
+        "Chewing gum in physics in the textbook",
+        "Wearing sandals as well in experiments",
+        "Running between benches in experiments"
+      ],
+      "correctAnswer": "Reading the experiment before entering"
+    }
+  ]
+}
