@@ -1,0 +1,237 @@
+{
+  "title": "2.4 Unit Conversion",
+  "description": "Unit Conversion concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "unit conversion",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A car travels 90 km in 15 minutes. What is its speed in km/h?",
+      "options": [
+        "360 km/h",
+        "180 km/h",
+        "90 km/h",
+        "45 km/h"
+      ],
+      "correctAnswer": "360 km/h"
+    },
+    {
+      "id": 2,
+      "question": "Convert 36 km/h into meters per second.",
+      "options": [
+        "10 m/s",
+        "36 m/s",
+        "3.6 m/s",
+        "100 m/s"
+      ],
+      "correctAnswer": "10 m/s"
+    },
+    {
+      "id": 3,
+      "question": "Convert 120 km/h into meters per second.",
+      "options": [
+        "33.3 m/s",
+        "12 m/s",
+        "1200 m/s",
+        "3.6 m/s"
+      ],
+      "correctAnswer": "33.3 m/s"
+    },
+    {
+      "id": 4,
+      "question": "A beam-balance pan holds 1.5 kg, 500 g, 250 g, 25 g and 0.8 g. What is the total mass in grams?",
+      "options": [
+        "2275.8 g",
+        "22758 g",
+        "227.58 g",
+        "2257.8 g"
+      ],
+      "correctAnswer": "2275.8 g"
+    },
+    {
+      "id": 5,
+      "question": "A beam-balance pan holds 3 kg, 900 g, 90 g and 5 g. What mass balances it in grams?",
+      "options": [
+        "3995 g",
+        "399.5 g",
+        "39950 g",
+        "3905 g"
+      ],
+      "correctAnswer": "3995 g"
+    },
+    {
+      "id": 6,
+      "question": "Express the Sun-Earth distance $1.5\\times10^{11}$ m using a prefix.",
+      "options": [
+        "150 Gm",
+        "150 Mm",
+        "150 Tm",
+        "150 km"
+      ],
+      "correctAnswer": "150 Gm"
+    },
+    {
+      "id": 7,
+      "question": "The volume of Earth is about $10^{21}$ cubic meters. What is this in cubic kilometers?",
+      "options": [
+        "$10^{12}$ cubic kilometers",
+        "$10^{15}$ cubic kilometers",
+        "$10^{18}$ cubic kilometers",
+        "$10^{24}$ cubic kilometers"
+      ],
+      "correctAnswer": "$10^{12}$ cubic kilometers"
+    },
+    {
+      "id": 8,
+      "question": "The volume of Earth is about $10^{21}$ cubic meters. What is this in cubic centimeters?",
+      "options": [
+        "$10^{27}$ cubic centimeters",
+        "$10^{24}$ cubic centimeters",
+        "$10^{18}$ cubic centimeters",
+        "$10^{15}$ cubic centimeters"
+      ],
+      "correctAnswer": "$10^{27}$ cubic centimeters"
+    },
+    {
+      "id": 9,
+      "question": "A tank holds 2.5 tonnes of water. How many kilograms is that?",
+      "options": [
+        "2500 kg",
+        "250 kg",
+        "25 kg",
+        "25000 kg"
+      ],
+      "correctAnswer": "2500 kg"
+    },
+    {
+      "id": 10,
+      "question": "A rope of 6 m and a ruler of 50 cm are used to measure a plot. How many ruler lengths equal one stick length?",
+      "options": [
+        "12",
+        "6",
+        "50",
+        "3"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "id": 11,
+      "question": "A distance is $2.0\\times10^{-3}$ of a meter. Which prefix expression matches it?",
+      "options": [
+        "2.0 mm",
+        "2.0 cm",
+        "2.0 micrometers",
+        "2.0 km"
+      ],
+      "correctAnswer": "2.0 mm"
+    },
+    {
+      "id": 12,
+      "question": "A particle has diameter 10 nm. What is that in micrometers?",
+      "options": [
+        "0.01 micrometers now",
+        "0.1 micrometers here",
+        "1 micrometer as well",
+        "10 micrometers still"
+      ],
+      "correctAnswer": "0.01 micrometers now"
+    },
+    {
+      "id": 13,
+      "question": "A timer reads 3 minutes and 20 seconds. What is that in seconds?",
+      "options": [
+        "200 s",
+        "320 s",
+        "180 s",
+        "2020 s"
+      ],
+      "correctAnswer": "200 s"
+    },
+    {
+      "id": 14,
+      "question": "A runner covers 1.5 km in 5 minutes. What is the speed in meters per second?",
+      "options": [
+        "5 m/s",
+        "3 m/s",
+        "30 m/s",
+        "0.3 m/s"
+      ],
+      "correctAnswer": "5 m/s"
+    },
+    {
+      "id": 15,
+      "question": "A mass of 0.8 quintal is expressed in grams. What is the value?",
+      "options": [
+        "80000 g",
+        "8000 g",
+        "800 g",
+        "800000 g"
+      ],
+      "correctAnswer": "80000 g"
+    },
+    {
+      "id": 16,
+      "question": "Which single expression equals 3 hours plus 10 minutes plus 2 minutes?",
+      "options": [
+        "192 minutes",
+        "182 minutes",
+        "202 minutes",
+        "312 minutes"
+      ],
+      "correctAnswer": "192 minutes"
+    },
+    {
+      "id": 17,
+      "question": "A student converts 6.7 hours to minutes and gets 402. Which check confirms the result?",
+      "options": [
+        "6 hours gives 360 minutes and 0.7 hour gives 42 minutes now",
+        "6 hours gives 60 minutes and 0.7 hour gives 7 minutes still",
+        "6.7 minutes gives 402 seconds in this topic in the textbook",
+        "6.7 hours gives 67 minutes now for students in the textbook"
+      ],
+      "correctAnswer": "6 hours gives 360 minutes and 0.7 hour gives 42 minutes now"
+    },
+    {
+      "id": 18,
+      "question": "A sheet thickness of 0.0000075 m is written with a prefix. Which value is correct?",
+      "options": [
+        "7.5 micrometers",
+        "7.5 millimeters",
+        "0.75 micrometers",
+        "75 nanometers"
+      ],
+      "correctAnswer": "7.5 micrometers"
+    },
+    {
+      "id": 19,
+      "question": "Which conversion chain gives the number of seconds in a day?",
+      "options": [
+        "24 times 60 times 60 now",
+        "24 plus 60 plus 60 still",
+        "24 times 60 only as well",
+        "60 times 60 only as well"
+      ],
+      "correctAnswer": "24 times 60 times 60 now"
+    },
+    {
+      "id": 20,
+      "question": "A value of 2.2758 kg is converted back to grams. What is the result?",
+      "options": [
+        "2275.8 g",
+        "227.58 g",
+        "22758 g",
+        "22.758 g"
+      ],
+      "correctAnswer": "2275.8 g"
+    }
+  ]
+}

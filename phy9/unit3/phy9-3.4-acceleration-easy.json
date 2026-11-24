@@ -1,0 +1,237 @@
+{
+  "title": "3.4 Acceleration",
+  "description": "Acceleration concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "acceleration",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Acceleration is the rate of change of",
+      "options": [
+        "velocity",
+        "distance",
+        "speed only",
+        "position"
+      ],
+      "correctAnswer": "velocity"
+    },
+    {
+      "id": 2,
+      "question": "The SI unit of acceleration is",
+      "options": [
+        "m/s²",
+        "m/s",
+        "km/h",
+        "s/m"
+      ],
+      "correctAnswer": "m/s²"
+    },
+    {
+      "id": 3,
+      "question": "A car speeds up from 4 m/s to 10 m/s in 3 s. What is its acceleration?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$1\\,\\mathrm{m/s^2}$",
+        "$3\\,\\mathrm{m/s^2}$",
+        "$6\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 4,
+      "question": "A bicycle starts from rest and reaches 8 m/s in 4 s. What is its acceleration?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$4\\,\\mathrm{m/s^2}$",
+        "$8\\,\\mathrm{m/s^2}$",
+        "$32\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 5,
+      "question": "A train slows from 20 m/s to 12 m/s in 4 s. What is the magnitude of its acceleration?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$4\\,\\mathrm{m/s^2}$",
+        "$8\\,\\mathrm{m/s^2}$",
+        "$32\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 6,
+      "question": "Slowing down is called",
+      "options": [
+        "deceleration",
+        "uniform motion",
+        "free fall",
+        "constant speed"
+      ],
+      "correctAnswer": "deceleration"
+    },
+    {
+      "id": 7,
+      "question": "Acceleration occurs when velocity changes in",
+      "options": [
+        "magnitude or direction",
+        "the path length covered",
+        "distance only",
+        "time only"
+      ],
+      "correctAnswer": "magnitude or direction"
+    },
+    {
+      "id": 8,
+      "question": "A car has zero acceleration when it",
+      "options": [
+        "moves at constant velocity",
+        "speeds up steadily",
+        "slows down steadily",
+        "travels farther each second"
+      ],
+      "correctAnswer": "moves at constant velocity"
+    },
+    {
+      "id": 9,
+      "question": "If initial and final velocities are equal over an interval, the average acceleration is",
+      "options": [
+        "zero",
+        "positive",
+        "negative",
+        "increasing"
+      ],
+      "correctAnswer": "zero"
+    },
+    {
+      "id": 10,
+      "question": "A car accelerates from rest to 6 m/s in 3 s. What is its acceleration?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$3\\,\\mathrm{m/s^2}$",
+        "$6\\,\\mathrm{m/s^2}$",
+        "$18\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 11,
+      "question": "A body velocity changes by 12 m/s in 4 s. What is its average acceleration?",
+      "options": [
+        "$3\\,\\mathrm{m/s^2}$",
+        "$4\\,\\mathrm{m/s^2}$",
+        "$8\\,\\mathrm{m/s^2}$",
+        "$48\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$3\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 12,
+      "question": "Which quantity has unit m/s²?",
+      "options": [
+        "acceleration",
+        "rate of motion",
+        "velocity",
+        "distance"
+      ],
+      "correctAnswer": "acceleration"
+    },
+    {
+      "id": 13,
+      "question": "A car slows from 15 m/s to 5 m/s in 5 s. What is the magnitude of deceleration?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$3\\,\\mathrm{m/s^2}$",
+        "$5\\,\\mathrm{m/s^2}$",
+        "$10\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 14,
+      "question": "A body moving at constant speed in a straight line has acceleration",
+      "options": [
+        "equal to zero",
+        "greater than zero",
+        "less than zero",
+        "equal to speed"
+      ],
+      "correctAnswer": "equal to zero"
+    },
+    {
+      "id": 15,
+      "question": "A car velocity changes from 8 m/s to 20 m/s in 4 s. What is its acceleration?",
+      "options": [
+        "$3\\,\\mathrm{m/s^2}$",
+        "$5\\,\\mathrm{m/s^2}$",
+        "$12\\,\\mathrm{m/s^2}$",
+        "$32\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$3\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 16,
+      "question": "Acceleration is a",
+      "options": [
+        "vector quantity",
+        "scalar quantity",
+        "fixed time",
+        "path length"
+      ],
+      "correctAnswer": "vector quantity"
+    },
+    {
+      "id": 17,
+      "question": "A train starts from rest and reaches 10 m/s in 5 s. What is its acceleration?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$5\\,\\mathrm{m/s^2}$",
+        "$10\\,\\mathrm{m/s^2}$",
+        "$50\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 18,
+      "question": "A car slows from 20 m/s to 8 m/s along a road. This motion is",
+      "options": [
+        "decelerating",
+        "speeding up",
+        "uniform motion",
+        "at rest"
+      ],
+      "correctAnswer": "decelerating"
+    },
+    {
+      "id": 19,
+      "question": "Average acceleration is computed as",
+      "options": [
+        "change in velocity over time",
+        "the total path length over time",
+        "distance over time",
+        "velocity over distance"
+      ],
+      "correctAnswer": "change in velocity over time"
+    },
+    {
+      "id": 20,
+      "question": "A body comes to rest from 9 m/s in 3 s. What is the magnitude of its acceleration?",
+      "options": [
+        "$3\\,\\mathrm{m/s^2}$",
+        "$6\\,\\mathrm{m/s^2}$",
+        "$9\\,\\mathrm{m/s^2}$",
+        "$27\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$3\\,\\mathrm{m/s^2}$"
+    }
+  ]
+}

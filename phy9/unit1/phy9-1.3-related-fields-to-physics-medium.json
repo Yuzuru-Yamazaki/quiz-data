@@ -1,0 +1,237 @@
+{
+  "title": "1.3 Related Fields to Physics",
+  "description": "Related Fields to Physics concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "related fields to physics",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A scientist explains a chemical bond using atomic physics. Which relationship does this illustrate?",
+      "options": [
+        "Chemistry is rooted in atomic and molecular physics",
+        "Chemistry is a branch of biology now in experiments",
+        "Physics depends on chemistry only now in this topic",
+        "Physics and chemistry are unrelated in the textbook"
+      ],
+      "correctAnswer": "Chemistry is rooted in atomic and molecular physics"
+    },
+    {
+      "id": 2,
+      "question": "An architect calculates how a roof carries weight and how sound travels in a hall. Which field is being applied?",
+      "options": [
+        "Engineering",
+        "Geology",
+        "Medical physics",
+        "Biophysics"
+      ],
+      "correctAnswer": "Engineering"
+    },
+    {
+      "id": 3,
+      "question": "A researcher dates a rock layer using radioactivity and maps earthquake waves. Which field is being applied?",
+      "options": [
+        "Geology",
+        "Engineering",
+        "Biophysics",
+        "Medical physics"
+      ],
+      "correctAnswer": "Geology"
+    },
+    {
+      "id": 4,
+      "question": "A team uses physical laws to model how a cell responds to forces. Which field is being applied?",
+      "options": [
+        "Biophysics",
+        "Geophysics",
+        "Astrophysics",
+        "Mechanics"
+      ],
+      "correctAnswer": "Biophysics"
+    },
+    {
+      "id": 5,
+      "question": "A team models how seismic waves travel through the Earths interior. Which field is being applied?",
+      "options": [
+        "Geophysics",
+        "Biophysics",
+        "Medical physics",
+        "Engineering"
+      ],
+      "correctAnswer": "Geophysics"
+    },
+    {
+      "id": 6,
+      "question": "A hospital uses an x-ray machine and an ultrasonic blood-flow device. Which field covers both?",
+      "options": [
+        "Medical physics",
+        "Geophysics here",
+        "Biophysics here",
+        "Chemistry still"
+      ],
+      "correctAnswer": "Medical physics"
+    },
+    {
+      "id": 7,
+      "question": "Which pair of fields both study the Earth using physics?",
+      "options": [
+        "Geology and geophysics",
+        "Biophysics and medical physics",
+        "Chemistry and engineering",
+        "Optics and acoustics"
+      ],
+      "correctAnswer": "Geology and geophysics"
+    },
+    {
+      "id": 8,
+      "question": "Which pair of fields both apply physics to living systems?",
+      "options": [
+        "Biophysics and medical physics",
+        "Geology and geophysics as well",
+        "Engineering and chemistry here",
+        "Mechanics and optics in nature"
+      ],
+      "correctAnswer": "Biophysics and medical physics"
+    },
+    {
+      "id": 9,
+      "question": "A physicist works with engineers on a stable bridge and with geologists on earthquake risk. Which two applications are involved?",
+      "options": [
+        "Engineering and geology",
+        "Medicine and chemistry",
+        "Biophysics and optics",
+        "Acoustics and thermodynamics"
+      ],
+      "correctAnswer": "Engineering and geology"
+    },
+    {
+      "id": 10,
+      "question": "Which statement about engineering in the textbook is accurate?",
+      "options": [
+        "Physics is central to structural stability, acoustics, heating and cooling",
+        "Engineering avoids all physical calculations in this topic in the textbook",
+        "Engineering studies only living organisms now for students in the textbook",
+        "Engineering is identical to medical physics in the textbook in experiments"
+      ],
+      "correctAnswer": "Physics is central to structural stability, acoustics, heating and cooling"
+    },
+    {
+      "id": 11,
+      "question": "Which statement about geology in the textbook is accurate?",
+      "options": [
+        "It uses radioactive dating and earthquake analysis",
+        "It uses only microscopic lenses now in experiments",
+        "It studies only the atmosphere now in the textbook",
+        "It relies on music theory in class in the textbook"
+      ],
+      "correctAnswer": "It uses radioactive dating and earthquake analysis"
+    },
+    {
+      "id": 12,
+      "question": "A scientist studies biological phenomena with physical methods and mathematical laws. Which field is this?",
+      "options": [
+        "Biophysics",
+        "Geophysics",
+        "Chemistry",
+        "Engineering"
+      ],
+      "correctAnswer": "Biophysics"
+    },
+    {
+      "id": 13,
+      "question": "A scientist applies physics to the Earth as a planet and its internal processes. Which field is this?",
+      "options": [
+        "Geophysics",
+        "Biophysics",
+        "Medical physics",
+        "Chemistry"
+      ],
+      "correctAnswer": "Geophysics"
+    },
+    {
+      "id": 14,
+      "question": "Which example belongs to medical physics rather than biophysics?",
+      "options": [
+        "Using magnetic resonance imaging for diagnosis",
+        "Modeling the motion of a single cell in nature",
+        "Studying the physics of bird flight in physics",
+        "Analyzing the forces in a muscle in this topic"
+      ],
+      "correctAnswer": "Using magnetic resonance imaging for diagnosis"
+    },
+    {
+      "id": 15,
+      "question": "Which example belongs to biophysics rather than medical physics?",
+      "options": [
+        "Studying how biological systems obey physical laws",
+        "Operating an x-ray scanner as well in the textbook",
+        "Planning radiation therapy as well in the textbook",
+        "Interpreting an ultrasonic image now in this topic"
+      ],
+      "correctAnswer": "Studying how biological systems obey physical laws"
+    },
+    {
+      "id": 16,
+      "question": "A chemistry student studies how atoms interact. Which physics area underpins the topic?",
+      "options": [
+        "Atomic and molecular physics",
+        "Nuclear physics only as well",
+        "Astrophysics in the textbook",
+        "Acoustics now in experiments"
+      ],
+      "correctAnswer": "Atomic and molecular physics"
+    },
+    {
+      "id": 17,
+      "question": "An engineer designs lighting, heating and cooling for a library. Which field uses physics this way?",
+      "options": [
+        "Engineering now",
+        "Geology as well",
+        "Biophysics here",
+        "Geophysics here"
+      ],
+      "correctAnswer": "Engineering now"
+    },
+    {
+      "id": 18,
+      "question": "A researcher studies heat transfer across land and ocean surfaces. Which field is being applied?",
+      "options": [
+        "Geology",
+        "Medical physics",
+        "Biophysics",
+        "Engineering"
+      ],
+      "correctAnswer": "Geology"
+    },
+    {
+      "id": 19,
+      "question": "Which set lists fields that all draw on physics according to the textbook?",
+      "options": [
+        "Chemistry, engineering and geology now",
+        "History, art and literature in physics",
+        "Music, dance and drama in the textbook",
+        "Law, politics and economics in physics"
+      ],
+      "correctAnswer": "Chemistry, engineering and geology now"
+    },
+    {
+      "id": 20,
+      "question": "A field applies physics to diagnose illness and another to understand earthquakes. Which pair fits?",
+      "options": [
+        "Medical physics and geophysics now",
+        "Biophysics and chemistry in nature",
+        "Engineering and optics in the unit",
+        "Acoustics and thermodynamics still"
+      ],
+      "correctAnswer": "Medical physics and geophysics now"
+    }
+  ]
+}

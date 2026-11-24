@@ -1,0 +1,237 @@
+{
+  "title": "3.2 Average Speed and Instantaneous Speed",
+  "description": "Average Speed and Instantaneous Speed concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "average speed and instantaneous speed",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Speed is which kind of quantity?",
+      "options": [
+        "scalar",
+        "vector",
+        "signed",
+        "directional"
+      ],
+      "correctAnswer": "scalar"
+    },
+    {
+      "id": 2,
+      "question": "Average speed is computed from",
+      "options": [
+        "total distance over total time",
+        "displacement over the total time",
+        "speed at a single instant",
+        "change in velocity per time"
+      ],
+      "correctAnswer": "total distance over total time"
+    },
+    {
+      "id": 3,
+      "question": "A car covers 60 m in 3 s. What is its average speed?",
+      "options": [
+        "$20\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$30\\,\\mathrm{m/s}$",
+        "$180\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 4,
+      "question": "A walker covers 24 m in 6 s. What is the average speed?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$",
+        "$18\\,\\mathrm{m/s}$",
+        "$30\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 5,
+      "question": "A train travels 90 km in 3 h. What is its average speed?",
+      "options": [
+        "$30\\,\\mathrm{km/h}$",
+        "$27\\,\\mathrm{km/h}$",
+        "$45\\,\\mathrm{km/h}$",
+        "$93\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$30\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 6,
+      "question": "A cyclist rides 36 m in 4 s. What is the average speed?",
+      "options": [
+        "$9\\,\\mathrm{m/s}$",
+        "$4\\,\\mathrm{m/s}$",
+        "$32\\,\\mathrm{m/s}$",
+        "$40\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$9\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 7,
+      "question": "Which device gives the instantaneous speed of a car?",
+      "options": [
+        "speedometer",
+        "odometer",
+        "thermometer",
+        "barometer"
+      ],
+      "correctAnswer": "speedometer"
+    },
+    {
+      "id": 8,
+      "question": "Instantaneous speed corresponds to",
+      "options": [
+        "speed at one instant",
+        "total distance over time",
+        "average of all speeds",
+        "change in velocity per time"
+      ],
+      "correctAnswer": "speed at one instant"
+    },
+    {
+      "id": 9,
+      "question": "The SI unit of speed is",
+      "options": [
+        "m/s",
+        "km/h",
+        "m/s²",
+        "s/m"
+      ],
+      "correctAnswer": "m/s"
+    },
+    {
+      "id": 10,
+      "question": "A bus travels 100 m in 20 s. What is its average speed?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$80\\,\\mathrm{m/s}$",
+        "$120\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 11,
+      "question": "A runner covers 150 m in 30 s. What is the average speed?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$",
+        "$3\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$180\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 12,
+      "question": "An object moves 12 m each second for 5 s. What is its average speed?",
+      "options": [
+        "$12\\,\\mathrm{m/s}$",
+        "$5\\,\\mathrm{m/s}$",
+        "$17\\,\\mathrm{m/s}$",
+        "$60\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 13,
+      "question": "Which expression defines average speed?",
+      "options": [
+        "total distance divided by total time",
+        "displacement divided by the total time",
+        "total time divided by distance",
+        "change in velocity divided by time"
+      ],
+      "correctAnswer": "total distance divided by total time"
+    },
+    {
+      "id": 14,
+      "question": "A car moves 40 km in 0.5 h. What is its average speed?",
+      "options": [
+        "$80\\,\\mathrm{km/h}$",
+        "$20\\,\\mathrm{km/h}$",
+        "$40\\,\\mathrm{km/h}$",
+        "$160\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$80\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 15,
+      "question": "A swimmer covers 50 m in 25 s. What is the average speed?",
+      "options": [
+        "$2\\,\\mathrm{m/s}$",
+        "$4\\,\\mathrm{m/s}$",
+        "$25\\,\\mathrm{m/s}$",
+        "$75\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 16,
+      "question": "A horse covers 12 km in 40 min. What is its average speed in km/h?",
+      "options": [
+        "$18\\,\\mathrm{km/h}$",
+        "$12\\,\\mathrm{km/h}$",
+        "$24\\,\\mathrm{km/h}$",
+        "$30\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$18\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 17,
+      "question": "A speedometer reads 50 km/h at an instant. Which quantity is that?",
+      "options": [
+        "instantaneous speed",
+        "speed over the whole trip",
+        "displacement per second",
+        "rate of change of speed"
+      ],
+      "correctAnswer": "instantaneous speed"
+    },
+    {
+      "id": 18,
+      "question": "Average speed and instantaneous speed are both",
+      "options": [
+        "scalar quantities",
+        "vector quantities",
+        "negative values",
+        "directed rates"
+      ],
+      "correctAnswer": "scalar quantities"
+    },
+    {
+      "id": 19,
+      "question": "A car covers 300 m in 15 s. What is its average speed?",
+      "options": [
+        "$20\\,\\mathrm{m/s}$",
+        "$15\\,\\mathrm{m/s}$",
+        "$45\\,\\mathrm{m/s}$",
+        "$315\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 20,
+      "question": "A road sign shows a speed limit of 80 km/h. What does it require of drivers?",
+      "options": [
+        "keep speed at or below 80 km/h",
+        "drive exactly 80 km/h always",
+        "drive above 80 km/h when clear",
+        "ignore the speedometer reading"
+      ],
+      "correctAnswer": "keep speed at or below 80 km/h"
+    }
+  ]
+}

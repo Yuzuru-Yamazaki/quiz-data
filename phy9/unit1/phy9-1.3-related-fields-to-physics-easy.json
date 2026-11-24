@@ -1,0 +1,237 @@
+{
+  "title": "1.3 Related Fields to Physics",
+  "description": "Related Fields to Physics concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "related fields to physics",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which field deals with the interactions of atoms and molecules?",
+      "options": [
+        "Chemistry",
+        "History",
+        "Geology",
+        "Literature"
+      ],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 2,
+      "question": "In which physics area is chemistry rooted according to the textbook?",
+      "options": [
+        "Atomic and molecular physics",
+        "Astrophysics in the textbook",
+        "Acoustics now in experiments",
+        "Thermodynamics in this topic"
+      ],
+      "correctAnswer": "Atomic and molecular physics"
+    },
+    {
+      "id": 3,
+      "question": "Which field applies physics to determine structural stability and building lighting?",
+      "options": [
+        "Engineering here",
+        "Medicine as well",
+        "Philosophy still",
+        "Art for students"
+      ],
+      "correctAnswer": "Engineering here"
+    },
+    {
+      "id": 4,
+      "question": "Which field relies on physics for radioactive dating and earthquake analysis?",
+      "options": [
+        "Geology",
+        "Biology",
+        "Economics",
+        "Linguistics"
+      ],
+      "correctAnswer": "Geology"
+    },
+    {
+      "id": 5,
+      "question": "Which field applies physical principles to biological phenomena?",
+      "options": [
+        "Biophysics",
+        "Geophysics",
+        "Astrophysics",
+        "Thermodynamics"
+      ],
+      "correctAnswer": "Biophysics"
+    },
+    {
+      "id": 6,
+      "question": "Which field applies the principles of physics to the Earth?",
+      "options": [
+        "Geophysics",
+        "Biophysics",
+        "Optics",
+        "Acoustics"
+      ],
+      "correctAnswer": "Geophysics"
+    },
+    {
+      "id": 7,
+      "question": "Which field includes x-rays and magnetic resonance imaging as diagnostic tools?",
+      "options": [
+        "Medical physics",
+        "Geophysics here",
+        "Biophysics here",
+        "Meteorology now"
+      ],
+      "correctAnswer": "Medical physics"
+    },
+    {
+      "id": 8,
+      "question": "Which field studies the nonliving parts of the Earth?",
+      "options": [
+        "Geology",
+        "Biology",
+        "Chemistry",
+        "History"
+      ],
+      "correctAnswer": "Geology"
+    },
+    {
+      "id": 9,
+      "question": "Which field uses heat transfer across Earths surface as part of its study?",
+      "options": [
+        "Geology",
+        "Optics",
+        "Acoustics",
+        "Nuclear physics"
+      ],
+      "correctAnswer": "Geology"
+    },
+    {
+      "id": 10,
+      "question": "Which field uses physical methods to study biological organisms and systems?",
+      "options": [
+        "Biophysics",
+        "Geophysics",
+        "Astrophysics",
+        "Mechanics"
+      ],
+      "correctAnswer": "Biophysics"
+    },
+    {
+      "id": 11,
+      "question": "Which field is concerned with medical therapy and diagnosis using physical principles?",
+      "options": [
+        "Medical physics",
+        "Geophysics here",
+        "Biophysics here",
+        "Metrology still"
+      ],
+      "correctAnswer": "Medical physics"
+    },
+    {
+      "id": 12,
+      "question": "Which field applies physics to the design of heating and cooling in buildings?",
+      "options": [
+        "Engineering here",
+        "Geology in class",
+        "Medicine as well",
+        "Biology in class"
+      ],
+      "correctAnswer": "Engineering here"
+    },
+    {
+      "id": 13,
+      "question": "Which field applies physics to acoustics in building design?",
+      "options": [
+        "Engineering",
+        "Geophysics",
+        "Medical physics",
+        "Nuclear physics"
+      ],
+      "correctAnswer": "Engineering"
+    },
+    {
+      "id": 14,
+      "question": "Which field studies earthquakes using physical principles?",
+      "options": [
+        "Geophysics",
+        "Biophysics",
+        "Optics",
+        "Thermodynamics"
+      ],
+      "correctAnswer": "Geophysics"
+    },
+    {
+      "id": 15,
+      "question": "Which field is physics foundational to, alongside engineering and geology?",
+      "options": [
+        "Chemistry",
+        "Photography",
+        "Cooking",
+        "Poetry"
+      ],
+      "correctAnswer": "Chemistry"
+    },
+    {
+      "id": 16,
+      "question": "Ultrasonic blood flow measurement belongs to which field?",
+      "options": [
+        "Medical physics",
+        "Biophysics here",
+        "Geophysics here",
+        "Optics in class"
+      ],
+      "correctAnswer": "Medical physics"
+    },
+    {
+      "id": 17,
+      "question": "Which field applies physics to biological phenomena using mathematical laws?",
+      "options": [
+        "Biophysics",
+        "Geophysics",
+        "Astrophysics",
+        "Acoustics"
+      ],
+      "correctAnswer": "Biophysics"
+    },
+    {
+      "id": 18,
+      "question": "Which field relies on physics for understanding heat transfer at Earths surface?",
+      "options": [
+        "Geology",
+        "Medicine",
+        "Engineering",
+        "Biophysics"
+      ],
+      "correctAnswer": "Geology"
+    },
+    {
+      "id": 19,
+      "question": "Which field combines physics with the study of organisms?",
+      "options": [
+        "Biophysics",
+        "Geophysics",
+        "Mechanics",
+        "Optics"
+      ],
+      "correctAnswer": "Biophysics"
+    },
+    {
+      "id": 20,
+      "question": "Which field is physics a foundation for, together with chemistry and engineering?",
+      "options": [
+        "Geology now",
+        "Music still",
+        "Art as well",
+        "Law as well"
+      ],
+      "correctAnswer": "Geology now"
+    }
+  ]
+}

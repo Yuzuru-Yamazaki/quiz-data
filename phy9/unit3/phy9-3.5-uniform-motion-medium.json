@@ -1,0 +1,237 @@
+{
+  "title": "3.5 Uniform Motion",
+  "description": "Uniform Motion concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "uniform motion",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A car moves uniformly at 72 km/h. What is its speed in m/s?",
+      "options": [
+        "$20\\,\\mathrm{m/s}$",
+        "$72\\,\\mathrm{m/s}$",
+        "$12\\,\\mathrm{m/s}$",
+        "$2\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 2,
+      "question": "A train travels uniformly at 20 m/s for 2 min. What distance is covered?",
+      "options": [
+        "$2400\\,\\mathrm{m}$",
+        "$40\\,\\mathrm{m}$",
+        "$120\\,\\mathrm{m}$",
+        "$1200\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$2400\\,\\mathrm{m}$"
+    },
+    {
+      "id": 3,
+      "question": "A bus covers 90 km in 1 h at constant speed. What is its speed in m/s?",
+      "options": [
+        "$25\\,\\mathrm{m/s}$",
+        "$90\\,\\mathrm{m/s}$",
+        "$15\\,\\mathrm{m/s}$",
+        "$50\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$25\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 4,
+      "question": "A body moving uniformly covers 45 m in 9 s. What distance does it cover in 4 s?",
+      "options": [
+        "$20\\,\\mathrm{m}$",
+        "$5\\,\\mathrm{m}$",
+        "$36\\,\\mathrm{m}$",
+        "$45\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m}$"
+    },
+    {
+      "id": 5,
+      "question": "A car travels at constant velocity 15 m/s east for 10 s. What is its average velocity?",
+      "options": [
+        "$15\\,\\mathrm{m/s}$ east",
+        "$15\\,\\mathrm{m/s}$ west",
+        "$150\\,\\mathrm{m/s}$ east",
+        "$5\\,\\mathrm{m/s}$ east"
+      ],
+      "correctAnswer": "$15\\,\\mathrm{m/s}$ east"
+    },
+    {
+      "id": 6,
+      "question": "A car travels at constant velocity 15 m/s east for 10 s. What is its displacement?",
+      "options": [
+        "$150\\,\\mathrm{m}$ east",
+        "$15\\,\\mathrm{m}$ east",
+        "$150\\,\\mathrm{m}$ west",
+        "$10\\,\\mathrm{m}$ east"
+      ],
+      "correctAnswer": "$150\\,\\mathrm{m}$ east"
+    },
+    {
+      "id": 7,
+      "question": "A cyclist rides uniformly and covers 30 m in 6 s. What is the acceleration?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$5\\,\\mathrm{m/s^2}$",
+        "$6\\,\\mathrm{m/s^2}$",
+        "$30\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 8,
+      "question": "A particle moves with constant velocity +8 m/s along x for 5 s. What is its average velocity?",
+      "options": [
+        "$8\\,\\mathrm{m/s}$ along +x",
+        "$8\\,\\mathrm{m/s}$ along -x",
+        "$40\\,\\mathrm{m/s}$ along +x",
+        "$5\\,\\mathrm{m/s}$ along +x"
+      ],
+      "correctAnswer": "$8\\,\\mathrm{m/s}$ along +x"
+    },
+    {
+      "id": 9,
+      "question": "A vehicle moves uniformly 12 km in 15 min. What is its speed in km/h?",
+      "options": [
+        "$48\\,\\mathrm{km/h}$",
+        "$12\\,\\mathrm{km/h}$",
+        "$60\\,\\mathrm{km/h}$",
+        "$180\\,\\mathrm{km/h}$"
+      ],
+      "correctAnswer": "$48\\,\\mathrm{km/h}$"
+    },
+    {
+      "id": 10,
+      "question": "A train covers 20 m every second for 30 s. What is its acceleration?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$20\\,\\mathrm{m/s^2}$",
+        "$30\\,\\mathrm{m/s^2}$",
+        "$600\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 11,
+      "question": "A car moving uniformly covers 100 m in 5 s. How long to cover 300 m?",
+      "options": [
+        "$15\\,\\mathrm{s}$",
+        "$5\\,\\mathrm{s}$",
+        "$10\\,\\mathrm{s}$",
+        "$60\\,\\mathrm{s}$"
+      ],
+      "correctAnswer": "$15\\,\\mathrm{s}$"
+    },
+    {
+      "id": 12,
+      "question": "A bus travels with constant velocity 10 m/s north. What is its velocity after 20 s?",
+      "options": [
+        "$10\\,\\mathrm{m/s}$ north",
+        "$20\\,\\mathrm{m/s}$ north",
+        "$10\\,\\mathrm{m/s}$ south",
+        "$200\\,\\mathrm{m/s}$ north"
+      ],
+      "correctAnswer": "$10\\,\\mathrm{m/s}$ north"
+    },
+    {
+      "id": 13,
+      "question": "A body in uniform motion has instantaneous velocity 6 m/s. What is its average velocity?",
+      "options": [
+        "$6\\,\\mathrm{m/s}$",
+        "$3\\,\\mathrm{m/s}$",
+        "$12\\,\\mathrm{m/s}$",
+        "$0\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$6\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 14,
+      "question": "A car moves uniformly at 54 km/h. How far does it travel in 10 s?",
+      "options": [
+        "$150\\,\\mathrm{m}$",
+        "$54\\,\\mathrm{m}$",
+        "$15\\,\\mathrm{m}$",
+        "$540\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$150\\,\\mathrm{m}$"
+    },
+    {
+      "id": 15,
+      "question": "A particle position is 4 m at t = 0 and 24 m at t = 4 s, moving uniformly. What is its velocity?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$ along +x",
+        "$5\\,\\mathrm{m/s}$ along -x",
+        "$20\\,\\mathrm{m/s}$ along +x",
+        "$6\\,\\mathrm{m/s}$ along +x"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$ along +x"
+    },
+    {
+      "id": 16,
+      "question": "A runner moves uniformly 200 m in 50 s and continues for 10 s at the same speed. What distance is covered in 1 min?",
+      "options": [
+        "$240\\,\\mathrm{m}$",
+        "$50\\,\\mathrm{m}$",
+        "$200\\,\\mathrm{m}$",
+        "$120\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$240\\,\\mathrm{m}$"
+    },
+    {
+      "id": 17,
+      "question": "A car covers equal distances in equal time intervals. Its velocity is",
+      "options": [
+        "constant",
+        "increasing",
+        "decreasing",
+        "varying"
+      ],
+      "correctAnswer": "constant"
+    },
+    {
+      "id": 18,
+      "question": "A ship travels at a fixed speed in a fixed direction. What is its acceleration?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$5\\,\\mathrm{m/s^2}$",
+        "$10\\,\\mathrm{m/s^2}$",
+        "$20\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 19,
+      "question": "A car moves at constant velocity 25 m/s for 8 s and then at the same velocity for 2 s. What is its average velocity?",
+      "options": [
+        "$25\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$15\\,\\mathrm{m/s}$",
+        "$50\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$25\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 20,
+      "question": "A body moves uniformly so its position changes by 3 m each second. What is its speed?",
+      "options": [
+        "$3\\,\\mathrm{m/s}$",
+        "$1\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$",
+        "$9\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$3\\,\\mathrm{m/s}$"
+    }
+  ]
+}

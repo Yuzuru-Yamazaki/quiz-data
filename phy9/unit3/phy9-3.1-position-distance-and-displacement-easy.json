@@ -1,0 +1,237 @@
+{
+  "title": "3.1 Position, Distance and Displacement",
+  "description": "Position, Distance and Displacement concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "position distance and displacement",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does motion mean for an object viewed from a fixed reference frame?",
+      "options": [
+        "change of position with time",
+        "total length of the path taken",
+        "speed measured at one instant",
+        "force applied to the object"
+      ],
+      "correctAnswer": "change of position with time"
+    },
+    {
+      "id": 2,
+      "question": "Which quantity is the total length of the path traveled?",
+      "options": [
+        "distance",
+        "displacement",
+        "velocity",
+        "acceleration"
+      ],
+      "correctAnswer": "distance"
+    },
+    {
+      "id": 3,
+      "question": "Which quantity equals final position minus initial position?",
+      "options": [
+        "displacement",
+        "distance",
+        "speed",
+        "time interval"
+      ],
+      "correctAnswer": "displacement"
+    },
+    {
+      "id": 4,
+      "question": "Which type of quantity needs a direction?",
+      "options": [
+        "displacement",
+        "path length",
+        "average speed",
+        "time interval"
+      ],
+      "correctAnswer": "displacement"
+    },
+    {
+      "id": 5,
+      "question": "A student walks 9 m north from the origin. What distance is covered?",
+      "options": [
+        "$9\\,\\mathrm{m}$",
+        "$0\\,\\mathrm{m}$",
+        "$3\\,\\mathrm{m}$",
+        "$18\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$9\\,\\mathrm{m}$"
+    },
+    {
+      "id": 6,
+      "question": "A student walks 9 m north from the origin. Taking north as positive, what is the displacement?",
+      "options": [
+        "$9\\,\\mathrm{m}$ north",
+        "$9\\,\\mathrm{m}$ south",
+        "$0\\,\\mathrm{m}$ north",
+        "$18\\,\\mathrm{m}$ north"
+      ],
+      "correctAnswer": "$9\\,\\mathrm{m}$ north"
+    },
+    {
+      "id": 7,
+      "question": "A runner starts at x = 2 m and stops at x = 7 m. What is the displacement along the x axis?",
+      "options": [
+        "$5\\,\\mathrm{m}$",
+        "$7\\,\\mathrm{m}$",
+        "$9\\,\\mathrm{m}$",
+        "$2\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m}$"
+    },
+    {
+      "id": 8,
+      "question": "A runner starts at x = 2 m and stops at x = 7 m along a straight path. What distance is covered?",
+      "options": [
+        "$5\\,\\mathrm{m}$",
+        "$7\\,\\mathrm{m}$",
+        "$9\\,\\mathrm{m}$",
+        "$2\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m}$"
+    },
+    {
+      "id": 9,
+      "question": "A cyclist rides 4 km west and then 4 km east. What distance is ridden?",
+      "options": [
+        "$8\\,\\mathrm{km}$",
+        "$4\\,\\mathrm{km}$",
+        "$0\\,\\mathrm{km}$",
+        "$16\\,\\mathrm{km}$"
+      ],
+      "correctAnswer": "$8\\,\\mathrm{km}$"
+    },
+    {
+      "id": 10,
+      "question": "A cyclist rides 4 km west and then 4 km east. Taking east as positive, what is the displacement?",
+      "options": [
+        "$0\\,\\mathrm{km}$ east",
+        "$4\\,\\mathrm{km}$ east",
+        "$4\\,\\mathrm{km}$ west",
+        "$8\\,\\mathrm{km}$ east"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{km}$ east"
+    },
+    {
+      "id": 11,
+      "question": "A walker moves 6 m east and then 2 m east. What is the total path length?",
+      "options": [
+        "$8\\,\\mathrm{m}$",
+        "$4\\,\\mathrm{m}$",
+        "$6\\,\\mathrm{m}$",
+        "$12\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$8\\,\\mathrm{m}$"
+    },
+    {
+      "id": 12,
+      "question": "A walker moves 6 m east and then 2 m east. Taking east as positive, what is the displacement?",
+      "options": [
+        "$8\\,\\mathrm{m}$ east",
+        "$4\\,\\mathrm{m}$ east",
+        "$6\\,\\mathrm{m}$ east",
+        "$12\\,\\mathrm{m}$ east"
+      ],
+      "correctAnswer": "$8\\,\\mathrm{m}$ east"
+    },
+    {
+      "id": 13,
+      "question": "How is position described for motion along a straight line?",
+      "options": [
+        "signed location from the origin",
+        "total length of the path traveled",
+        "speed measured at one instant",
+        "change in velocity per second"
+      ],
+      "correctAnswer": "signed location from the origin"
+    },
+    {
+      "id": 14,
+      "question": "A car rests at x = -4 m. What does the minus sign indicate?",
+      "options": [
+        "it lies on the negative side",
+        "it covered a distance of 4 m",
+        "its speed is decreasing",
+        "it moved west for 4 m"
+      ],
+      "correctAnswer": "it lies on the negative side"
+    },
+    {
+      "id": 15,
+      "question": "A body stays at x = 3 m for 10 s. What is its displacement?",
+      "options": [
+        "$0\\,\\mathrm{m}$",
+        "$3\\,\\mathrm{m}$",
+        "$10\\,\\mathrm{m}$",
+        "$13\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m}$"
+    },
+    {
+      "id": 16,
+      "question": "A body stays at x = 3 m for 10 s. What distance does it cover?",
+      "options": [
+        "$0\\,\\mathrm{m}$",
+        "$3\\,\\mathrm{m}$",
+        "$10\\,\\mathrm{m}$",
+        "$13\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m}$"
+    },
+    {
+      "id": 17,
+      "question": "How are rest and motion best described?",
+      "options": [
+        "relative to a reference frame",
+        "measured from a fixed origin point",
+        "absolute for every object",
+        "the same in all frames"
+      ],
+      "correctAnswer": "relative to a reference frame"
+    },
+    {
+      "id": 18,
+      "question": "A passenger sits in a moving bus. Relative to the bus, the passenger is",
+      "options": [
+        "at rest",
+        "in motion",
+        "speeding up",
+        "changing position"
+      ],
+      "correctAnswer": "at rest"
+    },
+    {
+      "id": 19,
+      "question": "A passenger sits in a moving bus. Relative to the road, the passenger is",
+      "options": [
+        "in motion",
+        "at rest",
+        "slowing down",
+        "at a fixed point"
+      ],
+      "correctAnswer": "in motion"
+    },
+    {
+      "id": 20,
+      "question": "Displacement is computed as",
+      "options": [
+        "final position minus initial position",
+        "initial position minus final position",
+        "total path length divided by time",
+        "distance plus the time taken"
+      ],
+      "correctAnswer": "final position minus initial position"
+    }
+  ]
+}

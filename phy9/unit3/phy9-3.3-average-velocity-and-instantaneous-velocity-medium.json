@@ -1,0 +1,237 @@
+{
+  "title": "3.3 Average Velocity and Instantaneous Velocity",
+  "description": "Average Velocity and Instantaneous Velocity concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "average velocity and instantaneous velocity",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A car moves 90 km east in 1.5 h. Taking east as positive, what is the average velocity?",
+      "options": [
+        "$60\\,\\mathrm{km/h}$ east",
+        "$60\\,\\mathrm{km/h}$ west",
+        "$90\\,\\mathrm{km/h}$ east",
+        "$135\\,\\mathrm{km/h}$ east"
+      ],
+      "correctAnswer": "$60\\,\\mathrm{km/h}$ east"
+    },
+    {
+      "id": 2,
+      "question": "A cyclist goes 12 km north in 40 min. Taking north as positive, what is the average velocity?",
+      "options": [
+        "$18\\,\\mathrm{km/h}$ north",
+        "$12\\,\\mathrm{km/h}$ north",
+        "$18\\,\\mathrm{km/h}$ south",
+        "$30\\,\\mathrm{km/h}$ north"
+      ],
+      "correctAnswer": "$18\\,\\mathrm{km/h}$ north"
+    },
+    {
+      "id": 3,
+      "question": "A particle moves from x = -4 m to x = 6 m in 5 s. What is its average velocity?",
+      "options": [
+        "$2\\,\\mathrm{m/s}$ along +x",
+        "$2\\,\\mathrm{m/s}$ along -x",
+        "$10\\,\\mathrm{m/s}$ along +x",
+        "$1\\,\\mathrm{m/s}$ along +x"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s}$ along +x"
+    },
+    {
+      "id": 4,
+      "question": "A particle moves from x = 8 m to x = -4 m in 3 s. Taking right as positive, what is the average velocity?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$ left",
+        "$4\\,\\mathrm{m/s}$ right",
+        "$12\\,\\mathrm{m/s}$ left",
+        "$2\\,\\mathrm{m/s}$ left"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$ left"
+    },
+    {
+      "id": 5,
+      "question": "A runner travels 300 m east then 100 m west in 100 s. Taking east as positive, what is the average velocity?",
+      "options": [
+        "$2\\,\\mathrm{m/s}$ east",
+        "$4\\,\\mathrm{m/s}$ east",
+        "$2\\,\\mathrm{m/s}$ west",
+        "$20\\,\\mathrm{m/s}$ east"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s}$ east"
+    },
+    {
+      "id": 6,
+      "question": "A runner travels 300 m east then 100 m west in 100 s. What is the average speed?",
+      "options": [
+        "$4\\,\\mathrm{m/s}$",
+        "$2\\,\\mathrm{m/s}$",
+        "$3\\,\\mathrm{m/s}$",
+        "$40\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 7,
+      "question": "A swimmer goes 50 m south in 25 s and 50 m north in 25 s. What is the average velocity?",
+      "options": [
+        "$0\\,\\mathrm{m/s}$",
+        "$1\\,\\mathrm{m/s}$ south",
+        "$2\\,\\mathrm{m/s}$ south",
+        "$50\\,\\mathrm{m/s}$ south"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 8,
+      "question": "A swimmer goes 50 m south in 25 s and 50 m north in 25 s. What is the average speed?",
+      "options": [
+        "$2\\,\\mathrm{m/s}$",
+        "$0\\,\\mathrm{m/s}$",
+        "$1\\,\\mathrm{m/s}$",
+        "$50\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 9,
+      "question": "A bus is at 20 km at t = 0 and 80 km at t = 2 h. What is its average velocity?",
+      "options": [
+        "$30\\,\\mathrm{km/h}$ along +x",
+        "$30\\,\\mathrm{km/h}$ along -x",
+        "$40\\,\\mathrm{km/h}$ along +x",
+        "$100\\,\\mathrm{km/h}$ along +x"
+      ],
+      "correctAnswer": "$30\\,\\mathrm{km/h}$ along +x"
+    },
+    {
+      "id": 10,
+      "question": "A car has average velocity 15 m/s north for 2 min. What is its displacement?",
+      "options": [
+        "$1800\\,\\mathrm{m}$ north",
+        "$30\\,\\mathrm{m}$ north",
+        "$1800\\,\\mathrm{m}$ south",
+        "$120\\,\\mathrm{m}$ north"
+      ],
+      "correctAnswer": "$1800\\,\\mathrm{m}$ north"
+    },
+    {
+      "id": 11,
+      "question": "A train moves at 72 km/h west for 30 s. What is its displacement?",
+      "options": [
+        "$600\\,\\mathrm{m}$ west",
+        "$72\\,\\mathrm{m}$ west",
+        "$600\\,\\mathrm{m}$ east",
+        "$20\\,\\mathrm{m}$ west"
+      ],
+      "correctAnswer": "$600\\,\\mathrm{m}$ west"
+    },
+    {
+      "id": 12,
+      "question": "A particle velocity is -6 m/s along x. What is its speed?",
+      "options": [
+        "$6\\,\\mathrm{m/s}$",
+        "$-6\\,\\mathrm{m/s}$",
+        "$12\\,\\mathrm{m/s}$",
+        "$0\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$6\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 13,
+      "question": "A car instantaneous velocity at t = 3 s is 12 m/s east. What is its instantaneous speed?",
+      "options": [
+        "$12\\,\\mathrm{m/s}$",
+        "$3\\,\\mathrm{m/s}$",
+        "$36\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 14,
+      "question": "A cyclist rides 6 km east in 20 min then 4 km east in 10 min. Taking east as positive, what is the average velocity?",
+      "options": [
+        "$20\\,\\mathrm{km/h}$ east",
+        "$18\\,\\mathrm{km/h}$ east",
+        "$20\\,\\mathrm{km/h}$ west",
+        "$30\\,\\mathrm{km/h}$ east"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{km/h}$ east"
+    },
+    {
+      "id": 15,
+      "question": "A car moves 40 m west in 5 s then 20 m east in 5 s. Taking west as positive, what is the average velocity?",
+      "options": [
+        "$2\\,\\mathrm{m/s}$ west",
+        "$6\\,\\mathrm{m/s}$ west",
+        "$2\\,\\mathrm{m/s}$ east",
+        "$12\\,\\mathrm{m/s}$ west"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s}$ west"
+    },
+    {
+      "id": 16,
+      "question": "A car moves 40 m west in 5 s then 20 m east in 5 s. What is the average speed?",
+      "options": [
+        "$6\\,\\mathrm{m/s}$",
+        "$2\\,\\mathrm{m/s}$",
+        "$4\\,\\mathrm{m/s}$",
+        "$60\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$6\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 17,
+      "question": "A particle instantaneous velocity is -4 m/s along a +x reference. What does the sign indicate?",
+      "options": [
+        "motion along -x",
+        "motion along +x",
+        "acceleration of 4",
+        "position at -4 m"
+      ],
+      "correctAnswer": "motion along -x"
+    },
+    {
+      "id": 18,
+      "question": "Which relation holds for uniform motion?",
+      "options": [
+        "average equals instantaneous velocity",
+        "average exceeds instantaneous velocity",
+        "instantaneous velocity is zero",
+        "velocity changes each second"
+      ],
+      "correctAnswer": "average equals instantaneous velocity"
+    },
+    {
+      "id": 19,
+      "question": "A car position changes from 10 m to 70 m in 10 s. What is its average velocity?",
+      "options": [
+        "$6\\,\\mathrm{m/s}$ along +x",
+        "$6\\,\\mathrm{m/s}$ along -x",
+        "$60\\,\\mathrm{m/s}$ along +x",
+        "$7\\,\\mathrm{m/s}$ along +x"
+      ],
+      "correctAnswer": "$6\\,\\mathrm{m/s}$ along +x"
+    },
+    {
+      "id": 20,
+      "question": "A runner jogs at 2.5 m/s east for 40 s. Taking east as positive, what is the displacement?",
+      "options": [
+        "$100\\,\\mathrm{m}$ east",
+        "$40\\,\\mathrm{m}$ east",
+        "$100\\,\\mathrm{m}$ west",
+        "$16\\,\\mathrm{m}$ east"
+      ],
+      "correctAnswer": "$100\\,\\mathrm{m}$ east"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "title": "2.3 Classification of Physical Quantities",
+  "description": "Classification of Physical Quantities concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "classification of physical quantities",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A quantity changes when its direction changes even if its size stays the same. Which classification fits?",
+      "options": [
+        "Vector quantity",
+        "Scalar quantity",
+        "Fundamental scalar",
+        "Derived scalar"
+      ],
+      "correctAnswer": "Vector quantity"
+    },
+    {
+      "id": 2,
+      "question": "Which set contains only fundamental quantities with their correct SI units?",
+      "options": [
+        "Length in meter, mass in kilogram and time in second for students",
+        "Length in centimeter, mass in gram and time in minute in the unit",
+        "Force in newton and work in joule in the textbook of this subject",
+        "Speed in meter per second and density in kilogram per cubic meter"
+      ],
+      "correctAnswer": "Length in meter, mass in kilogram and time in second for students"
+    },
+    {
+      "id": 3,
+      "question": "A student lists mass, time and energy as vectors. Which correction is needed?",
+      "options": [
+        "All three are scalars",
+        "Mass alone is a vector",
+        "Time alone is a vector",
+        "Energy alone is a vector"
+      ],
+      "correctAnswer": "All three are scalars"
+    },
+    {
+      "id": 4,
+      "question": "Which derived unit is equivalent to kilogram per meter per second squared?",
+      "options": [
+        "Pascal",
+        "Newton",
+        "Joule",
+        "Watt"
+      ],
+      "correctAnswer": "Pascal"
+    },
+    {
+      "id": 5,
+      "question": "Which derived unit is equivalent to meter squared per second squared?",
+      "options": [
+        "Joule per kilogram",
+        "Newton per kilogram",
+        "Pascal per kilogram",
+        "Kilogram per meter"
+      ],
+      "correctAnswer": "Joule per kilogram"
+    },
+    {
+      "id": 6,
+      "question": "Which relationship correctly expresses density using base quantities?",
+      "options": [
+        "Mass divided by volume",
+        "Volume divided by mass",
+        "Mass multiplied by volume",
+        "Force divided by area"
+      ],
+      "correctAnswer": "Mass divided by volume"
+    },
+    {
+      "id": 7,
+      "question": "A graph shows a quantity with both size and direction. Which set could it belong to?",
+      "options": [
+        "Displacement, velocity and acceleration",
+        "Distance, speed and time in experiments",
+        "Mass, temperature and energy in physics",
+        "Area, volume and work now in this topic"
+      ],
+      "correctAnswer": "Displacement, velocity and acceleration"
+    },
+    {
+      "id": 8,
+      "question": "Which comparison of fundamental and derived quantities is accurate?",
+      "options": [
+        "Derived quantities are combinations of fundamental quantities",
+        "Fundamental quantities are combinations of derived quantities",
+        "The two categories are identical for students in the textbook",
+        "Derived quantities have no units for students in the textbook"
+      ],
+      "correctAnswer": "Derived quantities are combinations of fundamental quantities"
+    },
+    {
+      "id": 9,
+      "question": "Which pair of units are both derived?",
+      "options": [
+        "Newton and joule",
+        "Meter and second",
+        "Kelvin and ampere",
+        "Mole and candela"
+      ],
+      "correctAnswer": "Newton and joule"
+    },
+    {
+      "id": 10,
+      "question": "A student writes that pressure equals force times area. Which correction is accurate?",
+      "options": [
+        "Pressure equals force divided by area",
+        "Pressure equals area divided by force",
+        "Pressure equals force plus area",
+        "Pressure equals force minus area"
+      ],
+      "correctAnswer": "Pressure equals force divided by area"
+    },
+    {
+      "id": 11,
+      "question": "Which quantity has the same unit as distance?",
+      "options": [
+        "Displacement",
+        "Velocity",
+        "Acceleration",
+        "Force"
+      ],
+      "correctAnswer": "Displacement"
+    },
+    {
+      "id": 12,
+      "question": "Which set groups only vector quantities used in motion?",
+      "options": [
+        "Displacement, velocity and acceleration",
+        "Distance, speed and time in experiments",
+        "Mass, force and energy now for students",
+        "Area, volume and density in experiments"
+      ],
+      "correctAnswer": "Displacement, velocity and acceleration"
+    },
+    {
+      "id": 13,
+      "question": "Which statement about the symbol for amount of substance is accurate?",
+      "options": [
+        "Its quantity symbol is n and its unit is mole",
+        "Its quantity symbol is n and its unit is newton",
+        "Its quantity symbol is I and its unit is mole",
+        "Its quantity symbol is T and its unit is kelvin"
+      ],
+      "correctAnswer": "Its quantity symbol is n and its unit is mole"
+    },
+    {
+      "id": 14,
+      "question": "A derived quantity is expressed as kilogram meter per second squared. Which physical quantity is it?",
+      "options": [
+        "Force",
+        "Work",
+        "Pressure",
+        "Power"
+      ],
+      "correctAnswer": "Force"
+    },
+    {
+      "id": 15,
+      "question": "Which description matches work in the textbook table?",
+      "options": [
+        "Force multiplied by displacement, measured in joules in class",
+        "Force divided by area, measured in pascals now in experiments",
+        "Mass divided by volume, measured in kilograms per cubic meter",
+        "Distance divided by time, measured in meters per second still"
+      ],
+      "correctAnswer": "Force multiplied by displacement, measured in joules in class"
+    },
+    {
+      "id": 16,
+      "question": "Which description matches pressure in the textbook table?",
+      "options": [
+        "Force divided by area, measured in pascals",
+        "Force multiplied by displacement, measured in joules",
+        "Mass divided by time, measured in kilograms per second",
+        "Area divided by volume, measured in per meter"
+      ],
+      "correctAnswer": "Force divided by area, measured in pascals"
+    },
+    {
+      "id": 17,
+      "question": "A quantity is described by a number and a unit only. Which classification applies?",
+      "options": [
+        "Scalar quantity",
+        "Vector quantity",
+        "Base vector",
+        "Derived vector"
+      ],
+      "correctAnswer": "Scalar quantity"
+    },
+    {
+      "id": 18,
+      "question": "Which example shows a vector being represented correctly?",
+      "options": [
+        "Writing a displacement with an arrow over its symbol",
+        "Writing mass with an arrow over its symbol in nature",
+        "Writing time with an arrow over its symbol in nature",
+        "Writing temperature as a bold number in the textbook"
+      ],
+      "correctAnswer": "Writing a displacement with an arrow over its symbol"
+    },
+    {
+      "id": 19,
+      "question": "Which quantity is derived from two fundamental quantities but has no direction?",
+      "options": [
+        "Speed",
+        "Velocity",
+        "Acceleration",
+        "Force"
+      ],
+      "correctAnswer": "Speed"
+    },
+    {
+      "id": 20,
+      "question": "Which pair of quantities differ only in whether direction is included?",
+      "options": [
+        "Distance and displacement here",
+        "Mass and weight in experiments",
+        "Speed and acceleration as well",
+        "Work and energy in experiments"
+      ],
+      "correctAnswer": "Distance and displacement here"
+    }
+  ]
+}

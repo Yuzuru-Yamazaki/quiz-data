@@ -1,0 +1,237 @@
+{
+  "title": "1.1 Definition and Nature of Physics",
+  "description": "Definition and Nature of Physics concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "definition and nature of physics",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A team designs a brake system and a medical scanner. Which single subject supplies the underlying principles for both?",
+      "options": [
+        "Physics",
+        "Biology",
+        "Geology",
+        "Literature"
+      ],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": 2,
+      "question": "A student claims that physics is only about formulas. Which textbook-based response is strongest?",
+      "options": [
+        "Physics also explains everyday phenomena and devices now",
+        "Formulas are the only real content of science in physics",
+        "Physics has no links to technology still in the textbook",
+        "Physics avoids experiments entirely here in the textbook"
+      ],
+      "correctAnswer": "Physics also explains everyday phenomena and devices now"
+    },
+    {
+      "id": 3,
+      "question": "Which pair of examples best illustrates physics improving quality of life?",
+      "options": [
+        "Computer tomography and magnetic resonance imaging",
+        "Bone classification and seed germination in nature",
+        "Plant taxonomy and animal behavior in the textbook",
+        "Historical chronology and grammar rules in physics"
+      ],
+      "correctAnswer": "Computer tomography and magnetic resonance imaging"
+    },
+    {
+      "id": 4,
+      "question": "An engineer checks structural stability, acoustics and cooling for a new building. Which field is being applied?",
+      "options": [
+        "Engineering",
+        "Medical physics",
+        "Geophysics",
+        "Biophysics"
+      ],
+      "correctAnswer": "Engineering"
+    },
+    {
+      "id": 5,
+      "question": "A researcher uses radioactive dating and earthquake analysis. Which field best describes the work?",
+      "options": [
+        "Geology",
+        "Astrophysics",
+        "Acoustics",
+        "Optics"
+      ],
+      "correctAnswer": "Geology"
+    },
+    {
+      "id": 6,
+      "question": "Which statement distinguishes biophysics from geophysics?",
+      "options": [
+        "Biophysics studies biological systems; geophysics studies the Earth",
+        "Biophysics studies the Earth; geophysics studies living cells still",
+        "Both study only the weather as well in the textbook of this subject",
+        "Both study only atomic nuclei still in the textbook of this subject"
+      ],
+      "correctAnswer": "Biophysics studies biological systems; geophysics studies the Earth"
+    },
+    {
+      "id": 7,
+      "question": "A hospital uses x-rays, MRI and ultrasonic blood flow measurements. Which field covers these applications?",
+      "options": [
+        "Medical physics",
+        "Nuclear physics",
+        "Meteorology",
+        "Metrology"
+      ],
+      "correctAnswer": "Medical physics"
+    },
+    {
+      "id": 8,
+      "question": "Which historical shift marks the beginning of modern physics?",
+      "options": [
+        "Revolutionary discoveries in the early twentieth century",
+        "The invention of the printing press here in the textbook",
+        "The founding of the first universities now in this topic",
+        "The discovery of agriculture for students in experiments"
+      ],
+      "correctAnswer": "Revolutionary discoveries in the early twentieth century"
+    },
+    {
+      "id": 9,
+      "question": "Which statement about classical and modern physics is accurate?",
+      "options": [
+        "Many classical laws were modified during the twentieth century now",
+        "Modern physics completely discarded every classical law in physics",
+        "Classical physics began in the twentieth century now in this topic",
+        "The two terms describe the same period for students in experiments"
+      ],
+      "correctAnswer": "Many classical laws were modified during the twentieth century now"
+    },
+    {
+      "id": 10,
+      "question": "A scientist formulates laws of motion and explains planetary orbits with gravitation. Who is being described?",
+      "options": [
+        "Isaac Newton",
+        "Michael Faraday",
+        "Marie Curie",
+        "Albert Einstein"
+      ],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "id": 11,
+      "question": "A scientist produced mechanical motion with a magnet and current, then built the first electric generator. Who is being described?",
+      "options": [
+        "Michael Faraday",
+        "James Prescott Joule",
+        "Marie Curie",
+        "Isaac Newton"
+      ],
+      "correctAnswer": "Michael Faraday"
+    },
+    {
+      "id": 12,
+      "question": "A scientist linked heat to mechanical work and helped establish energy conservation. Who is being described?",
+      "options": [
+        "James Prescott Joule",
+        "Albert Einstein here",
+        "Michael Faraday here",
+        "Marie Curie in class"
+      ],
+      "correctAnswer": "James Prescott Joule"
+    },
+    {
+      "id": 13,
+      "question": "A scientist pioneered radioactivity research and discovered polonium and radium. Who is being described?",
+      "options": [
+        "Marie Curie",
+        "Isaac Newton",
+        "James Prescott Joule",
+        "Michael Faraday"
+      ],
+      "correctAnswer": "Marie Curie"
+    },
+    {
+      "id": 14,
+      "question": "A scientist developed relativity and contributed to quantum mechanics. Who is being described?",
+      "options": [
+        "Albert Einstein",
+        "Michael Faraday",
+        "Marie Curie",
+        "Isaac Newton"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 15,
+      "question": "Galileos leaning-tower experiment is best summarized by which result?",
+      "options": [
+        "Objects fall at the same rate regardless of mass",
+        "Heavier objects always land first in experiments",
+        "Gravity acts only on light objects in this topic",
+        "Falling bodies stop accelerating in the textbook"
+      ],
+      "correctAnswer": "Objects fall at the same rate regardless of mass"
+    },
+    {
+      "id": 16,
+      "question": "Which contributor is correctly paired with an achievement?",
+      "options": [
+        "Faraday - first electric generator",
+        "Curie - laws of motion in the unit",
+        "Joule - theory of relativity still",
+        "Newton - discovery of radium still"
+      ],
+      "correctAnswer": "Faraday - first electric generator"
+    },
+    {
+      "id": 17,
+      "question": "Which contributor is correctly paired with work on heat?",
+      "options": [
+        "Joule - relationship between heat and mechanical work",
+        "Einstein - first electric generator now in this topic",
+        "Faraday - radioactive elements as well in experiments",
+        "Newton - quantum mechanics only still in the textbook"
+      ],
+      "correctAnswer": "Joule - relationship between heat and mechanical work"
+    },
+    {
+      "id": 18,
+      "question": "A student argues that physics has no role in biology. Which example is the best counter-evidence?",
+      "options": [
+        "Physical methods are used to study biological phenomena",
+        "Plants must be watered daily in physics in the textbook",
+        "Animals reproduce still in the textbook of this subject",
+        "Cells contain genetic material in class in the textbook"
+      ],
+      "correctAnswer": "Physical methods are used to study biological phenomena"
+    },
+    {
+      "id": 19,
+      "question": "Which situation depends on metrology rather than meteorology?",
+      "options": [
+        "Checking that a measured kilogram is reliable now",
+        "Forecasting weather for tomorrow now for students",
+        "Tracking the path of a storm here in the textbook",
+        "Measuring atmospheric pressure changes in physics"
+      ],
+      "correctAnswer": "Checking that a measured kilogram is reliable now"
+    },
+    {
+      "id": 20,
+      "question": "Which statement best explains why physics knowledge changes over time?",
+      "options": [
+        "New discoveries lead to revised and refined laws",
+        "Laws of physics are chosen by popular vote",
+        "Physics stops changing once a law is written",
+        "Every new idea invalidates all earlier knowledge"
+      ],
+      "correctAnswer": "New discoveries lead to revised and refined laws"
+    }
+  ]
+}

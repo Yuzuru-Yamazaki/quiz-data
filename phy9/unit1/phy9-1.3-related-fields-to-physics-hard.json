@@ -1,0 +1,237 @@
+{
+  "title": "1.3 Related Fields to Physics",
+  "description": "Related Fields to Physics concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "related fields to physics",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A research group combines chemistry, engineering and geology in one project. What common foundation does the textbook identify?",
+      "options": [
+        "Physics underlies all three disciplines",
+        "All three are branches of biology",
+        "All three depend on medical imaging",
+        "All three study only the Earths surface"
+      ],
+      "correctAnswer": "Physics underlies all three disciplines"
+    },
+    {
+      "id": 2,
+      "question": "A student claims biophysics and medical physics are identical. Which distinction from the textbook is most useful?",
+      "options": [
+        "Biophysics studies biological phenomena; medical physics serves diagnosis and therapy",
+        "Biophysics studies rocks; medical physics studies stars in this topic in the textbook",
+        "Biophysics is a branch of history here in the textbook of this subject in experiments",
+        "Medical physics studies only sound now in the textbook of this subject in experiments"
+      ],
+      "correctAnswer": "Biophysics studies biological phenomena; medical physics serves diagnosis and therapy"
+    },
+    {
+      "id": 3,
+      "question": "An architect must address structural stability, building acoustics and cooling loads. Which field integrates all three concerns?",
+      "options": [
+        "Engineering now",
+        "Geophysics here",
+        "Biophysics here",
+        "Chemistry still"
+      ],
+      "correctAnswer": "Engineering now"
+    },
+    {
+      "id": 4,
+      "question": "A geologist uses radioactive dating on a rock and seismology on an earthquake. Which two physics-based methods are being used?",
+      "options": [
+        "Nuclear methods and wave analysis",
+        "Optical methods and thermal imaging",
+        "Acoustic resonance and light scattering",
+        "Mechanical lifting and friction reduction"
+      ],
+      "correctAnswer": "Nuclear methods and wave analysis"
+    },
+    {
+      "id": 5,
+      "question": "A hospital buys an MRI scanner and an ultrasound device. Which two branches of physics supply their operating principles?",
+      "options": [
+        "Electromagnetism and acoustics now",
+        "Optics and thermodynamics in class",
+        "Mechanics and nuclear physics here",
+        "Thermodynamics and optics in class"
+      ],
+      "correctAnswer": "Electromagnetism and acoustics now"
+    },
+    {
+      "id": 6,
+      "question": "A physicist models a bird wing using fluid motion and then studies the same principles in a wind tunnel. Which field is closest?",
+      "options": [
+        "Biophysics",
+        "Geophysics",
+        "Medical physics",
+        "Chemistry"
+      ],
+      "correctAnswer": "Biophysics"
+    },
+    {
+      "id": 7,
+      "question": "A scientist investigates how earthquake waves reveal the Earths interior and how heat moves through it. Which pair of fields is involved?",
+      "options": [
+        "Geophysics and geology",
+        "Biophysics and medical physics",
+        "Chemistry and engineering",
+        "Acoustics and optics"
+      ],
+      "correctAnswer": "Geophysics and geology"
+    },
+    {
+      "id": 8,
+      "question": "A student says chemistry has no link to physics. Which evidence from the textbook is strongest?",
+      "options": [
+        "Chemistry is rooted in atomic and molecular physics",
+        "Chemists use only balances in class in the textbook",
+        "Chemistry is older than physics now in the textbook",
+        "Chemists study only plant matter now in experiments"
+      ],
+      "correctAnswer": "Chemistry is rooted in atomic and molecular physics"
+    },
+    {
+      "id": 9,
+      "question": "A team develops a new imaging method for diagnosis and a method to map underground layers. Which two fields are represented?",
+      "options": [
+        "Medical physics and geophysics now",
+        "Biophysics and chemistry in nature",
+        "Engineering and optics in the unit",
+        "Acoustics and thermodynamics still"
+      ],
+      "correctAnswer": "Medical physics and geophysics now"
+    },
+    {
+      "id": 10,
+      "question": "Which scenario illustrates engineering using physics for quality control and standards?",
+      "options": [
+        "Testing the stability and dimensions of manufactured parts",
+        "Classifying living organisms in this topic in the textbook",
+        "Writing legal regulations now for students in the textbook",
+        "Composing music for a hall in the textbook of this subject"
+      ],
+      "correctAnswer": "Testing the stability and dimensions of manufactured parts"
+    },
+    {
+      "id": 11,
+      "question": "A researcher examines a cell using physical laws, while a colleague plans radiation therapy. Which pair of fields fits?",
+      "options": [
+        "Biophysics and medical physics",
+        "Geology and geophysics as well",
+        "Engineering and chemistry here",
+        "Acoustics and optics in nature"
+      ],
+      "correctAnswer": "Biophysics and medical physics"
+    },
+    {
+      "id": 12,
+      "question": "Which statement about the relationship between physics and geology is accurate?",
+      "options": [
+        "Geology uses physics for radioactive dating, earthquakes and heat transfer",
+        "Geology studies only the naming of rocks now in this topic in the textbook",
+        "Geology and physics have no common methods in the textbook of this subject",
+        "Geology relies on biological classification alone in class in the textbook"
+      ],
+      "correctAnswer": "Geology uses physics for radioactive dating, earthquakes and heat transfer"
+    },
+    {
+      "id": 13,
+      "question": "A physicist works on the physics of hearing and another on the physics of light in buildings. Which fields are being applied?",
+      "options": [
+        "Acoustics-related engineering and optics-related engineering",
+        "Geophysics and biophysics now in the textbook in experiments",
+        "Medical physics and nuclear physics in class in the textbook",
+        "Chemistry and geology as well in the textbook in experiments"
+      ],
+      "correctAnswer": "Acoustics-related engineering and optics-related engineering"
+    },
+    {
+      "id": 14,
+      "question": "Which example shows medical physics rather than general engineering?",
+      "options": [
+        "Using ultrasonic blood flow measurements in a clinic",
+        "Designing a roof truss in this topic in the textbook",
+        "Planning a buildings ventilation now in the textbook",
+        "Choosing construction materials here in the textbook"
+      ],
+      "correctAnswer": "Using ultrasonic blood flow measurements in a clinic"
+    },
+    {
+      "id": 15,
+      "question": "A project uses physics to understand how a protein folds and how a tumor responds to radiation. Which fields are involved?",
+      "options": [
+        "Biophysics and medical physics",
+        "Geology and geophysics as well",
+        "Chemistry and engineering here",
+        "Mechanics and optics in nature"
+      ],
+      "correctAnswer": "Biophysics and medical physics"
+    },
+    {
+      "id": 16,
+      "question": "Which textbook statement explains why physics is called a foundation of many disciplines?",
+      "options": [
+        "Its principles are applied across chemistry, engineering, geology and medicine",
+        "It is the oldest subject taught in schools now in the textbook of this subject",
+        "It uses the simplest instruments in this topic in the textbook of this subject",
+        "It avoids mathematical description for students in the textbook in experiments"
+      ],
+      "correctAnswer": "Its principles are applied across chemistry, engineering, geology and medicine"
+    },
+    {
+      "id": 17,
+      "question": "A geophysicist and a biophysicist share a method. What is the most likely shared element?",
+      "options": [
+        "Applying physical principles to a specific natural system",
+        "Using only chemical reactions for students in experiments",
+        "Studying only human-made devices in class in the textbook",
+        "Working only with light microscopes still in the textbook"
+      ],
+      "correctAnswer": "Applying physical principles to a specific natural system"
+    },
+    {
+      "id": 18,
+      "question": "A student lists geology, geophysics and engineering as physics-related fields. Which justification is strongest?",
+      "options": [
+        "Each applies physical principles to natural or built systems",
+        "Each studies only living things for students in the textbook",
+        "Each uses only statistics now in the textbook in experiments",
+        "Each is a branch of medicine in the textbook of this subject"
+      ],
+      "correctAnswer": "Each applies physical principles to natural or built systems"
+    },
+    {
+      "id": 19,
+      "question": "A hospital physics team checks an x-ray unit and a scanner. Which supporting field supplies the underlying principles?",
+      "options": [
+        "Medical physics",
+        "Geophysics here",
+        "Biophysics here",
+        "Meteorology now"
+      ],
+      "correctAnswer": "Medical physics"
+    },
+    {
+      "id": 20,
+      "question": "A scientist explains the stability of an ancient building using forces and then dates its stones using radioactivity. Which two fields are combined?",
+      "options": [
+        "Engineering and geology",
+        "Biophysics and medical physics",
+        "Acoustics and optics",
+        "Chemistry and thermodynamics"
+      ],
+      "correctAnswer": "Engineering and geology"
+    }
+  ]
+}

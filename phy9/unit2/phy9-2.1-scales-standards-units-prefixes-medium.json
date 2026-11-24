@@ -1,0 +1,237 @@
+{
+  "title": "2.1 Scales, Standards, Units (Prefixes)",
+  "description": "Scales, Standards, Units (Prefixes) concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "scales standards units prefixes",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the SI base unit of length?",
+      "options": [
+        "meter",
+        "kilogram",
+        "second",
+        "Kelvin"
+      ],
+      "correctAnswer": "meter"
+    },
+    {
+      "id": 2,
+      "question": "What is the SI base unit of mass?",
+      "options": [
+        "kilogram still",
+        "meter in class",
+        "second as well",
+        "Kelvin as well"
+      ],
+      "correctAnswer": "kilogram still"
+    },
+    {
+      "id": 3,
+      "question": "What is the SI base unit of time?",
+      "options": [
+        "second",
+        "meter",
+        "kilogram",
+        "Kelvin"
+      ],
+      "correctAnswer": "second"
+    },
+    {
+      "id": 4,
+      "question": "What is the SI base unit of temperature?",
+      "options": [
+        "Kelvin",
+        "meter",
+        "kilogram",
+        "second"
+      ],
+      "correctAnswer": "Kelvin"
+    },
+    {
+      "id": 5,
+      "question": "What is the SI base unit of current?",
+      "options": [
+        "Ampere",
+        "meter",
+        "kilogram",
+        "second"
+      ],
+      "correctAnswer": "Ampere"
+    },
+    {
+      "id": 6,
+      "question": "What is the SI base unit of amount of substance?",
+      "options": [
+        "mole",
+        "meter",
+        "kilogram",
+        "second"
+      ],
+      "correctAnswer": "mole"
+    },
+    {
+      "id": 7,
+      "question": "What is the SI base unit of luminous intensity?",
+      "options": [
+        "candela",
+        "meter",
+        "kilogram",
+        "second"
+      ],
+      "correctAnswer": "candela"
+    },
+    {
+      "id": 8,
+      "question": "Which quantity has the symbol cd for its SI unit?",
+      "options": [
+        "Luminous intensity",
+        "Electric current",
+        "Temperature",
+        "Amount of substance"
+      ],
+      "correctAnswer": "Luminous intensity"
+    },
+    {
+      "id": 9,
+      "question": "Which quantity has the symbol K for its SI unit?",
+      "options": [
+        "Temperature now",
+        "Time in physics",
+        "Mass in physics",
+        "Length in class"
+      ],
+      "correctAnswer": "Temperature now"
+    },
+    {
+      "id": 10,
+      "question": "Which quantity has the symbol A for its SI base unit?",
+      "options": [
+        "Electric current",
+        "Temperature",
+        "Luminous intensity",
+        "Amount of substance"
+      ],
+      "correctAnswer": "Electric current"
+    },
+    {
+      "id": 11,
+      "question": "According to the textbook, the metre is defined using?",
+      "options": [
+        "The speed of light in vacuum now",
+        "A platinum bar in Paris in class",
+        "A swinging pendulum for students",
+        "The rotation of Earth in physics"
+      ],
+      "correctAnswer": "The speed of light in vacuum now"
+    },
+    {
+      "id": 12,
+      "question": "According to the textbook, the second is defined using radiation from?",
+      "options": [
+        "Caesium-133",
+        "Hydrogen",
+        "Radon",
+        "Uranium-235"
+      ],
+      "correctAnswer": "Caesium-133"
+    },
+    {
+      "id": 13,
+      "question": "According to the textbook, the kilogram is defined using?",
+      "options": [
+        "The Planck constant now",
+        "A water volume in class",
+        "A gold cylinder as well",
+        "The speed of sound here"
+      ],
+      "correctAnswer": "The Planck constant now"
+    },
+    {
+      "id": 14,
+      "question": "Which scale allows addition, subtraction, multiplication and division?",
+      "options": [
+        "Ratio scale",
+        "Nominal scale",
+        "Ordinal scale",
+        "Interval scale"
+      ],
+      "correctAnswer": "Ratio scale"
+    },
+    {
+      "id": 15,
+      "question": "Which scale is described as Labels only, with no order?",
+      "options": [
+        "nominal",
+        "ordinal",
+        "interval",
+        "ratio"
+      ],
+      "correctAnswer": "nominal"
+    },
+    {
+      "id": 16,
+      "question": "Which scale is described as Ordered ranks with unequal gaps?",
+      "options": [
+        "ordinal",
+        "nominal",
+        "interval",
+        "ratio"
+      ],
+      "correctAnswer": "ordinal"
+    },
+    {
+      "id": 17,
+      "question": "Which scale is described as Equal gaps but no true zero?",
+      "options": [
+        "interval here",
+        "nominal still",
+        "ordinal still",
+        "ratio as well"
+      ],
+      "correctAnswer": "interval here"
+    },
+    {
+      "id": 18,
+      "question": "Which scale is described as Equal gaps and a true zero?",
+      "options": [
+        "ratio",
+        "nominal",
+        "ordinal",
+        "interval"
+      ],
+      "correctAnswer": "ratio"
+    },
+    {
+      "id": 19,
+      "question": "What happens to precision as the number of marks on a scale increases?",
+      "options": [
+        "It increases",
+        "It decreases",
+        "It stays fixed",
+        "It becomes unknown"
+      ],
+      "correctAnswer": "It increases"
+    },
+    {
+      "id": 20,
+      "question": "When reading an analog scale between two marks, what is the last digit?",
+      "options": [
+        "An estimated digit now",
+        "A random digit as well",
+        "A copied digit as well",
+        "A discarded digit here"
+      ],
+      "correctAnswer": "An estimated digit now"
+    }
+  ]
+}

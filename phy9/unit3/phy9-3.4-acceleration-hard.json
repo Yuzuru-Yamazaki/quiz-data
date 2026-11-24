@@ -1,0 +1,237 @@
+{
+  "title": "3.4 Acceleration",
+  "description": "Acceleration concepts and applications. Hard level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "hard",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "acceleration",
+    "hard"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A car moving east at 15 m/s slows to 5 m/s in 5 s. Taking east as positive, what is the average acceleration?",
+      "options": [
+        "$-2\\,\\mathrm{m/s^2}$",
+        "$+2\\,\\mathrm{m/s^2}$",
+        "$-10\\,\\mathrm{m/s^2}$",
+        "$+4\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$-2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 2,
+      "question": "A car moving west at 10 m/s speeds up to 30 m/s west in 4 s. Taking west as positive, what is the average acceleration?",
+      "options": [
+        "$+5\\,\\mathrm{m/s^2}$",
+        "$-5\\,\\mathrm{m/s^2}$",
+        "$+10\\,\\mathrm{m/s^2}$",
+        "$+20\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$+5\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 3,
+      "question": "A ball is thrown east at 12 m/s and rebounds west at 8 m/s after 0.2 s. Taking east as positive, what is the average acceleration?",
+      "options": [
+        "$-100\\,\\mathrm{m/s^2}$",
+        "$+100\\,\\mathrm{m/s^2}$",
+        "$-20\\,\\mathrm{m/s^2}$",
+        "$+20\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$-100\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 4,
+      "question": "A train starts from rest, accelerates at 2 m/s² for 10 s, then keeps that speed. What is its speed after 15 s?",
+      "options": [
+        "$20\\,\\mathrm{m/s}$",
+        "$30\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$50\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$20\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 5,
+      "question": "A car velocity changes from 4 m/s east to 4 m/s west in 4 s. Taking east as positive, what is the average acceleration?",
+      "options": [
+        "$-2\\,\\mathrm{m/s^2}$",
+        "$+2\\,\\mathrm{m/s^2}$",
+        "$0\\,\\mathrm{m/s^2}$",
+        "$-8\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$-2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 6,
+      "question": "A cyclist starts from rest and accelerates uniformly at 1.5 m/s² for 8 s. What is the final speed?",
+      "options": [
+        "$12\\,\\mathrm{m/s}$",
+        "$8\\,\\mathrm{m/s}$",
+        "$9.5\\,\\mathrm{m/s}$",
+        "$24\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 7,
+      "question": "A car decreases speed from 72 km/h to 36 km/h in 5 s. What is the magnitude of its deceleration?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$7.2\\,\\mathrm{m/s^2}$",
+        "$3.6\\,\\mathrm{m/s^2}$",
+        "$36\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 8,
+      "question": "A bus moving at 10 m/s accelerates at 2 m/s² for 5 s and then decelerates at 1 m/s² for 4 s. What is the final velocity?",
+      "options": [
+        "$16\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$14\\,\\mathrm{m/s}$",
+        "$6\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$16\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 9,
+      "question": "A particle velocity changes from -6 m/s to 6 m/s along x in 3 s. Taking +x as positive, what is the average acceleration?",
+      "options": [
+        "$4\\,\\mathrm{m/s^2}$ along +x",
+        "$4\\,\\mathrm{m/s^2}$ along -x",
+        "$12\\,\\mathrm{m/s^2}$ along +x",
+        "$0\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$4\\,\\mathrm{m/s^2}$ along +x"
+    },
+    {
+      "id": 10,
+      "question": "A car travels at constant velocity 20 m/s for 10 s. What is its acceleration?",
+      "options": [
+        "$0\\,\\mathrm{m/s^2}$",
+        "$2\\,\\mathrm{m/s^2}$",
+        "$20\\,\\mathrm{m/s^2}$",
+        "$200\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 11,
+      "question": "A train accelerates from 10 m/s to 30 m/s over 100 s. What is the average acceleration?",
+      "options": [
+        "$0.2\\,\\mathrm{m/s^2}$",
+        "$0.5\\,\\mathrm{m/s^2}$",
+        "$2\\,\\mathrm{m/s^2}$",
+        "$20\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0.2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 12,
+      "question": "A car moving south at 16 m/s slows to 4 m/s south in 6 s. Taking south as positive, what is the average acceleration?",
+      "options": [
+        "$-2\\,\\mathrm{m/s^2}$",
+        "$+2\\,\\mathrm{m/s^2}$",
+        "$-12\\,\\mathrm{m/s^2}$",
+        "$+4\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$-2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 13,
+      "question": "A body starts from rest with acceleration 4 m/s² for 3 s, then zero acceleration for 2 s. What is its velocity after 5 s?",
+      "options": [
+        "$12\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$8\\,\\mathrm{m/s}$",
+        "$4\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 14,
+      "question": "A car speed increases from 36 km/h to 72 km/h in 10 s. What is its acceleration in m/s²?",
+      "options": [
+        "$1\\,\\mathrm{m/s^2}$",
+        "$3.6\\,\\mathrm{m/s^2}$",
+        "$10\\,\\mathrm{m/s^2}$",
+        "$36\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$1\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 15,
+      "question": "A ball changes velocity from 5 m/s north to 5 m/s south in 0.5 s. Taking north as positive, what is the average acceleration?",
+      "options": [
+        "$-20\\,\\mathrm{m/s^2}$",
+        "$+20\\,\\mathrm{m/s^2}$",
+        "$-10\\,\\mathrm{m/s^2}$",
+        "$+5\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$-20\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 16,
+      "question": "A car starts from rest, reaches 15 m/s in 5 s, then comes to rest in 3 s. What is the magnitude of deceleration?",
+      "options": [
+        "$5\\,\\mathrm{m/s^2}$",
+        "$3\\,\\mathrm{m/s^2}$",
+        "$15\\,\\mathrm{m/s^2}$",
+        "$8\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 17,
+      "question": "A runner increases speed from 2 m/s to 6 m/s over 20 s. What is the average acceleration?",
+      "options": [
+        "$0.2\\,\\mathrm{m/s^2}$",
+        "$0.4\\,\\mathrm{m/s^2}$",
+        "$2\\,\\mathrm{m/s^2}$",
+        "$4\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$0.2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 18,
+      "question": "A car changes velocity from 8 m/s east to 12 m/s west in 4 s. Taking east as positive, what is the average acceleration?",
+      "options": [
+        "$-5\\,\\mathrm{m/s^2}$",
+        "$+5\\,\\mathrm{m/s^2}$",
+        "$-1\\,\\mathrm{m/s^2}$",
+        "$+20\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$-5\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 19,
+      "question": "A train velocity increases uniformly by 3 m/s every 2 s. What is its acceleration?",
+      "options": [
+        "$1.5\\,\\mathrm{m/s^2}$",
+        "$150\\,\\mathrm{m/s^2}$",
+        "$2\\,\\mathrm{m/s^2}$",
+        "$6\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$1.5\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 20,
+      "question": "A car with initial velocity 10 m/s accelerates at 2 m/s² for 5 s, then brakes at 4 m/s² for 2 s. What is the final velocity?",
+      "options": [
+        "$12\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$16\\,\\mathrm{m/s}$",
+        "$28\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$12\\,\\mathrm{m/s}$"
+    }
+  ]
+}

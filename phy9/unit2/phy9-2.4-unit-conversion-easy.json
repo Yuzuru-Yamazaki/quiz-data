@@ -1,0 +1,237 @@
+{
+  "title": "2.4 Unit Conversion",
+  "description": "Unit Conversion concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 2",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 2",
+    "unit conversion",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many centimeters are in one meter?",
+      "options": [
+        "100",
+        "10",
+        "1000",
+        "0.01"
+      ],
+      "correctAnswer": "100"
+    },
+    {
+      "id": 2,
+      "question": "How many millimeters are in one meter?",
+      "options": [
+        "1000",
+        "100",
+        "10",
+        "0.001"
+      ],
+      "correctAnswer": "1000"
+    },
+    {
+      "id": 3,
+      "question": "How many meters are in one kilometer?",
+      "options": [
+        "1000",
+        "100",
+        "10",
+        "0.001"
+      ],
+      "correctAnswer": "1000"
+    },
+    {
+      "id": 4,
+      "question": "How many grams are in one kilogram?",
+      "options": [
+        "1000",
+        "100",
+        "10",
+        "0.001"
+      ],
+      "correctAnswer": "1000"
+    },
+    {
+      "id": 5,
+      "question": "How many seconds are in one minute?",
+      "options": [
+        "60",
+        "100",
+        "24",
+        "3600"
+      ],
+      "correctAnswer": "60"
+    },
+    {
+      "id": 6,
+      "question": "How many minutes are in one hour?",
+      "options": [
+        "60",
+        "100",
+        "24",
+        "3600"
+      ],
+      "correctAnswer": "60"
+    },
+    {
+      "id": 7,
+      "question": "How many hours are in one day?",
+      "options": [
+        "24",
+        "12",
+        "60",
+        "365"
+      ],
+      "correctAnswer": "24"
+    },
+    {
+      "id": 8,
+      "question": "How many days are in one week?",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "30"
+      ],
+      "correctAnswer": "7"
+    },
+    {
+      "id": 9,
+      "question": "How many days are in one month according to the textbook table?",
+      "options": [
+        "30",
+        "28",
+        "31",
+        "365"
+      ],
+      "correctAnswer": "30"
+    },
+    {
+      "id": 10,
+      "question": "How many days are in one year according to the textbook table?",
+      "options": [
+        "365.25 here",
+        "360 as well",
+        "365 as well",
+        "366 as well"
+      ],
+      "correctAnswer": "365.25 here"
+    },
+    {
+      "id": 11,
+      "question": "How many kilograms are in one quintal?",
+      "options": [
+        "100",
+        "1000",
+        "10",
+        "0.1"
+      ],
+      "correctAnswer": "100"
+    },
+    {
+      "id": 12,
+      "question": "How many kilograms are in one tonne?",
+      "options": [
+        "1000",
+        "100",
+        "10",
+        "0.001"
+      ],
+      "correctAnswer": "1000"
+    },
+    {
+      "id": 13,
+      "question": "What is 200 m in centimeters?",
+      "options": [
+        "20000 cm now",
+        "2000 cm here",
+        "2 cm as well",
+        "0.2 cm still"
+      ],
+      "correctAnswer": "20000 cm now"
+    },
+    {
+      "id": 14,
+      "question": "What is 200 m in kilometers?",
+      "options": [
+        "0.2 km",
+        "2 km",
+        "20 km",
+        "0.02 km"
+      ],
+      "correctAnswer": "0.2 km"
+    },
+    {
+      "id": 15,
+      "question": "What is 200 m in millimeters?",
+      "options": [
+        "200000 mm here",
+        "20000 mm still",
+        "2 mm in nature",
+        "0.2 mm as well"
+      ],
+      "correctAnswer": "200000 mm here"
+    },
+    {
+      "id": 16,
+      "question": "What is 2 hours in seconds?",
+      "options": [
+        "7200 s",
+        "3600 s",
+        "720 s",
+        "120 s"
+      ],
+      "correctAnswer": "7200 s"
+    },
+    {
+      "id": 17,
+      "question": "What is 0.5 hour in seconds?",
+      "options": [
+        "1800 s",
+        "3600 s",
+        "180 s",
+        "600 s"
+      ],
+      "correctAnswer": "1800 s"
+    },
+    {
+      "id": 18,
+      "question": "What is 1.5 kg in grams?",
+      "options": [
+        "1500 g",
+        "150 g",
+        "15 g",
+        "15000 g"
+      ],
+      "correctAnswer": "1500 g"
+    },
+    {
+      "id": 19,
+      "question": "What is 1 cm in meters?",
+      "options": [
+        "0.01 m now",
+        "0.1 m here",
+        "10 m still",
+        "100 m here"
+      ],
+      "correctAnswer": "0.01 m now"
+    },
+    {
+      "id": 20,
+      "question": "What is 1 mm in meters?",
+      "options": [
+        "0.001 m now",
+        "0.01 m here",
+        "1 m as well",
+        "1000 m here"
+      ],
+      "correctAnswer": "0.001 m now"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "title": "1.4 Historical Issues and Contributors",
+  "description": "Historical Issues and Contributors concepts and applications. Medium level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 1",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "medium",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 1",
+    "historical issues and contributors",
+    "medium"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "A textbook chapter compares the physics of the 1800s with that of the 1920s. Which pair of periods is being contrasted?",
+      "options": [
+        "Classical physics and modern physics",
+        "Ancient physics and medieval physics",
+        "Nuclear physics and acoustics",
+        "Optics and thermodynamics"
+      ],
+      "correctAnswer": "Classical physics and modern physics"
+    },
+    {
+      "id": 2,
+      "question": "A scientist formulates three laws and explains planetary orbits with one force. Which contribution is being described?",
+      "options": [
+        "Newtons laws of motion and universal gravitation",
+        "Faradays generator in this topic in the textbook",
+        "Joules heat-work relationship now in experiments",
+        "Curies discovery of radium still in the textbook"
+      ],
+      "correctAnswer": "Newtons laws of motion and universal gravitation"
+    },
+    {
+      "id": 3,
+      "question": "A scientist builds the first electric generator after earlier work with magnets and current. Who is being described?",
+      "options": [
+        "Michael Faraday",
+        "Isaac Newton",
+        "James Prescott Joule",
+        "Albert Einstein"
+      ],
+      "correctAnswer": "Michael Faraday"
+    },
+    {
+      "id": 4,
+      "question": "A scientist connects heat with mechanical work and helps establish energy conservation. Who is being described?",
+      "options": [
+        "James Prescott Joule",
+        "Michael Faraday here",
+        "Marie Curie in class",
+        "Isaac Newton as well"
+      ],
+      "correctAnswer": "James Prescott Joule"
+    },
+    {
+      "id": 5,
+      "question": "A scientist discovers two radioactive elements and leads research in nuclear physics. Who is being described?",
+      "options": [
+        "Marie Curie",
+        "Albert Einstein",
+        "Isaac Newton",
+        "James Prescott Joule"
+      ],
+      "correctAnswer": "Marie Curie"
+    },
+    {
+      "id": 6,
+      "question": "A scientist transforms ideas about space and time and also contributes to quantum theory. Who is being described?",
+      "options": [
+        "Albert Einstein",
+        "James Prescott Joule",
+        "Michael Faraday",
+        "Marie Curie"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 7,
+      "question": "A student claims Galileo showed that heavier bodies fall faster. Which correction matches the textbook?",
+      "options": [
+        "He showed objects fall at the same rate regardless of mass",
+        "He showed gravity acts only on falling leaves for students",
+        "He showed mass has no meaning for students in the textbook",
+        "He showed falling objects repel each other in the textbook"
+      ],
+      "correctAnswer": "He showed objects fall at the same rate regardless of mass"
+    },
+    {
+      "id": 8,
+      "question": "Which scientist is correctly matched with a field?",
+      "options": [
+        "Faraday - electromagnetism",
+        "Joule - nuclear physics",
+        "Curie - classical mechanics",
+        "Einstein - acoustics"
+      ],
+      "correctAnswer": "Faraday - electromagnetism"
+    },
+    {
+      "id": 9,
+      "question": "Which scientist is correctly matched with a contribution?",
+      "options": [
+        "Newton - universal gravitation",
+        "Faraday - theory of relativity",
+        "Joule - discovery of polonium",
+        "Curie - laws of motion"
+      ],
+      "correctAnswer": "Newton - universal gravitation"
+    },
+    {
+      "id": 10,
+      "question": "Which scientist is correctly matched with radioactivity research?",
+      "options": [
+        "Curie - radioactivity research",
+        "Newton - first electric generator",
+        "Einstein - heat and mechanical work",
+        "Joule - leaning-tower experiment"
+      ],
+      "correctAnswer": "Curie - radioactivity research"
+    },
+    {
+      "id": 11,
+      "question": "A historian writes about the scientific revolution of the sixteenth and seventeenth centuries. Which physicist is central to that story?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Marie Curie",
+        "James Prescott Joule"
+      ],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "id": 12,
+      "question": "A museum exhibit shows an early generator and a magnet. Which scientist should the caption feature?",
+      "options": [
+        "Michael Faraday",
+        "James Prescott Joule",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "correctAnswer": "Michael Faraday"
+    },
+    {
+      "id": 13,
+      "question": "An exhibit explains why energy conservation became a guiding principle. Which scientist should be credited?",
+      "options": [
+        "James Prescott Joule",
+        "Marie Curie in class",
+        "Michael Faraday here",
+        "Willebrod Snell here"
+      ],
+      "correctAnswer": "James Prescott Joule"
+    },
+    {
+      "id": 14,
+      "question": "A lesson on radioactivity and nuclear structure begins with a pioneer. Which scientist should be named?",
+      "options": [
+        "Marie Curie",
+        "Isaac Newton",
+        "James Prescott Joule",
+        "Daniel Bernoulli"
+      ],
+      "correctAnswer": "Marie Curie"
+    },
+    {
+      "id": 15,
+      "question": "A lesson on relativity and quantum mechanics begins with a pioneer. Which scientist should be named?",
+      "options": [
+        "Albert Einstein",
+        "Michael Faraday",
+        "Marie Curie",
+        "Thomas Young"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 16,
+      "question": "Which pair of scientists both contributed to the development of quantum mechanics?",
+      "options": [
+        "Einstein and the early quantum theorists",
+        "Newton and Galileo still in the textbook",
+        "Faraday and Joule as well in experiments",
+        "Curie and Snell in class in the textbook"
+      ],
+      "correctAnswer": "Einstein and the early quantum theorists"
+    },
+    {
+      "id": 17,
+      "question": "Which event best represents the transition from classical to modern physics?",
+      "options": [
+        "Discoveries in the early twentieth century that modified older laws",
+        "The publication of Newtons laws now in the textbook of this subject",
+        "The construction of the first generator for students in experiments",
+        "The leaning-tower experiment as well in the textbook in experiments"
+      ],
+      "correctAnswer": "Discoveries in the early twentieth century that modified older laws"
+    },
+    {
+      "id": 18,
+      "question": "Which list contains only people described as contributors to physics in the unit?",
+      "options": [
+        "Newton, Faraday, Joule, Curie and Einstein",
+        "Darwin, Linnaeus, Lamarck and Wallace here",
+        "Shakespeare, Dickens, Twain and Austen now",
+        "Moses, Aristotle, Plato and Socrates still"
+      ],
+      "correctAnswer": "Newton, Faraday, Joule, Curie and Einstein"
+    },
+    {
+      "id": 19,
+      "question": "A quiz asks which contributor invented the first electric generator. Which answer is correct?",
+      "options": [
+        "Michael Faraday",
+        "James Prescott Joule",
+        "Marie Curie",
+        "Isaac Newton"
+      ],
+      "correctAnswer": "Michael Faraday"
+    },
+    {
+      "id": 20,
+      "question": "A quiz asks which contributor is called the mother of modern nuclear physics. Which answer is correct?",
+      "options": [
+        "Marie Curie",
+        "Michael Faraday",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "correctAnswer": "Marie Curie"
+    }
+  ]
+}

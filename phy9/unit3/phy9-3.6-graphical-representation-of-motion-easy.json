@@ -1,0 +1,237 @@
+{
+  "title": "3.6 Graphical Representation of Motion",
+  "description": "Graphical Representation of Motion concepts and applications. Easy level, 20 questions.",
+  "folder": "School/Grade 9/Physics/Unit 3",
+  "field": "natural",
+  "anki": true,
+  "difficulty": "easy",
+  "tags": [
+    "physics",
+    "grade 9",
+    "unit 3",
+    "graphical representation of motion",
+    "easy"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "The slope of a position-time graph gives",
+      "options": [
+        "velocity",
+        "acceleration",
+        "distance",
+        "time"
+      ],
+      "correctAnswer": "velocity"
+    },
+    {
+      "id": 2,
+      "question": "The slope of a velocity-time graph gives",
+      "options": [
+        "acceleration",
+        "rate of position change",
+        "velocity",
+        "distance"
+      ],
+      "correctAnswer": "acceleration"
+    },
+    {
+      "id": 3,
+      "question": "On a position-time graph, time is plotted on",
+      "options": [
+        "the horizontal axis",
+        "the area under the line",
+        "the vertical axis",
+        "the slope"
+      ],
+      "correctAnswer": "the horizontal axis"
+    },
+    {
+      "id": 4,
+      "question": "A horizontal line on a position-time graph shows the object is",
+      "options": [
+        "at rest",
+        "speeding up",
+        "slowing down",
+        "moving fast"
+      ],
+      "correctAnswer": "at rest"
+    },
+    {
+      "id": 5,
+      "question": "A horizontal line on a velocity-time graph shows",
+      "options": [
+        "uniform motion",
+        "a changing velocity",
+        "acceleration",
+        "rest only"
+      ],
+      "correctAnswer": "uniform motion"
+    },
+    {
+      "id": 6,
+      "question": "The area under a velocity-time graph for uniform motion gives",
+      "options": [
+        "distance",
+        "velocity",
+        "acceleration",
+        "time"
+      ],
+      "correctAnswer": "distance"
+    },
+    {
+      "id": 7,
+      "question": "A position-time line rises 10 m in 2 s. What is the velocity?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$",
+        "$10\\,\\mathrm{m/s}$",
+        "$2\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 8,
+      "question": "A velocity-time line rises 8 m/s in 4 s. What is the acceleration?",
+      "options": [
+        "$2\\,\\mathrm{m/s^2}$",
+        "$4\\,\\mathrm{m/s^2}$",
+        "$8\\,\\mathrm{m/s^2}$",
+        "$32\\,\\mathrm{m/s^2}$"
+      ],
+      "correctAnswer": "$2\\,\\mathrm{m/s^2}$"
+    },
+    {
+      "id": 9,
+      "question": "On a speed-time graph, a horizontal line means",
+      "options": [
+        "constant speed",
+        "increasing speed",
+        "decreasing speed",
+        "zero time"
+      ],
+      "correctAnswer": "constant speed"
+    },
+    {
+      "id": 10,
+      "question": "A steeper position-time line means",
+      "options": [
+        "greater speed",
+        "a longer distance",
+        "less speed",
+        "zero speed"
+      ],
+      "correctAnswer": "greater speed"
+    },
+    {
+      "id": 11,
+      "question": "A position-time graph has zero slope. The object is",
+      "options": [
+        "at rest",
+        "moving fast",
+        "speeding up",
+        "slowing down"
+      ],
+      "correctAnswer": "at rest"
+    },
+    {
+      "id": 12,
+      "question": "A velocity-time graph is a straight sloping line. The acceleration is",
+      "options": [
+        "constant",
+        "zero",
+        "increasing",
+        "decreasing"
+      ],
+      "correctAnswer": "constant"
+    },
+    {
+      "id": 13,
+      "question": "A car v-t graph is horizontal at 10 m/s. What is its speed?",
+      "options": [
+        "$10\\,\\mathrm{m/s}$",
+        "$5\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$0\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$10\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 14,
+      "question": "A position-time graph goes from 0 m to 20 m in 4 s. What is the slope?",
+      "options": [
+        "$5\\,\\mathrm{m/s}$",
+        "$4\\,\\mathrm{m/s}$",
+        "$20\\,\\mathrm{m/s}$",
+        "$80\\,\\mathrm{m/s}$"
+      ],
+      "correctAnswer": "$5\\,\\mathrm{m/s}$"
+    },
+    {
+      "id": 15,
+      "question": "Which graph has slope equal to acceleration?",
+      "options": [
+        "velocity-time",
+        "position-time",
+        "distance-time",
+        "speed-distance"
+      ],
+      "correctAnswer": "velocity-time"
+    },
+    {
+      "id": 16,
+      "question": "Which graph slope gives average velocity?",
+      "options": [
+        "position-time",
+        "velocity-time",
+        "acceleration-time",
+        "speed-time"
+      ],
+      "correctAnswer": "position-time"
+    },
+    {
+      "id": 17,
+      "question": "A v-t graph horizontal at 6 m/s for 5 s. What distance is covered?",
+      "options": [
+        "$30\\,\\mathrm{m}$",
+        "$6\\,\\mathrm{m}$",
+        "$5\\,\\mathrm{m}$",
+        "$11\\,\\mathrm{m}$"
+      ],
+      "correctAnswer": "$30\\,\\mathrm{m}$"
+    },
+    {
+      "id": 18,
+      "question": "On a position-time graph, a negative slope at positive x shows motion",
+      "options": [
+        "toward the origin",
+        "in the positive x direction",
+        "at a constant rest",
+        "with increasing speed"
+      ],
+      "correctAnswer": "toward the origin"
+    },
+    {
+      "id": 19,
+      "question": "A distance-time graph has zero slope. What can be concluded?",
+      "options": [
+        "the body is at rest",
+        "the body moves fast",
+        "the body speeds up",
+        "the body slows down"
+      ],
+      "correctAnswer": "the body is at rest"
+    },
+    {
+      "id": 20,
+      "question": "Why are speed limits important according to the textbook?",
+      "options": [
+        "to save lives and avoid damage",
+        "to test the speedometer each day",
+        "to make the roads wider",
+        "to raise the speed of traffic"
+      ],
+      "correctAnswer": "to save lives and avoid damage"
+    }
+  ]
+}
