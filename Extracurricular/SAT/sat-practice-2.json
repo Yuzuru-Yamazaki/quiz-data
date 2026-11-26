@@ -1,6 +1,6 @@
 {
   "title": "SAT Practice Quiz 2",
-  "description": "Fifty original SAT-style questions: 25 Reading and Writing and 25 Math, with easy, medium, and hard questions mixed throughout.",
+  "description": "Fifty original USA-standard SAT-style questions: twenty-five Reading and Writing and twenty-five Math, with medium and hard questions only.",
   "folder": "Extracurricular/SAT",
   "field": "neutral",
   "anki": true,
@@ -10,708 +10,708 @@
     "extracurricular",
     "english",
     "math",
-    "mixed difficulty"
+    "medium and hard"
   ],
   "questions": [
     {
       "id": 1,
-      "question": "A polynomial $p(x)$ is divisible by $(x-2)$. Which statement must be true?",
+      "question": "The curator notes that the donation was celebrated even though its provenance was uncertain, and uses the episode to question the museum's reliance on donor narratives.\n\nWhich statement best describes the curator's purpose?",
       "options": [
-        "$p(0) = 2$",
-        "$p(2) = 2$",
-        "$p(-2) = 0$",
-        "$p(2) = 0$"
+        "To show how celebration can obscure careful scrutiny",
+        "To prove that donations should always be refused outright",
+        "To defend the museum's standard acquisition policy",
+        "To shift attention away from provenance concerns"
       ],
-      "correctAnswer": "$p(2) = 0$",
-      "section": "Math",
+      "correctAnswer": "To show how celebration can obscure careful scrutiny",
+      "section": "English",
       "difficulty": "hard",
-      "domain": "Advanced Math"
+      "domain": "Information and Ideas"
     },
     {
       "id": 2,
-      "question": "What is the slope of the line through $(1,2)$ and $(4,8)$?",
+      "question": "The preliminary findings were tentative, so the team avoided firm conclusions.\n\nWhat does tentative most nearly mean?",
       "options": [
-        "3",
-        "6",
-        "2",
-        "$\\frac{1}{2}$"
+        "Provisional and uncertain",
+        "Final and binding",
+        "Detailed and exhaustive",
+        "Public and often controversial"
       ],
-      "correctAnswer": "2",
-      "section": "Math",
-      "difficulty": "medium",
-      "domain": "Algebra"
-    },
-    {
-      "id": 3,
-      "question": "What is the volume of a cylinder with radius 2 and height 5?",
-      "options": [
-        "$4\\pi$",
-        "$25\\pi$",
-        "$10\\pi$",
-        "$20\\pi$"
-      ],
-      "correctAnswer": "$20\\pi$",
-      "section": "Math",
-      "difficulty": "medium",
-      "domain": "Geometry and Trigonometry"
-    },
-    {
-      "id": 4,
-      "question": "In a 3-4-5 right triangle, what is $\\sin \\theta$ if the side opposite $\\theta$ is 3?",
-      "options": [
-        "$\\frac{4}{5}$",
-        "$\\frac{5}{3}$",
-        "$\\frac{3}{4}$",
-        "$\\frac{3}{5}$"
-      ],
-      "correctAnswer": "$\\frac{3}{5}$",
-      "section": "Math",
-      "difficulty": "medium",
-      "domain": "Geometry and Trigonometry"
-    },
-    {
-      "id": 5,
-      "question": "What is the remainder when $x^2 + 2x + 1$ is divided by $x + 1$?",
-      "options": [
-        "2",
-        "0",
-        "-1",
-        "1"
-      ],
-      "correctAnswer": "0",
-      "section": "Math",
-      "difficulty": "hard",
-      "domain": "Advanced Math"
-    },
-    {
-      "id": 6,
-      "question": "If $\\frac{1}{x+1} = \\frac{1}{3}$, what is $x$?",
-      "options": [
-        "1",
-        "4",
-        "2",
-        "3"
-      ],
-      "correctAnswer": "2",
-      "section": "Math",
-      "difficulty": "medium",
-      "domain": "Algebra"
-    },
-    {
-      "id": 7,
-      "question": "What is the perimeter of a square with side length 7?",
-      "options": [
-        "49",
-        "14",
-        "21",
-        "28"
-      ],
-      "correctAnswer": "28",
-      "section": "Math",
-      "difficulty": "easy",
-      "domain": "Geometry and Trigonometry"
-    },
-    {
-      "id": 8,
-      "question": "If $f(x) = x + 1$ and $g(x) = 2x$, what is $f(g(3))$?",
-      "options": [
-        "6",
-        "8",
-        "7",
-        "4"
-      ],
-      "correctAnswer": "7",
-      "section": "Math",
-      "difficulty": "hard",
-      "domain": "Algebra"
-    },
-    {
-      "id": 9,
-      "question": "A paragraph argues for later school start times. Which sentence best advances that argument?\n\nWhich sentence most strengthens the argument?",
-      "options": [
-        "introduced the notion of a macroscopic superposition such as Schrödinger's cat",
-        "The sum of the probabilities assigned to all the possible measurement outcomes",
-        "Adolescents need more sleep, and later starts are linked to better attendance.",
-        "give $|0\\rangle$ with probability $1/4$ and $|1\\rangle$ with probability $3/4$"
-      ],
-      "correctAnswer": "Adolescents need more sleep, and later starts are linked to better attendance.",
-      "section": "English",
-      "difficulty": "hard",
-      "domain": "Expression of Ideas"
-    },
-    {
-      "id": 10,
-      "question": "A price rises by 20% from $50. What is the new price?",
-      "options": [
-        "$70",
-        "$52",
-        "$40",
-        "$60"
-      ],
-      "correctAnswer": "$60",
-      "section": "Math",
-      "difficulty": "medium",
-      "domain": "Problem-Solving and Data Analysis"
-    },
-    {
-      "id": 11,
-      "question": "If $3^{2x} = 81$, what is $x$?",
-      "options": [
-        "8",
-        "2",
-        "4",
-        "1"
-      ],
-      "correctAnswer": "2",
-      "section": "Math",
-      "difficulty": "hard",
-      "domain": "Advanced Math"
-    },
-    {
-      "id": 12,
-      "question": "The scientist's explanation was lucid, so even first-year students could follow it.\n\nWhat does 'lucid' most nearly mean?",
-      "options": [
-        "Secret and confidential",
-        "Technically inaccurate",
-        "Clear and easy to understand",
-        "$(\\frac{2}{3}, \\frac{3}{4}]$"
-      ],
-      "correctAnswer": "Clear and easy to understand",
+      "correctAnswer": "Provisional and uncertain",
       "section": "English",
       "difficulty": "medium",
       "domain": "Craft and Structure"
     },
     {
-      "id": 13,
-      "question": "In the novel, the protagonist repeatedly revises a letter she never sends. Critics read this as a sign of her uncertainty about leaving home.\n\nWhich evidence would most strengthen that reading?",
+      "id": 3,
+      "question": "The method reduced costs. ___ , it introduced delays that offset the savings.\n\nWhich transition best fits the logic of the sentence?",
       "options": [
-        "a qubit requires four basis values, since $|0\\rangle$ and $|1\\rangle$ are not enough",
-        "She crosses out sentences expressing decisiveness and rewrites them with qualifiers.",
-        "larger moduli make factoring easier because more candidate factors become available",
-        "A qubit can hold many classical bits at once, whereas a classical bit holds only one"
+        "Even so,",
+        "Therefore,",
+        "For example,",
+        "In addition,"
       ],
-      "correctAnswer": "She crosses out sentences expressing decisiveness and rewrites them with qualifiers.",
+      "correctAnswer": "Even so,",
+      "section": "English",
+      "difficulty": "medium",
+      "domain": "Expression of Ideas"
+    },
+    {
+      "id": 4,
+      "question": "The first essay treats silence in the archive as evidence of lost voices. The second essay treats the same silence as a deliberate strategy of resistance.\n\nHow do the essays differ?",
+      "options": [
+        "They assign opposing meanings to the same absence",
+        "They agree that the archive is complete",
+        "They reject the idea that silence can be meaningful",
+        "They study different archival collections"
+      ],
+      "correctAnswer": "They assign opposing meanings to the same absence",
       "section": "English",
       "difficulty": "hard",
       "domain": "Information and Ideas"
+    },
+    {
+      "id": 5,
+      "question": "Claim: The restoration project succeeded mainly because residents helped shape the plan.\n\nWhich finding would best support the claim?",
+      "options": [
+        "Residents shaped the plan before work began",
+        "The new equipment was the most advanced model",
+        "The project cost less than earlier proposals",
+        "Similar equipment failed in nearby towns"
+      ],
+      "correctAnswer": "Residents shaped the plan before work began",
+      "section": "English",
+      "difficulty": "hard",
+      "domain": "Information and Ideas"
+    },
+    {
+      "id": 6,
+      "question": "The policy was revised. The revision addressed complaints about eligibility.\n\nWhich combination best preserves both ideas?",
+      "options": [
+        "The policy was revised to address eligibility complaints",
+        "The policy was revised, eligibility complaints addressed",
+        "Eligibility complaints the policy revised addressed",
+        "Revised the policy eligibility complaints addressing"
+      ],
+      "correctAnswer": "The policy was revised to address eligibility complaints",
+      "section": "English",
+      "difficulty": "medium",
+      "domain": "Expression of Ideas"
+    },
+    {
+      "id": 7,
+      "question": "After describing years of stalled negotiations, the author asks, 'What would it take for a promise to become a plan?'\n\nWhat is the effect of the question?",
+      "options": [
+        "It invites readers to consider the gap between words and action",
+        "It proves that the long negotiations have finally succeeded",
+        "It supplies a detailed chronology of the stalled negotiations themselves",
+        "It shifts the topic to a different area of public policy"
+      ],
+      "correctAnswer": "It invites readers to consider the gap between words and action",
+      "section": "English",
+      "difficulty": "hard",
+      "domain": "Craft and Structure"
+    },
+    {
+      "id": 8,
+      "question": "The findings were preliminary, however, they suggested a pattern.\n\nWhich revision is correct?",
+      "options": [
+        "The findings were preliminary; however, they suggested a pattern.",
+        "The findings were preliminary, however, they suggested a pattern.",
+        "The findings were preliminary however they suggested a pattern.",
+        "The findings were preliminary; however they suggested a pattern."
+      ],
+      "correctAnswer": "The findings were preliminary; however, they suggested a pattern.",
+      "section": "English",
+      "difficulty": "hard",
+      "domain": "Standard English Conventions"
+    },
+    {
+      "id": 9,
+      "question": "Researchers once assumed the canyon's springs were fed by recent rainfall. Tracing isotopes in the water showed that most originates in snowmelt stored deep in fractured rock.\n\nWhich sentence best states the central idea?",
+      "options": [
+        "Isotope tracing revised the understanding of the springs' source",
+        "Recent rainfall remains the unchallenged source of the canyon's springs",
+        "Snowmelt is rarely stored in fractured rock formations",
+        "Researchers have abandoned the study of canyon springs"
+      ],
+      "correctAnswer": "Isotope tracing revised the understanding of the springs' source",
+      "section": "English",
+      "difficulty": "medium",
+      "domain": "Information and Ideas"
+    },
+    {
+      "id": 10,
+      "question": "The memoir is candid about the author's mistakes, refusing to soften details that might damage her reputation.\n\nWhat does candid most nearly mean?",
+      "options": [
+        "Frank and unsparing",
+        "Vague and evasive",
+        "Formal and detached",
+        "Sympathetic and gentle"
+      ],
+      "correctAnswer": "Frank and unsparing",
+      "section": "English",
+      "difficulty": "medium",
+      "domain": "Craft and Structure"
+    },
+    {
+      "id": 11,
+      "question": "The team's, findings were challenged by a rival lab.\n\nWhich revision corrects the sentence?",
+      "options": [
+        "The team's findings were challenged by a rival lab",
+        "The teams' findings were challenged by a rival lab",
+        "The teams findings were challenged by a rival lab",
+        "The team findings' were challenged by a rival lab"
+      ],
+      "correctAnswer": "The team's findings were challenged by a rival lab",
+      "section": "English",
+      "difficulty": "medium",
+      "domain": "Standard English Conventions"
+    },
+    {
+      "id": 12,
+      "question": "The author includes a catalog of mundane objects found in the workshop before discussing the inventor's breakthroughs.\n\nWhy include the catalog?",
+      "options": [
+        "To ground an account of innovation in ordinary practice",
+        "To argue that the inventor lacked any real skill",
+        "To replace analysis with a list of famous inventions",
+        "To suggest the workshop was rarely used by the inventor"
+      ],
+      "correctAnswer": "To ground an account of innovation in ordinary practice",
+      "section": "English",
+      "difficulty": "hard",
+      "domain": "Craft and Structure"
+    },
+    {
+      "id": 13,
+      "question": "Volunteers collected samples across the watershed. ___ , they could compare conditions upstream and downstream.\n\nWhich transition best fits?",
+      "options": [
+        "Thus,",
+        "However,",
+        "By contrast,",
+        "For instance,"
+      ],
+      "correctAnswer": "Thus,",
+      "section": "English",
+      "difficulty": "medium",
+      "domain": "Expression of Ideas"
     },
     {
       "id": 14,
-      "question": "The list of ingredients ___ printed on the box.\n\nWhich word correctly completes the sentence?",
+      "question": "A paragraph explains how a sensor works, describes a calibration error, and reports corrected readings. Where should a sentence defining the error margin be placed to make the corrected readings interpretable?",
       "options": [
-        "is",
-        "are",
-        "have been",
-        "were"
+        "Before the calibration error is described",
+        "After the final sentence of the paragraph",
+        "Between the error and corrected readings",
+        "At the start, before the sensor is introduced"
       ],
-      "correctAnswer": "is",
+      "correctAnswer": "Between the error and corrected readings",
       "section": "English",
-      "difficulty": "easy",
-      "domain": "Standard English Conventions"
+      "difficulty": "hard",
+      "domain": "Expression of Ideas"
     },
     {
       "id": 15,
-      "question": "If $(x-3)^2 = 16$ and $x > 0$, what is $x$?",
+      "question": "Neither the supervisor nor the technicians ___ prepared for the audit.\n\nWhich verb correctly completes the sentence?",
       "options": [
-        "-1",
-        "4",
-        "13",
-        "7"
+        "was",
+        "were",
+        "are",
+        "have been"
       ],
-      "correctAnswer": "7",
-      "section": "Math",
-      "difficulty": "medium",
-      "domain": "Advanced Math"
+      "correctAnswer": "were",
+      "section": "English",
+      "difficulty": "hard",
+      "domain": "Standard English Conventions"
     },
     {
       "id": 16,
-      "question": "What is the volume of a sphere with radius 3?",
+      "question": "The first passage celebrates the bridge as a civic achievement; the second treats it as a symbol of displacement.\n\nWhich statement best compares the tones?",
       "options": [
-        "$9\\pi$",
-        "$27\\pi$",
-        "$36\\pi$",
-        "$12\\pi$"
+        "Celebratory in one, critical in the other",
+        "Uncertain in one, indifferent in the other",
+        "Angry in one, apologetic in the other",
+        "Playful in one, mournful in the other"
       ],
-      "correctAnswer": "$36\\pi$",
-      "section": "Math",
+      "correctAnswer": "Celebratory in one, critical in the other",
+      "section": "English",
       "difficulty": "hard",
-      "domain": "Geometry and Trigonometry"
-    },
-    {
-      "id": 17,
-      "question": "Each of the participants ___ a consent form before the study began.\n\nWhich word correctly completes the sentence?",
-      "options": [
-        "signed",
-        "have signed",
-        "sign",
-        "were signing"
-      ],
-      "correctAnswer": "signed",
-      "section": "English",
-      "difficulty": "medium",
-      "domain": "Standard English Conventions"
-    },
-    {
-      "id": 18,
-      "question": "Bees pollinate many fruit crops. In regions where bee populations have declined, some growers bring in hives during bloom.\n\nWhich inference is supported by the passage?",
-      "options": [
-        "$|0\\rangle \\to -|1\\rangle$ and $|1\\rangle \\to -|0\\rangle$",
-        "always give the opposite result to the measurement of $A$",
-        "the basis that maximises his chance of a matching outcome",
-        "Growers use managed hives to make up for fewer wild bees."
-      ],
-      "correctAnswer": "Growers use managed hives to make up for fewer wild bees.",
-      "section": "English",
-      "difficulty": "easy",
       "domain": "Information and Ideas"
     },
     {
-      "id": 19,
-      "question": "The report compares two cities; however, it overlooks a third.\n\nWhich revision improves the sentence?",
+      "id": 17,
+      "question": "Which version is briefest while preserving the original meaning?",
       "options": [
-        "The report compares two cities; however, it overlooks a third.",
-        "The report compares two cities, however, it overlooks a third.",
-        "The report compares two cities however it overlooks a third.",
-        "The report compares two cities; however it overlooks a third."
+        "The committee reached a consensus agreement",
+        "The committee reached a consensus",
+        "The committee agreed on a mutual consensus",
+        "A consensus was reached by the committee"
       ],
-      "correctAnswer": "The report compares two cities; however, it overlooks a third.",
+      "correctAnswer": "The committee reached a consensus",
+      "section": "English",
+      "difficulty": "medium",
+      "domain": "Expression of Ideas"
+    },
+    {
+      "id": 18,
+      "question": "The manager told the intern that her report needed revision.\n\nWhich revision makes clear that the report belongs to the intern?",
+      "options": [
+        "The manager told the intern the intern's report needed revision",
+        "The manager told the intern that her report needed revision",
+        "The intern's report was revised by the manager before the meeting",
+        "The manager's report was given to the intern for revision"
+      ],
+      "correctAnswer": "The manager told the intern the intern's report needed revision",
       "section": "English",
       "difficulty": "hard",
       "domain": "Standard English Conventions"
     },
     {
-      "id": 20,
-      "question": "The scholar's account is meticulous but occasionally digressive, wandering into details that obscure the main argument.\n\nWhat does 'digressive' most nearly mean?",
+      "id": 19,
+      "question": "After the city added protected bike lanes, shop owners reported more foot traffic, while delivery companies reported longer trips.\n\nWhich inference is best supported?",
       "options": [
-        "No new vertex will land on $B$.",
-        "Departing from the main subject",
-        "Charles Bennett and Artur Ekert",
-        "Artur Ekert and Charles Bennett"
+        "The lanes had mixed effects for local stakeholders",
+        "The lanes eliminated every delivery delay in the district",
+        "Shop owners opposed the lanes from the start",
+        "Delivery companies stopped using city streets"
       ],
-      "correctAnswer": "Departing from the main subject",
+      "correctAnswer": "The lanes had mixed effects for local stakeholders",
+      "section": "English",
+      "difficulty": "medium",
+      "domain": "Information and Ideas"
+    },
+    {
+      "id": 20,
+      "question": "The essay places a description of a crowded shelter beside a description of empty luxury apartments.\n\nWhat is the effect of this juxtaposition?",
+      "options": [
+        "It highlights inequality through contrasting spaces",
+        "It proves that shelters are better managed by the city",
+        "It suggests the author prefers luxury apartments for everyone",
+        "It removes the need for any further commentary"
+      ],
+      "correctAnswer": "It highlights inequality through contrasting spaces",
       "section": "English",
       "difficulty": "hard",
       "domain": "Craft and Structure"
     },
     {
       "id": 21,
-      "question": "The article lists three benefits of recycling and then describes one city's recycling program.\n\nWhat is the main purpose of the article?",
+      "question": "After the hearing concluded the committee released its findings.\n\nWhich revision uses commas correctly?",
       "options": [
-        "To explain recycling benefits and describe a related program",
-        "quantum measurement always consumes randomness as a resource",
-        "Bob, who measures one member and forwards the other to Alice",
-        "according to a fixed schedule known to the source in advance"
+        "After the hearing concluded, the committee released its findings.",
+        "After the hearing, concluded the committee released its findings.",
+        "After the hearing concluded the committee, released its findings.",
+        "After, the hearing concluded the committee released its findings."
       ],
-      "correctAnswer": "To explain recycling benefits and describe a related program",
+      "correctAnswer": "After the hearing concluded, the committee released its findings.",
       "section": "English",
-      "difficulty": "easy",
-      "domain": "Craft and Structure"
+      "difficulty": "medium",
+      "domain": "Standard English Conventions"
     },
     {
       "id": 22,
-      "question": "What is the area of a circle with radius 5?",
+      "question": "Argument: Since the town began offering free naloxone kits, overdose deaths have declined; therefore, the kits caused the decline.\n\nWhich finding would most weaken the argument?",
       "options": [
-        "$5\\pi$",
-        "$10\\pi$",
-        "$50\\pi$",
-        "$25\\pi$"
+        "A neighboring town without kits saw a similar decline",
+        "The kits were distributed through local pharmacies and clinics",
+        "Emergency responders recorded each overdose death",
+        "The town expanded its kit distribution program"
       ],
-      "correctAnswer": "$25\\pi$",
-      "section": "Math",
-      "difficulty": "easy",
-      "domain": "Geometry and Trigonometry"
+      "correctAnswer": "A neighboring town without kits saw a similar decline",
+      "section": "English",
+      "difficulty": "hard",
+      "domain": "Information and Ideas"
     },
     {
       "id": 23,
-      "question": "If $|x - 3| = 5$ and $x > 0$, what is $x$?",
+      "question": "The archivist kept meticulous notes, recording each correction with a date and a reason.\n\nWhat does meticulous most nearly mean?",
       "options": [
-        "5",
-        "-2",
-        "3",
-        "8"
+        "Extremely careful",
+        "Rarely accurate",
+        "Briefly stated and incomplete",
+        "Openly disputed"
       ],
-      "correctAnswer": "8",
-      "section": "Math",
+      "correctAnswer": "Extremely careful",
+      "section": "English",
       "difficulty": "medium",
-      "domain": "Advanced Math"
+      "domain": "Craft and Structure"
     },
     {
       "id": 24,
-      "question": "Passage 1: 'The new transit line will reduce congestion by shifting commuters off roads.' Passage 2: 'Transit projects often induce new development that increases total travel demand.'\n\nWhich best describes the relationship between the passages?",
+      "question": "One report links longer bus routes to higher ridership. Another finds that long routes discourage riders who value reliability.\n\nWhat synthesis best reflects both reports?",
       "options": [
-        "a shared secret key, which is then used with a conventional symmetric cipher",
-        "Passage 2 raises a factor that could complicate the prediction in Passage 1.",
-        "be able to store exact copies and forward the originals completely unchanged",
-        "two real parameters, the polar angle $\\theta$ and the azimuthal angle $\\phi$"
+        "Route length can raise ridership yet reduce reliability",
+        "Longer routes always increase reliability",
+        "Ridership is largely unrelated to route design decisions",
+        "Only short routes can attract any riders"
       ],
-      "correctAnswer": "Passage 2 raises a factor that could complicate the prediction in Passage 1.",
+      "correctAnswer": "Route length can raise ridership yet reduce reliability",
       "section": "English",
       "difficulty": "hard",
       "domain": "Information and Ideas"
     },
     {
       "id": 25,
-      "question": "The historian notes that the treaty was signed in 1867, ratified in 1868, and took effect in 1870, leaving a two-year gap often ignored in summaries.\n\nWhy does the historian emphasize the gap?",
+      "question": "The researchers ___ the data before the reviewer requested the raw files.\n\nWhich verb form correctly completes the sentence?",
       "options": [
-        "To challenge simplified accounts of the treaty's implementation",
-        "It supplies evidence consistent with the argument in Passage 1.",
-        "based on the difficulty of finding preimages of a hash function",
-        "polarisation drift exceeds the birefringence limit of the fibre"
+        "had cleaned",
+        "have cleaned",
+        "clean",
+        "will clean"
       ],
-      "correctAnswer": "To challenge simplified accounts of the treaty's implementation",
+      "correctAnswer": "had cleaned",
       "section": "English",
       "difficulty": "hard",
-      "domain": "Information and Ideas"
-    },
-    {
-      "id": 26,
-      "question": "Which sentence uses punctuation correctly?\n\nSelect the correctly punctuated sentence.",
-      "options": [
-        "The results however, were inconclusive.",
-        "Convert every statement into a question.",
-        "The results, however were inconclusive.",
-        "The results, however, were inconclusive."
-      ],
-      "correctAnswer": "The results, however, were inconclusive.",
-      "section": "English",
-      "difficulty": "medium",
       "domain": "Standard English Conventions"
     },
     {
-      "id": 27,
-      "question": "What is the discriminant of $x^2 - 4x + 1$?",
+      "id": 26,
+      "question": "If $\\frac{x}{2}+\\frac{y}{3}=6$ and $x-y=3$, what is $x+y$?",
       "options": [
-        "12",
-        "20",
-        "16",
-        "4"
+        "$\\frac{69}{5}$",
+        "$\\frac{42}{5}$",
+        "$\\frac{27}{5}$",
+        "$\\frac{36}{5}$"
       ],
-      "correctAnswer": "12",
+      "correctAnswer": "$\\frac{69}{5}$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Algebra"
+    },
+    {
+      "id": 27,
+      "question": "If the roots of $2x^2-8x+k=0$ differ by $3$, what is $k$?",
+      "options": [
+        "$\\frac{7}{2}$",
+        "$\\frac{5}{1}$",
+        "$\\frac{7}{1}$",
+        "$\\frac{14}{1}$"
+      ],
+      "correctAnswer": "$\\frac{7}{2}$",
       "section": "Math",
       "difficulty": "hard",
       "domain": "Advanced Math"
     },
     {
       "id": 28,
-      "question": "She argued that the policy was unfair, she proposed an alternative.\n\nWhich revision corrects the sentence?",
+      "question": "A substance decays by $15\\%$ each year. If the initial amount is $80$ grams, which expression gives the amount after $t$ years?",
       "options": [
-        "She argued that the policy was unfair, and she proposed an alternative,",
-        "She argued that the policy was unfair; she proposed an alternative.",
-        "She argued, that the policy was unfair she proposed an alternative.",
-        "She argued that the policy was unfair she proposed an alternative."
+        "$80(0.85)^t$",
+        "$80(1.15)^t$",
+        "$80(0.15)^t$",
+        "$68(0.85)^t$"
       ],
-      "correctAnswer": "She argued that the policy was unfair; she proposed an alternative.",
-      "section": "English",
+      "correctAnswer": "$80(0.85)^t$",
+      "section": "Math",
       "difficulty": "medium",
-      "domain": "Standard English Conventions"
+      "domain": "Advanced Math"
     },
     {
       "id": 29,
-      "question": "If $x^2 = 49$ and $x > 0$, what is $x$?",
+      "question": "What is the sum of all valid solutions to $\\frac{4}{x-2}-\\frac{2}{x+1}=1$?",
       "options": [
-        "49",
-        "14",
-        "7",
-        "-7"
+        "$3$",
+        "$-3$",
+        "$5$",
+        "$2$"
       ],
-      "correctAnswer": "7",
-      "section": "Math",
-      "difficulty": "easy",
-      "domain": "Advanced Math"
-    },
-    {
-      "id": 30,
-      "question": "The new policy reduced wait times. ___ , patients reported higher satisfaction.\n\nWhich transition best completes the sentence?",
-      "options": [
-        "Moreover,",
-        "Instead,",
-        "Otherwise,",
-        "Nevertheless,"
-      ],
-      "correctAnswer": "Moreover,",
-      "section": "English",
-      "difficulty": "easy",
-      "domain": "Expression of Ideas"
-    },
-    {
-      "id": 31,
-      "question": "Neither of the answers ___ correct.\n\nWhich word correctly completes the sentence?",
-      "options": [
-        "are",
-        "have",
-        "were",
-        "is"
-      ],
-      "correctAnswer": "is",
-      "section": "English",
-      "difficulty": "easy",
-      "domain": "Standard English Conventions"
-    },
-    {
-      "id": 32,
-      "question": "A writer must revise a paragraph to keep its formal tone while shortening it. Which change best achieves this?\n\nWhich revision is most appropriate?",
-      "options": [
-        "Remove all transitions between sentences.",
-        "Add slang to make the passage feel current.",
-        "Replace long phrases with precise formal verbs.",
-        "The school stopped buying electricity entirely."
-      ],
-      "correctAnswer": "Replace long phrases with precise formal verbs.",
-      "section": "English",
-      "difficulty": "hard",
-      "domain": "Expression of Ideas"
-    },
-    {
-      "id": 33,
-      "question": "The author wants to place a sentence that explains how the data were gathered. Where should it go?\n\nWhere should the sentence be placed?",
-      "options": [
-        "Remove all transitions between sentences.",
-        "Before the sentence interpreting the data",
-        "At the very beginning of the essay",
-        "After the concluding sentence"
-      ],
-      "correctAnswer": "Before the sentence interpreting the data",
-      "section": "English",
-      "difficulty": "hard",
-      "domain": "Expression of Ideas"
-    },
-    {
-      "id": 34,
-      "question": "The students ___ finished early helped clean up the lab.\n\nWhich word correctly completes the sentence?",
-      "options": [
-        "that",
-        "which",
-        "who",
-        "whom"
-      ],
-      "correctAnswer": "who",
-      "section": "English",
-      "difficulty": "easy",
-      "domain": "Standard English Conventions"
-    },
-    {
-      "id": 35,
-      "question": "What is the average of 4, 8, and 12?",
-      "options": [
-        "6",
-        "8",
-        "24",
-        "12"
-      ],
-      "correctAnswer": "8",
-      "section": "Math",
-      "difficulty": "easy",
-      "domain": "Problem-Solving and Data Analysis"
-    },
-    {
-      "id": 36,
-      "question": "A fair coin is flipped twice. What is the probability of two heads?",
-      "options": [
-        "$\\frac{3}{4}$",
-        "$\\frac{1}{4}$",
-        "$\\frac{1}{2}$",
-        "$\\frac{1}{3}$"
-      ],
-      "correctAnswer": "$\\frac{1}{4}$",
-      "section": "Math",
-      "difficulty": "medium",
-      "domain": "Problem-Solving and Data Analysis"
-    },
-    {
-      "id": 37,
-      "question": "One pipe fills a tank in 4 hours and another drains it in 6 hours. With both open, how long does it take to fill the empty tank?",
-      "options": [
-        "10 hours",
-        "12 hours",
-        "5 hours",
-        "24 hours"
-      ],
-      "correctAnswer": "12 hours",
+      "correctAnswer": "$3$",
       "section": "Math",
       "difficulty": "hard",
-      "domain": "Problem-Solving and Data Analysis"
-    },
-    {
-      "id": 38,
-      "question": "The data ___ collected over a period of six months.\n\nWhich verb form correctly completes the sentence?",
-      "options": [
-        "has",
-        "was",
-        "is being",
-        "were"
-      ],
-      "correctAnswer": "were",
-      "section": "English",
-      "difficulty": "medium",
-      "domain": "Standard English Conventions"
-    },
-    {
-      "id": 39,
-      "question": "What is $2^4$?",
-      "options": [
-        "12",
-        "32",
-        "16",
-        "8"
-      ],
-      "correctAnswer": "16",
-      "section": "Math",
-      "difficulty": "easy",
-      "domain": "Advanced Math"
-    },
-    {
-      "id": 40,
-      "question": "In a survey, 30 of 50 seniors and 20 of 50 juniors support a proposal. What fraction of all surveyed students support it?",
-      "options": [
-        "$\\frac{1}{4}$",
-        "$\\frac{2}{5}$",
-        "$\\frac{3}{5}$",
-        "$\\frac{1}{2}$"
-      ],
-      "correctAnswer": "$\\frac{1}{2}$",
-      "section": "Math",
-      "difficulty": "hard",
-      "domain": "Problem-Solving and Data Analysis"
-    },
-    {
-      "id": 41,
-      "question": "Which sentence uses commas correctly?\n\nSelect the correctly punctuated sentence.",
-      "options": [
-        "After the storm, passed the crew repaired the roof.",
-        "After the storm passed the crew, repaired the roof.",
-        "After, the storm passed the crew repaired the roof.",
-        "After the storm passed, the crew repaired the roof."
-      ],
-      "correctAnswer": "After the storm passed, the crew repaired the roof.",
-      "section": "English",
-      "difficulty": "easy",
-      "domain": "Standard English Conventions"
-    },
-    {
-      "id": 42,
-      "question": "If $2x > 8$, which inequality describes all possible $x$?",
-      "options": [
-        "$x > 4$",
-        "$x > 2$",
-        "$x < 4$",
-        "$x > 8$"
-      ],
-      "correctAnswer": "$x > 4$",
-      "section": "Math",
-      "difficulty": "easy",
       "domain": "Algebra"
     },
     {
-      "id": 43,
-      "question": "A poll finds a proportion of 0.6 with a margin of error of 0.05. What is the confidence interval?",
+      "id": 30,
+      "question": "A point lies $13$ units from the center of a circle with radius $5$. What is the length of a tangent from the point to the circle?",
       "options": [
-        "$|\\alpha|^2$",
-        "0.55 to 0.65",
-        "0.6 to 0.65",
-        "0.55 to 0.6"
+        "$8$",
+        "$12$",
+        "$13$",
+        "$18$"
       ],
-      "correctAnswer": "0.55 to 0.65",
+      "correctAnswer": "$12$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Geometry and Trigonometry"
+    },
+    {
+      "id": 31,
+      "question": "A student earns a score of $84$ on tests worth $60\\%$ and a score of $92$ on quizzes worth $40\\%$. What is the weighted average?",
+      "options": [
+        "$86$",
+        "$87.2$",
+        "$88$",
+        "$89.6$"
+      ],
+      "correctAnswer": "$87.2$",
+      "section": "Math",
+      "difficulty": "medium",
+      "domain": "Problem-Solving and Data Analysis"
+    },
+    {
+      "id": 32,
+      "question": "Among $50$ students, $28$ take biology and $18$ of those also take chemistry. What is the probability that a randomly chosen biology student also takes chemistry?",
+      "options": [
+        "$\\frac{9}{14}$",
+        "$\\frac{7}{25}$",
+        "$\\frac{18}{50}$",
+        "$\\frac{9}{25}$"
+      ],
+      "correctAnswer": "$\\frac{9}{14}$",
       "section": "Math",
       "difficulty": "hard",
       "domain": "Problem-Solving and Data Analysis"
+    },
+    {
+      "id": 33,
+      "question": "The graph of $g$ is obtained by shifting $f(x)=x^2$ left $3$ units and down $2$ units. Which equation defines $g$?",
+      "options": [
+        "$g(x)=(x+3)^2-2$",
+        "$g(x)=(x-3)^2-2$",
+        "$g(x)=(x+3)^2+2$",
+        "$g(x)=(x+2)^2-3$"
+      ],
+      "correctAnswer": "$g(x)=(x+3)^2-2$",
+      "section": "Math",
+      "difficulty": "medium",
+      "domain": "Algebra"
+    },
+    {
+      "id": 34,
+      "question": "An altitude to the hypotenuse of a right triangle divides the hypotenuse into segments of lengths $4$ and $9$. What is the length of the altitude?",
+      "options": [
+        "$6$",
+        "$\\sqrt{13}$",
+        "$6.5$",
+        "$12$"
+      ],
+      "correctAnswer": "$6$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Geometry and Trigonometry"
+    },
+    {
+      "id": 35,
+      "question": "In a right triangle, $\\cos\\alpha=\\frac{9}{41}$. What is $\\tan(90^\\circ-\\alpha)$?",
+      "options": [
+        "$\\frac{9}{40}$",
+        "$\\frac{40}{9}$",
+        "$\\frac{9}{41}$",
+        "$\\frac{41}{9}$"
+      ],
+      "correctAnswer": "$\\frac{9}{40}$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Geometry and Trigonometry"
+    },
+    {
+      "id": 36,
+      "question": "Which value of $x$ satisfies $-2x+5\\ge 11$?",
+      "options": [
+        "$-4$",
+        "$-2$",
+        "$3$",
+        "$6$"
+      ],
+      "correctAnswer": "$-4$",
+      "section": "Math",
+      "difficulty": "medium",
+      "domain": "Algebra"
+    },
+    {
+      "id": 37,
+      "question": "When $x^3+kx^2-4x+8$ is divided by $x-2$, the remainder is $4$. What is $k$?",
+      "options": [
+        "$-1.0$",
+        "$0.00$",
+        "$1.00$",
+        "$2.00$"
+      ],
+      "correctAnswer": "$-1.0$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Advanced Math"
+    },
+    {
+      "id": 38,
+      "question": "A line of best fit predicts revenue from advertising spending. For a data point with high spending, the actual revenue is far below the predicted value. What does this indicate?",
+      "options": [
+        "The point has a large negative residual",
+        "The point lies exactly on the line of best fit",
+        "The slope must be negative overall",
+        "The data contain no outliers"
+      ],
+      "correctAnswer": "The point has a large negative residual",
+      "section": "Math",
+      "difficulty": "medium",
+      "domain": "Problem-Solving and Data Analysis"
+    },
+    {
+      "id": 39,
+      "question": "After a $25\\%$ decrease, a price is $\\$45$. What was the original price?",
+      "options": [
+        "$\\$54$",
+        "$\\$60$",
+        "$\\$64$",
+        "$\\$75$"
+      ],
+      "correctAnswer": "$\\$60$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Problem-Solving and Data Analysis"
+    },
+    {
+      "id": 40,
+      "question": "A circle has radius $9$. What is the length of an arc with central angle $120^\\circ$?",
+      "options": [
+        "$3\\pi$",
+        "$6\\pi$",
+        "$9\\pi$",
+        "$12\\pi$"
+      ],
+      "correctAnswer": "$6\\pi$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Geometry and Trigonometry"
+    },
+    {
+      "id": 41,
+      "question": "For which value of $k$ does $|3x-2|=k$ have exactly one solution?",
+      "options": [
+        "$-1$",
+        "$0$",
+        "$1$",
+        "$2$"
+      ],
+      "correctAnswer": "$0$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Algebra"
+    },
+    {
+      "id": 42,
+      "question": "One faucet fills a tank in $6$ minutes, and a drain empties it in $9$ minutes. If both are open, how long does it take to fill the empty tank?",
+      "options": [
+        "$12$ minutes",
+        "$15$ minutes",
+        "$18$ minutes",
+        "$54$ minutes"
+      ],
+      "correctAnswer": "$18$ minutes",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Problem-Solving and Data Analysis"
+    },
+    {
+      "id": 43,
+      "question": "What are the $x$-intercepts of $y=2x^2-8x+6$?",
+      "options": [
+        "$x=1,3$",
+        "$x=-1,-3$",
+        "$x=2,6$",
+        "$x=6,2$"
+      ],
+      "correctAnswer": "$x=1,3$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Advanced Math"
     },
     {
       "id": 44,
-      "question": "What does 'nuanced' most nearly mean in the sentence 'The report offered a nuanced view of the policy'?",
+      "question": "A researcher wants to estimate the average commute time of city workers. Which method is most likely to produce a representative sample?",
       "options": [
-        "Completely neutral",
-        "$\\frac{29}{36}$ \\quad",
-        "Subtly differentiated",
-        "Brief and unfinished"
+        "Survey a random sample of city employees",
+        "Survey commuters at one downtown station",
+        "Ask volunteers from a single agency",
+        "Interview only full-time office staff"
       ],
-      "correctAnswer": "Subtly differentiated",
-      "section": "English",
-      "difficulty": "medium",
-      "domain": "Craft and Structure"
-    },
-    {
-      "id": 45,
-      "question": "What does 'durable' most nearly mean in the sentence 'The boots proved durable after years of use'?",
-      "options": [
-        "Long-lasting",
-        "Expensive",
-        "in addition,",
-        "Lightweight"
-      ],
-      "correctAnswer": "Long-lasting",
-      "section": "English",
-      "difficulty": "easy",
-      "domain": "Craft and Structure"
-    },
-    {
-      "id": 46,
-      "question": "A ratio is $3:5$ and the total is 40. What is the smaller part?",
-      "options": [
-        "12",
-        "24",
-        "15",
-        "8"
-      ],
-      "correctAnswer": "15",
+      "correctAnswer": "Survey a random sample of city employees",
       "section": "Math",
-      "difficulty": "easy",
+      "difficulty": "medium",
       "domain": "Problem-Solving and Data Analysis"
     },
     {
-      "id": 47,
-      "question": "The researcher, ___ earlier work had focused on insects, shifted to bird migration.\n\nWhich word correctly completes the sentence?",
+      "id": 45,
+      "question": "Two similar pyramids have heights in the ratio $3:4$. If the smaller has surface area $54$, what is the surface area of the larger pyramid?",
       "options": [
-        "which",
-        "that",
-        "who",
-        "whose"
+        "$72$",
+        "$81$",
+        "$96$",
+        "$128$"
       ],
-      "correctAnswer": "whose",
-      "section": "English",
+      "correctAnswer": "$96$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Geometry and Trigonometry"
+    },
+    {
+      "id": 46,
+      "question": "Which line is parallel to $4x-2y=6$?",
+      "options": [
+        "$y=2x+1$",
+        "$y=-2x+1$",
+        "$y=\\frac{1}{2}x+1$",
+        "$y=4x-6$"
+      ],
+      "correctAnswer": "$y=2x+1$",
+      "section": "Math",
       "difficulty": "medium",
-      "domain": "Standard English Conventions"
+      "domain": "Algebra"
+    },
+    {
+      "id": 47,
+      "question": "A data set has mean $10$ and median $9$. A new value of $10$ is added. Which statement about the new data set is guaranteed?",
+      "options": [
+        "The mean remains $10$",
+        "The median remains $9$",
+        "The range decreases",
+        "The mode becomes $10$"
+      ],
+      "correctAnswer": "The mean remains $10$",
+      "section": "Math",
+      "difficulty": "hard",
+      "domain": "Problem-Solving and Data Analysis"
     },
     {
       "id": 48,
-      "question": "A lab grew two groups of plants. Group A received standard fertilizer; Group B received the same fertilizer plus a soil additive. Group B produced 18% more biomass.\n\nWhich statement is a supportable inference?",
+      "question": "Simplify $\\frac{x^2-4x+4}{x^2-4}$ for $x\\neq 2,-2$.",
       "options": [
-        "The additive will increase plant growth in all environments.",
-        "the key length always decreases when a photon is lost in the channel",
-        "The additive was associated with greater biomass in this experiment.",
-        "the algorithm has been formally proven free of implementation errors"
+        "$\\frac{x-2}{x+2}$",
+        "$\\frac{x+2}{x-2}$",
+        "$\\frac{x-2}{x-4}$",
+        "$\\frac{x+4}{x-2}$"
       ],
-      "correctAnswer": "The additive was associated with greater biomass in this experiment.",
-      "section": "English",
+      "correctAnswer": "$\\frac{x-2}{x+2}$",
+      "section": "Math",
       "difficulty": "medium",
-      "domain": "Information and Ideas"
+      "domain": "Advanced Math"
     },
     {
       "id": 49,
-      "question": "Having completed the survey, the researchers ___ the results.\n\nWhich verb tense correctly completes the sentence?",
+      "question": "What is the radius of the circle $x^2+y^2-6x+8y=0$?",
       "options": [
-        "will analyzing",
-        "analyzed",
-        "are analyzed",
-        "analyze"
+        "$3$",
+        "$4$",
+        "$5$",
+        "$25$"
       ],
-      "correctAnswer": "analyzed",
-      "section": "English",
+      "correctAnswer": "$5$",
+      "section": "Math",
       "difficulty": "hard",
-      "domain": "Standard English Conventions"
+      "domain": "Geometry and Trigonometry"
     },
     {
       "id": 50,
-      "question": "A triangle has base 10 and height 6. What is its area?",
+      "question": "A store marks up a jacket by $40\\%$ and then offers a $25\\%$ discount on the marked-up price. What is the final price as a multiple of the original?",
       "options": [
-        "60",
-        "16",
-        "24",
-        "30"
+        "$1.05$",
+        "$1.25$",
+        "$1.40$",
+        "$0.75$"
       ],
-      "correctAnswer": "30",
+      "correctAnswer": "$1.05$",
       "section": "Math",
-      "difficulty": "easy",
-      "domain": "Geometry and Trigonometry"
+      "difficulty": "hard",
+      "domain": "Problem-Solving and Data Analysis"
     }
   ]
 }
